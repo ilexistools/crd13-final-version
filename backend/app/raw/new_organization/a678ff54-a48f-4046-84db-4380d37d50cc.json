@@ -1,0 +1,582 @@
+{
+  "document": {
+    "id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+    "type": "CODEX",
+    "document_type": "Standards",
+    "reference": "CXS 231-2001",
+    "year": "2001",
+    "title": "General Methods for the Detection of Irradiated Foods",
+    "label": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+    "committee": "CCMAS",
+    "last_modified": "2003",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXS%2B231-2001%252FCXS_231e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "Food Processing and Production"
+    ]
+  },
+  "commodities": [
+    {
+      "name": "irradiated foods",
+      "terms": [
+        "foods processed by ionizing radiation",
+        "irradiated food",
+        "foods exposed to doses imparted by measuring instruments",
+        "irradiation of food",
+        "irradiated low moisture foods (cereals, pulses, dehydrated foods)",
+        "detection of irradiated foods",
+        "prepackaged irradiated food",
+        "prepackaged food",
+        "bulk irradiated products",
+        "products treated with ionizing radiation",
+        "food containing fat",
+        "food containing bone",
+        "food containing cellulose",
+        "food containing silicate minerals",
+        "food containing crystalline sugar",
+        "herb, spices and raw minced meat",
+        "food containing dna"
+      ],
+      "sources": {
+        "documents_info": true,
+        "commodities_index": true
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "1 The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, Section 1, p. 1",
+      "text": "",
+      "retrieval_text": "1 The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003\nnumber=1\nlevel=1",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 279,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS WERE ADOPTED BY THE 24TH SESSION OF THE CODEX ALIMENTARIUS COMMISSION IN 2001AND REVISED BY ITS 26TH SESSION IN 2003",
+        "process_candidates": [
+          "The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+          "1 The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+        "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+        "document_reference": "CXS 231-2001",
+        "document_title": "General Methods for the Detection of Irradiated Foods",
+        "document_type": "Standards",
+        "section": "1 - The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "1 The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, Section 1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS WERE ADOPTED BY THE 24TH SESSION OF THE CODEX ALIMENTARIUS COMMISSION IN 2001AND REVISED BY ITS 26TH SESSION IN 2003",
+        "process_candidates": [
+          "The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+          "1 The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+        "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+        "document_reference": "CXS 231-2001",
+        "document_title": "General Methods for the Detection of Irradiated Foods",
+        "document_type": "Standards",
+        "section": "1 - The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "1 The General Methods for the Detection of Irradiated Foods were adopted by the 24th Session of the Codex Alimentarius Commission in 2001and revised by its 26th Session in 2003"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, Section 1, p. 1"
+      }
+    },
+    {
+      "id": "path_titles::general methods for the detection of irradiated foods::lvl1",
+      "key": "path_titles::general methods for the detection of irradiated foods::lvl1",
+      "raw_id": "path_titles::general methods for the detection of irradiated foods::lvl1",
+      "number": null,
+      "title": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS, p. 1",
+      "text": "Provision Commodity Method Principle Type Detection of irradiated food Food containing fat EN 1784:1996 Gas chromatographic analysis of hydrocarbons Type II Detection of irradiated food Food containing fat EN 1785:1996 Gas chromatographic/spectrophotometric analysis of 2/alkylcyclobutanones Type III Detection of irradiated food Food containing bone EN 1786:1996 ESR spectroscopy Type II Detection of irradiated food Food containing cellulose EN 1787:2000 ESR spectroscopy Type II Detection of irradiated food Food containing silicate minerals EN 1788:2001 Thermoluminescence Type II Detection of irradiated food Food containing silicate minerals EN 13751:2002 Photostimulated luminescence Type III Detection of irradiated food Food containing crystalline sugar EN 13708:2001 ESR spectroscopy Type II Detection of irradiated food Herb, spices and raw minced meat EN 13783:2001 NMKL 137 (2002) Direct Epifluorescent Filter Technique/Aerobic Plate Count (DEFT/APC) (screening method) Type III Detection of irradiated food Food containing DNA EN 13784:2001 DNA comet assay (screening method) Type III",
+      "retrieval_text": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS\nlevel=1\nProvision Commodity Method Principle Type Detection of irradiated food Food containing fat EN 1784:1996 Gas chromatographic analysis of hydrocarbons Type II Detection of irradiated food Food containing fat EN 1785:1996 Gas chromatographic/spectrophotometric analysis of 2/alkylcyclobutanones Type III Detection of irradiated food Food containing bone EN 1786:1996 ESR spectroscopy Type II Detection of irradiated food Food containing cellulose EN 1787:2000 ESR spectroscopy Type II Detection of irradiated food Food containing silicate minerals EN 1788:2001 Thermoluminescence Type II Detection of irradiated food Food containing silicate minerals EN 13751:2002 Photostimulated luminescence Type III Detection of irradiated food Food containing crystalline sugar EN 13708:2001 ESR spectroscopy Type II Detection of irradiated food Herb, spices and raw minced meat EN 13783:2001 NMKL 137 (2002) Direct Epifluorescent Filter Technique/Aerobic Plate Count (DEFT/APC) (screening method) Type III Detection of irradiated food Food containing DNA EN 13784:2001 DNA comet assay (screening method) Type III",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Provision Commodity Method Principle Type Detection of irradiated food Food containing fat EN 1784:1996 Gas chromatographic analysis of hydrocarbons Type II Detection of irradiated food Food containing fat EN 1785:1996 Gas chromatographic/spectrophotometric analysis of 2/alkylcyclobutanones Type III Detection of irradiated food Food containing bone EN 1786:1996 ESR spectroscopy Type II Detection of irradiated food Food containing cellulose EN 1787:2000 ESR spectroscopy Type II Detection of irradiated food Food containing silicate minerals EN 1788:2001 Thermoluminescence Type II Detection of irradiated food Food containing silicate minerals EN 13751:2002 Photostimulated luminescence Type III Detection of irradiated food Food containing crystalline sugar EN 13708:2001 ESR spectroscopy Type II Detection of irradiated food Herb, spices and raw minced meat EN 13783:2001 NMKL 137 (2002) Direct Epifluorescent Filter Technique/Aerobic Plate Count (DEFT/APC) (screening method) Type III Detection of irradiated food Food containing DNA EN 13784:2001 DNA comet assay (screening method) Type III"
+        }
+      ],
+      "rag": {
+        "rag_id": 279,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+        "process_candidates": [
+          "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+        "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+        "document_reference": "CXS 231-2001",
+        "document_title": "General Methods for the Detection of Irradiated Foods",
+        "document_type": "Standards",
+        "section": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+        "section_id": "path_titles::general methods for the detection of irradiated foods::lvl1",
+        "section_number": null,
+        "section_title": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+        "process_candidates": [
+          "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+        "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+        "document_reference": "CXS 231-2001",
+        "document_title": "General Methods for the Detection of Irradiated Foods",
+        "document_type": "Standards",
+        "section": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+        "section_id": "path_titles::general methods for the detection of irradiated foods::lvl1",
+        "section_number": null,
+        "section_title": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS, p. 1"
+      }
+    },
+    {
+      "id": "279",
+      "key": "279",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 1,
+          "original": "Provision Commodity Method Principle Type Detection of irradiated food Food containing fat EN 1784:1996 Gas chromatographic analysis of hydrocarbons Type II Detection of irradiated food Food containing fat EN 1785:1996 Gas chromatographic/spectrophotometric analysis of 2/alkylcyclobutanones Type III Detection of irradiated food Food containing bone EN 1786:1996 ESR spectroscopy Type II Detection of irradiated food Food containing cellulose EN 1787:2000 ESR spectroscopy Type II Detection of irradiated food Food containing silicate minerals EN 1788:2001 Thermoluminescence Type II Detection of irradiated food Food containing silicate minerals EN 13751:2002 Photostimulated luminescence Type III Detection of irradiated food Food containing crystalline sugar EN 13708:2001 ESR spectroscopy",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Includes technical details relevant to food irradiation detection methods; no prohibited content.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Type II Detection of irradiated food Herb, spices and raw minced meat EN 13783:2001 NMKL 137 (2002) Direct Epifluorescent Filter Technique/Aerobic Plate Count (DEFT/APC) (screening method) Type III Detection of irradiated food Food containing DNA EN 13784:2001 DNA comet assay (screening method) Type III",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Technical Specification Listing",
+            "modality": "undefined",
+            "function": "Informative Specification Listing",
+            "pattern": "Sequential listing of detection types, commodities, standard references, and analytical methods with annotations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Provision": "Detection of irradiated food",
+              "Commodity": [
+                "Herb, spices and raw minced meat",
+                "Food containing DNA"
+              ],
+              "Standard References": [
+                "EN 13783:2001",
+                "NMKL 137 (2002)",
+                "EN 13784:2001"
+              ],
+              "Methods": [
+                "Direct Epifluorescent Filter Technique/Aerobic Plate Count (DEFT/APC) (screening method)",
+                "DNA comet assay (screening method)"
+              ],
+              "Type": [
+                "Type II",
+                "Type III"
+              ]
+            },
+            "justification": "This sentence lists normative detection methods and standards for irradiated food with no indicative modality or prescriptive function; it acts as an informative catalog. No strong match to known templates.",
+            "notes": [
+              "Compound sentence with multiple detection types and methods combined in one text."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "TECHNICAL SPECIFICATION LISTING",
+            "subject_candidates": [
+              "TECHNICAL SPECIFICATION LISTING",
+              "IRRADIATED FOODS",
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+            ],
+            "process": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "process_candidates": [
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+            "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+            "document_reference": "CXS 231-2001",
+            "document_title": "General Methods for the Detection of Irradiated Foods",
+            "document_type": "Standards",
+            "section": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "section_id": "path_titles::general methods for the detection of irradiated foods::lvl1",
+            "section_number": null,
+            "section_title": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "TECHNICAL SPECIFICATION LISTING",
+            "subject_candidates": [
+              "TECHNICAL SPECIFICATION LISTING",
+              "IRRADIATED FOODS",
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+            ],
+            "process": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "process_candidates": [
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+            "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+            "document_reference": "CXS 231-2001",
+            "document_title": "General Methods for the Detection of Irradiated Foods",
+            "document_type": "Standards",
+            "section": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "section_id": "path_titles::general methods for the detection of irradiated foods::lvl1",
+            "section_number": null,
+            "section_title": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Type II Detection of irradiated food Herb, spices and raw minced meat EN 13783:2001 NMKL 137 (2002) Direct Epifluorescent Filter Technique/Aerobic Plate Count (DEFT/APC) (screening method) Type III Detection of irradiated food Food containing DNA EN 13784:2001 DNA comet assay (screening method) Type III",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Includes technical details relevant to food irradiation detection methods; no prohibited content.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Type II Detection of irradiated food Herb, spices and raw minced meat EN 13783:2001 NMKL 137 (2002) Direct Epifluorescent Filter Technique/Aerobic Plate Count (DEFT/APC) (screening method) Type III Detection of irradiated food Food containing DNA EN 13784:2001 DNA comet assay (screening method) Type III",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Technical Specification Listing",
+            "modality": "undefined",
+            "function": "Informative Specification Listing",
+            "pattern": "Sequential listing of detection types, commodities, standard references, and analytical methods with annotations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Provision": "Detection of irradiated food",
+              "Commodity": [
+                "Herb, spices and raw minced meat",
+                "Food containing DNA"
+              ],
+              "Standard References": [
+                "EN 13783:2001",
+                "NMKL 137 (2002)",
+                "EN 13784:2001"
+              ],
+              "Methods": [
+                "Direct Epifluorescent Filter Technique/Aerobic Plate Count (DEFT/APC) (screening method)",
+                "DNA comet assay (screening method)"
+              ],
+              "Type": [
+                "Type II",
+                "Type III"
+              ]
+            },
+            "justification": "This sentence lists normative detection methods and standards for irradiated food with no indicative modality or prescriptive function; it acts as an informative catalog. No strong match to known templates.",
+            "notes": [
+              "Compound sentence with multiple detection types and methods combined in one text."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "TECHNICAL SPECIFICATION LISTING",
+            "subject_candidates": [
+              "TECHNICAL SPECIFICATION LISTING",
+              "IRRADIATED FOODS",
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+            ],
+            "process": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "process_candidates": [
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+            "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+            "document_reference": "CXS 231-2001",
+            "document_title": "General Methods for the Detection of Irradiated Foods",
+            "document_type": "Standards",
+            "section": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "section_id": "path_titles::general methods for the detection of irradiated foods::lvl1",
+            "section_number": null,
+            "section_title": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "TECHNICAL SPECIFICATION LISTING",
+            "subject_candidates": [
+              "TECHNICAL SPECIFICATION LISTING",
+              "IRRADIATED FOODS",
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+            ],
+            "process": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "process_candidates": [
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+            "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+            "document_reference": "CXS 231-2001",
+            "document_title": "General Methods for the Detection of Irradiated Foods",
+            "document_type": "Standards",
+            "section": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "section_id": "path_titles::general methods for the detection of irradiated foods::lvl1",
+            "section_number": null,
+            "section_title": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "a678ff54-a48f-4046-84db-4380d37d50cc, GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+        "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+        "document_reference": "CXS 231-2001",
+        "document_title": "General Methods for the Detection of Irradiated Foods",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "279",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 231-2001 - General Methods for the Detection of Irradiated Foods",
+        "document_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+        "document_reference": "CXS 231-2001",
+        "document_title": "General Methods for the Detection of Irradiated Foods",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "279",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CODEX STAN 231 Page 1of 1",
+      "title": "GENERAL METHODS FOR THE DETECTION OF IRRADIATED FOODS",
+      "summary": "Página contém o título principal do documento como nível 1, seguido de uma nota numerada 1 como outro nível 1. Texto associado à seção principal lista métodos de detecção de alimentos irradiados. Estrutura simples na página sem subdivisões claras.",
+      "total_sections": 2,
+      "sections": [
+        "1",
+        "2"
+      ]
+    }
+  ]
+}

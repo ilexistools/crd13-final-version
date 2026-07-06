@@ -1,0 +1,3678 @@
+{
+  "document": {
+    "id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 70-2009",
+    "year": "2009",
+    "title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+    "label": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+    "committee": "CCMAS",
+    "last_modified": "2009",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B70-2009%252Fcxg_070e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "Cross-cutting Processes"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "SCOPE"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        },
+        {
+          "page": 4,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1",
+      "text": "These guidelines provide guidance to governments on the procedures to resolve disputes which arise between food control authorities about the status of a food consignment 1, when the assessment based on test results made in the importing country disagrees with the assessment made by the exporting country on the same lot2. These guidelines only address disputes related to methods of analysis or laboratory performance and do not address questions of sampling. The procedure examines only the validity of the importing country’s results on which non-compliance is alleged. It is recognised that disputes may arise from other cause(s), which should also be investigated3. These guidelines do not cover microbiological test results.",
+      "retrieval_text": "SCOPE\nnumber=1\nlevel=1\nThese guidelines provide guidance to governments on the procedures to resolve disputes which arise between food control authorities about the status of a food consignment 1, when the assessment based on test results made in the importing country disagrees with the assessment made by the exporting country on the same lot2. These guidelines only address disputes related to methods of analysis or laboratory performance and do not address questions of sampling. The procedure examines only the validity of the importing country’s results on which non-compliance is alleged. It is recognised that disputes may arise from other cause(s), which should also be investigated3. These guidelines do not cover microbiological test results.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "These guidelines provide guidance to governments on the procedures to resolve disputes which arise between food control authorities about the status of a food consignment 1, when the assessment based on test results made in the importing country disagrees with the assessment made by the exporting country on the same lot2. These guidelines only address disputes related to methods of analysis or laboratory performance and do not address questions of sampling. The procedure examines only the validity of the importing country’s results on which non-compliance is alleged. It is recognised that disputes may arise from other cause(s), which should also be investigated3. These guidelines do not cover microbiological test results."
+        }
+      ],
+      "rag": {
+        "rag_id": 160,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "1 - SCOPE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "1 - SCOPE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+      }
+    },
+    {
+      "id": "2",
+      "key": "num::2",
+      "raw_id": "num::2",
+      "number": "2",
+      "title": "PREREQUISITES/ASSUMPTIONS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "PREREQUISITES/ASSUMPTIONS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": true,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1",
+      "text": "The procedure described in these guidelines is operable and effective only when the conditions listed below are met. Competent authorities should therefore ensure that these are satisfied wherever possible. These conditions are: • both countries agree on using this guideline; • laboratories4 comply with quality assurance provisions and with the Codex Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and the Export of Food (CAC-GL 27), and the laboratories have been designated by their respective Competent Authorities in both the importing and exporting countries; • at least one representative sample 5 from the same food lot has been taken by the Competent Authority at import in accordance with established sampling plans and/or good sampling practices, where applicable; this sample has been split into three essentially identical parts for the purposes of primary analysis and for confirmatory analysis (reserve samples) 6; the split reserve samples should be kept in a satisfactory condition for the appropriate length of time;",
+      "retrieval_text": "PREREQUISITES/ASSUMPTIONS\nnumber=2\nlevel=1\nThe procedure described in these guidelines is operable and effective only when the conditions listed below are met. Competent authorities should therefore ensure that these are satisfied wherever possible. These conditions are: • both countries agree on using this guideline; • laboratories4 comply with quality assurance provisions and with the Codex Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and the Export of Food (CAC-GL 27), and the laboratories have been designated by their respective Competent Authorities in both the importing and exporting countries; • at least one representative sample 5 from the same food lot has been taken by the Competent Authority at import in accordance with established sampling plans and/or good sampling practices, where applicable; this sample has been split into three essentially identical parts for the purposes of primary analysis and for confirmatory analysis (reserve samples) 6; the split reserve samples should be kept in a satisfactory condition for the appropriate length of time;",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The procedure described in these guidelines is operable and effective only when the conditions listed below are met. Competent authorities should therefore ensure that these are satisfied wherever possible. These conditions are: • both countries agree on using this guideline; • laboratories4 comply with quality assurance provisions and with the Codex Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and the Export of Food (CAC-GL 27), and the laboratories have been designated by their respective Competent Authorities in both the importing and exporting countries; • at least one representative sample 5 from the same food lot has been taken by the Competent Authority at import in accordance with established sampling plans and/or good sampling practices, where applicable; this sample has been split into three essentially identical parts for the purposes of primary analysis and for confirmatory analysis (reserve samples) 6; the split reserve samples should be kept in a satisfactory condition for the appropriate length of time;"
+        }
+      ],
+      "rag": {
+        "rag_id": 160,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PREREQUISITES/ASSUMPTIONS",
+        "process_candidates": [
+          "PREREQUISITES/ASSUMPTIONS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "2 - PREREQUISITES/ASSUMPTIONS",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "PREREQUISITES/ASSUMPTIONS",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "PREREQUISITES/ASSUMPTIONS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PREREQUISITES/ASSUMPTIONS",
+        "process_candidates": [
+          "PREREQUISITES/ASSUMPTIONS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "2 - PREREQUISITES/ASSUMPTIONS",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "PREREQUISITES/ASSUMPTIONS",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "PREREQUISITES/ASSUMPTIONS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+      }
+    },
+    {
+      "id": "3",
+      "key": "num::3",
+      "raw_id": "num::3",
+      "number": "3",
+      "title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 1,
+          "is_continuation_from_previous_page": true,
+          "continues_on_next_page": true,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2",
+      "text": "The competent authorities have the option to agree on comparison of the background information of the analysis of the sample. In accordance with relevant Codex Guidelines, the following information should be shared between competent authorities of the importing and exporting country to allow comparison of the results and procedures of the laboratory of the exporting country and its counterpart in the importing country. The relevant information covers:\n• validation status of the methods of analysis used (including method-specific sample handling and preparation procedures within the laboratory);\n• raw data (including spectral data, calculations, chemical standards used);\n• results of repeat analysis;\n• internal quality assurance/control (control charts, sequence of analysis, blank data, recovery data, uncertainty data, use of appropriate reference standards and materials);\n• performance in relevant proficiency testing or collaborative studies;\n• official accreditation status of the laboratories.\nEach competent authority reviews its initial assessment on the basis of the additional information received from the other. This may lead to agreement on conformity or agreement on non-conformity, e.g. by recognising the validity of the results of only one of the two laboratories. In this way, the dispute is resolved without further analysis.\n\n7 In cases where a dispute needs to be resolved quickly, for instance where perishable food is in question or where demurrage costs are high, it is recommended that the competent authorities should consider performing the steps outlined in sections 3 and 4 in parallel.\n8 See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+      "retrieval_text": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED\nnumber=3\nlevel=1\nThe competent authorities have the option to agree on comparison of the background information of the analysis of the sample. In accordance with relevant Codex Guidelines, the following information should be shared between competent authorities of the importing and exporting country to allow comparison of the results and procedures of the laboratory of the exporting country and its counterpart in the importing country. The relevant information covers:\n• validation status of the methods of analysis used (including method-specific sample handling and preparation procedures within the laboratory);\n• raw data (including spectral data, calculations, chemical standards used);\n• results of repeat analysis;\n• internal quality assurance/control (control charts, sequence of analysis, blank data, recovery data, uncertainty data, use of appropriate reference standards and materials);\n• performance in relevant proficiency testing or collaborative studies;\n• official accreditation status of the laboratories.\nEach competent authority reviews its initial assessment on the basis of the additional information received from the other. This may lead to agreement on conformity or agreement on non-conformity, e.g. by recognising the validity of the results of only one of the two laboratories. In this way, the dispute is resolved without further analysis.\n\n7 In cases where a dispute needs to be resolved quickly, for instance where perishable food is in question or where demurrage costs are high, it is recommended that the competent authorities should consider performing the steps outlined in sections 3 and 4 in parallel.\n8 See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "The competent authorities have the option to agree on comparison of the background information of the analysis of the sample. In accordance with relevant Codex Guidelines, the following information should be shared between competent authorities of the importing and exporting country to allow comparison of the results and procedures of the laboratory of the exporting country and its counterpart in the importing country. The relevant information covers:\n• validation status of the methods of analysis used (including method-specific sample handling and preparation procedures within the laboratory);\n• raw data (including spectral data, calculations, chemical standards used);\n• results of repeat analysis;\n• internal quality assurance/control (control charts, sequence of analysis, blank data, recovery data, uncertainty data, use of appropriate reference standards and materials);\n• performance in relevant proficiency testing or collaborative studies;\n• official accreditation status of the laboratories.\nEach competent authority reviews its initial assessment on the basis of the additional information received from the other. This may lead to agreement on conformity or agreement on non-conformity, e.g. by recognising the validity of the results of only one of the two laboratories. In this way, the dispute is resolved without further analysis.\n\n7 In cases where a dispute needs to be resolved quickly, for instance where perishable food is in question or where demurrage costs are high, it is recommended that the competent authorities should consider performing the steps outlined in sections 3 and 4 in parallel.\n8 See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\""
+        }
+      ],
+      "rag": {
+        "rag_id": 160,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+        "process_candidates": [
+          "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+        "process_candidates": [
+          "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+      }
+    },
+    {
+      "id": "4",
+      "key": "num::4",
+      "raw_id": "num::4",
+      "number": "4",
+      "title": "ANALYSING RESERVE SAMPLE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "4"
+      ],
+      "path_titles": [
+        "ANALYSING RESERVE SAMPLE"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": true,
+          "continues_on_next_page": true,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3",
+      "text": "A reserve sample is analysed, subject to it being estab lished that sample integrity and the chain of custody have not been compromised and subject to agreemen t between the respective competent authorities on the following procedures for analysis of the sample(s): 1. the timeline, and the time of availability of the sample9; 2. the analysis of the reserve sample by either the importing country’s laboratory in the presence of an expert from the exporting country or a laboratory chosen by the exporting country; 3. the methods of analysis to be used by the laboratory. If the original test result of the importing country and the result of the reserve sa mple differ by less than the critical difference Δ  that would be expected from measurement uncertainty of the results (see Annex), the importing country’s original assessment of the lot shall stand, and the dispute is thus resolved. If the dispute still exists, the measures outlined in section 5 of this procedure, using arbitration by a third laboratory, should be applied.",
+      "retrieval_text": "ANALYSING RESERVE SAMPLE\nnumber=4\nlevel=1\nA reserve sample is analysed, subject to it being estab lished that sample integrity and the chain of custody have not been compromised and subject to agreemen t between the respective competent authorities on the following procedures for analysis of the sample(s): 1. the timeline, and the time of availability of the sample9; 2. the analysis of the reserve sample by either the importing country’s laboratory in the presence of an expert from the exporting country or a laboratory chosen by the exporting country; 3. the methods of analysis to be used by the laboratory. If the original test result of the importing country and the result of the reserve sa mple differ by less than the critical difference Δ  that would be expected from measurement uncertainty of the results (see Annex), the importing country’s original assessment of the lot shall stand, and the dispute is thus resolved. If the dispute still exists, the measures outlined in section 5 of this procedure, using arbitration by a third laboratory, should be applied.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "A reserve sample is analysed, subject to it being estab lished that sample integrity and the chain of custody have not been compromised and subject to agreemen t between the respective competent authorities on the following procedures for analysis of the sample(s): 1. the timeline, and the time of availability of the sample9; 2. the analysis of the reserve sample by either the importing country’s laboratory in the presence of an expert from the exporting country or a laboratory chosen by the exporting country; 3. the methods of analysis to be used by the laboratory. If the original test result of the importing country and the result of the reserve sa mple differ by less than the critical difference Δ  that would be expected from measurement uncertainty of the results (see Annex), the importing country’s original assessment of the lot shall stand, and the dispute is thus resolved. If the dispute still exists, the measures outlined in section 5 of this procedure, using arbitration by a third laboratory, should be applied."
+        }
+      ],
+      "rag": {
+        "rag_id": 160,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANALYSING RESERVE SAMPLE",
+        "process_candidates": [
+          "ANALYSING RESERVE SAMPLE",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "4 - ANALYSING RESERVE SAMPLE",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "ANALYSING RESERVE SAMPLE",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "ANALYSING RESERVE SAMPLE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANALYSING RESERVE SAMPLE",
+        "process_candidates": [
+          "ANALYSING RESERVE SAMPLE",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "4 - ANALYSING RESERVE SAMPLE",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "ANALYSING RESERVE SAMPLE",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "ANALYSING RESERVE SAMPLE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+      }
+    },
+    {
+      "id": "5",
+      "key": "num::5",
+      "raw_id": "num::5",
+      "number": "5",
+      "title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "5"
+      ],
+      "path_titles": [
+        "ANALYSIS OF REMAINING RESERVE SAMPLE"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": true,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3",
+      "text": "The remaining reserve sample should be analysed by  a suitably qualified laboratory agreed on by the two countries, and a final assessment of conformity is based on the results from this laboratory. Failing agreement on the choice of laboratory the competen t authority of the importing country can select a laboratory. The original result and th e result from the reserve sample tested  in the step outlined in section 4 are discarded. If possible this laboratory should be i ndependent of the laboratory or laboratories whose results were compared in the step in section 4. 9 The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate.",
+      "retrieval_text": "ANALYSIS OF REMAINING RESERVE SAMPLE\nnumber=5\nlevel=1\nThe remaining reserve sample should be analysed by  a suitably qualified laboratory agreed on by the two countries, and a final assessment of conformity is based on the results from this laboratory. Failing agreement on the choice of laboratory the competen t authority of the importing country can select a laboratory. The original result and th e result from the reserve sample tested  in the step outlined in section 4 are discarded. If possible this laboratory should be i ndependent of the laboratory or laboratories whose results were compared in the step in section 4. 9 The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "The remaining reserve sample should be analysed by  a suitably qualified laboratory agreed on by the two countries, and a final assessment of conformity is based on the results from this laboratory. Failing agreement on the choice of laboratory the competen t authority of the importing country can select a laboratory. The original result and th e result from the reserve sample tested  in the step outlined in section 4 are discarded. If possible this laboratory should be i ndependent of the laboratory or laboratories whose results were compared in the step in section 4. 9 The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate."
+        }
+      ],
+      "rag": {
+        "rag_id": 160,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+        "process_candidates": [
+          "ANALYSIS OF REMAINING RESERVE SAMPLE",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "ANALYSIS OF REMAINING RESERVE SAMPLE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+        "process_candidates": [
+          "ANALYSIS OF REMAINING RESERVE SAMPLE",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "ANALYSIS OF REMAINING RESERVE SAMPLE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+      }
+    },
+    {
+      "id": "path_titles::annex::lvl1",
+      "key": "path_titles::annex::lvl1",
+      "raw_id": "path_titles::annex::lvl1",
+      "number": null,
+      "title": "ANNEX",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "ANNEX"
+      ],
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "page_refs": [],
+      "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, ANNEX, p. 4",
+      "text": "The critical difference Δ between the two results to be compared is \n2\n2\n2\n1 U U+ = Δ  \nWhere U1 and U2 are the expanded measurement uncertainties of the two results. \n\nIn case a set of samples is involved, a different formulation for the critical difference should be used.",
+      "retrieval_text": "ANNEX\nlevel=1\nThe critical difference Δ between the two results to be compared is \n2\n2\n2\n1 U U+ = Δ  \nWhere U1 and U2 are the expanded measurement uncertainties of the two results. \n\nIn case a set of samples is involved, a different formulation for the critical difference should be used.",
+      "page_spans": [
+        {
+          "page": 4,
+          "text": "The critical difference Δ between the two results to be compared is \n2\n2\n2\n1 U U+ = Δ  \nWhere U1 and U2 are the expanded measurement uncertainties of the two results. \n\nIn case a set of samples is involved, a different formulation for the critical difference should be used."
+        }
+      ],
+      "rag": {
+        "rag_id": 160,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANNEX",
+        "process_candidates": [
+          "ANNEX",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "ANNEX",
+        "section_id": "path_titles::annex::lvl1",
+        "section_number": null,
+        "section_title": "ANNEX",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "ANNEX"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, ANNEX, p. 4"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANNEX",
+        "process_candidates": [
+          "ANNEX",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "ANNEX",
+        "section_id": "path_titles::annex::lvl1",
+        "section_number": null,
+        "section_title": "ANNEX",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "ANNEX"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, ANNEX, p. 4"
+      }
+    },
+    {
+      "id": "160",
+      "key": "160",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "These guidelines provide guidance to governments on the procedures to resolve disputes which arise between food control authorities about the status of a food consignment 1, when the assessment based on test results made in the importing country disagrees with the assessment made by the exporting country on the same lot2.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The scope exclusion is relevant for understanding the coverage of the guidelines.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "These guidelines do not cover microbiological test results.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "General Guidance",
+            "modality": "Prohibition",
+            "function": "Exclusion",
+            "pattern": "Negative main clause with object",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "These guidelines",
+              "exclusion": "microbiological test results"
+            },
+            "justification": "Expresses exclusion or prohibition by negation; conservative classification as prohibition.",
+            "notes": [
+              "Defines scope exclusion by negation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "These guidelines only address disputes related to methods of analysis or laboratory performance and do not address questions of sampling.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The scope exclusion is relevant for understanding the coverage of the guidelines.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "These guidelines do not cover microbiological test results.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "General Guidance",
+            "modality": "Prohibition",
+            "function": "Exclusion",
+            "pattern": "Negative main clause with object",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "These guidelines",
+              "exclusion": "microbiological test results"
+            },
+            "justification": "Expresses exclusion or prohibition by negation; conservative classification as prohibition.",
+            "notes": [
+              "Defines scope exclusion by negation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "The procedure examines only the validity of the importing country’s results on which non-compliance is alleged.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The scope exclusion is relevant for understanding the coverage of the guidelines.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "These guidelines do not cover microbiological test results.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "General Guidance",
+            "modality": "Prohibition",
+            "function": "Exclusion",
+            "pattern": "Negative main clause with object",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "These guidelines",
+              "exclusion": "microbiological test results"
+            },
+            "justification": "Expresses exclusion or prohibition by negation; conservative classification as prohibition.",
+            "notes": [
+              "Defines scope exclusion by negation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "It is recognised that disputes may arise from other cause(s), which should also be investigated3.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The scope exclusion is relevant for understanding the coverage of the guidelines.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "These guidelines do not cover microbiological test results.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "General Guidance",
+            "modality": "Prohibition",
+            "function": "Exclusion",
+            "pattern": "Negative main clause with object",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "These guidelines",
+              "exclusion": "microbiological test results"
+            },
+            "justification": "Expresses exclusion or prohibition by negation; conservative classification as prohibition.",
+            "notes": [
+              "Defines scope exclusion by negation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "These guidelines do not cover microbiological test results.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The scope exclusion is relevant for understanding the coverage of the guidelines.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "These guidelines do not cover microbiological test results.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "General Guidance",
+            "modality": "Prohibition",
+            "function": "Exclusion",
+            "pattern": "Negative main clause with object",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "These guidelines",
+              "exclusion": "microbiological test results"
+            },
+            "justification": "Expresses exclusion or prohibition by negation; conservative classification as prohibition.",
+            "notes": [
+              "Defines scope exclusion by negation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "GENERAL GUIDANCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "The procedure described in these guidelines is operable and effective only when the conditions listed below are met.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "These conditions are: • both countries agree on using this guideline; • laboratories4 comply with quality assurance provisions and with the Codex Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and the Export of Food (CAC-GL 27), and the laboratories have been designated by their respective Competent Authorities in both the importing and exporting countries; • at least one representative sample 5 from the same food lot has been taken by the Competent Authority at import in accordance with established sampling plans and/or good sampling practices, where applicable; this sample has been split into three essentially identical parts for the purposes of primary analysis and for confirmatory analysis (reserve samples) 6; the split reserve samples should be kept in a satisfactory condition for the appropriate length of time;",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Specification of Conditions/Requirements",
+            "pattern": "Enumeration of conjoined conditions with modal and indicative clauses",
+            "template_match_score": 0.65,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition1": "both countries agree on using this guideline",
+              "condition2": "laboratories comply with quality assurance provisions and Codex guidelines and designated by authorities",
+              "condition3": "representative sample taken per plans and split into parts for analysis",
+              "condition4": "split reserve samples should be kept in satisfactory condition"
+            },
+            "justification": "This sentence enumerates explicit normative requirements mostly expressed declaratively with some using modal 'should', outlining multiple necessary conditions; fits obligation modality with partial template adaptation.",
+            "notes": [
+              "Enumerated conditions with mixed modality; complex informative-obligation hybrid."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "process": "PREREQUISITES/ASSUMPTIONS",
+            "process_candidates": [
+              "PREREQUISITES/ASSUMPTIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "2 - PREREQUISITES/ASSUMPTIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "PREREQUISITES/ASSUMPTIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "process": "PREREQUISITES/ASSUMPTIONS",
+            "process_candidates": [
+              "PREREQUISITES/ASSUMPTIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "2 - PREREQUISITES/ASSUMPTIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "PREREQUISITES/ASSUMPTIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Competent authorities should therefore ensure that these are satisfied wherever possible.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "These conditions are: • both countries agree on using this guideline; • laboratories4 comply with quality assurance provisions and with the Codex Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and the Export of Food (CAC-GL 27), and the laboratories have been designated by their respective Competent Authorities in both the importing and exporting countries; • at least one representative sample 5 from the same food lot has been taken by the Competent Authority at import in accordance with established sampling plans and/or good sampling practices, where applicable; this sample has been split into three essentially identical parts for the purposes of primary analysis and for confirmatory analysis (reserve samples) 6; the split reserve samples should be kept in a satisfactory condition for the appropriate length of time;",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Specification of Conditions/Requirements",
+            "pattern": "Enumeration of conjoined conditions with modal and indicative clauses",
+            "template_match_score": 0.65,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition1": "both countries agree on using this guideline",
+              "condition2": "laboratories comply with quality assurance provisions and Codex guidelines and designated by authorities",
+              "condition3": "representative sample taken per plans and split into parts for analysis",
+              "condition4": "split reserve samples should be kept in satisfactory condition"
+            },
+            "justification": "This sentence enumerates explicit normative requirements mostly expressed declaratively with some using modal 'should', outlining multiple necessary conditions; fits obligation modality with partial template adaptation.",
+            "notes": [
+              "Enumerated conditions with mixed modality; complex informative-obligation hybrid."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "process": "PREREQUISITES/ASSUMPTIONS",
+            "process_candidates": [
+              "PREREQUISITES/ASSUMPTIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "2 - PREREQUISITES/ASSUMPTIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "PREREQUISITES/ASSUMPTIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "process": "PREREQUISITES/ASSUMPTIONS",
+            "process_candidates": [
+              "PREREQUISITES/ASSUMPTIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "2 - PREREQUISITES/ASSUMPTIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "PREREQUISITES/ASSUMPTIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "These conditions are: • both countries agree on using this guideline; • laboratories4 comply with quality assurance provisions and with the Codex Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and the Export of Food (CAC-GL 27), and the laboratories have been designated by their respective Competent Authorities in both the importing and exporting countries; • at least one representative sample 5 from the same food lot has been taken by the Competent Authority at import in accordance with established sampling plans and/or good sampling practices, where applicable; this sample has been split into three essentially identical parts for the purposes of primary analysis and for confirmatory analysis (reserve samples) 6; the split reserve samples should be kept in a satisfactory condition for the appropriate length of time;",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "These conditions are: • both countries agree on using this guideline; • laboratories4 comply with quality assurance provisions and with the Codex Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and the Export of Food (CAC-GL 27), and the laboratories have been designated by their respective Competent Authorities in both the importing and exporting countries; • at least one representative sample 5 from the same food lot has been taken by the Competent Authority at import in accordance with established sampling plans and/or good sampling practices, where applicable; this sample has been split into three essentially identical parts for the purposes of primary analysis and for confirmatory analysis (reserve samples) 6; the split reserve samples should be kept in a satisfactory condition for the appropriate length of time;",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Specification of Conditions/Requirements",
+            "pattern": "Enumeration of conjoined conditions with modal and indicative clauses",
+            "template_match_score": 0.65,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition1": "both countries agree on using this guideline",
+              "condition2": "laboratories comply with quality assurance provisions and Codex guidelines and designated by authorities",
+              "condition3": "representative sample taken per plans and split into parts for analysis",
+              "condition4": "split reserve samples should be kept in satisfactory condition"
+            },
+            "justification": "This sentence enumerates explicit normative requirements mostly expressed declaratively with some using modal 'should', outlining multiple necessary conditions; fits obligation modality with partial template adaptation.",
+            "notes": [
+              "Enumerated conditions with mixed modality; complex informative-obligation hybrid."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "process": "PREREQUISITES/ASSUMPTIONS",
+            "process_candidates": [
+              "PREREQUISITES/ASSUMPTIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "2 - PREREQUISITES/ASSUMPTIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "PREREQUISITES/ASSUMPTIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "process": "PREREQUISITES/ASSUMPTIONS",
+            "process_candidates": [
+              "PREREQUISITES/ASSUMPTIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "2 - PREREQUISITES/ASSUMPTIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "PREREQUISITES/ASSUMPTIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 2,
+          "original": "The competent authorities have the option to agree on comparison of the background information of the analysis of the sample.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "In accordance with relevant Codex Guidelines, the following information should be shared between competent authorities of the importing and exporting country to allow comparison of the results and procedures of the laboratory of the exporting country and its counterpart in the importing country.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "The relevant information covers:\n• validation status of the methods of analysis used (including method-specific sample handling and preparation procedures within the laboratory);\n• raw data (including spectral data, calculations, chemical standards used);\n• results of repeat analysis;\n• internal quality assurance/control (control charts, sequence of analysis, blank data, recovery data, uncertainty data, use of appropriate reference standards and materials);\n• performance in relevant proficiency testing or collaborative studies;\n• official accreditation status of the laboratories.\nEach competent authority reviews its initial assessment on the basis of the additional information received from the other.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "This may lead to agreement on conformity or agreement on non-conformity, e.g. by recognising the validity of the results of only one of the two laboratories.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "In this way, the dispute is resolved without further analysis.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "7",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "process": "PREREQUISITES/ASSUMPTIONS",
+            "process_candidates": [
+              "PREREQUISITES/ASSUMPTIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "2 - PREREQUISITES/ASSUMPTIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "PREREQUISITES/ASSUMPTIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "process": "PREREQUISITES/ASSUMPTIONS",
+            "process_candidates": [
+              "PREREQUISITES/ASSUMPTIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "2 - PREREQUISITES/ASSUMPTIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "PREREQUISITES/ASSUMPTIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "PREREQUISITES/ASSUMPTIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 2,
+          "original": "In cases where a dispute needs to be resolved quickly, for instance where perishable food is in question or where demurrage costs are high, it is recommended that the competent authorities should consider performing the steps outlined in sections 3 and 4 in parallel.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "8",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "See ANNEX to GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD (CAC/GL 25-1997): \"Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory.\"",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandatory Information Provision",
+            "pattern": "Reference clause plus conditional clause and obligation main clause",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "reference": "ANNEX to guidelines CAC/GL 25-1997",
+              "condition": "imported food rejected based on sampling/analysis in importing country",
+              "obligation": "details should be made available on request about methods and results and lab identity"
+            },
+            "justification": "References external guideline and expresses obligation with conditional clause; normative obligation present but complex structural embedding justifies adapted classification.",
+            "notes": [
+              "Normative obligation linked to external normative document."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "process": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "process_candidates": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "3 - THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "THE RESULTS AND PROCEDURES OF THE LABORATORY OF THE EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 3,
+          "original": "A reserve sample is analysed, subject to it being estab lished that sample integrity and the chain of custody have not been compromised and subject to agreemen t between the respective competent authorities on the following procedures for analysis of the sample(s): 1. the timeline, and the time of availability of the sample9; 2. the analysis of the reserve sample by either the importing country’s laboratory in the presence of an expert from the exporting country or a laboratory chosen by the exporting country; 3. the methods of analysis to be used by the laboratory.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "If the dispute still exists, the measures outlined in section 5 of this procedure, using arbitration by a third laboratory, should be applied.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Obligation",
+            "function": "Conditional Mandate",
+            "pattern": "Conditional clause plus main clause with modal 'should'",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition": "dispute still exists",
+              "obligation": "measures in section 5 using arbitration by third lab should be applied"
+            },
+            "justification": "Contains clear obligation triggered by condition expressed via 'should'; structure typical of normative conditional mandates; partial template fit.",
+            "notes": [
+              "Conditional procedural mandate."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "4 - ANALYSING RESERVE SAMPLE",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "ANALYSING RESERVE SAMPLE",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "4 - ANALYSING RESERVE SAMPLE",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "ANALYSING RESERVE SAMPLE",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+          }
+        },
+        {
+          "order": 3,
+          "original": "If the original test result of the importing country and the result of the reserve sa mple differ by less than the critical difference Δ  that would be expected from measurement uncertainty of the results (see Annex)",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "If the dispute still exists, the measures outlined in section 5 of this procedure, using arbitration by a third laboratory, should be applied.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Obligation",
+            "function": "Conditional Mandate",
+            "pattern": "Conditional clause plus main clause with modal 'should'",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition": "dispute still exists",
+              "obligation": "measures in section 5 using arbitration by third lab should be applied"
+            },
+            "justification": "Contains clear obligation triggered by condition expressed via 'should'; structure typical of normative conditional mandates; partial template fit.",
+            "notes": [
+              "Conditional procedural mandate."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "4 - ANALYSING RESERVE SAMPLE",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "ANALYSING RESERVE SAMPLE",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "4 - ANALYSING RESERVE SAMPLE",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "ANALYSING RESERVE SAMPLE",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+          }
+        },
+        {
+          "order": 3,
+          "original": ", the importing country’s original assessment of the lot shall stand, and the dispute is thus resolved.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "If the dispute still exists, the measures outlined in section 5 of this procedure, using arbitration by a third laboratory, should be applied.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Obligation",
+            "function": "Conditional Mandate",
+            "pattern": "Conditional clause plus main clause with modal 'should'",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition": "dispute still exists",
+              "obligation": "measures in section 5 using arbitration by third lab should be applied"
+            },
+            "justification": "Contains clear obligation triggered by condition expressed via 'should'; structure typical of normative conditional mandates; partial template fit.",
+            "notes": [
+              "Conditional procedural mandate."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "4 - ANALYSING RESERVE SAMPLE",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "ANALYSING RESERVE SAMPLE",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "4 - ANALYSING RESERVE SAMPLE",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "ANALYSING RESERVE SAMPLE",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+          }
+        },
+        {
+          "order": 3,
+          "original": "If the dispute still exists, the measures outlined in section 5 of this procedure, using arbitration by a third laboratory, should be applied.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "If the dispute still exists, the measures outlined in section 5 of this procedure, using arbitration by a third laboratory, should be applied.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Obligation",
+            "function": "Conditional Mandate",
+            "pattern": "Conditional clause plus main clause with modal 'should'",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition": "dispute still exists",
+              "obligation": "measures in section 5 using arbitration by third lab should be applied"
+            },
+            "justification": "Contains clear obligation triggered by condition expressed via 'should'; structure typical of normative conditional mandates; partial template fit.",
+            "notes": [
+              "Conditional procedural mandate."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "4 - ANALYSING RESERVE SAMPLE",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "ANALYSING RESERVE SAMPLE",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "4 - ANALYSING RESERVE SAMPLE",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "ANALYSING RESERVE SAMPLE",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "ANALYSING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 4, p. 3"
+          }
+        },
+        {
+          "order": 4,
+          "original": "The remaining reserve sample should be analysed by  a suitably qualified laboratory agreed on by the two countries, and a final assessment of conformity is based on the results from this laboratory.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation with Condition",
+            "modality": "Obligation",
+            "function": "Mandate and Qualified Requirement",
+            "pattern": "Main obligation clause with modal auxiliary 'shall' followed by qualifying relative clause using 'which' and conditional phrase with 'where appropriate'",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "obligation": "The dispute shall be resolved within the shortest possible time",
+              "qualification": "should not adversely affect the quality of the commodity during storage, where appropriate"
+            },
+            "justification": "Sentence mandates an action (resolve dispute) using 'shall' but includes a qualifying condition about quality impact expressed through a relative clause and a conditional phrase 'where appropriate', forming a complex obligation with condition pattern not matching known templates.",
+            "notes": [
+              "Complex combination of obligation with embedded condition and qualification"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          }
+        },
+        {
+          "order": 4,
+          "original": "Failing agreement on the choice of laboratory the competen t authority of the importing country can select a laboratory.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation with Condition",
+            "modality": "Obligation",
+            "function": "Mandate and Qualified Requirement",
+            "pattern": "Main obligation clause with modal auxiliary 'shall' followed by qualifying relative clause using 'which' and conditional phrase with 'where appropriate'",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "obligation": "The dispute shall be resolved within the shortest possible time",
+              "qualification": "should not adversely affect the quality of the commodity during storage, where appropriate"
+            },
+            "justification": "Sentence mandates an action (resolve dispute) using 'shall' but includes a qualifying condition about quality impact expressed through a relative clause and a conditional phrase 'where appropriate', forming a complex obligation with condition pattern not matching known templates.",
+            "notes": [
+              "Complex combination of obligation with embedded condition and qualification"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          }
+        },
+        {
+          "order": 4,
+          "original": "The original result and th e result from the reserve sample tested  in the step outlined in section 4 are discarded.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation with Condition",
+            "modality": "Obligation",
+            "function": "Mandate and Qualified Requirement",
+            "pattern": "Main obligation clause with modal auxiliary 'shall' followed by qualifying relative clause using 'which' and conditional phrase with 'where appropriate'",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "obligation": "The dispute shall be resolved within the shortest possible time",
+              "qualification": "should not adversely affect the quality of the commodity during storage, where appropriate"
+            },
+            "justification": "Sentence mandates an action (resolve dispute) using 'shall' but includes a qualifying condition about quality impact expressed through a relative clause and a conditional phrase 'where appropriate', forming a complex obligation with condition pattern not matching known templates.",
+            "notes": [
+              "Complex combination of obligation with embedded condition and qualification"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          }
+        },
+        {
+          "order": 4,
+          "original": "If possible this laboratory should be i ndependent of the laboratory or laboratories whose results were compared in the step in section 4. 9",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation with Condition",
+            "modality": "Obligation",
+            "function": "Mandate and Qualified Requirement",
+            "pattern": "Main obligation clause with modal auxiliary 'shall' followed by qualifying relative clause using 'which' and conditional phrase with 'where appropriate'",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "obligation": "The dispute shall be resolved within the shortest possible time",
+              "qualification": "should not adversely affect the quality of the commodity during storage, where appropriate"
+            },
+            "justification": "Sentence mandates an action (resolve dispute) using 'shall' but includes a qualifying condition about quality impact expressed through a relative clause and a conditional phrase 'where appropriate', forming a complex obligation with condition pattern not matching known templates.",
+            "notes": [
+              "Complex combination of obligation with embedded condition and qualification"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          }
+        },
+        {
+          "order": 4,
+          "original": "The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The dispute shall be resolved within the shortest possibl e time, which should not adversely affect the quality of the commodity during storage, where appropriate.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation with Condition",
+            "modality": "Obligation",
+            "function": "Mandate and Qualified Requirement",
+            "pattern": "Main obligation clause with modal auxiliary 'shall' followed by qualifying relative clause using 'which' and conditional phrase with 'where appropriate'",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "obligation": "The dispute shall be resolved within the shortest possible time",
+              "qualification": "should not adversely affect the quality of the commodity during storage, where appropriate"
+            },
+            "justification": "Sentence mandates an action (resolve dispute) using 'shall' but includes a qualifying condition about quality impact expressed through a relative clause and a conditional phrase 'where appropriate', forming a complex obligation with condition pattern not matching known templates.",
+            "notes": [
+              "Complex combination of obligation with embedded condition and qualification"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION WITH CONDITION",
+            "subject_candidates": [
+              "OBLIGATION WITH CONDITION",
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "process": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "process_candidates": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "5 - ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "ANALYSIS OF REMAINING RESERVE SAMPLE",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "ANALYSIS OF REMAINING RESERVE SAMPLE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, Section 5, p. 3"
+          }
+        },
+        {
+          "order": 5,
+          "original": "The critical difference Δ between the two results to be compared is \n2\n2\n2\n1 U U+ = Δ  \nWhere U1 and U2 are the expanded measurement uncertainties of the two results.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "In case a set of samples is involved, a different formulation for the critical difference should be used.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition with Obligation",
+            "modality": "Obligation",
+            "function": "Conditional Requirement",
+            "pattern": "Conditional clause ('In case ...') followed by modal verb 'should' indicating recommendation or obligation",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition": "a set of samples is involved",
+              "obligation": "a different formulation for the critical difference should be used"
+            },
+            "justification": "Sentence establishes a condition ('In case') and prescribes an obligation/recommendation with 'should'; this structure suggests partial match with known conditional obligation templates, thus classified as adapted.",
+            "notes": [
+              "Threshold match at 0.60 justifies adapted_template classification"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION WITH OBLIGATION",
+            "subject_candidates": [
+              "CONDITION WITH OBLIGATION",
+              "ANNEX"
+            ],
+            "process": "ANNEX",
+            "process_candidates": [
+              "ANNEX",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "ANNEX",
+            "section_id": "path_titles::annex::lvl1",
+            "section_number": null,
+            "section_title": "ANNEX",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "ANNEX"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, ANNEX, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION WITH OBLIGATION",
+            "subject_candidates": [
+              "CONDITION WITH OBLIGATION",
+              "ANNEX"
+            ],
+            "process": "ANNEX",
+            "process_candidates": [
+              "ANNEX",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "ANNEX",
+            "section_id": "path_titles::annex::lvl1",
+            "section_number": null,
+            "section_title": "ANNEX",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "ANNEX"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, ANNEX, p. 4"
+          }
+        },
+        {
+          "order": 5,
+          "original": "In case a set of samples is involved, a different formulation for the critical difference should be used.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "In case a set of samples is involved, a different formulation for the critical difference should be used.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition with Obligation",
+            "modality": "Obligation",
+            "function": "Conditional Requirement",
+            "pattern": "Conditional clause ('In case ...') followed by modal verb 'should' indicating recommendation or obligation",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition": "a set of samples is involved",
+              "obligation": "a different formulation for the critical difference should be used"
+            },
+            "justification": "Sentence establishes a condition ('In case') and prescribes an obligation/recommendation with 'should'; this structure suggests partial match with known conditional obligation templates, thus classified as adapted.",
+            "notes": [
+              "Threshold match at 0.60 justifies adapted_template classification"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION WITH OBLIGATION",
+            "subject_candidates": [
+              "CONDITION WITH OBLIGATION",
+              "ANNEX"
+            ],
+            "process": "ANNEX",
+            "process_candidates": [
+              "ANNEX",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "ANNEX",
+            "section_id": "path_titles::annex::lvl1",
+            "section_number": null,
+            "section_title": "ANNEX",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "ANNEX"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, ANNEX, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION WITH OBLIGATION",
+            "subject_candidates": [
+              "CONDITION WITH OBLIGATION",
+              "ANNEX"
+            ],
+            "process": "ANNEX",
+            "process_candidates": [
+              "ANNEX",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+            "document_reference": "CXG 70-2009",
+            "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+            "document_type": "Guidelines",
+            "section": "ANNEX",
+            "section_id": "path_titles::annex::lvl1",
+            "section_number": null,
+            "section_title": "ANNEX",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "ANNEX"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "59feef74-0656-420b-971b-3d903c5ad8e6, ANNEX, p. 4"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "160",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 70-2009 - Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+        "document_reference": "CXG 70-2009",
+        "document_title": "Guidelines for Settling Disputes on Analytical (Test) Results",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "160",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 70-2009 Page 1 of 4",
+      "title": "GUIDELINES FOR SETTLING DISPUTES OVER ANALYTICAL (TEST) RESULTS (CAC/GL 70-2009)",
+      "summary": "Página com o título principal do documento e cabeçalho de página identificados. Dois nós estruturais de nível 1 foram detectados: '1. SCOPE' e '2. PREREQUISITES/ASSUMPTIONS'. O texto de cada seção foi corretamente associado ao respectivo nó, respeitando a numeração e hierarquia. A seção 2 continua para a próxima página, indicada por continues_on_next_page=true.",
+      "total_sections": 2,
+      "sections": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "page": 2,
+      "header": "CAC/GL 70-2009 Page 2 of 4",
+      "title": null,
+      "summary": "A página apresenta um único nó estrutural de nível 1 identificado: a seção 3, com seu título em caixa alta e numerado. O texto da seção foi corretamente associado, contendo o conteúdo detalhado e subsequente ao título. A seção continua da página anterior (is_continuation_from_previous_page=true) e prossegue para a próxima página (continues_on_next_page=true). O cabeçalho da página foi identificado e não há título principal visível nesta página.",
+      "total_sections": 1,
+      "sections": [
+        "3"
+      ]
+    },
+    {
+      "page": 3,
+      "header": "CAC/GL 70-2009 Page 3 of 4",
+      "title": null,
+      "summary": "A página contém duas seções principais de nível 1, numeradas 4 e 5, claramente identificadas pelos títulos em caixa alta e numerados. O texto foi corretamente associado a cada seção. Ambas as seções indicam continuidade, com a seção 4 continuando da página anterior e progredindo para a próxima e a seção 5 iniciando nesta página e também continuando para a próxima. O cabeçalho da página foi identificado, e não há título principal do documento visível nesta página.",
+      "total_sections": 2,
+      "sections": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "page": 4,
+      "header": "CAC/GL 70-2009 Page 4 of 4",
+      "title": null,
+      "summary": "A página apresenta um único título de nível 1, \"ANNEX\", em caixa alta, seguido do conteúdo explicativo sobre a diferença crítica Δ. O cabeçalho repetitivo foi identificado e excluído do texto. Não há indicação de continuidade da seção entre páginas.",
+      "total_sections": 1,
+      "sections": [
+        "1"
+      ]
+    }
+  ]
+}

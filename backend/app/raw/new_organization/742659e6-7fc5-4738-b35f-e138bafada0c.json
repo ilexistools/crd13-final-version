@@ -1,0 +1,3323 @@
+{
+  "document": {
+    "id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 105-2024",
+    "year": "2024",
+    "title": "Guidelines on the use of technology to provide food information in food labelling",
+    "label": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+    "committee": "CCFL",
+    "last_modified": "2024",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B105-2024%252FCXG_105e.pdf",
+    "processes": [
+      "Labelling and Consumer Information",
+      "Cross-cutting Processes"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "PURPOSE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "PURPOSE"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 4
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 1, pp. 2-4",
+      "text": "Provide guidance on the use of technology to provide food information to consumers i about pre-packaged foods.i\n\nCodex Alimentarius Standard. No. CXS 1-1985. Codex Alimentarius Commission. Rome.",
+      "retrieval_text": "PURPOSE\nnumber=1\nlevel=1\nProvide guidance on the use of technology to provide food information to consumers i about pre-packaged foods.i\n\nCodex Alimentarius Standard. No. CXS 1-1985. Codex Alimentarius Commission. Rome.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "Provide guidance on the use of technology to provide food information to consumers i about pre-packaged foods.i"
+        },
+        {
+          "page": 4,
+          "text": "Codex Alimentarius Standard. No. CXS 1-1985. Codex Alimentarius Commission. Rome."
+        }
+      ],
+      "rag": {
+        "rag_id": 202,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PURPOSE",
+        "process_candidates": [
+          "PURPOSE",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "1 - PURPOSE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "PURPOSE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PURPOSE"
+        ],
+        "page": 2,
+        "pages": [
+          "2",
+          "4"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 1, pp. 2-4"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PURPOSE",
+        "process_candidates": [
+          "PURPOSE",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "1 - PURPOSE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "PURPOSE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PURPOSE"
+        ],
+        "page": 2,
+        "pages": [
+          "2",
+          "4"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 1, pp. 2-4"
+      }
+    },
+    {
+      "id": "2",
+      "key": "num::2",
+      "raw_id": "num::2",
+      "number": "2",
+      "title": "SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "SCOPE"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 2, p. 2",
+      "text": "These guidelines apply to food information that is accessed by consumers using technology via a reference on a pre-packaged food’s labeli or labelling.i",
+      "retrieval_text": "SCOPE\nnumber=2\nlevel=1\nThese guidelines apply to food information that is accessed by consumers using technology via a reference on a pre-packaged food’s labeli or labelling.i",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "These guidelines apply to food information that is accessed by consumers using technology via a reference on a pre-packaged food’s labeli or labelling.i"
+        }
+      ],
+      "rag": {
+        "rag_id": 202,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "2 - SCOPE",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "SCOPE",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 2, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "2 - SCOPE",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "SCOPE",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 2, p. 2"
+      }
+    },
+    {
+      "id": "3",
+      "key": "num::3",
+      "raw_id": "num::3",
+      "number": "3",
+      "title": "USE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "USE"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 3, p. 2",
+      "text": "These guidelines should be read in conjunction with Codex texts related to labelling of pre -packaged foods, including but not limited to General standard for the labelling of pre-packaged foods (CXS 1-1985).1",
+      "retrieval_text": "USE\nnumber=3\nlevel=1\nThese guidelines should be read in conjunction with Codex texts related to labelling of pre -packaged foods, including but not limited to General standard for the labelling of pre-packaged foods (CXS 1-1985).1",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "These guidelines should be read in conjunction with Codex texts related to labelling of pre -packaged foods, including but not limited to General standard for the labelling of pre-packaged foods (CXS 1-1985).1"
+        }
+      ],
+      "rag": {
+        "rag_id": 202,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "USE",
+        "process_candidates": [
+          "USE",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "3 - USE",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "USE",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "USE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 3, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "USE",
+        "process_candidates": [
+          "USE",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "3 - USE",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "USE",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "USE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 3, p. 2"
+      }
+    },
+    {
+      "id": "4",
+      "key": "num::4",
+      "raw_id": "num::4",
+      "number": "4",
+      "title": "DEFINITIONS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "4"
+      ],
+      "path_titles": [
+        "DEFINITIONS"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 4,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 4, p. 2",
+      "text": "For the purpose of these guidelines: Food information means the information that is the subject of a Codex text about a pre-packaged food. Technology refers to any electronic or digital means, including but not limited to websites, online platforms and mobile applications.",
+      "retrieval_text": "DEFINITIONS\nnumber=4\nlevel=1\nFor the purpose of these guidelines: Food information means the information that is the subject of a Codex text about a pre-packaged food. Technology refers to any electronic or digital means, including but not limited to websites, online platforms and mobile applications.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "For the purpose of these guidelines: Food information means the information that is the subject of a Codex text about a pre-packaged food. Technology refers to any electronic or digital means, including but not limited to websites, online platforms and mobile applications."
+        }
+      ],
+      "rag": {
+        "rag_id": 202,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DEFINITIONS",
+        "process_candidates": [
+          "DEFINITIONS",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "4 - DEFINITIONS",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "DEFINITIONS",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "DEFINITIONS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 4, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DEFINITIONS",
+        "process_candidates": [
+          "DEFINITIONS",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "4 - DEFINITIONS",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "DEFINITIONS",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "DEFINITIONS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 4, p. 2"
+      }
+    },
+    {
+      "id": "5",
+      "key": "num::5",
+      "raw_id": "num::5",
+      "number": "5",
+      "title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "5"
+      ],
+      "path_titles": [
+        "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 5,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2",
+      "text": "The food information should be readily accessible to consumers during normal and customary circumstances of purchase and use, which means: a) there should be sufficient technological infrastructure to support providing food information using that technology within the geographic area or country where the food is sold, such as in regards to prevalence and reliability of service; b) the general population, including specific subsets thereof, should have widespread, adequate and easy access to the technology in that geographic area or country, and have adopted its use ; and c) it is reasonable for the consumer to use technology to access the food information during the normal and customary circumstances of purchase and use. The name of the food, food information concerning safety and nutrition, and any other mandatory food information as determined by the competent authority, should not be provided exclusively using technology. Food information that relates to an individual physical product (e.g.  lot code, date marking) should not be provided only using technology if doing so would compromise the ability to relate th e information to that individual product.",
+      "retrieval_text": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY\nnumber=5\nlevel=1\nThe food information should be readily accessible to consumers during normal and customary circumstances of purchase and use, which means: a) there should be sufficient technological infrastructure to support providing food information using that technology within the geographic area or country where the food is sold, such as in regards to prevalence and reliability of service; b) the general population, including specific subsets thereof, should have widespread, adequate and easy access to the technology in that geographic area or country, and have adopted its use ; and c) it is reasonable for the consumer to use technology to access the food information during the normal and customary circumstances of purchase and use. The name of the food, food information concerning safety and nutrition, and any other mandatory food information as determined by the competent authority, should not be provided exclusively using technology. Food information that relates to an individual physical product (e.g.  lot code, date marking) should not be provided only using technology if doing so would compromise the ability to relate th e information to that individual product.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "The food information should be readily accessible to consumers during normal and customary circumstances of purchase and use, which means: a) there should be sufficient technological infrastructure to support providing food information using that technology within the geographic area or country where the food is sold, such as in regards to prevalence and reliability of service; b) the general population, including specific subsets thereof, should have widespread, adequate and easy access to the technology in that geographic area or country, and have adopted its use ; and c) it is reasonable for the consumer to use technology to access the food information during the normal and customary circumstances of purchase and use. The name of the food, food information concerning safety and nutrition, and any other mandatory food information as determined by the competent authority, should not be provided exclusively using technology. Food information that relates to an individual physical product (e.g.  lot code, date marking) should not be provided only using technology if doing so would compromise the ability to relate th e information to that individual product."
+        }
+      ],
+      "rag": {
+        "rag_id": 202,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "process_candidates": [
+          "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "5 - CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "process_candidates": [
+          "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "5 - CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2"
+      }
+    },
+    {
+      "id": "6",
+      "key": "num::6",
+      "raw_id": "num::6",
+      "number": "6",
+      "title": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "6"
+      ],
+      "path_titles": [
+        "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 6,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 6, p. 2",
+      "text": "In cases where food labelling information is not accessible to consumers, due to conditions of sale or to exemptions from having to be provided on the label or labelling, consideration should be given to the use of technology to provide consumers with access to that information.",
+      "retrieval_text": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL\nnumber=6\nlevel=1\nIn cases where food labelling information is not accessible to consumers, due to conditions of sale or to exemptions from having to be provided on the label or labelling, consideration should be given to the use of technology to provide consumers with access to that information.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "In cases where food labelling information is not accessible to consumers, due to conditions of sale or to exemptions from having to be provided on the label or labelling, consideration should be given to the use of technology to provide consumers with access to that information."
+        }
+      ],
+      "rag": {
+        "rag_id": 202,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+        "process_candidates": [
+          "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "6 - USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+        "section_id": "6",
+        "section_number": "6",
+        "section_title": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 6, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+        "process_candidates": [
+          "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "6 - USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+        "section_id": "6",
+        "section_number": "6",
+        "section_title": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 6, p. 2"
+      }
+    },
+    {
+      "id": "7",
+      "key": "num::7",
+      "raw_id": "num::7",
+      "number": "7",
+      "title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "7"
+      ],
+      "path_titles": [
+        "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 7,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2",
+      "text": "Food information that is accessed by consumers using technology via a reference on the pre-packaged food’s label or labelling shall be based on the following principles, whether the food information is required on a mandatory basis or provided voluntarily: The general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information that is described or presented using technology. Food information described or presented using technology shall not conflict with information provided on the label or labelling of the pre-packaged food, including when shown in different languages. Where mandatory food information is provided using technology, the reference on the label or labelling  shall link directly to this information, and the mandatory food information shall be presented together, readily identifiable and easily distinguishable from other information.",
+      "retrieval_text": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY\nnumber=7\nlevel=1\nFood information that is accessed by consumers using technology via a reference on the pre-packaged food’s label or labelling shall be based on the following principles, whether the food information is required on a mandatory basis or provided voluntarily: The general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information that is described or presented using technology. Food information described or presented using technology shall not conflict with information provided on the label or labelling of the pre-packaged food, including when shown in different languages. Where mandatory food information is provided using technology, the reference on the label or labelling  shall link directly to this information, and the mandatory food information shall be presented together, readily identifiable and easily distinguishable from other information.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "Food information that is accessed by consumers using technology via a reference on the pre-packaged food’s label or labelling shall be based on the following principles, whether the food information is required on a mandatory basis or provided voluntarily: The general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information that is described or presented using technology. Food information described or presented using technology shall not conflict with information provided on the label or labelling of the pre-packaged food, including when shown in different languages. Where mandatory food information is provided using technology, the reference on the label or labelling  shall link directly to this information, and the mandatory food information shall be presented together, readily identifiable and easily distinguishable from other information."
+        }
+      ],
+      "rag": {
+        "rag_id": 202,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "process_candidates": [
+          "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "section_id": "7",
+        "section_number": "7",
+        "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "process_candidates": [
+          "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "section_id": "7",
+        "section_number": "7",
+        "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+      }
+    },
+    {
+      "id": "path_titles::where food information is provided using technology::lvl1",
+      "key": "path_titles::where food information is provided using technology::lvl1",
+      "raw_id": "path_titles::where food information is provided using technology::lvl1",
+      "number": null,
+      "title": "Where food information is provided using technology",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "Where food information is provided using technology"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [],
+      "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3",
+      "text": "Where food information is provided using technology, the food information shall be in accordance with applicable Codex texts. Subject to Section 5, where mandatory food information is solely provided using technology, the food information shall be available for at least the period, established under intended conditions of distribution, storage, retail and use, that the food would remain safe and suitable for sale, consumption or use. For pre-packaged food that is labelled with a use-by date or expiration date, this means for at least the period up to and including this date. Food information described or presented using technology shall be readily accessible without consumers having to provide or disclose any information. When the label or labelling of a pre-packaged food references food information to be accessed using technology, the information presented on the platform shall be sufficient and presented in such a way as to enable consumers to ascertain that the food information pertains to that pre-packaged food. If the purpose of the reference on the label or labelling of the pre-packaged food is not self-explanatory to consumers, it shall be accompanied by an explanation of how to use it or the type of food information that will be found when used (e.g. “scan here for more information on ingredients”). The reference and any explanatory statement shown on the label or labelling that links to food information to be accessed using technology shall adhere to sections 8.1.2 and 8.1.3 of the General standard for the labelling of pre-packaged foods (CXS 1-1985).1 Food information described or presented using technology shall be clear, prominent and readily legible, and, if applicable, audible to the consumer under normal settings and conditions of use of the technological platform. The language or languages of food information described or presented using technology shall be suitable to the consumer in the country in which the food is marketed. Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+      "retrieval_text": "Where food information is provided using technology\nlevel=1\nWhere food information is provided using technology, the food information shall be in accordance with applicable Codex texts. Subject to Section 5, where mandatory food information is solely provided using technology, the food information shall be available for at least the period, established under intended conditions of distribution, storage, retail and use, that the food would remain safe and suitable for sale, consumption or use. For pre-packaged food that is labelled with a use-by date or expiration date, this means for at least the period up to and including this date. Food information described or presented using technology shall be readily accessible without consumers having to provide or disclose any information. When the label or labelling of a pre-packaged food references food information to be accessed using technology, the information presented on the platform shall be sufficient and presented in such a way as to enable consumers to ascertain that the food information pertains to that pre-packaged food. If the purpose of the reference on the label or labelling of the pre-packaged food is not self-explanatory to consumers, it shall be accompanied by an explanation of how to use it or the type of food information that will be found when used (e.g. “scan here for more information on ingredients”). The reference and any explanatory statement shown on the label or labelling that links to food information to be accessed using technology shall adhere to sections 8.1.2 and 8.1.3 of the General standard for the labelling of pre-packaged foods (CXS 1-1985).1 Food information described or presented using technology shall be clear, prominent and readily legible, and, if applicable, audible to the consumer under normal settings and conditions of use of the technological platform. The language or languages of food information described or presented using technology shall be suitable to the consumer in the country in which the food is marketed. Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Where food information is provided using technology, the food information shall be in accordance with applicable Codex texts. Subject to Section 5, where mandatory food information is solely provided using technology, the food information shall be available for at least the period, established under intended conditions of distribution, storage, retail and use, that the food would remain safe and suitable for sale, consumption or use. For pre-packaged food that is labelled with a use-by date or expiration date, this means for at least the period up to and including this date. Food information described or presented using technology shall be readily accessible without consumers having to provide or disclose any information. When the label or labelling of a pre-packaged food references food information to be accessed using technology, the information presented on the platform shall be sufficient and presented in such a way as to enable consumers to ascertain that the food information pertains to that pre-packaged food. If the purpose of the reference on the label or labelling of the pre-packaged food is not self-explanatory to consumers, it shall be accompanied by an explanation of how to use it or the type of food information that will be found when used (e.g. “scan here for more information on ingredients”). The reference and any explanatory statement shown on the label or labelling that links to food information to be accessed using technology shall adhere to sections 8.1.2 and 8.1.3 of the General standard for the labelling of pre-packaged foods (CXS 1-1985).1 Food information described or presented using technology shall be clear, prominent and readily legible, and, if applicable, audible to the consumer under normal settings and conditions of use of the technological platform. The language or languages of food information described or presented using technology shall be suitable to the consumer in the country in which the food is marketed. Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information."
+        }
+      ],
+      "rag": {
+        "rag_id": 202,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+        "process_candidates": [
+          "Where food information is provided using technology",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "Where food information is provided using technology",
+        "section_id": "path_titles::where food information is provided using technology::lvl1",
+        "section_number": null,
+        "section_title": "Where food information is provided using technology",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "Where food information is provided using technology"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+        "process_candidates": [
+          "Where food information is provided using technology",
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "Where food information is provided using technology",
+        "section_id": "path_titles::where food information is provided using technology::lvl1",
+        "section_number": null,
+        "section_title": "Where food information is provided using technology",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "Where food information is provided using technology"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+      }
+    },
+    {
+      "id": "202",
+      "key": "202",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "Provide guidance on the use of technology to provide food information to consumers i about pre-packaged foods.i\n\nCodex Alimentarius Standard. No. CXS 1-1985.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Contains only an organization and location with no normative content.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Codex Alimentarius Commission. Rome.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Contains only an organization and location with no normative content.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "PURPOSE"
+            ],
+            "process": "PURPOSE",
+            "process_candidates": [
+              "PURPOSE",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "1 - PURPOSE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "PURPOSE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PURPOSE"
+            ],
+            "page": 2,
+            "pages": [
+              "2",
+              "4"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 1, pp. 2-4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "PURPOSE"
+            ],
+            "process": "PURPOSE",
+            "process_candidates": [
+              "PURPOSE",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "1 - PURPOSE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "PURPOSE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PURPOSE"
+            ],
+            "page": 2,
+            "pages": [
+              "2",
+              "4"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 1, pp. 2-4"
+          }
+        },
+        {
+          "order": 0,
+          "original": "Codex Alimentarius Commission. Rome.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Contains only an organization and location with no normative content.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Codex Alimentarius Commission. Rome.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Contains only an organization and location with no normative content.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "PURPOSE"
+            ],
+            "process": "PURPOSE",
+            "process_candidates": [
+              "PURPOSE",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "1 - PURPOSE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "PURPOSE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PURPOSE"
+            ],
+            "page": 4,
+            "pages": [
+              "2",
+              "4"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 1, pp. 2-4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "PURPOSE"
+            ],
+            "process": "PURPOSE",
+            "process_candidates": [
+              "PURPOSE",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "1 - PURPOSE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "PURPOSE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PURPOSE"
+            ],
+            "page": 4,
+            "pages": [
+              "2",
+              "4"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 1, pp. 2-4"
+          }
+        },
+        {
+          "order": 1,
+          "original": "These guidelines apply to food information that is accessed by consumers using technology via a reference on a pre-packaged food’s labeli or labelling.i",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Describes scope of guidelines, regulatory relevance.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "These guidelines apply to food information that is accessed by consumers using technology via a reference on a pre-packaged food’s labeli or labelling.i",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Scope",
+            "modality": "Obligation",
+            "function": "Scope delimitation",
+            "pattern": "Declarative statement with scope definition",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "guidelines",
+              "scope": "food information accessed by consumers using technology via label or labelling reference"
+            },
+            "justification": "Sentence establishes the application scope as a normative scope statement, but does not match known templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "GUIDELINES",
+            "subject_candidates": [
+              "GUIDELINES",
+              "FOOD INFORMATION ACCESSED BY CONSUMERS USING TECHNOLOGY VIA LABEL OR LABELLING REFERENCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "2 - SCOPE",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "SCOPE",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 2, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "GUIDELINES",
+            "subject_candidates": [
+              "GUIDELINES",
+              "FOOD INFORMATION ACCESSED BY CONSUMERS USING TECHNOLOGY VIA LABEL OR LABELLING REFERENCE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "2 - SCOPE",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "SCOPE",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 2, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "These guidelines should be read in conjunction with Codex texts related to labelling of pre -packaged foods, including but not limited to General standard for the labelling of pre-packaged foods (CXS 1-1985).1",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "These guidelines should be read in conjunction with Codex texts related to labelling of pre -packaged foods, including but not limited to General standard for the labelling of pre-packaged foods (CXS 1-1985).1",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Reading Instruction",
+            "modality": "Obligation",
+            "function": "Instruction to reader",
+            "pattern": "Modal verb + infinitive phrase indicating recommendation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "guidelines": "should be read in conjunction with Codex texts related to labelling of pre-packaged foods",
+              "examples": "including General standard for the labelling of pre-packaged foods (CXS 1-1985)"
+            },
+            "justification": "This is an advisory instruction to readers; it is normative but does not fit existing templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "READING INSTRUCTION",
+            "subject_candidates": [
+              "READING INSTRUCTION",
+              "USE"
+            ],
+            "process": "USE",
+            "process_candidates": [
+              "USE",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "3 - USE",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "USE",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "USE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "READING INSTRUCTION",
+            "subject_candidates": [
+              "READING INSTRUCTION",
+              "USE"
+            ],
+            "process": "USE",
+            "process_candidates": [
+              "USE",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "3 - USE",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "USE",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "USE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 3,
+          "original": "For the purpose of these guidelines: Food information means the information that is the subject of a Codex text about a pre-packaged food.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Technology refers to any electronic or digital means, including but not limited to websites, online platforms and mobile applications.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definitions",
+            "modality": "undefined",
+            "function": "Definition statement",
+            "pattern": "Definition clause with term and examples",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "Technology",
+              "definition": "any electronic or digital means, including websites, online platforms and mobile applications"
+            },
+            "justification": "Simple definitional statement without normative modality or regulatory communicative function.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "TECHNOLOGY",
+            "subject_candidates": [
+              "TECHNOLOGY",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "4 - DEFINITIONS",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 4, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "TECHNOLOGY",
+            "subject_candidates": [
+              "TECHNOLOGY",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "4 - DEFINITIONS",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 4, p. 2"
+          }
+        },
+        {
+          "order": 3,
+          "original": "Technology refers to any electronic or digital means, including but not limited to websites, online platforms and mobile applications.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Technology refers to any electronic or digital means, including but not limited to websites, online platforms and mobile applications.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definitions",
+            "modality": "undefined",
+            "function": "Definition statement",
+            "pattern": "Definition clause with term and examples",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "Technology",
+              "definition": "any electronic or digital means, including websites, online platforms and mobile applications"
+            },
+            "justification": "Simple definitional statement without normative modality or regulatory communicative function.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "TECHNOLOGY",
+            "subject_candidates": [
+              "TECHNOLOGY",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "4 - DEFINITIONS",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 4, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "TECHNOLOGY",
+            "subject_candidates": [
+              "TECHNOLOGY",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "4 - DEFINITIONS",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 4, p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "The food information should be readily accessible to consumers during normal and customary circumstances of purchase and use, which means: a) there should be sufficient technological infrastructure to support providing food information using that technology within the geographic area or country where the food is sold, such as in regards to prevalence and reliability of service; b) the general population, including specific subsets thereof, should have widespread, adequate and easy access to the technology in that geographic area or country, and have adopted its use ; and c) it is reasonable for the consumer to use technology to access the food information during the normal and customary circumstances of purchase and use.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Food information that relates to an individual physical product (e.g.  lot code, date marking) should not be provided only using technology if doing so would compromise the ability to relate th e information to that individual product.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition and Prohibition",
+            "modality": "Prohibition",
+            "function": "Conditional prohibition",
+            "pattern": "Conditional clause ('if') + prohibition ('should not') + content-specific",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "if providing using technology would compromise the ability to relate information to the individual product",
+              "prohibition": "food information relating to individual physical product should not be provided only using technology"
+            },
+            "justification": "Sentence expresses a conditional prohibition with a defined condition clause, requiring a new pattern.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION AND PROHIBITION",
+            "subject_candidates": [
+              "CONDITION AND PROHIBITION",
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "5 - CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION AND PROHIBITION",
+            "subject_candidates": [
+              "CONDITION AND PROHIBITION",
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "5 - CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "The name of the food, food information concerning safety and nutrition, and any other mandatory food information as determined by the competent authority, should not be provided exclusively using technology.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Food information that relates to an individual physical product (e.g.  lot code, date marking) should not be provided only using technology if doing so would compromise the ability to relate th e information to that individual product.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition and Prohibition",
+            "modality": "Prohibition",
+            "function": "Conditional prohibition",
+            "pattern": "Conditional clause ('if') + prohibition ('should not') + content-specific",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "if providing using technology would compromise the ability to relate information to the individual product",
+              "prohibition": "food information relating to individual physical product should not be provided only using technology"
+            },
+            "justification": "Sentence expresses a conditional prohibition with a defined condition clause, requiring a new pattern.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION AND PROHIBITION",
+            "subject_candidates": [
+              "CONDITION AND PROHIBITION",
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "5 - CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION AND PROHIBITION",
+            "subject_candidates": [
+              "CONDITION AND PROHIBITION",
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "5 - CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "Food information that relates to an individual physical product (e.g.  lot code, date marking) should not be provided only using technology if doing so would compromise the ability to relate th e information to that individual product.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Food information that relates to an individual physical product (e.g.  lot code, date marking) should not be provided only using technology if doing so would compromise the ability to relate th e information to that individual product.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition and Prohibition",
+            "modality": "Prohibition",
+            "function": "Conditional prohibition",
+            "pattern": "Conditional clause ('if') + prohibition ('should not') + content-specific",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "if providing using technology would compromise the ability to relate information to the individual product",
+              "prohibition": "food information relating to individual physical product should not be provided only using technology"
+            },
+            "justification": "Sentence expresses a conditional prohibition with a defined condition clause, requiring a new pattern.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION AND PROHIBITION",
+            "subject_candidates": [
+              "CONDITION AND PROHIBITION",
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "5 - CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION AND PROHIBITION",
+            "subject_candidates": [
+              "CONDITION AND PROHIBITION",
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "5 - CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 5,
+          "original": "In cases where food labelling information is not accessible to consumers, due to conditions of sale or to exemptions from having to be provided on the label or labelling, consideration should be given to the use of technology to provide consumers with access to that information.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "In cases where food labelling information is not accessible to consumers, due to conditions of sale or to exemptions from having to be provided on the label or labelling, consideration should be given to the use of technology to provide consumers with access to that information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition and Obligation",
+            "modality": "Obligation",
+            "function": "Recommendation/consideration under condition",
+            "pattern": "Conditional clause + recommendation using modal 'should' + action",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food labelling information not accessible due to sale conditions or exemptions",
+              "recommended_action": "consider using technology to provide consumers access to that information"
+            },
+            "justification": "Normative recommendation conditional on accessibility constraints with no precise known template fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION AND OBLIGATION",
+            "subject_candidates": [
+              "CONDITION AND OBLIGATION",
+              "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL"
+            ],
+            "process": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+            "process_candidates": [
+              "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "6 - USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 6, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION AND OBLIGATION",
+            "subject_candidates": [
+              "CONDITION AND OBLIGATION",
+              "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL"
+            ],
+            "process": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+            "process_candidates": [
+              "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "6 - USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 6, p. 2"
+          }
+        },
+        {
+          "order": 6,
+          "original": "Food information that is accessed by consumers using technology via a reference on the pre-packaged food’s label or labelling shall be based on the following principles, whether the food information is required on a mandatory basis or provided voluntarily:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where mandatory food information is provided using technology, the reference on the label or labelling  shall link directly to this information, and the mandatory food information shall be presented together, readily identifiable and easily distinguishable from other information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement of linkage and presentation",
+            "pattern": "Conditional clause + multiple coordinated obligations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "mandatory food information is provided using technology",
+              "obligations": [
+                "label reference shall link directly to the information",
+                "mandatory food information shall be presented together",
+                "information shall be readily identifiable and distinguishable from other information"
+              ]
+            },
+            "justification": "Conditional set of normative obligations with multiple coordinated predicates; no matching template.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+          }
+        },
+        {
+          "order": 6,
+          "original": "The general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information that is described or presented using technology.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where mandatory food information is provided using technology, the reference on the label or labelling  shall link directly to this information, and the mandatory food information shall be presented together, readily identifiable and easily distinguishable from other information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement of linkage and presentation",
+            "pattern": "Conditional clause + multiple coordinated obligations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "mandatory food information is provided using technology",
+              "obligations": [
+                "label reference shall link directly to the information",
+                "mandatory food information shall be presented together",
+                "information shall be readily identifiable and distinguishable from other information"
+              ]
+            },
+            "justification": "Conditional set of normative obligations with multiple coordinated predicates; no matching template.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+          }
+        },
+        {
+          "order": 6,
+          "original": "Food information described or presented using technology shall not conflict with information provided on the label or labelling of the pre-packaged food, including when shown in different languages.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where mandatory food information is provided using technology, the reference on the label or labelling  shall link directly to this information, and the mandatory food information shall be presented together, readily identifiable and easily distinguishable from other information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement of linkage and presentation",
+            "pattern": "Conditional clause + multiple coordinated obligations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "mandatory food information is provided using technology",
+              "obligations": [
+                "label reference shall link directly to the information",
+                "mandatory food information shall be presented together",
+                "information shall be readily identifiable and distinguishable from other information"
+              ]
+            },
+            "justification": "Conditional set of normative obligations with multiple coordinated predicates; no matching template.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+          }
+        },
+        {
+          "order": 6,
+          "original": "Where mandatory food information is provided using technology, the reference on the label or labelling  shall link directly to this information, and the mandatory food information shall be presented together, readily identifiable and easily distinguishable from other information.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where mandatory food information is provided using technology, the reference on the label or labelling  shall link directly to this information, and the mandatory food information shall be presented together, readily identifiable and easily distinguishable from other information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement of linkage and presentation",
+            "pattern": "Conditional clause + multiple coordinated obligations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "mandatory food information is provided using technology",
+              "obligations": [
+                "label reference shall link directly to the information",
+                "mandatory food information shall be presented together",
+                "information shall be readily identifiable and distinguishable from other information"
+              ]
+            },
+            "justification": "Conditional set of normative obligations with multiple coordinated predicates; no matching template.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "process": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "process_candidates": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "7 - PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Section 7, p. 2"
+          }
+        },
+        {
+          "order": 7,
+          "original": "Where food information is provided using technology, the food information shall be in accordance with applicable Codex texts.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "Subject to Section 5, where mandatory food information is solely provided using technology, the food information shall be available for at least the period, established under intended conditions of distribution, storage, retail and use, that the food would remain safe and suitable for sale, consumption or use.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "For pre-packaged food that is labelled with a use-by date or expiration date, this means for at least the period up to and including this date.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "Food information described or presented using technology shall be readily accessible without consumers having to provide or disclose any information.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "When the label or labelling of a pre-packaged food references food information to be accessed using technology, the information presented on the platform shall be sufficient and presented in such a way as to enable consumers to ascertain that the food information pertains to that pre-packaged food.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "If the purpose of the reference on the label or labelling of the pre-packaged food is not self-explanatory to consumers, it shall be accompanied by an explanation of how to use it or the type of food information that will be found when used (e.g. “scan here for more information on ingredients”).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "The reference and any explanatory statement shown on the label or labelling that links to food information to be accessed using technology shall adhere to sections 8.1.2 and 8.1.3 of the General standard for the labelling of pre-packaged foods (CXS 1-1985).1 Food information described or presented using technology shall be clear, prominent and readily legible, and, if applicable, audible to the consumer under normal settings and conditions of use of the technological platform.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "The language or languages of food information described or presented using technology shall be suitable to the consumer in the country in which the food is marketed.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Where food information is provided using technology, it shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Free access requirement",
+            "pattern": "Conditional clause + obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "condition": "food information provided using technology",
+              "obligation": "information shall be accessible without charge to consumer"
+            },
+            "justification": "Normative obligation on cost-free access conditional on technology provision; no existing templates fit.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY"
+            ],
+            "process": "WHERE FOOD INFORMATION IS PROVIDED USING TECHNOLOGY",
+            "process_candidates": [
+              "Where food information is provided using technology",
+              "Labelling and Consumer Information",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+            "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+            "document_reference": "CXG 105-2024",
+            "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+            "document_type": "Guidelines",
+            "section": "Where food information is provided using technology",
+            "section_id": "path_titles::where food information is provided using technology::lvl1",
+            "section_number": null,
+            "section_title": "Where food information is provided using technology",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "Where food information is provided using technology"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "742659e6-7fc5-4738-b35f-e138bafada0c, Where food information is provided using technology, p. 3"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "202",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Labelling and Consumer Information",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 105-2024 - Guidelines on the use of technology to provide food information in food labelling",
+        "document_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+        "document_reference": "CXG 105-2024",
+        "document_title": "Guidelines on the use of technology to provide food information in food labelling",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "202",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CXG 105-2024",
+      "title": "GUIDELINES ON THE USE OF TECHNOLOGY TO PROVIDE FOOD INFORMATION IN FOOD LABELLING",
+      "summary": "Página 1 contém apenas o título principal do documento e o cabeçalho com código e ano de adoção, sem seções ou conteúdo textual adicional para mapear.",
+      "total_sections": 0,
+      "sections": []
+    },
+    {
+      "page": 2,
+      "header": "CXG 105-2024  2",
+      "title": null,
+      "summary": "Página 2 contém sete seções principais numeradas de 1 a 7, cada uma com seu texto explicativo correspondente. Não há subtítulos. Todos os títulos são visíveis na página e não há continuidade entre páginas.",
+      "total_sections": 7,
+      "sections": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "page": 3,
+      "header": "CXG 105-2024  3",
+      "title": null,
+      "summary": "Página 3 contém uma única seção não numerada relacionada ao uso de tecnologia para informação alimentar, com texto completo. A seção é continuação da página anterior e título está visível. Não há subtítulos ou continuidade para a próxima página.",
+      "total_sections": 1,
+      "sections": [
+        "node-1"
+      ]
+    },
+    {
+      "page": 4,
+      "header": "CXG 105-2024  4",
+      "title": null,
+      "summary": "A página contém uma referência numerada '1' que é mapeada como seção nível 1. Não há título principal do documento visível. O cabeçalho da página é mapeado. Não há continuidade entre páginas.",
+      "total_sections": 1,
+      "sections": [
+        "node-1"
+      ]
+    }
+  ]
+}

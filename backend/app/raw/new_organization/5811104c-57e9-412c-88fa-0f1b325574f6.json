@@ -1,0 +1,859 @@
+{
+  "document": {
+    "id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 49-2003",
+    "year": "2003",
+    "title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+    "label": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+    "committee": "CCMAS",
+    "last_modified": "2003",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B49-2003%252FCXG_049e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "Cross-cutting Processes"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis::lvl1",
+      "key": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis::lvl1",
+      "raw_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis::lvl1",
+      "number": null,
+      "title": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS, p. 1",
+      "text": "The Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis were adopted by reference for Codex purposes with the following note to the title.",
+      "retrieval_text": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS\nlevel=1\nThe Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis were adopted by reference for Codex purposes with the following note to the title.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis were adopted by reference for Codex purposes with the following note to the title."
+        }
+      ],
+      "rag": {
+        "rag_id": 159,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+        "process_candidates": [
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+        "document_reference": "CXG 49-2003",
+        "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_type": "Guidelines",
+        "section": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+        "section_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis::lvl1",
+        "section_number": null,
+        "section_title": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+        "process_candidates": [
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+        "document_reference": "CXG 49-2003",
+        "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_type": "Guidelines",
+        "section": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+        "section_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis::lvl1",
+        "section_number": null,
+        "section_title": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS, p. 1"
+      }
+    },
+    {
+      "id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis > note::lvl2",
+      "key": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis > note::lvl2",
+      "raw_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis > note::lvl2",
+      "number": null,
+      "title": "Note",
+      "level": 2,
+      "parent_id": null,
+      "parent_title": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+      "path": [
+        "1",
+        "1.1"
+      ],
+      "path_titles": [
+        "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+        "Note"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Note, p. 1",
+      "text": "The definitions apply only for the purpose of the Guidelines and are not generally applicable for Codex purposes.",
+      "retrieval_text": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS > Note\nlevel=2\nThe definitions apply only for the purpose of the Guidelines and are not generally applicable for Codex purposes.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The definitions apply only for the purpose of the Guidelines and are not generally applicable for Codex purposes."
+        }
+      ],
+      "rag": {
+        "rag_id": 159,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NOTE",
+        "process_candidates": [
+          "Note",
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+        "document_reference": "CXG 49-2003",
+        "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_type": "Guidelines",
+        "section": "Note",
+        "section_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis > note::lvl2",
+        "section_number": null,
+        "section_title": "Note",
+        "section_path": [
+          "1",
+          "1.1"
+        ],
+        "section_path_titles": [
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Note"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Note, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NOTE",
+        "process_candidates": [
+          "Note",
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+        "document_reference": "CXG 49-2003",
+        "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_type": "Guidelines",
+        "section": "Note",
+        "section_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis > note::lvl2",
+        "section_number": null,
+        "section_title": "Note",
+        "section_path": [
+          "1",
+          "1.1"
+        ],
+        "section_path_titles": [
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Note"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Note, p. 1"
+      }
+    },
+    {
+      "id": "Reference",
+      "key": "num::reference",
+      "raw_id": "num::reference",
+      "number": "Reference",
+      "title": "Reference",
+      "level": 2,
+      "parent_id": null,
+      "parent_title": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+      "path": [
+        "1",
+        "1.2"
+      ],
+      "path_titles": [
+        "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+        "Reference"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Section Reference, p. 1",
+      "text": "M. Thompson, S.L.R. Ellison and R. Wood. “Harmonized Guidelines For Single-Laboratory Validation Of Methods Of Analysis” Pure Appl. Chem., 74, (5)  835 – 855 (2002)",
+      "retrieval_text": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS > Reference\nnumber=Reference\nlevel=2\nM. Thompson, S.L.R. Ellison and R. Wood. “Harmonized Guidelines For Single-Laboratory Validation Of Methods Of Analysis” Pure Appl. Chem., 74, (5)  835 – 855 (2002)",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "M. Thompson, S.L.R. Ellison and R. Wood. “Harmonized Guidelines For Single-Laboratory Validation Of Methods Of Analysis” Pure Appl. Chem., 74, (5)  835 – 855 (2002)"
+        }
+      ],
+      "rag": {
+        "rag_id": 159,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "REFERENCE",
+        "process_candidates": [
+          "Reference",
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+        "document_reference": "CXG 49-2003",
+        "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_type": "Guidelines",
+        "section": "Reference - Reference",
+        "section_id": "Reference",
+        "section_number": "Reference",
+        "section_title": "Reference",
+        "section_path": [
+          "1",
+          "1.2"
+        ],
+        "section_path_titles": [
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Reference"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Section Reference, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "REFERENCE",
+        "process_candidates": [
+          "Reference",
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+        "document_reference": "CXG 49-2003",
+        "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_type": "Guidelines",
+        "section": "Reference - Reference",
+        "section_id": "Reference",
+        "section_number": "Reference",
+        "section_title": "Reference",
+        "section_path": [
+          "1",
+          "1.2"
+        ],
+        "section_path_titles": [
+          "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+          "Reference"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Section Reference, p. 1"
+      }
+    },
+    {
+      "id": "159",
+      "key": "159",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "The Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis were adopted by reference for Codex purposes with the following note to the title.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Relevant to regulatory guidelines.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "The Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis were adopted by reference for Codex purposes with the following note to the title.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Adoption/Reference",
+            "modality": "Obligation",
+            "function": "Mandate adoption by reference",
+            "pattern": "[Subject] + were adopted by reference + [Purpose] + with [Additional note]",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Subject": "The Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+              "Purpose": "Codex purposes",
+              "Additional note": "the following note to the title"
+            },
+            "justification": "Sentence mandates the adoption by reference of a guideline with an additional note; structure and modality are clear but matches no known template.",
+            "notes": [
+              "No close fit to existing templates; adoption with appended note is a specific but uncatalogued pattern."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+            "subject_candidates": [
+              "THE HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "ADOPTION/REFERENCE",
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+            "document_reference": "CXG 49-2003",
+            "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+            "section_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+            "subject_candidates": [
+              "THE HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "ADOPTION/REFERENCE",
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+            "document_reference": "CXG 49-2003",
+            "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+            "section_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "The definitions apply only for the purpose of the Guidelines and are not generally applicable for Codex purposes.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Pertains to definitions within regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "The definitions apply only for the purpose of the Guidelines and are not generally applicable for Codex purposes.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Scope/Applicability",
+            "modality": "Condition",
+            "function": "Limitation of applicability",
+            "pattern": "The definitions apply only for the purpose of [Reference document] and are not generally applicable for [Broader scope].",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Definitions": "The definitions",
+              "Reference document": "the Guidelines",
+              "Broader scope": "Codex purposes"
+            },
+            "justification": "Sentence expresses a limiting condition about applicability; no existing template strongly covers this nuanced scope limitation.",
+            "notes": [
+              "Contains condition-like limitation but framed as statement of scope; no strong template match."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "SCOPE/APPLICABILITY",
+            "subject_candidates": [
+              "SCOPE/APPLICABILITY",
+              "NOTE"
+            ],
+            "process": "NOTE",
+            "process_candidates": [
+              "Note",
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+            "document_reference": "CXG 49-2003",
+            "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_type": "Guidelines",
+            "section": "Note",
+            "section_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis > note::lvl2",
+            "section_number": null,
+            "section_title": "Note",
+            "section_path": [
+              "1",
+              "1.1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Note"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Note, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "SCOPE/APPLICABILITY",
+            "subject_candidates": [
+              "SCOPE/APPLICABILITY",
+              "NOTE"
+            ],
+            "process": "NOTE",
+            "process_candidates": [
+              "Note",
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+            "document_reference": "CXG 49-2003",
+            "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_type": "Guidelines",
+            "section": "Note",
+            "section_id": "path_titles::harmonized iupac guidelines for single-laboratory validation of methods of analysis > note::lvl2",
+            "section_number": null,
+            "section_title": "Note",
+            "section_path": [
+              "1",
+              "1.1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Note"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Note, p. 1"
+          }
+        },
+        {
+          "order": 2,
+          "original": "M. Thompson, S.L.R. Ellison and R. Wood.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Citations of regulatory guidelines.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "“Harmonized Guidelines For Single-Laboratory Validation Of Methods Of Analysis” Pure Appl. Chem., 74, (5)  835 – 855 (2002)",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Reference/Citation",
+            "modality": "undefined",
+            "function": "Citation of source document",
+            "pattern": "[Document title] [Journal name], [Volume], ([Issue]) [Page range] ([Year])",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Document title": "Harmonized Guidelines For Single-Laboratory Validation Of Methods Of Analysis",
+              "Journal name": "Pure Appl. Chem.",
+              "Volume": "74",
+              "Issue": "5",
+              "Page range": "835 – 855",
+              "Year": "2002"
+            },
+            "justification": "Sentence is a bibliographic citation with no regulatory modality or prescriptive communicative function; no template applies.",
+            "notes": [
+              "Pure citation format; classified as undefined modality with new pattern."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REFERENCE/CITATION",
+            "subject_candidates": [
+              "REFERENCE/CITATION",
+              "REFERENCE"
+            ],
+            "process": "REFERENCE",
+            "process_candidates": [
+              "Reference",
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+            "document_reference": "CXG 49-2003",
+            "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_type": "Guidelines",
+            "section": "Reference - Reference",
+            "section_id": "Reference",
+            "section_number": "Reference",
+            "section_title": "Reference",
+            "section_path": [
+              "1",
+              "1.2"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Reference"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Section Reference, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REFERENCE/CITATION",
+            "subject_candidates": [
+              "REFERENCE/CITATION",
+              "REFERENCE"
+            ],
+            "process": "REFERENCE",
+            "process_candidates": [
+              "Reference",
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+            "document_reference": "CXG 49-2003",
+            "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_type": "Guidelines",
+            "section": "Reference - Reference",
+            "section_id": "Reference",
+            "section_number": "Reference",
+            "section_title": "Reference",
+            "section_path": [
+              "1",
+              "1.2"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Reference"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Section Reference, p. 1"
+          }
+        },
+        {
+          "order": 2,
+          "original": "“Harmonized Guidelines For Single-Laboratory Validation Of Methods Of Analysis” Pure Appl. Chem., 74, (5)  835 – 855 (2002)",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Citations of regulatory guidelines.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "“Harmonized Guidelines For Single-Laboratory Validation Of Methods Of Analysis” Pure Appl. Chem., 74, (5)  835 – 855 (2002)",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Reference/Citation",
+            "modality": "undefined",
+            "function": "Citation of source document",
+            "pattern": "[Document title] [Journal name], [Volume], ([Issue]) [Page range] ([Year])",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Document title": "Harmonized Guidelines For Single-Laboratory Validation Of Methods Of Analysis",
+              "Journal name": "Pure Appl. Chem.",
+              "Volume": "74",
+              "Issue": "5",
+              "Page range": "835 – 855",
+              "Year": "2002"
+            },
+            "justification": "Sentence is a bibliographic citation with no regulatory modality or prescriptive communicative function; no template applies.",
+            "notes": [
+              "Pure citation format; classified as undefined modality with new pattern."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REFERENCE/CITATION",
+            "subject_candidates": [
+              "REFERENCE/CITATION",
+              "REFERENCE"
+            ],
+            "process": "REFERENCE",
+            "process_candidates": [
+              "Reference",
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+            "document_reference": "CXG 49-2003",
+            "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_type": "Guidelines",
+            "section": "Reference - Reference",
+            "section_id": "Reference",
+            "section_number": "Reference",
+            "section_title": "Reference",
+            "section_path": [
+              "1",
+              "1.2"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Reference"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Section Reference, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REFERENCE/CITATION",
+            "subject_candidates": [
+              "REFERENCE/CITATION",
+              "REFERENCE"
+            ],
+            "process": "REFERENCE",
+            "process_candidates": [
+              "Reference",
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+            "document_reference": "CXG 49-2003",
+            "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+            "document_type": "Guidelines",
+            "section": "Reference - Reference",
+            "section_id": "Reference",
+            "section_number": "Reference",
+            "section_title": "Reference",
+            "section_path": [
+              "1",
+              "1.2"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+              "Reference"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5811104c-57e9-412c-88fa-0f1b325574f6, Section Reference, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+        "document_reference": "CXG 49-2003",
+        "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "159",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 49-2003 - Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_id": "5811104c-57e9-412c-88fa-0f1b325574f6",
+        "document_reference": "CXG 49-2003",
+        "document_title": "Harmonized IUPAC Guidelines for Single-Laboratory Validation of Methods of Analysis",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "159",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 49-2003 Page 1 of 1",
+      "title": "HARMONIZED IUPAC GUIDELINES FOR SINGLE-LABORATORY VALIDATION OF METHODS OF ANALYSIS",
+      "summary": "Página contém o título principal do documento como nível 1 sem numeração, seguido por duas subseções 'Note' e 'Reference' sem numeração, cada uma com seu texto associado. O cabeçalho da página está presente. Não há continuidade de conteúdo entre páginas nesta página.",
+      "total_sections": 3,
+      "sections": [
+        "1",
+        "1.1",
+        "1.2"
+      ]
+    }
+  ]
+}

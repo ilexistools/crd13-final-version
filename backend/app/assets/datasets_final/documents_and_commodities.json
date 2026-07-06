@@ -1,0 +1,1999 @@
+[
+    {
+        "doc_id": "8aec05c4-d7c7-4ee3-9aa3-42fd85e475f6",
+        "commodities": [
+            "food additives"
+        ]
+    },
+    {
+        "doc_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+        "commodities": [
+            "food additives"
+        ]
+    },
+    {
+        "doc_id": "1e37a3c8-b1a0-4139-a47c-93239aac25f5",
+        "commodities": [
+            "food additives"
+        ]
+    },
+    {
+        "doc_id": "8eebd351-ee53-4e86-8958-192ef5074503",
+        "commodities": [
+            "food additives"
+        ]
+    },
+    {
+        "doc_id": "62f43045-c90e-4248-8fa9-ec455bad515a",
+        "commodities": [
+            "food additives"
+        ]
+    },
+    {
+        "doc_id": "69e07e3c-0b71-4935-9be4-9f3eed9309a8",
+        "commodities": [
+            "spices"
+        ]
+    },
+    {
+        "doc_id": "db1776fd-0b10-45c1-adda-145c312fd688",
+        "commodities": [
+            "spices",
+            "herbs",
+            "processed meat",
+            "poultry products"
+        ]
+    },
+    {
+        "doc_id": "bc6e7a42-a1a7-4c75-b844-4f6b18895e18",
+        "commodities": [
+            "vegetable protein products"
+        ]
+    },
+    {
+        "doc_id": "c5c83939-110e-48e7-81a3-0c1ed0bb3267",
+        "commodities": [
+            "vegetable protein products"
+        ]
+    },
+    {
+        "doc_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "commodities": [
+            "canned fruits"
+        ]
+    },
+    {
+        "doc_id": "3bb3bafa-c464-42f0-be2a-ab66def81780",
+        "commodities": [
+            "canned fruits"
+        ]
+    },
+    {
+        "doc_id": "55ae48d9-6c2e-4698-80c8-948102068f63",
+        "commodities": [
+            "organically produced foods"
+        ]
+    },
+    {
+        "doc_id": "3e6b3532-1b7d-45a5-8c5a-854f6ab69800",
+        "commodities": [
+            "fish",
+            "shellfish"
+        ]
+    },
+    {
+        "doc_id": "3f381b7f-7680-4856-916b-1b2fbc59b554",
+        "commodities": [
+            "fish",
+            "fishery products"
+        ]
+    },
+    {
+        "doc_id": "a3e4c192-07c5-45d4-8c4c-fc2ca3b0308d",
+        "commodities": [
+            "fish",
+            "fishery products"
+        ]
+    },
+    {
+        "doc_id": "20f95049-f45e-4531-8743-afe9ff88650e",
+        "commodities": [
+            "recombinant-dna plants"
+        ]
+    },
+    {
+        "doc_id": "277f1545-1656-4494-8ac2-068f41464cbb",
+        "commodities": [
+            "recombinant-dna microorganisms"
+        ]
+    },
+    {
+        "doc_id": "49256923-21d5-4436-aa48-2b24e30c620d",
+        "commodities": [
+            "meat"
+        ]
+    },
+    {
+        "doc_id": "402d0c0b-bc41-4a3d-89ef-54d753f54601",
+        "commodities": [
+            "meat",
+            "suidae"
+        ]
+    },
+    {
+        "doc_id": "ef278315-d0ca-4d1f-991f-64a1ef032180",
+        "commodities": [
+            "meat",
+            "domestic cattle"
+        ]
+    },
+    {
+        "doc_id": "c734f19b-396c-420b-8d54-a727e04e4157",
+        "commodities": [
+            "chicken meat"
+        ]
+    },
+    {
+        "doc_id": "4722ef15-0d81-4be2-9b52-623525de83cf",
+        "commodities": [
+            "street-vended foods"
+        ]
+    },
+    {
+        "doc_id": "2c20c59c-f02a-4b36-8d8c-596885c77a78",
+        "commodities": [
+            "street-vended foods"
+        ]
+    },
+    {
+        "doc_id": "b8ae6985-221d-4ad5-9fd6-1fe71a61b177",
+        "commodities": [
+            "street-vended foods"
+        ]
+    },
+    {
+        "doc_id": "d68ec953-d505-4fe7-864d-66671c987e2b",
+        "commodities": [
+            "recombinant-dna animals"
+        ]
+    },
+    {
+        "doc_id": "4f714176-8274-483c-b2bb-2e052e6852ee",
+        "commodities": [
+            "suidae",
+            "multiple species",
+            "apinae",
+            "aves",
+            "bovinae",
+            "equidae",
+            "leporidae",
+            "caprinae",
+            "camelidae"
+        ]
+    },
+    {
+        "doc_id": "4df91dbd-5613-4ade-9250-7370ebf03dc5",
+        "commodities": [
+            "beef",
+            "pork meat"
+        ]
+    },
+    {
+        "doc_id": "6839ae4b-61e6-4b84-a527-b92ac878998c",
+        "commodities": [
+            "food producing animals"
+        ]
+    },
+    {
+        "doc_id": "cbb31313-69bf-4fa9-8bcf-f00ecbf5ba12",
+        "commodities": [
+            "complementary foods"
+        ]
+    },
+    {
+        "doc_id": "babbad67-1000-44c2-be8b-f23b77cfbe0a",
+        "commodities": [
+            "raw milk"
+        ]
+    },
+    {
+        "doc_id": "f6c3216f-11a5-4fb0-bb83-aa26cfc96e62",
+        "commodities": [
+            "raw milk",
+            "raw beef",
+            "fresh leafy vegetables",
+            "raw milk cheeses",
+            "sprouts"
+        ]
+    },
+    {
+        "doc_id": "1ec9d1ad-7009-40d6-895a-892c7d9677a4",
+        "commodities": [
+            "canned foods"
+        ]
+    },
+    {
+        "doc_id": "b6347f4e-6962-4681-a6bf-80e5ef393658",
+        "commodities": [
+            "canned foods"
+        ]
+    },
+    {
+        "doc_id": "1ca1055e-7a6a-424b-bd83-47b0c2f4c1e6",
+        "commodities": [
+            "foods for special dietary uses"
+        ]
+    },
+    {
+        "doc_id": "1b8a33d5-e994-43d1-858b-20cd89c79be3",
+        "commodities": [
+            "flavourings"
+        ]
+    },
+    {
+        "doc_id": "3608bed7-1abc-4ea0-80ec-d612a0ebcb5a",
+        "commodities": [
+            "milk",
+            "milk products"
+        ]
+    },
+    {
+        "doc_id": "2e8611e9-da91-41c9-a542-c5b70835fbfd",
+        "commodities": [
+            "milk",
+            "milk products"
+        ]
+    },
+    {
+        "doc_id": "d1b4ab52-9f1f-4fde-885b-4e65ee767b85",
+        "commodities": [
+            "vitamin and mineral food supplements"
+        ]
+    },
+    {
+        "doc_id": "fbe5d468-23c9-4a32-a00e-0566e22b00f6",
+        "commodities": [
+            "feed",
+            "food"
+        ]
+    },
+    {
+        "doc_id": "423f4530-e9d9-404f-ac8f-9377cb9be00a",
+        "commodities": [
+            "feed",
+            "food"
+        ]
+    },
+    {
+        "doc_id": "8a0ff796-84b9-47d2-bf54-f1a7504143aa",
+        "commodities": [
+            "feed"
+        ]
+    },
+    {
+        "doc_id": "1710c8ef-997b-4e48-99a6-65bee031f26e",
+        "commodities": [
+            "feed"
+        ]
+    },
+    {
+        "doc_id": "feed51ca-2a4c-4731-a06d-8a16e216e5a6",
+        "commodities": [
+            "seafood"
+        ]
+    },
+    {
+        "doc_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "commodities": [
+            "processing aids"
+        ]
+    },
+    {
+        "doc_id": "9c1fded1-59d9-414b-80a8-7055f010d727",
+        "commodities": [
+            "ready-to-use therapeutic foods (rutf)"
+        ]
+    },
+    {
+        "doc_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "commodities": [
+            "pre-packaged foods"
+        ]
+    },
+    {
+        "doc_id": "9a6f7e9f-4a9d-4cda-89b5-5d6cc3b5e3b1",
+        "commodities": [
+            "low acid canned foods",
+            "acidified low acid canned foods"
+        ]
+    },
+    {
+        "doc_id": "9eb96dd0-22d1-41f7-92c6-e1940fcdfd08",
+        "commodities": [
+            "low-acid foods"
+        ]
+    },
+    {
+        "doc_id": "24cfaeb0-eeaf-4216-b4c7-3e5c7afc13bb",
+        "commodities": [
+            "street foods"
+        ]
+    },
+    {
+        "doc_id": "0d04d3d0-393b-4f24-8a30-447c8f1a72a7",
+        "commodities": [
+            "edible fats",
+            "oils"
+        ]
+    },
+    {
+        "doc_id": "102187f0-8776-4194-a5b5-4e3d37f61d4a",
+        "commodities": [
+            "edible fats",
+            "oils"
+        ]
+    },
+    {
+        "doc_id": "d8048f99-05a0-4b01-a5fe-3fb892bb42cc",
+        "commodities": [
+            "canned fruit",
+            "vegetable products"
+        ]
+    },
+    {
+        "doc_id": "479c697b-e380-45f9-b950-8b19e64a8779",
+        "commodities": [
+            "dried fruits"
+        ]
+    },
+    {
+        "doc_id": "6c83fcfd-7cbe-41a3-9e8c-c186ab1b009c",
+        "commodities": [
+            "dried fruits"
+        ]
+    },
+    {
+        "doc_id": "17ecbff8-7eac-4ab1-befd-34ed4f2ff52d",
+        "commodities": [
+            "desiccated coconut"
+        ]
+    },
+    {
+        "doc_id": "15441498-a121-4466-8741-e5aac406e7dc",
+        "commodities": [
+            "desiccated coconut"
+        ]
+    },
+    {
+        "doc_id": "1c6162fe-6311-46b5-a35a-fe62686f5c52",
+        "commodities": [
+            "dehydrated fruits",
+            "vegetables",
+            "edible fungi"
+        ]
+    },
+    {
+        "doc_id": "f5e30c04-7078-43a8-88e4-5270e40089ac",
+        "commodities": [
+            "vegetables",
+            "pickled fruits"
+        ]
+    },
+    {
+        "doc_id": "f0f2bc01-51cd-492c-aa5c-20dda178bd8a",
+        "commodities": [
+            "vegetables",
+            "fresh fruits"
+        ]
+    },
+    {
+        "doc_id": "336b51bf-2cfd-4a26-8eb2-080b52998186",
+        "commodities": [
+            "vegetables",
+            "fresh fruit"
+        ]
+    },
+    {
+        "doc_id": "fe129ff0-0bb9-4a3b-8c6d-2bcaf3f62c47",
+        "commodities": [
+            "edible fungi",
+            "fungus products"
+        ]
+    },
+    {
+        "doc_id": "85fd409e-3a1c-415f-8b1c-3c7b3bdb4c1e",
+        "commodities": [
+            "tree nuts"
+        ]
+    },
+    {
+        "doc_id": "7d6b3497-cb55-443b-bc18-2fb83697138e",
+        "commodities": [
+            "tree nuts"
+        ]
+    },
+    {
+        "doc_id": "8204c3af-5d69-4ba7-b7da-6dfae9509d8c",
+        "commodities": [
+            "groundnuts",
+            "peanuts"
+        ]
+    },
+    {
+        "doc_id": "325eb2a0-69b4-40f1-8612-dbdc3faf5bf8",
+        "commodities": [
+            "peanuts"
+        ]
+    },
+    {
+        "doc_id": "366c294b-c8af-4694-af94-47b5adfcfcff",
+        "commodities": [
+            "peanuts"
+        ]
+    },
+    {
+        "doc_id": "159ea4e8-d0ea-4688-88ed-cf56632a2867",
+        "commodities": [
+            "frog legs"
+        ]
+    },
+    {
+        "doc_id": "7fbd781e-9889-422c-8f8a-55ad6f7d7832",
+        "commodities": [
+            "natural mineral waters"
+        ]
+    },
+    {
+        "doc_id": "72688f40-63f2-4195-83d3-d90a53ac5f13",
+        "commodities": [
+            "natural mineral waters"
+        ]
+    },
+    {
+        "doc_id": "6b02993d-78f6-49a5-a822-3b5c5135384f",
+        "commodities": [
+            "quick frozen foods"
+        ]
+    },
+    {
+        "doc_id": "eff17a9a-386b-4008-868a-7f4a2a6ae7e0",
+        "commodities": [
+            "cocoa"
+        ]
+    },
+    {
+        "doc_id": "6f6ebec4-2271-40e1-929e-42200008663c",
+        "commodities": [
+            "cocoa",
+            "cocoa powders",
+            "sugars"
+        ]
+    },
+    {
+        "doc_id": "47e3b7fa-2275-4801-a660-0a29c75f801b",
+        "commodities": [
+            "raw materials",
+            "supplemental feedingstuffs"
+        ]
+    },
+    {
+        "doc_id": "db717ce9-d2a5-4ee9-9756-3dd0ff1c99f7",
+        "commodities": [
+            "refrigerated packaged foods"
+        ]
+    },
+    {
+        "doc_id": "5b282d02-36fe-4d0c-a2ab-235bab141af4",
+        "commodities": [
+            "eggs",
+            "egg products"
+        ]
+    },
+    {
+        "doc_id": "0d27073e-fd16-4f20-8410-d3ed33ea5c45",
+        "commodities": [
+            "bottled/packaged drinking waters"
+        ]
+    },
+    {
+        "doc_id": "569fe114-d229-48e1-b91a-84abf3d9f3c5",
+        "commodities": [
+            "bottled/packaged drinking waters"
+        ]
+    },
+    {
+        "doc_id": "724c3b37-3e9f-49b7-ad33-dc829a7ecc76",
+        "commodities": [
+            "cereals"
+        ]
+    },
+    {
+        "doc_id": "25195e3c-11d9-49bb-9fc6-33c76a69ff4f",
+        "commodities": [
+            "cassava",
+            "cassava-based products"
+        ]
+    },
+    {
+        "doc_id": "0932083e-db41-491e-bdec-458f566013ce",
+        "commodities": [
+            "cassava",
+            "cassava products"
+        ]
+    },
+    {
+        "doc_id": "9d85067e-a9ee-402f-b7b9-94707cf6ddb0",
+        "commodities": [
+            "precooked foods",
+            "cooked foods"
+        ]
+    },
+    {
+        "doc_id": "e22be574-3a07-4828-8ad0-30f9c1cab482",
+        "commodities": [
+            "acid-hvps"
+        ]
+    },
+    {
+        "doc_id": "4fbb9501-d84f-4d48-a4c6-75806ea053a8",
+        "commodities": [
+            "stone fruit distillates"
+        ]
+    },
+    {
+        "doc_id": "c38af173-97c0-4c04-b36e-bf5bc27b4622",
+        "commodities": [
+            "wine"
+        ]
+    },
+    {
+        "doc_id": "43a3b2eb-ebb7-43be-825b-b5c4ebc13dd3",
+        "commodities": [
+            "apple juice",
+            "beverages"
+        ]
+    },
+    {
+        "doc_id": "c0027108-0a03-4667-b293-cd48993d2395",
+        "commodities": [
+            "dried figs"
+        ]
+    },
+    {
+        "doc_id": "780d96c8-c12c-4e10-947d-9cb8cb7ed0c4",
+        "commodities": [
+            "powdered formulae"
+        ]
+    },
+    {
+        "doc_id": "cfaa7417-437d-4b5d-98a6-daf2b97f6057",
+        "commodities": [
+            "coffee"
+        ]
+    },
+    {
+        "doc_id": "dba08453-0ec4-4b90-a550-febe1f198ca2",
+        "commodities": [
+            "low-moisture foods"
+        ]
+    },
+    {
+        "doc_id": "f74c30f6-c396-4902-aa9a-e4d778c7ef18",
+        "commodities": [
+            "rice"
+        ]
+    },
+    {
+        "doc_id": "499611a5-993e-45dd-ac6b-6dfb84b92efc",
+        "commodities": [
+            "rice"
+        ]
+    },
+    {
+        "doc_id": "b2fcb564-615b-4c71-9a1c-66186d397bb4",
+        "commodities": [
+            "refined oils"
+        ]
+    },
+    {
+        "doc_id": "6431c0df-adf5-4e56-aaac-22dca90f64aa",
+        "commodities": [
+            "cocoa beans"
+        ]
+    },
+    {
+        "doc_id": "505c4434-2a8f-44e3-bda4-4bfa4f738b5a",
+        "commodities": [
+            "food grade salt"
+        ]
+    },
+    {
+        "doc_id": "c97fddbe-bb7f-49e2-9e21-42925c22ba61",
+        "commodities": [
+            "irradiated foods"
+        ]
+    },
+    {
+        "doc_id": "a678ff54-a48f-4046-84db-4380d37d50cc",
+        "commodities": [
+            "irradiated foods"
+        ]
+    },
+    {
+        "doc_id": "45b88744-1925-40c0-909c-729d660efa6e",
+        "commodities": [
+            "prepackaged foods"
+        ]
+    },
+    {
+        "doc_id": "6ed2ac32-936d-4df7-a389-e6ccd72d5cdd",
+        "commodities": [
+            "gari"
+        ]
+    },
+    {
+        "doc_id": "f852212b-ab58-4782-8141-48909c53cd80",
+        "commodities": [
+            "wheat flour"
+        ]
+    },
+    {
+        "doc_id": "a0380d63-391a-4611-8ea6-f0309cca109c",
+        "commodities": [
+            "maize",
+            "corn"
+        ]
+    },
+    {
+        "doc_id": "ddb82f85-2632-4dda-8d8d-8f92ff65727a",
+        "commodities": [
+            "degermed maize (corn) meal",
+            "maize (corn) grits"
+        ]
+    },
+    {
+        "doc_id": "92bc4490-b036-4f65-b3f6-aed8178a17b1",
+        "commodities": [
+            "pearl millet grains"
+        ]
+    },
+    {
+        "doc_id": "ea2860a6-3888-49f1-9678-f97e4fdcf170",
+        "commodities": [
+            "pulses"
+        ]
+    },
+    {
+        "doc_id": "aebddec5-4b70-4010-a132-488c646e1b38",
+        "commodities": [
+            "sorghum grains"
+        ]
+    },
+    {
+        "doc_id": "bc91cab7-c632-4fc9-ac77-6843787d959a",
+        "commodities": [
+            "sorghum flour"
+        ]
+    },
+    {
+        "doc_id": "1364f613-4bfa-4e78-addb-1ff591468d30",
+        "commodities": [
+            "edible cassava flour"
+        ]
+    },
+    {
+        "doc_id": "18248566-5788-4523-9553-a16c731908b7",
+        "commodities": [
+            "durum wheat semolina",
+            "durum wheat flour"
+        ]
+    },
+    {
+        "doc_id": "20b1c556-e594-447c-908c-09b24448fa63",
+        "commodities": [
+            "wheat",
+            "durum wheat"
+        ]
+    },
+    {
+        "doc_id": "27f25a73-27d9-42cf-8fa8-c99a89937b13",
+        "commodities": [
+            "oats"
+        ]
+    },
+    {
+        "doc_id": "b3a2b248-39a8-499a-a513-e4cc6c5bd945",
+        "commodities": [
+            "couscous"
+        ]
+    },
+    {
+        "doc_id": "f6292949-c0dd-4897-b8e2-d10889a9d5de",
+        "commodities": [
+            "cocoa butter"
+        ]
+    },
+    {
+        "doc_id": "c08d769d-0357-4f64-9dab-0d57d530bbfd",
+        "commodities": [
+            "chocolate",
+            "chocolate products"
+        ]
+    },
+    {
+        "doc_id": "209f303d-fa1d-469e-88a8-e3a59314ec51",
+        "commodities": [
+            "sugars"
+        ]
+    },
+    {
+        "doc_id": "20ec7d79-59b1-406f-8e29-389ce67ea956",
+        "commodities": [
+            "canned salmon"
+        ]
+    },
+    {
+        "doc_id": "16f12935-5941-4c03-8224-ade8432f2f92",
+        "commodities": [
+            "quick frozen finfish"
+        ]
+    },
+    {
+        "doc_id": "348009dd-dc36-42d8-aa4d-adc918aa839a",
+        "commodities": [
+            "canned shrimps",
+            "prawns"
+        ]
+    },
+    {
+        "doc_id": "904357ce-8af6-40fd-914c-f1c13d227d18",
+        "commodities": [
+            "prawns",
+            "quick frozen shrimps"
+        ]
+    },
+    {
+        "doc_id": "ab0a681e-59dc-4b73-8fce-833c9e7d7b66",
+        "commodities": [
+            "canned crab meat"
+        ]
+    },
+    {
+        "doc_id": "1bf01678-ef33-4dce-bf67-0b2b7b343e68",
+        "commodities": [
+            "quick frozen lobsters"
+        ]
+    },
+    {
+        "doc_id": "a48f0797-082d-4863-b08e-dae4d07114f3",
+        "commodities": [
+            "canned finfish"
+        ]
+    },
+    {
+        "doc_id": "8cf6b564-aad8-4172-a2a1-4d958c85effc",
+        "commodities": [
+            "fish fillets",
+            "minced fish flesh"
+        ]
+    },
+    {
+        "doc_id": "6794dba5-52ce-4c20-b780-05e6e1727b06",
+        "commodities": [
+            "fish fillets",
+            "fish sticks",
+            "fish fingers",
+            "fish portions"
+        ]
+    },
+    {
+        "doc_id": "ac74f665-0fda-4ede-88e5-2370f61f15c1",
+        "commodities": [
+            "salted fish",
+            "dried salted fish"
+        ]
+    },
+    {
+        "doc_id": "87f05440-25a8-4213-8c5e-dce6780fc6cc",
+        "commodities": [
+            "dried shark fins"
+        ]
+    },
+    {
+        "doc_id": "d1cdde6f-9059-409b-9791-a487464e7698",
+        "commodities": [
+            "quick frozen fish fillets"
+        ]
+    },
+    {
+        "doc_id": "0bbbb6b1-3886-4fe5-af40-5662f3219970",
+        "commodities": [
+            "quick frozen raw squid"
+        ]
+    },
+    {
+        "doc_id": "8c63f059-cd39-4bdb-a74c-0a2fce79476d",
+        "commodities": [
+            "cocoa mass",
+            "cocoa/chocolate liquor",
+            "cocoa cake"
+        ]
+    },
+    {
+        "doc_id": "223ae9f0-ca73-4b34-9a55-88ae393ed128",
+        "commodities": [
+            "olive oils",
+            "olive pomace oils"
+        ]
+    },
+    {
+        "doc_id": "d2c48ea8-238b-42fe-8228-b52742a36a9e",
+        "commodities": [
+            "canned applesauce"
+        ]
+    },
+    {
+        "doc_id": "551c5cd7-a95c-4446-9911-e1795606b5bb",
+        "commodities": [
+            "dried edible fungi"
+        ]
+    },
+    {
+        "doc_id": "40169dca-b531-464c-b185-9709d695c809",
+        "commodities": [
+            "chanterelles"
+        ]
+    },
+    {
+        "doc_id": "e93d568e-0cbc-4c7f-a9e1-148379874254",
+        "commodities": [
+            "canned raspberries"
+        ]
+    },
+    {
+        "doc_id": "4d24bfa4-848c-45d0-9bb6-ba9be398b9c0",
+        "commodities": [
+            "canned strawberries"
+        ]
+    },
+    {
+        "doc_id": "2ee55c0e-a300-470f-a786-67580f8b9843",
+        "commodities": [
+            "table olives"
+        ]
+    },
+    {
+        "doc_id": "ec1f4cad-c7e3-46e1-9a0f-a5985d862938",
+        "commodities": [
+            "canned tropical fruit salad"
+        ]
+    },
+    {
+        "doc_id": "ef4872d3-84bf-4dcf-ac3a-fa9f913e423d",
+        "commodities": [
+            "pickled cucumbers",
+            "cucumber pickles"
+        ]
+    },
+    {
+        "doc_id": "0ac23579-6679-4125-92f8-6dea09fdaef9",
+        "commodities": [
+            "unshelled pistachio nuts"
+        ]
+    },
+    {
+        "doc_id": "b067a399-bb9d-4e95-9a75-4a3d37225470",
+        "commodities": [
+            "corned beef"
+        ]
+    },
+    {
+        "doc_id": "bb5f2997-19a7-4d51-82ed-a76deaf3c12c",
+        "commodities": [
+            "luncheon meat"
+        ]
+    },
+    {
+        "doc_id": "f4f05bf3-75d4-4965-84e5-18eba0ba9c95",
+        "commodities": [
+            "cooked cured ham"
+        ]
+    },
+    {
+        "doc_id": "0b47191f-3720-48ee-960a-7a8dbf61ec29",
+        "commodities": [
+            "cooked cured pork shoulder"
+        ]
+    },
+    {
+        "doc_id": "2d6dc2be-fa59-4ff0-99a8-8a45d49e919d",
+        "commodities": [
+            "cooked cured chopped meat"
+        ]
+    },
+    {
+        "doc_id": "5696f12f-129e-43d2-8364-be58bb25e1e1",
+        "commodities": [
+            "canned chestnuts",
+            "canned chestnut purée"
+        ]
+    },
+    {
+        "doc_id": "75d79cbf-22dc-4325-bde1-f8192e73b457",
+        "commodities": [
+            "mango chutney"
+        ]
+    },
+    {
+        "doc_id": "7c042e64-87d0-429e-85f0-eb9fdde41281",
+        "commodities": [
+            "quick frozen strawberries"
+        ]
+    },
+    {
+        "doc_id": "f7c8d996-456d-43ab-989f-b8889ceb3b5b",
+        "commodities": [
+            "quick frozen raspberries"
+        ]
+    },
+    {
+        "doc_id": "d409b618-73a2-456a-846c-a4ebc3f1acf7",
+        "commodities": [
+            "quick frozen peaches"
+        ]
+    },
+    {
+        "doc_id": "0b96c3d7-3b67-4228-a1eb-87764a66bc83",
+        "commodities": [
+            "quick frozen bilberries"
+        ]
+    },
+    {
+        "doc_id": "9e4e8303-29c5-4635-b239-a9a8b9296356",
+        "commodities": [
+            "quick frozen blueberries"
+        ]
+    },
+    {
+        "doc_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "commodities": [
+            "butter"
+        ]
+    },
+    {
+        "doc_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "commodities": [
+            "milkfat products"
+        ]
+    },
+    {
+        "doc_id": "36f7e55b-12cf-42b3-ae9f-e36fe2178de9",
+        "commodities": [
+            "evaporated milks"
+        ]
+    },
+    {
+        "doc_id": "f5095642-0ba7-4b44-98d0-8a42b3919afe",
+        "commodities": [
+            "sweetened condensed milks"
+        ]
+    },
+    {
+        "doc_id": "bd8fc5af-6cc3-4643-802d-84134d21bf21",
+        "commodities": [
+            "cheese"
+        ]
+    },
+    {
+        "doc_id": "1419da53-0289-43c6-bd16-a52c2ef18ee2",
+        "commodities": [
+            "whey cheeses"
+        ]
+    },
+    {
+        "doc_id": "ba8563aa-ca52-456b-9621-8dbca6262153",
+        "commodities": [
+            "cream",
+            "prepared creams"
+        ]
+    },
+    {
+        "doc_id": "7d0b2f07-c0a0-43ad-9322-cb2d62fd2fa5",
+        "commodities": [
+            "whey powders"
+        ]
+    },
+    {
+        "doc_id": "6df151f3-fd64-45ee-9652-b2bc08ba15a2",
+        "commodities": [
+            "edible casein products"
+        ]
+    },
+    {
+        "doc_id": "31ebd66a-c00b-4297-8973-9ccd36c9f29f",
+        "commodities": [
+            "cheddar"
+        ]
+    },
+    {
+        "doc_id": "67e251f7-6614-42ce-9c9a-679d1ad0507e",
+        "commodities": [
+            "gouda"
+        ]
+    },
+    {
+        "doc_id": "baea8bb0-a103-47ee-a03e-d40e9c5198f2",
+        "commodities": [
+            "tilsiter"
+        ]
+    },
+    {
+        "doc_id": "9688c7f2-3789-42d2-bd5d-01a5a36ab484",
+        "commodities": [
+            "saint-paulin"
+        ]
+    },
+    {
+        "doc_id": "08738c41-93cb-4488-91e7-2cf9249a8a09",
+        "commodities": [
+            "provolone"
+        ]
+    },
+    {
+        "doc_id": "7b8db5fd-d999-4d09-9bef-dce59d00daa6",
+        "commodities": [
+            "camembert"
+        ]
+    },
+    {
+        "doc_id": "9b7647d8-c0cc-48cc-ba85-ebeda2aa688e",
+        "commodities": [
+            "extra hard grating cheese"
+        ]
+    },
+    {
+        "doc_id": "68bc9c4d-c557-4dbf-a363-1a07395c2351",
+        "commodities": [
+            "preserved tomatoes"
+        ]
+    },
+    {
+        "doc_id": "edd5431a-5199-4cf8-94f8-4f64ad2862e4",
+        "commodities": [
+            "bouillons",
+            "consommés"
+        ]
+    },
+    {
+        "doc_id": "50c11347-d7cc-4f8f-8eec-73b3ff4632b9",
+        "commodities": [
+            "special dietary foods",
+            "salt substitutes"
+        ]
+    },
+    {
+        "doc_id": "87d0950f-48e7-41e2-adae-bd8151ac80b2",
+        "commodities": [
+            "canned baby foods"
+        ]
+    },
+    {
+        "doc_id": "e89283bd-00da-4e55-9016-c7c7c94b9fc1",
+        "commodities": [
+            "processed cereal-based foods"
+        ]
+    },
+    {
+        "doc_id": "006e6677-9e13-4670-b2a9-4aac7eea7735",
+        "commodities": [
+            "foods for special dietary use"
+        ]
+    },
+    {
+        "doc_id": "4b3f5196-d6b1-49b0-9bc2-3466b4bc9d6a",
+        "commodities": [
+            "follow-up formula"
+        ]
+    },
+    {
+        "doc_id": "b1643aec-f4d1-4852-9d8c-5c4edae5e7da",
+        "commodities": [
+            "foods for special medical purposes"
+        ]
+    },
+    {
+        "doc_id": "2ad108f6-6b90-4272-bf55-874bf115896f",
+        "commodities": [
+            "formula foods"
+        ]
+    },
+    {
+        "doc_id": "7d9e1707-7804-483e-ab54-508c4b9ccaf2",
+        "commodities": [
+            "formula foods"
+        ]
+    },
+    {
+        "doc_id": "23af4a7c-ba28-4bf9-93b7-5a635ec671e8",
+        "commodities": [
+            "honey"
+        ]
+    },
+    {
+        "doc_id": "5d762208-022a-4f8c-8d30-5f6f72b720b0",
+        "commodities": [
+            "pineapples"
+        ]
+    },
+    {
+        "doc_id": "a987e62a-1af7-4b88-bcf6-4bf043209a68",
+        "commodities": [
+            "papaya"
+        ]
+    },
+    {
+        "doc_id": "e73362d7-8d5f-4245-a44d-3960d9a71c67",
+        "commodities": [
+            "mangoes"
+        ]
+    },
+    {
+        "doc_id": "19f2d8df-58c7-4ecc-916f-4f0bd34f6823",
+        "commodities": [
+            "nopal"
+        ]
+    },
+    {
+        "doc_id": "298d3464-c5c9-4a9a-a796-05c9a1aa2762",
+        "commodities": [
+            "prickly pear"
+        ]
+    },
+    {
+        "doc_id": "29e0b8a3-ace7-41e4-9ba8-6317cfecfe2e",
+        "commodities": [
+            "carambola"
+        ]
+    },
+    {
+        "doc_id": "302f5813-6580-417b-a616-2ac02069dc13",
+        "commodities": [
+            "baby corn"
+        ]
+    },
+    {
+        "doc_id": "2c27a7ec-4880-4640-bc88-549d75296b24",
+        "commodities": [
+            "litchi"
+        ]
+    },
+    {
+        "doc_id": "9d4797ac-9fbd-4ca8-8c7f-064936f71196",
+        "commodities": [
+            "avocado"
+        ]
+    },
+    {
+        "doc_id": "e8cd7734-78dc-4b10-9d58-6ec9c6ab6eb8",
+        "commodities": [
+            "wheat protein products",
+            "wheat gluten"
+        ]
+    },
+    {
+        "doc_id": "0343757c-7e1c-4bd9-8bf8-7b725f5a0979",
+        "commodities": [
+            "bananas"
+        ]
+    },
+    {
+        "doc_id": "745aabfb-1861-4cfa-97a6-612182138cb5",
+        "commodities": [
+            "mangosteens"
+        ]
+    },
+    {
+        "doc_id": "cf6cd969-907b-45d2-86c6-458bd898ecef",
+        "commodities": [
+            "rambutan"
+        ]
+    },
+    {
+        "doc_id": "15819be0-0377-4ff1-acce-17800be09d41",
+        "commodities": [
+            "canned stone fruits"
+        ]
+    },
+    {
+        "doc_id": "5683a3f9-eba2-48eb-8431-197178d56a00",
+        "commodities": [
+            "boiled dried salted anchovies"
+        ]
+    },
+    {
+        "doc_id": "e5c440a1-b09d-48b5-a3ac-119d124857c7",
+        "commodities": [
+            "salted atlantic herring",
+            "salted sprat"
+        ]
+    },
+    {
+        "doc_id": "2b1d3ed5-44ad-4784-97da-27d7f0e23524",
+        "commodities": [
+            "fermented soybean paste"
+        ]
+    },
+    {
+        "doc_id": "431452c2-42b1-4bce-9613-34134196661c",
+        "commodities": [
+            "passion fruit"
+        ]
+    },
+    {
+        "doc_id": "bace4444-ce76-4286-ba3a-702a3303e203",
+        "commodities": [
+            "dairy"
+        ]
+    },
+    {
+        "doc_id": "d82f78a0-1516-43ae-aa7e-1c10b83c7789",
+        "commodities": [
+            "milk powders",
+            "cream powder"
+        ]
+    },
+    {
+        "doc_id": "96cb7fcc-78c9-480e-947f-16812b5eeeda",
+        "commodities": [
+            "cheeses in brine"
+        ]
+    },
+    {
+        "doc_id": "652a1cf2-21c5-4585-aa51-11784d8a8081",
+        "commodities": [
+            "vegetable oils"
+        ]
+    },
+    {
+        "doc_id": "18a08564-b4f6-49b7-9823-b432ce29e046",
+        "commodities": [
+            "animal fats"
+        ]
+    },
+    {
+        "doc_id": "5e99c490-92e1-44ab-be42-4ae725948005",
+        "commodities": [
+            "limes"
+        ]
+    },
+    {
+        "doc_id": "ade45100-bf35-47f1-b3b1-1fb6529dba1f",
+        "commodities": [
+            "pummelos"
+        ]
+    },
+    {
+        "doc_id": "ef233913-8dfb-4bd9-bcdc-0d549fae69aa",
+        "commodities": [
+            "guavas"
+        ]
+    },
+    {
+        "doc_id": "1316390e-7809-43ef-b0f7-b9f966ebd3e8",
+        "commodities": [
+            "chayotes"
+        ]
+    },
+    {
+        "doc_id": "8323289d-0e2c-491f-80af-ca3e63bcf394",
+        "commodities": [
+            "mexican limes"
+        ]
+    },
+    {
+        "doc_id": "f587d6d3-7465-4161-812e-ad9c68f0f246",
+        "commodities": [
+            "ginger"
+        ]
+    },
+    {
+        "doc_id": "5a640c23-9365-4fb2-a195-997ceba91ae1",
+        "commodities": [
+            "grapefruits"
+        ]
+    },
+    {
+        "doc_id": "063f0961-2e1c-424a-9be7-38e6755efe16",
+        "commodities": [
+            "longans"
+        ]
+    },
+    {
+        "doc_id": "369a35b8-8a84-4115-b6d1-369d7538fb66",
+        "commodities": [
+            "pitahayas"
+        ]
+    },
+    {
+        "doc_id": "8dc23526-362f-417b-85ad-69835037f6fc",
+        "commodities": [
+            "sweet cassava"
+        ]
+    },
+    {
+        "doc_id": "10f0f4ca-17dc-41d7-a026-334adab55b73",
+        "commodities": [
+            "oranges"
+        ]
+    },
+    {
+        "doc_id": "26237a22-804d-42d8-9743-99ce5606ae61",
+        "commodities": [
+            "canned bamboo shoots"
+        ]
+    },
+    {
+        "doc_id": "3c741007-6099-4846-b954-fcc9ddf8d08b",
+        "commodities": [
+            "coconut milk",
+            "coconut cream"
+        ]
+    },
+    {
+        "doc_id": "fd3cbef2-c419-48ba-8c1a-f2680c35c9dd",
+        "commodities": [
+            "whole maize (corn) meal"
+        ]
+    },
+    {
+        "doc_id": "a1f024e4-9e0b-4d18-a72e-314ca5ea4eff",
+        "commodities": [
+            "evaporated skimmed milk",
+            "vegetable fat"
+        ]
+    },
+    {
+        "doc_id": "e66dffa5-633c-45d7-bd35-337c348f69ce",
+        "commodities": [
+            "vegetable fat",
+            "skimmed milk"
+        ]
+    },
+    {
+        "doc_id": "827115b7-2bb3-4a15-a239-ad46b87c93a7",
+        "commodities": [
+            "vegetable fat",
+            "sweetened condensed skimmed milk"
+        ]
+    },
+    {
+        "doc_id": "e7cf2f0f-194d-4c1e-b1e5-6d4115f48054",
+        "commodities": [
+            "dairy fat spreads"
+        ]
+    },
+    {
+        "doc_id": "83e9a210-2af6-461c-a4fd-d915cec1c0ff",
+        "commodities": [
+            "instant noodles"
+        ]
+    },
+    {
+        "doc_id": "72c569be-7eac-4079-865e-a3f12df8b484",
+        "commodities": [
+            "table grapes"
+        ]
+    },
+    {
+        "doc_id": "26766392-4142-41fa-98bf-cc7ed0926c47",
+        "commodities": [
+            "fat spreads",
+            "blended spreads"
+        ]
+    },
+    {
+        "doc_id": "e1dc4e85-d558-40cf-b5f9-3f4903f0e868",
+        "commodities": [
+            "canned humus",
+            "tehena"
+        ]
+    },
+    {
+        "doc_id": "e2d1b5e3-f907-4c7c-9f5b-001fba44625f",
+        "commodities": [
+            "tehena"
+        ]
+    },
+    {
+        "doc_id": "974da3a4-5c81-4266-8d07-2868cfb60d87",
+        "commodities": [
+            "canned foul medames"
+        ]
+    },
+    {
+        "doc_id": "015c7767-be2c-4bdb-a352-3a8b968aae85",
+        "commodities": [
+            "infant formula"
+        ]
+    },
+    {
+        "doc_id": "2d85a1d8-27e5-4724-b408-72fb07bc0bfb",
+        "commodities": [
+            "processed tomato concentrates"
+        ]
+    },
+    {
+        "doc_id": "121b034f-2337-4efb-b034-22dd537cfb5a",
+        "commodities": [
+            "chilli peppers"
+        ]
+    },
+    {
+        "doc_id": "e4ab2f94-50ec-42ca-94d8-53fefcd59ad7",
+        "commodities": [
+            "culantro coyote"
+        ]
+    },
+    {
+        "doc_id": "8686a3e7-95f1-414b-97e5-960d04493fff",
+        "commodities": [
+            "lucuma"
+        ]
+    },
+    {
+        "doc_id": "470fdc3a-c62a-4e61-840a-a4c0f0f70c8f",
+        "commodities": [
+            "edible sago flour"
+        ]
+    },
+    {
+        "doc_id": "5d9538fa-05ec-4d7c-966e-ecd3817e868c",
+        "commodities": [
+            "chilli sauce"
+        ]
+    },
+    {
+        "doc_id": "70b0e29d-9217-4057-b7a1-d96c6ac7a72d",
+        "commodities": [
+            "unripened cheese",
+            "fresh cheese"
+        ]
+    },
+    {
+        "doc_id": "24e1e1d6-53f8-47e5-8b3b-4e507beab490",
+        "commodities": [
+            "marine fish",
+            "freshwater fish",
+            "crustaceans",
+            "molluscan shellfish"
+        ]
+    },
+    {
+        "doc_id": "e4cd53a6-5416-4d90-bf81-02d07c6555d2",
+        "commodities": [
+            "kimchi"
+        ]
+    },
+    {
+        "doc_id": "84413d94-b09d-4847-8b95-1c9e301e6cd0",
+        "commodities": [
+            "tannia"
+        ]
+    },
+    {
+        "doc_id": "72fd9597-bb0a-494f-a224-4771952e04b5",
+        "commodities": [
+            "cape gooseberry"
+        ]
+    },
+    {
+        "doc_id": "c0b86f1c-b484-441d-b747-0158dd057a2b",
+        "commodities": [
+            "fermented milks"
+        ]
+    },
+    {
+        "doc_id": "f812e60d-0d5a-4c48-bc41-6fbdc7221b93",
+        "commodities": [
+            "smoked fish",
+            "smoke-flavoured fish",
+            "smoke-dried fish"
+        ]
+    },
+    {
+        "doc_id": "9f8b6eb9-6cdc-41c3-99c9-795502d1ca40",
+        "commodities": [
+            "abalone"
+        ]
+    },
+    {
+        "doc_id": "4ae73c9c-8b41-4c9b-9bd5-75caef6d1bc2",
+        "commodities": [
+            "pomegranate"
+        ]
+    },
+    {
+        "doc_id": "5b486860-1c69-478e-b51d-dde06b3a46c4",
+        "commodities": [
+            "canned vegetables"
+        ]
+    },
+    {
+        "doc_id": "ea31c249-80d2-46c1-889c-3a8b37dafe91",
+        "commodities": [
+            "jams",
+            "jellies",
+            "marmalades"
+        ]
+    },
+    {
+        "doc_id": "4783fdca-fefe-4f84-b6b9-6be49c971d41",
+        "commodities": [
+            "gochujang"
+        ]
+    },
+    {
+        "doc_id": "35688d60-5709-4c59-9f0c-8d847e543e20",
+        "commodities": [
+            "prepackaged foods for special dietary uses"
+        ]
+    },
+    {
+        "doc_id": "f3564058-ccf2-4f7d-99b3-de95745261ac",
+        "commodities": [
+            "bitter cassava"
+        ]
+    },
+    {
+        "doc_id": "86f0692f-176e-45a8-96db-460a9a79380a",
+        "commodities": [
+            "apples"
+        ]
+    },
+    {
+        "doc_id": "93f0c907-5e47-4694-8f83-36f41de8d3da",
+        "commodities": [
+            "sturgeon caviar"
+        ]
+    },
+    {
+        "doc_id": "0d60bbe2-c2cc-4ee2-989e-320ceffc2320",
+        "commodities": [
+            "fish sauce"
+        ]
+    },
+    {
+        "doc_id": "50f24c69-af70-4a89-bfec-4279e08bb1df",
+        "commodities": [
+            "harissa",
+            "red hot pepper paste"
+        ]
+    },
+    {
+        "doc_id": "65e9c4ee-274d-41be-99a5-a56fed4e5bc7",
+        "commodities": [
+            "halwa tehenia"
+        ]
+    },
+    {
+        "doc_id": "369dc213-0531-48dd-88e3-da2843773b84",
+        "commodities": [
+            "tree tomatoes"
+        ]
+    },
+    {
+        "doc_id": "86b8ec6e-5906-46a0-ac50-65d60b8e9121",
+        "commodities": [
+            "canned fruit cocktail"
+        ]
+    },
+    {
+        "doc_id": "71c4523f-9761-49ec-944d-a596f491674b",
+        "commodities": [
+            "canned tuna",
+            "bonito"
+        ]
+    },
+    {
+        "doc_id": "444151c5-7b47-4c9d-aa86-cbd1f47dd7ef",
+        "commodities": [
+            "canned sardines",
+            "sardine-type products"
+        ]
+    },
+    {
+        "doc_id": "57aa887b-c886-4568-bc63-162de17b5d78",
+        "commodities": [
+            "canned citrus fruits"
+        ]
+    },
+    {
+        "doc_id": "01b05470-c4a2-40b2-af00-db5b5059335a",
+        "commodities": [
+            "mozzarella"
+        ]
+    },
+    {
+        "doc_id": "cbd62c94-f560-41a5-826f-fab4c8fc1296",
+        "commodities": [
+            "danbo"
+        ]
+    },
+    {
+        "doc_id": "2845d947-7bd6-4677-bfb1-619ecfccb25a",
+        "commodities": [
+            "edam"
+        ]
+    },
+    {
+        "doc_id": "a7259030-7889-447e-b98e-5cb10f9897c0",
+        "commodities": [
+            "havarti"
+        ]
+    },
+    {
+        "doc_id": "18c8edab-2da1-4bd0-b20d-5d6c56efa623",
+        "commodities": [
+            "samsø"
+        ]
+    },
+    {
+        "doc_id": "a3399942-776b-4859-8a03-6dc4054369c8",
+        "commodities": [
+            "emmental"
+        ]
+    },
+    {
+        "doc_id": "cb2e4b72-c96c-4da0-8207-a0416e4d28c8",
+        "commodities": [
+            "cottage cheese"
+        ]
+    },
+    {
+        "doc_id": "98dac4a8-d9c0-4d52-8a90-4a3e99032362",
+        "commodities": [
+            "coulommiers"
+        ]
+    },
+    {
+        "doc_id": "4c24cb5d-483d-47df-85e6-28c6968452a3",
+        "commodities": [
+            "cream cheese"
+        ]
+    },
+    {
+        "doc_id": "ad62b4ab-4f79-4b8c-963c-22492d7f7614",
+        "commodities": [
+            "brie"
+        ]
+    },
+    {
+        "doc_id": "313c9e48-511a-4e24-a0b2-2f63e62451b9",
+        "commodities": [
+            "fruit juices",
+            "nectars"
+        ]
+    },
+    {
+        "doc_id": "e1c9250f-bc19-4a54-8352-62ba49d43b2e",
+        "commodities": [
+            "soy protein products"
+        ]
+    },
+    {
+        "doc_id": "4381b011-306b-477e-9e11-676eb2de44ab",
+        "commodities": [
+            "pearl millet flour"
+        ]
+    },
+    {
+        "doc_id": "3510f421-7495-40ee-bcbd-d04f8f211b48",
+        "commodities": [
+            "asparagus"
+        ]
+    },
+    {
+        "doc_id": "e96711c6-d7a7-4068-b483-63e53e07d361",
+        "commodities": [
+            "tomatoes"
+        ]
+    },
+    {
+        "doc_id": "11240002-001e-4508-b281-4223bf6903af",
+        "commodities": [
+            "live bivalve molluscs",
+            "raw bivalve molluscs"
+        ]
+    },
+    {
+        "doc_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "commodities": [
+            "tempe"
+        ]
+    },
+    {
+        "doc_id": "10ad5961-70ca-4a4a-a3b3-b251fa7e6fd1",
+        "commodities": [
+            "date paste"
+        ]
+    },
+    {
+        "doc_id": "7b6cd489-e219-452a-aa8d-80c498806700",
+        "commodities": [
+            "scallop products"
+        ]
+    },
+    {
+        "doc_id": "7139832c-1d60-409e-b327-53e0990acf0b",
+        "commodities": [
+            "quick frozen vegetables"
+        ]
+    },
+    {
+        "doc_id": "b2aaaf3c-0cac-4891-ad82-0a0bd003a39a",
+        "commodities": [
+            "ginseng products"
+        ]
+    },
+    {
+        "doc_id": "ce072e9f-1ce8-46b2-b0fb-261e546c972e",
+        "commodities": [
+            "durian"
+        ]
+    },
+    {
+        "doc_id": "488b4b89-6103-40dc-b1ab-ee607eaba710",
+        "commodities": [
+            "okra"
+        ]
+    },
+    {
+        "doc_id": "81076ed7-144b-4f9a-b7af-d21f76d3e423",
+        "commodities": [
+            "non-fermented soybean products"
+        ]
+    },
+    {
+        "doc_id": "f2accca1-0d96-4ae1-8724-28b84ede95bc",
+        "commodities": [
+            "fish oils"
+        ]
+    },
+    {
+        "doc_id": "1872a79f-7c78-45c9-b3e5-ab50bc409a4d",
+        "commodities": [
+            "unrefined shea butter"
+        ]
+    },
+    {
+        "doc_id": "6b0922a8-c9a8-4bd2-834c-5615ca1593b2",
+        "commodities": [
+            "laver products"
+        ]
+    },
+    {
+        "doc_id": "736e076d-8e85-4c41-88bc-9935a7947d32",
+        "commodities": [
+            "black pepper",
+            "white pepper",
+            "green pepper"
+        ]
+    },
+    {
+        "doc_id": "eb5b810e-9d59-472a-acce-f52c0b7e9e64",
+        "commodities": [
+            "cumin"
+        ]
+    },
+    {
+        "doc_id": "4a45e202-f96c-4d5f-ad27-89f53371f355",
+        "commodities": [
+            "dried thyme"
+        ]
+    },
+    {
+        "doc_id": "00aadbc2-54d0-46f6-92b5-5d0f0d341b3e",
+        "commodities": [
+            "dairy permeate powders"
+        ]
+    },
+    {
+        "doc_id": "3eff3905-972e-4127-8a78-81011ca17d88",
+        "commodities": [
+            "yacon"
+        ]
+    },
+    {
+        "doc_id": "c1fb5834-9925-4578-86d0-d50fb704eed2",
+        "commodities": [
+            "aubergines"
+        ]
+    },
+    {
+        "doc_id": "0c748538-6785-487a-ab8c-c855244fae3c",
+        "commodities": [
+            "doogh"
+        ]
+    },
+    {
+        "doc_id": "00cc9ee5-0e5d-4c94-af29-8498be5a6eeb",
+        "commodities": [
+            "quinoa"
+        ]
+    },
+    {
+        "doc_id": "5dc9d5d5-1969-472a-9f0d-ade33c078e78",
+        "commodities": [
+            "fermented cooked cassava-based products"
+        ]
+    },
+    {
+        "doc_id": "6ff85d78-3737-4152-8ad3-1e76de35d20e",
+        "commodities": [
+            "fresh leaves of gnetum spp."
+        ]
+    },
+    {
+        "doc_id": "8d64f742-c811-4d56-971a-20b4c449202a",
+        "commodities": [
+            "kava products"
+        ]
+    },
+    {
+        "doc_id": "8a3fcb0d-0df5-432a-b9b3-6d17657f1d22",
+        "commodities": [
+            "fresh garlic"
+        ]
+    },
+    {
+        "doc_id": "3d742ff9-230f-4a84-851b-9050c2281238",
+        "commodities": [
+            "kiwifruit"
+        ]
+    },
+    {
+        "doc_id": "147e7918-0c73-4fad-a6f5-24a171aabc8f",
+        "commodities": [
+            "ware potatoes"
+        ]
+    },
+    {
+        "doc_id": "3006d1b0-e9de-4c39-b299-e59bd39d8627",
+        "commodities": [
+            "yam"
+        ]
+    },
+    {
+        "doc_id": "bb3f0089-59be-4d11-8aa6-4da9359cc7ad",
+        "commodities": [
+            "mixed zaatar"
+        ]
+    },
+    {
+        "doc_id": "9ab9f2f8-22d8-4e09-bb03-9fdda11b72ad",
+        "commodities": [
+            "dried oregano"
+        ]
+    },
+    {
+        "doc_id": "65e70788-8f84-4fc0-a55a-ffef41cbedff",
+        "commodities": [
+            "dried ginger",
+            "dehydrated ginger"
+        ]
+    },
+    {
+        "doc_id": "d6410f49-eab4-406e-b2cf-2c16d2aea87f",
+        "commodities": [
+            "cloves"
+        ]
+    },
+    {
+        "doc_id": "68889d35-0c0e-4ecd-93fd-13c432ea0c30",
+        "commodities": [
+            "dried basil"
+        ]
+    },
+    {
+        "doc_id": "9f7d6cf0-a0c8-4514-ac1c-91a6e5b47a71",
+        "commodities": [
+            "dried garlic",
+            "dehydrated garlic"
+        ]
+    },
+    {
+        "doc_id": "31aae31b-e193-41ca-87df-cacdfd180a84",
+        "commodities": [
+            "onions",
+            "shallots"
+        ]
+    },
+    {
+        "doc_id": "0f105010-5766-4c36-8a5e-be87d8eca97a",
+        "commodities": [
+            "berry fruits"
+        ]
+    },
+    {
+        "doc_id": "52bec2bd-82cd-460f-86e6-25dd0a6457c8",
+        "commodities": [
+            "nutmeg"
+        ]
+    },
+    {
+        "doc_id": "91d72870-ad5f-4326-9619-4af7773a366b",
+        "commodities": [
+            "dried meat"
+        ]
+    },
+    {
+        "doc_id": "85791fc8-de36-46e3-9d96-46803b1420cf",
+        "commodities": [
+            "dried chilli pepper",
+            "dehydrated chilli pepper",
+            "paprika"
+        ]
+    },
+    {
+        "doc_id": "d9e03469-bc47-46e3-b32e-3718da10fe53",
+        "commodities": [
+            "fermented noni fruit juice"
+        ]
+    },
+    {
+        "doc_id": "5a04420a-c446-4529-a966-cb6a6f968388",
+        "commodities": [
+            "soybean products"
+        ]
+    },
+    {
+        "doc_id": "3c6278b0-da9c-46f9-b043-a088587a2310",
+        "commodities": [
+            "cooked rice",
+            "plant leaves"
+        ]
+    },
+    {
+        "doc_id": "d780ddcc-3bd2-4f21-be3c-6babc73c89a1",
+        "commodities": [
+            "turmeric"
+        ]
+    },
+    {
+        "doc_id": "d940cbe8-f7f6-4fdc-9418-bbbde8f7b030",
+        "commodities": [
+            "allspice",
+            "juniper berry",
+            "star anise"
+        ]
+    },
+    {
+        "doc_id": "74ac128a-1f02-4f9b-90c7-3ac04ff93017",
+        "commodities": [
+            "small cardamom"
+        ]
+    },
+    {
+        "doc_id": "095ccf88-5cb6-4c7d-8eb3-ff0c0aebd8bb",
+        "commodities": [
+            "saffron"
+        ]
+    },
+    {
+        "doc_id": "e30d1293-80cb-4fba-9bdb-f3b33eee3779",
+        "commodities": [
+            "canned mixed fruits"
+        ]
+    },
+    {
+        "doc_id": "0a4531a2-55f8-4244-a158-c979dd58555d",
+        "commodities": [
+            "terrestrial animals (mammals",
+            "reptiles",
+            "birds",
+            "bees)",
+            "animal products",
+            "veterinary public health"
+        ]
+    }
+]

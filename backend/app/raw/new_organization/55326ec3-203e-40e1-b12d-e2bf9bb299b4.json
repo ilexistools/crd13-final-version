@@ -1,0 +1,1739 @@
+{
+  "document": {
+    "id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 75-2010",
+    "year": "2010",
+    "title": "Guidelines on Substances used as Processing Aids",
+    "label": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+    "committee": "CCFA",
+    "last_modified": "2010",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B75-2010%252FCXG_075e.pdf",
+    "processes": [
+      "Food Processing and Production"
+    ]
+  },
+  "commodities": [
+    {
+      "name": "processing aids",
+      "terms": [
+        "processing aids",
+        "processing aid residues"
+      ],
+      "sources": {
+        "documents_info": true,
+        "commodities_index": true
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "OBJECTIVES AND SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "OBJECTIVES AND SCOPE"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 1, p. 1",
+      "text": "The Guidelines aim to provide information for the safe use of substances used as processing aids and the safety of their residues in the preparation of foods and food ingredients.",
+      "retrieval_text": "OBJECTIVES AND SCOPE\nnumber=1\nlevel=1\nThe Guidelines aim to provide information for the safe use of substances used as processing aids and the safety of their residues in the preparation of foods and food ingredients.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The Guidelines aim to provide information for the safe use of substances used as processing aids and the safety of their residues in the preparation of foods and food ingredients."
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "OBJECTIVES AND SCOPE",
+        "process_candidates": [
+          "OBJECTIVES AND SCOPE",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "1 - OBJECTIVES AND SCOPE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "OBJECTIVES AND SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "OBJECTIVES AND SCOPE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "OBJECTIVES AND SCOPE",
+        "process_candidates": [
+          "OBJECTIVES AND SCOPE",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "1 - OBJECTIVES AND SCOPE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "OBJECTIVES AND SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "OBJECTIVES AND SCOPE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 1, p. 1"
+      }
+    },
+    {
+      "id": "2",
+      "key": "num::2",
+      "raw_id": "num::2",
+      "number": "2",
+      "title": "DEFINITION",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "DEFINITION"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 2, p. 1",
+      "text": "Processing aid means any substance or material, not including apparatus or utensils, and not consumed as a food ingredient by itself, intentionally used in the processing of raw materials, foods or its ingredients, to fulfil a certain technological purpose during treatment or processing and which may result in the non-intentional but unavoidable presence of residues or derivatives in the final product.",
+      "retrieval_text": "DEFINITION\nnumber=2\nlevel=1\nProcessing aid means any substance or material, not including apparatus or utensils, and not consumed as a food ingredient by itself, intentionally used in the processing of raw materials, foods or its ingredients, to fulfil a certain technological purpose during treatment or processing and which may result in the non-intentional but unavoidable presence of residues or derivatives in the final product.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Processing aid means any substance or material, not including apparatus or utensils, and not consumed as a food ingredient by itself, intentionally used in the processing of raw materials, foods or its ingredients, to fulfil a certain technological purpose during treatment or processing and which may result in the non-intentional but unavoidable presence of residues or derivatives in the final product."
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DEFINITION",
+        "process_candidates": [
+          "DEFINITION",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "2 - DEFINITION",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "DEFINITION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DEFINITION"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DEFINITION",
+        "process_candidates": [
+          "DEFINITION",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "2 - DEFINITION",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "DEFINITION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DEFINITION"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 2, p. 1"
+      }
+    },
+    {
+      "id": "3",
+      "key": "num::3",
+      "raw_id": "num::3",
+      "number": "3",
+      "title": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": true,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3, p. 1",
+      "text": "",
+      "retrieval_text": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS\nnumber=3\nlevel=1",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "process_candidates": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3 - PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "process_candidates": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3 - PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3, p. 1"
+      }
+    },
+    {
+      "id": "5.0",
+      "key": "num::5.0",
+      "raw_id": "num::5.0",
+      "number": "5.0",
+      "title": "LABELLING",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "5.0"
+      ],
+      "path_titles": [
+        "LABELLING"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 5.0, p. 1",
+      "text": "Labelling of substances used as processing aids should be in accordance with the requirement of the Codex General Standard for Labelling of Food Additives When Sold as Such (CODEX STAN 107-1981) and the Codex General Standard for the Labelling of Prepackaged Food (CODEX STAN 1-1985).",
+      "retrieval_text": "LABELLING\nnumber=5.0\nlevel=1\nLabelling of substances used as processing aids should be in accordance with the requirement of the Codex General Standard for Labelling of Food Additives When Sold as Such (CODEX STAN 107-1981) and the Codex General Standard for the Labelling of Prepackaged Food (CODEX STAN 1-1985).",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Labelling of substances used as processing aids should be in accordance with the requirement of the Codex General Standard for Labelling of Food Additives When Sold as Such (CODEX STAN 107-1981) and the Codex General Standard for the Labelling of Prepackaged Food (CODEX STAN 1-1985)."
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING",
+        "process_candidates": [
+          "LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "5.0 - LABELLING",
+        "section_id": "5.0",
+        "section_number": "5.0",
+        "section_title": "LABELLING",
+        "section_path": [
+          "5.0"
+        ],
+        "section_path_titles": [
+          "LABELLING"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 5.0, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING",
+        "process_candidates": [
+          "LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "5.0 - LABELLING",
+        "section_id": "5.0",
+        "section_number": "5.0",
+        "section_title": "LABELLING",
+        "section_path": [
+          "5.0"
+        ],
+        "section_path_titles": [
+          "LABELLING"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 5.0, p. 1"
+      }
+    },
+    {
+      "id": "3.1",
+      "key": "num::3.1",
+      "raw_id": "num::3.1",
+      "number": "3.1",
+      "title": "The use of a substance as a processing aid is justified when such use performs one or more technological functions during treatment or processing of raw materials, foods, or ingredients. Any residues of processing aids remaining in the food after processing should not perform a technological function in the final product.",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+      "path": [
+        "3",
+        "3.1"
+      ],
+      "path_titles": [
+        "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "3.1"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.1, p. 1",
+      "text": "",
+      "retrieval_text": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS > 3.1\nnumber=3.1\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE USE OF A SUBSTANCE AS A PROCESSING AID IS JUSTIFIED WHEN SUCH USE PERFORMS ONE OR MORE TECHNOLOGICAL FUNCTIONS DURING TREATMENT OR PROCESSING OF RAW MATERIALS, FOODS, OR INGREDIENTS. ANY RESIDUES OF PROCESSING AIDS REMAINING IN THE FOOD AFTER PROCESSING SHOULD NOT PERFORM A TECHNOLOGICAL FUNCTION IN THE FINAL PRODUCT.",
+        "process_candidates": [
+          "The use of a substance as a processing aid is justified when such use performs one or more technological functions during treatment or processing of raw materials, foods, or ingredients. Any residues of processing aids remaining in the food after processing should not perform a technological function in the final product.",
+          "3.1",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.1 - The use of a substance as a processing aid is justified when such use performs one or more technological functions during treatment or processing of raw materials, foods, or ingredients. Any residues of processing aids remaining in the food after processing should not perform a technological function in the final product.",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "The use of a substance as a processing aid is justified when such use performs one or more technological functions during treatment or processing of raw materials, foods, or ingredients. Any residues of processing aids remaining in the food after processing should not perform a technological function in the final product.",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.1"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE USE OF A SUBSTANCE AS A PROCESSING AID IS JUSTIFIED WHEN SUCH USE PERFORMS ONE OR MORE TECHNOLOGICAL FUNCTIONS DURING TREATMENT OR PROCESSING OF RAW MATERIALS, FOODS, OR INGREDIENTS. ANY RESIDUES OF PROCESSING AIDS REMAINING IN THE FOOD AFTER PROCESSING SHOULD NOT PERFORM A TECHNOLOGICAL FUNCTION IN THE FINAL PRODUCT.",
+        "process_candidates": [
+          "The use of a substance as a processing aid is justified when such use performs one or more technological functions during treatment or processing of raw materials, foods, or ingredients. Any residues of processing aids remaining in the food after processing should not perform a technological function in the final product.",
+          "3.1",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.1 - The use of a substance as a processing aid is justified when such use performs one or more technological functions during treatment or processing of raw materials, foods, or ingredients. Any residues of processing aids remaining in the food after processing should not perform a technological function in the final product.",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "The use of a substance as a processing aid is justified when such use performs one or more technological functions during treatment or processing of raw materials, foods, or ingredients. Any residues of processing aids remaining in the food after processing should not perform a technological function in the final product.",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.1"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.1, p. 1"
+      }
+    },
+    {
+      "id": "3.2",
+      "key": "num::3.2",
+      "raw_id": "num::3.2",
+      "number": "3.2",
+      "title": "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+      "path": [
+        "3",
+        "3.2"
+      ],
+      "path_titles": [
+        "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "3.2"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.2, p. 1",
+      "text": "• The quantity of the substance used shall be limited to the lowest achievable level necessary to accomplish its desired technological function; • Residues or derivatives of the substance remaining in food should be reduced to the extent reasonably achievable and should not pose any health risk; and • The substance is prepared and handled in the same way as a food ingredient.",
+      "retrieval_text": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS > 3.2\nnumber=3.2\nlevel=2\n• The quantity of the substance used shall be limited to the lowest achievable level necessary to accomplish its desired technological function; • Residues or derivatives of the substance remaining in food should be reduced to the extent reasonably achievable and should not pose any health risk; and • The substance is prepared and handled in the same way as a food ingredient.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "• The quantity of the substance used shall be limited to the lowest achievable level necessary to accomplish its desired technological function; • Residues or derivatives of the substance remaining in food should be reduced to the extent reasonably achievable and should not pose any health risk; and • The substance is prepared and handled in the same way as a food ingredient."
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SUBSTANCES USED AS PROCESSING AIDS SHALL BE USED UNDER CONDITIONS OF GOOD MANUFACTURING PRACTICES (GMP) WHICH INCLUDES THE FOLLOWING:",
+        "process_candidates": [
+          "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+          "3.2",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.2 - Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.2"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SUBSTANCES USED AS PROCESSING AIDS SHALL BE USED UNDER CONDITIONS OF GOOD MANUFACTURING PRACTICES (GMP) WHICH INCLUDES THE FOLLOWING:",
+        "process_candidates": [
+          "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+          "3.2",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.2 - Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.2"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.2, p. 1"
+      }
+    },
+    {
+      "id": "3.3",
+      "key": "num::3.3",
+      "raw_id": "num::3.3",
+      "number": "3.3",
+      "title": "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+      "path": [
+        "3",
+        "3.3"
+      ],
+      "path_titles": [
+        "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "3.3"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.3, p. 1",
+      "text": "The demonstration of safety should include appropriate assessment of any unintended or unavoidable residues resulting from its use as a processing aid under conditions of GMP.",
+      "retrieval_text": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS > 3.3\nnumber=3.3\nlevel=2\nThe demonstration of safety should include appropriate assessment of any unintended or unavoidable residues resulting from its use as a processing aid under conditions of GMP.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The demonstration of safety should include appropriate assessment of any unintended or unavoidable residues resulting from its use as a processing aid under conditions of GMP."
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE SAFETY OF A SUBSTANCE USED AS A PROCESSING AID SHOULD BE DEMONSTRATED BY THE SUPPLIER OR THE USER OF THE SUBSTANCE.",
+        "process_candidates": [
+          "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+          "3.3",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.3 - The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.3"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.3, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE SAFETY OF A SUBSTANCE USED AS A PROCESSING AID SHOULD BE DEMONSTRATED BY THE SUPPLIER OR THE USER OF THE SUBSTANCE.",
+        "process_candidates": [
+          "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+          "3.3",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.3 - The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.3"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.3, p. 1"
+      }
+    },
+    {
+      "id": "3.4",
+      "key": "num::3.4",
+      "raw_id": "num::3.4",
+      "number": "3.4",
+      "title": "Substances used as processing aids should be of food grade quality.",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+      "path": [
+        "3",
+        "3.4"
+      ],
+      "path_titles": [
+        "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "3.4"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 4,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.4, p. 1",
+      "text": "This can be demonstrated by conforming to the applicable specifications of identity and purity recommended by the Codex Alimentarius Commission or, in the absence of such a specification, with an appropriate specification developed by responsible national or international bodies or suppliers.",
+      "retrieval_text": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS > 3.4\nnumber=3.4\nlevel=2\nThis can be demonstrated by conforming to the applicable specifications of identity and purity recommended by the Codex Alimentarius Commission or, in the absence of such a specification, with an appropriate specification developed by responsible national or international bodies or suppliers.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "This can be demonstrated by conforming to the applicable specifications of identity and purity recommended by the Codex Alimentarius Commission or, in the absence of such a specification, with an appropriate specification developed by responsible national or international bodies or suppliers."
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SUBSTANCES USED AS PROCESSING AIDS SHOULD BE OF FOOD GRADE QUALITY.",
+        "process_candidates": [
+          "Substances used as processing aids should be of food grade quality.",
+          "3.4",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.4 - Substances used as processing aids should be of food grade quality.",
+        "section_id": "3.4",
+        "section_number": "3.4",
+        "section_title": "Substances used as processing aids should be of food grade quality.",
+        "section_path": [
+          "3",
+          "3.4"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.4"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.4, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SUBSTANCES USED AS PROCESSING AIDS SHOULD BE OF FOOD GRADE QUALITY.",
+        "process_candidates": [
+          "Substances used as processing aids should be of food grade quality.",
+          "3.4",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.4 - Substances used as processing aids should be of food grade quality.",
+        "section_id": "3.4",
+        "section_number": "3.4",
+        "section_title": "Substances used as processing aids should be of food grade quality.",
+        "section_path": [
+          "3",
+          "3.4"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.4"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.4, p. 1"
+      }
+    },
+    {
+      "id": "3.5",
+      "key": "num::3.5",
+      "raw_id": "num::3.5",
+      "number": "3.5",
+      "title": "Substances used as processing aids should comply with any applicable microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997) and should be prepared and handled in accordance with the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969) and other relevant Codex texts.",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+      "path": [
+        "3",
+        "3.5"
+      ],
+      "path_titles": [
+        "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+        "3.5"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 5,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.5, p. 1",
+      "text": "",
+      "retrieval_text": "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS > 3.5\nnumber=3.5\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 152,
+        "order": 8
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SUBSTANCES USED AS PROCESSING AIDS SHOULD COMPLY WITH ANY APPLICABLE MICROBIOLOGICAL CRITERIA ESTABLISHED IN ACCORDANCE WITH THE PRINCIPLES FOR THE ESTABLISHMENT AND APPLICATION OF MICROBIOLOGICAL CRITERIA FOR FOODS (CAC/GL 21-1997) AND SHOULD BE PREPARED AND HANDLED IN ACCORDANCE WITH THE RECOMMENDED INTERNATIONAL CODE OF PRACTICE – GENERAL PRINCIPLES OF FOOD HYGIENE (CAC/RCP 1-1969) AND OTHER RELEVANT CODEX TEXTS.",
+        "process_candidates": [
+          "Substances used as processing aids should comply with any applicable microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997) and should be prepared and handled in accordance with the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969) and other relevant Codex texts.",
+          "3.5",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.5 - Substances used as processing aids should comply with any applicable microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997) and should be prepared and handled in accordance with the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969) and other relevant Codex texts.",
+        "section_id": "3.5",
+        "section_number": "3.5",
+        "section_title": "Substances used as processing aids should comply with any applicable microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997) and should be prepared and handled in accordance with the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969) and other relevant Codex texts.",
+        "section_path": [
+          "3",
+          "3.5"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.5"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.5, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SUBSTANCES USED AS PROCESSING AIDS SHOULD COMPLY WITH ANY APPLICABLE MICROBIOLOGICAL CRITERIA ESTABLISHED IN ACCORDANCE WITH THE PRINCIPLES FOR THE ESTABLISHMENT AND APPLICATION OF MICROBIOLOGICAL CRITERIA FOR FOODS (CAC/GL 21-1997) AND SHOULD BE PREPARED AND HANDLED IN ACCORDANCE WITH THE RECOMMENDED INTERNATIONAL CODE OF PRACTICE – GENERAL PRINCIPLES OF FOOD HYGIENE (CAC/RCP 1-1969) AND OTHER RELEVANT CODEX TEXTS.",
+        "process_candidates": [
+          "Substances used as processing aids should comply with any applicable microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997) and should be prepared and handled in accordance with the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969) and other relevant Codex texts.",
+          "3.5",
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "3.5 - Substances used as processing aids should comply with any applicable microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997) and should be prepared and handled in accordance with the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969) and other relevant Codex texts.",
+        "section_id": "3.5",
+        "section_number": "3.5",
+        "section_title": "Substances used as processing aids should comply with any applicable microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997) and should be prepared and handled in accordance with the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969) and other relevant Codex texts.",
+        "section_path": [
+          "3",
+          "3.5"
+        ],
+        "section_path_titles": [
+          "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+          "3.5"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.5, p. 1"
+      }
+    },
+    {
+      "id": "152",
+      "key": "152",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "The Guidelines aim to provide information for the safe use of substances used as processing aids and the safety of their residues in the preparation of foods and food ingredients.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Relevant regulatory or safety guidance related to food processing aids.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "The Guidelines aim to provide information for the safe use of substances used as processing aids and the safety of their residues in the preparation of foods and food ingredients.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Informative",
+            "modality": "undefined",
+            "function": "Objective Statement",
+            "pattern": "Declarative sentence stating purpose and scope",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "purpose": "provide information for the safe use of substances used as processing aids",
+              "safety_aspect": "safety of their residues in the preparation of foods and food ingredients"
+            },
+            "justification": "The sentence is a general statement of purpose without normative modality or condition; it defines scope and aim, fitting an informative category with a declarative pattern.",
+            "notes": [
+              "No normative or directive modality present; purely descriptive."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "INFORMATIVE",
+            "subject_candidates": [
+              "INFORMATIVE",
+              "PROCESSING AIDS",
+              "OBJECTIVES AND SCOPE"
+            ],
+            "process": "OBJECTIVES AND SCOPE",
+            "process_candidates": [
+              "OBJECTIVES AND SCOPE",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "1 - OBJECTIVES AND SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "OBJECTIVES AND SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "OBJECTIVES AND SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "INFORMATIVE",
+            "subject_candidates": [
+              "INFORMATIVE",
+              "PROCESSING AIDS",
+              "OBJECTIVES AND SCOPE"
+            ],
+            "process": "OBJECTIVES AND SCOPE",
+            "process_candidates": [
+              "OBJECTIVES AND SCOPE",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "1 - OBJECTIVES AND SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "OBJECTIVES AND SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "OBJECTIVES AND SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Processing aid means any substance or material, not including apparatus or utensils, and not consumed as a food ingredient by itself, intentionally used in the processing of raw materials, foods or its ingredients, to fulfil a certain technological purpose during treatment or processing and which may result in the non-intentional but unavoidable presence of residues or derivatives in the final product.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Processing aid means any substance or material, not including apparatus or utensils, and not consumed as a food ingredient by itself, intentionally used in the processing of raw materials, foods or its ingredients, to fulfil a certain technological purpose during treatment or processing and which may result in the non-intentional but unavoidable presence of residues or derivatives in the final product.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Definition",
+            "pattern": "Complex definitional sentence with qualifiers and exclusions",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "Processing aid",
+              "definition": "any substance or material, not including apparatus or utensils, and not consumed as a food ingredient by itself, intentionally used in the processing of raw materials, foods or its ingredients, to fulfil a certain technological purpose during treatment or processing",
+              "additional_info": "may result in the non-intentional but unavoidable presence of residues or derivatives in the final product"
+            },
+            "justification": "The sentence provides an explicit definition with multiple embedded clauses and exceptions; modality is not normative but descriptive.",
+            "notes": [
+              "Definition sentences typically do not carry modality but clarify terminology."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PROCESSING AID",
+            "subject_candidates": [
+              "PROCESSING AID",
+              "DEFINITION",
+              "PROCESSING AIDS"
+            ],
+            "process": "DEFINITION",
+            "process_candidates": [
+              "DEFINITION",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "2 - DEFINITION",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "DEFINITION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DEFINITION"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PROCESSING AID",
+            "subject_candidates": [
+              "PROCESSING AID",
+              "DEFINITION",
+              "PROCESSING AIDS"
+            ],
+            "process": "DEFINITION",
+            "process_candidates": [
+              "DEFINITION",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "2 - DEFINITION",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "DEFINITION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DEFINITION"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 3,
+          "original": "Labelling of substances used as processing aids should be in accordance with the requirement of the Codex General Standard for Labelling of Food Additives When Sold as Such (CODEX STAN 107-1981) and the Codex General Standard for the Labelling of Prepackaged Food (CODEX STAN 1-1985).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Labelling of substances used as processing aids should be in accordance with the requirement of the Codex General Standard for Labelling of Food Additives When Sold as Such (CODEX STAN 107-1981) and the Codex General Standard for the Labelling of Prepackaged Food (CODEX STAN 1-1985).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Normative Requirement",
+            "pattern": "Modal verb 'should' + prepositional phrase specifying standard compliance",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "Labelling of substances used as processing aids",
+              "obligation": "should be in accordance with the requirement of the Codex General Standard for Labelling of Food Additives When Sold as Such and the Codex General Standard for the Labelling of Prepackaged Food"
+            },
+            "justification": "The sentence expresses a normative obligation with 'should' directing compliance to specific standards, but no exact template found, partial match to obligation template.",
+            "notes": [
+              "The use of 'should' indicates recommendation stronger than permission but less than 'shall'."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LABELLING OF SUBSTANCES USED AS PROCESSING AIDS",
+            "subject_candidates": [
+              "LABELLING OF SUBSTANCES USED AS PROCESSING AIDS",
+              "OBLIGATION",
+              "PROCESSING AIDS",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "5.0 - LABELLING",
+            "section_id": "5.0",
+            "section_number": "5.0",
+            "section_title": "LABELLING",
+            "section_path": [
+              "5.0"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 5.0, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LABELLING OF SUBSTANCES USED AS PROCESSING AIDS",
+            "subject_candidates": [
+              "LABELLING OF SUBSTANCES USED AS PROCESSING AIDS",
+              "OBLIGATION",
+              "PROCESSING AIDS",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "5.0 - LABELLING",
+            "section_id": "5.0",
+            "section_number": "5.0",
+            "section_title": "LABELLING",
+            "section_path": [
+              "5.0"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 5.0, p. 1"
+          }
+        },
+        {
+          "order": 5,
+          "original": "• The quantity of the substance used shall be limited to the lowest achievable level necessary to accomplish its desired technological function; • Residues or derivatives of the substance remaining in food should be reduced to the extent reasonably achievable and should not pose any health risk; and • The substance is prepared and handled in the same way as a food ingredient.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "• The quantity of the substance used shall be limited to the lowest achievable level necessary to accomplish its desired technological function; • Residues or derivatives of the substance remaining in food should be reduced to the extent reasonably achievable and should not pose any health risk; and • The substance is prepared and handled in the same way as a food ingredient.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Multiple Normative Requirements",
+            "pattern": "Series of clauses with 'shall' and 'should' stating limits and handling procedures",
+            "template_match_score": 0.75,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "limit_quantity": "shall be limited to the lowest achievable level necessary to accomplish its desired technological function",
+              "reduce_residues": "should be reduced to the extent reasonably achievable and should not pose any health risk",
+              "handling": "is prepared and handled in the same way as a food ingredient"
+            },
+            "justification": "The sentence contains multiple normative clauses with different modal verbs indicating obligations and recommendations; partial fit to combined obligation templates.",
+            "notes": [
+              "Contains both 'shall' (strong obligation) and 'should' (recommendation), indicating mixed normative strength."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PROCESSING AIDS",
+              "SUBSTANCES USED AS PROCESSING AIDS SHALL BE USED UNDER CONDITIONS OF GOOD MANUFACTURING PRACTICES (GMP) WHICH INCLUDES THE FOLLOWING:"
+            ],
+            "process": "SUBSTANCES USED AS PROCESSING AIDS SHALL BE USED UNDER CONDITIONS OF GOOD MANUFACTURING PRACTICES (GMP) WHICH INCLUDES THE FOLLOWING:",
+            "process_candidates": [
+              "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+              "3.2",
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "3.2 - Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+            "section_id": "3.2",
+            "section_number": "3.2",
+            "section_title": "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+            "section_path": [
+              "3",
+              "3.2"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "3.2"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PROCESSING AIDS",
+              "SUBSTANCES USED AS PROCESSING AIDS SHALL BE USED UNDER CONDITIONS OF GOOD MANUFACTURING PRACTICES (GMP) WHICH INCLUDES THE FOLLOWING:"
+            ],
+            "process": "SUBSTANCES USED AS PROCESSING AIDS SHALL BE USED UNDER CONDITIONS OF GOOD MANUFACTURING PRACTICES (GMP) WHICH INCLUDES THE FOLLOWING:",
+            "process_candidates": [
+              "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+              "3.2",
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "3.2 - Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+            "section_id": "3.2",
+            "section_number": "3.2",
+            "section_title": "Substances used as processing aids shall be used under conditions of good manufacturing practices (GMP) which includes the following:",
+            "section_path": [
+              "3",
+              "3.2"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "3.2"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.2, p. 1"
+          }
+        },
+        {
+          "order": 6,
+          "original": "The demonstration of safety should include appropriate assessment of any unintended or unavoidable residues resulting from its use as a processing aid under conditions of GMP.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The demonstration of safety should include appropriate assessment of any unintended or unavoidable residues resulting from its use as a processing aid under conditions of GMP.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Normative Instruction",
+            "pattern": "Modal verb 'should' + requirement to include specific assessments",
+            "template_match_score": 0.65,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "obligation": "demonstration of safety should include appropriate assessment of any unintended or unavoidable residues",
+              "context": "resulting from its use as a processing aid under conditions of GMP"
+            },
+            "justification": "The sentence expresses a recommended obligation via 'should' to include a specific assessment; partial fit to obligation templates.",
+            "notes": [
+              "Focus on assessment under specified good manufacturing practices (GMP)."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PROCESSING AIDS",
+              "THE SAFETY OF A SUBSTANCE USED AS A PROCESSING AID SHOULD BE DEMONSTRATED BY THE SUPPLIER OR THE USER OF THE SUBSTANCE."
+            ],
+            "process": "THE SAFETY OF A SUBSTANCE USED AS A PROCESSING AID SHOULD BE DEMONSTRATED BY THE SUPPLIER OR THE USER OF THE SUBSTANCE.",
+            "process_candidates": [
+              "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+              "3.3",
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "3.3 - The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "3.3"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.3, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PROCESSING AIDS",
+              "THE SAFETY OF A SUBSTANCE USED AS A PROCESSING AID SHOULD BE DEMONSTRATED BY THE SUPPLIER OR THE USER OF THE SUBSTANCE."
+            ],
+            "process": "THE SAFETY OF A SUBSTANCE USED AS A PROCESSING AID SHOULD BE DEMONSTRATED BY THE SUPPLIER OR THE USER OF THE SUBSTANCE.",
+            "process_candidates": [
+              "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+              "3.3",
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "3.3 - The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "The safety of a substance used as a processing aid should be demonstrated by the supplier or the user of the substance.",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "3.3"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.3, p. 1"
+          }
+        },
+        {
+          "order": 7,
+          "original": "This can be demonstrated by conforming to the applicable specifications of identity and purity recommended by the Codex Alimentarius Commission or, in the absence of such a specification, with an appropriate specification developed by responsible national or international bodies or suppliers.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Describes compliance methods with standards, relevant for regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.85
+          },
+          "classification": {
+            "sentence": "This can be demonstrated by conforming to the applicable specifications of identity and purity recommended by the Codex Alimentarius Commission or, in the absence of such a specification, with an appropriate specification developed by responsible national or international bodies or suppliers.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Permission",
+            "modality": "Permission",
+            "function": "Permissive Illustration",
+            "pattern": "Modal phrase 'can be demonstrated by' + specification conformity conditions",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "demonstration_method": "conforming to the applicable specifications of identity and purity recommended by the Codex Alimentarius Commission or appropriate alternative specifications"
+            },
+            "justification": "The sentence describes a permitted way to demonstrate compliance; modality is permissive with illustrative function; partial template match to permission types.",
+            "notes": [
+              "'Can' expresses possibility/permissibility without obligation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "PROCESSING AIDS",
+              "SUBSTANCES USED AS PROCESSING AIDS SHOULD BE OF FOOD GRADE QUALITY."
+            ],
+            "process": "SUBSTANCES USED AS PROCESSING AIDS SHOULD BE OF FOOD GRADE QUALITY.",
+            "process_candidates": [
+              "Substances used as processing aids should be of food grade quality.",
+              "3.4",
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "3.4 - Substances used as processing aids should be of food grade quality.",
+            "section_id": "3.4",
+            "section_number": "3.4",
+            "section_title": "Substances used as processing aids should be of food grade quality.",
+            "section_path": [
+              "3",
+              "3.4"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "3.4"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.4, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "PROCESSING AIDS",
+              "SUBSTANCES USED AS PROCESSING AIDS SHOULD BE OF FOOD GRADE QUALITY."
+            ],
+            "process": "SUBSTANCES USED AS PROCESSING AIDS SHOULD BE OF FOOD GRADE QUALITY.",
+            "process_candidates": [
+              "Substances used as processing aids should be of food grade quality.",
+              "3.4",
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+            "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+            "document_reference": "CXG 75-2010",
+            "document_title": "Guidelines on Substances used as Processing Aids",
+            "document_type": "Guidelines",
+            "section": "3.4 - Substances used as processing aids should be of food grade quality.",
+            "section_id": "3.4",
+            "section_number": "3.4",
+            "section_title": "Substances used as processing aids should be of food grade quality.",
+            "section_path": [
+              "3",
+              "3.4"
+            ],
+            "section_path_titles": [
+              "PRINCIPLES FOR THE SAFE USE OF SUBSTANCES USED AS PROCESSING AIDS",
+              "3.4"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "55326ec3-203e-40e1-b12d-e2bf9bb299b4, Section 3.4, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "152",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Food Processing and Production"
+        ],
+        "document": "CXG 75-2010 - Guidelines on Substances used as Processing Aids",
+        "document_id": "55326ec3-203e-40e1-b12d-e2bf9bb299b4",
+        "document_reference": "CXG 75-2010",
+        "document_title": "Guidelines on Substances used as Processing Aids",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "152",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 75-2010 Page 1 of 1",
+      "title": "GUIDELINES ON SUBSTANCES USED AS PROCESSING AIDS",
+      "summary": "A página estrutura o documento com o título principal e cinco seções, numeradas 1, 2, 3, e 5. A seção 3 possui subseções 3.1 a 3.5 explicando princípios para o uso seguro. A seção 3 continua na página seguinte. Níveis hierárquicos e textos estão claros, e o cabeçalho foi excluído do texto dos nós.",
+      "total_sections": 5,
+      "sections": [
+        "1",
+        "2",
+        "3",
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "5"
+      ]
+    }
+  ]
+}

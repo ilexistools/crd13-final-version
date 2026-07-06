@@ -1,0 +1,4318 @@
+{
+  "document": {
+    "id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+    "type": "CODEX",
+    "document_type": "Standards",
+    "reference": "CXS 313R-2013",
+    "year": "2013",
+    "title": "Regional Standard for Tempe (Asia)",
+    "label": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+    "committee": "CCASIA",
+    "last_modified": "2017",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXS%2B313R-2013%252FCXS_313Re.pdf",
+    "processes": [
+      "Product Standards"
+    ]
+  },
+  "commodities": [
+    {
+      "name": "tempe",
+      "terms": [
+        "tempe",
+        "cake-form product",
+        "dehulled boiled soybean",
+        "solid state fermentation",
+        "mould of rhizopus spp.",
+        "rhizopus oligosporus",
+        "rhizopus oryzae",
+        "rhizopus stolonifer",
+        "cooked rice powder",
+        "rice bran powder",
+        "wheat bran powder",
+        "tempe flavour",
+        "fresh tempe odour"
+      ],
+      "sources": {
+        "documents_info": true,
+        "commodities_index": true
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "1.",
+      "key": "num::1.",
+      "raw_id": "num::1.",
+      "number": "1.",
+      "title": "SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "SCOPE"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 1., p. 2",
+      "text": "This standard applies to tempe as defined in Section 2 below and intended for human consumption. It does not apply to those that undergone further processing other than freezing.",
+      "retrieval_text": "SCOPE\nnumber=1.\nlevel=1\nThis standard applies to tempe as defined in Section 2 below and intended for human consumption. It does not apply to those that undergone further processing other than freezing.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "This standard applies to tempe as defined in Section 2 below and intended for human consumption. It does not apply to those that undergone further processing other than freezing."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "1. - SCOPE",
+        "section_id": "1.",
+        "section_number": "1.",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 1., p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "1. - SCOPE",
+        "section_id": "1.",
+        "section_number": "1.",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 1., p. 2"
+      }
+    },
+    {
+      "id": "2.",
+      "key": "num::2.",
+      "raw_id": "num::2.",
+      "number": "2.",
+      "title": "DESCRIPTION",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "DESCRIPTION"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 2., p. 2",
+      "text": "Tempe is a compact, white, cake -form product, prepared from dehulled boiled soybeans through solid state fermentation with Rhizopus spp.",
+      "retrieval_text": "DESCRIPTION\nnumber=2.\nlevel=1\nTempe is a compact, white, cake -form product, prepared from dehulled boiled soybeans through solid state fermentation with Rhizopus spp.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "Tempe is a compact, white, cake -form product, prepared from dehulled boiled soybeans through solid state fermentation with Rhizopus spp."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DESCRIPTION",
+        "process_candidates": [
+          "DESCRIPTION",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "2. - DESCRIPTION",
+        "section_id": "2.",
+        "section_number": "2.",
+        "section_title": "DESCRIPTION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 2., p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DESCRIPTION",
+        "process_candidates": [
+          "DESCRIPTION",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "2. - DESCRIPTION",
+        "section_id": "2.",
+        "section_number": "2.",
+        "section_title": "DESCRIPTION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 2., p. 2"
+      }
+    },
+    {
+      "id": "3.",
+      "key": "num::3.",
+      "raw_id": "num::3.",
+      "number": "3.",
+      "title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3., p. 2",
+      "text": "",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS\nnumber=3.\nlevel=1",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "process_candidates": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3. - ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_id": "3.",
+        "section_number": "3.",
+        "section_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3., p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "process_candidates": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3. - ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_id": "3.",
+        "section_number": "3.",
+        "section_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3., p. 2"
+      }
+    },
+    {
+      "id": "4.",
+      "key": "num::4.",
+      "raw_id": "num::4.",
+      "number": "4.",
+      "title": "FOOD ADDITIVES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "4"
+      ],
+      "path_titles": [
+        "FOOD ADDITIVES"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 4., p. 2",
+      "text": "4.1 None permitted.\n4.2 Processing aids.\nProcessing aids can be used in these products to control acidity during soaking the beans.\nProcessing aids used in products covered by this standard shall comply with the Guidelines on substances used as processing aids (CXG 75-2010).",
+      "retrieval_text": "FOOD ADDITIVES\nnumber=4.\nlevel=1\n4.1 None permitted.\n4.2 Processing aids.\nProcessing aids can be used in these products to control acidity during soaking the beans.\nProcessing aids used in products covered by this standard shall comply with the Guidelines on substances used as processing aids (CXG 75-2010).",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "4.1 None permitted.\n4.2 Processing aids.\nProcessing aids can be used in these products to control acidity during soaking the beans.\nProcessing aids used in products covered by this standard shall comply with the Guidelines on substances used as processing aids (CXG 75-2010)."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD ADDITIVES",
+        "process_candidates": [
+          "FOOD ADDITIVES",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "4. - FOOD ADDITIVES",
+        "section_id": "4.",
+        "section_number": "4.",
+        "section_title": "FOOD ADDITIVES",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "FOOD ADDITIVES"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 4., p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD ADDITIVES",
+        "process_candidates": [
+          "FOOD ADDITIVES",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "4. - FOOD ADDITIVES",
+        "section_id": "4.",
+        "section_number": "4.",
+        "section_title": "FOOD ADDITIVES",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "FOOD ADDITIVES"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 4., p. 2"
+      }
+    },
+    {
+      "id": "5.",
+      "key": "num::5.",
+      "raw_id": "num::5.",
+      "number": "5.",
+      "title": "CONTAMINANTS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "5"
+      ],
+      "path_titles": [
+        "CONTAMINANTS"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 5., p. 2",
+      "text": "5.1 The products covered by this Standard shall comply with the maximum levels (MLs) of the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).\n5.2 The products covered by this Standard shall comply with the maximum residue limits (MRLs) for pesticides established by the Codex Alimentarius Commission.",
+      "retrieval_text": "CONTAMINANTS\nnumber=5.\nlevel=1\n5.1 The products covered by this Standard shall comply with the maximum levels (MLs) of the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).\n5.2 The products covered by this Standard shall comply with the maximum residue limits (MRLs) for pesticides established by the Codex Alimentarius Commission.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "5.1 The products covered by this Standard shall comply with the maximum levels (MLs) of the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).\n5.2 The products covered by this Standard shall comply with the maximum residue limits (MRLs) for pesticides established by the Codex Alimentarius Commission."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONTAMINANTS",
+        "process_candidates": [
+          "CONTAMINANTS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "5. - CONTAMINANTS",
+        "section_id": "5.",
+        "section_number": "5.",
+        "section_title": "CONTAMINANTS",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONTAMINANTS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 5., p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONTAMINANTS",
+        "process_candidates": [
+          "CONTAMINANTS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "5. - CONTAMINANTS",
+        "section_id": "5.",
+        "section_number": "5.",
+        "section_title": "CONTAMINANTS",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONTAMINANTS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 5., p. 2"
+      }
+    },
+    {
+      "id": "3.1",
+      "key": "num::3.1",
+      "raw_id": "num::3.1",
+      "number": "3.1",
+      "title": "Composition",
+      "level": 2,
+      "parent_id": "3.",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.1"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Composition"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.1, p. 2",
+      "text": "Product covered by this standard shall consist of the following ingredients:\n(a) Soybeans (any variety);\n(b) Mould of Rhizopus spp. (R. oligosporus,R. oryzae and/or R. stolonifer) mix with cooked rice powder, rice bran powder and/or wheat bran powder as an inocula.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Composition\nnumber=3.1\nlevel=2\nProduct covered by this standard shall consist of the following ingredients:\n(a) Soybeans (any variety);\n(b) Mould of Rhizopus spp. (R. oligosporus,R. oryzae and/or R. stolonifer) mix with cooked rice powder, rice bran powder and/or wheat bran powder as an inocula.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "Product covered by this standard shall consist of the following ingredients:\n(a) Soybeans (any variety);\n(b) Mould of Rhizopus spp. (R. oligosporus,R. oryzae and/or R. stolonifer) mix with cooked rice powder, rice bran powder and/or wheat bran powder as an inocula."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPOSITION",
+        "process_candidates": [
+          "Composition",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.1 - Composition",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "Composition",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Composition"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.1, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPOSITION",
+        "process_candidates": [
+          "Composition",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.1 - Composition",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "Composition",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Composition"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.1, p. 2"
+      }
+    },
+    {
+      "id": "3.2",
+      "key": "num::3.2",
+      "raw_id": "num::3.2",
+      "number": "3.2",
+      "title": "Quality Factors",
+      "level": 2,
+      "parent_id": "3.",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.2"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Quality Factors"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2, p. 2",
+      "text": "",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Quality Factors\nnumber=3.2\nlevel=2",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "QUALITY FACTORS",
+        "process_candidates": [
+          "Quality Factors",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.2 - Quality Factors",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Quality Factors",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Quality Factors"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "QUALITY FACTORS",
+        "process_candidates": [
+          "Quality Factors",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.2 - Quality Factors",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Quality Factors",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Quality Factors"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2, p. 2"
+      }
+    },
+    {
+      "id": "3.3",
+      "key": "num::3.3",
+      "raw_id": "num::3.3",
+      "number": "3.3",
+      "title": "Classification of “defectives”",
+      "level": 2,
+      "parent_id": "3.",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.3"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Classification of “defectives”"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.3, p. 2",
+      "text": "Any container that fails to meet the applicable quality requirements referred to in Section 3.2 should be considered as a “defective”.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Classification of “defectives”\nnumber=3.3\nlevel=2\nAny container that fails to meet the applicable quality requirements referred to in Section 3.2 should be considered as a “defective”.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "Any container that fails to meet the applicable quality requirements referred to in Section 3.2 should be considered as a “defective”."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLASSIFICATION OF “DEFECTIVES”",
+        "process_candidates": [
+          "Classification of “defectives”",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.3 - Classification of “defectives”",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Classification of “defectives”",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Classification of “defectives”"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.3, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLASSIFICATION OF “DEFECTIVES”",
+        "process_candidates": [
+          "Classification of “defectives”",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.3 - Classification of “defectives”",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Classification of “defectives”",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Classification of “defectives”"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.3, p. 2"
+      }
+    },
+    {
+      "id": "3.2.1",
+      "key": "num::3.2.1",
+      "raw_id": "num::3.2.1",
+      "number": "3.2.1",
+      "title": "Organoleptic",
+      "level": 3,
+      "parent_id": "3.2",
+      "parent_title": "Quality Factors",
+      "path": [
+        "3",
+        "3.2",
+        "3.2.1"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Quality Factors",
+        "Organoleptic"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.1, p. 2",
+      "text": "(a) Texture: Compact and not easily disintegrated upon cutting with knife.\n(b) Colour: White colour of luxurious growth of mycellium of Rhizopus spp.\n(c) Flavour: Characteristic of tempe flavour, nutty, meaty, and mushroom -like.\n(d) Odour: Characteristic of fresh tempe odour without ammonia smell.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Quality Factors > Organoleptic\nnumber=3.2.1\nlevel=3\n(a) Texture: Compact and not easily disintegrated upon cutting with knife.\n(b) Colour: White colour of luxurious growth of mycellium of Rhizopus spp.\n(c) Flavour: Characteristic of tempe flavour, nutty, meaty, and mushroom -like.\n(d) Odour: Characteristic of fresh tempe odour without ammonia smell.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "(a) Texture: Compact and not easily disintegrated upon cutting with knife.\n(b) Colour: White colour of luxurious growth of mycellium of Rhizopus spp.\n(c) Flavour: Characteristic of tempe flavour, nutty, meaty, and mushroom -like.\n(d) Odour: Characteristic of fresh tempe odour without ammonia smell."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 8
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ORGANOLEPTIC",
+        "process_candidates": [
+          "Organoleptic",
+          "Quality Factors",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.2.1 - Organoleptic",
+        "section_id": "3.2.1",
+        "section_number": "3.2.1",
+        "section_title": "Organoleptic",
+        "section_path": [
+          "3",
+          "3.2",
+          "3.2.1"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Quality Factors",
+          "Organoleptic"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.1, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ORGANOLEPTIC",
+        "process_candidates": [
+          "Organoleptic",
+          "Quality Factors",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.2.1 - Organoleptic",
+        "section_id": "3.2.1",
+        "section_number": "3.2.1",
+        "section_title": "Organoleptic",
+        "section_path": [
+          "3",
+          "3.2",
+          "3.2.1"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Quality Factors",
+          "Organoleptic"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.1, p. 2"
+      }
+    },
+    {
+      "id": "3.2.2",
+      "key": "num::3.2.2",
+      "raw_id": "num::3.2.2",
+      "number": "3.2.2",
+      "title": "Foreign Matters",
+      "level": 3,
+      "parent_id": "3.2",
+      "parent_title": "Quality Factors",
+      "path": [
+        "3",
+        "3.2",
+        "3.2.2"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Quality Factors",
+        "Foreign Matters"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.2, p. 2",
+      "text": "Tempe shall be free from foreign matters (e.g. other beans, small stone, husk etc).",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Quality Factors > Foreign Matters\nnumber=3.2.2\nlevel=3\nTempe shall be free from foreign matters (e.g. other beans, small stone, husk etc).",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "Tempe shall be free from foreign matters (e.g. other beans, small stone, husk etc)."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 9
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOREIGN MATTERS",
+        "process_candidates": [
+          "Foreign Matters",
+          "Quality Factors",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.2.2 - Foreign Matters",
+        "section_id": "3.2.2",
+        "section_number": "3.2.2",
+        "section_title": "Foreign Matters",
+        "section_path": [
+          "3",
+          "3.2",
+          "3.2.2"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Quality Factors",
+          "Foreign Matters"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.2, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOREIGN MATTERS",
+        "process_candidates": [
+          "Foreign Matters",
+          "Quality Factors",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.2.2 - Foreign Matters",
+        "section_id": "3.2.2",
+        "section_number": "3.2.2",
+        "section_title": "Foreign Matters",
+        "section_path": [
+          "3",
+          "3.2",
+          "3.2.2"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Quality Factors",
+          "Foreign Matters"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.2, p. 2"
+      }
+    },
+    {
+      "id": "3.2.3",
+      "key": "num::3.2.3",
+      "raw_id": "num::3.2.3",
+      "number": "3.2.3",
+      "title": "Analytical Requirements",
+      "level": 3,
+      "parent_id": "3.2",
+      "parent_title": "Quality Factors",
+      "path": [
+        "3",
+        "3.2",
+        "3.2.3"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Quality Factors",
+        "Analytical Requirements"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.3, p. 2",
+      "text": "(a)  Moisture content 65% w/w max.\n(b)  Protein content 15% w/w min.\n(c)  Lipid content 7% w/w min.\n(d)  Crude fibre 2.5% w/w max.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Quality Factors > Analytical Requirements\nnumber=3.2.3\nlevel=3\n(a)  Moisture content 65% w/w max.\n(b)  Protein content 15% w/w min.\n(c)  Lipid content 7% w/w min.\n(d)  Crude fibre 2.5% w/w max.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "(a)  Moisture content 65% w/w max.\n(b)  Protein content 15% w/w min.\n(c)  Lipid content 7% w/w min.\n(d)  Crude fibre 2.5% w/w max."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 10
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANALYTICAL REQUIREMENTS",
+        "process_candidates": [
+          "Analytical Requirements",
+          "Quality Factors",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.2.3 - Analytical Requirements",
+        "section_id": "3.2.3",
+        "section_number": "3.2.3",
+        "section_title": "Analytical Requirements",
+        "section_path": [
+          "3",
+          "3.2",
+          "3.2.3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Quality Factors",
+          "Analytical Requirements"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.3, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANALYTICAL REQUIREMENTS",
+        "process_candidates": [
+          "Analytical Requirements",
+          "Quality Factors",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "3.2.3 - Analytical Requirements",
+        "section_id": "3.2.3",
+        "section_number": "3.2.3",
+        "section_title": "Analytical Requirements",
+        "section_path": [
+          "3",
+          "3.2",
+          "3.2.3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Quality Factors",
+          "Analytical Requirements"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.3, p. 2"
+      }
+    },
+    {
+      "id": "6",
+      "key": "num::6",
+      "raw_id": "num::6",
+      "number": "6",
+      "title": "HYGIENE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "6"
+      ],
+      "path_titles": [
+        "HYGIENE"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6, p. 3",
+      "text": "6.1 It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.\n6.2 The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+      "retrieval_text": "HYGIENE\nnumber=6\nlevel=1\n6.1 It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.\n6.2 The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "6.1 It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.\n6.2 The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997)."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 11
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HYGIENE",
+        "process_candidates": [
+          "HYGIENE",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "6 - HYGIENE",
+        "section_id": "6",
+        "section_number": "6",
+        "section_title": "HYGIENE",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "HYGIENE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HYGIENE",
+        "process_candidates": [
+          "HYGIENE",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "6 - HYGIENE",
+        "section_id": "6",
+        "section_number": "6",
+        "section_title": "HYGIENE",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "HYGIENE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6, p. 3"
+      }
+    },
+    {
+      "id": "7",
+      "key": "num::7",
+      "raw_id": "num::7",
+      "number": "7",
+      "title": "LABELLING",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "7"
+      ],
+      "path_titles": [
+        "LABELLING"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7, p. 3",
+      "text": "7.1. The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).\n7.2 Name of the product\nThe name of the product to be shown on the label shall be “Tempe”.",
+      "retrieval_text": "LABELLING\nnumber=7\nlevel=1\n7.1. The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).\n7.2 Name of the product\nThe name of the product to be shown on the label shall be “Tempe”.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "7.1. The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).\n7.2 Name of the product\nThe name of the product to be shown on the label shall be “Tempe”."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 12
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING",
+        "process_candidates": [
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "7 - LABELLING",
+        "section_id": "7",
+        "section_number": "7",
+        "section_title": "LABELLING",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "LABELLING"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING",
+        "process_candidates": [
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "7 - LABELLING",
+        "section_id": "7",
+        "section_number": "7",
+        "section_title": "LABELLING",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "LABELLING"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7, p. 3"
+      }
+    },
+    {
+      "id": "8",
+      "key": "num::8",
+      "raw_id": "num::8",
+      "number": "8",
+      "title": "METHODS OF ANALYSIS AND SAMPLING",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "8"
+      ],
+      "path_titles": [
+        "METHODS OF ANALYSIS AND SAMPLING"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 8, p. 3",
+      "text": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling  (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+      "retrieval_text": "METHODS OF ANALYSIS AND SAMPLING\nnumber=8\nlevel=1\nFor checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling  (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling  (CXS 234-1999) relevant to the provisions in this standard, shall be used."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 13
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "METHODS OF ANALYSIS AND SAMPLING",
+        "process_candidates": [
+          "METHODS OF ANALYSIS AND SAMPLING",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "8 - METHODS OF ANALYSIS AND SAMPLING",
+        "section_id": "8",
+        "section_number": "8",
+        "section_title": "METHODS OF ANALYSIS AND SAMPLING",
+        "section_path": [
+          "8"
+        ],
+        "section_path_titles": [
+          "METHODS OF ANALYSIS AND SAMPLING"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 8, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "METHODS OF ANALYSIS AND SAMPLING",
+        "process_candidates": [
+          "METHODS OF ANALYSIS AND SAMPLING",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "8 - METHODS OF ANALYSIS AND SAMPLING",
+        "section_id": "8",
+        "section_number": "8",
+        "section_title": "METHODS OF ANALYSIS AND SAMPLING",
+        "section_path": [
+          "8"
+        ],
+        "section_path_titles": [
+          "METHODS OF ANALYSIS AND SAMPLING"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 8, p. 3"
+      }
+    },
+    {
+      "id": "6.1",
+      "key": "num::6.1",
+      "raw_id": "num::6.1",
+      "number": "6.1",
+      "title": "6.1",
+      "level": 2,
+      "parent_id": "6",
+      "parent_title": "HYGIENE",
+      "path": [
+        "6",
+        "6.1"
+      ],
+      "path_titles": [
+        "HYGIENE",
+        "6.1"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.1, p. 3",
+      "text": "It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+      "retrieval_text": "HYGIENE > 6.1\nnumber=6.1\nlevel=2\nIt is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 14
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "6.1",
+        "process_candidates": [
+          "6.1",
+          "HYGIENE",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "6.1 - 6.1",
+        "section_id": "6.1",
+        "section_number": "6.1",
+        "section_title": "6.1",
+        "section_path": [
+          "6",
+          "6.1"
+        ],
+        "section_path_titles": [
+          "HYGIENE",
+          "6.1"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.1, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "6.1",
+        "process_candidates": [
+          "6.1",
+          "HYGIENE",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "6.1 - 6.1",
+        "section_id": "6.1",
+        "section_number": "6.1",
+        "section_title": "6.1",
+        "section_path": [
+          "6",
+          "6.1"
+        ],
+        "section_path_titles": [
+          "HYGIENE",
+          "6.1"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.1, p. 3"
+      }
+    },
+    {
+      "id": "6.2",
+      "key": "num::6.2",
+      "raw_id": "num::6.2",
+      "number": "6.2",
+      "title": "6.2",
+      "level": 2,
+      "parent_id": "6",
+      "parent_title": "HYGIENE",
+      "path": [
+        "6",
+        "6.2"
+      ],
+      "path_titles": [
+        "HYGIENE",
+        "6.2"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.2, p. 3",
+      "text": "The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+      "retrieval_text": "HYGIENE > 6.2\nnumber=6.2\nlevel=2\nThe products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997)."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 15
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "6.2",
+        "process_candidates": [
+          "6.2",
+          "HYGIENE",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "6.2 - 6.2",
+        "section_id": "6.2",
+        "section_number": "6.2",
+        "section_title": "6.2",
+        "section_path": [
+          "6",
+          "6.2"
+        ],
+        "section_path_titles": [
+          "HYGIENE",
+          "6.2"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.2, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "6.2",
+        "process_candidates": [
+          "6.2",
+          "HYGIENE",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "6.2 - 6.2",
+        "section_id": "6.2",
+        "section_number": "6.2",
+        "section_title": "6.2",
+        "section_path": [
+          "6",
+          "6.2"
+        ],
+        "section_path_titles": [
+          "HYGIENE",
+          "6.2"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.2, p. 3"
+      }
+    },
+    {
+      "id": "7.1",
+      "key": "num::7.1",
+      "raw_id": "num::7.1",
+      "number": "7.1",
+      "title": "7.1",
+      "level": 2,
+      "parent_id": "7",
+      "parent_title": "LABELLING",
+      "path": [
+        "7",
+        "7.1"
+      ],
+      "path_titles": [
+        "LABELLING",
+        "7.1"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.1, p. 3",
+      "text": "The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).",
+      "retrieval_text": "LABELLING > 7.1\nnumber=7.1\nlevel=2\nThe products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985)."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 16
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "7.1",
+        "process_candidates": [
+          "7.1",
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "7.1 - 7.1",
+        "section_id": "7.1",
+        "section_number": "7.1",
+        "section_title": "7.1",
+        "section_path": [
+          "7",
+          "7.1"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "7.1"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.1, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "7.1",
+        "process_candidates": [
+          "7.1",
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "7.1 - 7.1",
+        "section_id": "7.1",
+        "section_number": "7.1",
+        "section_title": "7.1",
+        "section_path": [
+          "7",
+          "7.1"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "7.1"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.1, p. 3"
+      }
+    },
+    {
+      "id": "7.2",
+      "key": "num::7.2",
+      "raw_id": "num::7.2",
+      "number": "7.2",
+      "title": "Name of the product",
+      "level": 2,
+      "parent_id": "7",
+      "parent_title": "LABELLING",
+      "path": [
+        "7",
+        "7.2"
+      ],
+      "path_titles": [
+        "LABELLING",
+        "Name of the product"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.2, p. 3",
+      "text": "The name of the product to be shown on the label shall be “Tempe”.",
+      "retrieval_text": "LABELLING > Name of the product\nnumber=7.2\nlevel=2\nThe name of the product to be shown on the label shall be “Tempe”.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "The name of the product to be shown on the label shall be “Tempe”."
+        }
+      ],
+      "rag": {
+        "rag_id": 50,
+        "order": 17
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NAME OF THE PRODUCT",
+        "process_candidates": [
+          "Name of the product",
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "7.2 - Name of the product",
+        "section_id": "7.2",
+        "section_number": "7.2",
+        "section_title": "Name of the product",
+        "section_path": [
+          "7",
+          "7.2"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Name of the product"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.2, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NAME OF THE PRODUCT",
+        "process_candidates": [
+          "Name of the product",
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "7.2 - Name of the product",
+        "section_id": "7.2",
+        "section_number": "7.2",
+        "section_title": "Name of the product",
+        "section_path": [
+          "7",
+          "7.2"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Name of the product"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.2, p. 3"
+      }
+    },
+    {
+      "id": "50",
+      "key": "50",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "This standard applies to tempe as defined in Section 2 below and intended for human consumption.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Indicates exception, not regulation text.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "It does not apply to those that undergone further processing other than freezing.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Indicates exception, not regulation text.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "TEMPE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "1. - SCOPE",
+            "section_id": "1.",
+            "section_number": "1.",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 1., p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "TEMPE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "1. - SCOPE",
+            "section_id": "1.",
+            "section_number": "1.",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 1., p. 2"
+          }
+        },
+        {
+          "order": 0,
+          "original": "It does not apply to those that undergone further processing other than freezing.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Indicates exception, not regulation text.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "It does not apply to those that undergone further processing other than freezing.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Indicates exception, not regulation text.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "TEMPE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "1. - SCOPE",
+            "section_id": "1.",
+            "section_number": "1.",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 1., p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "TEMPE",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "1. - SCOPE",
+            "section_id": "1.",
+            "section_number": "1.",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 1., p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Tempe is a compact, white, cake -form product, prepared from dehulled boiled soybeans through solid state fermentation with Rhizopus spp.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Descriptive product information relevant to standard.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Tempe is a compact, white, cake -form product, prepared from dehulled boiled soybeans through solid state fermentation with Rhizopus spp.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Product Description",
+            "modality": "undefined",
+            "function": "Descriptive definition of product characteristics",
+            "pattern": "[Product name] + is + [description including preparation method].",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "product_name": "Tempe",
+              "description": "compact, white, cake-form product, prepared from dehulled boiled soybeans through solid state fermentation with Rhizopus spp."
+            },
+            "justification": "Pure descriptive statement without normative modality or obligation; no template match.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT DESCRIPTION",
+            "subject_candidates": [
+              "PRODUCT DESCRIPTION",
+              "TEMPE",
+              "DESCRIPTION"
+            ],
+            "process": "DESCRIPTION",
+            "process_candidates": [
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "2. - DESCRIPTION",
+            "section_id": "2.",
+            "section_number": "2.",
+            "section_title": "DESCRIPTION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 2., p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT DESCRIPTION",
+            "subject_candidates": [
+              "PRODUCT DESCRIPTION",
+              "TEMPE",
+              "DESCRIPTION"
+            ],
+            "process": "DESCRIPTION",
+            "process_candidates": [
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "2. - DESCRIPTION",
+            "section_id": "2.",
+            "section_number": "2.",
+            "section_title": "DESCRIPTION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 2., p. 2"
+          }
+        },
+        {
+          "order": 3,
+          "original": "4.1 None permitted.\n4.2 Processing aids.\nProcessing aids can be used in these products to control acidity during soaking the beans.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Processing aids used in products covered by this standard shall comply with the Guidelines on substances used as processing aids (CXG 75-2010).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with guidelines for processing aids",
+            "pattern": "[Subject] + shall comply with + [Guidelines reference].",
+            "template_match_score": 0.9,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "Processing aids used in products covered by this standard",
+              "guidelines": "Guidelines on substances used as processing aids (CXG 75-2010)"
+            },
+            "justification": "Typical obligation structure with 'shall comply with' and specific guideline reference; strong match to known obligation pattern.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PROCESSING AIDS USED IN PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "PROCESSING AIDS USED IN PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "FOOD ADDITIVES"
+            ],
+            "process": "FOOD ADDITIVES",
+            "process_candidates": [
+              "FOOD ADDITIVES",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "4. - FOOD ADDITIVES",
+            "section_id": "4.",
+            "section_number": "4.",
+            "section_title": "FOOD ADDITIVES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "FOOD ADDITIVES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 4., p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PROCESSING AIDS USED IN PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "PROCESSING AIDS USED IN PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "FOOD ADDITIVES"
+            ],
+            "process": "FOOD ADDITIVES",
+            "process_candidates": [
+              "FOOD ADDITIVES",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "4. - FOOD ADDITIVES",
+            "section_id": "4.",
+            "section_number": "4.",
+            "section_title": "FOOD ADDITIVES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "FOOD ADDITIVES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 4., p. 2"
+          }
+        },
+        {
+          "order": 3,
+          "original": "Processing aids used in products covered by this standard shall comply with the Guidelines on substances used as processing aids (CXG 75-2010).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Processing aids used in products covered by this standard shall comply with the Guidelines on substances used as processing aids (CXG 75-2010).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with guidelines for processing aids",
+            "pattern": "[Subject] + shall comply with + [Guidelines reference].",
+            "template_match_score": 0.9,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "Processing aids used in products covered by this standard",
+              "guidelines": "Guidelines on substances used as processing aids (CXG 75-2010)"
+            },
+            "justification": "Typical obligation structure with 'shall comply with' and specific guideline reference; strong match to known obligation pattern.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PROCESSING AIDS USED IN PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "PROCESSING AIDS USED IN PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "FOOD ADDITIVES"
+            ],
+            "process": "FOOD ADDITIVES",
+            "process_candidates": [
+              "FOOD ADDITIVES",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "4. - FOOD ADDITIVES",
+            "section_id": "4.",
+            "section_number": "4.",
+            "section_title": "FOOD ADDITIVES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "FOOD ADDITIVES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 4., p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PROCESSING AIDS USED IN PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "PROCESSING AIDS USED IN PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "FOOD ADDITIVES"
+            ],
+            "process": "FOOD ADDITIVES",
+            "process_candidates": [
+              "FOOD ADDITIVES",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "4. - FOOD ADDITIVES",
+            "section_id": "4.",
+            "section_number": "4.",
+            "section_title": "FOOD ADDITIVES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "FOOD ADDITIVES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 4., p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "5.1 The products covered by this Standard shall comply with the maximum levels (MLs) of the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "5.2 The products covered by this Standard shall comply with the maximum residue limits (MRLs) for pesticides established by the Codex Alimentarius Commission.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with pesticide residue limits",
+            "pattern": "[Subject] + shall comply with + [Residue limits specification].",
+            "template_match_score": 0.9,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "The products covered by this Standard",
+              "residue_limits": "maximum residue limits (MRLs) for pesticides established by the Codex Alimentarius Commission"
+            },
+            "justification": "Obligation to comply with regulatory residue limits is a common matched pattern; structure typical.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "5. - CONTAMINANTS",
+            "section_id": "5.",
+            "section_number": "5.",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 5., p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "5. - CONTAMINANTS",
+            "section_id": "5.",
+            "section_number": "5.",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 5., p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "5.2 The products covered by this Standard shall comply with the maximum residue limits (MRLs) for pesticides established by the Codex Alimentarius Commission.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "5.2 The products covered by this Standard shall comply with the maximum residue limits (MRLs) for pesticides established by the Codex Alimentarius Commission.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with pesticide residue limits",
+            "pattern": "[Subject] + shall comply with + [Residue limits specification].",
+            "template_match_score": 0.9,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "The products covered by this Standard",
+              "residue_limits": "maximum residue limits (MRLs) for pesticides established by the Codex Alimentarius Commission"
+            },
+            "justification": "Obligation to comply with regulatory residue limits is a common matched pattern; structure typical.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "5. - CONTAMINANTS",
+            "section_id": "5.",
+            "section_number": "5.",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 5., p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "5. - CONTAMINANTS",
+            "section_id": "5.",
+            "section_number": "5.",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 5., p. 2"
+          }
+        },
+        {
+          "order": 5,
+          "original": "Product covered by this standard shall consist of the following ingredients:\n(a) Soybeans (any variety);\n(b) Mould of Rhizopus spp. (R. oligosporus,R. oryzae and/or R. stolonifer) mix with cooked rice powder, rice bran powder and/or wheat bran powder as an inocula.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Product covered by this standard shall consist of the following ingredients:\n(a) Soybeans (any variety);\n(b) Mould of Rhizopus spp. (R. oligosporus,R. oryzae and/or R. stolonifer) mix with cooked rice powder, rice bran powder and/or wheat bran powder as an inocula.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate composition of product ingredients",
+            "pattern": "[Subject] + shall consist of + [list of ingredients].",
+            "template_match_score": 0.85,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "Product covered by this standard",
+              "ingredients": [
+                "Soybeans (any variety)",
+                "Mould of Rhizopus spp. (R. oligosporus,R. oryzae and/or R. stolonifer) mix with cooked rice powder, rice bran powder and/or wheat bran powder as an inocula"
+              ]
+            },
+            "justification": "Typical obligation listing required ingredients with 'shall consist of'; high likelihood of matching standard ingredients template.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "PRODUCT COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "COMPOSITION"
+            ],
+            "process": "COMPOSITION",
+            "process_candidates": [
+              "Composition",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.1 - Composition",
+            "section_id": "3.1",
+            "section_number": "3.1",
+            "section_title": "Composition",
+            "section_path": [
+              "3",
+              "3.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Composition"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "PRODUCT COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "COMPOSITION"
+            ],
+            "process": "COMPOSITION",
+            "process_candidates": [
+              "Composition",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.1 - Composition",
+            "section_id": "3.1",
+            "section_number": "3.1",
+            "section_title": "Composition",
+            "section_path": [
+              "3",
+              "3.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Composition"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.1, p. 2"
+          }
+        },
+        {
+          "order": 7,
+          "original": "Any container that fails to meet the applicable quality requirements referred to in Section 3.2 should be considered as a “defective”.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Any container that fails to meet the applicable quality requirements referred to in Section 3.2 should be considered as a “defective”.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition and Obligation",
+            "modality": "Obligation",
+            "function": "Define condition and resulting classification as defective",
+            "pattern": "Any container that fails to meet + [quality requirements] + should be considered + [classification].",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition": "Any container that fails to meet the applicable quality requirements referred to in Section 3.2",
+              "resulting_action": "should be considered as a “defective”"
+            },
+            "justification": "Condition leading to obligation-like classification is clear, structure less typical but matches obligation/condition hybrid pattern.",
+            "notes": [
+              "Overlap between condition and obligation modalities.",
+              "Modal verb 'should' indicates obligation but less strong than 'shall'."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION AND OBLIGATION",
+            "subject_candidates": [
+              "CONDITION AND OBLIGATION",
+              "TEMPE",
+              "CLASSIFICATION OF “DEFECTIVES”"
+            ],
+            "process": "CLASSIFICATION OF “DEFECTIVES”",
+            "process_candidates": [
+              "Classification of “defectives”",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.3 - Classification of “defectives”",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "Classification of “defectives”",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Classification of “defectives”"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION AND OBLIGATION",
+            "subject_candidates": [
+              "CONDITION AND OBLIGATION",
+              "TEMPE",
+              "CLASSIFICATION OF “DEFECTIVES”"
+            ],
+            "process": "CLASSIFICATION OF “DEFECTIVES”",
+            "process_candidates": [
+              "Classification of “defectives”",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.3 - Classification of “defectives”",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "Classification of “defectives”",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Classification of “defectives”"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.3, p. 2"
+          }
+        },
+        {
+          "order": 8,
+          "original": "(a) Texture: Compact and not easily disintegrated upon cutting with knife.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Descriptive sensory attributes.",
+            "stage": "light_prefilter",
+            "confidence": 0.85
+          },
+          "classification": {
+            "sentence": "(b) Colour: White colour of luxurious growth of mycellium of Rhizopus spp.\n(c) Flavour: Characteristic of tempe flavour, nutty, meaty, and mushroom -like.\n(d) Odour: Characteristic of fresh tempe odour without ammonia smell.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Product Characteristics",
+            "modality": "undefined",
+            "function": "Descriptive specification of colour, flavour and odour attributes",
+            "pattern": "([label]) [Characteristic]: [Description]. Multiple attributes described in series.",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "colour": "White colour of luxurious growth of mycellium of Rhizopus spp.",
+              "flavour": "Characteristic of tempe flavour, nutty, meaty, and mushroom-like",
+              "odour": "Characteristic of fresh tempe odour without ammonia smell"
+            },
+            "justification": "Pure descriptive characteristics statements grouped, no normative modality; no template match.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT CHARACTERISTICS",
+            "subject_candidates": [
+              "PRODUCT CHARACTERISTICS",
+              "TEMPE",
+              "ORGANOLEPTIC"
+            ],
+            "process": "ORGANOLEPTIC",
+            "process_candidates": [
+              "Organoleptic",
+              "Quality Factors",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.2.1 - Organoleptic",
+            "section_id": "3.2.1",
+            "section_number": "3.2.1",
+            "section_title": "Organoleptic",
+            "section_path": [
+              "3",
+              "3.2",
+              "3.2.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Quality Factors",
+              "Organoleptic"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT CHARACTERISTICS",
+            "subject_candidates": [
+              "PRODUCT CHARACTERISTICS",
+              "TEMPE",
+              "ORGANOLEPTIC"
+            ],
+            "process": "ORGANOLEPTIC",
+            "process_candidates": [
+              "Organoleptic",
+              "Quality Factors",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.2.1 - Organoleptic",
+            "section_id": "3.2.1",
+            "section_number": "3.2.1",
+            "section_title": "Organoleptic",
+            "section_path": [
+              "3",
+              "3.2",
+              "3.2.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Quality Factors",
+              "Organoleptic"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.1, p. 2"
+          }
+        },
+        {
+          "order": 8,
+          "original": "(b) Colour: White colour of luxurious growth of mycellium of Rhizopus spp.\n(c) Flavour: Characteristic of tempe flavour, nutty, meaty, and mushroom -like.\n(d) Odour: Characteristic of fresh tempe odour without ammonia smell.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Descriptive sensory attributes.",
+            "stage": "light_prefilter",
+            "confidence": 0.85
+          },
+          "classification": {
+            "sentence": "(b) Colour: White colour of luxurious growth of mycellium of Rhizopus spp.\n(c) Flavour: Characteristic of tempe flavour, nutty, meaty, and mushroom -like.\n(d) Odour: Characteristic of fresh tempe odour without ammonia smell.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Product Characteristics",
+            "modality": "undefined",
+            "function": "Descriptive specification of colour, flavour and odour attributes",
+            "pattern": "([label]) [Characteristic]: [Description]. Multiple attributes described in series.",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "colour": "White colour of luxurious growth of mycellium of Rhizopus spp.",
+              "flavour": "Characteristic of tempe flavour, nutty, meaty, and mushroom-like",
+              "odour": "Characteristic of fresh tempe odour without ammonia smell"
+            },
+            "justification": "Pure descriptive characteristics statements grouped, no normative modality; no template match.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT CHARACTERISTICS",
+            "subject_candidates": [
+              "PRODUCT CHARACTERISTICS",
+              "TEMPE",
+              "ORGANOLEPTIC"
+            ],
+            "process": "ORGANOLEPTIC",
+            "process_candidates": [
+              "Organoleptic",
+              "Quality Factors",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.2.1 - Organoleptic",
+            "section_id": "3.2.1",
+            "section_number": "3.2.1",
+            "section_title": "Organoleptic",
+            "section_path": [
+              "3",
+              "3.2",
+              "3.2.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Quality Factors",
+              "Organoleptic"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT CHARACTERISTICS",
+            "subject_candidates": [
+              "PRODUCT CHARACTERISTICS",
+              "TEMPE",
+              "ORGANOLEPTIC"
+            ],
+            "process": "ORGANOLEPTIC",
+            "process_candidates": [
+              "Organoleptic",
+              "Quality Factors",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.2.1 - Organoleptic",
+            "section_id": "3.2.1",
+            "section_number": "3.2.1",
+            "section_title": "Organoleptic",
+            "section_path": [
+              "3",
+              "3.2",
+              "3.2.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Quality Factors",
+              "Organoleptic"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.1, p. 2"
+          }
+        },
+        {
+          "order": 9,
+          "original": "Tempe shall be free from foreign matters (e.g. other beans, small stone, husk etc).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Tempe shall be free from foreign matters (e.g. other beans, small stone, husk etc).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Require absence of foreign matter",
+            "pattern": "[Subject] + shall be free from + [undesirable elements].",
+            "template_match_score": 0.9,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "Tempe",
+              "restriction": "foreign matters (e.g. other beans, small stone, husk etc)"
+            },
+            "justification": "Classic obligation forbidding presence of foreign matter using 'shall be free from'; typical regulatory phrasing.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "TEMPE",
+            "subject_candidates": [
+              "TEMPE",
+              "OBLIGATION",
+              "FOREIGN MATTERS"
+            ],
+            "process": "FOREIGN MATTERS",
+            "process_candidates": [
+              "Foreign Matters",
+              "Quality Factors",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.2.2 - Foreign Matters",
+            "section_id": "3.2.2",
+            "section_number": "3.2.2",
+            "section_title": "Foreign Matters",
+            "section_path": [
+              "3",
+              "3.2",
+              "3.2.2"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Quality Factors",
+              "Foreign Matters"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.2, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "TEMPE",
+            "subject_candidates": [
+              "TEMPE",
+              "OBLIGATION",
+              "FOREIGN MATTERS"
+            ],
+            "process": "FOREIGN MATTERS",
+            "process_candidates": [
+              "Foreign Matters",
+              "Quality Factors",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.2.2 - Foreign Matters",
+            "section_id": "3.2.2",
+            "section_number": "3.2.2",
+            "section_title": "Foreign Matters",
+            "section_path": [
+              "3",
+              "3.2",
+              "3.2.2"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Quality Factors",
+              "Foreign Matters"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.2, p. 2"
+          }
+        },
+        {
+          "order": 10,
+          "original": "(a)  Moisture content 65% w/w max.\n(b)  Protein content 15% w/w min.\n(c)  Lipid content 7% w/w min.\n(d)  Crude fibre 2.5% w/w max.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Product specification parameters.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "(a)  Moisture content 65% w/w max.\n(b)  Protein content 15% w/w min.\n(c)  Lipid content 7% w/w min.\n(d)  Crude fibre 2.5% w/w max.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Limits and Targets",
+            "function": "Specify quantitative compositional limits",
+            "pattern": "([label]) [Component] [numerical limit] [unit] [max/min]. Multiple limits stated.",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "moisture_content": "65% w/w max",
+              "protein_content": "15% w/w min",
+              "lipid_content": "7% w/w min",
+              "crude_fibre": "2.5% w/w max"
+            },
+            "justification": "Quantitative specification of compositional limits stated without explicit normative phrasing; no template match.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "TEMPE",
+              "ANALYTICAL REQUIREMENTS"
+            ],
+            "process": "ANALYTICAL REQUIREMENTS",
+            "process_candidates": [
+              "Analytical Requirements",
+              "Quality Factors",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.2.3 - Analytical Requirements",
+            "section_id": "3.2.3",
+            "section_number": "3.2.3",
+            "section_title": "Analytical Requirements",
+            "section_path": [
+              "3",
+              "3.2",
+              "3.2.3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Quality Factors",
+              "Analytical Requirements"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "TEMPE",
+              "ANALYTICAL REQUIREMENTS"
+            ],
+            "process": "ANALYTICAL REQUIREMENTS",
+            "process_candidates": [
+              "Analytical Requirements",
+              "Quality Factors",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "3.2.3 - Analytical Requirements",
+            "section_id": "3.2.3",
+            "section_number": "3.2.3",
+            "section_title": "Analytical Requirements",
+            "section_path": [
+              "3",
+              "3.2",
+              "3.2.3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Quality Factors",
+              "Analytical Requirements"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 3.2.3, p. 2"
+          }
+        },
+        {
+          "order": 11,
+          "original": "6.1 It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.\n6.2",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with microbiological criteria",
+            "pattern": "[Subject] + should comply with + [criteria and reference].",
+            "template_match_score": 0.8,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "The products",
+              "criteria": "microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997)"
+            },
+            "justification": "Use of 'should comply with' indicates obligation with less normative strength; partial match to obligation templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS",
+            "subject_candidates": [
+              "THE PRODUCTS",
+              "OBLIGATION",
+              "TEMPE",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "6 - HYGIENE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS",
+            "subject_candidates": [
+              "THE PRODUCTS",
+              "OBLIGATION",
+              "TEMPE",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "6 - HYGIENE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6, p. 3"
+          }
+        },
+        {
+          "order": 11,
+          "original": "The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with microbiological criteria",
+            "pattern": "[Subject] + should comply with + [criteria and reference].",
+            "template_match_score": 0.8,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "The products",
+              "criteria": "microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997)"
+            },
+            "justification": "Use of 'should comply with' indicates obligation with less normative strength; partial match to obligation templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS",
+            "subject_candidates": [
+              "THE PRODUCTS",
+              "OBLIGATION",
+              "TEMPE",
+              "6.2"
+            ],
+            "process": "6.2",
+            "process_candidates": [
+              "6.2",
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "6.2 - 6.2",
+            "section_id": "6.2",
+            "section_number": "6.2",
+            "section_title": "6.2",
+            "section_path": [
+              "6",
+              "6.2"
+            ],
+            "section_path_titles": [
+              "HYGIENE",
+              "6.2"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.2, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS",
+            "subject_candidates": [
+              "THE PRODUCTS",
+              "OBLIGATION",
+              "TEMPE",
+              "6.2"
+            ],
+            "process": "6.2",
+            "process_candidates": [
+              "6.2",
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "6.2 - 6.2",
+            "section_id": "6.2",
+            "section_number": "6.2",
+            "section_title": "6.2",
+            "section_path": [
+              "6",
+              "6.2"
+            ],
+            "section_path_titles": [
+              "HYGIENE",
+              "6.2"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.2, p. 3"
+          }
+        },
+        {
+          "order": 12,
+          "original": "7.1. The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).\n7.2 Name of the product\nThe name of the product to be shown on the label shall be “Tempe”.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "7.1. The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).\n7.2 Name of the product\nThe name of the product to be shown on the label shall be “Tempe”.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate labelling requirements including product name",
+            "pattern": "[Subject] + shall be labelled in accordance with + [standard]. + The name of the product to be shown on the label shall be + [name].",
+            "template_match_score": 0.9,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "labelling_obligation": "products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985)",
+              "product_name_obligation": "name of the product to be shown on the label shall be “Tempe”"
+            },
+            "justification": "Strong obligation statements with typical 'shall be labelled' and 'shall be' patterns and references; high template match.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "TEMPE",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "7 - LABELLING",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "LABELLING",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "TEMPE",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "7 - LABELLING",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "LABELLING",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7, p. 3"
+          }
+        },
+        {
+          "order": 13,
+          "original": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling  (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Prescriptive requirement",
+            "pattern": "Introductory phrase indicating purpose + main clause prescribing required methods and reference standards with modal verb 'shall'",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "purpose": "For checking the compliance with this standard",
+              "required_items": "methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard",
+              "obligation": "shall be used"
+            },
+            "justification": "The sentence prescribes an obligation to use specified methods for compliance checking with normative modality 'shall'. The sentence structure includes an introductory purpose phrase followed by a prescriptive main clause. No known templates match closely, so a new pattern reflecting this structure is created.",
+            "notes": [
+              "The sentence combines normative obligation with purpose indication in a complex sentence; no direct template found in catalog."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "TEMPE",
+              "METHODS OF ANALYSIS AND SAMPLING"
+            ],
+            "process": "METHODS OF ANALYSIS AND SAMPLING",
+            "process_candidates": [
+              "METHODS OF ANALYSIS AND SAMPLING",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "8 - METHODS OF ANALYSIS AND SAMPLING",
+            "section_id": "8",
+            "section_number": "8",
+            "section_title": "METHODS OF ANALYSIS AND SAMPLING",
+            "section_path": [
+              "8"
+            ],
+            "section_path_titles": [
+              "METHODS OF ANALYSIS AND SAMPLING"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 8, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "TEMPE",
+              "METHODS OF ANALYSIS AND SAMPLING"
+            ],
+            "process": "METHODS OF ANALYSIS AND SAMPLING",
+            "process_candidates": [
+              "METHODS OF ANALYSIS AND SAMPLING",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "8 - METHODS OF ANALYSIS AND SAMPLING",
+            "section_id": "8",
+            "section_number": "8",
+            "section_title": "METHODS OF ANALYSIS AND SAMPLING",
+            "section_path": [
+              "8"
+            ],
+            "section_path_titles": [
+              "METHODS OF ANALYSIS AND SAMPLING"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 8, p. 3"
+          }
+        },
+        {
+          "order": 14,
+          "original": "It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Recommendation relating to food hygiene standards.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Recommendation",
+            "modality": "Permissive/Recommendation",
+            "function": "Recommend preparation and handling compliance",
+            "pattern": "It is recommended that + [subject] + be prepared and handled in accordance with + [standards].",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "recommendation": "product covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice"
+            },
+            "justification": "Repetition of previous recommendation sentence with identical structure and partial template match.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "RECOMMENDATION",
+            "subject_candidates": [
+              "RECOMMENDATION",
+              "TEMPE",
+              "6.1"
+            ],
+            "process": "6.1",
+            "process_candidates": [
+              "6.1",
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "6.1 - 6.1",
+            "section_id": "6.1",
+            "section_number": "6.1",
+            "section_title": "6.1",
+            "section_path": [
+              "6",
+              "6.1"
+            ],
+            "section_path_titles": [
+              "HYGIENE",
+              "6.1"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.1, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "RECOMMENDATION",
+            "subject_candidates": [
+              "RECOMMENDATION",
+              "TEMPE",
+              "6.1"
+            ],
+            "process": "6.1",
+            "process_candidates": [
+              "6.1",
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "6.1 - 6.1",
+            "section_id": "6.1",
+            "section_number": "6.1",
+            "section_title": "6.1",
+            "section_path": [
+              "6",
+              "6.1"
+            ],
+            "section_path_titles": [
+              "HYGIENE",
+              "6.1"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.1, p. 3"
+          }
+        },
+        {
+          "order": 15,
+          "original": "The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The products should comply with the microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with microbiological criteria",
+            "pattern": "[Subject] + should comply with + [criteria and reference].",
+            "template_match_score": 0.8,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "The products",
+              "criteria": "microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21-1997)"
+            },
+            "justification": "Repetition of sentence earlier; 'should comply with' indicates obligation; partial template match.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS",
+            "subject_candidates": [
+              "THE PRODUCTS",
+              "OBLIGATION",
+              "TEMPE",
+              "6.2"
+            ],
+            "process": "6.2",
+            "process_candidates": [
+              "6.2",
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "6.2 - 6.2",
+            "section_id": "6.2",
+            "section_number": "6.2",
+            "section_title": "6.2",
+            "section_path": [
+              "6",
+              "6.2"
+            ],
+            "section_path_titles": [
+              "HYGIENE",
+              "6.2"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.2, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS",
+            "subject_candidates": [
+              "THE PRODUCTS",
+              "OBLIGATION",
+              "TEMPE",
+              "6.2"
+            ],
+            "process": "6.2",
+            "process_candidates": [
+              "6.2",
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "6.2 - 6.2",
+            "section_id": "6.2",
+            "section_number": "6.2",
+            "section_title": "6.2",
+            "section_path": [
+              "6",
+              "6.2"
+            ],
+            "section_path_titles": [
+              "HYGIENE",
+              "6.2"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 6.2, p. 3"
+          }
+        },
+        {
+          "order": 16,
+          "original": "The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The products covered by the provisions of this Standard shall be labelled in accordance with the General Standard for the Labelling of Prepacked Foods (CXS 1-1985).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate labelling requirements",
+            "pattern": "[Subject] + shall be labelled in accordance with + [standard].",
+            "template_match_score": 0.9,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "subject": "The products covered by the provisions of this Standard",
+              "labelling_standard": "General Standard for the Labelling of Prepacked Foods (CXS 1-1985)"
+            },
+            "justification": "Strong obligation typical phrasing; strong template match consistent with labelling requirements.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS COVERED BY THE PROVISIONS OF THIS STANDARD",
+            "subject_candidates": [
+              "THE PRODUCTS COVERED BY THE PROVISIONS OF THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "7.1"
+            ],
+            "process": "7.1",
+            "process_candidates": [
+              "7.1",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "7.1 - 7.1",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "7.1",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "7.1"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.1, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PRODUCTS COVERED BY THE PROVISIONS OF THIS STANDARD",
+            "subject_candidates": [
+              "THE PRODUCTS COVERED BY THE PROVISIONS OF THIS STANDARD",
+              "OBLIGATION",
+              "TEMPE",
+              "7.1"
+            ],
+            "process": "7.1",
+            "process_candidates": [
+              "7.1",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "7.1 - 7.1",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "7.1",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "7.1"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.1, p. 3"
+          }
+        },
+        {
+          "order": 17,
+          "original": "The name of the product to be shown on the label shall be “Tempe”.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The name of the product to be shown on the label shall be “Tempe”.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate display of product name on label",
+            "pattern": "The name of the product to be shown on the label shall be + [product name].",
+            "template_match_score": 0.9,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "labelling_name_obligation": "name of the product to be shown on the label shall be “Tempe”"
+            },
+            "justification": "Typical obligation statement specifying labelling requirements; strong match to known labelling templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "TEMPE",
+              "NAME OF THE PRODUCT"
+            ],
+            "process": "NAME OF THE PRODUCT",
+            "process_candidates": [
+              "Name of the product",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "7.2 - Name of the product",
+            "section_id": "7.2",
+            "section_number": "7.2",
+            "section_title": "Name of the product",
+            "section_path": [
+              "7",
+              "7.2"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the product"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.2, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "TEMPE",
+              "NAME OF THE PRODUCT"
+            ],
+            "process": "NAME OF THE PRODUCT",
+            "process_candidates": [
+              "Name of the product",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+            "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+            "document_reference": "CXS 313R-2013",
+            "document_title": "Regional Standard for Tempe (Asia)",
+            "document_type": "Standards",
+            "section": "7.2 - Name of the product",
+            "section_id": "7.2",
+            "section_number": "7.2",
+            "section_title": "Name of the product",
+            "section_path": [
+              "7",
+              "7.2"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the product"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "1a9d373a-f0bc-4436-9bd9-e069f354f412, Section 7.2, p. 3"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "50",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Product Standards"
+        ],
+        "document": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+        "document_id": "1a9d373a-f0bc-4436-9bd9-e069f354f412",
+        "document_reference": "CXS 313R-2013",
+        "document_title": "Regional Standard for Tempe (Asia)",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "50",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CXS 313R-2013",
+      "title": "REGIONAL STANDARD FOR TEMPE",
+      "summary": "Página contém título principal do documento e cabeçalho de padrão, sem estrutura de seções ou texto interno para mapeamento.",
+      "total_sections": 0,
+      "sections": []
+    },
+    {
+      "page": 2,
+      "header": "CXS 313R-2013 2",
+      "title": null,
+      "summary": "Página contém cinco seções principais numeradas de 1 a 5, com subseções detalhadas na seção 3. Texto interno associado corretamente a cada título, sem indícios de continuidade entre páginas.",
+      "total_sections": 19,
+      "sections": [
+        "1",
+        "2",
+        "3",
+        "3.1",
+        "3.2",
+        "3.2.1",
+        "3.2.2",
+        "3.2.3",
+        "3.3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "page": 3,
+      "header": "CXS 313R-2013 3",
+      "title": null,
+      "summary": "A página contém três seções principais numeradas: 6 HYGIENE, 7 LABELLING e 8 METHODS OF ANALYSIS AND SAMPLING, com subseções 6.1, 6.2, 7.1 e 7.2 mapeadas corretamente. Todos os títulos estão publicados na página e o texto interno está associado aos títulos adequadamente, sem indícios de continuidade entre páginas.",
+      "total_sections": 7,
+      "sections": [
+        "6",
+        "6.1",
+        "6.2",
+        "7",
+        "7.1",
+        "7.2",
+        "8"
+      ]
+    }
+  ]
+}

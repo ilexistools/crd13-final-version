@@ -1,0 +1,2934 @@
+{
+  "document": {
+    "id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 1-1979",
+    "year": "1979",
+    "title": "General Guidelines on Claims",
+    "label": "CXG 1-1979 - General Guidelines on Claims",
+    "committee": "CCFL",
+    "last_modified": "2009",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B1-1979%252FCXG_001e.pdf",
+    "processes": [
+      "Labelling and Consumer Information"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "SCOPE AND GENERAL PRINCIPLES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "SCOPE AND GENERAL PRINCIPLES"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1",
+      "text": "These guidelines relate to claims made for a food irrespective of whether or not the food is covered by an individual Codex Standard. The principle on which the guidelines are based is that no food should be described or presented in a manner that is false, misleading or deceptive or is likely to create an erroneous impression regarding its character in any respect. The person marketing the food should be able to justify the claims made.",
+      "retrieval_text": "SCOPE AND GENERAL PRINCIPLES\nnumber=1\nlevel=1\nThese guidelines relate to claims made for a food irrespective of whether or not the food is covered by an individual Codex Standard. The principle on which the guidelines are based is that no food should be described or presented in a manner that is false, misleading or deceptive or is likely to create an erroneous impression regarding its character in any respect. The person marketing the food should be able to justify the claims made.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "These guidelines relate to claims made for a food irrespective of whether or not the food is covered by an individual Codex Standard. The principle on which the guidelines are based is that no food should be described or presented in a manner that is false, misleading or deceptive or is likely to create an erroneous impression regarding its character in any respect. The person marketing the food should be able to justify the claims made."
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE AND GENERAL PRINCIPLES",
+        "process_candidates": [
+          "SCOPE AND GENERAL PRINCIPLES",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "1 - SCOPE AND GENERAL PRINCIPLES",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "SCOPE AND GENERAL PRINCIPLES",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE AND GENERAL PRINCIPLES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE AND GENERAL PRINCIPLES",
+        "process_candidates": [
+          "SCOPE AND GENERAL PRINCIPLES",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "1 - SCOPE AND GENERAL PRINCIPLES",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "SCOPE AND GENERAL PRINCIPLES",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE AND GENERAL PRINCIPLES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1"
+      }
+    },
+    {
+      "id": "2",
+      "key": "num::2",
+      "raw_id": "num::2",
+      "number": "2",
+      "title": "DEFINITION",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "DEFINITION"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 2, p. 1",
+      "text": "For the purpose of these guidelines, a claim is any representation which states, suggests or implies that a food has particular characteristics relating to its origin, nutritional properties, nature, production, processing, composition or any other quality.",
+      "retrieval_text": "DEFINITION\nnumber=2\nlevel=1\nFor the purpose of these guidelines, a claim is any representation which states, suggests or implies that a food has particular characteristics relating to its origin, nutritional properties, nature, production, processing, composition or any other quality.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "For the purpose of these guidelines, a claim is any representation which states, suggests or implies that a food has particular characteristics relating to its origin, nutritional properties, nature, production, processing, composition or any other quality."
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DEFINITION",
+        "process_candidates": [
+          "DEFINITION",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "2 - DEFINITION",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "DEFINITION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DEFINITION"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DEFINITION",
+        "process_candidates": [
+          "DEFINITION",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "2 - DEFINITION",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "DEFINITION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DEFINITION"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 2, p. 1"
+      }
+    },
+    {
+      "id": "3",
+      "key": "num::3",
+      "raw_id": "num::3",
+      "number": "3",
+      "title": "PROHIBITED CLAIMS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "PROHIBITED CLAIMS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3, p. 1",
+      "text": "The following claims should be prohibited:",
+      "retrieval_text": "PROHIBITED CLAIMS\nnumber=3\nlevel=1\nThe following claims should be prohibited:",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The following claims should be prohibited:"
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PROHIBITED CLAIMS",
+        "process_candidates": [
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3 - PROHIBITED CLAIMS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "PROHIBITED CLAIMS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PROHIBITED CLAIMS",
+        "process_candidates": [
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3 - PROHIBITED CLAIMS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "PROHIBITED CLAIMS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3, p. 1"
+      }
+    },
+    {
+      "id": "4",
+      "key": "num::4",
+      "raw_id": "num::4",
+      "number": "4",
+      "title": "POTENTIALLY MISLEADING CLAIMS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "4"
+      ],
+      "path_titles": [
+        "POTENTIALLY MISLEADING CLAIMS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 4,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": true,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4, p. 1",
+      "text": "The following are examples of claims which may be misleading:",
+      "retrieval_text": "POTENTIALLY MISLEADING CLAIMS\nnumber=4\nlevel=1\nThe following are examples of claims which may be misleading:",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The following are examples of claims which may be misleading:"
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "POTENTIALLY MISLEADING CLAIMS",
+        "process_candidates": [
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "4 - POTENTIALLY MISLEADING CLAIMS",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "POTENTIALLY MISLEADING CLAIMS",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "POTENTIALLY MISLEADING CLAIMS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "POTENTIALLY MISLEADING CLAIMS",
+        "process_candidates": [
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "4 - POTENTIALLY MISLEADING CLAIMS",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "POTENTIALLY MISLEADING CLAIMS",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "POTENTIALLY MISLEADING CLAIMS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4, p. 1"
+      }
+    },
+    {
+      "id": "3.1",
+      "key": "num::3.1",
+      "raw_id": "num::3.1",
+      "number": "3.1",
+      "title": "Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients.",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PROHIBITED CLAIMS",
+      "path": [
+        "3",
+        "3.1"
+      ],
+      "path_titles": [
+        "PROHIBITED CLAIMS",
+        "Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.1, p. 1",
+      "text": "",
+      "retrieval_text": "PROHIBITED CLAIMS > Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients.\nnumber=3.1\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS STATING THAT ANY GIVEN FOOD WILL PROVIDE AN ADEQUATE SOURCE OF ALL ESSENTIAL NUTRIENTS, EXCEPT IN THE CASE OF WELL DEFINED PRODUCTS FOR WHICH A CODEX STANDARD REGULATES SUCH CLAIMS AS ADMISSIBLE CLAIMS OR WHERE APPROPRIATE AUTHORITIES HAVE ACCEPTED THE PRODUCT TO BE AN ADEQUATE SOURCE OF ALL ESSENTIAL NUTRIENTS.",
+        "process_candidates": [
+          "Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients.",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.1 - Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients.",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients.",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS STATING THAT ANY GIVEN FOOD WILL PROVIDE AN ADEQUATE SOURCE OF ALL ESSENTIAL NUTRIENTS, EXCEPT IN THE CASE OF WELL DEFINED PRODUCTS FOR WHICH A CODEX STANDARD REGULATES SUCH CLAIMS AS ADMISSIBLE CLAIMS OR WHERE APPROPRIATE AUTHORITIES HAVE ACCEPTED THE PRODUCT TO BE AN ADEQUATE SOURCE OF ALL ESSENTIAL NUTRIENTS.",
+        "process_candidates": [
+          "Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients.",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.1 - Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients.",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients.",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims stating that any given food will provide an adequate source of all essential nutrients, except in the case of well defined products for which a Codex standard regulates such claims as admissible claims or where appropriate authorities have accepted the product to be an adequate source of all essential nutrients."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.1, p. 1"
+      }
+    },
+    {
+      "id": "3.2",
+      "key": "num::3.2",
+      "raw_id": "num::3.2",
+      "number": "3.2",
+      "title": "Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients.",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PROHIBITED CLAIMS",
+      "path": [
+        "3",
+        "3.2"
+      ],
+      "path_titles": [
+        "PROHIBITED CLAIMS",
+        "Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.2, p. 1",
+      "text": "",
+      "retrieval_text": "PROHIBITED CLAIMS > Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients.\nnumber=3.2\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS IMPLYING THAT A BALANCED DIET OR ORDINARY FOODS CANNOT SUPPLY ADEQUATE AMOUNTS OF ALL NUTRIENTS.",
+        "process_candidates": [
+          "Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients.",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.2 - Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients.",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients.",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS IMPLYING THAT A BALANCED DIET OR ORDINARY FOODS CANNOT SUPPLY ADEQUATE AMOUNTS OF ALL NUTRIENTS.",
+        "process_candidates": [
+          "Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients.",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.2 - Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients.",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients.",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims implying that a balanced diet or ordinary foods cannot supply adequate amounts of all nutrients."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.2, p. 1"
+      }
+    },
+    {
+      "id": "3.3",
+      "key": "num::3.3",
+      "raw_id": "num::3.3",
+      "number": "3.3",
+      "title": "Claims which cannot be substantiated.",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PROHIBITED CLAIMS",
+      "path": [
+        "3",
+        "3.3"
+      ],
+      "path_titles": [
+        "PROHIBITED CLAIMS",
+        "Claims which cannot be substantiated."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.3, p. 1",
+      "text": "",
+      "retrieval_text": "PROHIBITED CLAIMS > Claims which cannot be substantiated.\nnumber=3.3\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS WHICH CANNOT BE SUBSTANTIATED.",
+        "process_candidates": [
+          "Claims which cannot be substantiated.",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.3 - Claims which cannot be substantiated.",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Claims which cannot be substantiated.",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims which cannot be substantiated."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.3, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS WHICH CANNOT BE SUBSTANTIATED.",
+        "process_candidates": [
+          "Claims which cannot be substantiated.",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.3 - Claims which cannot be substantiated.",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Claims which cannot be substantiated.",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims which cannot be substantiated."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.3, p. 1"
+      }
+    },
+    {
+      "id": "3.4",
+      "key": "num::3.4",
+      "raw_id": "num::3.4",
+      "number": "3.4",
+      "title": "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PROHIBITED CLAIMS",
+      "path": [
+        "3",
+        "3.4"
+      ],
+      "path_titles": [
+        "PROHIBITED CLAIMS",
+        "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 4,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.4, p. 1",
+      "text": "(a) in accordance with the provisions of Codex standards or guidelines for foods as developed by the Committee on Nutrition and Foods for Special Dietary Uses and follow the principles set forth in these guidelines. or, (b) in the absence of an applicable Codex standard or guideline, permitted under the laws of the country in which the food is distributed.",
+      "retrieval_text": "PROHIBITED CLAIMS > Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:\nnumber=3.4\nlevel=2\n(a) in accordance with the provisions of Codex standards or guidelines for foods as developed by the Committee on Nutrition and Foods for Special Dietary Uses and follow the principles set forth in these guidelines. or, (b) in the absence of an applicable Codex standard or guideline, permitted under the laws of the country in which the food is distributed.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "(a) in accordance with the provisions of Codex standards or guidelines for foods as developed by the Committee on Nutrition and Foods for Special Dietary Uses and follow the principles set forth in these guidelines. or, (b) in the absence of an applicable Codex standard or guideline, permitted under the laws of the country in which the food is distributed."
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS AS TO THE SUITABILITY OF A FOOD FOR USE IN THE PREVENTION, ALLEVIATION, TREATMENT OR CURE OF A DISEASE, DISORDER, OR PARTICULAR PHYSIOLOGICAL CONDITION UNLESS THEY ARE:",
+        "process_candidates": [
+          "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.4 - Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+        "section_id": "3.4",
+        "section_number": "3.4",
+        "section_title": "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+        "section_path": [
+          "3",
+          "3.4"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.4, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS AS TO THE SUITABILITY OF A FOOD FOR USE IN THE PREVENTION, ALLEVIATION, TREATMENT OR CURE OF A DISEASE, DISORDER, OR PARTICULAR PHYSIOLOGICAL CONDITION UNLESS THEY ARE:",
+        "process_candidates": [
+          "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.4 - Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+        "section_id": "3.4",
+        "section_number": "3.4",
+        "section_title": "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+        "section_path": [
+          "3",
+          "3.4"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.4, p. 1"
+      }
+    },
+    {
+      "id": "3.5",
+      "key": "num::3.5",
+      "raw_id": "num::3.5",
+      "number": "3.5",
+      "title": "Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer.",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "PROHIBITED CLAIMS",
+      "path": [
+        "3",
+        "3.5"
+      ],
+      "path_titles": [
+        "PROHIBITED CLAIMS",
+        "Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 5,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.5, p. 1",
+      "text": "",
+      "retrieval_text": "PROHIBITED CLAIMS > Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer.\nnumber=3.5\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 8
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS WHICH COULD GIVE RISE TO DOUBT ABOUT THE SAFETY OF SIMILAR FOOD OR WHICH COULD AROUSE OR EXPLOIT FEAR IN THE CONSUMER.",
+        "process_candidates": [
+          "Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer.",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.5 - Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer.",
+        "section_id": "3.5",
+        "section_number": "3.5",
+        "section_title": "Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer.",
+        "section_path": [
+          "3",
+          "3.5"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.5, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS WHICH COULD GIVE RISE TO DOUBT ABOUT THE SAFETY OF SIMILAR FOOD OR WHICH COULD AROUSE OR EXPLOIT FEAR IN THE CONSUMER.",
+        "process_candidates": [
+          "Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer.",
+          "PROHIBITED CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "3.5 - Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer.",
+        "section_id": "3.5",
+        "section_number": "3.5",
+        "section_title": "Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer.",
+        "section_path": [
+          "3",
+          "3.5"
+        ],
+        "section_path_titles": [
+          "PROHIBITED CLAIMS",
+          "Claims which could give rise to doubt about the safety of similar food or which could arouse or exploit fear in the consumer."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.5, p. 1"
+      }
+    },
+    {
+      "id": "4.1",
+      "key": "num::4.1",
+      "raw_id": "num::4.1",
+      "number": "4.1",
+      "title": "Meaningless claims including incomplete comparatives and superlatives.",
+      "level": 2,
+      "parent_id": "4",
+      "parent_title": "POTENTIALLY MISLEADING CLAIMS",
+      "path": [
+        "4",
+        "4.1"
+      ],
+      "path_titles": [
+        "POTENTIALLY MISLEADING CLAIMS",
+        "Meaningless claims including incomplete comparatives and superlatives."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4.1, p. 1",
+      "text": "",
+      "retrieval_text": "POTENTIALLY MISLEADING CLAIMS > Meaningless claims including incomplete comparatives and superlatives.\nnumber=4.1\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 9
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "MEANINGLESS CLAIMS INCLUDING INCOMPLETE COMPARATIVES AND SUPERLATIVES.",
+        "process_candidates": [
+          "Meaningless claims including incomplete comparatives and superlatives.",
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "4.1 - Meaningless claims including incomplete comparatives and superlatives.",
+        "section_id": "4.1",
+        "section_number": "4.1",
+        "section_title": "Meaningless claims including incomplete comparatives and superlatives.",
+        "section_path": [
+          "4",
+          "4.1"
+        ],
+        "section_path_titles": [
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Meaningless claims including incomplete comparatives and superlatives."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4.1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "MEANINGLESS CLAIMS INCLUDING INCOMPLETE COMPARATIVES AND SUPERLATIVES.",
+        "process_candidates": [
+          "Meaningless claims including incomplete comparatives and superlatives.",
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "4.1 - Meaningless claims including incomplete comparatives and superlatives.",
+        "section_id": "4.1",
+        "section_number": "4.1",
+        "section_title": "Meaningless claims including incomplete comparatives and superlatives.",
+        "section_path": [
+          "4",
+          "4.1"
+        ],
+        "section_path_titles": [
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Meaningless claims including incomplete comparatives and superlatives."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4.1, p. 1"
+      }
+    },
+    {
+      "id": "4.2",
+      "key": "num::4.2",
+      "raw_id": "num::4.2",
+      "number": "4.2",
+      "title": "Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”.",
+      "level": 2,
+      "parent_id": "4",
+      "parent_title": "POTENTIALLY MISLEADING CLAIMS",
+      "path": [
+        "4",
+        "4.2"
+      ],
+      "path_titles": [
+        "POTENTIALLY MISLEADING CLAIMS",
+        "Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4.2, p. 1",
+      "text": "",
+      "retrieval_text": "POTENTIALLY MISLEADING CLAIMS > Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”.\nnumber=4.2\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 10
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS AS TO GOOD HYGIENIC PRACTICE, SUCH AS “WHOLESOME”, “HEALTHFUL”, “SOUND”.",
+        "process_candidates": [
+          "Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”.",
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "4.2 - Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”.",
+        "section_id": "4.2",
+        "section_number": "4.2",
+        "section_title": "Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”.",
+        "section_path": [
+          "4",
+          "4.2"
+        ],
+        "section_path_titles": [
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4.2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CLAIMS AS TO GOOD HYGIENIC PRACTICE, SUCH AS “WHOLESOME”, “HEALTHFUL”, “SOUND”.",
+        "process_candidates": [
+          "Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”.",
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "4.2 - Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”.",
+        "section_id": "4.2",
+        "section_number": "4.2",
+        "section_title": "Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”.",
+        "section_path": [
+          "4",
+          "4.2"
+        ],
+        "section_path_titles": [
+          "POTENTIALLY MISLEADING CLAIMS",
+          "Claims as to good hygienic practice, such as “wholesome”, “healthful”, “sound”."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4.2, p. 1"
+      }
+    },
+    {
+      "id": "5",
+      "key": "num::5",
+      "raw_id": "num::5",
+      "number": "5",
+      "title": "CONDITIONAL CLAIMS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "5"
+      ],
+      "path_titles": [
+        "CONDITIONAL CLAIMS"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 1,
+          "is_continuation_from_previous_page": true,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5, p. 2",
+      "text": "5.1 The following claims should be permitted subject to the particular condition attached to each:",
+      "retrieval_text": "CONDITIONAL CLAIMS\nnumber=5\nlevel=1\n5.1 The following claims should be permitted subject to the particular condition attached to each:",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "5.1 The following claims should be permitted subject to the particular condition attached to each:"
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 11
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONDITIONAL CLAIMS",
+        "process_candidates": [
+          "CONDITIONAL CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "5 - CONDITIONAL CLAIMS",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "CONDITIONAL CLAIMS",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONDITIONAL CLAIMS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONDITIONAL CLAIMS",
+        "process_candidates": [
+          "CONDITIONAL CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "5 - CONDITIONAL CLAIMS",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "CONDITIONAL CLAIMS",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONDITIONAL CLAIMS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5, p. 2"
+      }
+    },
+    {
+      "id": "5.1",
+      "key": "num::5.1",
+      "raw_id": "num::5.1",
+      "number": "5.1",
+      "title": "The following claims should be permitted subject to the particular condition attached to each",
+      "level": 2,
+      "parent_id": "5",
+      "parent_title": "CONDITIONAL CLAIMS",
+      "path": [
+        "5",
+        "5.1"
+      ],
+      "path_titles": [
+        "CONDITIONAL CLAIMS",
+        "The following claims should be permitted subject to the particular condition attached to each"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 2,
+          "is_continuation_from_previous_page": true,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2",
+      "text": "(i) An indication that a food has obtained an increased or special nutritive value by means of the addition of nutrients, such as vitamins, minerals and amino acids may be given only if such an addition has been made on the basis of nutritional considerations according to the Codex General Principles for the Addition of Essential Nutrients to Foods. This kind of indication should be subject to legislation by the appropriate authorities.\n(ii) An indication that the food has special nutritional qualities by the reduction or omission of a nutrient should be on the basis of nutritional considerations and subject to legislation by the appropriate authorities.\n(iii) Terms such as “natural”, “pure”, “fresh”, “home made”, “organically grown” and “biologically grown” when they are used, should be in accordance with the national practices in the country where the food is sold. The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term “Halal”, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling.",
+      "retrieval_text": "CONDITIONAL CLAIMS > The following claims should be permitted subject to the particular condition attached to each\nnumber=5.1\nlevel=2\n(i) An indication that a food has obtained an increased or special nutritive value by means of the addition of nutrients, such as vitamins, minerals and amino acids may be given only if such an addition has been made on the basis of nutritional considerations according to the Codex General Principles for the Addition of Essential Nutrients to Foods. This kind of indication should be subject to legislation by the appropriate authorities.\n(ii) An indication that the food has special nutritional qualities by the reduction or omission of a nutrient should be on the basis of nutritional considerations and subject to legislation by the appropriate authorities.\n(iii) Terms such as “natural”, “pure”, “fresh”, “home made”, “organically grown” and “biologically grown” when they are used, should be in accordance with the national practices in the country where the food is sold. The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term “Halal”, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "(i) An indication that a food has obtained an increased or special nutritive value by means of the addition of nutrients, such as vitamins, minerals and amino acids may be given only if such an addition has been made on the basis of nutritional considerations according to the Codex General Principles for the Addition of Essential Nutrients to Foods. This kind of indication should be subject to legislation by the appropriate authorities.\n(ii) An indication that the food has special nutritional qualities by the reduction or omission of a nutrient should be on the basis of nutritional considerations and subject to legislation by the appropriate authorities.\n(iii) Terms such as “natural”, “pure”, “fresh”, “home made”, “organically grown” and “biologically grown” when they are used, should be in accordance with the national practices in the country where the food is sold. The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term “Halal”, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling."
+        }
+      ],
+      "rag": {
+        "rag_id": 295,
+        "order": 12
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+        "process_candidates": [
+          "The following claims should be permitted subject to the particular condition attached to each",
+          "CONDITIONAL CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+        "section_id": "5.1",
+        "section_number": "5.1",
+        "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+        "section_path": [
+          "5",
+          "5.1"
+        ],
+        "section_path_titles": [
+          "CONDITIONAL CLAIMS",
+          "The following claims should be permitted subject to the particular condition attached to each"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+        "process_candidates": [
+          "The following claims should be permitted subject to the particular condition attached to each",
+          "CONDITIONAL CLAIMS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+        "section_id": "5.1",
+        "section_number": "5.1",
+        "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+        "section_path": [
+          "5",
+          "5.1"
+        ],
+        "section_path_titles": [
+          "CONDITIONAL CLAIMS",
+          "The following claims should be permitted subject to the particular condition attached to each"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+      }
+    },
+    {
+      "id": "295",
+      "key": "295",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "These guidelines relate to claims made for a food irrespective of whether or not the food is covered by an individual Codex Standard.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The person marketing the food should be able to justify the claims made.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Imposition of responsibility on an agent",
+            "pattern": "Subject + 'should' + modal verb phrase indicating obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "agent": "The person marketing the food",
+              "obligation": "should be able to justify the claims made"
+            },
+            "justification": "Expresses an obligation on a responsible party using 'should'; distinct normative pattern about justification duties; no match to known templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PERSON MARKETING THE FOOD",
+            "subject_candidates": [
+              "THE PERSON MARKETING THE FOOD",
+              "OBLIGATION",
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "process": "SCOPE AND GENERAL PRINCIPLES",
+            "process_candidates": [
+              "SCOPE AND GENERAL PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE AND GENERAL PRINCIPLES",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE AND GENERAL PRINCIPLES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PERSON MARKETING THE FOOD",
+            "subject_candidates": [
+              "THE PERSON MARKETING THE FOOD",
+              "OBLIGATION",
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "process": "SCOPE AND GENERAL PRINCIPLES",
+            "process_candidates": [
+              "SCOPE AND GENERAL PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE AND GENERAL PRINCIPLES",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE AND GENERAL PRINCIPLES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "The principle on which the guidelines are based is that no food should be described or presented in a manner that is false, misleading or deceptive or is likely to create an erroneous impression regarding its character in any respect.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The person marketing the food should be able to justify the claims made.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Imposition of responsibility on an agent",
+            "pattern": "Subject + 'should' + modal verb phrase indicating obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "agent": "The person marketing the food",
+              "obligation": "should be able to justify the claims made"
+            },
+            "justification": "Expresses an obligation on a responsible party using 'should'; distinct normative pattern about justification duties; no match to known templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PERSON MARKETING THE FOOD",
+            "subject_candidates": [
+              "THE PERSON MARKETING THE FOOD",
+              "OBLIGATION",
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "process": "SCOPE AND GENERAL PRINCIPLES",
+            "process_candidates": [
+              "SCOPE AND GENERAL PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE AND GENERAL PRINCIPLES",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE AND GENERAL PRINCIPLES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PERSON MARKETING THE FOOD",
+            "subject_candidates": [
+              "THE PERSON MARKETING THE FOOD",
+              "OBLIGATION",
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "process": "SCOPE AND GENERAL PRINCIPLES",
+            "process_candidates": [
+              "SCOPE AND GENERAL PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE AND GENERAL PRINCIPLES",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE AND GENERAL PRINCIPLES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "The person marketing the food should be able to justify the claims made.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The person marketing the food should be able to justify the claims made.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Imposition of responsibility on an agent",
+            "pattern": "Subject + 'should' + modal verb phrase indicating obligation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "agent": "The person marketing the food",
+              "obligation": "should be able to justify the claims made"
+            },
+            "justification": "Expresses an obligation on a responsible party using 'should'; distinct normative pattern about justification duties; no match to known templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE PERSON MARKETING THE FOOD",
+            "subject_candidates": [
+              "THE PERSON MARKETING THE FOOD",
+              "OBLIGATION",
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "process": "SCOPE AND GENERAL PRINCIPLES",
+            "process_candidates": [
+              "SCOPE AND GENERAL PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE AND GENERAL PRINCIPLES",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE AND GENERAL PRINCIPLES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE PERSON MARKETING THE FOOD",
+            "subject_candidates": [
+              "THE PERSON MARKETING THE FOOD",
+              "OBLIGATION",
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "process": "SCOPE AND GENERAL PRINCIPLES",
+            "process_candidates": [
+              "SCOPE AND GENERAL PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE AND GENERAL PRINCIPLES",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE AND GENERAL PRINCIPLES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE AND GENERAL PRINCIPLES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "For the purpose of these guidelines, a claim is any representation which states, suggests or implies that a food has particular characteristics relating to its origin, nutritional properties, nature, production, processing, composition or any other quality.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Defines scope relevant for regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "For the purpose of these guidelines, a claim is any representation which states, suggests or implies that a food has particular characteristics relating to its origin, nutritional properties, nature, production, processing, composition or any other quality.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Definition of a term",
+            "pattern": "Explanatory definitional statement specifying scope of 'claim'",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "claim",
+              "definition": "any representation which states, suggests or implies that a food has particular characteristics relating to its origin, nutritional properties, nature, production, processing, composition or any other quality"
+            },
+            "justification": "Pure definitional content with no normative modality; clarifies terminology used in guidelines.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CLAIM",
+            "subject_candidates": [
+              "CLAIM",
+              "DEFINITION"
+            ],
+            "process": "DEFINITION",
+            "process_candidates": [
+              "DEFINITION",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "2 - DEFINITION",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "DEFINITION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DEFINITION"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CLAIM",
+            "subject_candidates": [
+              "CLAIM",
+              "DEFINITION"
+            ],
+            "process": "DEFINITION",
+            "process_candidates": [
+              "DEFINITION",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "2 - DEFINITION",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "DEFINITION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DEFINITION"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 2,
+          "original": "The following claims should be prohibited:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The following claims should be prohibited:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Prohibition",
+            "modality": "Prohibition",
+            "function": "Introduction to a list of prohibited items",
+            "pattern": "Introductory phrase expressing prohibition with 'should be prohibited'",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "focus": "claims",
+              "mandate": "should be prohibited"
+            },
+            "justification": "Sentence introduces a prohibition category using 'should be prohibited'; functions as a heading or precedent for a list; no detailed template found.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PROHIBITION",
+            "subject_candidates": [
+              "PROHIBITION",
+              "PROHIBITED CLAIMS"
+            ],
+            "process": "PROHIBITED CLAIMS",
+            "process_candidates": [
+              "PROHIBITED CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "3 - PROHIBITED CLAIMS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "PROHIBITED CLAIMS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "PROHIBITED CLAIMS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PROHIBITION",
+            "subject_candidates": [
+              "PROHIBITION",
+              "PROHIBITED CLAIMS"
+            ],
+            "process": "PROHIBITED CLAIMS",
+            "process_candidates": [
+              "PROHIBITED CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "3 - PROHIBITED CLAIMS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "PROHIBITED CLAIMS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "PROHIBITED CLAIMS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3, p. 1"
+          }
+        },
+        {
+          "order": 3,
+          "original": "The following are examples of claims which may be misleading:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The following are examples of claims which may be misleading:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Condition",
+            "function": "Introduction to examples illustrating a potential issue",
+            "pattern": "Introductory phrase marking potential risk with 'may be misleading'",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "examples": "claims",
+              "condition": "may be misleading"
+            },
+            "justification": "Sentence introduces examples under a condition or caution modality indicated by 'may be misleading', serving as a contextual qualifier.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "POTENTIALLY MISLEADING CLAIMS"
+            ],
+            "process": "POTENTIALLY MISLEADING CLAIMS",
+            "process_candidates": [
+              "POTENTIALLY MISLEADING CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "4 - POTENTIALLY MISLEADING CLAIMS",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "POTENTIALLY MISLEADING CLAIMS",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "POTENTIALLY MISLEADING CLAIMS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "POTENTIALLY MISLEADING CLAIMS"
+            ],
+            "process": "POTENTIALLY MISLEADING CLAIMS",
+            "process_candidates": [
+              "POTENTIALLY MISLEADING CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "4 - POTENTIALLY MISLEADING CLAIMS",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "POTENTIALLY MISLEADING CLAIMS",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "POTENTIALLY MISLEADING CLAIMS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 4, p. 1"
+          }
+        },
+        {
+          "order": 7,
+          "original": "(a) in accordance with the provisions of Codex standards or guidelines for foods as developed by the Committee on Nutrition and Foods for Special Dietary Uses and follow the principles set forth in these guidelines. or, (b) in the absence of an applicable Codex standard or guideline, permitted under the laws of the country in which the food is distributed.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "(a) in accordance with the provisions of Codex standards or guidelines for foods as developed by the Committee on Nutrition and Foods for Special Dietary Uses and follow the principles set forth in these guidelines. or, (b) in the absence of an applicable Codex standard or guideline, permitted under the laws of the country in which the food is distributed.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Permission/Condition",
+            "modality": "Permission",
+            "function": "Listing alternative conditions under which permission is granted",
+            "pattern": "Disjunction of conditional permission clauses with references to external standards",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "clause_a": "in accordance with the provisions of Codex standards or guidelines and principles in these guidelines",
+              "clause_b": "in the absence of applicable Codex standard, permitted under national laws"
+            },
+            "justification": "Complex sentence granting permissions conditionally referencing standards and national laws; no matching known template; combined condition and permission modality.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PERMISSION/CONDITION",
+            "subject_candidates": [
+              "PERMISSION/CONDITION",
+              "CLAIMS AS TO THE SUITABILITY OF A FOOD FOR USE IN THE PREVENTION, ALLEVIATION, TREATMENT OR CURE OF A DISEASE, DISORDER, OR PARTICULAR PHYSIOLOGICAL CONDITION UNLESS THEY ARE:"
+            ],
+            "process": "CLAIMS AS TO THE SUITABILITY OF A FOOD FOR USE IN THE PREVENTION, ALLEVIATION, TREATMENT OR CURE OF A DISEASE, DISORDER, OR PARTICULAR PHYSIOLOGICAL CONDITION UNLESS THEY ARE:",
+            "process_candidates": [
+              "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+              "PROHIBITED CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "3.4 - Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+            "section_id": "3.4",
+            "section_number": "3.4",
+            "section_title": "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+            "section_path": [
+              "3",
+              "3.4"
+            ],
+            "section_path_titles": [
+              "PROHIBITED CLAIMS",
+              "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.4, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PERMISSION/CONDITION",
+            "subject_candidates": [
+              "PERMISSION/CONDITION",
+              "CLAIMS AS TO THE SUITABILITY OF A FOOD FOR USE IN THE PREVENTION, ALLEVIATION, TREATMENT OR CURE OF A DISEASE, DISORDER, OR PARTICULAR PHYSIOLOGICAL CONDITION UNLESS THEY ARE:"
+            ],
+            "process": "CLAIMS AS TO THE SUITABILITY OF A FOOD FOR USE IN THE PREVENTION, ALLEVIATION, TREATMENT OR CURE OF A DISEASE, DISORDER, OR PARTICULAR PHYSIOLOGICAL CONDITION UNLESS THEY ARE:",
+            "process_candidates": [
+              "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+              "PROHIBITED CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "3.4 - Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+            "section_id": "3.4",
+            "section_number": "3.4",
+            "section_title": "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:",
+            "section_path": [
+              "3",
+              "3.4"
+            ],
+            "section_path_titles": [
+              "PROHIBITED CLAIMS",
+              "Claims as to the suitability of a food for use in the prevention, alleviation, treatment or cure of a disease, disorder, or particular physiological condition unless they are:"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 3.4, p. 1"
+          }
+        },
+        {
+          "order": 11,
+          "original": "5.1 The following claims should be permitted subject to the particular condition attached to each:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "5.1 The following claims should be permitted subject to the particular condition attached to each:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Permission",
+            "modality": "Permission",
+            "function": "Introduction to a conditional permission list",
+            "pattern": "Introductory phrase stating permission with attached conditions",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "claims": "following claims",
+              "permission": "should be permitted",
+              "condition": "subject to particular condition attached"
+            },
+            "justification": "Sentence introduces permissions for claims with conditional qualifications; no strong template match; normative permission modality clear.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "CONDITIONAL CLAIMS"
+            ],
+            "process": "CONDITIONAL CLAIMS",
+            "process_candidates": [
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5 - CONDITIONAL CLAIMS",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONDITIONAL CLAIMS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "CONDITIONAL CLAIMS"
+            ],
+            "process": "CONDITIONAL CLAIMS",
+            "process_candidates": [
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5 - CONDITIONAL CLAIMS",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONDITIONAL CLAIMS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 12,
+          "original": "(i) An indication that a food has obtained an increased or special nutritive value by means of the addition of nutrients, such as vitamins, minerals and amino acids may be given only if such an addition has been made on the basis of nutritional considerations according to the Codex General Principles for the Addition of Essential Nutrients to Foods.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term \u0014Halal\u001d, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Mixed (Obligation, Permission, Condition)",
+            "modality": "Mixed (Obligation, Permission, Condition)",
+            "function": "Multiple normative statements including obligations, permissions, and conditions",
+            "pattern": "Composite multi-clause passage containing obligations ('should be consistent'), conditional permissions ('may be claimed provided that'), and conditions with nested enumerations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "use_of_terms_obligation": "should be consistent with prohibitions in Section 3",
+              "religious_claim_permission": "may be claimed provided food conforms to religious authority requirements",
+              "claim_condition": "claims of special characteristics valid if fact apparent",
+              "absence_claim_permissions_conditions": {
+                "criteria": [
+                  "not misleading",
+                  "not subject to specific Codex requirements",
+                  "normal consumer expectation",
+                  "no substitution unless clearly stated",
+                  "presence permitted"
+                ],
+                "permission": "may be used"
+              },
+              "nutrition_claim_obligation": "should invoke mandatory nutrient declaration per Codex Guidelines"
+            },
+            "justification": "Complex passage with multiple normative modalities and functions including obligations, permissions, and conditions; cannot be matched to a single template; structured as composite normative pattern.",
+            "notes": [
+              "Contains multiple embedded normative statements with distinct modality and communicative functions.",
+              "Includes references to external standards and enumerated conditions."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          }
+        },
+        {
+          "order": 12,
+          "original": "This kind of indication should be subject to legislation by the appropriate authorities.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term \u0014Halal\u001d, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Mixed (Obligation, Permission, Condition)",
+            "modality": "Mixed (Obligation, Permission, Condition)",
+            "function": "Multiple normative statements including obligations, permissions, and conditions",
+            "pattern": "Composite multi-clause passage containing obligations ('should be consistent'), conditional permissions ('may be claimed provided that'), and conditions with nested enumerations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "use_of_terms_obligation": "should be consistent with prohibitions in Section 3",
+              "religious_claim_permission": "may be claimed provided food conforms to religious authority requirements",
+              "claim_condition": "claims of special characteristics valid if fact apparent",
+              "absence_claim_permissions_conditions": {
+                "criteria": [
+                  "not misleading",
+                  "not subject to specific Codex requirements",
+                  "normal consumer expectation",
+                  "no substitution unless clearly stated",
+                  "presence permitted"
+                ],
+                "permission": "may be used"
+              },
+              "nutrition_claim_obligation": "should invoke mandatory nutrient declaration per Codex Guidelines"
+            },
+            "justification": "Complex passage with multiple normative modalities and functions including obligations, permissions, and conditions; cannot be matched to a single template; structured as composite normative pattern.",
+            "notes": [
+              "Contains multiple embedded normative statements with distinct modality and communicative functions.",
+              "Includes references to external standards and enumerated conditions."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          }
+        },
+        {
+          "order": 12,
+          "original": "(ii) An indication that the food has special nutritional qualities by the reduction or omission of a nutrient should be on the basis of nutritional considerations and subject to legislation by the appropriate authorities.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term \u0014Halal\u001d, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Mixed (Obligation, Permission, Condition)",
+            "modality": "Mixed (Obligation, Permission, Condition)",
+            "function": "Multiple normative statements including obligations, permissions, and conditions",
+            "pattern": "Composite multi-clause passage containing obligations ('should be consistent'), conditional permissions ('may be claimed provided that'), and conditions with nested enumerations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "use_of_terms_obligation": "should be consistent with prohibitions in Section 3",
+              "religious_claim_permission": "may be claimed provided food conforms to religious authority requirements",
+              "claim_condition": "claims of special characteristics valid if fact apparent",
+              "absence_claim_permissions_conditions": {
+                "criteria": [
+                  "not misleading",
+                  "not subject to specific Codex requirements",
+                  "normal consumer expectation",
+                  "no substitution unless clearly stated",
+                  "presence permitted"
+                ],
+                "permission": "may be used"
+              },
+              "nutrition_claim_obligation": "should invoke mandatory nutrient declaration per Codex Guidelines"
+            },
+            "justification": "Complex passage with multiple normative modalities and functions including obligations, permissions, and conditions; cannot be matched to a single template; structured as composite normative pattern.",
+            "notes": [
+              "Contains multiple embedded normative statements with distinct modality and communicative functions.",
+              "Includes references to external standards and enumerated conditions."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          }
+        },
+        {
+          "order": 12,
+          "original": "(iii) Terms such as “natural”, “pure”, “fresh”, “home made”, “organically grown” and “biologically grown” when they are used, should be in accordance with the national practices in the country where the food is sold.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term \u0014Halal\u001d, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Mixed (Obligation, Permission, Condition)",
+            "modality": "Mixed (Obligation, Permission, Condition)",
+            "function": "Multiple normative statements including obligations, permissions, and conditions",
+            "pattern": "Composite multi-clause passage containing obligations ('should be consistent'), conditional permissions ('may be claimed provided that'), and conditions with nested enumerations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "use_of_terms_obligation": "should be consistent with prohibitions in Section 3",
+              "religious_claim_permission": "may be claimed provided food conforms to religious authority requirements",
+              "claim_condition": "claims of special characteristics valid if fact apparent",
+              "absence_claim_permissions_conditions": {
+                "criteria": [
+                  "not misleading",
+                  "not subject to specific Codex requirements",
+                  "normal consumer expectation",
+                  "no substitution unless clearly stated",
+                  "presence permitted"
+                ],
+                "permission": "may be used"
+              },
+              "nutrition_claim_obligation": "should invoke mandatory nutrient declaration per Codex Guidelines"
+            },
+            "justification": "Complex passage with multiple normative modalities and functions including obligations, permissions, and conditions; cannot be matched to a single template; structured as composite normative pattern.",
+            "notes": [
+              "Contains multiple embedded normative statements with distinct modality and communicative functions.",
+              "Includes references to external standards and enumerated conditions."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          }
+        },
+        {
+          "order": 12,
+          "original": "The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term “Halal”, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The use of these terms should be consistent with the prohibitions set out in Section 3.\n(iv) Religious or Ritual Preparation (e.g. Halal, Kosher) of a food may be claimed provided that the food conforms to the requirements of the appropriate religious or ritual authorities (see also the General Guidelines for the Use of the Term \u0014Halal\u001d, CAC/GL 24-1997).\n(v) Claims that a food has special characteristics when all such foods have the same characteristics, if this fact is apparent in the claim.\n(vi) Claims which highlight the absence or non-addition of particular substances to food may be used provided that they are not misleading and provided that the substance:\n(a) is not subject to specific requirements in any Codex Standard or Guideline;\n(b) is one which consumers would normally expect to find in the food;\n(c) has not been substituted by another giving the food equivalent characteristics unless the nature of the substitution is clearly stated with equal prominence; and\n(d) is one whose presence or addition is permitted in the food.\n(vii) Claims which highlight the absence or non-addition of one or more nutrients should be regarded as nutrition claims and therefore should invoke mandatory nutrient declaration in accordance with the Codex Guidelines on Nutrition Labelling.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Mixed (Obligation, Permission, Condition)",
+            "modality": "Mixed (Obligation, Permission, Condition)",
+            "function": "Multiple normative statements including obligations, permissions, and conditions",
+            "pattern": "Composite multi-clause passage containing obligations ('should be consistent'), conditional permissions ('may be claimed provided that'), and conditions with nested enumerations",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "use_of_terms_obligation": "should be consistent with prohibitions in Section 3",
+              "religious_claim_permission": "may be claimed provided food conforms to religious authority requirements",
+              "claim_condition": "claims of special characteristics valid if fact apparent",
+              "absence_claim_permissions_conditions": {
+                "criteria": [
+                  "not misleading",
+                  "not subject to specific Codex requirements",
+                  "normal consumer expectation",
+                  "no substitution unless clearly stated",
+                  "presence permitted"
+                ],
+                "permission": "may be used"
+              },
+              "nutrition_claim_obligation": "should invoke mandatory nutrient declaration per Codex Guidelines"
+            },
+            "justification": "Complex passage with multiple normative modalities and functions including obligations, permissions, and conditions; cannot be matched to a single template; structured as composite normative pattern.",
+            "notes": [
+              "Contains multiple embedded normative statements with distinct modality and communicative functions.",
+              "Includes references to external standards and enumerated conditions."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+            "subject_candidates": [
+              "MIXED (OBLIGATION, PERMISSION, CONDITION)",
+              "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH"
+            ],
+            "process": "THE FOLLOWING CLAIMS SHOULD BE PERMITTED SUBJECT TO THE PARTICULAR CONDITION ATTACHED TO EACH",
+            "process_candidates": [
+              "The following claims should be permitted subject to the particular condition attached to each",
+              "CONDITIONAL CLAIMS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 1-1979 - General Guidelines on Claims",
+            "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+            "document_reference": "CXG 1-1979",
+            "document_title": "General Guidelines on Claims",
+            "document_type": "Guidelines",
+            "section": "5.1 - The following claims should be permitted subject to the particular condition attached to each",
+            "section_id": "5.1",
+            "section_number": "5.1",
+            "section_title": "The following claims should be permitted subject to the particular condition attached to each",
+            "section_path": [
+              "5",
+              "5.1"
+            ],
+            "section_path_titles": [
+              "CONDITIONAL CLAIMS",
+              "The following claims should be permitted subject to the particular condition attached to each"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815, Section 5.1, p. 2"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "295",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 1-1979 - General Guidelines on Claims",
+        "document_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+        "document_reference": "CXG 1-1979",
+        "document_title": "General Guidelines on Claims",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "295",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 1-1979  1",
+      "title": "GENERAL GUIDELINES ON CLAIMS",
+      "summary": "Página com hierarquia clara de diretrizes gerais sobre alegações em alimentos. Contém 4 seções principais numeradas (1 a 4) com subseções detalhadas para a seção 3 e seção 4 que continua para a próxima página. O cabeçalho e título do documento foram identificados corretamente.",
+      "total_sections": 4,
+      "sections": [
+        "1",
+        "2",
+        "3",
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "4",
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "page": 2,
+      "header": "CAC/GL 1-1979 2",
+      "title": null,
+      "summary": "A página contém a seção principal 5 CONDITIONAL CLAIMS com uma subseção 5.1 detalhando as condições específicas para reivindicações permitidas. O conteúdo da subseção 5.1 foi cuidadosamente associado às cláusulas listadas (i) a (vii). Marca-se continuidade desta seção da página anterior (is_continuation_from_previous_page=true) pois não há título 5 nesta página explicitamente numerado, mas o texto continua da página anterior. Não há indicação clara de continuação para página seguinte, então continues_on_next_page=false. O header está presente e corretamente excluído do texto. A estrutura hierárquica está coerente para uso em RAG.",
+      "total_sections": 2,
+      "sections": [
+        "5",
+        "5.1"
+      ]
+    }
+  ]
+}

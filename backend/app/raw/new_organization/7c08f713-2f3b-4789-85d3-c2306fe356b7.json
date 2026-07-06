@@ -1,0 +1,2507 @@
+{
+  "document": {
+    "id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 76-2011",
+    "year": "2011",
+    "title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+    "label": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+    "committee": "CCFL",
+    "last_modified": "2011",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B76-2011%252FCXG_076e.pdf",
+    "processes": [
+      "Labelling and Consumer Information",
+      "Biotechnology and Novel Foods"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "PURPOSE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "PURPOSE"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 1, p. 1",
+      "text": "The purpose of this document is only to recall and assemble in a single document some important elements of guidance from Codex texts, which are relevant to labelling of foods derived from modern biotechnology.",
+      "retrieval_text": "PURPOSE\nnumber=1\nlevel=1\nThe purpose of this document is only to recall and assemble in a single document some important elements of guidance from Codex texts, which are relevant to labelling of foods derived from modern biotechnology.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The purpose of this document is only to recall and assemble in a single document some important elements of guidance from Codex texts, which are relevant to labelling of foods derived from modern biotechnology."
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PURPOSE",
+        "process_candidates": [
+          "PURPOSE",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "1 - PURPOSE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "PURPOSE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PURPOSE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PURPOSE",
+        "process_candidates": [
+          "PURPOSE",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "1 - PURPOSE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "PURPOSE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PURPOSE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 1, p. 1"
+      }
+    },
+    {
+      "id": "2",
+      "key": "num::2",
+      "raw_id": "num::2",
+      "number": "2",
+      "title": "CONSIDERATIONS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "CONSIDERATIONS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1",
+      "text": "Different approaches regarding labelling of foods derived from modern biotechnology are used. Any approach implemented by Codex members should be consistent with already adopted Codex provisions. This document is not intended to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production.",
+      "retrieval_text": "CONSIDERATIONS\nnumber=2\nlevel=1\nDifferent approaches regarding labelling of foods derived from modern biotechnology are used. Any approach implemented by Codex members should be consistent with already adopted Codex provisions. This document is not intended to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Different approaches regarding labelling of foods derived from modern biotechnology are used. Any approach implemented by Codex members should be consistent with already adopted Codex provisions. This document is not intended to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production."
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONSIDERATIONS",
+        "process_candidates": [
+          "CONSIDERATIONS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "2 - CONSIDERATIONS",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "CONSIDERATIONS",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "CONSIDERATIONS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONSIDERATIONS",
+        "process_candidates": [
+          "CONSIDERATIONS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "2 - CONSIDERATIONS",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "CONSIDERATIONS",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "CONSIDERATIONS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1"
+      }
+    },
+    {
+      "id": "3",
+      "key": "num::3",
+      "raw_id": "num::3",
+      "number": "3",
+      "title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3, p. 1",
+      "text": "",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS\nnumber=3\nlevel=1",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPILATION OF RELEVANT CODEX TEXTS",
+        "process_candidates": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3 - COMPILATION OF RELEVANT CODEX TEXTS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPILATION OF RELEVANT CODEX TEXTS",
+        "process_candidates": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3 - COMPILATION OF RELEVANT CODEX TEXTS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3, p. 1"
+      }
+    },
+    {
+      "id": "3.1",
+      "key": "num::3.1",
+      "raw_id": "num::3.1",
+      "number": "3.1",
+      "title": "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.1"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.1, p. 1",
+      "text": "and particularly, Sections 3.1, 3.2, 4.1.1, 4.1.2, 4.2.2, 7.1",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )\nnumber=3.1\nlevel=2\nand particularly, Sections 3.1, 3.2, 4.1.1, 4.1.2, 4.2.2, 7.1",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "and particularly, Sections 3.1, 3.2, 4.1.1, 4.1.2, 4.2.2, 7.1"
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL STANDARD FOR THE LABELLING OF PREPACKAGED FOODS, ( CODEX STAN 1-1985 )",
+        "process_candidates": [
+          "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.1 - General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL STANDARD FOR THE LABELLING OF PREPACKAGED FOODS, ( CODEX STAN 1-1985 )",
+        "process_candidates": [
+          "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.1 - General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.1, p. 1"
+      }
+    },
+    {
+      "id": "3.10",
+      "key": "num::3.10",
+      "raw_id": "num::3.10",
+      "number": "3.10",
+      "title": "Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.10"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 10,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.10, p. 1",
+      "text": "",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)\nnumber=3.10\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINE FOR THE CONDUCT OF FOOD SAFETY ASSESSMENT OF FOODS DERIVED FROM RECOMBINANT-DNA ANIMALS (CAC/GL 68-2008)",
+        "process_candidates": [
+          "Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.10 - Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)",
+        "section_id": "3.10",
+        "section_number": "3.10",
+        "section_title": "Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)",
+        "section_path": [
+          "3",
+          "3.10"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.10, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINE FOR THE CONDUCT OF FOOD SAFETY ASSESSMENT OF FOODS DERIVED FROM RECOMBINANT-DNA ANIMALS (CAC/GL 68-2008)",
+        "process_candidates": [
+          "Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.10 - Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)",
+        "section_id": "3.10",
+        "section_number": "3.10",
+        "section_title": "Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)",
+        "section_path": [
+          "3",
+          "3.10"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guideline for the Conduct of Food Safety Assessment of Foods derived from Recombinant-DNA Animals (CAC/GL 68-2008)"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.10, p. 1"
+      }
+    },
+    {
+      "id": "3.2",
+      "key": "num::3.2",
+      "raw_id": "num::3.2",
+      "number": "3.2",
+      "title": "General Guidelines on Claims ( CAC/GL 1-1979 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.2"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "General Guidelines on Claims ( CAC/GL 1-1979 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.2, p. 1",
+      "text": "and particularly, Sections 1.2, 1. 3, Section 2 – Definition of Claim, 3.3, 3.5, 4.1, 5.1 (iii), 5.1 (iv), 5.1 (v), 5.1 (vi)",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > General Guidelines on Claims ( CAC/GL 1-1979 )\nnumber=3.2\nlevel=2\nand particularly, Sections 1.2, 1. 3, Section 2 – Definition of Claim, 3.3, 3.5, 4.1, 5.1 (iii), 5.1 (iv), 5.1 (v), 5.1 (vi)",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "and particularly, Sections 1.2, 1. 3, Section 2 – Definition of Claim, 3.3, 3.5, 4.1, 5.1 (iii), 5.1 (iv), 5.1 (v), 5.1 (vi)"
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL GUIDELINES ON CLAIMS ( CAC/GL 1-1979 )",
+        "process_candidates": [
+          "General Guidelines on Claims ( CAC/GL 1-1979 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.2 - General Guidelines on Claims ( CAC/GL 1-1979 )",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "General Guidelines on Claims ( CAC/GL 1-1979 )",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "General Guidelines on Claims ( CAC/GL 1-1979 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL GUIDELINES ON CLAIMS ( CAC/GL 1-1979 )",
+        "process_candidates": [
+          "General Guidelines on Claims ( CAC/GL 1-1979 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.2 - General Guidelines on Claims ( CAC/GL 1-1979 )",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "General Guidelines on Claims ( CAC/GL 1-1979 )",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "General Guidelines on Claims ( CAC/GL 1-1979 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.2, p. 1"
+      }
+    },
+    {
+      "id": "3.3",
+      "key": "num::3.3",
+      "raw_id": "num::3.3",
+      "number": "3.3",
+      "title": "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.3"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.3, p. 1",
+      "text": "Introduction and particularly, Sections 1.1, 1.2, 1.3, 1.4 y 1.5",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )\nnumber=3.3\nlevel=2\nIntroduction and particularly, Sections 1.1, 1.2, 1.3, 1.4 y 1.5",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Introduction and particularly, Sections 1.1, 1.2, 1.3, 1.4 y 1.5"
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINES FOR USE OF NUTRITION AND HEALTH CLAIMS ( CAC/GL 23-1997 )",
+        "process_candidates": [
+          "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.3 - Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.3, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINES FOR USE OF NUTRITION AND HEALTH CLAIMS ( CAC/GL 23-1997 )",
+        "process_candidates": [
+          "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.3 - Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.3, p. 1"
+      }
+    },
+    {
+      "id": "3.4",
+      "key": "num::3.4",
+      "raw_id": "num::3.4",
+      "number": "3.4",
+      "title": "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.4"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 4,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.4, p. 1",
+      "text": "and particularly Section1.5",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )\nnumber=3.4\nlevel=2\nand particularly Section1.5",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "and particularly Section1.5"
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINES FOR THE PRODUCTION, PROCESSING, LABELLING AND MARKETING OF ORGANICALLY PRODUCED FOODS (CAC/GL 32-1999 )",
+        "process_candidates": [
+          "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.4 - Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+        "section_id": "3.4",
+        "section_number": "3.4",
+        "section_title": "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+        "section_path": [
+          "3",
+          "3.4"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.4, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINES FOR THE PRODUCTION, PROCESSING, LABELLING AND MARKETING OF ORGANICALLY PRODUCED FOODS (CAC/GL 32-1999 )",
+        "process_candidates": [
+          "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.4 - Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+        "section_id": "3.4",
+        "section_number": "3.4",
+        "section_title": "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+        "section_path": [
+          "3",
+          "3.4"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.4, p. 1"
+      }
+    },
+    {
+      "id": "3.5",
+      "key": "num::3.5",
+      "raw_id": "num::3.5",
+      "number": "3.5",
+      "title": "General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.5"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 5,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.5, p. 1",
+      "text": "",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )\nnumber=3.5\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 8
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL GUIDELINES FOR USE OF THE TERM “HALAL” ( CAC/GL 24-1997 )",
+        "process_candidates": [
+          "General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.5 - General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )",
+        "section_id": "3.5",
+        "section_number": "3.5",
+        "section_title": "General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )",
+        "section_path": [
+          "3",
+          "3.5"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.5, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL GUIDELINES FOR USE OF THE TERM “HALAL” ( CAC/GL 24-1997 )",
+        "process_candidates": [
+          "General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.5 - General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )",
+        "section_id": "3.5",
+        "section_number": "3.5",
+        "section_title": "General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )",
+        "section_path": [
+          "3",
+          "3.5"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "General Guidelines for Use of the Term “Halal” ( CAC/GL 24-1997 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.5, p. 1"
+      }
+    },
+    {
+      "id": "3.6",
+      "key": "num::3.6",
+      "raw_id": "num::3.6",
+      "number": "3.6",
+      "title": "Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.6"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 6,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.6, p. 1",
+      "text": "",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )\nnumber=3.6\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 9
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "WORKING PRINCIPLES FOR RISK ANALYSIS FOR FOOD SAFETY FOR APPLICATION BY GOVERNMENTS ( CAC/GL 62-2007 )",
+        "process_candidates": [
+          "Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.6 - Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )",
+        "section_id": "3.6",
+        "section_number": "3.6",
+        "section_title": "Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )",
+        "section_path": [
+          "3",
+          "3.6"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.6, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "WORKING PRINCIPLES FOR RISK ANALYSIS FOR FOOD SAFETY FOR APPLICATION BY GOVERNMENTS ( CAC/GL 62-2007 )",
+        "process_candidates": [
+          "Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.6 - Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )",
+        "section_id": "3.6",
+        "section_number": "3.6",
+        "section_title": "Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )",
+        "section_path": [
+          "3",
+          "3.6"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Working Principles for Risk Analysis for Food Safety for Application by Governments ( CAC/GL 62-2007 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.6, p. 1"
+      }
+    },
+    {
+      "id": "3.7",
+      "key": "num::3.7",
+      "raw_id": "num::3.7",
+      "number": "3.7",
+      "title": "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.7"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 7,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.7, p. 1",
+      "text": "and particularly, Paragraph 19",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )\nnumber=3.7\nlevel=2\nand particularly, Paragraph 19",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "and particularly, Paragraph 19"
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 10
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRINCIPLES FOR THE RISK ANALYSIS OF FOODS DERIVED FROM MODERN BIOTECHNOLOGY ( CAC/GL 44-2003 )",
+        "process_candidates": [
+          "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.7 - Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+        "section_id": "3.7",
+        "section_number": "3.7",
+        "section_title": "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+        "section_path": [
+          "3",
+          "3.7"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.7, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRINCIPLES FOR THE RISK ANALYSIS OF FOODS DERIVED FROM MODERN BIOTECHNOLOGY ( CAC/GL 44-2003 )",
+        "process_candidates": [
+          "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.7 - Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+        "section_id": "3.7",
+        "section_number": "3.7",
+        "section_title": "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+        "section_path": [
+          "3",
+          "3.7"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.7, p. 1"
+      }
+    },
+    {
+      "id": "3.8",
+      "key": "num::3.8",
+      "raw_id": "num::3.8",
+      "number": "3.8",
+      "title": "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.8"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 8,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.8, p. 1",
+      "text": "",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )\nnumber=3.8\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 11
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINES FOR THE CONDUCT OF FOOD SAFETY ASSESSMENTS OF FOODS DERIVED FROM RECOMBINANT-DNA PLANTS ( CAC/GL 45-2003 )",
+        "process_candidates": [
+          "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.8 - Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )",
+        "section_id": "3.8",
+        "section_number": "3.8",
+        "section_title": "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )",
+        "section_path": [
+          "3",
+          "3.8"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.8, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINES FOR THE CONDUCT OF FOOD SAFETY ASSESSMENTS OF FOODS DERIVED FROM RECOMBINANT-DNA PLANTS ( CAC/GL 45-2003 )",
+        "process_candidates": [
+          "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.8 - Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )",
+        "section_id": "3.8",
+        "section_number": "3.8",
+        "section_title": "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )",
+        "section_path": [
+          "3",
+          "3.8"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA plants ( CAC/GL 45-2003 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.8, p. 1"
+      }
+    },
+    {
+      "id": "3.9",
+      "key": "num::3.9",
+      "raw_id": "num::3.9",
+      "number": "3.9",
+      "title": "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "COMPILATION OF RELEVANT CODEX TEXTS",
+      "path": [
+        "3",
+        "3.9"
+      ],
+      "path_titles": [
+        "COMPILATION OF RELEVANT CODEX TEXTS",
+        "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 9,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.9, p. 1",
+      "text": "",
+      "retrieval_text": "COMPILATION OF RELEVANT CODEX TEXTS > Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )\nnumber=3.9\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 211,
+        "order": 12
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINES FOR THE CONDUCT OF FOOD SAFETY ASSESSMENTS OF FOODS DERIVED FROM RECOMBINANT-DNA MICROORGANISMS (CAC/GL 46-2003 )",
+        "process_candidates": [
+          "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.9 - Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )",
+        "section_id": "3.9",
+        "section_number": "3.9",
+        "section_title": "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )",
+        "section_path": [
+          "3",
+          "3.9"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.9, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GUIDELINES FOR THE CONDUCT OF FOOD SAFETY ASSESSMENTS OF FOODS DERIVED FROM RECOMBINANT-DNA MICROORGANISMS (CAC/GL 46-2003 )",
+        "process_candidates": [
+          "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )",
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "3.9 - Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )",
+        "section_id": "3.9",
+        "section_number": "3.9",
+        "section_title": "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )",
+        "section_path": [
+          "3",
+          "3.9"
+        ],
+        "section_path_titles": [
+          "COMPILATION OF RELEVANT CODEX TEXTS",
+          "Guidelines for the Conduct of Food Safety Assessments of Foods Derived from Recombinant-DNA microorganisms (CAC/GL 46-2003 )"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.9, p. 1"
+      }
+    },
+    {
+      "id": "211",
+      "key": "211",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "The purpose of this document is only to recall and assemble in a single document some important elements of guidance from Codex texts, which are relevant to labelling of foods derived from modern biotechnology.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Informational sentence, no regulatory trigger.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "The purpose of this document is only to recall and assemble in a single document some important elements of guidance from Codex texts, which are relevant to labelling of foods derived from modern biotechnology.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Descriptive",
+            "modality": "undefined",
+            "function": "Statement of Purpose",
+            "pattern": "Subject + Copula + Complement describing purpose",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "purpose": "recall and assemble some important elements of guidance from Codex texts relevant to labelling of foods derived from modern biotechnology"
+            },
+            "justification": "The sentence describes the document's purpose without expressing normative modality or directive function. Its structure is descriptive, stating purpose, which is not covered by the normative templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DESCRIPTIVE",
+            "subject_candidates": [
+              "DESCRIPTIVE",
+              "PURPOSE"
+            ],
+            "process": "PURPOSE",
+            "process_candidates": [
+              "PURPOSE",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "1 - PURPOSE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "PURPOSE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PURPOSE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DESCRIPTIVE",
+            "subject_candidates": [
+              "DESCRIPTIVE",
+              "PURPOSE"
+            ],
+            "process": "PURPOSE",
+            "process_candidates": [
+              "PURPOSE",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "1 - PURPOSE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "PURPOSE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PURPOSE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Different approaches regarding labelling of foods derived from modern biotechnology are used.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Clarification statement, not regulatory.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "This document is not intended to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Descriptive",
+            "modality": "undefined",
+            "function": "Statement of Intent",
+            "pattern": "Subject + Negated Copula + Infinitive Clause",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "This document",
+              "negation": "is not intended",
+              "infinitive_clause": "to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production"
+            },
+            "justification": "The sentence states the author's intent or limitation without normative or directive function. Structure is descriptive with negation, not aligned to known normative templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THIS DOCUMENT",
+            "subject_candidates": [
+              "THIS DOCUMENT",
+              "DESCRIPTIVE",
+              "CONSIDERATIONS"
+            ],
+            "process": "CONSIDERATIONS",
+            "process_candidates": [
+              "CONSIDERATIONS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "2 - CONSIDERATIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "CONSIDERATIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THIS DOCUMENT",
+            "subject_candidates": [
+              "THIS DOCUMENT",
+              "DESCRIPTIVE",
+              "CONSIDERATIONS"
+            ],
+            "process": "CONSIDERATIONS",
+            "process_candidates": [
+              "CONSIDERATIONS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "2 - CONSIDERATIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "CONSIDERATIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Any approach implemented by Codex members should be consistent with already adopted Codex provisions.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Clarification statement, not regulatory.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "This document is not intended to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Descriptive",
+            "modality": "undefined",
+            "function": "Statement of Intent",
+            "pattern": "Subject + Negated Copula + Infinitive Clause",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "This document",
+              "negation": "is not intended",
+              "infinitive_clause": "to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production"
+            },
+            "justification": "The sentence states the author's intent or limitation without normative or directive function. Structure is descriptive with negation, not aligned to known normative templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THIS DOCUMENT",
+            "subject_candidates": [
+              "THIS DOCUMENT",
+              "DESCRIPTIVE",
+              "CONSIDERATIONS"
+            ],
+            "process": "CONSIDERATIONS",
+            "process_candidates": [
+              "CONSIDERATIONS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "2 - CONSIDERATIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "CONSIDERATIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THIS DOCUMENT",
+            "subject_candidates": [
+              "THIS DOCUMENT",
+              "DESCRIPTIVE",
+              "CONSIDERATIONS"
+            ],
+            "process": "CONSIDERATIONS",
+            "process_candidates": [
+              "CONSIDERATIONS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "2 - CONSIDERATIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "CONSIDERATIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "This document is not intended to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Clarification statement, not regulatory.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "This document is not intended to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Descriptive",
+            "modality": "undefined",
+            "function": "Statement of Intent",
+            "pattern": "Subject + Negated Copula + Infinitive Clause",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "This document",
+              "negation": "is not intended",
+              "infinitive_clause": "to suggest or imply that foods derived from modern biotechnology are necessarily different from other foods simply due to their method of production"
+            },
+            "justification": "The sentence states the author's intent or limitation without normative or directive function. Structure is descriptive with negation, not aligned to known normative templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THIS DOCUMENT",
+            "subject_candidates": [
+              "THIS DOCUMENT",
+              "DESCRIPTIVE",
+              "CONSIDERATIONS"
+            ],
+            "process": "CONSIDERATIONS",
+            "process_candidates": [
+              "CONSIDERATIONS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "2 - CONSIDERATIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "CONSIDERATIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THIS DOCUMENT",
+            "subject_candidates": [
+              "THIS DOCUMENT",
+              "DESCRIPTIVE",
+              "CONSIDERATIONS"
+            ],
+            "process": "CONSIDERATIONS",
+            "process_candidates": [
+              "CONSIDERATIONS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "2 - CONSIDERATIONS",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "CONSIDERATIONS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "CONSIDERATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 3,
+          "original": "and particularly, Sections 3.1, 3.2, 4.1.1, 4.1.2, 4.2.2, 7.1",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Section references alone, not regulatory sentences.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "and particularly, Sections 3.1, 3.2, 4.1.1, 4.1.2, 4.2.2, 7.1",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Section references alone, not regulatory sentences.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "GENERAL STANDARD FOR THE LABELLING OF PREPACKAGED FOODS, ( CODEX STAN 1-1985 )"
+            ],
+            "process": "GENERAL STANDARD FOR THE LABELLING OF PREPACKAGED FOODS, ( CODEX STAN 1-1985 )",
+            "process_candidates": [
+              "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.1 - General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+            "section_id": "3.1",
+            "section_number": "3.1",
+            "section_title": "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+            "section_path": [
+              "3",
+              "3.1"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "GENERAL STANDARD FOR THE LABELLING OF PREPACKAGED FOODS, ( CODEX STAN 1-1985 )"
+            ],
+            "process": "GENERAL STANDARD FOR THE LABELLING OF PREPACKAGED FOODS, ( CODEX STAN 1-1985 )",
+            "process_candidates": [
+              "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.1 - General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+            "section_id": "3.1",
+            "section_number": "3.1",
+            "section_title": "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )",
+            "section_path": [
+              "3",
+              "3.1"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "General Standard for the Labelling of Prepackaged Foods, ( Codex Stan 1-1985 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.1, p. 1"
+          }
+        },
+        {
+          "order": 5,
+          "original": "and particularly, Sections 1.2, 1. 3, Section 2 – Definition of Claim, 3.3, 3.5, 4.1, 5.1 (iii), 5.1 (iv), 5.1 (v), 5.1 (vi)",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Section references alone, not regulatory sentences.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "and particularly, Sections 1.2, 1. 3, Section 2 – Definition of Claim, 3.3, 3.5, 4.1, 5.1 (iii), 5.1 (iv), 5.1 (v), 5.1 (vi)",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Section references alone, not regulatory sentences.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "GENERAL GUIDELINES ON CLAIMS ( CAC/GL 1-1979 )"
+            ],
+            "process": "GENERAL GUIDELINES ON CLAIMS ( CAC/GL 1-1979 )",
+            "process_candidates": [
+              "General Guidelines on Claims ( CAC/GL 1-1979 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.2 - General Guidelines on Claims ( CAC/GL 1-1979 )",
+            "section_id": "3.2",
+            "section_number": "3.2",
+            "section_title": "General Guidelines on Claims ( CAC/GL 1-1979 )",
+            "section_path": [
+              "3",
+              "3.2"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "General Guidelines on Claims ( CAC/GL 1-1979 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "GENERAL GUIDELINES ON CLAIMS ( CAC/GL 1-1979 )"
+            ],
+            "process": "GENERAL GUIDELINES ON CLAIMS ( CAC/GL 1-1979 )",
+            "process_candidates": [
+              "General Guidelines on Claims ( CAC/GL 1-1979 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.2 - General Guidelines on Claims ( CAC/GL 1-1979 )",
+            "section_id": "3.2",
+            "section_number": "3.2",
+            "section_title": "General Guidelines on Claims ( CAC/GL 1-1979 )",
+            "section_path": [
+              "3",
+              "3.2"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "General Guidelines on Claims ( CAC/GL 1-1979 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.2, p. 1"
+          }
+        },
+        {
+          "order": 6,
+          "original": "Introduction and particularly, Sections 1.1, 1.2, 1.3, 1.4 y 1.5",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Section references, not an actionable regulatory sentence.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "Introduction and particularly, Sections 1.1, 1.2, 1.3, 1.4 y 1.5",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Section references, not an actionable regulatory sentence.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "GUIDELINES FOR USE OF NUTRITION AND HEALTH CLAIMS ( CAC/GL 23-1997 )"
+            ],
+            "process": "GUIDELINES FOR USE OF NUTRITION AND HEALTH CLAIMS ( CAC/GL 23-1997 )",
+            "process_candidates": [
+              "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.3 - Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.3, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "GUIDELINES FOR USE OF NUTRITION AND HEALTH CLAIMS ( CAC/GL 23-1997 )"
+            ],
+            "process": "GUIDELINES FOR USE OF NUTRITION AND HEALTH CLAIMS ( CAC/GL 23-1997 )",
+            "process_candidates": [
+              "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.3 - Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Guidelines for Use of Nutrition and Health Claims ( CAC/GL 23-1997 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.3, p. 1"
+          }
+        },
+        {
+          "order": 7,
+          "original": "and particularly Section1.5",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Section reference, not a regulatory content.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "and particularly Section1.5",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Section reference, not a regulatory content.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "GUIDELINES FOR THE PRODUCTION, PROCESSING, LABELLING AND MARKETING OF ORGANICALLY PRODUCED FOODS (CAC/GL 32-1999 )"
+            ],
+            "process": "GUIDELINES FOR THE PRODUCTION, PROCESSING, LABELLING AND MARKETING OF ORGANICALLY PRODUCED FOODS (CAC/GL 32-1999 )",
+            "process_candidates": [
+              "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.4 - Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+            "section_id": "3.4",
+            "section_number": "3.4",
+            "section_title": "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+            "section_path": [
+              "3",
+              "3.4"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.4, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "GUIDELINES FOR THE PRODUCTION, PROCESSING, LABELLING AND MARKETING OF ORGANICALLY PRODUCED FOODS (CAC/GL 32-1999 )"
+            ],
+            "process": "GUIDELINES FOR THE PRODUCTION, PROCESSING, LABELLING AND MARKETING OF ORGANICALLY PRODUCED FOODS (CAC/GL 32-1999 )",
+            "process_candidates": [
+              "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.4 - Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+            "section_id": "3.4",
+            "section_number": "3.4",
+            "section_title": "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )",
+            "section_path": [
+              "3",
+              "3.4"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Guidelines for the Production, Processing, Labelling and Marketing of Organically Produced Foods (CAC/GL 32-1999 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.4, p. 1"
+          }
+        },
+        {
+          "order": 10,
+          "original": "and particularly, Paragraph 19",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Paragraph reference only.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "and particularly, Paragraph 19",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Paragraph reference only.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "PRINCIPLES FOR THE RISK ANALYSIS OF FOODS DERIVED FROM MODERN BIOTECHNOLOGY ( CAC/GL 44-2003 )"
+            ],
+            "process": "PRINCIPLES FOR THE RISK ANALYSIS OF FOODS DERIVED FROM MODERN BIOTECHNOLOGY ( CAC/GL 44-2003 )",
+            "process_candidates": [
+              "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.7 - Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+            "section_id": "3.7",
+            "section_number": "3.7",
+            "section_title": "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+            "section_path": [
+              "3",
+              "3.7"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.7, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "PRINCIPLES FOR THE RISK ANALYSIS OF FOODS DERIVED FROM MODERN BIOTECHNOLOGY ( CAC/GL 44-2003 )"
+            ],
+            "process": "PRINCIPLES FOR THE RISK ANALYSIS OF FOODS DERIVED FROM MODERN BIOTECHNOLOGY ( CAC/GL 44-2003 )",
+            "process_candidates": [
+              "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Labelling and Consumer Information",
+              "Biotechnology and Novel Foods"
+            ],
+            "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+            "document_reference": "CXG 76-2011",
+            "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+            "document_type": "Guidelines",
+            "section": "3.7 - Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+            "section_id": "3.7",
+            "section_number": "3.7",
+            "section_title": "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )",
+            "section_path": [
+              "3",
+              "3.7"
+            ],
+            "section_path_titles": [
+              "COMPILATION OF RELEVANT CODEX TEXTS",
+              "Principles for the Risk Analysis of Foods Derived from Modern Biotechnology ( CAC/GL 44-2003 )"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7c08f713-2f3b-4789-85d3-c2306fe356b7, Section 3.7, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "211",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Labelling and Consumer Information",
+          "Biotechnology and Novel Foods"
+        ],
+        "document": "CXG 76-2011 - Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+        "document_reference": "CXG 76-2011",
+        "document_title": "Compilation of Codex texts relevant to the labelling of foods derived from modern biotechnology",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "211",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 76-2011",
+      "title": "COMPILATION OF CODEX TEXTS RELEVANT TO LABELLING OF FOODS DERIVED FROM MODERN BIOTECHNOLOGY",
+      "summary": "A página apresenta o título principal do documento e cabeçalho identificatório. A estrutura hierárquica detectada contém três seções de nível 1 numeradas (1, 2 e 3). As seções 1 e 2 apresentam texto explicativo, enquanto a seção 3 funciona como um agrupador com dez subseções numeradas de nível 2 (3.1 a 3.10), cada uma representando diretrizes e padrões Codex específicos. Não há continuidade com outras páginas. A estrutura é clara e adequada para uso em RAG.",
+      "total_sections": 13,
+      "sections": [
+        "1",
+        "2",
+        "3",
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "3.6",
+        "3.7",
+        "3.8",
+        "3.9",
+        "3.10"
+      ]
+    }
+  ]
+}

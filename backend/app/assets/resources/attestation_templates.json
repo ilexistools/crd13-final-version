@@ -1,0 +1,210 @@
+{
+  "version": "attestation-1.0",
+  "items": [
+    {
+      "id": "ATT-OBL-COMPLIANCE-001",
+      "type": "default",
+      "category": "Certified compliance",
+      "modality": "Obligation",
+      "regulatory_modality": "Obligation",
+      "attestation_function": "Compliance confirmed",
+      "communicative_function": "Compliance confirmed",
+      "representative_example": "Products of this consignment comply with the maximum residue limits established by the Codex Alimentarius Commission.",
+      "structural_template": "*<CertifiedSubject> comply/complies with *<StandardOrCriterion>.",
+      "components": {
+        "CertifiedSubject": { "required": true, "description": "Product, consignment, establishment, or other subject certified as compliant.", "examples": ["Products of this consignment", "The establishment", "The animals"], "allow_custom": true },
+        "StandardOrCriterion": { "required": true, "description": "Standard, limit, criterion, or requirement verified as met.", "examples": ["the applicable microbiological criteria", "the maximum residue limits", "the relevant Codex standard"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-OBL-STATE-001",
+      "type": "default",
+      "category": "Certified state",
+      "modality": "Obligation",
+      "regulatory_modality": "Obligation",
+      "attestation_function": "State achieved",
+      "communicative_function": "State achieved",
+      "representative_example": "The products are packaged in accordance with the applicable hygiene requirements.",
+      "structural_template": "*<CertifiedSubject> is/are *<CertifiedState> {[in accordance with] <ReferenceStandard>}.",
+      "components": {
+        "CertifiedSubject": { "required": true, "description": "Subject whose verified state is declared.", "examples": ["The products", "The consignment", "The establishment"], "allow_custom": true },
+        "CertifiedState": { "required": true, "description": "Verified state, normally expressed with a past participle or adjectival phrase.", "examples": ["packaged", "stored under hygienic conditions", "clearly labelled"], "allow_custom": true },
+        "ReferenceStandard": { "required": false, "description": "Standard or requirement supporting the declaration.", "examples": ["the applicable hygiene requirements", "Codex standards", "national regulations"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-OBL-ACTION-001",
+      "type": "default",
+      "category": "Certified action",
+      "modality": "Obligation",
+      "regulatory_modality": "Obligation",
+      "attestation_function": "Action performed",
+      "communicative_function": "Action performed",
+      "representative_example": "The animals have been inspected by an official veterinarian in accordance with the applicable requirements.",
+      "structural_template": "*<CertifiedSubject> has/have been *<PastParticiple> {[by] <AuthorityOrAgent>} {[in accordance with] <ReferenceStandard>}.",
+      "components": {
+        "CertifiedSubject": { "required": true, "description": "Subject on which the verified action was performed.", "examples": ["The animals", "The products", "The consignment"], "allow_custom": true },
+        "PastParticiple": { "required": true, "description": "Completed verified action.", "examples": ["inspected", "treated", "tested"], "allow_custom": true },
+        "AuthorityOrAgent": { "required": false, "description": "Authority or person who performed the action.", "examples": ["an official veterinarian", "the competent authority", "qualified personnel"], "allow_custom": true },
+        "ReferenceStandard": { "required": false, "description": "Applicable standard or requirement.", "examples": ["the applicable requirements", "national legislation", "the approved protocol"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-OBL-ABSENCE-001",
+      "type": "default",
+      "category": "Certified absence",
+      "modality": "Obligation",
+      "regulatory_modality": "Obligation",
+      "attestation_function": "Absence confirmed",
+      "communicative_function": "Absence confirmed",
+      "representative_example": "The products are free from visible contamination.",
+      "structural_template": "*<CertifiedSubject> is/are free from *<UndesirableCondition>.",
+      "components": {
+        "CertifiedSubject": { "required": true, "description": "Subject verified as free from the stated condition.", "examples": ["The products", "The consignment", "The meat"], "allow_custom": true },
+        "UndesirableCondition": { "required": true, "description": "Undesirable condition, contaminant, or defect confirmed absent.", "examples": ["visible contamination", "foreign matter", "abnormal external moisture"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-PRO-NEG-TREATMENT-001",
+      "type": "default",
+      "category": "Certified prohibited-treatment absence",
+      "modality": "Prohibition",
+      "regulatory_modality": "Prohibition",
+      "attestation_function": "Prohibited treatment absent",
+      "communicative_function": "Prohibited treatment absent",
+      "representative_example": "The product has not been treated with ionizing irradiation.",
+      "structural_template": "*<CertifiedSubject> has/have not been *<PastParticiple> {[with/by] <ProhibitedAgentOrMethod>}.",
+      "components": {
+        "CertifiedSubject": { "required": true, "description": "Subject verified as not having received the treatment.", "examples": ["The product", "The consignment", "The animals"], "allow_custom": true },
+        "PastParticiple": { "required": true, "description": "Prohibited treatment or action in past-participle form.", "examples": ["treated", "irradiated", "subjected"], "allow_custom": true },
+        "ProhibitedAgentOrMethod": { "required": false, "description": "Prohibited agent, method, or technology.", "examples": ["ionizing irradiation", "a prohibited substance", "non-approved methods"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-PRO-ABSENCE-001",
+      "type": "default",
+      "category": "Certified prohibited-substance absence",
+      "modality": "Prohibition",
+      "regulatory_modality": "Prohibition",
+      "attestation_function": "Prohibited substance absent",
+      "communicative_function": "Prohibited substance absent",
+      "representative_example": "The product does not contain histamine above 20 mg/kg.",
+      "structural_template": "*<CertifiedSubject> does/do not contain *<ProhibitedSubstanceOrCondition> {[above] <Limit>}.",
+      "components": {
+        "CertifiedSubject": { "required": true, "description": "Subject verified as not containing the substance or condition.", "examples": ["The product", "The fish", "The consignment"], "allow_custom": true },
+        "ProhibitedSubstanceOrCondition": { "required": true, "description": "Substance or condition confirmed absent or below the prohibited level.", "examples": ["histamine", "unauthorised residues", "a prohibited additive"], "allow_custom": true },
+        "Limit": { "required": false, "description": "Applicable maximum level, including its unit where relevant.", "examples": ["20 mg/kg", "the maximum permitted level", "the applicable limit"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-PRM-AUTH-USE-001",
+      "type": "default",
+      "category": "Certified authorized use",
+      "modality": "Permission",
+      "regulatory_modality": "Permission",
+      "attestation_function": "Authorized use confirmed",
+      "communicative_function": "Authorized use confirmed",
+      "representative_example": "The additive is authorized for use in the product in accordance with the applicable standard.",
+      "structural_template": "*<SubstanceOrAction> is/are authorized for use in *<ProductOrPurpose> {[in accordance with] <ReferenceStandard>}.",
+      "components": {
+        "SubstanceOrAction": { "required": true, "description": "Authorized substance, material, or action.", "examples": ["The additive", "The processing aid", "The treatment"], "allow_custom": true },
+        "ProductOrPurpose": { "required": true, "description": "Product or purpose for which use is authorized.", "examples": ["the product", "food processing", "the stated purpose"], "allow_custom": true },
+        "ReferenceStandard": { "required": false, "description": "Standard or authorization governing the use.", "examples": ["the applicable standard", "Codex requirements", "national legislation"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-PRM-CONDITIONAL-USE-001",
+      "type": "default",
+      "category": "Certified conditional use",
+      "modality": "Permission",
+      "regulatory_modality": "Permission",
+      "attestation_function": "Conditional use confirmed",
+      "communicative_function": "Conditional use confirmed",
+      "representative_example": "The processing aid is used only when the applicable conditions are met.",
+      "structural_template": "*<SubstanceOrAction> is/are used only when *<Condition>.",
+      "components": {
+        "SubstanceOrAction": { "required": true, "description": "Substance or action used under a condition.", "examples": ["The processing aid", "The additive", "The treatment"], "allow_custom": true },
+        "Condition": { "required": true, "description": "Verified condition that governs the use.", "examples": ["the applicable conditions are met", "the product is correctly labelled", "controls are in place"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-LIM-LIMIT-MET-001",
+      "type": "default",
+      "category": "Certified limit compliance",
+      "modality": "Limits and Targets",
+      "regulatory_modality": "Limits and Targets",
+      "attestation_function": "Limit met",
+      "communicative_function": "Limit met",
+      "representative_example": "Histamine in the product does not exceed 20 mg/kg.",
+      "structural_template": "*<Parameter> in *<CertifiedSubject> does not exceed *<Limit>.",
+      "components": {
+        "Parameter": { "required": true, "description": "Measured parameter, substance, or characteristic.", "examples": ["Histamine", "The residue level", "The microbiological count"], "allow_custom": true },
+        "CertifiedSubject": { "required": true, "description": "Subject in which the parameter was assessed.", "examples": ["the product", "the consignment", "the sample"], "allow_custom": true },
+        "Limit": { "required": true, "description": "Maximum permitted value or threshold.", "examples": ["20 mg/kg", "the applicable maximum level", "the specified limit"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-LIM-MINMAX-001",
+      "type": "default",
+      "category": "Certified quantitative criterion",
+      "modality": "Limits and Targets",
+      "regulatory_modality": "Limits and Targets",
+      "attestation_function": "Quantitative criterion met",
+      "communicative_function": "Quantitative criterion met",
+      "representative_example": "The moisture content in the product is not more than 10%.",
+      "structural_template": "*<Parameter> in *<CertifiedSubject> is not *[more/less] than *<Limit>.",
+      "components": {
+        "Parameter": { "required": true, "description": "Quantitative parameter assessed.", "examples": ["The moisture content", "The fat content", "The defect rate"], "allow_custom": true },
+        "CertifiedSubject": { "required": true, "description": "Subject in which the parameter was assessed.", "examples": ["the product", "the consignment", "the batch"], "allow_custom": true },
+        "Limit": { "required": true, "description": "Maximum or minimum value that was met.", "examples": ["10%", "5°C", "the specified level"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-LIM-TOLERANCE-001",
+      "type": "default",
+      "category": "Certified tolerance compliance",
+      "modality": "Limits and Targets",
+      "regulatory_modality": "Limits and Targets",
+      "attestation_function": "Tolerance met",
+      "communicative_function": "Tolerance met",
+      "representative_example": "The consignment is within the applicable tolerances.",
+      "structural_template": "*<CertifiedSubject> is/are within *<ToleranceReference>.",
+      "components": {
+        "CertifiedSubject": { "required": true, "description": "Subject verified as within tolerance.", "examples": ["The consignment", "The product", "The lot"], "allow_custom": true },
+        "ToleranceReference": { "required": true, "description": "Applicable tolerance, range, or specification.", "examples": ["the applicable tolerances", "the specified range", "the established specification"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-CND-CRITERIA-MET-001",
+      "type": "default",
+      "category": "Certified acceptance criteria",
+      "modality": "Condition",
+      "regulatory_modality": "Condition",
+      "attestation_function": "Acceptance criteria met",
+      "communicative_function": "Acceptance criteria met",
+      "representative_example": "The consignment meets the acceptance criteria when assessed in accordance with the sampling plan.",
+      "structural_template": "*<CertifiedSubject> meets *<AcceptanceCriteria> when *<Condition>.",
+      "components": {
+        "CertifiedSubject": { "required": true, "description": "Subject evaluated against acceptance criteria.", "examples": ["The consignment", "The lot", "The product"], "allow_custom": true },
+        "AcceptanceCriteria": { "required": true, "description": "Acceptance criterion or specification verified as met.", "examples": ["the acceptance criteria", "the applicable microbiological criteria", "the established specifications"], "allow_custom": true },
+        "Condition": { "required": true, "description": "Condition, method, or context under which the criteria were verified.", "examples": ["assessed in accordance with the sampling plan", "tested under the approved method", "the specified conditions apply"], "allow_custom": true }
+      }
+    },
+    {
+      "id": "ATT-CND-CONTEXT-001",
+      "type": "default",
+      "category": "Certified contextual condition",
+      "modality": "Condition",
+      "regulatory_modality": "Condition",
+      "attestation_function": "Contextual condition verified",
+      "communicative_function": "Contextual condition verified",
+      "representative_example": "When required by the applicable standard, the products have been tested by the competent authority.",
+      "structural_template": "*[When/Where/If] *<Condition>, *<CertifiedSubject> *<VerifiedStatement>.",
+      "components": {
+        "Condition": { "required": true, "description": "Verified context or trigger for the declaration.", "examples": ["required by the applicable standard", "stored under refrigeration", "the specified conditions apply"], "allow_custom": true },
+        "CertifiedSubject": { "required": true, "description": "Subject covered by the contextual declaration.", "examples": ["the products", "the consignment", "the animals"], "allow_custom": true },
+        "VerifiedStatement": { "required": true, "description": "Fact verified for the certified subject in that context.", "examples": ["have been tested by the competent authority", "meet the applicable requirements", "are kept under hygienic conditions"], "allow_custom": true }
+      }
+    }
+  ]
+}

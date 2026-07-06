@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "problem": "The sentence is normative rather than declarative",
+    "evidence": "The sentence uses modal verbs such as 'shall', 'must', 'should', or 'may' to express an obligation, permission, or recommendation. Example: 'Fish products must be free from contamination.'",
+    "decision": "rewrite",
+    "how_to_solve": "Convert the sentence into a factual attestation. Example: 'Fish products of this consignment are free from contamination.' If the provisions only support control measures, use a more limited formulation such as: 'Measures were taken to prevent contamination of fish products during transport.'"
+  },
+  {
+    "id": 2,
+    "problem": "The attestation claims more than the provisions support",
+    "evidence": "The attestation makes a broad claim, such as 'free from contamination', but the provisions only refer to measures, procedures, storage, transport, or hygiene controls.",
+    "decision": "semantic_rewrite",
+    "how_to_solve": "Reduce the scope of the attestation to what is directly supported and verifiable from the provisions. Example: replace 'are free from contamination' with 'were handled under measures designed to prevent contamination'."
+  },
+  {
+    "id": 3,
+    "problem": "The attestation claims less than the provision requires",
+    "evidence": "The provision includes an essential condition, limit, agent, process, or reference standard that is omitted from the attestation.",
+    "decision": "rewrite",
+    "how_to_solve": "Add the missing essential element, such as the regulated process, quantitative limit, competent authority, condition, time/place qualifier, or reference standard."
+  },
+  {
+    "id": 4,
+    "problem": "The communicative function of the attestation does not match the provisions",
+    "evidence": "The provision requires a preventive measure, but the attestation declares total absence of risk; or the provision concerns a limit, but the attestation states generic compliance.",
+    "decision": "semantic_rewrite",
+    "how_to_solve": "Map the correct communicative function: action performed, compliance with a standard, preventive measure taken, risky material excluded, limit met, conditional permission satisfied, or responsible agent action performed."
+  },
+  {
+    "id": 5,
+    "problem": "The commodity or product scope is missing or unclear",
+    "evidence": "The sentence uses generic subjects such as 'the product', 'products', or 'food' without making the relevant commodity or consignment explicit.",
+    "decision": "minor_rewrite",
+    "how_to_solve": "Make the subject explicit. Example: 'Fish products of this consignment...', 'The lot represented by this consignment...', or 'The product covered by this certificate...'."
+  },
+  {
+    "id": 6,
+    "problem": "The regulated process is missing",
+    "evidence": "The provisions refer to production, processing, storage, transport, inspection, or treatment, but the attestation does not identify the relevant operational context.",
+    "decision": "rewrite",
+    "how_to_solve": "Add the regulated process to the attestation. Example: 'during production', 'during storage', 'during transport', or 'in the processing of this consignment'."
+  },
+  {
+    "id": 7,
+    "problem": "A temporal or spatial condition is missing",
+    "evidence": "The provision depends on qualifiers such as 'during transport', 'at the establishment', 'before shipment', 'where appropriate', or 'when applicable'.",
+    "decision": "rewrite",
+    "how_to_solve": "Include the temporal or spatial qualifier when it is essential to preserve the scope of the provision. Example: 'during transport of this consignment'."
+  },
+  {
+    "id": 8,
+    "problem": "A quantitative limit or unit is missing",
+    "evidence": "The provision contains a temperature, time, concentration, maximum residue limit, log reduction, acceptance number, or other measurable parameter, but the attestation omits or generalizes it.",
+    "decision": "rewrite",
+    "how_to_solve": "Express the parameter using a standardized unit and format. Example: 'Products of this consignment were kept at or below 5°C during transport.'"
+  },
+  {
+    "id": 9,
+    "problem": "The sentence uses vague or subjective language",
+    "evidence": "The sentence includes terms such as 'adequate', 'suitable', 'proper', 'sufficient', 'appropriate', 'good condition', or similar wording without defined criteria.",
+    "decision": "rewrite",
+    "how_to_solve": "Replace vague wording with observable, measurable, or referenced criteria. Example: replace 'stored under appropriate temperature' with 'stored at or below 5°C'."
+  },
+  {
+    "id": 10,
+    "problem": "Terminology is inconsistent or not standardized",
+    "evidence": "The same entity is referred to by different terms, such as 'fish products', 'seafood products', and 'aquatic products', without a clear distinction.",
+    "decision": "minor_rewrite",
+    "how_to_solve": "Select a preferred term and apply it consistently throughout the attestation, preferably aligned with Codex or another relevant international reference."
+  },
+  {
+    "id": 11,
+    "problem": "The sentence depends on implicit knowledge",
+    "evidence": "The attestation can only be understood by someone familiar with national practices, internal systems, local abbreviations, or unstated procedures.",
+    "decision": "rewrite",
+    "how_to_solve": "Make the relevant relationship explicit by adding the agent, procedure, criterion, document, or reference needed to understand the attestation independently."
+  },
+  {
+    "id": 12,
+    "problem": "The sentence contains redundancy or non-essential clauses",
+    "evidence": "The attestation repeats the same assurance in different words or includes explanatory clauses that do not change the communicative function or regulatory intent.",
+    "decision": "minor_rewrite",
+    "how_to_solve": "Remove redundant or non-essential elements while preserving the essential subject, predicate, object, scope, and regulatory intent."
+  },
+  {
+    "id": 13,
+    "problem": "The attestation is not verifiable or auditable",
+    "evidence": "It is unclear what evidence, inspection, record, parameter, or official activity would confirm the declaration.",
+    "decision": "semantic_rewrite",
+    "how_to_solve": "Reformulate the attestation in observable terms: action performed, condition met, limit complied with, material excluded, authority verification completed, or standard satisfied."
+  },
+  {
+    "id": 14,
+    "problem": "The attestation alters the regulatory meaning of the provisions",
+    "evidence": "The attestation changes the substance, scope, obligation, exception, condition, or level of assurance expressed in the provisions.",
+    "decision": "human_review",
+    "how_to_solve": "Do not automatically finalize the rewrite. Flag the case for human validation to ensure that the legal and regulatory meaning is preserved."
+  },
+  {
+    "id": 15,
+    "problem": "The related provisions provide weak or only lexical support",
+    "evidence": "The provisions share generic terms such as 'contamination', 'transport', or 'hygiene', but do not support the same commodity, process, condition, or assurance.",
+    "decision": "review_support",
+    "how_to_solve": "Classify the support as weak or partial. Search for a more relevant provision or reduce the attestation to the content actually supported by the available provisions."
+  },
+  {
+    "id": 16,
+    "problem": "The sentence is already clear, factual, single-purpose, and supported",
+    "evidence": "The attestation expresses one assurance, has a clear subject, matches the communicative function of the provisions, preserves the scope, and is verifiable.",
+    "decision": "keep",
+    "how_to_solve": "Do not rewrite. At most, apply minimal terminology or formatting normalization without changing the meaning."
+  }
+]

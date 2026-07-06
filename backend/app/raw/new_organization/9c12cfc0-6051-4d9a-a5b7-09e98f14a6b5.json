@@ -1,0 +1,417 @@
+{
+  "document": {
+    "id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 64-1995",
+    "year": "1995",
+    "title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+    "label": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+    "committee": "CCMAS",
+    "last_modified": "1997",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B64-1995%252FCXG_064e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "Cross-cutting Processes"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+      "key": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+      "raw_id": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+      "number": null,
+      "title": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5, PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES, p. 1",
+      "text": "CAC/GL 64-1995\n\nThe following Protocol was adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343.",
+      "retrieval_text": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES\nlevel=1\nCAC/GL 64-1995\n\nThe following Protocol was adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "CAC/GL 64-1995\n\nThe following Protocol was adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343."
+        }
+      ],
+      "rag": {
+        "rag_id": 264,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+        "process_candidates": [
+          "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+        "document_id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+        "document_reference": "CXG 64-1995",
+        "document_title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+        "document_type": "Guidelines",
+        "section": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+        "section_id": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+        "section_number": null,
+        "section_title": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5, PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+        "process_candidates": [
+          "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+        "document_id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+        "document_reference": "CXG 64-1995",
+        "document_title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+        "document_type": "Guidelines",
+        "section": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+        "section_id": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+        "section_number": null,
+        "section_title": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5, PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES, p. 1"
+      }
+    },
+    {
+      "id": "264",
+      "key": "264",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "CAC/GL 64-1995",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains information about a protocol adopted by a commission, relevant for regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "The following Protocol was adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• \u00147Protocol for the Design, Conduct and Interpretation of Method Performance Studies\u00187, Pure & Appl. Chem., 67 (1995) 331-343.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Administrative Action",
+            "modality": "Information",
+            "function": "Declaration",
+            "pattern": "Declarative statement announcing adoption of a protocol by reference",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Action": "adopted",
+              "Entity": "Codex Alimentarius Commission",
+              "Object": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+              "Purpose": "quality assurance of food control laboratories",
+              "Reference": "Pure & Appl. Chem., 67 (1995) 331-343"
+            },
+            "justification": "Sentence declares an administrative adoption of a protocol by a named commission, stating bibliographic details; no regulatory obligation or condition is expressed, and no exact known template matches this structure.",
+            "notes": [
+              "No matching template in known catalog; classified as information/declaration pattern."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "ADMINISTRATIVE ACTION",
+            "subject_candidates": [
+              "ADMINISTRATIVE ACTION",
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+            ],
+            "process": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "process_candidates": [
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+            "document_id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+            "document_reference": "CXG 64-1995",
+            "document_title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+            "document_type": "Guidelines",
+            "section": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "section_id": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+            "section_number": null,
+            "section_title": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5, PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "ADMINISTRATIVE ACTION",
+            "subject_candidates": [
+              "ADMINISTRATIVE ACTION",
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+            ],
+            "process": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "process_candidates": [
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+            "document_id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+            "document_reference": "CXG 64-1995",
+            "document_title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+            "document_type": "Guidelines",
+            "section": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "section_id": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+            "section_number": null,
+            "section_title": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5, PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "The following Protocol was adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains information about a protocol adopted by a commission, relevant for regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "The following Protocol was adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• \u00147Protocol for the Design, Conduct and Interpretation of Method Performance Studies\u00187, Pure & Appl. Chem., 67 (1995) 331-343.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Administrative Action",
+            "modality": "Information",
+            "function": "Declaration",
+            "pattern": "Declarative statement announcing adoption of a protocol by reference",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Action": "adopted",
+              "Entity": "Codex Alimentarius Commission",
+              "Object": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+              "Purpose": "quality assurance of food control laboratories",
+              "Reference": "Pure & Appl. Chem., 67 (1995) 331-343"
+            },
+            "justification": "Sentence declares an administrative adoption of a protocol by a named commission, stating bibliographic details; no regulatory obligation or condition is expressed, and no exact known template matches this structure.",
+            "notes": [
+              "No matching template in known catalog; classified as information/declaration pattern."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "ADMINISTRATIVE ACTION",
+            "subject_candidates": [
+              "ADMINISTRATIVE ACTION",
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+            ],
+            "process": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "process_candidates": [
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+            "document_id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+            "document_reference": "CXG 64-1995",
+            "document_title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+            "document_type": "Guidelines",
+            "section": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "section_id": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+            "section_number": null,
+            "section_title": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5, PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "ADMINISTRATIVE ACTION",
+            "subject_candidates": [
+              "ADMINISTRATIVE ACTION",
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+            ],
+            "process": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "process_candidates": [
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+            "document_id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+            "document_reference": "CXG 64-1995",
+            "document_title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+            "document_type": "Guidelines",
+            "section": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "section_id": "path_titles::protocol for the design, conduct and interpretation of method performance studies::lvl1",
+            "section_number": null,
+            "section_title": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5, PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+        "document_id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+        "document_reference": "CXG 64-1995",
+        "document_title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "264",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 64-1995 - Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+        "document_id": "9c12cfc0-6051-4d9a-a5b7-09e98f14a6b5",
+        "document_reference": "CXG 64-1995",
+        "document_title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "264",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 64  Page 1 of 1",
+      "title": "PROTOCOL FOR THE DESIGN, CONDUCT AND INTERPRETATION OF METHOD PERFORMANCE STUDIES",
+      "summary": "Página com título principal em caixa alta sem numeração, representando o protocolo. Contém texto introdutório explicativo. Sem seções subsequentes identificadas.",
+      "total_sections": 1,
+      "sections": [
+        "1"
+      ]
+    }
+  ]
+}

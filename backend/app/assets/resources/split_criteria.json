@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "problem": "Multiple assurances are combined in a single sentence",
+    "evidence": "The sentence declares more than one sanitary assurance, such as hygienic production, implementation of GMP, implementation of SSOP, implementation of HACCP, inspection, storage, or transport.",
+    "decision": "split",
+    "how_to_solve": "Create one separate attestation for each assurance. Each new attestation should express one clear and verifiable statement."
+  },
+  {
+    "id": 2,
+    "problem": "The sentence contains more than one communicative function",
+    "evidence": "The sentence combines different communicative functions, such as confirming that an action was performed, confirming compliance with a standard, confirming that preventive measures were taken, or confirming that a limit was met.",
+    "decision": "split",
+    "how_to_solve": "Identify each communicative function and create a separate attestation for each one using the appropriate drafting pattern."
+  },
+  {
+    "id": 3,
+    "problem": "The sentence mixes different modalities",
+    "evidence": "The sentence combines elements derived from different regulatory modalities, such as obligation, prohibition, permission, or limit. Example: one part confirms that a process was performed, while another confirms that a substance does not exceed a limit.",
+    "decision": "split",
+    "how_to_solve": "Separate the sentence according to modality. Each resulting attestation should preserve the factual representation of one regulatory origin."
+  },
+  {
+    "id": 4,
+    "problem": "The sentence contains multiple regulated processes",
+    "evidence": "The sentence refers to more than one operational context, such as production, processing, storage, handling, transport, treatment, or inspection.",
+    "decision": "split",
+    "how_to_solve": "Create one attestation for each regulated process when each process supports a distinct assurance."
+  },
+  {
+    "id": 5,
+    "problem": "The sentence contains multiple independent conditions",
+    "evidence": "The sentence includes several conditions connected by 'and', 'or', 'as well as', commas, semicolons, or relative clauses, and each condition can be verified independently.",
+    "decision": "split",
+    "how_to_solve": "Convert each independent condition into a separate attestation, preserving any shared subject or consignment reference."
+  },
+  {
+    "id": 6,
+    "problem": "The sentence contains a list of practices, systems, or controls",
+    "evidence": "The sentence lists practices or systems such as GMP, SSOP, HACCP, monitoring, verification, sanitation, pest control, or temperature control.",
+    "decision": "split",
+    "how_to_solve": "Create one attestation for each listed practice, system, or control if each item represents a distinct verifiable assurance."
+  },
+  {
+    "id": 7,
+    "problem": "The sentence contains multiple standards, references, or criteria",
+    "evidence": "The sentence refers to more than one standard, legal reference, residue limit, hygiene requirement, sampling criterion, or official control requirement.",
+    "decision": "split",
+    "how_to_solve": "Create separate attestations for each standard or criterion when each one requires independent verification."
+  },
+  {
+    "id": 8,
+    "problem": "The sentence has multiple subjects with different assurances",
+    "evidence": "The sentence makes statements about different entities, such as products, establishments, competent authorities, operators, raw materials, batches, containers, or transport units.",
+    "decision": "split",
+    "how_to_solve": "Create one attestation for each subject-assurance pair. Keep the subject explicit in each resulting attestation."
+  },
+  {
+    "id": 9,
+    "problem": "The sentence has multiple predicates that express distinct relationships",
+    "evidence": "The sentence states that the product was obtained from an establishment, the establishment implemented controls, and the competent authority verified compliance.",
+    "decision": "split",
+    "how_to_solve": "Separate each subject-predicate-object relationship into its own attestation or structured statement."
+  },
+  {
+    "id": 10,
+    "problem": "The sentence combines product assurance and establishment assurance",
+    "evidence": "One part of the sentence describes the product or consignment, while another part describes the establishment, facility, operator, or official authority.",
+    "decision": "split",
+    "how_to_solve": "Create one attestation for the product-level assurance and another for the establishment-, facility-, operator-, or authority-level assurance."
+  },
+  {
+    "id": 11,
+    "problem": "The sentence combines an assurance with its verification mechanism",
+    "evidence": "The sentence declares that a requirement was met and also states that it was inspected, verified, audited, certified, or supervised by an authority.",
+    "decision": "split",
+    "how_to_solve": "Create one attestation for the substantive sanitary assurance and another for the verification or official control activity, if both are independently relevant."
+  },
+  {
+    "id": 12,
+    "problem": "The sentence combines a condition and an exception that require separate interpretation",
+    "evidence": "The sentence includes exception markers such as 'except', 'unless', 'provided that', 'where applicable', or 'when authorized', and the exception changes the scope of the assurance.",
+    "decision": "split",
+    "how_to_solve": "Separate the main assurance from the conditional or exception-based assurance when they need to be verified or interpreted independently."
+  },
+  {
+    "id": 13,
+    "problem": "The sentence contains both a general assurance and a specific measurable parameter",
+    "evidence": "The sentence states a broad assurance such as hygienic handling or safe condition and also includes a measurable value such as temperature, time, concentration, residue limit, or log reduction.",
+    "decision": "split",
+    "how_to_solve": "Create one attestation for the general assurance only if it is independently supported, and another for the measurable parameter."
+  },
+  {
+    "id": 14,
+    "problem": "The sentence is difficult to map to a single structured representation",
+    "evidence": "The sentence cannot be represented as one clear subject-predicate-object relation without losing information or creating ambiguity.",
+    "decision": "split",
+    "how_to_solve": "Break the sentence into smaller attestations that can each be mapped to a clear subject, predicate, object, and relevant qualifiers."
+  },
+  {
+    "id": 15,
+    "problem": "Keeping the sentence as one unit would reduce verifiability",
+    "evidence": "Different parts of the sentence would require different evidence, records, inspections, authorities, or data sources to validate.",
+    "decision": "split",
+    "how_to_solve": "Create separate attestations according to the evidence needed for verification. Each attestation should be independently auditable."
+  }
+]

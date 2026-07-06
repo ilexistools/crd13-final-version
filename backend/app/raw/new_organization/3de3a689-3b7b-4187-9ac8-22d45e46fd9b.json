@@ -1,0 +1,4924 @@
+{
+  "document": {
+    "id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+    "type": "CODEX",
+    "document_type": "Standards",
+    "reference": "CXS 280-1973",
+    "year": "1973",
+    "title": "Standard for Milkfat Products",
+    "label": "CXS 280-1973 - Standard for Milkfat Products",
+    "committee": "CCMMP",
+    "last_modified": "2022",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXS%2B280-1973%252FCXS_280e.pdf",
+    "processes": [
+      "Product Standards"
+    ]
+  },
+  "commodities": [
+    {
+      "name": "milkfat products",
+      "terms": [
+        "anhydrous milkfat",
+        "milkfat",
+        "anhydrous butter oil",
+        "butter oil",
+        "ghee",
+        "butter oil, anhydrous milkfat, ghee",
+        "fatty products derived exclusively from milk",
+        "product exclusively obtained from milk, cream or butter"
+      ],
+      "sources": {
+        "documents_info": true,
+        "commodities_index": true
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "path_titles::2022 amendment::lvl1",
+      "key": "path_titles::2022 amendment::lvl1",
+      "raw_id": "path_titles::2022 amendment::lvl1",
+      "number": null,
+      "title": "2022 AMENDMENT",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "2022 AMENDMENT"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, 2022 AMENDMENT, p. 2",
+      "text": "The following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022.",
+      "retrieval_text": "2022 AMENDMENT\nlevel=1\nThe following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "The following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "2022 AMENDMENT",
+        "process_candidates": [
+          "2022 AMENDMENT",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "2022 AMENDMENT",
+        "section_id": "path_titles::2022 amendment::lvl1",
+        "section_number": null,
+        "section_title": "2022 AMENDMENT",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "2022 AMENDMENT"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, 2022 AMENDMENT, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "2022 AMENDMENT",
+        "process_candidates": [
+          "2022 AMENDMENT",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "2022 AMENDMENT",
+        "section_id": "path_titles::2022 amendment::lvl1",
+        "section_number": null,
+        "section_title": "2022 AMENDMENT",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "2022 AMENDMENT"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, 2022 AMENDMENT, p. 2"
+      }
+    },
+    {
+      "id": "path_titles::labelling of non-retail containers::lvl1",
+      "key": "path_titles::labelling of non-retail containers::lvl1",
+      "raw_id": "path_titles::labelling of non-retail containers::lvl1",
+      "number": null,
+      "title": "LABELLING OF NON-RETAIL CONTAINERS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "LABELLING OF NON-RETAIL CONTAINERS"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, LABELLING OF NON-RETAIL CONTAINERS, p. 2",
+      "text": "Information required in Section 7 of this Standard and Sections 4.1 to 4.8 of the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), and, if necessary, storage instructions, shall be given either on the container or in accompanying documents, except that the name of the product, lot identification, and the name and address of the manufacturer or packer shall appear on the container. However, lot identification, and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.\n\nThe labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "retrieval_text": "LABELLING OF NON-RETAIL CONTAINERS\nlevel=1\nInformation required in Section 7 of this Standard and Sections 4.1 to 4.8 of the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), and, if necessary, storage instructions, shall be given either on the container or in accompanying documents, except that the name of the product, lot identification, and the name and address of the manufacturer or packer shall appear on the container. However, lot identification, and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.\n\nThe labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "Information required in Section 7 of this Standard and Sections 4.1 to 4.8 of the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), and, if necessary, storage instructions, shall be given either on the container or in accompanying documents, except that the name of the product, lot identification, and the name and address of the manufacturer or packer shall appear on the container. However, lot identification, and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.\n\nThe labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING OF NON-RETAIL CONTAINERS",
+        "process_candidates": [
+          "LABELLING OF NON-RETAIL CONTAINERS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "LABELLING OF NON-RETAIL CONTAINERS",
+        "section_id": "path_titles::labelling of non-retail containers::lvl1",
+        "section_number": null,
+        "section_title": "LABELLING OF NON-RETAIL CONTAINERS",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "LABELLING OF NON-RETAIL CONTAINERS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, LABELLING OF NON-RETAIL CONTAINERS, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING OF NON-RETAIL CONTAINERS",
+        "process_candidates": [
+          "LABELLING OF NON-RETAIL CONTAINERS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "LABELLING OF NON-RETAIL CONTAINERS",
+        "section_id": "path_titles::labelling of non-retail containers::lvl1",
+        "section_number": null,
+        "section_title": "LABELLING OF NON-RETAIL CONTAINERS",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "LABELLING OF NON-RETAIL CONTAINERS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, LABELLING OF NON-RETAIL CONTAINERS, p. 2"
+      }
+    },
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "SCOPE"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 5
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        },
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        },
+        {
+          "page": 5,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5",
+      "text": "This standard applies to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil, Butter oil and Ghee, which are intended for further processing or culinary use, in conformity with the description in Section 2 of this standard.\n\nAnhydrous milkfat/ Anhydrous butter oil Milkfat Butter oil Ghee Maximum free fatty acids (% m/m as oleic acid) 0.3 0.4 0.4 0.4 Maximum peroxide value (milli-equivalents of oxygen/kg fat) 0.3 0.6 0.6 0.6 Taste and odour Acceptable for market requirements after heating a sample to 40–45°C Texture Smooth and fine granules to liquid, depending on temperature",
+      "retrieval_text": "SCOPE\nnumber=1\nlevel=1\nThis standard applies to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil, Butter oil and Ghee, which are intended for further processing or culinary use, in conformity with the description in Section 2 of this standard.\n\nAnhydrous milkfat/ Anhydrous butter oil Milkfat Butter oil Ghee Maximum free fatty acids (% m/m as oleic acid) 0.3 0.4 0.4 0.4 Maximum peroxide value (milli-equivalents of oxygen/kg fat) 0.3 0.6 0.6 0.6 Taste and odour Acceptable for market requirements after heating a sample to 40–45°C Texture Smooth and fine granules to liquid, depending on temperature",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "This standard applies to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil, Butter oil and Ghee, which are intended for further processing or culinary use, in conformity with the description in Section 2 of this standard."
+        },
+        {
+          "page": 5,
+          "text": "Anhydrous milkfat/ Anhydrous butter oil Milkfat Butter oil Ghee Maximum free fatty acids (% m/m as oleic acid) 0.3 0.4 0.4 0.4 Maximum peroxide value (milli-equivalents of oxygen/kg fat) 0.3 0.6 0.6 0.6 Taste and odour Acceptable for market requirements after heating a sample to 40–45°C Texture Smooth and fine granules to liquid, depending on temperature"
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "1 - SCOPE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 3,
+        "pages": [
+          "3",
+          "5"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "1 - SCOPE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 3,
+        "pages": [
+          "3",
+          "5"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+      }
+    },
+    {
+      "id": "2",
+      "key": "num::2",
+      "raw_id": "num::2",
+      "number": "2",
+      "title": "DESCRIPTION",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "DESCRIPTION"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 5
+      },
+      "page_refs": [
+        {
+          "page": 2,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        },
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        },
+        {
+          "page": 5,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2, pp. 3-5",
+      "text": "Heavy metals The following limits apply to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil and Ghee: Metal Maximum level Copper 0.05 mg/kg Iron  0.2 mg/kg",
+      "retrieval_text": "DESCRIPTION\nnumber=2\nlevel=1\nHeavy metals The following limits apply to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil and Ghee: Metal Maximum level Copper 0.05 mg/kg Iron  0.2 mg/kg",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": ""
+        },
+        {
+          "page": 5,
+          "text": "Heavy metals The following limits apply to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil and Ghee: Metal Maximum level Copper 0.05 mg/kg Iron  0.2 mg/kg"
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DESCRIPTION",
+        "process_candidates": [
+          "DESCRIPTION",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "2 - DESCRIPTION",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "DESCRIPTION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION"
+        ],
+        "page": 3,
+        "pages": [
+          "3",
+          "5"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2, pp. 3-5"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DESCRIPTION",
+        "process_candidates": [
+          "DESCRIPTION",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "2 - DESCRIPTION",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "DESCRIPTION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION"
+        ],
+        "page": 3,
+        "pages": [
+          "3",
+          "5"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2, pp. 3-5"
+      }
+    },
+    {
+      "id": "3",
+      "key": "num::3",
+      "raw_id": "num::3",
+      "number": "3",
+      "title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 5
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        },
+        {
+          "page": 5,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3, pp. 3-5",
+      "text": "See CXS 234-1999.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS\nnumber=3\nlevel=1\nSee CXS 234-1999.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": ""
+        },
+        {
+          "page": 5,
+          "text": "See CXS 234-1999."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "process_candidates": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "3 - ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+        ],
+        "page": 3,
+        "pages": [
+          "3",
+          "5"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3, pp. 3-5"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "process_candidates": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "3 - ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+        ],
+        "page": 3,
+        "pages": [
+          "3",
+          "5"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3, pp. 3-5"
+      }
+    },
+    {
+      "id": "4",
+      "key": "num::4",
+      "raw_id": "num::4",
+      "number": "4",
+      "title": "FOOD ADDITIVES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "4"
+      ],
+      "path_titles": [
+        "FOOD ADDITIVES"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 4,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 4, p. 3",
+      "text": "Food additives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) in Food Category 02.1.1 (Butter oil, anhydrous milkfat, ghee) may be used in foods subject to this standard.",
+      "retrieval_text": "FOOD ADDITIVES\nnumber=4\nlevel=1\nFood additives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) in Food Category 02.1.1 (Butter oil, anhydrous milkfat, ghee) may be used in foods subject to this standard.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Food additives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) in Food Category 02.1.1 (Butter oil, anhydrous milkfat, ghee) may be used in foods subject to this standard."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD ADDITIVES",
+        "process_candidates": [
+          "FOOD ADDITIVES",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "4 - FOOD ADDITIVES",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "FOOD ADDITIVES",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "FOOD ADDITIVES"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 4, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD ADDITIVES",
+        "process_candidates": [
+          "FOOD ADDITIVES",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "4 - FOOD ADDITIVES",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "FOOD ADDITIVES",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "FOOD ADDITIVES"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 4, p. 3"
+      }
+    },
+    {
+      "id": "5",
+      "key": "num::5",
+      "raw_id": "num::5",
+      "number": "5",
+      "title": "CONTAMINANTS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "5"
+      ],
+      "path_titles": [
+        "CONTAMINANTS"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 5,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 5, p. 3",
+      "text": "The products covered by this standard shall comply with the maximum levels for contaminants that are specified for the product in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995). The milk used in the manufacture of the products covered by this standard shall comply with the maximum levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+      "retrieval_text": "CONTAMINANTS\nnumber=5\nlevel=1\nThe products covered by this standard shall comply with the maximum levels for contaminants that are specified for the product in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995). The milk used in the manufacture of the products covered by this standard shall comply with the maximum levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "The products covered by this standard shall comply with the maximum levels for contaminants that are specified for the product in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995). The milk used in the manufacture of the products covered by this standard shall comply with the maximum levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONTAMINANTS",
+        "process_candidates": [
+          "CONTAMINANTS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "5 - CONTAMINANTS",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "CONTAMINANTS",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONTAMINANTS"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 5, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONTAMINANTS",
+        "process_candidates": [
+          "CONTAMINANTS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "5 - CONTAMINANTS",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "CONTAMINANTS",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONTAMINANTS"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 5, p. 3"
+      }
+    },
+    {
+      "id": "6",
+      "key": "num::6",
+      "raw_id": "num::6",
+      "number": "6",
+      "title": "HYGIENE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "6"
+      ],
+      "path_titles": [
+        "HYGIENE"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 6,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 6, p. 3",
+      "text": "It is recommended that the products covered by the provisions of this standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts such as codes of hygienic practice and codes of practice. The products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "retrieval_text": "HYGIENE\nnumber=6\nlevel=1\nIt is recommended that the products covered by the provisions of this standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts such as codes of hygienic practice and codes of practice. The products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "It is recommended that the products covered by the provisions of this standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts such as codes of hygienic practice and codes of practice. The products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997)."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HYGIENE",
+        "process_candidates": [
+          "HYGIENE",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "6 - HYGIENE",
+        "section_id": "6",
+        "section_number": "6",
+        "section_title": "HYGIENE",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "HYGIENE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 6, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HYGIENE",
+        "process_candidates": [
+          "HYGIENE",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "6 - HYGIENE",
+        "section_id": "6",
+        "section_number": "6",
+        "section_title": "HYGIENE",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "HYGIENE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 6, p. 3"
+      }
+    },
+    {
+      "id": "2.1",
+      "key": "num::2.1",
+      "raw_id": "num::2.1",
+      "number": "2.1",
+      "title": "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "DESCRIPTION",
+      "path": [
+        "2",
+        "2.1"
+      ],
+      "path_titles": [
+        "DESCRIPTION",
+        "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.1, p. 3",
+      "text": "are fatty products derived exclusively from milk and/or products obtained from milk by means of processes which result in almost total removal of water and non-fat solids.",
+      "retrieval_text": "DESCRIPTION > Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil\nnumber=2.1\nlevel=2\nare fatty products derived exclusively from milk and/or products obtained from milk by means of processes which result in almost total removal of water and non-fat solids.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "are fatty products derived exclusively from milk and/or products obtained from milk by means of processes which result in almost total removal of water and non-fat solids."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 8
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANHYDROUS MILKFAT, MILKFAT, ANHYDROUS BUTTER OIL AND BUTTER OIL",
+        "process_candidates": [
+          "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+          "DESCRIPTION",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "2.1 - Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+        "section_id": "2.1",
+        "section_number": "2.1",
+        "section_title": "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+        "section_path": [
+          "2",
+          "2.1"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION",
+          "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.1, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ANHYDROUS MILKFAT, MILKFAT, ANHYDROUS BUTTER OIL AND BUTTER OIL",
+        "process_candidates": [
+          "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+          "DESCRIPTION",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "2.1 - Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+        "section_id": "2.1",
+        "section_number": "2.1",
+        "section_title": "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+        "section_path": [
+          "2",
+          "2.1"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION",
+          "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.1, p. 3"
+      }
+    },
+    {
+      "id": "2.2",
+      "key": "num::2.2",
+      "raw_id": "num::2.2",
+      "number": "2.2",
+      "title": "Ghee",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "DESCRIPTION",
+      "path": [
+        "2",
+        "2.2"
+      ],
+      "path_titles": [
+        "DESCRIPTION",
+        "Ghee"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.2, p. 3",
+      "text": "is a product exclusively obtained from milk, cream or butter, by means of processes which result in almost total removal of water and non-fat solids, with an especially developed flavour and physical structure.",
+      "retrieval_text": "DESCRIPTION > Ghee\nnumber=2.2\nlevel=2\nis a product exclusively obtained from milk, cream or butter, by means of processes which result in almost total removal of water and non-fat solids, with an especially developed flavour and physical structure.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "is a product exclusively obtained from milk, cream or butter, by means of processes which result in almost total removal of water and non-fat solids, with an especially developed flavour and physical structure."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 9
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GHEE",
+        "process_candidates": [
+          "Ghee",
+          "DESCRIPTION",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "2.2 - Ghee",
+        "section_id": "2.2",
+        "section_number": "2.2",
+        "section_title": "Ghee",
+        "section_path": [
+          "2",
+          "2.2"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION",
+          "Ghee"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.2, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GHEE",
+        "process_candidates": [
+          "Ghee",
+          "DESCRIPTION",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "2.2 - Ghee",
+        "section_id": "2.2",
+        "section_number": "2.2",
+        "section_title": "Ghee",
+        "section_path": [
+          "2",
+          "2.2"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION",
+          "Ghee"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.2, p. 3"
+      }
+    },
+    {
+      "id": "3.1",
+      "key": "num::3.1",
+      "raw_id": "num::3.1",
+      "number": "3.1",
+      "title": "Raw materials",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.1"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Raw materials"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.1, p. 3",
+      "text": "Milk and/or products obtained from milk.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Raw materials\nnumber=3.1\nlevel=2\nMilk and/or products obtained from milk.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Milk and/or products obtained from milk."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 10
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "RAW MATERIALS",
+        "process_candidates": [
+          "Raw materials",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "3.1 - Raw materials",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "Raw materials",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Raw materials"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.1, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "RAW MATERIALS",
+        "process_candidates": [
+          "Raw materials",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "3.1 - Raw materials",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "Raw materials",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Raw materials"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.1, p. 3"
+      }
+    },
+    {
+      "id": "3.2",
+      "key": "num::3.2",
+      "raw_id": "num::3.2",
+      "number": "3.2",
+      "title": "Permitted ingredients",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.2"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Permitted ingredients"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.2, p. 3",
+      "text": "Starter cultures of harmless lactic acid producing bacteria.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Permitted ingredients\nnumber=3.2\nlevel=2\nStarter cultures of harmless lactic acid producing bacteria.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Starter cultures of harmless lactic acid producing bacteria."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 11
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PERMITTED INGREDIENTS",
+        "process_candidates": [
+          "Permitted ingredients",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "3.2 - Permitted ingredients",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Permitted ingredients",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Permitted ingredients"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.2, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PERMITTED INGREDIENTS",
+        "process_candidates": [
+          "Permitted ingredients",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "3.2 - Permitted ingredients",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Permitted ingredients",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Permitted ingredients"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.2, p. 3"
+      }
+    },
+    {
+      "id": "3.3",
+      "key": "num::3.3",
+      "raw_id": "num::3.3",
+      "number": "3.3",
+      "title": "Composition",
+      "level": 2,
+      "parent_id": "3",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.3"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Composition"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.3, p. 3",
+      "text": "Anhydrous milkfat/Anhydrous butter oil Milkfat Butter oil Ghee Minimum milkfat (% m/m) 99.8 99.6 99.6 99.6 Maximum water (% m/m) 0.1 – – –",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Composition\nnumber=3.3\nlevel=2\nAnhydrous milkfat/Anhydrous butter oil Milkfat Butter oil Ghee Minimum milkfat (% m/m) 99.8 99.6 99.6 99.6 Maximum water (% m/m) 0.1 – – –",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Anhydrous milkfat/Anhydrous butter oil Milkfat Butter oil Ghee Minimum milkfat (% m/m) 99.8 99.6 99.6 99.6 Maximum water (% m/m) 0.1 – – –"
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 12
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPOSITION",
+        "process_candidates": [
+          "Composition",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "3.3 - Composition",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Composition",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Composition"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.3, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPOSITION",
+        "process_candidates": [
+          "Composition",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "3.3 - Composition",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Composition",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Composition"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.3, p. 3"
+      }
+    },
+    {
+      "id": "4.1",
+      "key": "num::4.1",
+      "raw_id": "num::4.1",
+      "number": "4.1",
+      "title": "Inert gas with which airtight containers are flushed before, during and after filling with product.",
+      "level": 2,
+      "parent_id": "4",
+      "parent_title": "FOOD ADDITIVES",
+      "path": [
+        "4",
+        "4.1"
+      ],
+      "path_titles": [
+        "FOOD ADDITIVES",
+        "Inert gas with which airtight containers are flushed before, during and after filling with product."
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 4.1, p. 3",
+      "text": "",
+      "retrieval_text": "FOOD ADDITIVES > Inert gas with which airtight containers are flushed before, during and after filling with product.\nnumber=4.1\nlevel=2",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 13
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "INERT GAS WITH WHICH AIRTIGHT CONTAINERS ARE FLUSHED BEFORE, DURING AND AFTER FILLING WITH PRODUCT.",
+        "process_candidates": [
+          "Inert gas with which airtight containers are flushed before, during and after filling with product.",
+          "FOOD ADDITIVES",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "4.1 - Inert gas with which airtight containers are flushed before, during and after filling with product.",
+        "section_id": "4.1",
+        "section_number": "4.1",
+        "section_title": "Inert gas with which airtight containers are flushed before, during and after filling with product.",
+        "section_path": [
+          "4",
+          "4.1"
+        ],
+        "section_path_titles": [
+          "FOOD ADDITIVES",
+          "Inert gas with which airtight containers are flushed before, during and after filling with product."
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 4.1, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "INERT GAS WITH WHICH AIRTIGHT CONTAINERS ARE FLUSHED BEFORE, DURING AND AFTER FILLING WITH PRODUCT.",
+        "process_candidates": [
+          "Inert gas with which airtight containers are flushed before, during and after filling with product.",
+          "FOOD ADDITIVES",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "4.1 - Inert gas with which airtight containers are flushed before, during and after filling with product.",
+        "section_id": "4.1",
+        "section_number": "4.1",
+        "section_title": "Inert gas with which airtight containers are flushed before, during and after filling with product.",
+        "section_path": [
+          "4",
+          "4.1"
+        ],
+        "section_path_titles": [
+          "FOOD ADDITIVES",
+          "Inert gas with which airtight containers are flushed before, during and after filling with product."
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 4.1, p. 3"
+      }
+    },
+    {
+      "id": "7",
+      "key": "num::7",
+      "raw_id": "num::7",
+      "number": "7",
+      "title": "LABELLING",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "7"
+      ],
+      "path_titles": [
+        "LABELLING"
+      ],
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "page_refs": [
+        {
+          "page": 4,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7, p. 4",
+      "text": "In addition to the provisions of the  General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999), the following specific provisions apply:",
+      "retrieval_text": "LABELLING\nnumber=7\nlevel=1\nIn addition to the provisions of the  General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999), the following specific provisions apply:",
+      "page_spans": [
+        {
+          "page": 4,
+          "text": "In addition to the provisions of the  General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999), the following specific provisions apply:"
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 14
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING",
+        "process_candidates": [
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "7 - LABELLING",
+        "section_id": "7",
+        "section_number": "7",
+        "section_title": "LABELLING",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "LABELLING"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7, p. 4"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING",
+        "process_candidates": [
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "7 - LABELLING",
+        "section_id": "7",
+        "section_number": "7",
+        "section_title": "LABELLING",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "LABELLING"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7, p. 4"
+      }
+    },
+    {
+      "id": "8",
+      "key": "num::8",
+      "raw_id": "num::8",
+      "number": "8",
+      "title": "METHODS OF SAMPLING AND ANALYSIS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "8"
+      ],
+      "path_titles": [
+        "METHODS OF SAMPLING AND ANALYSIS"
+      ],
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "page_refs": [
+        {
+          "page": 4,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 8, p. 4",
+      "text": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+      "retrieval_text": "METHODS OF SAMPLING AND ANALYSIS\nnumber=8\nlevel=1\nFor checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+      "page_spans": [
+        {
+          "page": 4,
+          "text": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 15
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "METHODS OF SAMPLING AND ANALYSIS",
+        "process_candidates": [
+          "METHODS OF SAMPLING AND ANALYSIS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "8 - METHODS OF SAMPLING AND ANALYSIS",
+        "section_id": "8",
+        "section_number": "8",
+        "section_title": "METHODS OF SAMPLING AND ANALYSIS",
+        "section_path": [
+          "8"
+        ],
+        "section_path_titles": [
+          "METHODS OF SAMPLING AND ANALYSIS"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 8, p. 4"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "METHODS OF SAMPLING AND ANALYSIS",
+        "process_candidates": [
+          "METHODS OF SAMPLING AND ANALYSIS",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "8 - METHODS OF SAMPLING AND ANALYSIS",
+        "section_id": "8",
+        "section_number": "8",
+        "section_title": "METHODS OF SAMPLING AND ANALYSIS",
+        "section_path": [
+          "8"
+        ],
+        "section_path_titles": [
+          "METHODS OF SAMPLING AND ANALYSIS"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 8, p. 4"
+      }
+    },
+    {
+      "id": "7.1",
+      "key": "num::7.1",
+      "raw_id": "num::7.1",
+      "number": "7.1",
+      "title": "Name of the food",
+      "level": 2,
+      "parent_id": "7",
+      "parent_title": "LABELLING",
+      "path": [
+        "7",
+        "7.1"
+      ],
+      "path_titles": [
+        "LABELLING",
+        "Name of the food"
+      ],
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "page_refs": [
+        {
+          "page": 4,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.1, p. 4",
+      "text": "The name of the food shall be: Anhydrous milkfat Milkfat Anhydrous butter oil Butter oil Ghee According to description specified in Section 2, composition specified in 3 and the use of antioxidants (see Section 4).",
+      "retrieval_text": "LABELLING > Name of the food\nnumber=7.1\nlevel=2\nThe name of the food shall be: Anhydrous milkfat Milkfat Anhydrous butter oil Butter oil Ghee According to description specified in Section 2, composition specified in 3 and the use of antioxidants (see Section 4).",
+      "page_spans": [
+        {
+          "page": 4,
+          "text": "The name of the food shall be: Anhydrous milkfat Milkfat Anhydrous butter oil Butter oil Ghee According to description specified in Section 2, composition specified in 3 and the use of antioxidants (see Section 4)."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 16
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NAME OF THE FOOD",
+        "process_candidates": [
+          "Name of the food",
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "7.1 - Name of the food",
+        "section_id": "7.1",
+        "section_number": "7.1",
+        "section_title": "Name of the food",
+        "section_path": [
+          "7",
+          "7.1"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Name of the food"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.1, p. 4"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NAME OF THE FOOD",
+        "process_candidates": [
+          "Name of the food",
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "7.1 - Name of the food",
+        "section_id": "7.1",
+        "section_number": "7.1",
+        "section_title": "Name of the food",
+        "section_path": [
+          "7",
+          "7.1"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Name of the food"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.1, p. 4"
+      }
+    },
+    {
+      "id": "7.2",
+      "key": "num::7.2",
+      "raw_id": "num::7.2",
+      "number": "7.2",
+      "title": "Labelling of non-retail containers",
+      "level": 2,
+      "parent_id": "7",
+      "parent_title": "LABELLING",
+      "path": [
+        "7",
+        "7.2"
+      ],
+      "path_titles": [
+        "LABELLING",
+        "Labelling of non-retail containers"
+      ],
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "page_refs": [
+        {
+          "page": 4,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.2, p. 4",
+      "text": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "retrieval_text": "LABELLING > Labelling of non-retail containers\nnumber=7.2\nlevel=2\nThe labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "page_spans": [
+        {
+          "page": 4,
+          "text": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)."
+        }
+      ],
+      "rag": {
+        "rag_id": 109,
+        "order": 17
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING OF NON-RETAIL CONTAINERS",
+        "process_candidates": [
+          "Labelling of non-retail containers",
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "7.2 - Labelling of non-retail containers",
+        "section_id": "7.2",
+        "section_number": "7.2",
+        "section_title": "Labelling of non-retail containers",
+        "section_path": [
+          "7",
+          "7.2"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Labelling of non-retail containers"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.2, p. 4"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING OF NON-RETAIL CONTAINERS",
+        "process_candidates": [
+          "Labelling of non-retail containers",
+          "LABELLING",
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "7.2 - Labelling of non-retail containers",
+        "section_id": "7.2",
+        "section_number": "7.2",
+        "section_title": "Labelling of non-retail containers",
+        "section_path": [
+          "7",
+          "7.2"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Labelling of non-retail containers"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.2, p. 4"
+      }
+    },
+    {
+      "id": "109",
+      "key": "109",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "The following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Contains only procedural or reference information, not normative language.",
+            "stage": "light_prefilter",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Contains only procedural or reference information, not normative language.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "MILKFAT PRODUCTS",
+              "2022 AMENDMENT"
+            ],
+            "process": "2022 AMENDMENT",
+            "process_candidates": [
+              "2022 AMENDMENT",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2022 AMENDMENT",
+            "section_id": "path_titles::2022 amendment::lvl1",
+            "section_number": null,
+            "section_title": "2022 AMENDMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "2022 AMENDMENT"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, 2022 AMENDMENT, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "MILKFAT PRODUCTS",
+              "2022 AMENDMENT"
+            ],
+            "process": "2022 AMENDMENT",
+            "process_candidates": [
+              "2022 AMENDMENT",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2022 AMENDMENT",
+            "section_id": "path_titles::2022 amendment::lvl1",
+            "section_number": null,
+            "section_title": "2022 AMENDMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "2022 AMENDMENT"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, 2022 AMENDMENT, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Information required in Section 7 of this Standard and Sections 4.1 to 4.8 of the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), and, if necessary, storage instructions, shall be given either on the container or in accompanying documents, except that the name of the product, lot identification, and the name and address of the manufacturer or packer shall appear on the container.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "LABELLING OF NON-RETAIL CONTAINERS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "LABELLING OF NON-RETAIL CONTAINERS",
+            "section_id": "path_titles::labelling of non-retail containers::lvl1",
+            "section_number": null,
+            "section_title": "LABELLING OF NON-RETAIL CONTAINERS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, LABELLING OF NON-RETAIL CONTAINERS, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "LABELLING OF NON-RETAIL CONTAINERS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "LABELLING OF NON-RETAIL CONTAINERS",
+            "section_id": "path_titles::labelling of non-retail containers::lvl1",
+            "section_number": null,
+            "section_title": "LABELLING OF NON-RETAIL CONTAINERS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, LABELLING OF NON-RETAIL CONTAINERS, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "However, lot identification, and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "LABELLING OF NON-RETAIL CONTAINERS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "LABELLING OF NON-RETAIL CONTAINERS",
+            "section_id": "path_titles::labelling of non-retail containers::lvl1",
+            "section_number": null,
+            "section_title": "LABELLING OF NON-RETAIL CONTAINERS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, LABELLING OF NON-RETAIL CONTAINERS, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "LABELLING OF NON-RETAIL CONTAINERS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "LABELLING OF NON-RETAIL CONTAINERS",
+            "section_id": "path_titles::labelling of non-retail containers::lvl1",
+            "section_number": null,
+            "section_title": "LABELLING OF NON-RETAIL CONTAINERS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, LABELLING OF NON-RETAIL CONTAINERS, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "Labelling of non-retail containers",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7.2 - Labelling of non-retail containers",
+            "section_id": "7.2",
+            "section_number": "7.2",
+            "section_title": "Labelling of non-retail containers",
+            "section_path": [
+              "7",
+              "7.2"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Labelling of non-retail containers"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.2, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "Labelling of non-retail containers",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7.2 - Labelling of non-retail containers",
+            "section_id": "7.2",
+            "section_number": "7.2",
+            "section_title": "Labelling of non-retail containers",
+            "section_path": [
+              "7",
+              "7.2"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Labelling of non-retail containers"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.2, p. 4"
+          }
+        },
+        {
+          "order": 2,
+          "original": "This standard applies to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil, Butter oil and Ghee, which are intended for further processing or culinary use, in conformity with the description in Section 2 of this standard.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "uncertain",
+            "reason": "Insufficient context to determine relevance.",
+            "stage": "light_prefilter",
+            "confidence": 0.4
+          },
+          "classification": {
+            "sentence": "Smooth and fine granules to liquid, depending on temperature",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Condition",
+            "function": "Descriptive condition of state",
+            "pattern": "Short qualitative description of texture variation conditioned by temperature",
+            "template_match_score": 0.3,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "description": "Smooth and fine granules to liquid",
+              "condition": "depending on temperature"
+            },
+            "justification": "Brief qualitative sentence describing material texture conditioned by temperature, not matching normative or obligation templates.",
+            "notes": [
+              "Pure descriptive conditional phrasing without normative force"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "MILKFAT PRODUCTS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 3,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "MILKFAT PRODUCTS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 3,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+          }
+        },
+        {
+          "order": 2,
+          "original": "Anhydrous milkfat/ Anhydrous butter oil Milkfat Butter oil Ghee Maximum free fatty acids (% m/m as oleic acid) 0.3 0.4 0.4 0.4",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "uncertain",
+            "reason": "Insufficient context to determine relevance.",
+            "stage": "light_prefilter",
+            "confidence": 0.4
+          },
+          "classification": {
+            "sentence": "Smooth and fine granules to liquid, depending on temperature",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Condition",
+            "function": "Descriptive condition of state",
+            "pattern": "Short qualitative description of texture variation conditioned by temperature",
+            "template_match_score": 0.3,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "description": "Smooth and fine granules to liquid",
+              "condition": "depending on temperature"
+            },
+            "justification": "Brief qualitative sentence describing material texture conditioned by temperature, not matching normative or obligation templates.",
+            "notes": [
+              "Pure descriptive conditional phrasing without normative force"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "MILKFAT PRODUCTS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "MILKFAT PRODUCTS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+          }
+        },
+        {
+          "order": 2,
+          "original": "Maximum peroxide value (milli-equivalents of oxygen/kg fat) 0.3 0.6 0.6 0.6 Taste and odour Acceptable for market requirements after heating a sample to 40–45°C Texture",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "uncertain",
+            "reason": "Insufficient context to determine relevance.",
+            "stage": "light_prefilter",
+            "confidence": 0.4
+          },
+          "classification": {
+            "sentence": "Smooth and fine granules to liquid, depending on temperature",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Condition",
+            "function": "Descriptive condition of state",
+            "pattern": "Short qualitative description of texture variation conditioned by temperature",
+            "template_match_score": 0.3,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "description": "Smooth and fine granules to liquid",
+              "condition": "depending on temperature"
+            },
+            "justification": "Brief qualitative sentence describing material texture conditioned by temperature, not matching normative or obligation templates.",
+            "notes": [
+              "Pure descriptive conditional phrasing without normative force"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "MILKFAT PRODUCTS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "MILKFAT PRODUCTS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+          }
+        },
+        {
+          "order": 2,
+          "original": "Smooth and fine granules to liquid, depending on temperature",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "uncertain",
+            "reason": "Insufficient context to determine relevance.",
+            "stage": "light_prefilter",
+            "confidence": 0.4
+          },
+          "classification": {
+            "sentence": "Smooth and fine granules to liquid, depending on temperature",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Condition",
+            "function": "Descriptive condition of state",
+            "pattern": "Short qualitative description of texture variation conditioned by temperature",
+            "template_match_score": 0.3,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "description": "Smooth and fine granules to liquid",
+              "condition": "depending on temperature"
+            },
+            "justification": "Brief qualitative sentence describing material texture conditioned by temperature, not matching normative or obligation templates.",
+            "notes": [
+              "Pure descriptive conditional phrasing without normative force"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "MILKFAT PRODUCTS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "MILKFAT PRODUCTS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 1, pp. 3-5"
+          }
+        },
+        {
+          "order": 3,
+          "original": "Heavy metals",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The following limits apply to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil and Ghee: Metal Maximum level Copper 0.05 mg/kg Iron  0.2 mg/kg",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Limits and Targets",
+            "function": "Specification of maximum allowed levels",
+            "pattern": "Introductory phrase followed by tabular limits of metals and maximum levels",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "applicability": "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil, Butter oil and Ghee",
+              "parameters": [
+                "Copper",
+                "Iron"
+              ],
+              "limits": [
+                "0.05 mg/kg",
+                "0.2 mg/kg"
+              ]
+            },
+            "justification": "Defines explicit maximum limits for metals with an introductory phrase; partial similarity to known limits templates but distinctive phrasing requires adaptation.",
+            "notes": [
+              "Numerical tabular limit specification with product scope"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "MILKFAT PRODUCTS",
+              "DESCRIPTION"
+            ],
+            "process": "DESCRIPTION",
+            "process_candidates": [
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2 - DESCRIPTION",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "DESCRIPTION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2, pp. 3-5"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "MILKFAT PRODUCTS",
+              "DESCRIPTION"
+            ],
+            "process": "DESCRIPTION",
+            "process_candidates": [
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2 - DESCRIPTION",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "DESCRIPTION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2, pp. 3-5"
+          }
+        },
+        {
+          "order": 3,
+          "original": "The following limits apply to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil and Ghee: Metal Maximum level Copper 0.05 mg/kg Iron  0.2 mg/kg",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The following limits apply to Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil and Ghee: Metal Maximum level Copper 0.05 mg/kg Iron  0.2 mg/kg",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Limits and Targets",
+            "function": "Specification of maximum allowed levels",
+            "pattern": "Introductory phrase followed by tabular limits of metals and maximum levels",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "applicability": "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil, Butter oil and Ghee",
+              "parameters": [
+                "Copper",
+                "Iron"
+              ],
+              "limits": [
+                "0.05 mg/kg",
+                "0.2 mg/kg"
+              ]
+            },
+            "justification": "Defines explicit maximum limits for metals with an introductory phrase; partial similarity to known limits templates but distinctive phrasing requires adaptation.",
+            "notes": [
+              "Numerical tabular limit specification with product scope"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "MILKFAT PRODUCTS",
+              "DESCRIPTION"
+            ],
+            "process": "DESCRIPTION",
+            "process_candidates": [
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2 - DESCRIPTION",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "DESCRIPTION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2, pp. 3-5"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "MILKFAT PRODUCTS",
+              "DESCRIPTION"
+            ],
+            "process": "DESCRIPTION",
+            "process_candidates": [
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2 - DESCRIPTION",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "DESCRIPTION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2, pp. 3-5"
+          }
+        },
+        {
+          "order": 4,
+          "original": "See CXS 234-1999.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Reference to regulatory document.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "See CXS 234-1999.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Permission",
+            "modality": "Permission",
+            "function": "Reference instruction",
+            "pattern": "Imperative sentence referencing external document",
+            "template_match_score": 0.2,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "reference": "CXS 234-1999"
+            },
+            "justification": "Single sentence imperative referencing another standard; serves as instruction to consult, classified as new pattern due to minimal normative structure.",
+            "notes": [
+              "Minimal content; purely a reference"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "MILKFAT PRODUCTS",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+            ],
+            "process": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+            "process_candidates": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "3 - ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3, pp. 3-5"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "MILKFAT PRODUCTS",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+            ],
+            "process": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+            "process_candidates": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "3 - ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+            ],
+            "page": 5,
+            "pages": [
+              "3",
+              "5"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3, pp. 3-5"
+          }
+        },
+        {
+          "order": 5,
+          "original": "Food additives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) in Food Category 02.1.1 (Butter oil, anhydrous milkfat, ghee) may be used in foods subject to this standard.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Food additives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) in Food Category 02.1.1 (Butter oil, anhydrous milkfat, ghee) may be used in foods subject to this standard.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Permission",
+            "modality": "Permission",
+            "function": "Permission statement for additives",
+            "pattern": "Sentence granting explicit permission for use of additives referencing external tables",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "additives_reference": "Tables 1 and 2 of General Standard for Food Additives (CXS 192-1995)",
+              "food_category": "02.1.1 (Butter oil, anhydrous milkfat, ghee)",
+              "permission": "may be used",
+              "scope": "foods subject to this standard"
+            },
+            "justification": "Explicit permission clause citing external food additive tables; partial fit to permission templates but with specific references needing adaptation.",
+            "notes": [
+              "Contains detailed referencing to external additive standards"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "FOODS SUBJECT TO THIS STANDARD",
+            "subject_candidates": [
+              "FOODS SUBJECT TO THIS STANDARD",
+              "PERMISSION",
+              "MILKFAT PRODUCTS",
+              "FOOD ADDITIVES"
+            ],
+            "process": "FOOD ADDITIVES",
+            "process_candidates": [
+              "FOOD ADDITIVES",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "4 - FOOD ADDITIVES",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "FOOD ADDITIVES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "FOOD ADDITIVES"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 4, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "FOODS SUBJECT TO THIS STANDARD",
+            "subject_candidates": [
+              "FOODS SUBJECT TO THIS STANDARD",
+              "PERMISSION",
+              "MILKFAT PRODUCTS",
+              "FOOD ADDITIVES"
+            ],
+            "process": "FOOD ADDITIVES",
+            "process_candidates": [
+              "FOOD ADDITIVES",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "4 - FOOD ADDITIVES",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "FOOD ADDITIVES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "FOOD ADDITIVES"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 4, p. 3"
+          }
+        },
+        {
+          "order": 6,
+          "original": "The products covered by this standard shall comply with the maximum levels for contaminants that are specified for the product in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The milk used in the manufacture of the products covered by this Standard shall comply with the Maximum Levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Compliance Requirement",
+            "pattern": "[Subject] shall comply with [Referenced Standards for contaminant levels and residue limits]",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The milk used in the manufacture of the products covered by this Standard",
+              "obligation": "shall comply with",
+              "requirements": [
+                "Maximum Levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995)",
+                "maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC"
+              ]
+            },
+            "justification": "The sentence is an obligation sentence mandating compliance with specified contaminant and residue limits referencing external standards. It does not match any known template but fits an obligation category with a compliance function. The structure is a subject plus an obligation to comply with referenced quantitative standards.",
+            "notes": [
+              "No exact template match in the known catalog.",
+              "Complex compliance reference involving multiple external standards and limits."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "5 - CONTAMINANTS",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 5, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "5 - CONTAMINANTS",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 5, p. 3"
+          }
+        },
+        {
+          "order": 6,
+          "original": "The milk used in the manufacture of the products covered by this standard shall comply with the maximum levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The milk used in the manufacture of the products covered by this Standard shall comply with the Maximum Levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Compliance Requirement",
+            "pattern": "[Subject] shall comply with [Referenced Standards for contaminant levels and residue limits]",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The milk used in the manufacture of the products covered by this Standard",
+              "obligation": "shall comply with",
+              "requirements": [
+                "Maximum Levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995)",
+                "maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC"
+              ]
+            },
+            "justification": "The sentence is an obligation sentence mandating compliance with specified contaminant and residue limits referencing external standards. It does not match any known template but fits an obligation category with a compliance function. The structure is a subject plus an obligation to comply with referenced quantitative standards.",
+            "notes": [
+              "No exact template match in the known catalog.",
+              "Complex compliance reference involving multiple external standards and limits."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "5 - CONTAMINANTS",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 5, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "5 - CONTAMINANTS",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 5, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "It is recommended that the products covered by the provisions of this standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts such as codes of hygienic practice and codes of practice.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The products should comply with  any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with microbiological criteria",
+            "pattern": "Obligation with reference to microbiological criteria guidelines",
+            "template_match_score": 0.75,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "Obligation": "Products should comply with microbiological criteria",
+              "Reference": "Principles and Guidelines for Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997)"
+            },
+            "justification": "Partial match to obligation templates involving compliance with external criteria; modality and function clear, structure adapted.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "6 - HYGIENE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 6, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "6 - HYGIENE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 6, p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "The products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The products should comply with  any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with microbiological criteria",
+            "pattern": "Obligation with reference to microbiological criteria guidelines",
+            "template_match_score": 0.75,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "Obligation": "Products should comply with microbiological criteria",
+              "Reference": "Principles and Guidelines for Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997)"
+            },
+            "justification": "Partial match to obligation templates involving compliance with external criteria; modality and function clear, structure adapted.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "6 - HYGIENE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 6, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "6 - HYGIENE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 6, p. 3"
+          }
+        },
+        {
+          "order": 8,
+          "original": "are fatty products derived exclusively from milk and/or products obtained from milk by means of processes which result in almost total removal of water and non-fat solids.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "uncertain",
+            "reason": "Incomplete sentence, lacks context.",
+            "stage": "light_prefilter",
+            "confidence": 0.3
+          },
+          "classification": {
+            "sentence": "are fatty products derived exclusively from milk and/or products obtained from milk by means of processes which result in almost total removal of water and non-fat solids.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Definition",
+            "pattern": "Nominal phrase defining scope of fatty products by origin and process",
+            "template_match_score": 0.1,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "definition": "fatty products derived exclusively from milk and/or products obtained from milk by means of processes which result in almost total removal of water and non-fat solids"
+            },
+            "justification": "Defines product by composition and processing; lacks typical normative modality, classified as definition and new pattern.",
+            "notes": [
+              "Sentence fragment; nominal definition"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "MILKFAT PRODUCTS",
+              "ANHYDROUS MILKFAT, MILKFAT, ANHYDROUS BUTTER OIL AND BUTTER OIL"
+            ],
+            "process": "ANHYDROUS MILKFAT, MILKFAT, ANHYDROUS BUTTER OIL AND BUTTER OIL",
+            "process_candidates": [
+              "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2.1 - Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+            "section_id": "2.1",
+            "section_number": "2.1",
+            "section_title": "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+            "section_path": [
+              "2",
+              "2.1"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION",
+              "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.1, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "MILKFAT PRODUCTS",
+              "ANHYDROUS MILKFAT, MILKFAT, ANHYDROUS BUTTER OIL AND BUTTER OIL"
+            ],
+            "process": "ANHYDROUS MILKFAT, MILKFAT, ANHYDROUS BUTTER OIL AND BUTTER OIL",
+            "process_candidates": [
+              "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2.1 - Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+            "section_id": "2.1",
+            "section_number": "2.1",
+            "section_title": "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil",
+            "section_path": [
+              "2",
+              "2.1"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION",
+              "Anhydrous Milkfat, Milkfat, Anhydrous Butter oil and Butter oil"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.1, p. 3"
+          }
+        },
+        {
+          "order": 9,
+          "original": "is a product exclusively obtained from milk, cream or butter, by means of processes which result in almost total removal of water and non-fat solids, with an especially developed flavour and physical structure.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "uncertain",
+            "reason": "Incomplete sentence, lacks context.",
+            "stage": "light_prefilter",
+            "confidence": 0.3
+          },
+          "classification": {
+            "sentence": "is a product exclusively obtained from milk, cream or butter, by means of processes which result in almost total removal of water and non-fat solids, with an especially developed flavour and physical structure.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Definition",
+            "pattern": "Nominal phrase specifying product origin, processing, and characteristic properties",
+            "template_match_score": 0.15,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "definition": "product exclusively obtained from milk, cream or butter by processes removing water and non-fat solids",
+              "characteristics": "especially developed flavour and physical structure"
+            },
+            "justification": "Product definition emphasizing origin, processing, and special properties; outside common normative templates, classified as new pattern.",
+            "notes": [
+              "Nominal description fragment"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "MILKFAT PRODUCTS",
+              "GHEE"
+            ],
+            "process": "GHEE",
+            "process_candidates": [
+              "Ghee",
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2.2 - Ghee",
+            "section_id": "2.2",
+            "section_number": "2.2",
+            "section_title": "Ghee",
+            "section_path": [
+              "2",
+              "2.2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION",
+              "Ghee"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.2, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "MILKFAT PRODUCTS",
+              "GHEE"
+            ],
+            "process": "GHEE",
+            "process_candidates": [
+              "Ghee",
+              "DESCRIPTION",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "2.2 - Ghee",
+            "section_id": "2.2",
+            "section_number": "2.2",
+            "section_title": "Ghee",
+            "section_path": [
+              "2",
+              "2.2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION",
+              "Ghee"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 2.2, p. 3"
+          }
+        },
+        {
+          "order": 10,
+          "original": "Milk and/or products obtained from milk.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Details ingredients scope for the standard.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "Milk and/or products obtained from milk.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Enumerate components or ingredients",
+            "pattern": "Noun phrase listing ingredients",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Components": "Milk and/or products obtained from milk"
+            },
+            "justification": "Fragment presenting ingredient list element, considered new pattern due to lack of normative phrasing or structure.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "MILKFAT PRODUCTS",
+              "RAW MATERIALS"
+            ],
+            "process": "RAW MATERIALS",
+            "process_candidates": [
+              "Raw materials",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "3.1 - Raw materials",
+            "section_id": "3.1",
+            "section_number": "3.1",
+            "section_title": "Raw materials",
+            "section_path": [
+              "3",
+              "3.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Raw materials"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.1, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "MILKFAT PRODUCTS",
+              "RAW MATERIALS"
+            ],
+            "process": "RAW MATERIALS",
+            "process_candidates": [
+              "Raw materials",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "3.1 - Raw materials",
+            "section_id": "3.1",
+            "section_number": "3.1",
+            "section_title": "Raw materials",
+            "section_path": [
+              "3",
+              "3.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Raw materials"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.1, p. 3"
+          }
+        },
+        {
+          "order": 11,
+          "original": "Starter cultures of harmless lactic acid producing bacteria.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Fragment, no clear regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.2
+          },
+          "classification": {
+            "sentence": "Starter cultures of harmless lactic acid producing bacteria.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Fragment, no clear regulatory context.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "MILKFAT PRODUCTS",
+              "PERMITTED INGREDIENTS"
+            ],
+            "process": "PERMITTED INGREDIENTS",
+            "process_candidates": [
+              "Permitted ingredients",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "3.2 - Permitted ingredients",
+            "section_id": "3.2",
+            "section_number": "3.2",
+            "section_title": "Permitted ingredients",
+            "section_path": [
+              "3",
+              "3.2"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Permitted ingredients"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.2, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "MILKFAT PRODUCTS",
+              "PERMITTED INGREDIENTS"
+            ],
+            "process": "PERMITTED INGREDIENTS",
+            "process_candidates": [
+              "Permitted ingredients",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "3.2 - Permitted ingredients",
+            "section_id": "3.2",
+            "section_number": "3.2",
+            "section_title": "Permitted ingredients",
+            "section_path": [
+              "3",
+              "3.2"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Permitted ingredients"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.2, p. 3"
+          }
+        },
+        {
+          "order": 12,
+          "original": "Anhydrous milkfat/Anhydrous butter oil Milkfat Butter oil Ghee Minimum milkfat (% m/m) 99.8 99.6 99.6 99.6 Maximum water (% m/m) 0.1 – – –",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Anhydrous milkfat/Anhydrous butter oil Milkfat Butter oil Ghee Minimum milkfat (% m/m) 99.8 99.6 99.6 99.6 Maximum water (% m/m) 0.1 – – –",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Limits and Targets",
+            "function": "Specification of minimum and maximum component content",
+            "pattern": "Tabular numeric limits showing per product minimum milkfat and maximum water content",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "products": [
+                "Anhydrous milkfat/Anhydrous butter oil",
+                "Milkfat",
+                "Butter oil",
+                "Ghee"
+              ],
+              "parameters": [
+                "Minimum milkfat (% m/m)",
+                "Maximum water (% m/m)"
+              ],
+              "values": [
+                "99.8, 99.6, 99.6, 99.6",
+                "0.1, –, –, –"
+              ]
+            },
+            "justification": "Presents numeric thresholds for compositional parameters formatted as a table; no matching template, thus new pattern.",
+            "notes": [
+              "Numeric composition limits in tabular style"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "MILKFAT PRODUCTS",
+              "COMPOSITION"
+            ],
+            "process": "COMPOSITION",
+            "process_candidates": [
+              "Composition",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "3.3 - Composition",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "Composition",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Composition"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.3, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "MILKFAT PRODUCTS",
+              "COMPOSITION"
+            ],
+            "process": "COMPOSITION",
+            "process_candidates": [
+              "Composition",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "3.3 - Composition",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "Composition",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Composition"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 3.3, p. 3"
+          }
+        },
+        {
+          "order": 14,
+          "original": "In addition to the provisions of the  General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999)",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "uncertain",
+            "reason": "Dependent on preceding context, likely part of regulation.",
+            "stage": "light_prefilter",
+            "confidence": 0.5
+          },
+          "classification": {
+            "sentence": ", the following specific provisions apply:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Introduction to specific requirements",
+            "pattern": "Sentence fragment introducing subsequent normative provisions",
+            "template_match_score": 0.25,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {},
+            "justification": "Fragment sentence initiating application of provisions, without full structure; best classified as new pattern obligation introduction.",
+            "notes": [
+              "Incomplete sentence fragment"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7 - LABELLING",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "LABELLING",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7 - LABELLING",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "LABELLING",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7, p. 4"
+          }
+        },
+        {
+          "order": 14,
+          "original": ", the following specific provisions apply:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "uncertain",
+            "reason": "Dependent on preceding context, likely part of regulation.",
+            "stage": "light_prefilter",
+            "confidence": 0.5
+          },
+          "classification": {
+            "sentence": ", the following specific provisions apply:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Introduction to specific requirements",
+            "pattern": "Sentence fragment introducing subsequent normative provisions",
+            "template_match_score": 0.25,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {},
+            "justification": "Fragment sentence initiating application of provisions, without full structure; best classified as new pattern obligation introduction.",
+            "notes": [
+              "Incomplete sentence fragment"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7 - LABELLING",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "LABELLING",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7 - LABELLING",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "LABELLING",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7, p. 4"
+          }
+        },
+        {
+          "order": 15,
+          "original": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Prescriptive requirement",
+            "pattern": "Introductory phrase indicating purpose + main clause prescribing required methods and reference standards with modal verb 'shall'",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "purpose": "For checking the compliance with this standard",
+              "required_items": "methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard",
+              "obligation": "shall be used"
+            },
+            "justification": "The sentence prescribes an obligation to use specified methods for compliance checking with normative modality 'shall'. The sentence structure includes an introductory purpose phrase followed by a prescriptive main clause. No known templates match closely, so a new pattern reflecting this structure is created.",
+            "notes": [
+              "The sentence combines normative obligation with purpose indication in a complex sentence; no direct template found in catalog."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "METHODS OF SAMPLING AND ANALYSIS"
+            ],
+            "process": "METHODS OF SAMPLING AND ANALYSIS",
+            "process_candidates": [
+              "METHODS OF SAMPLING AND ANALYSIS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "8 - METHODS OF SAMPLING AND ANALYSIS",
+            "section_id": "8",
+            "section_number": "8",
+            "section_title": "METHODS OF SAMPLING AND ANALYSIS",
+            "section_path": [
+              "8"
+            ],
+            "section_path_titles": [
+              "METHODS OF SAMPLING AND ANALYSIS"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 8, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "METHODS OF SAMPLING AND ANALYSIS"
+            ],
+            "process": "METHODS OF SAMPLING AND ANALYSIS",
+            "process_candidates": [
+              "METHODS OF SAMPLING AND ANALYSIS",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "8 - METHODS OF SAMPLING AND ANALYSIS",
+            "section_id": "8",
+            "section_number": "8",
+            "section_title": "METHODS OF SAMPLING AND ANALYSIS",
+            "section_path": [
+              "8"
+            ],
+            "section_path_titles": [
+              "METHODS OF SAMPLING AND ANALYSIS"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 8, p. 4"
+          }
+        },
+        {
+          "order": 16,
+          "original": "The name of the food shall be: Anhydrous milkfat Milkfat Anhydrous butter oil Butter oil Ghee According to description specified in Section 2, composition specified in 3 and the use of antioxidants (see Section 4).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The name of the food shall be: Anhydrous milkfat Milkfat Anhydrous butter oil Butter oil Ghee According to description specified in Section 2, composition specified in 3 and the use of antioxidants (see Section 4).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Naming obligation with references",
+            "pattern": "Mandative sentence prescribing mandatory naming with cross-references to description and composition sections",
+            "template_match_score": 0.75,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "requirement": "name of the food shall be",
+              "accepted_names": [
+                "Anhydrous milkfat",
+                "Milkfat",
+                "Anhydrous butter oil",
+                "Butter oil",
+                "Ghee"
+              ],
+              "references": [
+                "description in Section 2",
+                "composition specified in 3",
+                "use of antioxidants Section 4"
+              ]
+            },
+            "justification": "Clear normative obligation for food naming with specific options and cross-references; partial match to naming obligation templates, classified as adapted template.",
+            "notes": [
+              "Mandative verb and multiple cross-references included"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "NAME OF THE FOOD"
+            ],
+            "process": "NAME OF THE FOOD",
+            "process_candidates": [
+              "Name of the food",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7.1 - Name of the food",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "Name of the food",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the food"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.1, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "NAME OF THE FOOD"
+            ],
+            "process": "NAME OF THE FOOD",
+            "process_candidates": [
+              "Name of the food",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7.1 - Name of the food",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "Name of the food",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the food"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.1, p. 4"
+          }
+        },
+        {
+          "order": 17,
+          "original": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "Labelling of non-retail containers",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7.2 - Labelling of non-retail containers",
+            "section_id": "7.2",
+            "section_number": "7.2",
+            "section_title": "Labelling of non-retail containers",
+            "section_path": [
+              "7",
+              "7.2"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Labelling of non-retail containers"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.2, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "MILKFAT PRODUCTS",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "Labelling of non-retail containers",
+              "LABELLING",
+              "Product Standards"
+            ],
+            "document": "CXS 280-1973 - Standard for Milkfat Products",
+            "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+            "document_reference": "CXS 280-1973",
+            "document_title": "Standard for Milkfat Products",
+            "document_type": "Standards",
+            "section": "7.2 - Labelling of non-retail containers",
+            "section_id": "7.2",
+            "section_number": "7.2",
+            "section_title": "Labelling of non-retail containers",
+            "section_path": [
+              "7",
+              "7.2"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Labelling of non-retail containers"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b, Section 7.2, p. 4"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "109",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Product Standards"
+        ],
+        "document": "CXS 280-1973 - Standard for Milkfat Products",
+        "document_id": "3de3a689-3b7b-4187-9ac8-22d45e46fd9b",
+        "document_reference": "CXS 280-1973",
+        "document_title": "Standard for Milkfat Products",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "109",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CXS 280-1973",
+      "title": "STANDARD FOR MILKFAT PRODUCTS",
+      "summary": "Página com título principal e cabeçalho repetitivo, sem outras seções detectadas.",
+      "total_sections": 0,
+      "sections": []
+    },
+    {
+      "page": 2,
+      "header": "CXS 280-1973  2",
+      "title": null,
+      "summary": "Página contém dois títulos principais sem numeração: '2022 AMENDMENT' e 'LABELLING OF NON-RETAIL CONTAINERS', cada um com seu texto explicativo na página. Os títulos estão em caixa alta caracterizando nível 1. Texto está associado corretamente aos seus respectivos títulos. Não há indicações de continuidade entre páginas.",
+      "total_sections": 2,
+      "sections": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "page": 3,
+      "header": "CXS 280-1973  3",
+      "title": null,
+      "summary": "Página com hierarquia clara e numerada dos títulos principais e subtítulos, respeitando níveis de 1 a 2. Textos associados diretamente aos títulos e subtítulos correspondentes. Cabeçalho da página identificado. Não há continuidade de seções entre páginas nesta página.",
+      "total_sections": 6,
+      "sections": [
+        "1",
+        "2",
+        "2.1",
+        "2.2",
+        "3",
+        "3.1",
+        "3.2",
+        "3.3",
+        "4",
+        "4.1",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "page": 4,
+      "header": "CXS 280-1973  4",
+      "title": null,
+      "summary": "A página apresenta dois títulos principais numerados (7 e 8) com seus respectivos subtítulos para o título 7. O texto está corretamente associado a cada nó, e não há indicações de continuidade entre páginas. O cabeçalho está presente na página.",
+      "total_sections": 6,
+      "sections": [
+        "7",
+        "7.1",
+        "7.2",
+        "8"
+      ]
+    },
+    {
+      "page": 5,
+      "header": "CXS 280-1973  5",
+      "title": null,
+      "summary": "A página contém três títulos numerados no nível 1: 'OTHER QUALITY FACTORS', 'OTHER CONTAMINANTS' e 'OTHER METHODS OF ANALYSIS'. Cada título apresenta seu respectivo texto detalhado. O cabeçalho da página foi identificado como 'CXS 280-1973  5'. Não há indicações de continuidade entre páginas.",
+      "total_sections": 3,
+      "sections": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ]
+}

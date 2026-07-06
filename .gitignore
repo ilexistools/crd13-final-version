@@ -1,0 +1,38 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local runtimes and caches
+.runtime/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Runtime uploads/generated files
+backend/app/assets/files/*
+!backend/app/assets/files/.gitkeep
+
+# Node/Angular
+node_modules/
+.angular/
+dist/
+coverage/
+
+# Python packaging/build outputs
+build/
+wheels/
+*.egg-info/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

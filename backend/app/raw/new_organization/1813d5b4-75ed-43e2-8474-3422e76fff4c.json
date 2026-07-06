@@ -1,0 +1,413 @@
+{
+  "document": {
+    "id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 65-1997",
+    "year": "1997",
+    "title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+    "label": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+    "committee": "CCMAS",
+    "last_modified": "1997",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B65-1997%252FCXG_065e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "Cross-cutting Processes"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+      "key": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+      "raw_id": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+      "number": null,
+      "title": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "1813d5b4-75ed-43e2-8474-3422e76fff4c, HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES, p. 1",
+      "text": "Previously included in “Food Control Laboratory Management Recommendations” (CAC/GL 28-1995, revised in 1997). \n\nThe following Guidelines were adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories: \n\n“Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+      "retrieval_text": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES\nlevel=1\nPreviously included in “Food Control Laboratory Management Recommendations” (CAC/GL 28-1995, revised in 1997). \n\nThe following Guidelines were adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories: \n\n“Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Previously included in “Food Control Laboratory Management Recommendations” (CAC/GL 28-1995, revised in 1997). \n\nThe following Guidelines were adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories: \n\n“Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666."
+        }
+      ],
+      "rag": {
+        "rag_id": 43,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+        "process_candidates": [
+          "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+        "document_id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+        "document_reference": "CXG 65-1997",
+        "document_title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+        "document_type": "Guidelines",
+        "section": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+        "section_id": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+        "section_number": null,
+        "section_title": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "1813d5b4-75ed-43e2-8474-3422e76fff4c, HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+        "process_candidates": [
+          "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+        "document_id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+        "document_reference": "CXG 65-1997",
+        "document_title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+        "document_type": "Guidelines",
+        "section": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+        "section_id": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+        "section_number": null,
+        "section_title": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "1813d5b4-75ed-43e2-8474-3422e76fff4c, HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES, p. 1"
+      }
+    },
+    {
+      "id": "43",
+      "key": "43",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "Previously included in “Food Control Laboratory Management Recommendations” (CAC/GL 28-1995, revised in 1997).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "References to adopted guidelines relevant to regulation.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "The following Guidelines were adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories: \n\n“Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Reference",
+            "modality": "undefined",
+            "function": "Statement of adoption by reference",
+            "pattern": "Passive voice statement + document citation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "adopting_body": "Codex Alimentarius Commission",
+              "purpose": "quality assurance of food control laboratories",
+              "cited_guideline": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories, Pure & Appl. Chem., 67 (1995) 649-666"
+            },
+            "justification": "This sentence presents a declarative adoption statement in passive voice with references, without normative modality or prescriptive content, thus representing a new pattern.",
+            "notes": [
+              "No obligation, permission, prohibition, or condition modality identified; reference statement only."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REFERENCE",
+            "subject_candidates": [
+              "REFERENCE",
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+            ],
+            "process": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "process_candidates": [
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+            "document_id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+            "document_reference": "CXG 65-1997",
+            "document_title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "section_id": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "1813d5b4-75ed-43e2-8474-3422e76fff4c, HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REFERENCE",
+            "subject_candidates": [
+              "REFERENCE",
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+            ],
+            "process": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "process_candidates": [
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+            "document_id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+            "document_reference": "CXG 65-1997",
+            "document_title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "section_id": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "1813d5b4-75ed-43e2-8474-3422e76fff4c, HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "The following Guidelines were adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories: \n\n“Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "References to adopted guidelines relevant to regulation.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "The following Guidelines were adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories: \n\n“Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Reference",
+            "modality": "undefined",
+            "function": "Statement of adoption by reference",
+            "pattern": "Passive voice statement + document citation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "adopting_body": "Codex Alimentarius Commission",
+              "purpose": "quality assurance of food control laboratories",
+              "cited_guideline": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories, Pure & Appl. Chem., 67 (1995) 649-666"
+            },
+            "justification": "This sentence presents a declarative adoption statement in passive voice with references, without normative modality or prescriptive content, thus representing a new pattern.",
+            "notes": [
+              "No obligation, permission, prohibition, or condition modality identified; reference statement only."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REFERENCE",
+            "subject_candidates": [
+              "REFERENCE",
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+            ],
+            "process": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "process_candidates": [
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+            "document_id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+            "document_reference": "CXG 65-1997",
+            "document_title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "section_id": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "1813d5b4-75ed-43e2-8474-3422e76fff4c, HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REFERENCE",
+            "subject_candidates": [
+              "REFERENCE",
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+            ],
+            "process": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "process_candidates": [
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+            "document_id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+            "document_reference": "CXG 65-1997",
+            "document_title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "section_id": "path_titles::harmonized guidelines for internal quality control in analytical chemistry laboratories::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "1813d5b4-75ed-43e2-8474-3422e76fff4c, HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+        "document_id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+        "document_reference": "CXG 65-1997",
+        "document_title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "43",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 65-1997 - Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+        "document_id": "1813d5b4-75ed-43e2-8474-3422e76fff4c",
+        "document_reference": "CXG 65-1997",
+        "document_title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "43",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 65 Page 1 of 1",
+      "title": "HARMONIZED GUIDELINES FOR INTERNAL QUALITY CONTROL IN ANALYTICAL CHEMISTRY LABORATORIES",
+      "summary": "Página apresenta o título principal do documento em caixa alta sem numeração, atuando como nível 1. Contém texto introdutório associado a esse título. Não há subseções nem continuidade entre páginas.",
+      "total_sections": 1,
+      "sections": [
+        "n1"
+      ]
+    }
+  ]
+}

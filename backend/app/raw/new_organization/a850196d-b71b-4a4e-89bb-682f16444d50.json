@@ -1,0 +1,2648 @@
+{
+  "document": {
+    "id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 104-2024",
+    "year": "2024",
+    "title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+    "label": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+    "committee": "CCFL",
+    "last_modified": "2024",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B104-2024%252FCXG_104e.pdf",
+    "processes": [
+      "Labelling and Consumer Information"
+    ]
+  },
+  "commodities": [
+    {
+      "name": "pre-packaged foods",
+      "terms": [
+        "pre-packaged food",
+        "pre-packaged food offered for sale in e-commerce",
+        "small unit pre-packaged food"
+      ],
+      "sources": {
+        "documents_info": true,
+        "commodities_index": true
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "PURPOSE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "PURPOSE"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 1, p. 2",
+      "text": "The purpose of these guidelines is to ensure consumers buying pre-packaged foods via e-commerce have the information needed to make informed choices, similar to the information they would find on the physical label of the food.",
+      "retrieval_text": "PURPOSE\nnumber=1\nlevel=1\nThe purpose of these guidelines is to ensure consumers buying pre-packaged foods via e-commerce have the information needed to make informed choices, similar to the information they would find on the physical label of the food.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "The purpose of these guidelines is to ensure consumers buying pre-packaged foods via e-commerce have the information needed to make informed choices, similar to the information they would find on the physical label of the food."
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PURPOSE",
+        "process_candidates": [
+          "PURPOSE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "1 - PURPOSE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "PURPOSE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PURPOSE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 1, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PURPOSE",
+        "process_candidates": [
+          "PURPOSE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "1 - PURPOSE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "PURPOSE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PURPOSE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 1, p. 2"
+      }
+    },
+    {
+      "id": "2",
+      "key": "num::2",
+      "raw_id": "num::2",
+      "number": "2",
+      "title": "SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "SCOPE"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2, p. 2",
+      "text": "",
+      "retrieval_text": "SCOPE\nnumber=2\nlevel=1",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "2 - SCOPE",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "SCOPE",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "2 - SCOPE",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "SCOPE",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2, p. 2"
+      }
+    },
+    {
+      "id": "3",
+      "key": "num::3",
+      "raw_id": "num::3",
+      "number": "3",
+      "title": "DEFINITIONS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "DEFINITIONS"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2",
+      "text": "The following terms shall be used in conjunction with Section  2 of the General standard for labelling of pre-packaged foods for the purposes of this guideline.  At the point of delivery means the moment when consumers receive pre-packaged food.  E-commerce means the production, distribution, marketing, sale or delivery of goods and services by electronic means as applicable to foods. Food information means the information that is the subject of a Codex text about a pre-packaged food.  Prior to the point of e-commerce sale means provided before consumers commit to ordering and purchasing the food.  Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale.",
+      "retrieval_text": "DEFINITIONS\nnumber=3\nlevel=1\nThe following terms shall be used in conjunction with Section  2 of the General standard for labelling of pre-packaged foods for the purposes of this guideline.  At the point of delivery means the moment when consumers receive pre-packaged food.  E-commerce means the production, distribution, marketing, sale or delivery of goods and services by electronic means as applicable to foods. Food information means the information that is the subject of a Codex text about a pre-packaged food.  Prior to the point of e-commerce sale means provided before consumers commit to ordering and purchasing the food.  Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "The following terms shall be used in conjunction with Section  2 of the General standard for labelling of pre-packaged foods for the purposes of this guideline.  At the point of delivery means the moment when consumers receive pre-packaged food.  E-commerce means the production, distribution, marketing, sale or delivery of goods and services by electronic means as applicable to foods. Food information means the information that is the subject of a Codex text about a pre-packaged food.  Prior to the point of e-commerce sale means provided before consumers commit to ordering and purchasing the food.  Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale."
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DEFINITIONS",
+        "process_candidates": [
+          "DEFINITIONS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "3 - DEFINITIONS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "DEFINITIONS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "DEFINITIONS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DEFINITIONS",
+        "process_candidates": [
+          "DEFINITIONS",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "3 - DEFINITIONS",
+        "section_id": "3",
+        "section_number": "3",
+        "section_title": "DEFINITIONS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "DEFINITIONS"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+      }
+    },
+    {
+      "id": "4",
+      "key": "num::4",
+      "raw_id": "num::4",
+      "number": "4",
+      "title": "GENERAL PRINCIPLES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "4"
+      ],
+      "path_titles": [
+        "GENERAL PRINCIPLES"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 4, p. 2",
+      "text": "The general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information shown on the product information e-page of the pre-packaged food that is being offered for sale.",
+      "retrieval_text": "GENERAL PRINCIPLES\nnumber=4\nlevel=1\nThe general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information shown on the product information e-page of the pre-packaged food that is being offered for sale.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "The general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information shown on the product information e-page of the pre-packaged food that is being offered for sale."
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL PRINCIPLES",
+        "process_candidates": [
+          "GENERAL PRINCIPLES",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "4 - GENERAL PRINCIPLES",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "GENERAL PRINCIPLES",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "GENERAL PRINCIPLES"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 4, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL PRINCIPLES",
+        "process_candidates": [
+          "GENERAL PRINCIPLES",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "4 - GENERAL PRINCIPLES",
+        "section_id": "4",
+        "section_number": "4",
+        "section_title": "GENERAL PRINCIPLES",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "GENERAL PRINCIPLES"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 4, p. 2"
+      }
+    },
+    {
+      "id": "5",
+      "key": "num::5",
+      "raw_id": "num::5",
+      "number": "5",
+      "title": "FOOD INFORMATION PRINCIPLES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "5"
+      ],
+      "path_titles": [
+        "FOOD INFORMATION PRINCIPLES"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2",
+      "text": "The food information required to be provided on the label of a pre -packaged food or in associated labelling, shall be provided on the product information e-page of the pre-packaged food prior to the point of e-commerce sale, except to the extent otherwise expressly provided in these guidelines, or any other Codex text. This includes the following food information indicated in: Section 4 and Section  5 of the General standard for the labelling of pre -packaged foods except information required by 4.6 and 4.7.1.; Section 3 of the Guidelines on nutrition labelling (CXG 2-1985); and any other relevant Codex text. A statement shall appear on the product information e-page prior to the point of e-commerce sale to direct the consumer to check the food information on the physical label before consumption. The labelling exemption of small units as outlined in Section  6 of the General standard for labelling of pre -packaged foods does not apply unless allowed in specific circumstances by competent authorities. The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information.",
+      "retrieval_text": "FOOD INFORMATION PRINCIPLES\nnumber=5\nlevel=1\nThe food information required to be provided on the label of a pre -packaged food or in associated labelling, shall be provided on the product information e-page of the pre-packaged food prior to the point of e-commerce sale, except to the extent otherwise expressly provided in these guidelines, or any other Codex text. This includes the following food information indicated in: Section 4 and Section  5 of the General standard for the labelling of pre -packaged foods except information required by 4.6 and 4.7.1.; Section 3 of the Guidelines on nutrition labelling (CXG 2-1985); and any other relevant Codex text. A statement shall appear on the product information e-page prior to the point of e-commerce sale to direct the consumer to check the food information on the physical label before consumption. The labelling exemption of small units as outlined in Section  6 of the General standard for labelling of pre -packaged foods does not apply unless allowed in specific circumstances by competent authorities. The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "The food information required to be provided on the label of a pre -packaged food or in associated labelling, shall be provided on the product information e-page of the pre-packaged food prior to the point of e-commerce sale, except to the extent otherwise expressly provided in these guidelines, or any other Codex text. This includes the following food information indicated in: Section 4 and Section  5 of the General standard for the labelling of pre -packaged foods except information required by 4.6 and 4.7.1.; Section 3 of the Guidelines on nutrition labelling (CXG 2-1985); and any other relevant Codex text. A statement shall appear on the product information e-page prior to the point of e-commerce sale to direct the consumer to check the food information on the physical label before consumption. The labelling exemption of small units as outlined in Section  6 of the General standard for labelling of pre -packaged foods does not apply unless allowed in specific circumstances by competent authorities. The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information."
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD INFORMATION PRINCIPLES",
+        "process_candidates": [
+          "FOOD INFORMATION PRINCIPLES",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "5 - FOOD INFORMATION PRINCIPLES",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "FOOD INFORMATION PRINCIPLES",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "FOOD INFORMATION PRINCIPLES"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD INFORMATION PRINCIPLES",
+        "process_candidates": [
+          "FOOD INFORMATION PRINCIPLES",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "5 - FOOD INFORMATION PRINCIPLES",
+        "section_id": "5",
+        "section_number": "5",
+        "section_title": "FOOD INFORMATION PRINCIPLES",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "FOOD INFORMATION PRINCIPLES"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+      }
+    },
+    {
+      "id": "6",
+      "key": "num::6",
+      "raw_id": "num::6",
+      "number": "6",
+      "title": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "6"
+      ],
+      "path_titles": [
+        "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 6, p. 2",
+      "text": "Section 7 of the General standard for labelling of pre-packaged foods is applicable to food information shown to consumers on the product information e-page for the pre-packaged food that is being offered for sale. A statement may be provided on the product information e-page prior to the point of e-commerce sale to inform the consumer about the relation between the best before, best quality before, use-by, or expiration date and the product shipping date or at the point of delivery.",
+      "retrieval_text": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE\nnumber=6\nlevel=1\nSection 7 of the General standard for labelling of pre-packaged foods is applicable to food information shown to consumers on the product information e-page for the pre-packaged food that is being offered for sale. A statement may be provided on the product information e-page prior to the point of e-commerce sale to inform the consumer about the relation between the best before, best quality before, use-by, or expiration date and the product shipping date or at the point of delivery.",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "Section 7 of the General standard for labelling of pre-packaged foods is applicable to food information shown to consumers on the product information e-page for the pre-packaged food that is being offered for sale. A statement may be provided on the product information e-page prior to the point of e-commerce sale to inform the consumer about the relation between the best before, best quality before, use-by, or expiration date and the product shipping date or at the point of delivery."
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+        "process_candidates": [
+          "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "6 - OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+        "section_id": "6",
+        "section_number": "6",
+        "section_title": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 6, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+        "process_candidates": [
+          "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "6 - OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+        "section_id": "6",
+        "section_number": "6",
+        "section_title": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 6, p. 2"
+      }
+    },
+    {
+      "id": "2.1",
+      "key": "num::2.1",
+      "raw_id": "num::2.1",
+      "number": "2.1",
+      "title": "These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof.",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "SCOPE",
+      "path": [
+        "2",
+        "2.1"
+      ],
+      "path_titles": [
+        "SCOPE",
+        "These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof."
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2.1, p. 2",
+      "text": "",
+      "retrieval_text": "SCOPE > These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof.\nnumber=2.1\nlevel=2",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THESE GUIDELINES APPLY TO THE FOOD INFORMATION REQUIRED, OR PROVIDED VOLUNTARILY, THAT IS DISPLAYED ON THE PRODUCT INFORMATION E-PAGE FOR PRE-PACKAGED FOODS OFFERED FOR SALE VIA E-COMMERCE, AND TO CERTAIN ASPECTS RELATING TO THE PRESENTATION THEREOF.",
+        "process_candidates": [
+          "These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof.",
+          "SCOPE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "2.1 - These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof.",
+        "section_id": "2.1",
+        "section_number": "2.1",
+        "section_title": "These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof.",
+        "section_path": [
+          "2",
+          "2.1"
+        ],
+        "section_path_titles": [
+          "SCOPE",
+          "These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof."
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2.1, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THESE GUIDELINES APPLY TO THE FOOD INFORMATION REQUIRED, OR PROVIDED VOLUNTARILY, THAT IS DISPLAYED ON THE PRODUCT INFORMATION E-PAGE FOR PRE-PACKAGED FOODS OFFERED FOR SALE VIA E-COMMERCE, AND TO CERTAIN ASPECTS RELATING TO THE PRESENTATION THEREOF.",
+        "process_candidates": [
+          "These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof.",
+          "SCOPE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "2.1 - These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof.",
+        "section_id": "2.1",
+        "section_number": "2.1",
+        "section_title": "These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof.",
+        "section_path": [
+          "2",
+          "2.1"
+        ],
+        "section_path_titles": [
+          "SCOPE",
+          "These guidelines apply to the food information required, or provided voluntarily, that is displayed on the product information e-page for pre-packaged foods offered for sale via e-commerce, and to certain aspects relating to the presentation thereof."
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2.1, p. 2"
+      }
+    },
+    {
+      "id": "2.2",
+      "key": "num::2.2",
+      "raw_id": "num::2.2",
+      "number": "2.2",
+      "title": "They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "SCOPE",
+      "path": [
+        "2",
+        "2.2"
+      ],
+      "path_titles": [
+        "SCOPE",
+        "They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2.2, p. 2",
+      "text": "",
+      "retrieval_text": "SCOPE > They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1\nnumber=2.2\nlevel=2",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THEY DO NOT APPLY TO INFORMATION THAT IS REQUIRED ON THE LABEL OF PRE-PACKAGED FOODS AT THE POINT OF DELIVERY AS SET OUT IN THE GENERAL STANDARD FOR LABELLING OF PRE-PACKAGED FOODS (CXS 1-1985).1",
+        "process_candidates": [
+          "They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1",
+          "SCOPE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "2.2 - They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1",
+        "section_id": "2.2",
+        "section_number": "2.2",
+        "section_title": "They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1",
+        "section_path": [
+          "2",
+          "2.2"
+        ],
+        "section_path_titles": [
+          "SCOPE",
+          "They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2.2, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THEY DO NOT APPLY TO INFORMATION THAT IS REQUIRED ON THE LABEL OF PRE-PACKAGED FOODS AT THE POINT OF DELIVERY AS SET OUT IN THE GENERAL STANDARD FOR LABELLING OF PRE-PACKAGED FOODS (CXS 1-1985).1",
+        "process_candidates": [
+          "They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1",
+          "SCOPE",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "2.2 - They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1",
+        "section_id": "2.2",
+        "section_number": "2.2",
+        "section_title": "They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1",
+        "section_path": [
+          "2",
+          "2.2"
+        ],
+        "section_path_titles": [
+          "SCOPE",
+          "They do not apply to information that is required on the label of pre-packaged foods at the point of delivery as set out in the General standard for labelling of pre-packaged foods (CXS 1-1985).1"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 2.2, p. 2"
+      }
+    },
+    {
+      "id": "7",
+      "key": "num::7",
+      "raw_id": "num::7",
+      "number": "7",
+      "title": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "7"
+      ],
+      "path_titles": [
+        "PRESENTATION OF MANDATORY FOOD INFORMATION"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 7, p. 3",
+      "text": "Food information required by these guideliens shall be clear, prominent, and readily legible by the consumer under normal settings and conditions of use for a product information e-page. The language or languages on a product information e-page shall be suitable to the consumer in the country in which the food is marketed and to which it may be delivered.",
+      "retrieval_text": "PRESENTATION OF MANDATORY FOOD INFORMATION\nnumber=7\nlevel=1\nFood information required by these guideliens shall be clear, prominent, and readily legible by the consumer under normal settings and conditions of use for a product information e-page. The language or languages on a product information e-page shall be suitable to the consumer in the country in which the food is marketed and to which it may be delivered.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Food information required by these guideliens shall be clear, prominent, and readily legible by the consumer under normal settings and conditions of use for a product information e-page. The language or languages on a product information e-page shall be suitable to the consumer in the country in which the food is marketed and to which it may be delivered."
+        }
+      ],
+      "rag": {
+        "rag_id": 281,
+        "order": 8
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+        "process_candidates": [
+          "PRESENTATION OF MANDATORY FOOD INFORMATION",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "7 - PRESENTATION OF MANDATORY FOOD INFORMATION",
+        "section_id": "7",
+        "section_number": "7",
+        "section_title": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "PRESENTATION OF MANDATORY FOOD INFORMATION"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 7, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+        "process_candidates": [
+          "PRESENTATION OF MANDATORY FOOD INFORMATION",
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "7 - PRESENTATION OF MANDATORY FOOD INFORMATION",
+        "section_id": "7",
+        "section_number": "7",
+        "section_title": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "PRESENTATION OF MANDATORY FOOD INFORMATION"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 7, p. 3"
+      }
+    },
+    {
+      "id": "281",
+      "key": "281",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "The purpose of these guidelines is to ensure consumers buying pre-packaged foods via e-commerce have the information needed to make informed choices, similar to the information they would find on the physical label of the food.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "This sentence relates to regulatory guidance on consumer information.",
+            "stage": "light_prefilter",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The purpose of these guidelines is to ensure consumers buying pre-packaged foods via e-commerce have the information needed to make informed choices, similar to the information they would find on the physical label of the food.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Purpose Statement",
+            "modality": "undefined",
+            "function": "Statement of purpose",
+            "pattern": "Declarative sentence stating purpose using 'The purpose is to...'",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "purpose": "ensure consumers buying pre-packaged foods via e-commerce have the information needed to make informed choices",
+              "comparison": "similar to the information they would find on the physical label of the food"
+            },
+            "justification": "This is a declarative sentence stating the general purpose of the guidelines, not a normative prescription.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PURPOSE STATEMENT",
+            "subject_candidates": [
+              "PURPOSE STATEMENT",
+              "PRE-PACKAGED FOODS",
+              "PURPOSE"
+            ],
+            "process": "PURPOSE",
+            "process_candidates": [
+              "PURPOSE",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "1 - PURPOSE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "PURPOSE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PURPOSE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 1, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PURPOSE STATEMENT",
+            "subject_candidates": [
+              "PURPOSE STATEMENT",
+              "PRE-PACKAGED FOODS",
+              "PURPOSE"
+            ],
+            "process": "PURPOSE",
+            "process_candidates": [
+              "PURPOSE",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "1 - PURPOSE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "PURPOSE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PURPOSE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 1, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "The following terms shall be used in conjunction with Section  2 of the General standard for labelling of pre-packaged foods for the purposes of this guideline.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Relates to regulations about online product information.",
+            "stage": "light_prefilter",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Terminology definition",
+            "pattern": "Complex declarative defining term with relative clause",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "Product information e-page",
+              "definition": "the virtual space on any consumer-facing transactional electronic platform, which is intended to facilitate informed e-commerce sale"
+            },
+            "justification": "Terminology definition without normative content.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "At the point of delivery means the moment when consumers receive pre-packaged food.  E-commerce means the production, distribution, marketing, sale or delivery of goods and services by electronic means as applicable to foods.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Relates to regulations about online product information.",
+            "stage": "light_prefilter",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Terminology definition",
+            "pattern": "Complex declarative defining term with relative clause",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "Product information e-page",
+              "definition": "the virtual space on any consumer-facing transactional electronic platform, which is intended to facilitate informed e-commerce sale"
+            },
+            "justification": "Terminology definition without normative content.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "Food information means the information that is the subject of a Codex text about a pre-packaged food.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Relates to regulations about online product information.",
+            "stage": "light_prefilter",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Terminology definition",
+            "pattern": "Complex declarative defining term with relative clause",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "Product information e-page",
+              "definition": "the virtual space on any consumer-facing transactional electronic platform, which is intended to facilitate informed e-commerce sale"
+            },
+            "justification": "Terminology definition without normative content.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "Prior to the point of e-commerce sale means provided before consumers commit to ordering and purchasing the food.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Relates to regulations about online product information.",
+            "stage": "light_prefilter",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Terminology definition",
+            "pattern": "Complex declarative defining term with relative clause",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "Product information e-page",
+              "definition": "the virtual space on any consumer-facing transactional electronic platform, which is intended to facilitate informed e-commerce sale"
+            },
+            "justification": "Terminology definition without normative content.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 2,
+          "original": "Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Relates to regulations about online product information.",
+            "stage": "light_prefilter",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Product information e -page means the virtual space on any consumer -facing transactional electronic platform, which is intended to facilitate informed e-commerce sale.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Terminology definition",
+            "pattern": "Complex declarative defining term with relative clause",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "term": "Product information e-page",
+              "definition": "the virtual space on any consumer-facing transactional electronic platform, which is intended to facilitate informed e-commerce sale"
+            },
+            "justification": "Terminology definition without normative content.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PRODUCT INFORMATION E-PAGE",
+            "subject_candidates": [
+              "PRODUCT INFORMATION E-PAGE",
+              "DEFINITION",
+              "PRE-PACKAGED FOODS",
+              "DEFINITIONS"
+            ],
+            "process": "DEFINITIONS",
+            "process_candidates": [
+              "DEFINITIONS",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "3 - DEFINITIONS",
+            "section_id": "3",
+            "section_number": "3",
+            "section_title": "DEFINITIONS",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "DEFINITIONS"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 3, p. 2"
+          }
+        },
+        {
+          "order": 3,
+          "original": "The general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information shown on the product information e-page of the pre-packaged food that is being offered for sale.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "References regulatory standards for labelling.",
+            "stage": "light_prefilter",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The general principles in Section  3 of the General standard for the labelling of pre -packaged foods  are applicable to food information shown on the product information e-page of the pre-packaged food that is being offered for sale.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Normative Reference",
+            "modality": "Obligation",
+            "function": "Mandate applicability of standards",
+            "pattern": "Declarative statement referring to obligatory application of principles",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "reference": "Section 3 of the General standard for the labelling of pre-packaged foods",
+              "application": "food information shown on the product information e-page of the pre-packaged food offered for sale"
+            },
+            "justification": "Although no modal verbs, the phrasing 'are applicable' implies a normative requirement to apply principles from a referenced standard.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "NORMATIVE REFERENCE",
+            "subject_candidates": [
+              "NORMATIVE REFERENCE",
+              "PRE-PACKAGED FOODS",
+              "GENERAL PRINCIPLES"
+            ],
+            "process": "GENERAL PRINCIPLES",
+            "process_candidates": [
+              "GENERAL PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "4 - GENERAL PRINCIPLES",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "GENERAL PRINCIPLES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "GENERAL PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 4, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "NORMATIVE REFERENCE",
+            "subject_candidates": [
+              "NORMATIVE REFERENCE",
+              "PRE-PACKAGED FOODS",
+              "GENERAL PRINCIPLES"
+            ],
+            "process": "GENERAL PRINCIPLES",
+            "process_candidates": [
+              "GENERAL PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "4 - GENERAL PRINCIPLES",
+            "section_id": "4",
+            "section_number": "4",
+            "section_title": "GENERAL PRINCIPLES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "GENERAL PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 4, p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "The food information required to be provided on the label of a pre -packaged food or in associated labelling, shall be provided on the product information e-page of the pre-packaged food prior to the point of e-commerce sale, except to the extent otherwise expressly provided in these guidelines, or any other Codex text.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement to provide free access to information",
+            "pattern": "Declarative with 'shall be provided' obligation and condition of free access",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "requirement": "food information on pre-packaged foods offered in e-commerce shall be provided",
+              "condition": "without a charge to access the information"
+            },
+            "justification": "Mandates provision of information free of charge using explicit obligation modality.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "This includes the following food information indicated in: Section 4 and Section  5 of the General standard for the labelling of pre -packaged foods except information required by 4.6 and 4.7.1.; Section 3 of the Guidelines on nutrition labelling (CXG 2-1985); and any other relevant Codex text.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement to provide free access to information",
+            "pattern": "Declarative with 'shall be provided' obligation and condition of free access",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "requirement": "food information on pre-packaged foods offered in e-commerce shall be provided",
+              "condition": "without a charge to access the information"
+            },
+            "justification": "Mandates provision of information free of charge using explicit obligation modality.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "A statement shall appear on the product information e-page prior to the point of e-commerce sale to direct the consumer to check the food information on the physical label before consumption.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement to provide free access to information",
+            "pattern": "Declarative with 'shall be provided' obligation and condition of free access",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "requirement": "food information on pre-packaged foods offered in e-commerce shall be provided",
+              "condition": "without a charge to access the information"
+            },
+            "justification": "Mandates provision of information free of charge using explicit obligation modality.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "The labelling exemption of small units as outlined in Section  6 of the General standard for labelling of pre -packaged foods does not apply unless allowed in specific circumstances by competent authorities.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement to provide free access to information",
+            "pattern": "Declarative with 'shall be provided' obligation and condition of free access",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "requirement": "food information on pre-packaged foods offered in e-commerce shall be provided",
+              "condition": "without a charge to access the information"
+            },
+            "justification": "Mandates provision of information free of charge using explicit obligation modality.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 4,
+          "original": "The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The food information about the pre-packaged foods offered for sale in e -commerce shall be provided to the consumer without a charge to access the information.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement to provide free access to information",
+            "pattern": "Declarative with 'shall be provided' obligation and condition of free access",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "requirement": "food information on pre-packaged foods offered in e-commerce shall be provided",
+              "condition": "without a charge to access the information"
+            },
+            "justification": "Mandates provision of information free of charge using explicit obligation modality.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "process": "FOOD INFORMATION PRINCIPLES",
+            "process_candidates": [
+              "FOOD INFORMATION PRINCIPLES",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "5 - FOOD INFORMATION PRINCIPLES",
+            "section_id": "5",
+            "section_number": "5",
+            "section_title": "FOOD INFORMATION PRINCIPLES",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "FOOD INFORMATION PRINCIPLES"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 5, p. 2"
+          }
+        },
+        {
+          "order": 5,
+          "original": "Section 7 of the General standard for labelling of pre-packaged foods is applicable to food information shown to consumers on the product information e-page for the pre-packaged food that is being offered for sale.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "A statement may be provided on the product information e-page prior to the point of e-commerce sale to inform the consumer about the relation between the best before, best quality before, use-by, or expiration date and the product shipping date or at the point of delivery.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Permission",
+            "modality": "Permission",
+            "function": "Optional provision of informational statement",
+            "pattern": "Declarative with modal 'may' indicating permission or option to provide a statement",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "option": "statement may be provided on product information e-page before point of e-commerce sale",
+              "purpose": "to inform consumer about relation between date markings and shipping date or delivery point"
+            },
+            "justification": "Expresses permission or allowance to provide a statement; no template match found.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "PRE-PACKAGED FOODS",
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+            ],
+            "process": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "process_candidates": [
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "6 - OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 6, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "PRE-PACKAGED FOODS",
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+            ],
+            "process": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "process_candidates": [
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "6 - OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 6, p. 2"
+          }
+        },
+        {
+          "order": 5,
+          "original": "A statement may be provided on the product information e-page prior to the point of e-commerce sale to inform the consumer about the relation between the best before, best quality before, use-by, or expiration date and the product shipping date or at the point of delivery.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "A statement may be provided on the product information e-page prior to the point of e-commerce sale to inform the consumer about the relation between the best before, best quality before, use-by, or expiration date and the product shipping date or at the point of delivery.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Permission",
+            "modality": "Permission",
+            "function": "Optional provision of informational statement",
+            "pattern": "Declarative with modal 'may' indicating permission or option to provide a statement",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "option": "statement may be provided on product information e-page before point of e-commerce sale",
+              "purpose": "to inform consumer about relation between date markings and shipping date or delivery point"
+            },
+            "justification": "Expresses permission or allowance to provide a statement; no template match found.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "PRE-PACKAGED FOODS",
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+            ],
+            "process": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "process_candidates": [
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "6 - OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 6, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "PRE-PACKAGED FOODS",
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+            ],
+            "process": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "process_candidates": [
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "6 - OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "section_id": "6",
+            "section_number": "6",
+            "section_title": "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "OPTIONAL INFORMATION PRIOR TO THE POINT OF E-COMMERCE SALE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 6, p. 2"
+          }
+        },
+        {
+          "order": 8,
+          "original": "Food information required by these guideliens shall be clear, prominent, and readily legible by the consumer under normal settings and conditions of use for a product information e-page.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The language or languages on a product information e-page shall be suitable to the consumer in the country in which the food is marketed and to which it may be delivered.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement on suitability of language",
+            "pattern": "Declarative with 'shall be' obligation regarding language suitability",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "requirement": "language(s) on product information e-page shall be suitable to the consumer",
+              "context": "in the country where the food is marketed and may be delivered"
+            },
+            "justification": "Obligation clearly indicated by 'shall be' on the suitability of language.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "PRESENTATION OF MANDATORY FOOD INFORMATION"
+            ],
+            "process": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "process_candidates": [
+              "PRESENTATION OF MANDATORY FOOD INFORMATION",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "7 - PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRESENTATION OF MANDATORY FOOD INFORMATION"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 7, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "PRESENTATION OF MANDATORY FOOD INFORMATION"
+            ],
+            "process": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "process_candidates": [
+              "PRESENTATION OF MANDATORY FOOD INFORMATION",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "7 - PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRESENTATION OF MANDATORY FOOD INFORMATION"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 7, p. 3"
+          }
+        },
+        {
+          "order": 8,
+          "original": "The language or languages on a product information e-page shall be suitable to the consumer in the country in which the food is marketed and to which it may be delivered.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The language or languages on a product information e-page shall be suitable to the consumer in the country in which the food is marketed and to which it may be delivered.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Requirement on suitability of language",
+            "pattern": "Declarative with 'shall be' obligation regarding language suitability",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "requirement": "language(s) on product information e-page shall be suitable to the consumer",
+              "context": "in the country where the food is marketed and may be delivered"
+            },
+            "justification": "Obligation clearly indicated by 'shall be' on the suitability of language.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "PRESENTATION OF MANDATORY FOOD INFORMATION"
+            ],
+            "process": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "process_candidates": [
+              "PRESENTATION OF MANDATORY FOOD INFORMATION",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "7 - PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRESENTATION OF MANDATORY FOOD INFORMATION"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 7, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "PRE-PACKAGED FOODS",
+              "PRESENTATION OF MANDATORY FOOD INFORMATION"
+            ],
+            "process": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "process_candidates": [
+              "PRESENTATION OF MANDATORY FOOD INFORMATION",
+              "Labelling and Consumer Information"
+            ],
+            "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+            "document_reference": "CXG 104-2024",
+            "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+            "document_type": "Guidelines",
+            "section": "7 - PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "section_id": "7",
+            "section_number": "7",
+            "section_title": "PRESENTATION OF MANDATORY FOOD INFORMATION",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "PRESENTATION OF MANDATORY FOOD INFORMATION"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "a850196d-b71b-4a4e-89bb-682f16444d50, Section 7, p. 3"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "281",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Labelling and Consumer Information"
+        ],
+        "document": "CXG 104-2024 - Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_id": "a850196d-b71b-4a4e-89bb-682f16444d50",
+        "document_reference": "CXG 104-2024",
+        "document_title": "Guidelines on the provision of food information for pre-packaged foods to be offered via e-commerce",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "281",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CXG 104-2024",
+      "title": "GUIDELINES ON THE PROVISION OF FOOD INFORMATION FOR PRE-PACKAGED FOODS TO BE OFFERED VIA E-COMMERCE",
+      "summary": "Página com título principal do documento e cabeçalho de código, sem seções ou texto estruturado adicional nesta página.",
+      "total_sections": 0,
+      "sections": []
+    },
+    {
+      "page": 2,
+      "header": "CXG 104-2024  2",
+      "title": null,
+      "summary": "Seis seções principais numeradas (1 a 6), com subseções 2.1 e 2.2 sob SCOPE. Texto associado corretamente a cada título. Seções de escopo 2.1 e 2.2 parecem continuar além da página atual.",
+      "total_sections": 6,
+      "sections": [
+        "item-1",
+        "item-2",
+        "item-2.1",
+        "item-2.2",
+        "item-3",
+        "item-4",
+        "item-5",
+        "item-6"
+      ]
+    },
+    {
+      "page": 3,
+      "header": "CXG 104-2024  3",
+      "title": null,
+      "summary": "Esta página contém a seção 7 como nível 1, com texto explicativo associado. Não há subdivisões nesta página. Nenhuma continuação de página anterior ou para a próxima foi detectada.",
+      "total_sections": 1,
+      "sections": [
+        "7"
+      ]
+    }
+  ]
+}

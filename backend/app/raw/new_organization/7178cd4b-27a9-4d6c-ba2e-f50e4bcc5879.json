@@ -1,0 +1,1888 @@
+{
+  "document": {
+    "id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+    "type": "CODEX",
+    "document_type": "Standards",
+    "reference": "CXS 239-2003",
+    "year": "2003",
+    "title": "General Methods of Analysis for Food Additives",
+    "label": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+    "committee": "CCMAS",
+    "last_modified": "2004",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXS%2B239-2003%252FCXS_239e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "Food Processing and Production"
+    ]
+  },
+  "commodities": [
+    {
+      "name": "food additives",
+      "terms": [
+        "acesulfame k",
+        "aspartame",
+        "cyclamate",
+        "saccharin",
+        "nitrates and/or nitrites",
+        "sulphites",
+        "food additive",
+        "food processing aid",
+        "mixture of flavourings",
+        "flavouring",
+        "apple flavouring",
+        "natural flavouring",
+        "synthetic flavouring",
+        "irradiated food additive",
+        "additive",
+        "curcumin",
+        "turmeric",
+        "riboflavin",
+        "riboflavin 5'-phosphate sodium",
+        "riboflavin from bacillus subtilis",
+        "riboflavin from ashbya gossypii",
+        "tartrazine",
+        "alkanet",
+        "quinoline yellow",
+        "carthamus yellow",
+        "yellow 2g",
+        "sunset yellow fcf",
+        "carmines",
+        "citrus red no. 2",
+        "azorubine",
+        "amaranth",
+        "ponceau 4r",
+        "ponceau sx",
+        "erythrosine",
+        "allura red ac",
+        "manascorubin",
+        "patent blue v",
+        "indigotine",
+        "brilliant blue fcf",
+        "spirulina extract",
+        "chlorophyll",
+        "chlorophyll and chlorophyllin copper complexes",
+        "green s",
+        "fast green fcf",
+        "caramel",
+        "caramel i – plain caramel",
+        "caramel ii – sulphite caramel",
+        "caramel iii – ammonia caramel",
+        "caramel iv – sulphite ammonia caramel",
+        "brilliant black",
+        "carbon black",
+        "vegetable carbon",
+        "brown fk",
+        "brown ht",
+        "carotene",
+        "beta-carotene synthetic",
+        "beta-carotene vegetable",
+        "beta-carotene blakeslea trispora",
+        "beta-carotene-rich extract from dunaliella salina",
+        "annatto extract bixin-based",
+        "annatto extract norbixin-based",
+        "paprika oleoresin",
+        "paprika extract",
+        "lycopene",
+        "lycopene synthetic",
+        "lycopene tomato",
+        "lycopene blakeslea trispora",
+        "beta-apo-8'-carotenal",
+        "beta-apo-8'-carotenoic acid ethyl ester",
+        "flavoxanthin",
+        "lutein",
+        "lutein from tagetes erecta",
+        "tagetes extract",
+        "lutein esters from tagetes erecta",
+        "kryptoxanthin",
+        "rubixanthin",
+        "violoxanthin",
+        "rhodoxanthin",
+        "canthaxanthin",
+        "zeaxanthin",
+        "zeaxanthin synthetic",
+        "zeaxanthin-rich extract from tagetes erecta",
+        "beet red",
+        "anthocyanin",
+        "grape skin extract",
+        "blackcurrant extract",
+        "purple corn colour",
+        "red cabbage colour",
+        "black carrot extract",
+        "purple sweet potato colour",
+        "red radish colour",
+        "elderberry colour",
+        "hibiscus colour",
+        "butterfly pea flower extract",
+        "gardenia yellow",
+        "gardenia blue",
+        "sandalwood",
+        "calcium carbonate",
+        "titanium dioxide",
+        "iron oxide black",
+        "iron oxide red",
+        "iron oxide yellow",
+        "aluminium powder",
+        "silver",
+        "gold metallic",
+        "potassium aluminium silicate-based pearlescent pigments",
+        "lithol rubine bk",
+        "tannic acid",
+        "orchil",
+        "jagua blue",
+        "sorbic acid",
+        "sodium sorbate",
+        "potassium sorbate",
+        "calcium sorbate",
+        "benzoic acid",
+        "sodium benzoate",
+        "potassium benzoate",
+        "calcium benzoate",
+        "ethyl para-hydroxybenzoate",
+        "sodium ethyl para-hydroxybenzoate",
+        "propyl para-hydroxybenzoate",
+        "sodium propyl para-hydroxybenzoate",
+        "methyl para-hydroxybenzoate",
+        "sodium methyl para-hydroxybenzoate",
+        "sulphur dioxide",
+        "sodium sulphite",
+        "sodium hydrogen sulphite",
+        "sodium metabisulphite",
+        "potassium metabisulphite",
+        "potassium sulphite",
+        "calcium sulphite",
+        "calcium hydrogen sulphite",
+        "potassium bisulphite",
+        "diphenyl",
+        "ortho-phenylphenol",
+        "sodium ortho-phenylphenol",
+        "thiabendazole",
+        "nisin",
+        "natamycin",
+        "formic acid",
+        "sodium formate",
+        "calcium formate",
+        "hexamethylenetetramine",
+        "formaldehyde",
+        "gum guaiacum",
+        "dimethyl dicarbonate",
+        "lauric arginate ethyl ester",
+        "glycolipid",
+        "potassium nitrite",
+        "sodium nitrite",
+        "sodium nitrate",
+        "potassium nitrate",
+        "acetic acid",
+        "potassium acetate",
+        "potassium diacetate",
+        "sodium acetate",
+        "sodium diacetate",
+        "calcium acetate",
+        "ammonium acetate",
+        "dehydroacetic acid",
+        "sodium dehydroacetate",
+        "citric acid",
+        "sodium dihydrogen citrate",
+        "disodium monohydrogen citrate",
+        "trisodium citrate",
+        "potassium dihydrogen citrate",
+        "tripotassium citrate",
+        "monocalcium citrate",
+        "dicalcium citrate",
+        "tricalcium citrate",
+        "l-tartaric acid",
+        "sodium tartrate",
+        "monosodium tartrate",
+        "sodium l-tartrate",
+        "potassium tartrate",
+        "monopotassium tartrate",
+        "dipotassium tartrate",
+        "potassium sodium l-tartrate",
+        "phosphoric acid",
+        "sodium phosphate",
+        "sodium dihydrogen phosphate",
+        "disodium hydrogen phosphate",
+        "trisodium phosphate",
+        "potassium phosphate",
+        "potassium dihydrogen phosphate",
+        "dipotassium hydrogen phosphate",
+        "tripotassium phosphate",
+        "calcium dihydrogen phosphate",
+        "calcium hydrogen phosphate",
+        "tricalcium phosphate",
+        "ammonium phosphate",
+        "ammonium dihydrogen phosphate",
+        "diammonium hydrogen phosphate",
+        "magnesium dihydrogen phosphate",
+        "magnesium hydrogen phosphate",
+        "trimagnesium phosphate",
+        "lecithin citrate",
+        "magnesium citrate",
+        "ammonium malate",
+        "sodium hydrogen dl-malate",
+        "sodium dl-malate",
+        "potassium hydrogen malate",
+        "potassium malate",
+        "calcium hydrogen malate",
+        "calcium malate",
+        "metatartaric acid",
+        "calcium tartrate",
+        "adipic acid",
+        "sodium adipate",
+        "potassium adipate",
+        "ammonium adipate",
+        "succinic acid",
+        "monosodium succinate",
+        "disodium succinate",
+        "sodium fumarate",
+        "potassium fumarate",
+        "calcium fumarate",
+        "ammonium fumarate",
+        "1,4-heptonolactone",
+        "nicotinic acid",
+        "triammonium citrate",
+        "ferric ammonium citrate",
+        "calcium glycerophosphate",
+        "isopropyl citrate",
+        "calcium disodium edta",
+        "disodium edta",
+        "oxystearin",
+        "thiodipropionic acid",
+        "dilauryl thiodipropionate",
+        "distearyl thiodipropionate",
+        "phytic acid",
+        "rosemary extract",
+        "calcium lactobionate",
+        "alginic acid",
+        "sodium alginate",
+        "potassium alginate",
+        "ammonium alginate",
+        "calcium alginate",
+        "propylene glycol alginate",
+        "agar",
+        "carrageenan",
+        "processed eucheuma seaweed",
+        "baker’s yeast glycan",
+        "arabinogalactan",
+        "carob bean gum",
+        "oat gum",
+        "guar gum",
+        "tragacanth gum",
+        "gum arabic",
+        "xanthan gum",
+        "karaya gum",
+        "tara gum",
+        "gellan gum",
+        "low-acyl clarified gellan gum",
+        "gum ghatti",
+        "sorbitol",
+        "sorbitol syrup",
+        "mannitol",
+        "potassium carbonate",
+        "potassium hydrogen carbonate",
+        "ammonium carbonate",
+        "ammonium hydrogen carbonate",
+        "magnesium carbonate",
+        "magnesium hydroxide carbonate",
+        "ferrous carbonate",
+        "hydrochloric acid",
+        "potassium chloride",
+        "ammonium chloride",
+        "magnesium chloride",
+        "stannous chloride",
+        "silicon dioxide amorphous",
+        "calcium silicate",
+        "magnesium silicate synthetic",
+        "magnesium trisilicate",
+        "talc",
+        "sodium aluminium silicate",
+        "potassium aluminium silicate",
+        "calcium aluminium silicate",
+        "zinc silicate",
+        "bentonite",
+        "aluminium silicate",
+        "potassium silicate",
+        "fatty acids",
+        "d-gluconic acid",
+        "glucono delta-lactone",
+        "sodium gluconate",
+        "potassium gluconate",
+        "calcium gluconate",
+        "methylphenylpolysiloxane",
+        "beeswax",
+        "candelilla wax",
+        "carnauba wax",
+        "bleached shellac",
+        "mineral oil food grade",
+        "petroleum jelly",
+        "petroleum wax",
+        "microcrystalline wax",
+        "paraffin wax",
+        "mineral oil high viscosity",
+        "mineral oil medium viscosity",
+        "mineral oil medium and low viscosity class ii",
+        "mineral oil medium and low viscosity class iii",
+        "benzoin gum",
+        "hydrogenated poly-1-decenes",
+        "rice bran wax",
+        "spermaceti wax",
+        "wax esters",
+        "methyl esters of fatty acids",
+        "lanolin",
+        "glycerol methyl or pentaerithrytol esters of colophane",
+        "calcium iodate",
+        "potassium iodate",
+        "nitrogen oxides",
+        "nitrosyl chloride",
+        "l-cysteine and its hydrochlorides",
+        "l-cystine and its hydrochlorides",
+        "potassium persulphate",
+        "ammonium persulphate",
+        "chlorine",
+        "chlorine dioxide",
+        "azodicarbonamide",
+        "urea",
+        "benzoyl peroxide",
+        "acetone peroxide",
+        "calcium peroxide",
+        "dichlorodifluoromethane",
+        "nitrogen",
+        "nitrous oxide",
+        "butane",
+        "isobutane",
+        "propane",
+        "chloropentafluoroethane",
+        "octafluorocyclobutane",
+        "hydrogen",
+        "acesulfame potassium",
+        "cyclamic acid",
+        "calcium cyclamate",
+        "sodium cyclamate",
+        "isomalt",
+        "calcium saccharin",
+        "potassium saccharin",
+        "sodium saccharin",
+        "sucralose",
+        "alitame",
+        "thaumatin",
+        "glycyrrhizin",
+        "neohesperidine dihydrochalcone",
+        "steviol glycosides",
+        "steviol glycosides from stevia rebaudiana",
+        "steviol glycosides from fermentation",
+        "enzymatically produced steviol glycosides",
+        "glucosylated steviol glycosides",
+        "neotame",
+        "aspartame-acesulfame salt",
+        "d-tagatose",
+        "polyglycitol syrup",
+        "maltitol",
+        "maltitol syrup",
+        "lactitol",
+        "xylitol",
+        "erythritol",
+        "advantame",
+        "quillaia extract type 1",
+        "quillaia extract type 2",
+        "cholic acid",
+        "choline acetate",
+        "choline carbonate",
+        "choline chloride",
+        "choline citrate",
+        "choline tartrate",
+        "choline lactate",
+        "amylase",
+        "alpha-amylase from aspergillus oryzae",
+        "alpha-amylase from bacillus stearothermophilus",
+        "alpha-amylase from bacillus subtilis",
+        "alpha-amylase from bacillus megaterium expressed in bacillus subtilis",
+        "alpha-amylase from bacillus stearothermophilus expressed in bacillus subtilis",
+        "carbohydrase from bacillus licheniformis",
+        "protease",
+        "protease from aspergillus oryzae",
+        "papain",
+        "bromelain",
+        "ficin",
+        "protease from streptomyces fradiae",
+        "proteases from bacillus subtilis",
+        "glucose oxidase",
+        "invertase",
+        "lipase",
+        "lysozyme",
+        "polydextrose",
+        "polyvinylpyrrolidone",
+        "insoluble polyvinylpyrrolidone",
+        "polyvinyl alcohol",
+        "pullulan",
+        "basic methacrylate copolymer",
+        "neutral methacrylate copolymer",
+        "anionic methacrylate copolymer",
+        "polyvinylpyrrolidone-vinyl acetate copolymer",
+        "pva-peg graft copolymer",
+        "sodium polyacrylate",
+        "castor oil",
+        "cyclotetraglucose",
+        "cyclotetraglucose syrup",
+        "triethyl citrate",
+        "glycerol diacetate",
+        "triacetin",
+        "benzyl alcohol",
+        "propylene glycol",
+        "polyethylene glycol",
+        "calcium lignosulfonate 40-65",
+        "aluminium ammonium sulphate",
+        "aluminium potassium sulphate",
+        "aluminium sodium sulphate",
+        "aluminium sulphate",
+        "roasted starch dextrin",
+        "acid-treated starch",
+        "alkaline-treated starch",
+        "bleached starch",
+        "oxidized starch",
+        "enzyme-treated starch",
+        "monostarch phosphate",
+        "distarch phosphate",
+        "phosphated distarch phosphate",
+        "acetylated distarch phosphate",
+        "starch acetate",
+        "acetylated distarch adipate",
+        "hydroxypropyl starch",
+        "hydroxypropyl distarch phosphate",
+        "starch sodium octenyl succinate",
+        "acetylated oxidized starch",
+        "starch aluminium octenyl succinate",
+        "buffered vinegar",
+        "lactic acid",
+        "propionic acid",
+        "sodium propionate",
+        "calcium propionate",
+        "potassium propionate",
+        "carbon dioxide",
+        "dl-malic acid",
+        "fumaric acid",
+        "l-ascorbic acid",
+        "sodium ascorbate",
+        "calcium ascorbate",
+        "potassium ascorbate",
+        "ascorbyl palmitate",
+        "ascorbyl stearate",
+        "d-alpha-tocopherol",
+        "mixed tocopherol concentrate",
+        "dl-alpha-tocopherol",
+        "gamma-tocopherol synthetic",
+        "delta-tocopherol synthetic",
+        "propyl gallate",
+        "octyl gallate",
+        "dodecyl gallate",
+        "ethyl gallate",
+        "guaiac resin",
+        "butylated hydroxyanisole",
+        "butylated hydroxytoluene",
+        "anoxomer",
+        "ethoxyquin",
+        "sodium lactate",
+        "potassium lactate",
+        "calcium lactate",
+        "polyoxyethylene (40) stearate",
+        "polysorbate 20",
+        "polysorbate 80",
+        "polyoxyethylene (20) sorbitan monopalmitate",
+        "polysorbate 60",
+        "polyoxyethylene (20) sorbitan tristearate",
+        "tamarind seed polysaccharide",
+        "pectin",
+        "superglycerinated hydrogenated rapeseed oil",
+        "ammonium salts of phosphatidic acid",
+        "brominated vegetable oils",
+        "sucrose acetate isobutyrate",
+        "glycerol ester of gum rosin",
+        "glycerol ester of tall oil rosin",
+        "glycerol ester of wood rosin",
+        "succistearin",
+        "disodium diphosphate",
+        "trisodium diphosphate",
+        "tetrasodium diphosphate",
+        "dipotassium diphosphate",
+        "tetrapotassium diphosphate",
+        "dicalcium diphosphate",
+        "calcium dihydrogen diphosphate",
+        "dimagnesium diphosphate",
+        "magnesium dihydrogen diphosphate",
+        "pentasodium triphosphate",
+        "pentapotassium triphosphate",
+        "sodium potassium triphosphate",
+        "sodium polyphosphate",
+        "potassium polyphosphate",
+        "sodium calcium polyphosphate",
+        "calcium polyphosphate",
+        "ammonium polyphosphate",
+        "sodium potassium hexametaphosphate",
+        "ferric orthophosphate",
+        "ferric pyrophosphate",
+        "yeast mannoproteins",
+        "potassium polyaspartate",
+        "alpha-cyclodextrin",
+        "beta-cyclodextrin",
+        "gamma-cyclodextrin",
+        "sodium carboxymethyl cellulose",
+        "enzymatically hydrolysed sodium carboxymethyl cellulose",
+        "salts of myristic palmitic and stearic acids",
+        "salts of oleic acid",
+        "magnesium stearate",
+        "mono- and diglycerides of fatty acids",
+        "acetic and fatty acid esters of glycerol",
+        "lactic and fatty acid esters of glycerol",
+        "citric and fatty acid esters of glycerol",
+        "tartaric acid esters of mono- and diglycerides",
+        "diacetyltartaric and fatty acid esters of glycerol",
+        "succinylated monoglycerides",
+        "sucrose esters of fatty acids",
+        "sucrose oligoesters",
+        "sucroglycerides",
+        "polyglycerol esters of fatty acids",
+        "polyglycerol esters of interesterified ricinoleic acid",
+        "propylene glycol esters of fatty acids",
+        "lactylated fatty acid esters of glycerol and propylene glycol",
+        "thermally oxidized soybean oil with mono- and diglycerides",
+        "dioctyl sodium sulfosuccinate",
+        "sodium stearoyl lactylate",
+        "sodium oleyl lactylate",
+        "calcium stearoyl lactylate",
+        "calcium oleyl lactylate",
+        "stearyl tartrate",
+        "stearyl citrate",
+        "sodium stearoyl fumarate",
+        "calcium stearoyl fumarate",
+        "sodium lauryl sulphate",
+        "ethoxylated mono- and diglycerides",
+        "methyl glucoside coconut oil ester",
+        "sorbitan monostearate",
+        "sorbitan tristearate",
+        "sorbitan monolaurate",
+        "sorbitan monooleate",
+        "sorbitan monopalmitate",
+        "sorbitan trioleate",
+        "stigmasterol-rich plant sterols",
+        "sodium carbonate",
+        "sodium hydrogen carbonate",
+        "sodium sesquicarbonate",
+        "sulphuric acid",
+        "sodium sulphate",
+        "potassium sulphate",
+        "calcium sulphate",
+        "ammonium sulphate",
+        "magnesium sulphate",
+        "cupric sulphate",
+        "sodium hydroxide",
+        "potassium hydroxide",
+        "calcium hydroxide",
+        "ammonium hydroxide",
+        "magnesium hydroxide",
+        "ferrous gluconate",
+        "magnesium gluconate",
+        "ferrous lactate",
+        "4-hexylresorcinol",
+        "l-glutamic acid",
+        "monosodium glutamate",
+        "monopotassium glutamate",
+        "calcium diglutamate",
+        "monoammonium glutamate",
+        "magnesium diglutamate",
+        "5'-guanylic acid",
+        "disodium 5'-guanylate",
+        "dipotassium 5'-guanylate",
+        "calcium 5'-guanylate",
+        "5'-inosinic acid",
+        "disodium 5'-inosinate",
+        "potassium 5'-inosinate",
+        "calcium 5'-inosinate",
+        "calcium 5'-ribonucleotides",
+        "disodium 5'-ribonucleotides",
+        "maltol",
+        "ethyl maltol",
+        "sodium l-aspartate",
+        "dl-alanine",
+        "glycine",
+        "l-leucine",
+        "lysine hydrochloride",
+        "zinc acetate",
+        "polydimethylsiloxane",
+        "erythorbic acid",
+        "sodium erythorbate",
+        "potassium isoascorbate",
+        "calcium isoascorbate",
+        "tertiary butylhydroquinone",
+        "lecithin",
+        "oat lecithin",
+        "partially hydrolysed lecithin",
+        "hydroxylated lecithin",
+        "microcrystalline cellulose",
+        "powdered cellulose",
+        "methyl cellulose",
+        "ethyl cellulose",
+        "hydroxypropyl cellulose",
+        "hydroxypropyl methyl cellulose",
+        "methyl ethyl cellulose"
+      ],
+      "sources": {
+        "documents_info": true,
+        "commodities_index": true
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "path_titles::general methods of analysis for food additives::lvl1",
+      "key": "path_titles::general methods of analysis for food additives::lvl1",
+      "raw_id": "path_titles::general methods of analysis for food additives::lvl1",
+      "number": null,
+      "title": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES, p. 1",
+      "text": "Adopted in 2003.",
+      "retrieval_text": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES\nlevel=1\nAdopted in 2003.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Adopted in 2003."
+        }
+      ],
+      "rag": {
+        "rag_id": 195,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+        "process_candidates": [
+          "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+        "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+        "document_reference": "CXS 239-2003",
+        "document_title": "General Methods of Analysis for Food Additives",
+        "document_type": "Standards",
+        "section": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+        "section_id": "path_titles::general methods of analysis for food additives::lvl1",
+        "section_number": null,
+        "section_title": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+        "process_candidates": [
+          "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+        "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+        "document_reference": "CXS 239-2003",
+        "document_title": "General Methods of Analysis for Food Additives",
+        "document_type": "Standards",
+        "section": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+        "section_id": "path_titles::general methods of analysis for food additives::lvl1",
+        "section_number": null,
+        "section_title": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES, p. 1"
+      }
+    },
+    {
+      "id": "path_titles::product provision method principle type::lvl1",
+      "key": "path_titles::product provision method principle type::lvl1",
+      "raw_id": "path_titles::product provision method principle type::lvl1",
+      "number": null,
+      "title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2",
+      "text": "All foods Acesulfame K, Aspartame  EN 12856 : 1999-04 High performance liquid chromatography II\nAll foods Cyclamate EN 12857 : 1999-04 High performance liquid chromatography II\nAll foods Cyclamate NMKL 123  (1998) Spectrophotometry III\nAll foods  Saccharin EN 12856 : 1999-04 High performance liquid chromatography III\nAll Foods (see also meat products) Nitrates and/or Nitrites EN 12014-1:1997-04 Part 1- General considerations N/A\nIndividual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+      "retrieval_text": "PRODUCT PROVISION METHOD PRINCIPLE TYPE\nlevel=1\nAll foods Acesulfame K, Aspartame  EN 12856 : 1999-04 High performance liquid chromatography II\nAll foods Cyclamate EN 12857 : 1999-04 High performance liquid chromatography II\nAll foods Cyclamate NMKL 123  (1998) Spectrophotometry III\nAll foods  Saccharin EN 12856 : 1999-04 High performance liquid chromatography III\nAll Foods (see also meat products) Nitrates and/or Nitrites EN 12014-1:1997-04 Part 1- General considerations N/A\nIndividual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "All foods Acesulfame K, Aspartame  EN 12856 : 1999-04 High performance liquid chromatography II\nAll foods Cyclamate EN 12857 : 1999-04 High performance liquid chromatography II\nAll foods Cyclamate NMKL 123  (1998) Spectrophotometry III\nAll foods  Saccharin EN 12856 : 1999-04 High performance liquid chromatography III\nAll Foods (see also meat products) Nitrates and/or Nitrites EN 12014-1:1997-04 Part 1- General considerations N/A\nIndividual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer"
+        }
+      ],
+      "rag": {
+        "rag_id": 195,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+        "process_candidates": [
+          "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+        "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+        "document_reference": "CXS 239-2003",
+        "document_title": "General Methods of Analysis for Food Additives",
+        "document_type": "Standards",
+        "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+        "section_id": "path_titles::product provision method principle type::lvl1",
+        "section_number": null,
+        "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+        "process_candidates": [
+          "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+        "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+        "document_reference": "CXS 239-2003",
+        "document_title": "General Methods of Analysis for Food Additives",
+        "document_type": "Standards",
+        "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+        "section_id": "path_titles::product provision method principle type::lvl1",
+        "section_number": null,
+        "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+      }
+    },
+    {
+      "id": "195",
+      "key": "195",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "Adopted in 2003.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "discarded_by_prefilter",
+          "prefilter": {
+            "decision": "discard",
+            "reason": "Generic statement about adoption year, possibly not regulatory.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Adopted in 2003.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "discarded_by_prefilter",
+            "modality": "undefined",
+            "function": "non_normative_or_metadata",
+            "pattern": "not_analyzed",
+            "template_match_score": 0.0,
+            "decision": "not_analyzed",
+            "is_new_pattern": false,
+            "components": {},
+            "justification": "Generic statement about adoption year, possibly not regulatory.",
+            "notes": [
+              "Skipped heavy classifier due to prefilter discard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "FOOD ADDITIVES",
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+            ],
+            "process": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "process_candidates": [
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "section_id": "path_titles::general methods of analysis for food additives::lvl1",
+            "section_number": null,
+            "section_title": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DISCARDED_BY_PREFILTER",
+            "subject_candidates": [
+              "DISCARDED_BY_PREFILTER",
+              "FOOD ADDITIVES",
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+            ],
+            "process": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "process_candidates": [
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "section_id": "path_titles::general methods of analysis for food additives::lvl1",
+            "section_number": null,
+            "section_title": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "All foods Acesulfame K, Aspartame  EN 12856 : 1999-04",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains detailed regulatory references and examples, relevant for regulatory screening.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Individual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "undefined",
+            "function": "Specification of subcategories of foods, substances, standards, and test methods with explanatory footnotes",
+            "pattern": "Repeated structure: Food subcategory + substance + standard reference + test method + annotation + footnotes",
+            "template_match_score": 0.35,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "items": [
+                {
+                  "food_category": "Individual Foods1",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-1 : 1998-02",
+                  "test_method": "AOAC 990.28 Part 1: Optimized Monier-Williams method",
+                  "annotation": "III"
+                },
+                {
+                  "food_category": "Individual Foods2",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-2:1998 -02",
+                  "test_method": "NMKL 135 (1990) Part 2: Enzymatic method",
+                  "annotation": "III"
+                }
+              ],
+              "footnotes": [
+                "1  Hominy, fruit juice, sea food",
+                "2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer"
+              ]
+            },
+            "justification": "This complex declarative sentence enumerates specific food subcategories paired with substances, standards, and detailed test methods plus footnotes; it lacks normative modality and does not match known templates.",
+            "notes": [
+              "Sentence includes footnotes explaining the numeric labels in food categories."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "High performance liquid chromatography II",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains detailed regulatory references and examples, relevant for regulatory screening.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Individual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "undefined",
+            "function": "Specification of subcategories of foods, substances, standards, and test methods with explanatory footnotes",
+            "pattern": "Repeated structure: Food subcategory + substance + standard reference + test method + annotation + footnotes",
+            "template_match_score": 0.35,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "items": [
+                {
+                  "food_category": "Individual Foods1",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-1 : 1998-02",
+                  "test_method": "AOAC 990.28 Part 1: Optimized Monier-Williams method",
+                  "annotation": "III"
+                },
+                {
+                  "food_category": "Individual Foods2",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-2:1998 -02",
+                  "test_method": "NMKL 135 (1990) Part 2: Enzymatic method",
+                  "annotation": "III"
+                }
+              ],
+              "footnotes": [
+                "1  Hominy, fruit juice, sea food",
+                "2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer"
+              ]
+            },
+            "justification": "This complex declarative sentence enumerates specific food subcategories paired with substances, standards, and detailed test methods plus footnotes; it lacks normative modality and does not match known templates.",
+            "notes": [
+              "Sentence includes footnotes explaining the numeric labels in food categories."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "All foods Cyclamate EN 12857 : 1999-04 High performance liquid chromatography II\nAll foods Cyclamate NMKL 123  (1998) Spectrophotometry III\nAll foods  Saccharin EN 12856 : 1999-04 High performance liquid chromatography III\nAll Foods (see also meat products) Nitrates and/or Nitrites EN 12014-1:1997-04 Part 1- General considerations",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains detailed regulatory references and examples, relevant for regulatory screening.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Individual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "undefined",
+            "function": "Specification of subcategories of foods, substances, standards, and test methods with explanatory footnotes",
+            "pattern": "Repeated structure: Food subcategory + substance + standard reference + test method + annotation + footnotes",
+            "template_match_score": 0.35,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "items": [
+                {
+                  "food_category": "Individual Foods1",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-1 : 1998-02",
+                  "test_method": "AOAC 990.28 Part 1: Optimized Monier-Williams method",
+                  "annotation": "III"
+                },
+                {
+                  "food_category": "Individual Foods2",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-2:1998 -02",
+                  "test_method": "NMKL 135 (1990) Part 2: Enzymatic method",
+                  "annotation": "III"
+                }
+              ],
+              "footnotes": [
+                "1  Hominy, fruit juice, sea food",
+                "2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer"
+              ]
+            },
+            "justification": "This complex declarative sentence enumerates specific food subcategories paired with substances, standards, and detailed test methods plus footnotes; it lacks normative modality and does not match known templates.",
+            "notes": [
+              "Sentence includes footnotes explaining the numeric labels in food categories."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "N",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains detailed regulatory references and examples, relevant for regulatory screening.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Individual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "undefined",
+            "function": "Specification of subcategories of foods, substances, standards, and test methods with explanatory footnotes",
+            "pattern": "Repeated structure: Food subcategory + substance + standard reference + test method + annotation + footnotes",
+            "template_match_score": 0.35,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "items": [
+                {
+                  "food_category": "Individual Foods1",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-1 : 1998-02",
+                  "test_method": "AOAC 990.28 Part 1: Optimized Monier-Williams method",
+                  "annotation": "III"
+                },
+                {
+                  "food_category": "Individual Foods2",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-2:1998 -02",
+                  "test_method": "NMKL 135 (1990) Part 2: Enzymatic method",
+                  "annotation": "III"
+                }
+              ],
+              "footnotes": [
+                "1  Hominy, fruit juice, sea food",
+                "2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer"
+              ]
+            },
+            "justification": "This complex declarative sentence enumerates specific food subcategories paired with substances, standards, and detailed test methods plus footnotes; it lacks normative modality and does not match known templates.",
+            "notes": [
+              "Sentence includes footnotes explaining the numeric labels in food categories."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "/",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains detailed regulatory references and examples, relevant for regulatory screening.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Individual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "undefined",
+            "function": "Specification of subcategories of foods, substances, standards, and test methods with explanatory footnotes",
+            "pattern": "Repeated structure: Food subcategory + substance + standard reference + test method + annotation + footnotes",
+            "template_match_score": 0.35,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "items": [
+                {
+                  "food_category": "Individual Foods1",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-1 : 1998-02",
+                  "test_method": "AOAC 990.28 Part 1: Optimized Monier-Williams method",
+                  "annotation": "III"
+                },
+                {
+                  "food_category": "Individual Foods2",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-2:1998 -02",
+                  "test_method": "NMKL 135 (1990) Part 2: Enzymatic method",
+                  "annotation": "III"
+                }
+              ],
+              "footnotes": [
+                "1  Hominy, fruit juice, sea food",
+                "2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer"
+              ]
+            },
+            "justification": "This complex declarative sentence enumerates specific food subcategories paired with substances, standards, and detailed test methods plus footnotes; it lacks normative modality and does not match known templates.",
+            "notes": [
+              "Sentence includes footnotes explaining the numeric labels in food categories."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "A",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains detailed regulatory references and examples, relevant for regulatory screening.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Individual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "undefined",
+            "function": "Specification of subcategories of foods, substances, standards, and test methods with explanatory footnotes",
+            "pattern": "Repeated structure: Food subcategory + substance + standard reference + test method + annotation + footnotes",
+            "template_match_score": 0.35,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "items": [
+                {
+                  "food_category": "Individual Foods1",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-1 : 1998-02",
+                  "test_method": "AOAC 990.28 Part 1: Optimized Monier-Williams method",
+                  "annotation": "III"
+                },
+                {
+                  "food_category": "Individual Foods2",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-2:1998 -02",
+                  "test_method": "NMKL 135 (1990) Part 2: Enzymatic method",
+                  "annotation": "III"
+                }
+              ],
+              "footnotes": [
+                "1  Hominy, fruit juice, sea food",
+                "2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer"
+              ]
+            },
+            "justification": "This complex declarative sentence enumerates specific food subcategories paired with substances, standards, and detailed test methods plus footnotes; it lacks normative modality and does not match known templates.",
+            "notes": [
+              "Sentence includes footnotes explaining the numeric labels in food categories."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+            ],
+            "process": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "process_candidates": [
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "section_id": "path_titles::general methods of analysis for food additives::lvl1",
+            "section_number": null,
+            "section_title": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+            ],
+            "process": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "process_candidates": [
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "section_id": "path_titles::general methods of analysis for food additives::lvl1",
+            "section_number": null,
+            "section_title": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Individual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains detailed regulatory references and examples, relevant for regulatory screening.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "Individual Foods1 Sulphites EN 1988-1 : 1998-02 \nAOAC 990.28 Part 1: Optimized Monier-Williams method III\nIndividual Foods2 Sulphites EN 1988-2:1998 -02 \nNMKL 135 (1990) Part 2: Enzymatic method III\n\n\n1  Hominy, fruit juice, sea food\n2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "undefined",
+            "function": "Specification of subcategories of foods, substances, standards, and test methods with explanatory footnotes",
+            "pattern": "Repeated structure: Food subcategory + substance + standard reference + test method + annotation + footnotes",
+            "template_match_score": 0.35,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "items": [
+                {
+                  "food_category": "Individual Foods1",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-1 : 1998-02",
+                  "test_method": "AOAC 990.28 Part 1: Optimized Monier-Williams method",
+                  "annotation": "III"
+                },
+                {
+                  "food_category": "Individual Foods2",
+                  "substance": "Sulphites",
+                  "standard_reference": "EN 1988-2:1998 -02",
+                  "test_method": "NMKL 135 (1990) Part 2: Enzymatic method",
+                  "annotation": "III"
+                }
+              ],
+              "footnotes": [
+                "1  Hominy, fruit juice, sea food",
+                "2  Wine, dried apples, lemon juice, potato flakes, sultanas, beer"
+              ]
+            },
+            "justification": "This complex declarative sentence enumerates specific food subcategories paired with substances, standards, and detailed test methods plus footnotes; it lacks normative modality and does not match known templates.",
+            "notes": [
+              "Sentence includes footnotes explaining the numeric labels in food categories."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "FOOD ADDITIVES",
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "process": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "process_candidates": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+              "Analytical Methods and Laboratory Practices",
+              "Food Processing and Production"
+            ],
+            "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+            "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+            "document_reference": "CXS 239-2003",
+            "document_title": "General Methods of Analysis for Food Additives",
+            "document_type": "Standards",
+            "section": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_id": "path_titles::product provision method principle type::lvl1",
+            "section_number": null,
+            "section_title": "PRODUCT PROVISION METHOD PRINCIPLE TYPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "PRODUCT PROVISION METHOD PRINCIPLE TYPE"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879, PRODUCT PROVISION METHOD PRINCIPLE TYPE, p. 2"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+        "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+        "document_reference": "CXS 239-2003",
+        "document_title": "General Methods of Analysis for Food Additives",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "195",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Food Processing and Production"
+        ],
+        "document": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+        "document_id": "7178cd4b-27a9-4d6c-ba2e-f50e4bcc5879",
+        "document_reference": "CXS 239-2003",
+        "document_title": "General Methods of Analysis for Food Additives",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "195",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CXS 239-2003",
+      "title": "GENERAL METHODS OF ANALYSIS FOR FOOD ADDITIVES",
+      "summary": "Página com título principal em caixa alta e cabeçalho. Uma única seção de nível 1 identificada com texto associado 'Adopted in 2003.'.",
+      "total_sections": 1,
+      "sections": [
+        "1"
+      ]
+    },
+    {
+      "page": 2,
+      "header": "CXS 239-2003  2",
+      "title": null,
+      "summary": "Página contém um título principal sem numeração em caixa alta considerado nível 1, com várias linhas de texto associadas à seção. Não há subtítulos identificados nesta página. O cabeçalho da página foi identificado e excluído do texto. Não há indicação clara de continuidade com outras páginas.",
+      "total_sections": 1,
+      "sections": [
+        "1"
+      ]
+    }
+  ]
+}

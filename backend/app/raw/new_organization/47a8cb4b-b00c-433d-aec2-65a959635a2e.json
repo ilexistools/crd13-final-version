@@ -1,0 +1,835 @@
+{
+  "document": {
+    "id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 37-2001",
+    "year": "2001",
+    "title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+    "label": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+    "committee": "CCMAS",
+    "last_modified": "2001",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B37-2001%252FCXG_037e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "Cross-cutting Processes"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+      "key": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+      "raw_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+      "number": null,
+      "title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1",
+      "text": "The Harmonized IUPAC 1 Guidelines for the Use of Recovery Information in Analytical Measurement were adopted by reference for Codex purposes with the exception of the first two sentences of Recommendation 1 2. For Codex purposes, Recommendation 1 of the IUPAC Guidelines therefore reads as follows: It is of over-riding importance that all data, when reported, should (a) be clearly identified as to whether or not a recovery correction has been applied and (b) if a recovery correction has been applied, the amount of the correction and the method by which it was derived should be included with the report. This will promote direct comparability of data sets. Correction functions should be established on the basis of appropriate statistical considerations, documented, archived and available to the client.",
+      "retrieval_text": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT\nlevel=1\nThe Harmonized IUPAC 1 Guidelines for the Use of Recovery Information in Analytical Measurement were adopted by reference for Codex purposes with the exception of the first two sentences of Recommendation 1 2. For Codex purposes, Recommendation 1 of the IUPAC Guidelines therefore reads as follows: It is of over-riding importance that all data, when reported, should (a) be clearly identified as to whether or not a recovery correction has been applied and (b) if a recovery correction has been applied, the amount of the correction and the method by which it was derived should be included with the report. This will promote direct comparability of data sets. Correction functions should be established on the basis of appropriate statistical considerations, documented, archived and available to the client.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The Harmonized IUPAC 1 Guidelines for the Use of Recovery Information in Analytical Measurement were adopted by reference for Codex purposes with the exception of the first two sentences of Recommendation 1 2. For Codex purposes, Recommendation 1 of the IUPAC Guidelines therefore reads as follows: It is of over-riding importance that all data, when reported, should (a) be clearly identified as to whether or not a recovery correction has been applied and (b) if a recovery correction has been applied, the amount of the correction and the method by which it was derived should be included with the report. This will promote direct comparability of data sets. Correction functions should be established on the basis of appropriate statistical considerations, documented, archived and available to the client."
+        }
+      ],
+      "rag": {
+        "rag_id": 130,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+        "process_candidates": [
+          "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+        "document_reference": "CXG 37-2001",
+        "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_type": "Guidelines",
+        "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+        "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+        "section_number": null,
+        "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+        "process_candidates": [
+          "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+        "document_reference": "CXG 37-2001",
+        "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_type": "Guidelines",
+        "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+        "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+        "section_number": null,
+        "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+      }
+    },
+    {
+      "id": "path_titles::reference::lvl1",
+      "key": "path_titles::reference::lvl1",
+      "raw_id": "path_titles::reference::lvl1",
+      "number": null,
+      "title": "Reference",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "Reference"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, Reference, p. 1",
+      "text": "Harmonised Guidelines for the Use of Recovery Information in Analytical Measurement (Pure Appl. Chem., Vol. 71, pp. 337 – 348, 1999)",
+      "retrieval_text": "Reference\nlevel=1\nHarmonised Guidelines for the Use of Recovery Information in Analytical Measurement (Pure Appl. Chem., Vol. 71, pp. 337 – 348, 1999)",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Harmonised Guidelines for the Use of Recovery Information in Analytical Measurement (Pure Appl. Chem., Vol. 71, pp. 337 – 348, 1999)"
+        }
+      ],
+      "rag": {
+        "rag_id": 130,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "REFERENCE",
+        "process_candidates": [
+          "Reference",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+        "document_reference": "CXG 37-2001",
+        "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_type": "Guidelines",
+        "section": "Reference",
+        "section_id": "path_titles::reference::lvl1",
+        "section_number": null,
+        "section_title": "Reference",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "Reference"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, Reference, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "REFERENCE",
+        "process_candidates": [
+          "Reference",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+        "document_reference": "CXG 37-2001",
+        "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_type": "Guidelines",
+        "section": "Reference",
+        "section_id": "path_titles::reference::lvl1",
+        "section_number": null,
+        "section_title": "Reference",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "Reference"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, Reference, p. 1"
+      }
+    },
+    {
+      "id": "130",
+      "key": "130",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "The Harmonized IUPAC 1 Guidelines for the Use of Recovery Information in Analytical Measurement were adopted by reference for Codex purposes with the exception of the first two sentences of Recommendation 1 2.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Correction functions should be established on the basis of appropriate statistical considerations, documented, archived and available to the client.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Requirement",
+            "modality": "Obligation",
+            "function": "Mandatory procedural establishment and documentation",
+            "pattern": "Main clause with modal 'should' plus coordinated predicates indicating multiple obligations",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "action": "Correction functions should be established",
+              "basis": "appropriate statistical considerations",
+              "documentation_requirements": [
+                "documented",
+                "archived",
+                "available to the client"
+              ]
+            },
+            "justification": "Sentence specifies an obligation using 'should' and multiple coordinated requirements, fitting an obligation template with adaptation.",
+            "notes": [
+              "Multiple elements linked by coordination under same modal obligation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REQUIREMENT",
+            "subject_candidates": [
+              "REQUIREMENT",
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REQUIREMENT",
+            "subject_candidates": [
+              "REQUIREMENT",
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "For Codex purposes, Recommendation 1 of the IUPAC Guidelines therefore reads as follows: It is of over-riding importance that all data, when reported, should (a) be clearly identified as to whether or not a recovery correction has been applied and (b) if a recovery correction has been applied, the amount of the correction and the method by which it was derived should be included with the report.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Correction functions should be established on the basis of appropriate statistical considerations, documented, archived and available to the client.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Requirement",
+            "modality": "Obligation",
+            "function": "Mandatory procedural establishment and documentation",
+            "pattern": "Main clause with modal 'should' plus coordinated predicates indicating multiple obligations",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "action": "Correction functions should be established",
+              "basis": "appropriate statistical considerations",
+              "documentation_requirements": [
+                "documented",
+                "archived",
+                "available to the client"
+              ]
+            },
+            "justification": "Sentence specifies an obligation using 'should' and multiple coordinated requirements, fitting an obligation template with adaptation.",
+            "notes": [
+              "Multiple elements linked by coordination under same modal obligation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REQUIREMENT",
+            "subject_candidates": [
+              "REQUIREMENT",
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REQUIREMENT",
+            "subject_candidates": [
+              "REQUIREMENT",
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "This will promote direct comparability of data sets.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Correction functions should be established on the basis of appropriate statistical considerations, documented, archived and available to the client.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Requirement",
+            "modality": "Obligation",
+            "function": "Mandatory procedural establishment and documentation",
+            "pattern": "Main clause with modal 'should' plus coordinated predicates indicating multiple obligations",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "action": "Correction functions should be established",
+              "basis": "appropriate statistical considerations",
+              "documentation_requirements": [
+                "documented",
+                "archived",
+                "available to the client"
+              ]
+            },
+            "justification": "Sentence specifies an obligation using 'should' and multiple coordinated requirements, fitting an obligation template with adaptation.",
+            "notes": [
+              "Multiple elements linked by coordination under same modal obligation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REQUIREMENT",
+            "subject_candidates": [
+              "REQUIREMENT",
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REQUIREMENT",
+            "subject_candidates": [
+              "REQUIREMENT",
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "Correction functions should be established on the basis of appropriate statistical considerations, documented, archived and available to the client.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Correction functions should be established on the basis of appropriate statistical considerations, documented, archived and available to the client.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Requirement",
+            "modality": "Obligation",
+            "function": "Mandatory procedural establishment and documentation",
+            "pattern": "Main clause with modal 'should' plus coordinated predicates indicating multiple obligations",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "action": "Correction functions should be established",
+              "basis": "appropriate statistical considerations",
+              "documentation_requirements": [
+                "documented",
+                "archived",
+                "available to the client"
+              ]
+            },
+            "justification": "Sentence specifies an obligation using 'should' and multiple coordinated requirements, fitting an obligation template with adaptation.",
+            "notes": [
+              "Multiple elements linked by coordination under same modal obligation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REQUIREMENT",
+            "subject_candidates": [
+              "REQUIREMENT",
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REQUIREMENT",
+            "subject_candidates": [
+              "REQUIREMENT",
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "process": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "process_candidates": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_id": "path_titles::harmonized iupac guidelines for the use of recovery information in analytical measurement::lvl1",
+            "section_number": null,
+            "section_title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Harmonised Guidelines for the Use of Recovery Information in Analytical Measurement (Pure Appl. Chem., Vol. 71, pp. 337 – 348, 1999)",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Referencing guidelines and publication details, relevant to regulation or standards.",
+            "stage": "light_prefilter",
+            "confidence": 0.85
+          },
+          "classification": {
+            "sentence": "Harmonised Guidelines for the Use of Recovery Information in Analytical Measurement (Pure Appl. Chem., Vol. 71, pp. 337 – 348, 1999)",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Reference",
+            "modality": "undefined",
+            "function": "Citation/Reference",
+            "pattern": "Noun phrase citation including title and bibliographic details",
+            "template_match_score": 0.05,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "reference": "Harmonised Guidelines for the Use of Recovery Information in Analytical Measurement (Pure Appl. Chem., Vol. 71, pp. 337 – 348, 1999)"
+            },
+            "justification": "Sentence is a bibliographic reference or citation fragment without normative or prescriptive elements, representing a new pattern.",
+            "notes": [
+              "No normative or communicative function beyond citation."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REFERENCE",
+            "subject_candidates": [
+              "REFERENCE"
+            ],
+            "process": "REFERENCE",
+            "process_candidates": [
+              "Reference",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "Reference",
+            "section_id": "path_titles::reference::lvl1",
+            "section_number": null,
+            "section_title": "Reference",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "Reference"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, Reference, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REFERENCE",
+            "subject_candidates": [
+              "REFERENCE"
+            ],
+            "process": "REFERENCE",
+            "process_candidates": [
+              "Reference",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+            "document_reference": "CXG 37-2001",
+            "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+            "document_type": "Guidelines",
+            "section": "Reference",
+            "section_id": "path_titles::reference::lvl1",
+            "section_number": null,
+            "section_title": "Reference",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "Reference"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "47a8cb4b-b00c-433d-aec2-65a959635a2e, Reference, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+        "document_reference": "CXG 37-2001",
+        "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "130",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 37-2001 - Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+        "document_reference": "CXG 37-2001",
+        "document_title": "Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "130",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 37 – 2001 Page 1 of 1",
+      "title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+      "summary": "Página inicial com título principal e seção de referência. Texto explanatório associado aos títulos. Estrutura clara sem subseções. Adequado para RAG.",
+      "total_sections": 2,
+      "sections": [
+        "1",
+        "2"
+      ]
+    }
+  ]
+}

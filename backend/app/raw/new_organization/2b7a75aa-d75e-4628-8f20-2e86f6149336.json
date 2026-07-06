@@ -1,0 +1,4632 @@
+{
+  "document": {
+    "id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+    "type": "CODEX",
+    "document_type": "Standards",
+    "reference": "CXS 279-1971",
+    "year": "1971",
+    "title": "Standard for Butter",
+    "label": "CXS 279-1971 - Standard for Butter",
+    "committee": "CCMMP",
+    "last_modified": "2022",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXS%2B279-1971%252FCXS_279e.pdf",
+    "processes": [
+      "Food Processing and Production",
+      "Product Standards"
+    ]
+  },
+  "commodities": [
+    {
+      "name": "butter",
+      "terms": [
+        "butter",
+        "butter for direct consumption or further processing",
+        "milk-derived fatty product",
+        "food category 02.2.1 butter",
+        "milkfat",
+        "butter with minimum 80% milkfat",
+        "high-fat butter (>95% fat)",
+        "milk and products obtained from milk"
+      ],
+      "sources": {
+        "documents_info": true,
+        "commodities_index": true
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "path_titles::standard for butter::lvl1",
+      "key": "path_titles::standard for butter::lvl1",
+      "raw_id": "path_titles::standard for butter::lvl1",
+      "number": null,
+      "title": "STANDARD FOR BUTTER",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "STANDARD FOR BUTTER"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1",
+      "text": "CXS 279-1971\nFormerly CODEX STAN A-1-1971. Adopted in 1971. Revised in 1999.\nAmended in 2003, 2006, 2010, 2018, 2022.",
+      "retrieval_text": "STANDARD FOR BUTTER\nlevel=1\nCXS 279-1971\nFormerly CODEX STAN A-1-1971. Adopted in 1971. Revised in 1999.\nAmended in 2003, 2006, 2010, 2018, 2022.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "CXS 279-1971\nFormerly CODEX STAN A-1-1971. Adopted in 1971. Revised in 1999.\nAmended in 2003, 2006, 2010, 2018, 2022."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "STANDARD FOR BUTTER",
+        "process_candidates": [
+          "STANDARD FOR BUTTER",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "STANDARD FOR BUTTER",
+        "section_id": "path_titles::standard for butter::lvl1",
+        "section_number": null,
+        "section_title": "STANDARD FOR BUTTER",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "STANDARD FOR BUTTER"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "STANDARD FOR BUTTER",
+        "process_candidates": [
+          "STANDARD FOR BUTTER",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "STANDARD FOR BUTTER",
+        "section_id": "path_titles::standard for butter::lvl1",
+        "section_number": null,
+        "section_title": "STANDARD FOR BUTTER",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "STANDARD FOR BUTTER"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+      }
+    },
+    {
+      "id": "path_titles::2022 amendment::lvl1",
+      "key": "path_titles::2022 amendment::lvl1",
+      "raw_id": "path_titles::2022 amendment::lvl1",
+      "number": null,
+      "title": "2022 amendment",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "2022 amendment"
+      ],
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2",
+      "text": "The following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022.\nPage  Location  Text in previous version   Text in amended version\n4 Section 7.3\nLabelling of non-retail containers\nInformation required in Section 7 of this Standard and Sections 4.1 to 4.8 of the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), and, if necessary, storage instructions, shall be given either on the container or in accompanying documents, except that the name of the product, lot identification, and the name and address of the manufacturer or packer shall appear on the container. However, lot identification, and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.\nThe labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "retrieval_text": "2022 amendment\nlevel=1\nThe following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022.\nPage  Location  Text in previous version   Text in amended version\n4 Section 7.3\nLabelling of non-retail containers\nInformation required in Section 7 of this Standard and Sections 4.1 to 4.8 of the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), and, if necessary, storage instructions, shall be given either on the container or in accompanying documents, except that the name of the product, lot identification, and the name and address of the manufacturer or packer shall appear on the container. However, lot identification, and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.\nThe labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "page_spans": [
+        {
+          "page": 2,
+          "text": "The following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022.\nPage  Location  Text in previous version   Text in amended version\n4 Section 7.3\nLabelling of non-retail containers\nInformation required in Section 7 of this Standard and Sections 4.1 to 4.8 of the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), and, if necessary, storage instructions, shall be given either on the container or in accompanying documents, except that the name of the product, lot identification, and the name and address of the manufacturer or packer shall appear on the container. However, lot identification, and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.\nThe labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "2022 AMENDMENT",
+        "process_candidates": [
+          "2022 amendment",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "2022 amendment",
+        "section_id": "path_titles::2022 amendment::lvl1",
+        "section_number": null,
+        "section_title": "2022 amendment",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "2022 amendment"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "2022 AMENDMENT",
+        "process_candidates": [
+          "2022 amendment",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "2022 amendment",
+        "section_id": "path_titles::2022 amendment::lvl1",
+        "section_number": null,
+        "section_title": "2022 amendment",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "2022 amendment"
+        ],
+        "page": 2,
+        "pages": [
+          "2"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2"
+      }
+    },
+    {
+      "id": "1.",
+      "key": "num::1.",
+      "raw_id": "num::1.",
+      "number": "1.",
+      "title": "SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "SCOPE"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 1., p. 3",
+      "text": "This standard applies to butter intended for direct consumption or for further processing in conformity with the description in Section 2 of this standard.",
+      "retrieval_text": "SCOPE\nnumber=1.\nlevel=1\nThis standard applies to butter intended for direct consumption or for further processing in conformity with the description in Section 2 of this standard.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "This standard applies to butter intended for direct consumption or for further processing in conformity with the description in Section 2 of this standard."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "1. - SCOPE",
+        "section_id": "1.",
+        "section_number": "1.",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 1., p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "1. - SCOPE",
+        "section_id": "1.",
+        "section_number": "1.",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 1., p. 3"
+      }
+    },
+    {
+      "id": "2.",
+      "key": "num::2.",
+      "raw_id": "num::2.",
+      "number": "2.",
+      "title": "DESCRIPTION",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "DESCRIPTION"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 2., p. 3",
+      "text": "Butter is a fatty product derived exclusively from milk and/or products obtained from milk, principally in the form of an emulsion of the type water-in-oil.",
+      "retrieval_text": "DESCRIPTION\nnumber=2.\nlevel=1\nButter is a fatty product derived exclusively from milk and/or products obtained from milk, principally in the form of an emulsion of the type water-in-oil.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Butter is a fatty product derived exclusively from milk and/or products obtained from milk, principally in the form of an emulsion of the type water-in-oil."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DESCRIPTION",
+        "process_candidates": [
+          "DESCRIPTION",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "2. - DESCRIPTION",
+        "section_id": "2.",
+        "section_number": "2.",
+        "section_title": "DESCRIPTION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 2., p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DESCRIPTION",
+        "process_candidates": [
+          "DESCRIPTION",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "2. - DESCRIPTION",
+        "section_id": "2.",
+        "section_number": "2.",
+        "section_title": "DESCRIPTION",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "DESCRIPTION"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 2., p. 3"
+      }
+    },
+    {
+      "id": "3.",
+      "key": "num::3.",
+      "raw_id": "num::3.",
+      "number": "3.",
+      "title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3., p. 3",
+      "text": "",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS\nnumber=3.\nlevel=1",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "process_candidates": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "3. - ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_id": "3.",
+        "section_number": "3.",
+        "section_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3., p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "process_candidates": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "3. - ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_id": "3.",
+        "section_number": "3.",
+        "section_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3., p. 3"
+      }
+    },
+    {
+      "id": "4.",
+      "key": "num::4.",
+      "raw_id": "num::4.",
+      "number": "4.",
+      "title": "FOOD ADDITIVES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "4"
+      ],
+      "path_titles": [
+        "FOOD ADDITIVES"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 4., p. 3",
+      "text": "Food additives listed in Tables 1 and 2 of the General Standard for Food Additives  (CXS 192-1995) in Food Category 02.2.1 (Butter) may be used in foods subject to this standard.",
+      "retrieval_text": "FOOD ADDITIVES\nnumber=4.\nlevel=1\nFood additives listed in Tables 1 and 2 of the General Standard for Food Additives  (CXS 192-1995) in Food Category 02.2.1 (Butter) may be used in foods subject to this standard.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Food additives listed in Tables 1 and 2 of the General Standard for Food Additives  (CXS 192-1995) in Food Category 02.2.1 (Butter) may be used in foods subject to this standard."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD ADDITIVES",
+        "process_candidates": [
+          "FOOD ADDITIVES",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "4. - FOOD ADDITIVES",
+        "section_id": "4.",
+        "section_number": "4.",
+        "section_title": "FOOD ADDITIVES",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "FOOD ADDITIVES"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 4., p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD ADDITIVES",
+        "process_candidates": [
+          "FOOD ADDITIVES",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "4. - FOOD ADDITIVES",
+        "section_id": "4.",
+        "section_number": "4.",
+        "section_title": "FOOD ADDITIVES",
+        "section_path": [
+          "4"
+        ],
+        "section_path_titles": [
+          "FOOD ADDITIVES"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 4., p. 3"
+      }
+    },
+    {
+      "id": "5.",
+      "key": "num::5.",
+      "raw_id": "num::5.",
+      "number": "5.",
+      "title": "CONTAMINANTS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "5"
+      ],
+      "path_titles": [
+        "CONTAMINANTS"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 5., p. 3",
+      "text": "The products covered by this standard shall comply with the maximum levels for contaminants that are specified for the product in the General Standard for Contaminants and Toxins in Food and Feed  (CXS 193-1995).\nThe milk used in the manufacture of the products covered by this standard shall comply with the  maximum levels for contaminants and toxins specified for milk by the  General Standard for Contaminants and Toxins in Food and Feed  (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+      "retrieval_text": "CONTAMINANTS\nnumber=5.\nlevel=1\nThe products covered by this standard shall comply with the maximum levels for contaminants that are specified for the product in the General Standard for Contaminants and Toxins in Food and Feed  (CXS 193-1995).\nThe milk used in the manufacture of the products covered by this standard shall comply with the  maximum levels for contaminants and toxins specified for milk by the  General Standard for Contaminants and Toxins in Food and Feed  (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "The products covered by this standard shall comply with the maximum levels for contaminants that are specified for the product in the General Standard for Contaminants and Toxins in Food and Feed  (CXS 193-1995).\nThe milk used in the manufacture of the products covered by this standard shall comply with the  maximum levels for contaminants and toxins specified for milk by the  General Standard for Contaminants and Toxins in Food and Feed  (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONTAMINANTS",
+        "process_candidates": [
+          "CONTAMINANTS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "5. - CONTAMINANTS",
+        "section_id": "5.",
+        "section_number": "5.",
+        "section_title": "CONTAMINANTS",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONTAMINANTS"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 5., p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "CONTAMINANTS",
+        "process_candidates": [
+          "CONTAMINANTS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "5. - CONTAMINANTS",
+        "section_id": "5.",
+        "section_number": "5.",
+        "section_title": "CONTAMINANTS",
+        "section_path": [
+          "5"
+        ],
+        "section_path_titles": [
+          "CONTAMINANTS"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 5., p. 3"
+      }
+    },
+    {
+      "id": "6.",
+      "key": "num::6.",
+      "raw_id": "num::6.",
+      "number": "6.",
+      "title": "HYGIENE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "6"
+      ],
+      "path_titles": [
+        "HYGIENE"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 6., p. 3",
+      "text": "It is recommended that the products covered by the provisions of this standard be  prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts such as codes of hygienic practice and codes of practice. The products should comply with  any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "retrieval_text": "HYGIENE\nnumber=6.\nlevel=1\nIt is recommended that the products covered by the provisions of this standard be  prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts such as codes of hygienic practice and codes of practice. The products should comply with  any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "It is recommended that the products covered by the provisions of this standard be  prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts such as codes of hygienic practice and codes of practice. The products should comply with  any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997)."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HYGIENE",
+        "process_candidates": [
+          "HYGIENE",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "6. - HYGIENE",
+        "section_id": "6.",
+        "section_number": "6.",
+        "section_title": "HYGIENE",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "HYGIENE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 6., p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HYGIENE",
+        "process_candidates": [
+          "HYGIENE",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "6. - HYGIENE",
+        "section_id": "6.",
+        "section_number": "6.",
+        "section_title": "HYGIENE",
+        "section_path": [
+          "6"
+        ],
+        "section_path_titles": [
+          "HYGIENE"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 6., p. 3"
+      }
+    },
+    {
+      "id": "7.",
+      "key": "num::7.",
+      "raw_id": "num::7.",
+      "number": "7.",
+      "title": "LABELLING",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "7"
+      ],
+      "path_titles": [
+        "LABELLING"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7., p. 3",
+      "text": "In addition to the provisions of the General Standard for the Labelling of Pre -packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999), the following specific provisions apply:",
+      "retrieval_text": "LABELLING\nnumber=7.\nlevel=1\nIn addition to the provisions of the General Standard for the Labelling of Pre -packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999), the following specific provisions apply:",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "In addition to the provisions of the General Standard for the Labelling of Pre -packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999), the following specific provisions apply:"
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 8
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING",
+        "process_candidates": [
+          "LABELLING",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7. - LABELLING",
+        "section_id": "7.",
+        "section_number": "7.",
+        "section_title": "LABELLING",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "LABELLING"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7., p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING",
+        "process_candidates": [
+          "LABELLING",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7. - LABELLING",
+        "section_id": "7.",
+        "section_number": "7.",
+        "section_title": "LABELLING",
+        "section_path": [
+          "7"
+        ],
+        "section_path_titles": [
+          "LABELLING"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7., p. 3"
+      }
+    },
+    {
+      "id": "3.1",
+      "key": "num::3.1",
+      "raw_id": "num::3.1",
+      "number": "3.1",
+      "title": "Raw materials",
+      "level": 2,
+      "parent_id": "3.",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.1"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Raw materials"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.1, p. 3",
+      "text": "Milk and/or products obtained from milk.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Raw materials\nnumber=3.1\nlevel=2\nMilk and/or products obtained from milk.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Milk and/or products obtained from milk."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 9
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "RAW MATERIALS",
+        "process_candidates": [
+          "Raw materials",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "3.1 - Raw materials",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "Raw materials",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Raw materials"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.1, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "RAW MATERIALS",
+        "process_candidates": [
+          "Raw materials",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "3.1 - Raw materials",
+        "section_id": "3.1",
+        "section_number": "3.1",
+        "section_title": "Raw materials",
+        "section_path": [
+          "3",
+          "3.1"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Raw materials"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.1, p. 3"
+      }
+    },
+    {
+      "id": "3.2",
+      "key": "num::3.2",
+      "raw_id": "num::3.2",
+      "number": "3.2",
+      "title": "Permitted ingredients",
+      "level": 2,
+      "parent_id": "3.",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.2"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Permitted ingredients"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.2, p. 3",
+      "text": "– Sodium chloride and food grade salt\n– Starter cultures of harmless lactic acid and/or flavour producing bacteria\n– Potable water.",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Permitted ingredients\nnumber=3.2\nlevel=2\n– Sodium chloride and food grade salt\n– Starter cultures of harmless lactic acid and/or flavour producing bacteria\n– Potable water.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "– Sodium chloride and food grade salt\n– Starter cultures of harmless lactic acid and/or flavour producing bacteria\n– Potable water."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 10
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PERMITTED INGREDIENTS",
+        "process_candidates": [
+          "Permitted ingredients",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "3.2 - Permitted ingredients",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Permitted ingredients",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Permitted ingredients"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.2, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "PERMITTED INGREDIENTS",
+        "process_candidates": [
+          "Permitted ingredients",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "3.2 - Permitted ingredients",
+        "section_id": "3.2",
+        "section_number": "3.2",
+        "section_title": "Permitted ingredients",
+        "section_path": [
+          "3",
+          "3.2"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Permitted ingredients"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.2, p. 3"
+      }
+    },
+    {
+      "id": "3.3",
+      "key": "num::3.3",
+      "raw_id": "num::3.3",
+      "number": "3.3",
+      "title": "Composition",
+      "level": 2,
+      "parent_id": "3.",
+      "parent_title": "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "path": [
+        "3",
+        "3.3"
+      ],
+      "path_titles": [
+        "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+        "Composition"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.3, p. 3",
+      "text": "Minimum milkfat content 80% m/m\nMaximum water content 16% m/m\nMaximum milk solids-not-fat content 2% m/m",
+      "retrieval_text": "ESSENTIAL COMPOSITION AND QUALITY FACTORS > Composition\nnumber=3.3\nlevel=2\nMinimum milkfat content 80% m/m\nMaximum water content 16% m/m\nMaximum milk solids-not-fat content 2% m/m",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "Minimum milkfat content 80% m/m\nMaximum water content 16% m/m\nMaximum milk solids-not-fat content 2% m/m"
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 11
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPOSITION",
+        "process_candidates": [
+          "Composition",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "3.3 - Composition",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Composition",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Composition"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.3, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPOSITION",
+        "process_candidates": [
+          "Composition",
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "3.3 - Composition",
+        "section_id": "3.3",
+        "section_number": "3.3",
+        "section_title": "Composition",
+        "section_path": [
+          "3",
+          "3.3"
+        ],
+        "section_path_titles": [
+          "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+          "Composition"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.3, p. 3"
+      }
+    },
+    {
+      "id": "7.1",
+      "key": "num::7.1",
+      "raw_id": "num::7.1",
+      "number": "7.1",
+      "title": "Name of the food",
+      "level": 2,
+      "parent_id": "7.",
+      "parent_title": "LABELLING",
+      "path": [
+        "7",
+        "7.1"
+      ],
+      "path_titles": [
+        "LABELLING",
+        "Name of the food"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3",
+      "text": "The name of the food shall be “Butter”. The name “butter” with a suitable qualification  shall be used for butter with more than 95% fat.",
+      "retrieval_text": "LABELLING > Name of the food\nnumber=7.1\nlevel=2\nThe name of the food shall be “Butter”. The name “butter” with a suitable qualification  shall be used for butter with more than 95% fat.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "The name of the food shall be “Butter”. The name “butter” with a suitable qualification  shall be used for butter with more than 95% fat."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 12
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NAME OF THE FOOD",
+        "process_candidates": [
+          "Name of the food",
+          "LABELLING",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7.1 - Name of the food",
+        "section_id": "7.1",
+        "section_number": "7.1",
+        "section_title": "Name of the food",
+        "section_path": [
+          "7",
+          "7.1"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Name of the food"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NAME OF THE FOOD",
+        "process_candidates": [
+          "Name of the food",
+          "LABELLING",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7.1 - Name of the food",
+        "section_id": "7.1",
+        "section_number": "7.1",
+        "section_title": "Name of the food",
+        "section_path": [
+          "7",
+          "7.1"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Name of the food"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3"
+      }
+    },
+    {
+      "id": "7.2",
+      "key": "num::7.2",
+      "raw_id": "num::7.2",
+      "number": "7.2",
+      "title": "Declaration of milkfat content",
+      "level": 2,
+      "parent_id": "7.",
+      "parent_title": "LABELLING",
+      "path": [
+        "7",
+        "7.2"
+      ],
+      "path_titles": [
+        "LABELLING",
+        "Declaration of milkfat content"
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.2, p. 3",
+      "text": "If the consumer would be misled by the omission, the milkfat content shall be declared  in a manner found acceptable in the country of sale to the final consumer, either (i) as a percentage by mass, or (ii) in grams per serving as quantified in the label provided that the number of servings is stated.",
+      "retrieval_text": "LABELLING > Declaration of milkfat content\nnumber=7.2\nlevel=2\nIf the consumer would be misled by the omission, the milkfat content shall be declared  in a manner found acceptable in the country of sale to the final consumer, either (i) as a percentage by mass, or (ii) in grams per serving as quantified in the label provided that the number of servings is stated.",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": "If the consumer would be misled by the omission, the milkfat content shall be declared  in a manner found acceptable in the country of sale to the final consumer, either (i) as a percentage by mass, or (ii) in grams per serving as quantified in the label provided that the number of servings is stated."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 13
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DECLARATION OF MILKFAT CONTENT",
+        "process_candidates": [
+          "Declaration of milkfat content",
+          "LABELLING",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7.2 - Declaration of milkfat content",
+        "section_id": "7.2",
+        "section_number": "7.2",
+        "section_title": "Declaration of milkfat content",
+        "section_path": [
+          "7",
+          "7.2"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Declaration of milkfat content"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.2, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "DECLARATION OF MILKFAT CONTENT",
+        "process_candidates": [
+          "Declaration of milkfat content",
+          "LABELLING",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7.2 - Declaration of milkfat content",
+        "section_id": "7.2",
+        "section_number": "7.2",
+        "section_title": "Declaration of milkfat content",
+        "section_path": [
+          "7",
+          "7.2"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Declaration of milkfat content"
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.2, p. 3"
+      }
+    },
+    {
+      "id": "7.1.1",
+      "key": "num::7.1.1",
+      "raw_id": "num::7.1.1",
+      "number": "7.1.1",
+      "title": "Butter may be labelled to indicate whether it is salted or unsalted according to national legislation.",
+      "level": 3,
+      "parent_id": "7.1",
+      "parent_title": "Name of the food",
+      "path": [
+        "7",
+        "7.1",
+        "7.1.1"
+      ],
+      "path_titles": [
+        "LABELLING",
+        "Name of the food",
+        "Butter may be labelled to indicate whether it is salted or unsalted according to national legislation."
+      ],
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "page_refs": [
+        {
+          "page": 3,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1.1, p. 3",
+      "text": "",
+      "retrieval_text": "LABELLING > Name of the food > Butter may be labelled to indicate whether it is salted or unsalted according to national legislation.\nnumber=7.1.1\nlevel=3",
+      "page_spans": [
+        {
+          "page": 3,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 14
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "BUTTER MAY BE LABELLED TO INDICATE WHETHER IT IS SALTED OR UNSALTED ACCORDING TO NATIONAL LEGISLATION.",
+        "process_candidates": [
+          "Butter may be labelled to indicate whether it is salted or unsalted according to national legislation.",
+          "Name of the food",
+          "LABELLING",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7.1.1 - Butter may be labelled to indicate whether it is salted or unsalted according to national legislation.",
+        "section_id": "7.1.1",
+        "section_number": "7.1.1",
+        "section_title": "Butter may be labelled to indicate whether it is salted or unsalted according to national legislation.",
+        "section_path": [
+          "7",
+          "7.1",
+          "7.1.1"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Name of the food",
+          "Butter may be labelled to indicate whether it is salted or unsalted according to national legislation."
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1.1, p. 3"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "BUTTER MAY BE LABELLED TO INDICATE WHETHER IT IS SALTED OR UNSALTED ACCORDING TO NATIONAL LEGISLATION.",
+        "process_candidates": [
+          "Butter may be labelled to indicate whether it is salted or unsalted according to national legislation.",
+          "Name of the food",
+          "LABELLING",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7.1.1 - Butter may be labelled to indicate whether it is salted or unsalted according to national legislation.",
+        "section_id": "7.1.1",
+        "section_number": "7.1.1",
+        "section_title": "Butter may be labelled to indicate whether it is salted or unsalted according to national legislation.",
+        "section_path": [
+          "7",
+          "7.1",
+          "7.1.1"
+        ],
+        "section_path_titles": [
+          "LABELLING",
+          "Name of the food",
+          "Butter may be labelled to indicate whether it is salted or unsalted according to national legislation."
+        ],
+        "page": 3,
+        "pages": [
+          "3"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1.1, p. 3"
+      }
+    },
+    {
+      "id": "7.3",
+      "key": "num::7.3",
+      "raw_id": "num::7.3",
+      "number": "7.3",
+      "title": "Labelling of non-retail containers",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "7.3"
+      ],
+      "path_titles": [
+        "Labelling of non-retail containers"
+      ],
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.3, p. 4",
+      "text": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "retrieval_text": "Labelling of non-retail containers\nnumber=7.3\nlevel=1\nThe labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "page_spans": [
+        {
+          "page": 4,
+          "text": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 15
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING OF NON-RETAIL CONTAINERS",
+        "process_candidates": [
+          "Labelling of non-retail containers",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7.3 - Labelling of non-retail containers",
+        "section_id": "7.3",
+        "section_number": "7.3",
+        "section_title": "Labelling of non-retail containers",
+        "section_path": [
+          "7.3"
+        ],
+        "section_path_titles": [
+          "Labelling of non-retail containers"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.3, p. 4"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LABELLING OF NON-RETAIL CONTAINERS",
+        "process_candidates": [
+          "Labelling of non-retail containers",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "7.3 - Labelling of non-retail containers",
+        "section_id": "7.3",
+        "section_number": "7.3",
+        "section_title": "Labelling of non-retail containers",
+        "section_path": [
+          "7.3"
+        ],
+        "section_path_titles": [
+          "Labelling of non-retail containers"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.3, p. 4"
+      }
+    },
+    {
+      "id": "8",
+      "key": "num::8",
+      "raw_id": "num::8",
+      "number": "8",
+      "title": "METHODS OF SAMPLING AND ANALYSIS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "8"
+      ],
+      "path_titles": [
+        "METHODS OF SAMPLING AND ANALYSIS"
+      ],
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "page_refs": [],
+      "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 8, p. 4",
+      "text": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+      "retrieval_text": "METHODS OF SAMPLING AND ANALYSIS\nnumber=8\nlevel=1\nFor checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+      "page_spans": [
+        {
+          "page": 4,
+          "text": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used."
+        }
+      ],
+      "rag": {
+        "rag_id": 82,
+        "order": 16
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "METHODS OF SAMPLING AND ANALYSIS",
+        "process_candidates": [
+          "METHODS OF SAMPLING AND ANALYSIS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "8 - METHODS OF SAMPLING AND ANALYSIS",
+        "section_id": "8",
+        "section_number": "8",
+        "section_title": "METHODS OF SAMPLING AND ANALYSIS",
+        "section_path": [
+          "8"
+        ],
+        "section_path_titles": [
+          "METHODS OF SAMPLING AND ANALYSIS"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 8, p. 4"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "METHODS OF SAMPLING AND ANALYSIS",
+        "process_candidates": [
+          "METHODS OF SAMPLING AND ANALYSIS",
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "8 - METHODS OF SAMPLING AND ANALYSIS",
+        "section_id": "8",
+        "section_number": "8",
+        "section_title": "METHODS OF SAMPLING AND ANALYSIS",
+        "section_path": [
+          "8"
+        ],
+        "section_path_titles": [
+          "METHODS OF SAMPLING AND ANALYSIS"
+        ],
+        "page": 4,
+        "pages": [
+          "4"
+        ],
+        "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 8, p. 4"
+      }
+    },
+    {
+      "id": "82",
+      "key": "82",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "CXS 279-1971\nFormerly CODEX STAN A-1-1971.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Provides amendment history, relevant for context.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "Amended in 2003, 2006, 2010, 2018, 2022.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Chronology",
+            "modality": "undefined",
+            "function": "Listing of amendment years",
+            "pattern": "Passive construction with multiple amendment years enumerated",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Amendment Years": [
+                "2003",
+                "2006",
+                "2010",
+                "2018",
+                "2022"
+              ]
+            },
+            "justification": "Another temporal metadata statement enumerating multiple updates; no normative scope.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CHRONOLOGY",
+            "subject_candidates": [
+              "CHRONOLOGY",
+              "BUTTER",
+              "STANDARD FOR BUTTER"
+            ],
+            "process": "STANDARD FOR BUTTER",
+            "process_candidates": [
+              "STANDARD FOR BUTTER",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "STANDARD FOR BUTTER",
+            "section_id": "path_titles::standard for butter::lvl1",
+            "section_number": null,
+            "section_title": "STANDARD FOR BUTTER",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "STANDARD FOR BUTTER"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CHRONOLOGY",
+            "subject_candidates": [
+              "CHRONOLOGY",
+              "BUTTER",
+              "STANDARD FOR BUTTER"
+            ],
+            "process": "STANDARD FOR BUTTER",
+            "process_candidates": [
+              "STANDARD FOR BUTTER",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "STANDARD FOR BUTTER",
+            "section_id": "path_titles::standard for butter::lvl1",
+            "section_number": null,
+            "section_title": "STANDARD FOR BUTTER",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "STANDARD FOR BUTTER"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "Adopted in 1971.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Provides amendment history, relevant for context.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "Amended in 2003, 2006, 2010, 2018, 2022.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Chronology",
+            "modality": "undefined",
+            "function": "Listing of amendment years",
+            "pattern": "Passive construction with multiple amendment years enumerated",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Amendment Years": [
+                "2003",
+                "2006",
+                "2010",
+                "2018",
+                "2022"
+              ]
+            },
+            "justification": "Another temporal metadata statement enumerating multiple updates; no normative scope.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CHRONOLOGY",
+            "subject_candidates": [
+              "CHRONOLOGY",
+              "BUTTER",
+              "STANDARD FOR BUTTER"
+            ],
+            "process": "STANDARD FOR BUTTER",
+            "process_candidates": [
+              "STANDARD FOR BUTTER",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "STANDARD FOR BUTTER",
+            "section_id": "path_titles::standard for butter::lvl1",
+            "section_number": null,
+            "section_title": "STANDARD FOR BUTTER",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "STANDARD FOR BUTTER"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CHRONOLOGY",
+            "subject_candidates": [
+              "CHRONOLOGY",
+              "BUTTER",
+              "STANDARD FOR BUTTER"
+            ],
+            "process": "STANDARD FOR BUTTER",
+            "process_candidates": [
+              "STANDARD FOR BUTTER",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "STANDARD FOR BUTTER",
+            "section_id": "path_titles::standard for butter::lvl1",
+            "section_number": null,
+            "section_title": "STANDARD FOR BUTTER",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "STANDARD FOR BUTTER"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "Revised in 1999.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Provides amendment history, relevant for context.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "Amended in 2003, 2006, 2010, 2018, 2022.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Chronology",
+            "modality": "undefined",
+            "function": "Listing of amendment years",
+            "pattern": "Passive construction with multiple amendment years enumerated",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Amendment Years": [
+                "2003",
+                "2006",
+                "2010",
+                "2018",
+                "2022"
+              ]
+            },
+            "justification": "Another temporal metadata statement enumerating multiple updates; no normative scope.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CHRONOLOGY",
+            "subject_candidates": [
+              "CHRONOLOGY",
+              "BUTTER",
+              "STANDARD FOR BUTTER"
+            ],
+            "process": "STANDARD FOR BUTTER",
+            "process_candidates": [
+              "STANDARD FOR BUTTER",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "STANDARD FOR BUTTER",
+            "section_id": "path_titles::standard for butter::lvl1",
+            "section_number": null,
+            "section_title": "STANDARD FOR BUTTER",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "STANDARD FOR BUTTER"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CHRONOLOGY",
+            "subject_candidates": [
+              "CHRONOLOGY",
+              "BUTTER",
+              "STANDARD FOR BUTTER"
+            ],
+            "process": "STANDARD FOR BUTTER",
+            "process_candidates": [
+              "STANDARD FOR BUTTER",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "STANDARD FOR BUTTER",
+            "section_id": "path_titles::standard for butter::lvl1",
+            "section_number": null,
+            "section_title": "STANDARD FOR BUTTER",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "STANDARD FOR BUTTER"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "Amended in 2003, 2006, 2010, 2018, 2022.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Provides amendment history, relevant for context.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "Amended in 2003, 2006, 2010, 2018, 2022.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Chronology",
+            "modality": "undefined",
+            "function": "Listing of amendment years",
+            "pattern": "Passive construction with multiple amendment years enumerated",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Amendment Years": [
+                "2003",
+                "2006",
+                "2010",
+                "2018",
+                "2022"
+              ]
+            },
+            "justification": "Another temporal metadata statement enumerating multiple updates; no normative scope.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CHRONOLOGY",
+            "subject_candidates": [
+              "CHRONOLOGY",
+              "BUTTER",
+              "STANDARD FOR BUTTER"
+            ],
+            "process": "STANDARD FOR BUTTER",
+            "process_candidates": [
+              "STANDARD FOR BUTTER",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "STANDARD FOR BUTTER",
+            "section_id": "path_titles::standard for butter::lvl1",
+            "section_number": null,
+            "section_title": "STANDARD FOR BUTTER",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "STANDARD FOR BUTTER"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CHRONOLOGY",
+            "subject_candidates": [
+              "CHRONOLOGY",
+              "BUTTER",
+              "STANDARD FOR BUTTER"
+            ],
+            "process": "STANDARD FOR BUTTER",
+            "process_candidates": [
+              "STANDARD FOR BUTTER",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "STANDARD FOR BUTTER",
+            "section_id": "path_titles::standard for butter::lvl1",
+            "section_number": null,
+            "section_title": "STANDARD FOR BUTTER",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "STANDARD FOR BUTTER"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, STANDARD FOR BUTTER, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "The following amendment was made to the text of the standard following decisions taken at the forty -fifth session of the Codex Alimentarius Commission in December 2022.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "2022 AMENDMENT"
+            ],
+            "process": "2022 AMENDMENT",
+            "process_candidates": [
+              "2022 amendment",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "2022 amendment",
+            "section_id": "path_titles::2022 amendment::lvl1",
+            "section_number": null,
+            "section_title": "2022 amendment",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "2022 amendment"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "2022 AMENDMENT"
+            ],
+            "process": "2022 AMENDMENT",
+            "process_candidates": [
+              "2022 amendment",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "2022 amendment",
+            "section_id": "path_titles::2022 amendment::lvl1",
+            "section_number": null,
+            "section_title": "2022 amendment",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "2022 amendment"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Page  Location  Text in previous version   Text in amended version\n4 Section 7.3\nLabelling of non-retail containers\nInformation required in Section 7 of this Standard and Sections 4.1 to 4.8 of the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), and, if necessary, storage instructions, shall be given either on the container or in accompanying documents, except that the name of the product, lot identification, and the name and address of the manufacturer or packer shall appear on the container.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "2022 AMENDMENT"
+            ],
+            "process": "2022 AMENDMENT",
+            "process_candidates": [
+              "2022 amendment",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "2022 amendment",
+            "section_id": "path_titles::2022 amendment::lvl1",
+            "section_number": null,
+            "section_title": "2022 amendment",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "2022 amendment"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "2022 AMENDMENT"
+            ],
+            "process": "2022 AMENDMENT",
+            "process_candidates": [
+              "2022 amendment",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "2022 amendment",
+            "section_id": "path_titles::2022 amendment::lvl1",
+            "section_number": null,
+            "section_title": "2022 amendment",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "2022 amendment"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "However, lot identification, and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "2022 AMENDMENT"
+            ],
+            "process": "2022 AMENDMENT",
+            "process_candidates": [
+              "2022 amendment",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "2022 amendment",
+            "section_id": "path_titles::2022 amendment::lvl1",
+            "section_number": null,
+            "section_title": "2022 amendment",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "2022 amendment"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "2022 AMENDMENT"
+            ],
+            "process": "2022 AMENDMENT",
+            "process_candidates": [
+              "2022 amendment",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "2022 amendment",
+            "section_id": "path_titles::2022 amendment::lvl1",
+            "section_number": null,
+            "section_title": "2022 amendment",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "2022 amendment"
+            ],
+            "page": 2,
+            "pages": [
+              "2"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, 2022 amendment, p. 2"
+          }
+        },
+        {
+          "order": 1,
+          "original": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "Labelling of non-retail containers",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.3 - Labelling of non-retail containers",
+            "section_id": "7.3",
+            "section_number": "7.3",
+            "section_title": "Labelling of non-retail containers",
+            "section_path": [
+              "7.3"
+            ],
+            "section_path_titles": [
+              "Labelling of non-retail containers"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.3, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "Labelling of non-retail containers",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.3 - Labelling of non-retail containers",
+            "section_id": "7.3",
+            "section_number": "7.3",
+            "section_title": "Labelling of non-retail containers",
+            "section_path": [
+              "7.3"
+            ],
+            "section_path_titles": [
+              "Labelling of non-retail containers"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.3, p. 4"
+          }
+        },
+        {
+          "order": 2,
+          "original": "This standard applies to butter intended for direct consumption or for further processing in conformity with the description in Section 2 of this standard.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Describes scope of the standard.",
+            "stage": "light_prefilter",
+            "confidence": 0.95
+          },
+          "classification": {
+            "sentence": "This standard applies to butter intended for direct consumption or for further processing in conformity with the description in Section 2 of this standard.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Scope and Applicability",
+            "modality": "Condition",
+            "function": "Defines applicability condition for the standard",
+            "pattern": "Statement of scope with conditional target description",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Product": "Butter",
+              "Use": "Direct consumption or further processing",
+              "Conformity": "In conformity with description in Section 2"
+            },
+            "justification": "Defines scope conditionally tied to product use and standard section, pattern not present in normative templates catalog.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "SCOPE AND APPLICABILITY",
+            "subject_candidates": [
+              "SCOPE AND APPLICABILITY",
+              "BUTTER",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "1. - SCOPE",
+            "section_id": "1.",
+            "section_number": "1.",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 1., p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "SCOPE AND APPLICABILITY",
+            "subject_candidates": [
+              "SCOPE AND APPLICABILITY",
+              "BUTTER",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "1. - SCOPE",
+            "section_id": "1.",
+            "section_number": "1.",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 1., p. 3"
+          }
+        },
+        {
+          "order": 3,
+          "original": "Butter is a fatty product derived exclusively from milk and/or products obtained from milk, principally in the form of an emulsion of the type water-in-oil.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Defines butter, relevant for the standard's subject.",
+            "stage": "light_prefilter",
+            "confidence": 0.95
+          },
+          "classification": {
+            "sentence": "Butter is a fatty product derived exclusively from milk and/or products obtained from milk, principally in the form of an emulsion of the type water-in-oil.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Defines butter composition",
+            "pattern": "Declarative definition of product composition",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Product": "Butter",
+              "Composition": "Fatty product derived exclusively from milk and/or products obtained from milk",
+              "Form": "Emulsion type water-in-oil"
+            },
+            "justification": "Expresses a definition statement without normative modality; a new pattern focused on product description.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "BUTTER",
+              "DESCRIPTION"
+            ],
+            "process": "DESCRIPTION",
+            "process_candidates": [
+              "DESCRIPTION",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "2. - DESCRIPTION",
+            "section_id": "2.",
+            "section_number": "2.",
+            "section_title": "DESCRIPTION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 2., p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "BUTTER",
+              "DESCRIPTION"
+            ],
+            "process": "DESCRIPTION",
+            "process_candidates": [
+              "DESCRIPTION",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "2. - DESCRIPTION",
+            "section_id": "2.",
+            "section_number": "2.",
+            "section_title": "DESCRIPTION",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "DESCRIPTION"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 2., p. 3"
+          }
+        },
+        {
+          "order": 5,
+          "original": "Food additives listed in Tables 1 and 2 of the General Standard for Food Additives  (CXS 192-1995) in Food Category 02.2.1 (Butter) may be used in foods subject to this standard.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Food additives listed in Tables 1 and 2 of the General Standard for Food Additives  (CXS 192-1995) in Food Category 02.2.1 (Butter) may be used in foods subject to this standard.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Permission",
+            "modality": "Permission",
+            "function": "Allow use of specified food additives",
+            "pattern": "Permission with reference to external additive lists",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "Additives": "Listed in Tables 1 and 2 of General Standard for Food Additives",
+              "Food Category": "02.2.1 (Butter)",
+              "Permission": "May be used in foods subject to this standard"
+            },
+            "justification": "Typical permission pattern allowing use of additives referencing other documents, partial match to known additive permission templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "BUTTER",
+              "FOOD ADDITIVES"
+            ],
+            "process": "FOOD ADDITIVES",
+            "process_candidates": [
+              "FOOD ADDITIVES",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "4. - FOOD ADDITIVES",
+            "section_id": "4.",
+            "section_number": "4.",
+            "section_title": "FOOD ADDITIVES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "FOOD ADDITIVES"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 4., p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PERMISSION",
+            "subject_candidates": [
+              "PERMISSION",
+              "BUTTER",
+              "FOOD ADDITIVES"
+            ],
+            "process": "FOOD ADDITIVES",
+            "process_candidates": [
+              "FOOD ADDITIVES",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "4. - FOOD ADDITIVES",
+            "section_id": "4.",
+            "section_number": "4.",
+            "section_title": "FOOD ADDITIVES",
+            "section_path": [
+              "4"
+            ],
+            "section_path_titles": [
+              "FOOD ADDITIVES"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 4., p. 3"
+          }
+        },
+        {
+          "order": 6,
+          "original": "The products covered by this standard shall comply with the maximum levels for contaminants that are specified for the product in the General Standard for Contaminants and Toxins in Food and Feed  (CXS 193-1995).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The milk used in the manufacture of the products covered by this Standard shall comply with the Maximum Levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Compliance Requirement",
+            "pattern": "[Subject] shall comply with [Referenced Standards for contaminant levels and residue limits]",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The milk used in the manufacture of the products covered by this Standard",
+              "obligation": "shall comply with",
+              "requirements": [
+                "Maximum Levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995)",
+                "maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC"
+              ]
+            },
+            "justification": "The sentence is an obligation sentence mandating compliance with specified contaminant and residue limits referencing external standards. It does not match any known template but fits an obligation category with a compliance function. The structure is a subject plus an obligation to comply with referenced quantitative standards.",
+            "notes": [
+              "No exact template match in the known catalog.",
+              "Complex compliance reference involving multiple external standards and limits."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "BUTTER",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "5. - CONTAMINANTS",
+            "section_id": "5.",
+            "section_number": "5.",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 5., p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "BUTTER",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "5. - CONTAMINANTS",
+            "section_id": "5.",
+            "section_number": "5.",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 5., p. 3"
+          }
+        },
+        {
+          "order": 6,
+          "original": "The milk used in the manufacture of the products covered by this standard shall comply with the  maximum levels for contaminants and toxins specified for milk by the  General Standard for Contaminants and Toxins in Food and Feed  (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The milk used in the manufacture of the products covered by this Standard shall comply with the Maximum Levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with the maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Compliance Requirement",
+            "pattern": "[Subject] shall comply with [Referenced Standards for contaminant levels and residue limits]",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The milk used in the manufacture of the products covered by this Standard",
+              "obligation": "shall comply with",
+              "requirements": [
+                "Maximum Levels for contaminants and toxins specified for milk by the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995)",
+                "maximum residue limits for veterinary drug residues and pesticides established for milk by the CAC"
+              ]
+            },
+            "justification": "The sentence is an obligation sentence mandating compliance with specified contaminant and residue limits referencing external standards. It does not match any known template but fits an obligation category with a compliance function. The structure is a subject plus an obligation to comply with referenced quantitative standards.",
+            "notes": [
+              "No exact template match in the known catalog.",
+              "Complex compliance reference involving multiple external standards and limits."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "BUTTER",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "5. - CONTAMINANTS",
+            "section_id": "5.",
+            "section_number": "5.",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 5., p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+            "subject_candidates": [
+              "THE MILK USED IN THE MANUFACTURE OF THE PRODUCTS COVERED BY THIS STANDARD",
+              "OBLIGATION",
+              "BUTTER",
+              "CONTAMINANTS"
+            ],
+            "process": "CONTAMINANTS",
+            "process_candidates": [
+              "CONTAMINANTS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "5. - CONTAMINANTS",
+            "section_id": "5.",
+            "section_number": "5.",
+            "section_title": "CONTAMINANTS",
+            "section_path": [
+              "5"
+            ],
+            "section_path_titles": [
+              "CONTAMINANTS"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 5., p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "It is recommended that the products covered by the provisions of this standard be  prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts such as codes of hygienic practice and codes of practice.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The products should comply with  any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with microbiological criteria",
+            "pattern": "Obligation with reference to microbiological criteria guidelines",
+            "template_match_score": 0.75,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "Obligation": "Products should comply with microbiological criteria",
+              "Reference": "Principles and Guidelines for Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997)"
+            },
+            "justification": "Partial match to obligation templates involving compliance with external criteria; modality and function clear, structure adapted.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "6. - HYGIENE",
+            "section_id": "6.",
+            "section_number": "6.",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 6., p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "6. - HYGIENE",
+            "section_id": "6.",
+            "section_number": "6.",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 6., p. 3"
+          }
+        },
+        {
+          "order": 7,
+          "original": "The products should comply with  any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The products should comply with  any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with microbiological criteria",
+            "pattern": "Obligation with reference to microbiological criteria guidelines",
+            "template_match_score": 0.75,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "Obligation": "Products should comply with microbiological criteria",
+              "Reference": "Principles and Guidelines for Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997)"
+            },
+            "justification": "Partial match to obligation templates involving compliance with external criteria; modality and function clear, structure adapted.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "6. - HYGIENE",
+            "section_id": "6.",
+            "section_number": "6.",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 6., p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "HYGIENE"
+            ],
+            "process": "HYGIENE",
+            "process_candidates": [
+              "HYGIENE",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "6. - HYGIENE",
+            "section_id": "6.",
+            "section_number": "6.",
+            "section_title": "HYGIENE",
+            "section_path": [
+              "6"
+            ],
+            "section_path_titles": [
+              "HYGIENE"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 6., p. 3"
+          }
+        },
+        {
+          "order": 8,
+          "original": "In addition to the provisions of the General Standard for the Labelling of Pre -packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999), the following specific provisions apply:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "States applicable standards, relevant for regulation.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "In addition to the provisions of the General Standard for the Labelling of Pre -packaged Foods (CXS 1-1985) and the General Standard for the Use of Dairy Terms (CXS 206-1999), the following specific provisions apply:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition",
+            "modality": "Condition",
+            "function": "Introduce additional applicable provisions conditionally",
+            "pattern": "Conditional statement introducing further provisions",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "References": [
+                "General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985)",
+                "General Standard for the Use of Dairy Terms (CXS 206-1999)"
+              ],
+              "Clause": "specific provisions apply"
+            },
+            "justification": "This sentence introduces scope extensions conditionally, a pattern not represented in existing templates catalog.",
+            "notes": [
+              "Signals conditional applicability of further rules."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "BUTTER",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7. - LABELLING",
+            "section_id": "7.",
+            "section_number": "7.",
+            "section_title": "LABELLING",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7., p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION",
+            "subject_candidates": [
+              "CONDITION",
+              "BUTTER",
+              "LABELLING"
+            ],
+            "process": "LABELLING",
+            "process_candidates": [
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7. - LABELLING",
+            "section_id": "7.",
+            "section_number": "7.",
+            "section_title": "LABELLING",
+            "section_path": [
+              "7"
+            ],
+            "section_path_titles": [
+              "LABELLING"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7., p. 3"
+          }
+        },
+        {
+          "order": 9,
+          "original": "Milk and/or products obtained from milk.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Details ingredients scope for the standard.",
+            "stage": "light_prefilter",
+            "confidence": 0.8
+          },
+          "classification": {
+            "sentence": "Milk and/or products obtained from milk.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Enumerate components or ingredients",
+            "pattern": "Noun phrase listing ingredients",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Components": "Milk and/or products obtained from milk"
+            },
+            "justification": "Fragment presenting ingredient list element, considered new pattern due to lack of normative phrasing or structure.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "BUTTER",
+              "RAW MATERIALS"
+            ],
+            "process": "RAW MATERIALS",
+            "process_candidates": [
+              "Raw materials",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "3.1 - Raw materials",
+            "section_id": "3.1",
+            "section_number": "3.1",
+            "section_title": "Raw materials",
+            "section_path": [
+              "3",
+              "3.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Raw materials"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.1, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "BUTTER",
+              "RAW MATERIALS"
+            ],
+            "process": "RAW MATERIALS",
+            "process_candidates": [
+              "Raw materials",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "3.1 - Raw materials",
+            "section_id": "3.1",
+            "section_number": "3.1",
+            "section_title": "Raw materials",
+            "section_path": [
+              "3",
+              "3.1"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Raw materials"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.1, p. 3"
+          }
+        },
+        {
+          "order": 10,
+          "original": "– Sodium chloride and food grade salt\n– Starter cultures of harmless lactic acid and/or flavour producing bacteria\n– Potable water.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Lists permitted ingredients, relevant for compliance.",
+            "stage": "light_prefilter",
+            "confidence": 0.85
+          },
+          "classification": {
+            "sentence": "– Sodium chloride and food grade salt\n– Starter cultures of harmless lactic acid and/or flavour producing bacteria\n– Potable water.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Definition",
+            "modality": "undefined",
+            "function": "Enumerate allowed ingredients or additives",
+            "pattern": "Bullet list enumerating substances",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Components": [
+                "Sodium chloride and food grade salt",
+                "Starter cultures of harmless lactic acid and/or flavour producing bacteria",
+                "Potable water"
+              ]
+            },
+            "justification": "List of substances without explicit normative phrasing, hence new pattern of ingredient enumeration.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "BUTTER",
+              "PERMITTED INGREDIENTS"
+            ],
+            "process": "PERMITTED INGREDIENTS",
+            "process_candidates": [
+              "Permitted ingredients",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "3.2 - Permitted ingredients",
+            "section_id": "3.2",
+            "section_number": "3.2",
+            "section_title": "Permitted ingredients",
+            "section_path": [
+              "3",
+              "3.2"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Permitted ingredients"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.2, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "DEFINITION",
+            "subject_candidates": [
+              "DEFINITION",
+              "BUTTER",
+              "PERMITTED INGREDIENTS"
+            ],
+            "process": "PERMITTED INGREDIENTS",
+            "process_candidates": [
+              "Permitted ingredients",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "3.2 - Permitted ingredients",
+            "section_id": "3.2",
+            "section_number": "3.2",
+            "section_title": "Permitted ingredients",
+            "section_path": [
+              "3",
+              "3.2"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Permitted ingredients"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.2, p. 3"
+          }
+        },
+        {
+          "order": 11,
+          "original": "Minimum milkfat content 80% m/m\nMaximum water content 16% m/m\nMaximum milk solids-not-fat content 2% m/m",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Minimum milkfat content 80% m/m\nMaximum water content 16% m/m\nMaximum milk solids-not-fat content 2% m/m",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Limits and Targets",
+            "function": "Specify compositional limits",
+            "pattern": "Series of limit statements specifying minimum and maximum values",
+            "template_match_score": 0.95,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "Minimum milkfat content": "80% m/m",
+              "Maximum water content": "16% m/m",
+              "Maximum milk solids-not-fat content": "2% m/m"
+            },
+            "justification": "Clear normative limits and targets on composition matching known limit specification templates.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "BUTTER",
+              "COMPOSITION"
+            ],
+            "process": "COMPOSITION",
+            "process_candidates": [
+              "Composition",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "3.3 - Composition",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "Composition",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Composition"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.3, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "BUTTER",
+              "COMPOSITION"
+            ],
+            "process": "COMPOSITION",
+            "process_candidates": [
+              "Composition",
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "3.3 - Composition",
+            "section_id": "3.3",
+            "section_number": "3.3",
+            "section_title": "Composition",
+            "section_path": [
+              "3",
+              "3.3"
+            ],
+            "section_path_titles": [
+              "ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+              "Composition"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 3.3, p. 3"
+          }
+        },
+        {
+          "order": 12,
+          "original": "The name of the food shall be “Butter”.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "shall be used for butter with more than 95% fat.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate usage for high fat butter",
+            "pattern": "Obligation with condition on product composition",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "Obligation": "shall be used",
+              "Condition": "butter with more than 95% fat"
+            },
+            "justification": "Partial sentence imposing a normative condition and obligation on naming or usage, fitting partial obligation templates.",
+            "notes": [
+              "Dependent clause completing previous fragment."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "NAME OF THE FOOD"
+            ],
+            "process": "NAME OF THE FOOD",
+            "process_candidates": [
+              "Name of the food",
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.1 - Name of the food",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "Name of the food",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the food"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "NAME OF THE FOOD"
+            ],
+            "process": "NAME OF THE FOOD",
+            "process_candidates": [
+              "Name of the food",
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.1 - Name of the food",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "Name of the food",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the food"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3"
+          }
+        },
+        {
+          "order": 12,
+          "original": "The name “butter” with a suitable qualification",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "shall be used for butter with more than 95% fat.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate usage for high fat butter",
+            "pattern": "Obligation with condition on product composition",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "Obligation": "shall be used",
+              "Condition": "butter with more than 95% fat"
+            },
+            "justification": "Partial sentence imposing a normative condition and obligation on naming or usage, fitting partial obligation templates.",
+            "notes": [
+              "Dependent clause completing previous fragment."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "NAME OF THE FOOD"
+            ],
+            "process": "NAME OF THE FOOD",
+            "process_candidates": [
+              "Name of the food",
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.1 - Name of the food",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "Name of the food",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the food"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "NAME OF THE FOOD"
+            ],
+            "process": "NAME OF THE FOOD",
+            "process_candidates": [
+              "Name of the food",
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.1 - Name of the food",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "Name of the food",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the food"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3"
+          }
+        },
+        {
+          "order": 12,
+          "original": "shall be used for butter with more than 95% fat.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "shall be used for butter with more than 95% fat.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate usage for high fat butter",
+            "pattern": "Obligation with condition on product composition",
+            "template_match_score": 0.7,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "Obligation": "shall be used",
+              "Condition": "butter with more than 95% fat"
+            },
+            "justification": "Partial sentence imposing a normative condition and obligation on naming or usage, fitting partial obligation templates.",
+            "notes": [
+              "Dependent clause completing previous fragment."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "NAME OF THE FOOD"
+            ],
+            "process": "NAME OF THE FOOD",
+            "process_candidates": [
+              "Name of the food",
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.1 - Name of the food",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "Name of the food",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the food"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "NAME OF THE FOOD"
+            ],
+            "process": "NAME OF THE FOOD",
+            "process_candidates": [
+              "Name of the food",
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.1 - Name of the food",
+            "section_id": "7.1",
+            "section_number": "7.1",
+            "section_title": "Name of the food",
+            "section_path": [
+              "7",
+              "7.1"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Name of the food"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.1, p. 3"
+          }
+        },
+        {
+          "order": 13,
+          "original": "If the consumer would be misled by the omission, the milkfat content shall be declared  in a manner found acceptable in the country of sale to the final consumer, either (i) as a percentage by mass, or (ii) in grams per serving as quantified in the label provided that the number of servings is stated.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "If the consumer would be misled by the omission, the milkfat content shall be declared  in a manner found acceptable in the country of sale to the final consumer, either (i) as a percentage by mass, or (ii) in grams per serving as quantified in the label provided that the number of servings is stated.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Condition and Obligation",
+            "modality": "Obligation",
+            "function": "Require declaration of milkfat content under consumer protection condition",
+            "pattern": "Condition (if clause) triggering obligation with alternative declaration formats",
+            "template_match_score": 0.85,
+            "decision": "matched_template",
+            "is_new_pattern": false,
+            "components": {
+              "Condition": "If the consumer would be misled by the omission",
+              "Obligation": "milkfat content shall be declared",
+              "Declaration Formats": [
+                "percentage by mass",
+                "grams per serving as quantified in label"
+              ],
+              "Additional Condition": "number of servings is stated"
+            },
+            "justification": "Conditional obligation mandating labeling to avoid consumer deception, matches strong templates with condition and obligation structure.",
+            "notes": []
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "CONDITION AND OBLIGATION",
+            "subject_candidates": [
+              "CONDITION AND OBLIGATION",
+              "BUTTER",
+              "DECLARATION OF MILKFAT CONTENT"
+            ],
+            "process": "DECLARATION OF MILKFAT CONTENT",
+            "process_candidates": [
+              "Declaration of milkfat content",
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.2 - Declaration of milkfat content",
+            "section_id": "7.2",
+            "section_number": "7.2",
+            "section_title": "Declaration of milkfat content",
+            "section_path": [
+              "7",
+              "7.2"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Declaration of milkfat content"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.2, p. 3"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "CONDITION AND OBLIGATION",
+            "subject_candidates": [
+              "CONDITION AND OBLIGATION",
+              "BUTTER",
+              "DECLARATION OF MILKFAT CONTENT"
+            ],
+            "process": "DECLARATION OF MILKFAT CONTENT",
+            "process_candidates": [
+              "Declaration of milkfat content",
+              "LABELLING",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.2 - Declaration of milkfat content",
+            "section_id": "7.2",
+            "section_number": "7.2",
+            "section_title": "Declaration of milkfat content",
+            "section_path": [
+              "7",
+              "7.2"
+            ],
+            "section_path_titles": [
+              "LABELLING",
+              "Declaration of milkfat content"
+            ],
+            "page": 3,
+            "pages": [
+              "3"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.2, p. 3"
+          }
+        },
+        {
+          "order": 15,
+          "original": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate to comply with a specified standard",
+            "pattern": "Subject + modal (should) + be + in accordance with + reference to a standard",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "The labelling of non-retail containers",
+              "modal_verb": "should",
+              "prescribed_action": "be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021)"
+            },
+            "justification": "The sentence issues an obligation expressed with 'should' regarding compliance with a specific standard. The structure involves a subject and a compliance mandate referencing an external standard. Since no existing templates were matched and the structure is specific, it was classified as a new pattern with obligation modality and mandate communicative function.",
+            "notes": [
+              "The use of 'should' here conveys a normative expectation often treated as obligation in regulatory text.",
+              "No exact template was found for 'should be in accordance with' phrasing referencing a standard."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "Labelling of non-retail containers",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.3 - Labelling of non-retail containers",
+            "section_id": "7.3",
+            "section_number": "7.3",
+            "section_title": "Labelling of non-retail containers",
+            "section_path": [
+              "7.3"
+            ],
+            "section_path_titles": [
+              "Labelling of non-retail containers"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.3, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE LABELLING OF NON-RETAIL CONTAINERS",
+            "subject_candidates": [
+              "THE LABELLING OF NON-RETAIL CONTAINERS",
+              "OBLIGATION",
+              "BUTTER",
+              "LABELLING OF NON-RETAIL CONTAINERS"
+            ],
+            "process": "LABELLING OF NON-RETAIL CONTAINERS",
+            "process_candidates": [
+              "Labelling of non-retail containers",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "7.3 - Labelling of non-retail containers",
+            "section_id": "7.3",
+            "section_number": "7.3",
+            "section_title": "Labelling of non-retail containers",
+            "section_path": [
+              "7.3"
+            ],
+            "section_path_titles": [
+              "Labelling of non-retail containers"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 7.3, p. 4"
+          }
+        },
+        {
+          "order": 16,
+          "original": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "For checking the compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard, shall be used.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Prescriptive requirement",
+            "pattern": "Introductory phrase indicating purpose + main clause prescribing required methods and reference standards with modal verb 'shall'",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "purpose": "For checking the compliance with this standard",
+              "required_items": "methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions in this standard",
+              "obligation": "shall be used"
+            },
+            "justification": "The sentence prescribes an obligation to use specified methods for compliance checking with normative modality 'shall'. The sentence structure includes an introductory purpose phrase followed by a prescriptive main clause. No known templates match closely, so a new pattern reflecting this structure is created.",
+            "notes": [
+              "The sentence combines normative obligation with purpose indication in a complex sentence; no direct template found in catalog."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "METHODS OF SAMPLING AND ANALYSIS"
+            ],
+            "process": "METHODS OF SAMPLING AND ANALYSIS",
+            "process_candidates": [
+              "METHODS OF SAMPLING AND ANALYSIS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "8 - METHODS OF SAMPLING AND ANALYSIS",
+            "section_id": "8",
+            "section_number": "8",
+            "section_title": "METHODS OF SAMPLING AND ANALYSIS",
+            "section_path": [
+              "8"
+            ],
+            "section_path_titles": [
+              "METHODS OF SAMPLING AND ANALYSIS"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 8, p. 4"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "OBLIGATION",
+            "subject_candidates": [
+              "OBLIGATION",
+              "BUTTER",
+              "METHODS OF SAMPLING AND ANALYSIS"
+            ],
+            "process": "METHODS OF SAMPLING AND ANALYSIS",
+            "process_candidates": [
+              "METHODS OF SAMPLING AND ANALYSIS",
+              "Food Processing and Production",
+              "Product Standards"
+            ],
+            "document": "CXS 279-1971 - Standard for Butter",
+            "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+            "document_reference": "CXS 279-1971",
+            "document_title": "Standard for Butter",
+            "document_type": "Standards",
+            "section": "8 - METHODS OF SAMPLING AND ANALYSIS",
+            "section_id": "8",
+            "section_number": "8",
+            "section_title": "METHODS OF SAMPLING AND ANALYSIS",
+            "section_path": [
+              "8"
+            ],
+            "section_path_titles": [
+              "METHODS OF SAMPLING AND ANALYSIS"
+            ],
+            "page": 4,
+            "pages": [
+              "4"
+            ],
+            "citation": "2b7a75aa-d75e-4628-8f20-2e86f6149336, Section 8, p. 4"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "82",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Food Processing and Production",
+          "Product Standards"
+        ],
+        "document": "CXS 279-1971 - Standard for Butter",
+        "document_id": "2b7a75aa-d75e-4628-8f20-2e86f6149336",
+        "document_reference": "CXS 279-1971",
+        "document_title": "Standard for Butter",
+        "document_type": "Standards",
+        "section": "",
+        "section_id": "82",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": null,
+      "title": "STANDARD FOR BUTTER",
+      "summary": "Página apresenta o título principal do documento sem divisões internas. Conteúdo complementar do cabeçalho do documento está associado ao título. Não há continuidade com outras páginas nesta estrutura.",
+      "total_sections": 1,
+      "sections": [
+        "1"
+      ]
+    },
+    {
+      "page": 2,
+      "header": "CXS 279-1971  2",
+      "title": null,
+      "summary": "A página apresenta um título forte em caixa alta \"2022 amendment\" sem numeração, classificado como nível 1. Não há outras divisões claras hierárquicas. O texto associado detalha a emenda de 2022 e diretrizes para rotulagem. Cabeçalho consistente com código e numeração da página. Não há continuidade de conteúdo entre páginas.",
+      "total_sections": 1,
+      "sections": [
+        "1"
+      ]
+    },
+    {
+      "page": 3,
+      "header": "CXS 279-1971  3",
+      "title": null,
+      "summary": "A página contém seções principais numeradas de 1 a 7, com vários níveis de subseções detalhando composição, ingredientes, aditivos, contaminantes, higiene e rotulagem da manteiga conforme padrão. A hierarquia está clara com títulos numerados e texto explicativo associado a cada seção/subseção. Não há continuidade entre páginas detectada.",
+      "total_sections": 15,
+      "sections": [
+        "1",
+        "2",
+        "3",
+        "3.1",
+        "3.2",
+        "3.3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "7.1",
+        "7.1.1",
+        "7.2"
+      ]
+    },
+    {
+      "page": 4,
+      "header": "CXS 279-1971  4",
+      "title": null,
+      "summary": "A página contém duas seções principais numeradas: 7.3 e 8, cada uma com texto explicativo claro associado. Não foi detectada continuidade entre páginas nem subtítulos adicionais.",
+      "total_sections": 2,
+      "sections": [
+        "1",
+        "2"
+      ]
+    }
+  ]
+}

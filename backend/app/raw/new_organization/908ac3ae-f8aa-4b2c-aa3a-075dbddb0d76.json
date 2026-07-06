@@ -1,0 +1,856 @@
+{
+  "document": {
+    "id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 27-1997",
+    "year": "1997",
+    "title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+    "label": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+    "committee": "CCMAS",
+    "last_modified": "2006",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B27-1997%252FCXG_027e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "International Trade and Certification",
+      "Cross-cutting Processes"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "path_titles::assessment bodies::lvl1",
+      "key": "path_titles::assessment bodies::lvl1",
+      "raw_id": "path_titles::assessment bodies::lvl1",
+      "number": null,
+      "title": "ASSESSMENT BODIES",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "3"
+      ],
+      "path_titles": [
+        "ASSESSMENT BODIES"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, ASSESSMENT BODIES, p. 1",
+      "text": "4. The bodies assessing the laboratories referred to above should comply with the general criteria for laboratory accreditation, such as those laid down in the ISO/IEC Guide 58:1993: “Calibration and testing laboratory accreditation systems - General requirements for operation and recognition.”",
+      "retrieval_text": "ASSESSMENT BODIES\nlevel=1\n4. The bodies assessing the laboratories referred to above should comply with the general criteria for laboratory accreditation, such as those laid down in the ISO/IEC Guide 58:1993: “Calibration and testing laboratory accreditation systems - General requirements for operation and recognition.”",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "4. The bodies assessing the laboratories referred to above should comply with the general criteria for laboratory accreditation, such as those laid down in the ISO/IEC Guide 58:1993: “Calibration and testing laboratory accreditation systems - General requirements for operation and recognition.”"
+        }
+      ],
+      "rag": {
+        "rag_id": 247,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ASSESSMENT BODIES",
+        "process_candidates": [
+          "ASSESSMENT BODIES",
+          "Analytical Methods and Laboratory Practices",
+          "International Trade and Certification",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+        "document_reference": "CXG 27-1997",
+        "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_type": "Guidelines",
+        "section": "ASSESSMENT BODIES",
+        "section_id": "path_titles::assessment bodies::lvl1",
+        "section_number": null,
+        "section_title": "ASSESSMENT BODIES",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "ASSESSMENT BODIES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, ASSESSMENT BODIES, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "ASSESSMENT BODIES",
+        "process_candidates": [
+          "ASSESSMENT BODIES",
+          "Analytical Methods and Laboratory Practices",
+          "International Trade and Certification",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+        "document_reference": "CXG 27-1997",
+        "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_type": "Guidelines",
+        "section": "ASSESSMENT BODIES",
+        "section_id": "path_titles::assessment bodies::lvl1",
+        "section_number": null,
+        "section_title": "ASSESSMENT BODIES",
+        "section_path": [
+          "3"
+        ],
+        "section_path_titles": [
+          "ASSESSMENT BODIES"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, ASSESSMENT BODIES, p. 1"
+      }
+    },
+    {
+      "id": "path_titles::requirements::lvl1",
+      "key": "path_titles::requirements::lvl1",
+      "raw_id": "path_titles::requirements::lvl1",
+      "number": null,
+      "title": "REQUIREMENTS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "REQUIREMENTS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, REQUIREMENTS, p. 1",
+      "text": "3. The following quality criteria should be adopted by laboratories involved in the import and export control of foods: - Compliance with the general criteria for testing laboratories laid down in ISO/IEC Guide 17025:1999 “General requirements for the competence of calibration and testing laboratories”; - Participation in appropriate proficiency testing schemes for food analysis which conform to the requirements laid down in “The International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem. 78 (2006) 145-196; - Whenever available, use methods of analysis which have been validated according to the principles laid down by the Codex Alimentarius Commission; and - Use internal quality control procedures, such as those described in the “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem. 67 (1995) 649-666.",
+      "retrieval_text": "REQUIREMENTS\nlevel=1\n3. The following quality criteria should be adopted by laboratories involved in the import and export control of foods: - Compliance with the general criteria for testing laboratories laid down in ISO/IEC Guide 17025:1999 “General requirements for the competence of calibration and testing laboratories”; - Participation in appropriate proficiency testing schemes for food analysis which conform to the requirements laid down in “The International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem. 78 (2006) 145-196; - Whenever available, use methods of analysis which have been validated according to the principles laid down by the Codex Alimentarius Commission; and - Use internal quality control procedures, such as those described in the “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem. 67 (1995) 649-666.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "3. The following quality criteria should be adopted by laboratories involved in the import and export control of foods: - Compliance with the general criteria for testing laboratories laid down in ISO/IEC Guide 17025:1999 “General requirements for the competence of calibration and testing laboratories”; - Participation in appropriate proficiency testing schemes for food analysis which conform to the requirements laid down in “The International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem. 78 (2006) 145-196; - Whenever available, use methods of analysis which have been validated according to the principles laid down by the Codex Alimentarius Commission; and - Use internal quality control procedures, such as those described in the “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem. 67 (1995) 649-666."
+        }
+      ],
+      "rag": {
+        "rag_id": 247,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "REQUIREMENTS",
+        "process_candidates": [
+          "REQUIREMENTS",
+          "Analytical Methods and Laboratory Practices",
+          "International Trade and Certification",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+        "document_reference": "CXG 27-1997",
+        "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_type": "Guidelines",
+        "section": "REQUIREMENTS",
+        "section_id": "path_titles::requirements::lvl1",
+        "section_number": null,
+        "section_title": "REQUIREMENTS",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "REQUIREMENTS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, REQUIREMENTS, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "REQUIREMENTS",
+        "process_candidates": [
+          "REQUIREMENTS",
+          "Analytical Methods and Laboratory Practices",
+          "International Trade and Certification",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+        "document_reference": "CXG 27-1997",
+        "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_type": "Guidelines",
+        "section": "REQUIREMENTS",
+        "section_id": "path_titles::requirements::lvl1",
+        "section_number": null,
+        "section_title": "REQUIREMENTS",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "REQUIREMENTS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, REQUIREMENTS, p. 1"
+      }
+    },
+    {
+      "id": "path_titles::scope::lvl1",
+      "key": "path_titles::scope::lvl1",
+      "raw_id": "path_titles::scope::lvl1",
+      "number": null,
+      "title": "SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "SCOPE"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, SCOPE, p. 1",
+      "text": "1. These guidelines provide a framework for the implementation of quality assurance measures to ensure the competence of testing laboratories involved in the import and export control of foods. 2. These guidelines are intended to assist countries in the application of requirements for trade in foodstuffs in order to protect the consumers and to facilitate fair trade.",
+      "retrieval_text": "SCOPE\nlevel=1\n1. These guidelines provide a framework for the implementation of quality assurance measures to ensure the competence of testing laboratories involved in the import and export control of foods. 2. These guidelines are intended to assist countries in the application of requirements for trade in foodstuffs in order to protect the consumers and to facilitate fair trade.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "1. These guidelines provide a framework for the implementation of quality assurance measures to ensure the competence of testing laboratories involved in the import and export control of foods. 2. These guidelines are intended to assist countries in the application of requirements for trade in foodstuffs in order to protect the consumers and to facilitate fair trade."
+        }
+      ],
+      "rag": {
+        "rag_id": 247,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Analytical Methods and Laboratory Practices",
+          "International Trade and Certification",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+        "document_reference": "CXG 27-1997",
+        "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_type": "Guidelines",
+        "section": "SCOPE",
+        "section_id": "path_titles::scope::lvl1",
+        "section_number": null,
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, SCOPE, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Analytical Methods and Laboratory Practices",
+          "International Trade and Certification",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+        "document_reference": "CXG 27-1997",
+        "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_type": "Guidelines",
+        "section": "SCOPE",
+        "section_id": "path_titles::scope::lvl1",
+        "section_number": null,
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, SCOPE, p. 1"
+      }
+    },
+    {
+      "id": "247",
+      "key": "247",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "4. The bodies assessing the laboratories referred to above should comply with the general criteria for laboratory accreditation, such as those laid down in the ISO/IEC Guide 58:1993: “Calibration and testing laboratory accreditation systems - General requirements for operation and recognition.”",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "4. The bodies assessing the laboratories referred to above should comply with the general criteria for laboratory accreditation, such as those laid down in the ISO/IEC Guide 58:1993: “Calibration and testing laboratory accreditation systems - General requirements for operation and recognition.”",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate compliance with standards",
+            "pattern": "Subject + modal verb 'should' + base verb phrase + reference to standards",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Subject": "The bodies assessing the laboratories referred to above",
+              "Modal verb": "should",
+              "Obligation action": "comply with the general criteria for laboratory accreditation, such as those laid down in the ISO/IEC Guide 58:1993"
+            },
+            "justification": "The sentence expresses a clear obligation using 'should' to mandate compliance with specific accreditation criteria; no known template matches this precise formulation.",
+            "notes": [
+              "Obligation modality with a normative standard citation; common in regulatory texts but no exact template available."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THE BODIES ASSESSING THE LABORATORIES REFERRED TO ABOVE",
+            "subject_candidates": [
+              "THE BODIES ASSESSING THE LABORATORIES REFERRED TO ABOVE",
+              "OBLIGATION",
+              "ASSESSMENT BODIES"
+            ],
+            "process": "ASSESSMENT BODIES",
+            "process_candidates": [
+              "ASSESSMENT BODIES",
+              "Analytical Methods and Laboratory Practices",
+              "International Trade and Certification",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+            "document_reference": "CXG 27-1997",
+            "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_type": "Guidelines",
+            "section": "ASSESSMENT BODIES",
+            "section_id": "path_titles::assessment bodies::lvl1",
+            "section_number": null,
+            "section_title": "ASSESSMENT BODIES",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "ASSESSMENT BODIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, ASSESSMENT BODIES, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THE BODIES ASSESSING THE LABORATORIES REFERRED TO ABOVE",
+            "subject_candidates": [
+              "THE BODIES ASSESSING THE LABORATORIES REFERRED TO ABOVE",
+              "OBLIGATION",
+              "ASSESSMENT BODIES"
+            ],
+            "process": "ASSESSMENT BODIES",
+            "process_candidates": [
+              "ASSESSMENT BODIES",
+              "Analytical Methods and Laboratory Practices",
+              "International Trade and Certification",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+            "document_reference": "CXG 27-1997",
+            "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_type": "Guidelines",
+            "section": "ASSESSMENT BODIES",
+            "section_id": "path_titles::assessment bodies::lvl1",
+            "section_number": null,
+            "section_title": "ASSESSMENT BODIES",
+            "section_path": [
+              "3"
+            ],
+            "section_path_titles": [
+              "ASSESSMENT BODIES"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, ASSESSMENT BODIES, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "3. The following quality criteria should be adopted by laboratories involved in the import and export control of foods: - Compliance with the general criteria for testing laboratories laid down in ISO/IEC Guide 17025:1999 “General requirements for the competence of calibration and testing laboratories”; - Participation in appropriate proficiency testing schemes for food analysis which conform to the requirements laid down in “The International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem. 78 (2006) 145-196; - Whenever available, use methods of analysis which have been validated according to the principles laid down by the Codex Alimentarius Commission; and - Use internal quality control procedures, such as those described in the “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem. 67 (1995) 649-666.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "3. The following quality criteria should be adopted by laboratories involved in the import and export control of foods: - Compliance with the general criteria for testing laboratories laid down in ISO/IEC Guide 17025:1999 “General requirements for the competence of calibration and testing laboratories”; - Participation in appropriate proficiency testing schemes for food analysis which conform to the requirements laid down in “The International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem. 78 (2006) 145-196; - Whenever available, use methods of analysis which have been validated according to the principles laid down by the Codex Alimentarius Commission; and - Use internal quality control procedures, such as those described in the “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem. 67 (1995) 649-666.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Obligation",
+            "modality": "Obligation",
+            "function": "Mandate adoption of quality criteria",
+            "pattern": "Enumerated list introduced by modal verb 'should' + base verb phrase + multiple specific quality criteria",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Subject": "laboratories involved in the import and export control of foods",
+              "Modal verb": "should",
+              "Obligation action": "adopt the following quality criteria",
+              "Quality criteria": [
+                "Compliance with general criteria in ISO/IEC Guide 17025:1999",
+                "Participation in proficiency testing schemes conforming to international protocols",
+                "Use methods of analysis validated by Codex Alimentarius Commission",
+                "Use internal quality control procedures as described in guidelines"
+              ]
+            },
+            "justification": "The sentence uses 'should' to impose an obligation to adopt multiple detailed quality criteria enumerated explicitly; this complex enumeration constitutes a new pattern not covered by known templates.",
+            "notes": [
+              "Complex list structure with several normative references; obligation modality clearly present."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LABORATORIES INVOLVED IN THE IMPORT AND EXPORT CONTROL OF FOODS",
+            "subject_candidates": [
+              "LABORATORIES INVOLVED IN THE IMPORT AND EXPORT CONTROL OF FOODS",
+              "OBLIGATION",
+              "REQUIREMENTS"
+            ],
+            "process": "REQUIREMENTS",
+            "process_candidates": [
+              "REQUIREMENTS",
+              "Analytical Methods and Laboratory Practices",
+              "International Trade and Certification",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+            "document_reference": "CXG 27-1997",
+            "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_type": "Guidelines",
+            "section": "REQUIREMENTS",
+            "section_id": "path_titles::requirements::lvl1",
+            "section_number": null,
+            "section_title": "REQUIREMENTS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "REQUIREMENTS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, REQUIREMENTS, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LABORATORIES INVOLVED IN THE IMPORT AND EXPORT CONTROL OF FOODS",
+            "subject_candidates": [
+              "LABORATORIES INVOLVED IN THE IMPORT AND EXPORT CONTROL OF FOODS",
+              "OBLIGATION",
+              "REQUIREMENTS"
+            ],
+            "process": "REQUIREMENTS",
+            "process_candidates": [
+              "REQUIREMENTS",
+              "Analytical Methods and Laboratory Practices",
+              "International Trade and Certification",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+            "document_reference": "CXG 27-1997",
+            "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_type": "Guidelines",
+            "section": "REQUIREMENTS",
+            "section_id": "path_titles::requirements::lvl1",
+            "section_number": null,
+            "section_title": "REQUIREMENTS",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "REQUIREMENTS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, REQUIREMENTS, p. 1"
+          }
+        },
+        {
+          "order": 2,
+          "original": "1. These guidelines provide a framework for the implementation of quality assurance measures to ensure the competence of testing laboratories involved in the import and export control of foods.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "2. These guidelines are intended to assist countries in the application of requirements for trade in foodstuffs in order to protect the consumers and to facilitate fair trade.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "undefined",
+            "modality": "undefined",
+            "function": "Statement of intended assistance and policy goals",
+            "pattern": "Subject + verb phrase + indirect object + purpose clauses",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Subject": "These guidelines",
+              "Verb phrase": "are intended to assist",
+              "Indirect object": "countries in the application of requirements for trade in foodstuffs",
+              "Purpose": [
+                "to protect the consumers",
+                "to facilitate fair trade"
+              ]
+            },
+            "justification": "The sentence expresses intended assistance and policy aims without normative modality or prescriptive function; it is declarative and explanatory, hence classified as a new pattern with undefined modality.",
+            "notes": [
+              "Policy statement, no normative directive or condition present."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "UNDEFINED",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "International Trade and Certification",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+            "document_reference": "CXG 27-1997",
+            "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_type": "Guidelines",
+            "section": "SCOPE",
+            "section_id": "path_titles::scope::lvl1",
+            "section_number": null,
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, SCOPE, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "UNDEFINED",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "International Trade and Certification",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+            "document_reference": "CXG 27-1997",
+            "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_type": "Guidelines",
+            "section": "SCOPE",
+            "section_id": "path_titles::scope::lvl1",
+            "section_number": null,
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, SCOPE, p. 1"
+          }
+        },
+        {
+          "order": 2,
+          "original": "2. These guidelines are intended to assist countries in the application of requirements for trade in foodstuffs in order to protect the consumers and to facilitate fair trade.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "2. These guidelines are intended to assist countries in the application of requirements for trade in foodstuffs in order to protect the consumers and to facilitate fair trade.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "undefined",
+            "modality": "undefined",
+            "function": "Statement of intended assistance and policy goals",
+            "pattern": "Subject + verb phrase + indirect object + purpose clauses",
+            "template_match_score": 0.4,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "Subject": "These guidelines",
+              "Verb phrase": "are intended to assist",
+              "Indirect object": "countries in the application of requirements for trade in foodstuffs",
+              "Purpose": [
+                "to protect the consumers",
+                "to facilitate fair trade"
+              ]
+            },
+            "justification": "The sentence expresses intended assistance and policy aims without normative modality or prescriptive function; it is declarative and explanatory, hence classified as a new pattern with undefined modality.",
+            "notes": [
+              "Policy statement, no normative directive or condition present."
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "UNDEFINED",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "International Trade and Certification",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+            "document_reference": "CXG 27-1997",
+            "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_type": "Guidelines",
+            "section": "SCOPE",
+            "section_id": "path_titles::scope::lvl1",
+            "section_number": null,
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, SCOPE, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THESE GUIDELINES",
+            "subject_candidates": [
+              "THESE GUIDELINES",
+              "UNDEFINED",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Analytical Methods and Laboratory Practices",
+              "International Trade and Certification",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+            "document_reference": "CXG 27-1997",
+            "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+            "document_type": "Guidelines",
+            "section": "SCOPE",
+            "section_id": "path_titles::scope::lvl1",
+            "section_number": null,
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76, SCOPE, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "International Trade and Certification",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+        "document_reference": "CXG 27-1997",
+        "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "247",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "International Trade and Certification",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 27-1997 - Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+        "document_reference": "CXG 27-1997",
+        "document_title": "Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Food",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "247",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 27 Page 1 of 1",
+      "title": "GUIDELINES FOR THE ASSESSMENT OF THE COMPETENCE OF TESTING LABORATORIES INVOLVED IN THE IMPORT AND EXPORT CONTROL OF FOOD",
+      "summary": "Página 1 do documento CAC/GL 27-1997 acompanha principais seções SCOPE, REQUIREMENTS e início da seção ASSESSMENT BODIES. Seções são nível 1 por títulos em caixa alta. A seção REQUIREMENTS continua para a próxima página. Texto citado está limpo do cabeçalho repetitivo e estruturado para uso em RAG.",
+      "total_sections": 3,
+      "sections": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3315 @@
+{
+  "document": {
+    "id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 51-2003",
+    "year": "2003",
+    "title": "Guidelines for Packing Media for Canned Fruits",
+    "label": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+    "committee": "CCPFV",
+    "last_modified": "2013",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B51-2003%252FCXG_051e.pdf",
+    "processes": [
+      "Food Processing and Production"
+    ]
+  },
+  "commodities": [
+    {
+      "name": "canned fruits",
+      "terms": [
+        "canned fruit",
+        "packing medium for canned fruit",
+        "sweetened fruit juice",
+        "fruit pulp",
+        "canned mango",
+        "canned pear",
+        "canned pineapple",
+        "canned applesauce",
+        "canned berry fruit",
+        "canned citrus fruit",
+        "canned stone fruit",
+        "canned or bottled pasteurized fruit",
+        "canned fruit and vegetable product",
+        "vacuum packaged canned fruit",
+        "canned fruit and vegetable products"
+      ],
+      "sources": {
+        "documents_info": true,
+        "commodities_index": true
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "1",
+      "key": "num::1",
+      "raw_id": "num::1",
+      "number": "1",
+      "title": "SCOPE",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "SCOPE"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 1, p. 1",
+      "text": "The following guidelines describe the composition and labeling requirements for packing media for use with canned fruits.",
+      "retrieval_text": "SCOPE\nnumber=1\nlevel=1\nThe following guidelines describe the composition and labeling requirements for packing media for use with canned fruits.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "The following guidelines describe the composition and labeling requirements for packing media for use with canned fruits."
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "1 - SCOPE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SCOPE",
+        "process_candidates": [
+          "SCOPE",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "1 - SCOPE",
+        "section_id": "1",
+        "section_number": "1",
+        "section_title": "SCOPE",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "SCOPE"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 1, p. 1"
+      }
+    },
+    {
+      "id": "2",
+      "key": "num::2",
+      "raw_id": "num::2",
+      "number": "2",
+      "title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "2"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": true,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2, p. 1",
+      "text": "Any of the following packing media may be used:",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING\nnumber=2\nlevel=1\nAny of the following packing media may be used:",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Any of the following packing media may be used:"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 1
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "process_candidates": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2 - COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "process_candidates": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2 - COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "section_id": "2",
+        "section_number": "2",
+        "section_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "section_path": [
+          "2"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2, p. 1"
+      }
+    },
+    {
+      "id": "2.1",
+      "key": "num::2.1",
+      "raw_id": "num::2.1",
+      "number": "2.1",
+      "title": "WATER",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "path": [
+        "2",
+        "2.1"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "WATER"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.1, p. 1",
+      "text": "",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > WATER\nnumber=2.1\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 2
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "WATER",
+        "process_candidates": [
+          "WATER",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.1 - WATER",
+        "section_id": "2.1",
+        "section_number": "2.1",
+        "section_title": "WATER",
+        "section_path": [
+          "2",
+          "2.1"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "WATER"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "WATER",
+        "process_candidates": [
+          "WATER",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.1 - WATER",
+        "section_id": "2.1",
+        "section_number": "2.1",
+        "section_title": "WATER",
+        "section_path": [
+          "2",
+          "2.1"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "WATER"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.1, p. 1"
+      }
+    },
+    {
+      "id": "2.2",
+      "key": "num::2.2",
+      "raw_id": "num::2.2",
+      "number": "2.2",
+      "title": "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "path": [
+        "2",
+        "2.2"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2, p. 1",
+      "text": "Sweetened fruit juice or fruit pulp, depending on the concentration in Brix degrees (Brix) measured in the final product, shall be designated as follows:",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey\nnumber=2.2\nlevel=2\nSweetened fruit juice or fruit pulp, depending on the concentration in Brix degrees (Brix) measured in the final product, shall be designated as follows:",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Sweetened fruit juice or fruit pulp, depending on the concentration in Brix degrees (Brix) measured in the final product, shall be designated as follows:"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 3
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FRUIT JUICE OR FRUIT PULP OR BLEND OF FRUIT JUICES OR FRUIT PULPS, UNSWEETENED OR SWEETENED WITH E.G., FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY",
+        "process_candidates": [
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.2 - Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+        "section_id": "2.2",
+        "section_number": "2.2",
+        "section_title": "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+        "section_path": [
+          "2",
+          "2.2"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FRUIT JUICE OR FRUIT PULP OR BLEND OF FRUIT JUICES OR FRUIT PULPS, UNSWEETENED OR SWEETENED WITH E.G., FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY",
+        "process_candidates": [
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.2 - Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+        "section_id": "2.2",
+        "section_number": "2.2",
+        "section_title": "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+        "section_path": [
+          "2",
+          "2.2"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2, p. 1"
+      }
+    },
+    {
+      "id": "2.3",
+      "key": "num::2.3",
+      "raw_id": "num::2.3",
+      "number": "2.3",
+      "title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "path": [
+        "2",
+        "2.3"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3, p. 1",
+      "text": "Depending on the concentration in Brix measured in the final product, these shall be designated as follows:",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey\nnumber=2.3\nlevel=2\nDepending on the concentration in Brix measured in the final product, these shall be designated as follows:",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "Depending on the concentration in Brix measured in the final product, these shall be designated as follows:"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 4
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SYRUP: MIXTURES OF WATER AND FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY",
+        "process_candidates": [
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3 - Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "section_id": "2.3",
+        "section_number": "2.3",
+        "section_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "section_path": [
+          "2",
+          "2.3"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SYRUP: MIXTURES OF WATER AND FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY",
+        "process_candidates": [
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3 - Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "section_id": "2.3",
+        "section_number": "2.3",
+        "section_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "section_path": [
+          "2",
+          "2.3"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3, p. 1"
+      }
+    },
+    {
+      "id": "2.4",
+      "key": "num::2.4",
+      "raw_id": "num::2.4",
+      "number": "2.4",
+      "title": "Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception  of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "path": [
+        "2",
+        "2.4"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception  of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 4,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.4, p. 1",
+      "text": "",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception  of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.\nnumber=2.4\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 5
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "WATER AND FRUIT JUICE OR FRUIT JUICES, IN WHICH THE FRUIT CONTENT EXCEEDS 50%, WITH THE EXCEPTION OF STRONG FLAVOURED AND/OR HIGHLY VISCOUS JUICES (E.G., MANGO, GUAVA, CRANBERRY, PASSION FRUIT, ETC), IN WHICH CASE THE FRUIT CONTENT COULD BE LESS THAN 50%.",
+        "process_candidates": [
+          "Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.4 - Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.",
+        "section_id": "2.4",
+        "section_number": "2.4",
+        "section_title": "Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception  of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.",
+        "section_path": [
+          "2",
+          "2.4"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception  of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.4, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "WATER AND FRUIT JUICE OR FRUIT JUICES, IN WHICH THE FRUIT CONTENT EXCEEDS 50%, WITH THE EXCEPTION OF STRONG FLAVOURED AND/OR HIGHLY VISCOUS JUICES (E.G., MANGO, GUAVA, CRANBERRY, PASSION FRUIT, ETC), IN WHICH CASE THE FRUIT CONTENT COULD BE LESS THAN 50%.",
+        "process_candidates": [
+          "Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.4 - Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.",
+        "section_id": "2.4",
+        "section_number": "2.4",
+        "section_title": "Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception  of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.",
+        "section_path": [
+          "2",
+          "2.4"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Water and fruit juice or fruit juices, in which the fruit content exceeds 50%, with the exception  of strong flavoured and/or highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.4, p. 1"
+      }
+    },
+    {
+      "id": "2.5",
+      "key": "num::2.5",
+      "raw_id": "num::2.5",
+      "number": "2.5",
+      "title": "Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "path": [
+        "2",
+        "2.5"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005)."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 5,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.5, p. 1",
+      "text": "",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).\nnumber=2.5\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 6
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NECTARS (FRUIT JUICE OR FRUIT PULP, FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY AND WATER) AS DEFINED IN THE GENERAL STANDARD FOR FRUIT JUICES AND NECTARS (CODEX STAN 247-2005).",
+        "process_candidates": [
+          "Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.5 - Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+        "section_id": "2.5",
+        "section_number": "2.5",
+        "section_title": "Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+        "section_path": [
+          "2",
+          "2.5"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005)."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.5, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "NECTARS (FRUIT JUICE OR FRUIT PULP, FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY AND WATER) AS DEFINED IN THE GENERAL STANDARD FOR FRUIT JUICES AND NECTARS (CODEX STAN 247-2005).",
+        "process_candidates": [
+          "Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.5 - Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+        "section_id": "2.5",
+        "section_number": "2.5",
+        "section_title": "Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+        "section_path": [
+          "2",
+          "2.5"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005)."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.5, p. 1"
+      }
+    },
+    {
+      "id": "2.6",
+      "key": "num::2.6",
+      "raw_id": "num::2.6",
+      "number": "2.6",
+      "title": "The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "path": [
+        "2",
+        "2.6"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "The designations used in association with the Name of the Food shall be one of the designations defined in Section 2."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 6,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.6, p. 1",
+      "text": "",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.\nnumber=2.6\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 7
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE DESIGNATIONS USED IN ASSOCIATION WITH THE NAME OF THE FOOD SHALL BE ONE OF THE DESIGNATIONS DEFINED IN SECTION 2.",
+        "process_candidates": [
+          "The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.6 - The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.",
+        "section_id": "2.6",
+        "section_number": "2.6",
+        "section_title": "The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.",
+        "section_path": [
+          "2",
+          "2.6"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "The designations used in association with the Name of the Food shall be one of the designations defined in Section 2."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.6, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE DESIGNATIONS USED IN ASSOCIATION WITH THE NAME OF THE FOOD SHALL BE ONE OF THE DESIGNATIONS DEFINED IN SECTION 2.",
+        "process_candidates": [
+          "The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.6 - The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.",
+        "section_id": "2.6",
+        "section_number": "2.6",
+        "section_title": "The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.",
+        "section_path": [
+          "2",
+          "2.6"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "The designations used in association with the Name of the Food shall be one of the designations defined in Section 2."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.6, p. 1"
+      }
+    },
+    {
+      "id": "2.7",
+      "key": "num::2.7",
+      "raw_id": "num::2.7",
+      "number": "2.7",
+      "title": "The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey.",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "path": [
+        "2",
+        "2.7"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 7,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.7, p. 1",
+      "text": "",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey.\nnumber=2.7\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 8
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE PRODUCT MAY ALSO BE DESIGNATED AS “SOLID PACK” MEANING WHOLE FRUIT OR PIECES OF FRUIT, WITHOUT ANY ADDED LIQUID OR WITH ONLY A SMALL AMOUNT OF LIQUID, AND WITH OR WITHOUT FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY.",
+        "process_candidates": [
+          "The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey.",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.7 - The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey.",
+        "section_id": "2.7",
+        "section_number": "2.7",
+        "section_title": "The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey.",
+        "section_path": [
+          "2",
+          "2.7"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.7, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "THE PRODUCT MAY ALSO BE DESIGNATED AS “SOLID PACK” MEANING WHOLE FRUIT OR PIECES OF FRUIT, WITHOUT ANY ADDED LIQUID OR WITH ONLY A SMALL AMOUNT OF LIQUID, AND WITH OR WITHOUT FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY.",
+        "process_candidates": [
+          "The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey.",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.7 - The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey.",
+        "section_id": "2.7",
+        "section_number": "2.7",
+        "section_title": "The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey.",
+        "section_path": [
+          "2",
+          "2.7"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "The product may also be designated as “solid pack” meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.7, p. 1"
+      }
+    },
+    {
+      "id": "2.8",
+      "key": "num::2.8",
+      "raw_id": "num::2.8",
+      "number": "2.8",
+      "title": "Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium.",
+      "level": 2,
+      "parent_id": "2",
+      "parent_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "path": [
+        "2",
+        "2.8"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium."
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 8,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.8, p. 1",
+      "text": "",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium.\nnumber=2.8\nlevel=2",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": ""
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 9
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "REGULAR PACK – THE PRODUCT MAY ALSO BE DESIGNATED AS “REGULAR PACK” MEANING WHOLE FRUIT OR PIECES OF FRUIT WITH LIQUID PACKING MEDIUM.",
+        "process_candidates": [
+          "Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium.",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.8 - Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium.",
+        "section_id": "2.8",
+        "section_number": "2.8",
+        "section_title": "Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium.",
+        "section_path": [
+          "2",
+          "2.8"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.8, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "REGULAR PACK – THE PRODUCT MAY ALSO BE DESIGNATED AS “REGULAR PACK” MEANING WHOLE FRUIT OR PIECES OF FRUIT WITH LIQUID PACKING MEDIUM.",
+        "process_candidates": [
+          "Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium.",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.8 - Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium.",
+        "section_id": "2.8",
+        "section_number": "2.8",
+        "section_title": "Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium.",
+        "section_path": [
+          "2",
+          "2.8"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Regular pack – The product may also be designated as “regular pack” meaning whole fruit or pieces of fruit with liquid packing medium."
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.8, p. 1"
+      }
+    },
+    {
+      "id": "2.2.1",
+      "key": "num::2.2.1",
+      "raw_id": "num::2.2.1",
+      "number": "2.2.1",
+      "title": "Lightly sweetened",
+      "level": 3,
+      "parent_id": "2.2",
+      "parent_title": "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+      "path": [
+        "2",
+        "2.2",
+        "2.2.1"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+        "Lightly sweetened"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.1, p. 1",
+      "text": "greater than or equal to 14 but less than 18",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey > Lightly sweetened\nnumber=2.2.1\nlevel=3\ngreater than or equal to 14 but less than 18",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "greater than or equal to 14 but less than 18"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 10
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LIGHTLY SWEETENED",
+        "process_candidates": [
+          "Lightly sweetened",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.2.1 - Lightly sweetened",
+        "section_id": "2.2.1",
+        "section_number": "2.2.1",
+        "section_title": "Lightly sweetened",
+        "section_path": [
+          "2",
+          "2.2",
+          "2.2.1"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "Lightly sweetened"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LIGHTLY SWEETENED",
+        "process_candidates": [
+          "Lightly sweetened",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.2.1 - Lightly sweetened",
+        "section_id": "2.2.1",
+        "section_number": "2.2.1",
+        "section_title": "Lightly sweetened",
+        "section_path": [
+          "2",
+          "2.2",
+          "2.2.1"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "Lightly sweetened"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.1, p. 1"
+      }
+    },
+    {
+      "id": "2.2.2",
+      "key": "num::2.2.2",
+      "raw_id": "num::2.2.2",
+      "number": "2.2.2",
+      "title": "Heavily sweetened",
+      "level": 3,
+      "parent_id": "2.2",
+      "parent_title": "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+      "path": [
+        "2",
+        "2.2",
+        "2.2.2"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+        "Heavily sweetened"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.2, p. 1",
+      "text": "greater than or equal to 18 but less than 22",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey > Heavily sweetened\nnumber=2.2.2\nlevel=3\ngreater than or equal to 18 but less than 22",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "greater than or equal to 18 but less than 22"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 11
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HEAVILY SWEETENED",
+        "process_candidates": [
+          "Heavily sweetened",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.2.2 - Heavily sweetened",
+        "section_id": "2.2.2",
+        "section_number": "2.2.2",
+        "section_title": "Heavily sweetened",
+        "section_path": [
+          "2",
+          "2.2",
+          "2.2.2"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "Heavily sweetened"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HEAVILY SWEETENED",
+        "process_candidates": [
+          "Heavily sweetened",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.2.2 - Heavily sweetened",
+        "section_id": "2.2.2",
+        "section_number": "2.2.2",
+        "section_title": "Heavily sweetened",
+        "section_path": [
+          "2",
+          "2.2",
+          "2.2.2"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+          "Heavily sweetened"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.2, p. 1"
+      }
+    },
+    {
+      "id": "2.3.1",
+      "key": "num::2.3.1",
+      "raw_id": "num::2.3.1",
+      "number": "2.3.1",
+      "title": "Extra light syrup or slightly sweetened syrup",
+      "level": 3,
+      "parent_id": "2.3",
+      "parent_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+      "path": [
+        "2",
+        "2.3",
+        "2.3.1"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "Extra light syrup or slightly sweetened syrup"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 1,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.1, p. 1",
+      "text": "greater than or equal to 10 but less than 14",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey > Extra light syrup or slightly sweetened syrup\nnumber=2.3.1\nlevel=3\ngreater than or equal to 10 but less than 14",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "greater than or equal to 10 but less than 14"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 12
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "EXTRA LIGHT SYRUP OR SLIGHTLY SWEETENED SYRUP",
+        "process_candidates": [
+          "Extra light syrup or slightly sweetened syrup",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.1 - Extra light syrup or slightly sweetened syrup",
+        "section_id": "2.3.1",
+        "section_number": "2.3.1",
+        "section_title": "Extra light syrup or slightly sweetened syrup",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.1"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Extra light syrup or slightly sweetened syrup"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.1, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "EXTRA LIGHT SYRUP OR SLIGHTLY SWEETENED SYRUP",
+        "process_candidates": [
+          "Extra light syrup or slightly sweetened syrup",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.1 - Extra light syrup or slightly sweetened syrup",
+        "section_id": "2.3.1",
+        "section_number": "2.3.1",
+        "section_title": "Extra light syrup or slightly sweetened syrup",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.1"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Extra light syrup or slightly sweetened syrup"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.1, p. 1"
+      }
+    },
+    {
+      "id": "2.3.2",
+      "key": "num::2.3.2",
+      "raw_id": "num::2.3.2",
+      "number": "2.3.2",
+      "title": "Light syrup",
+      "level": 3,
+      "parent_id": "2.3",
+      "parent_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+      "path": [
+        "2",
+        "2.3",
+        "2.3.2"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "Light syrup"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 2,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.2, p. 1",
+      "text": "greater than or equal to 14 but less than 18",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey > Light syrup\nnumber=2.3.2\nlevel=3\ngreater than or equal to 14 but less than 18",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "greater than or equal to 14 but less than 18"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 13
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LIGHT SYRUP",
+        "process_candidates": [
+          "Light syrup",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.2 - Light syrup",
+        "section_id": "2.3.2",
+        "section_number": "2.3.2",
+        "section_title": "Light syrup",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.2"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Light syrup"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.2, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "LIGHT SYRUP",
+        "process_candidates": [
+          "Light syrup",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.2 - Light syrup",
+        "section_id": "2.3.2",
+        "section_number": "2.3.2",
+        "section_title": "Light syrup",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.2"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Light syrup"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.2, p. 1"
+      }
+    },
+    {
+      "id": "2.3.3",
+      "key": "num::2.3.3",
+      "raw_id": "num::2.3.3",
+      "number": "2.3.3",
+      "title": "Syrup (optional)",
+      "level": 3,
+      "parent_id": "2.3",
+      "parent_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+      "path": [
+        "2",
+        "2.3",
+        "2.3.3"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "Syrup (optional)"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 3,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.3, p. 1",
+      "text": "greater than or equal to 17 but less than 20",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey > Syrup (optional)\nnumber=2.3.3\nlevel=3\ngreater than or equal to 17 but less than 20",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "greater than or equal to 17 but less than 20"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 14
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SYRUP (OPTIONAL)",
+        "process_candidates": [
+          "Syrup (optional)",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.3 - Syrup (optional)",
+        "section_id": "2.3.3",
+        "section_number": "2.3.3",
+        "section_title": "Syrup (optional)",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.3"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Syrup (optional)"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.3, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "SYRUP (OPTIONAL)",
+        "process_candidates": [
+          "Syrup (optional)",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.3 - Syrup (optional)",
+        "section_id": "2.3.3",
+        "section_number": "2.3.3",
+        "section_title": "Syrup (optional)",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.3"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Syrup (optional)"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.3, p. 1"
+      }
+    },
+    {
+      "id": "2.3.4",
+      "key": "num::2.3.4",
+      "raw_id": "num::2.3.4",
+      "number": "2.3.4",
+      "title": "Heavy syrup",
+      "level": 3,
+      "parent_id": "2.3",
+      "parent_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+      "path": [
+        "2",
+        "2.3",
+        "2.3.4"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "Heavy syrup"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 4,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.4, p. 1",
+      "text": "greater than or equal to 18 but less than 22",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey > Heavy syrup\nnumber=2.3.4\nlevel=3\ngreater than or equal to 18 but less than 22",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "greater than or equal to 18 but less than 22"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 15
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HEAVY SYRUP",
+        "process_candidates": [
+          "Heavy syrup",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.4 - Heavy syrup",
+        "section_id": "2.3.4",
+        "section_number": "2.3.4",
+        "section_title": "Heavy syrup",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.4"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Heavy syrup"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.4, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "HEAVY SYRUP",
+        "process_candidates": [
+          "Heavy syrup",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.4 - Heavy syrup",
+        "section_id": "2.3.4",
+        "section_number": "2.3.4",
+        "section_title": "Heavy syrup",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.4"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Heavy syrup"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.4, p. 1"
+      }
+    },
+    {
+      "id": "2.3.5",
+      "key": "num::2.3.5",
+      "raw_id": "num::2.3.5",
+      "number": "2.3.5",
+      "title": "Extra heavy syrup",
+      "level": 3,
+      "parent_id": "2.3",
+      "parent_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+      "path": [
+        "2",
+        "2.3",
+        "2.3.5"
+      ],
+      "path_titles": [
+        "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+        "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+        "Extra heavy syrup"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [
+        {
+          "page": 1,
+          "order": 5,
+          "is_continuation_from_previous_page": false,
+          "continues_on_next_page": false,
+          "display_title_on_page": true
+        }
+      ],
+      "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.5, p. 1",
+      "text": "greater than or equal to 22",
+      "retrieval_text": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING > Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey > Extra heavy syrup\nnumber=2.3.5\nlevel=3\ngreater than or equal to 22",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "greater than or equal to 22"
+        }
+      ],
+      "rag": {
+        "rag_id": 312,
+        "order": 16
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "EXTRA HEAVY SYRUP",
+        "process_candidates": [
+          "Extra heavy syrup",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.5 - Extra heavy syrup",
+        "section_id": "2.3.5",
+        "section_number": "2.3.5",
+        "section_title": "Extra heavy syrup",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.5"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Extra heavy syrup"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.5, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "EXTRA HEAVY SYRUP",
+        "process_candidates": [
+          "Extra heavy syrup",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "2.3.5 - Extra heavy syrup",
+        "section_id": "2.3.5",
+        "section_number": "2.3.5",
+        "section_title": "Extra heavy syrup",
+        "section_path": [
+          "2",
+          "2.3",
+          "2.3.5"
+        ],
+        "section_path_titles": [
+          "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+          "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+          "Extra heavy syrup"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.5, p. 1"
+      }
+    },
+    {
+      "id": "312",
+      "key": "312",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "The following guidelines describe the composition and labeling requirements for packing media for use with canned fruits.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "The following guidelines describe the composition and labeling requirements for packing media for use with canned fruits.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "General Provision",
+            "modality": "undefined",
+            "function": "Descriptive Introduction",
+            "pattern": "Declarative sentence introducing scope and content of guidelines",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "guidelines",
+              "topic": "composition and labeling requirements for packing media",
+              "context": "use with canned fruits"
+            },
+            "justification": "The sentence functions as an introduction describing scope, no strong match to normative templates; modality is undefined as it does not impose obligation, permission, or condition.",
+            "notes": [
+              "Introductory sentence typical of prefatory material"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "GUIDELINES",
+            "subject_candidates": [
+              "GUIDELINES",
+              "GENERAL PROVISION",
+              "CANNED FRUITS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "GUIDELINES",
+            "subject_candidates": [
+              "GUIDELINES",
+              "GENERAL PROVISION",
+              "CANNED FRUITS",
+              "SCOPE"
+            ],
+            "process": "SCOPE",
+            "process_candidates": [
+              "SCOPE",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "1 - SCOPE",
+            "section_id": "1",
+            "section_number": "1",
+            "section_title": "SCOPE",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "SCOPE"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 1, p. 1"
+          }
+        },
+        {
+          "order": 1,
+          "original": "Any of the following packing media may be used:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Any of the following packing media may be used:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Material Specification",
+            "modality": "Permission",
+            "function": "Granting permission to use enumerated packing media",
+            "pattern": "Declarative sentence granting permission followed by enumeration",
+            "template_match_score": 0.55,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "packing media",
+              "modality_trigger": "may be used"
+            },
+            "justification": "Sentence expresses permission modality via 'may be used' but no strong template match; introduces permitted items list, typical pattern but no specific catalog template matched.",
+            "notes": [
+              "Permission modality clearly indicated",
+              "Followed by enumeration in subsequent sentences"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "PACKING MEDIA",
+            "subject_candidates": [
+              "PACKING MEDIA",
+              "MATERIAL SPECIFICATION",
+              "CANNED FRUITS",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING"
+            ],
+            "process": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+            "process_candidates": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2 - COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "PACKING MEDIA",
+            "subject_candidates": [
+              "PACKING MEDIA",
+              "MATERIAL SPECIFICATION",
+              "CANNED FRUITS",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING"
+            ],
+            "process": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+            "process_candidates": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2 - COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+            "section_id": "2",
+            "section_number": "2",
+            "section_title": "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+            "section_path": [
+              "2"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2, p. 1"
+          }
+        },
+        {
+          "order": 3,
+          "original": "Sweetened fruit juice or fruit pulp, depending on the concentration in Brix degrees (Brix) measured in the final product, shall be designated as follows:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Sweetened fruit juice or fruit pulp, depending on the concentration in Brix degrees (Brix) measured in the final product, shall be designated as follows:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Designation Requirement",
+            "modality": "Obligation",
+            "function": "Obligation to designate sweetened fruit juice or fruit pulp based on concentration",
+            "pattern": "Complex declarative sentence with conditional modifier followed by obligation and enumeration",
+            "template_match_score": 0.58,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "subject": "Sweetened fruit juice or fruit pulp",
+              "condition": "depending on the concentration in Brix degrees (Brix) measured in the final product",
+              "obligation": "shall be designated as follows"
+            },
+            "justification": "Contains an obligation expressed via 'shall be designated' conditional on a measurement, no exact template but clear normative function.",
+            "notes": [
+              "Condition embedded in relative clause",
+              "Obligation expressed in main clause"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "SWEETENED FRUIT JUICE OR FRUIT PULP",
+            "subject_candidates": [
+              "SWEETENED FRUIT JUICE OR FRUIT PULP",
+              "DESIGNATION REQUIREMENT",
+              "CANNED FRUITS",
+              "FRUIT JUICE OR FRUIT PULP OR BLEND OF FRUIT JUICES OR FRUIT PULPS, UNSWEETENED OR SWEETENED WITH E.G., FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY"
+            ],
+            "process": "FRUIT JUICE OR FRUIT PULP OR BLEND OF FRUIT JUICES OR FRUIT PULPS, UNSWEETENED OR SWEETENED WITH E.G., FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY",
+            "process_candidates": [
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2 - Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+            "section_id": "2.2",
+            "section_number": "2.2",
+            "section_title": "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+            "section_path": [
+              "2",
+              "2.2"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "SWEETENED FRUIT JUICE OR FRUIT PULP",
+            "subject_candidates": [
+              "SWEETENED FRUIT JUICE OR FRUIT PULP",
+              "DESIGNATION REQUIREMENT",
+              "CANNED FRUITS",
+              "FRUIT JUICE OR FRUIT PULP OR BLEND OF FRUIT JUICES OR FRUIT PULPS, UNSWEETENED OR SWEETENED WITH E.G., FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY"
+            ],
+            "process": "FRUIT JUICE OR FRUIT PULP OR BLEND OF FRUIT JUICES OR FRUIT PULPS, UNSWEETENED OR SWEETENED WITH E.G., FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY",
+            "process_candidates": [
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2 - Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+            "section_id": "2.2",
+            "section_number": "2.2",
+            "section_title": "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+            "section_path": [
+              "2",
+              "2.2"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2, p. 1"
+          }
+        },
+        {
+          "order": 4,
+          "original": "Depending on the concentration in Brix measured in the final product, these shall be designated as follows:",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "contains normative lexical cues",
+            "stage": "deterministic",
+            "confidence": 1.0
+          },
+          "classification": {
+            "sentence": "Depending on the concentration in Brix measured in the final product, these shall be designated as follows:",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Designation Requirement",
+            "modality": "Obligation",
+            "function": "Obligation to designate items based on concentration",
+            "pattern": "Introductory conditional phrase followed by obligation and enumeration",
+            "template_match_score": 0.6,
+            "decision": "adapted_template",
+            "is_new_pattern": false,
+            "components": {
+              "condition": "Depending on the concentration in Brix measured in the final product",
+              "obligation": "shall be designated as follows",
+              "subject": "these"
+            },
+            "justification": "Structural pattern includes conditional phrase plus obligation; partial match to common designation obligation templates implied by numbering and thresholds.",
+            "notes": [
+              "Slightly more fragmented than previous similar sentence",
+              "Threshold condition present"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "THESE",
+            "subject_candidates": [
+              "THESE",
+              "DESIGNATION REQUIREMENT",
+              "CANNED FRUITS",
+              "SYRUP: MIXTURES OF WATER AND FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY"
+            ],
+            "process": "SYRUP: MIXTURES OF WATER AND FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY",
+            "process_candidates": [
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.3 - Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+            "section_id": "2.3",
+            "section_number": "2.3",
+            "section_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+            "section_path": [
+              "2",
+              "2.3"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "THESE",
+            "subject_candidates": [
+              "THESE",
+              "DESIGNATION REQUIREMENT",
+              "CANNED FRUITS",
+              "SYRUP: MIXTURES OF WATER AND FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY"
+            ],
+            "process": "SYRUP: MIXTURES OF WATER AND FOODSTUFF WITH SWEETENING PROPERTIES SUCH AS SUGARS OR HONEY",
+            "process_candidates": [
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.3 - Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+            "section_id": "2.3",
+            "section_number": "2.3",
+            "section_title": "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+            "section_path": [
+              "2",
+              "2.3"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3, p. 1"
+          }
+        },
+        {
+          "order": 10,
+          "original": "greater than or equal to 14 but less than 18",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The sentence specifies a range, typical for regulatory specifications.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "greater than or equal to 14 but less than 18",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Condition",
+            "function": "Defining a range condition on concentration values",
+            "pattern": "Comparative numeric range expression",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "range_start": "greater than or equal to 14",
+              "range_end": "less than 18"
+            },
+            "justification": "Sentence is numeric range fragment without verb; expresses condition via numeric limits, no predefined template for standalone conditions of this form.",
+            "notes": [
+              "Appears as a fragment for classification thresholds"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "LIGHTLY SWEETENED"
+            ],
+            "process": "LIGHTLY SWEETENED",
+            "process_candidates": [
+              "Lightly sweetened",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2.1 - Lightly sweetened",
+            "section_id": "2.2.1",
+            "section_number": "2.2.1",
+            "section_title": "Lightly sweetened",
+            "section_path": [
+              "2",
+              "2.2",
+              "2.2.1"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "Lightly sweetened"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "LIGHTLY SWEETENED"
+            ],
+            "process": "LIGHTLY SWEETENED",
+            "process_candidates": [
+              "Lightly sweetened",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2.1 - Lightly sweetened",
+            "section_id": "2.2.1",
+            "section_number": "2.2.1",
+            "section_title": "Lightly sweetened",
+            "section_path": [
+              "2",
+              "2.2",
+              "2.2.1"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "Lightly sweetened"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.1, p. 1"
+          }
+        },
+        {
+          "order": 11,
+          "original": "greater than or equal to 18 but less than 22",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The sentence specifies a range, typical for regulatory specifications.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "greater than or equal to 18 but less than 22",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Condition",
+            "function": "Defining a range condition on concentration values",
+            "pattern": "Comparative numeric range expression",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "range_start": "greater than or equal to 18",
+              "range_end": "less than 22"
+            },
+            "justification": "Same pattern as previous numeric threshold fragment expressing condition modality.",
+            "notes": [
+              "Repetition of numeric range pattern"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "HEAVILY SWEETENED"
+            ],
+            "process": "HEAVILY SWEETENED",
+            "process_candidates": [
+              "Heavily sweetened",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2.2 - Heavily sweetened",
+            "section_id": "2.2.2",
+            "section_number": "2.2.2",
+            "section_title": "Heavily sweetened",
+            "section_path": [
+              "2",
+              "2.2",
+              "2.2.2"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "Heavily sweetened"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "HEAVILY SWEETENED"
+            ],
+            "process": "HEAVILY SWEETENED",
+            "process_candidates": [
+              "Heavily sweetened",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2.2 - Heavily sweetened",
+            "section_id": "2.2.2",
+            "section_number": "2.2.2",
+            "section_title": "Heavily sweetened",
+            "section_path": [
+              "2",
+              "2.2",
+              "2.2.2"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "Heavily sweetened"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.2, p. 1"
+          }
+        },
+        {
+          "order": 12,
+          "original": "greater than or equal to 10 but less than 14",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The sentence specifies a range, typical for regulatory specifications.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "greater than or equal to 10 but less than 14",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Condition",
+            "function": "Defining a range condition on concentration values",
+            "pattern": "Comparative numeric range expression",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "range_start": "greater than or equal to 10",
+              "range_end": "less than 14"
+            },
+            "justification": "Consistent numeric range expression representing condition, no matching template found.",
+            "notes": [
+              "Numeric range condition"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "EXTRA LIGHT SYRUP OR SLIGHTLY SWEETENED SYRUP"
+            ],
+            "process": "EXTRA LIGHT SYRUP OR SLIGHTLY SWEETENED SYRUP",
+            "process_candidates": [
+              "Extra light syrup or slightly sweetened syrup",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.3.1 - Extra light syrup or slightly sweetened syrup",
+            "section_id": "2.3.1",
+            "section_number": "2.3.1",
+            "section_title": "Extra light syrup or slightly sweetened syrup",
+            "section_path": [
+              "2",
+              "2.3",
+              "2.3.1"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "Extra light syrup or slightly sweetened syrup"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "EXTRA LIGHT SYRUP OR SLIGHTLY SWEETENED SYRUP"
+            ],
+            "process": "EXTRA LIGHT SYRUP OR SLIGHTLY SWEETENED SYRUP",
+            "process_candidates": [
+              "Extra light syrup or slightly sweetened syrup",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.3.1 - Extra light syrup or slightly sweetened syrup",
+            "section_id": "2.3.1",
+            "section_number": "2.3.1",
+            "section_title": "Extra light syrup or slightly sweetened syrup",
+            "section_path": [
+              "2",
+              "2.3",
+              "2.3.1"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "Extra light syrup or slightly sweetened syrup"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.1, p. 1"
+          }
+        },
+        {
+          "order": 13,
+          "original": "greater than or equal to 14 but less than 18",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The sentence specifies a range, typical for regulatory specifications.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "greater than or equal to 14 but less than 18",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Condition",
+            "function": "Defining a range condition on concentration values",
+            "pattern": "Comparative numeric range expression",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "range_start": "greater than or equal to 14",
+              "range_end": "less than 18"
+            },
+            "justification": "Duplicate of precedent numeric threshold fragment with same classification rationale.",
+            "notes": [
+              "Repeated numeric range"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "LIGHTLY SWEETENED"
+            ],
+            "process": "LIGHTLY SWEETENED",
+            "process_candidates": [
+              "Lightly sweetened",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2.1 - Lightly sweetened",
+            "section_id": "2.2.1",
+            "section_number": "2.2.1",
+            "section_title": "Lightly sweetened",
+            "section_path": [
+              "2",
+              "2.2",
+              "2.2.1"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "Lightly sweetened"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.1, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "LIGHTLY SWEETENED"
+            ],
+            "process": "LIGHTLY SWEETENED",
+            "process_candidates": [
+              "Lightly sweetened",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2.1 - Lightly sweetened",
+            "section_id": "2.2.1",
+            "section_number": "2.2.1",
+            "section_title": "Lightly sweetened",
+            "section_path": [
+              "2",
+              "2.2",
+              "2.2.1"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "Lightly sweetened"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.1, p. 1"
+          }
+        },
+        {
+          "order": 14,
+          "original": "greater than or equal to 17 but less than 20",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The sentence specifies a range, typical for regulatory specifications.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "greater than or equal to 17 but less than 20",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Condition",
+            "function": "Defining a range condition on concentration values",
+            "pattern": "Comparative numeric range expression",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "range_start": "greater than or equal to 17",
+              "range_end": "less than 20"
+            },
+            "justification": "Numeric range fragment expressing a condition, no complex structure or obligation.",
+            "notes": [
+              "Threshold specification fragment"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "SYRUP (OPTIONAL)"
+            ],
+            "process": "SYRUP (OPTIONAL)",
+            "process_candidates": [
+              "Syrup (optional)",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.3.3 - Syrup (optional)",
+            "section_id": "2.3.3",
+            "section_number": "2.3.3",
+            "section_title": "Syrup (optional)",
+            "section_path": [
+              "2",
+              "2.3",
+              "2.3.3"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "Syrup (optional)"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.3, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "SYRUP (OPTIONAL)"
+            ],
+            "process": "SYRUP (OPTIONAL)",
+            "process_candidates": [
+              "Syrup (optional)",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.3.3 - Syrup (optional)",
+            "section_id": "2.3.3",
+            "section_number": "2.3.3",
+            "section_title": "Syrup (optional)",
+            "section_path": [
+              "2",
+              "2.3",
+              "2.3.3"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "Syrup (optional)"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.3, p. 1"
+          }
+        },
+        {
+          "order": 15,
+          "original": "greater than or equal to 18 but less than 22",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The sentence specifies a range, typical for regulatory specifications.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "greater than or equal to 18 but less than 22",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Condition",
+            "function": "Defining a range condition on concentration values",
+            "pattern": "Comparative numeric range expression",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "range_start": "greater than or equal to 18",
+              "range_end": "less than 22"
+            },
+            "justification": "Repeated numeric range fragment consistent with condition expression.",
+            "notes": [
+              "Repeated numeric range"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "HEAVILY SWEETENED"
+            ],
+            "process": "HEAVILY SWEETENED",
+            "process_candidates": [
+              "Heavily sweetened",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2.2 - Heavily sweetened",
+            "section_id": "2.2.2",
+            "section_number": "2.2.2",
+            "section_title": "Heavily sweetened",
+            "section_path": [
+              "2",
+              "2.2",
+              "2.2.2"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "Heavily sweetened"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.2, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "HEAVILY SWEETENED"
+            ],
+            "process": "HEAVILY SWEETENED",
+            "process_candidates": [
+              "Heavily sweetened",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.2.2 - Heavily sweetened",
+            "section_id": "2.2.2",
+            "section_number": "2.2.2",
+            "section_title": "Heavily sweetened",
+            "section_path": [
+              "2",
+              "2.2",
+              "2.2.2"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Fruit juice or fruit pulp or blend of fruit juices or fruit pulps, unsweetened or sweetened with e.g., foodstuff with sweetening properties such as sugars or honey",
+              "Heavily sweetened"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.2.2, p. 1"
+          }
+        },
+        {
+          "order": 16,
+          "original": "greater than or equal to 22",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "The sentence specifies a threshold, typical for regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.9
+          },
+          "classification": {
+            "sentence": "greater than or equal to 22",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Limits and Targets",
+            "modality": "Condition",
+            "function": "Defining a lower bound condition on concentration value",
+            "pattern": "Comparative numeric threshold expression",
+            "template_match_score": 0.5,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "range_start": "greater than or equal to 22"
+            },
+            "justification": "Single-sided numeric threshold fragment expressing a condition with no explicit upper bound.",
+            "notes": [
+              "Lower bound only"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "EXTRA HEAVY SYRUP"
+            ],
+            "process": "EXTRA HEAVY SYRUP",
+            "process_candidates": [
+              "Extra heavy syrup",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.3.5 - Extra heavy syrup",
+            "section_id": "2.3.5",
+            "section_number": "2.3.5",
+            "section_title": "Extra heavy syrup",
+            "section_path": [
+              "2",
+              "2.3",
+              "2.3.5"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "Extra heavy syrup"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.5, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "LIMITS AND TARGETS",
+            "subject_candidates": [
+              "LIMITS AND TARGETS",
+              "CANNED FRUITS",
+              "EXTRA HEAVY SYRUP"
+            ],
+            "process": "EXTRA HEAVY SYRUP",
+            "process_candidates": [
+              "Extra heavy syrup",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Food Processing and Production"
+            ],
+            "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+            "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+            "document_reference": "CXG 51-2003",
+            "document_title": "Guidelines for Packing Media for Canned Fruits",
+            "document_type": "Guidelines",
+            "section": "2.3.5 - Extra heavy syrup",
+            "section_id": "2.3.5",
+            "section_number": "2.3.5",
+            "section_title": "Extra heavy syrup",
+            "section_path": [
+              "2",
+              "2.3",
+              "2.3.5"
+            ],
+            "section_path_titles": [
+              "COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+              "Syrup: mixtures of water and foodstuff with sweetening properties such as sugars or honey",
+              "Extra heavy syrup"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "c2460c43-1604-4ccd-b57d-ca5bbeedb279, Section 2.3.5, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "312",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Food Processing and Production"
+        ],
+        "document": "CXG 51-2003 - Guidelines for Packing Media for Canned Fruits",
+        "document_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+        "document_reference": "CXG 51-2003",
+        "document_title": "Guidelines for Packing Media for Canned Fruits",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "312",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 51-2003",
+      "title": "GUIDELINES FOR PACKING MEDIA FOR CANNED FRUITS",
+      "summary": "Documento apresenta diretrizes para meios de embalagem para frutas enlatadas com dois títulos principais: 1. SCOPE e 2. COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING, essa última com várias subseções detalhadas. A página contém a introdução e definições detalhadas dos meios de embalagem, com continuidade indicativa para próximas páginas na seção 2.",
+      "total_sections": 2,
+      "sections": [
+        "1",
+        "2",
+        "2.1",
+        "2.2",
+        "2.2.1",
+        "2.2.2",
+        "2.3",
+        "2.3.1",
+        "2.3.2",
+        "2.3.3",
+        "2.3.4",
+        "2.3.5",
+        "2.4",
+        "2.5",
+        "2.6",
+        "2.7",
+        "2.8"
+      ]
+    }
+  ]
+}

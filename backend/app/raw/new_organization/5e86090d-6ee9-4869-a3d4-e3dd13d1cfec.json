@@ -1,0 +1,457 @@
+{
+  "document": {
+    "id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+    "type": "CODEX",
+    "document_type": "Guidelines",
+    "reference": "CXG 28-1995",
+    "year": "1995",
+    "title": "Food Control Laboratory Management: Recommendations",
+    "label": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+    "committee": "CCMAS",
+    "last_modified": "1997",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXG%2B28-1995%252FCXG_028e.pdf",
+    "processes": [
+      "Analytical Methods and Laboratory Practices",
+      "Cross-cutting Processes"
+    ]
+  },
+  "commodities": [],
+  "sections": [
+    {
+      "id": "path_titles::food control laboratory management: recommendations::lvl1",
+      "key": "path_titles::food control laboratory management: recommendations::lvl1",
+      "raw_id": "path_titles::food control laboratory management: recommendations::lvl1",
+      "number": null,
+      "title": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+      "level": 1,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [
+        "1"
+      ],
+      "path_titles": [
+        "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+      ],
+      "pages": {
+        "start": 1,
+        "end": 1
+      },
+      "page_refs": [],
+      "citation": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec, FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS, p. 1",
+      "text": "CAC/GL 28-1995, Rev.1-1997\n\nThe following Protocols and Guidelines have been adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem.,  65 (1993) 2132 -2144 and J. AOAC International,  76 (1993) 926-940;\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343; and\n\n•  “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+      "retrieval_text": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS\nlevel=1\nCAC/GL 28-1995, Rev.1-1997\n\nThe following Protocols and Guidelines have been adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem.,  65 (1993) 2132 -2144 and J. AOAC International,  76 (1993) 926-940;\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343; and\n\n•  “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+      "page_spans": [
+        {
+          "page": 1,
+          "text": "CAC/GL 28-1995, Rev.1-1997\n\nThe following Protocols and Guidelines have been adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem.,  65 (1993) 2132 -2144 and J. AOAC International,  76 (1993) 926-940;\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343; and\n\n•  “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666."
+        }
+      ],
+      "rag": {
+        "rag_id": 168,
+        "order": 0
+      },
+      "sentences": [],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+        "process_candidates": [
+          "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+        "document_id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+        "document_reference": "CXG 28-1995",
+        "document_title": "Food Control Laboratory Management: Recommendations",
+        "document_type": "Guidelines",
+        "section": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+        "section_id": "path_titles::food control laboratory management: recommendations::lvl1",
+        "section_number": null,
+        "section_title": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec, FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS, p. 1"
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+        "process_candidates": [
+          "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+        "document_id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+        "document_reference": "CXG 28-1995",
+        "document_title": "Food Control Laboratory Management: Recommendations",
+        "document_type": "Guidelines",
+        "section": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+        "section_id": "path_titles::food control laboratory management: recommendations::lvl1",
+        "section_number": null,
+        "section_title": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+        "section_path": [
+          "1"
+        ],
+        "section_path_titles": [
+          "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+        ],
+        "page": 1,
+        "pages": [
+          "1"
+        ],
+        "citation": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec, FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS, p. 1"
+      }
+    },
+    {
+      "id": "168",
+      "key": "168",
+      "raw_id": null,
+      "number": null,
+      "title": null,
+      "level": null,
+      "parent_id": null,
+      "parent_title": null,
+      "path": [],
+      "path_titles": [],
+      "pages": {
+        "start": null,
+        "end": null
+      },
+      "page_refs": [],
+      "citation": null,
+      "text": "",
+      "retrieval_text": "",
+      "page_spans": [],
+      "rag": {
+        "rag_id": null,
+        "order": null
+      },
+      "sentences": [
+        {
+          "order": 0,
+          "original": "CAC/GL 28-1995, Rev.1-1997",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains references to protocols and guidelines relevant to regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.95
+          },
+          "classification": {
+            "sentence": "The following Protocols and Guidelines have been adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem.,  65 (1993) 2132 -2144 and J. AOAC International,  76 (1993) 926-940;\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343; and\n\n•  “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Reference and Adoption",
+            "modality": "Obligation",
+            "function": "Adoption by reference of external protocols",
+            "pattern": "Subject + have been adopted + list of external documents with citation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "adopting_body": "Codex Alimentarius Commission",
+              "adoption_method": "by reference",
+              "purpose": "quality assurance of food control laboratories",
+              "documents": [
+                {
+                  "title": "International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories",
+                  "citations": [
+                    "Pure & Appl. Chem., 65 (1993) 2132 -2144",
+                    "J. AOAC International, 76 (1993) 926-940"
+                  ]
+                },
+                {
+                  "title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+                  "citations": [
+                    "Pure & Appl. Chem., 67 (1995) 331-343"
+                  ]
+                },
+                {
+                  "title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+                  "citations": [
+                    "Pure & Appl. Chem., 67 (1995) 649-666"
+                  ]
+                }
+              ]
+            },
+            "justification": "The sentence normatively adopts multiple external protocols by reference, indicating an obligation modality with a complex list structure not matching existing templates.",
+            "notes": [
+              "Contains multiple cited documents; adoption by reference modality",
+              "Complex enumerative list after adoption predicate"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REFERENCE AND ADOPTION",
+            "subject_candidates": [
+              "REFERENCE AND ADOPTION",
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+            ],
+            "process": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "process_candidates": [
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+            "document_id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+            "document_reference": "CXG 28-1995",
+            "document_title": "Food Control Laboratory Management: Recommendations",
+            "document_type": "Guidelines",
+            "section": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "section_id": "path_titles::food control laboratory management: recommendations::lvl1",
+            "section_number": null,
+            "section_title": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec, FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REFERENCE AND ADOPTION",
+            "subject_candidates": [
+              "REFERENCE AND ADOPTION",
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+            ],
+            "process": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "process_candidates": [
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+            "document_id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+            "document_reference": "CXG 28-1995",
+            "document_title": "Food Control Laboratory Management: Recommendations",
+            "document_type": "Guidelines",
+            "section": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "section_id": "path_titles::food control laboratory management: recommendations::lvl1",
+            "section_number": null,
+            "section_title": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec, FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS, p. 1"
+          }
+        },
+        {
+          "order": 0,
+          "original": "The following Protocols and Guidelines have been adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem.,  65 (1993) 2132 -2144 and J. AOAC International,  76 (1993) 926-940;\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343; and\n\n•  “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+          "rewrite": "",
+          "modality": "",
+          "function": "",
+          "status": "classified",
+          "prefilter": {
+            "decision": "keep",
+            "reason": "Contains references to protocols and guidelines relevant to regulatory context.",
+            "stage": "light_prefilter",
+            "confidence": 0.95
+          },
+          "classification": {
+            "sentence": "The following Protocols and Guidelines have been adopted by the Codex Alimentarius Commission by reference for quality assurance of food control laboratories:\n\n• “International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories”, Pure & Appl. Chem.,  65 (1993) 2132 -2144 and J. AOAC International,  76 (1993) 926-940;\n\n• “Protocol for the Design, Conduct and Interpretation of Method Performance Studies”, Pure & Appl. Chem., 67 (1995) 331-343; and\n\n•  “Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories”, Pure & Appl. Chem., 67 (1995) 649-666.",
+            "matched_template_id": null,
+            "closest_template_id": null,
+            "category": "Reference and Adoption",
+            "modality": "Obligation",
+            "function": "Adoption by reference of external protocols",
+            "pattern": "Subject + have been adopted + list of external documents with citation",
+            "template_match_score": 0.0,
+            "decision": "new_pattern",
+            "is_new_pattern": true,
+            "components": {
+              "adopting_body": "Codex Alimentarius Commission",
+              "adoption_method": "by reference",
+              "purpose": "quality assurance of food control laboratories",
+              "documents": [
+                {
+                  "title": "International Harmonized Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories",
+                  "citations": [
+                    "Pure & Appl. Chem., 65 (1993) 2132 -2144",
+                    "J. AOAC International, 76 (1993) 926-940"
+                  ]
+                },
+                {
+                  "title": "Protocol for the Design, Conduct and Interpretation of Method Performance Studies",
+                  "citations": [
+                    "Pure & Appl. Chem., 67 (1995) 331-343"
+                  ]
+                },
+                {
+                  "title": "Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories",
+                  "citations": [
+                    "Pure & Appl. Chem., 67 (1995) 649-666"
+                  ]
+                }
+              ]
+            },
+            "justification": "The sentence normatively adopts multiple external protocols by reference, indicating an obligation modality with a complex list structure not matching existing templates.",
+            "notes": [
+              "Contains multiple cited documents; adoption by reference modality",
+              "Complex enumerative list after adoption predicate"
+            ]
+          },
+          "triples": [],
+          "source": {
+            "type": "CODEX",
+            "subject": "REFERENCE AND ADOPTION",
+            "subject_candidates": [
+              "REFERENCE AND ADOPTION",
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+            ],
+            "process": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "process_candidates": [
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+            "document_id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+            "document_reference": "CXG 28-1995",
+            "document_title": "Food Control Laboratory Management: Recommendations",
+            "document_type": "Guidelines",
+            "section": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "section_id": "path_titles::food control laboratory management: recommendations::lvl1",
+            "section_number": null,
+            "section_title": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec, FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS, p. 1"
+          },
+          "reference": {
+            "type": "CODEX",
+            "subject": "REFERENCE AND ADOPTION",
+            "subject_candidates": [
+              "REFERENCE AND ADOPTION",
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+            ],
+            "process": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "process_candidates": [
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+              "Analytical Methods and Laboratory Practices",
+              "Cross-cutting Processes"
+            ],
+            "document": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+            "document_id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+            "document_reference": "CXG 28-1995",
+            "document_title": "Food Control Laboratory Management: Recommendations",
+            "document_type": "Guidelines",
+            "section": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "section_id": "path_titles::food control laboratory management: recommendations::lvl1",
+            "section_number": null,
+            "section_title": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+            "section_path": [
+              "1"
+            ],
+            "section_path_titles": [
+              "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS"
+            ],
+            "page": 1,
+            "pages": [
+              "1"
+            ],
+            "citation": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec, FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS, p. 1"
+          }
+        }
+      ],
+      "source": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+        "document_id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+        "document_reference": "CXG 28-1995",
+        "document_title": "Food Control Laboratory Management: Recommendations",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "168",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      },
+      "reference": {
+        "type": "CODEX",
+        "subject": null,
+        "subject_candidates": [],
+        "process": null,
+        "process_candidates": [
+          "Analytical Methods and Laboratory Practices",
+          "Cross-cutting Processes"
+        ],
+        "document": "CXG 28-1995 - Food Control Laboratory Management: Recommendations",
+        "document_id": "5e86090d-6ee9-4869-a3d4-e3dd13d1cfec",
+        "document_reference": "CXG 28-1995",
+        "document_title": "Food Control Laboratory Management: Recommendations",
+        "document_type": "Guidelines",
+        "section": "",
+        "section_id": "168",
+        "section_number": null,
+        "section_title": null,
+        "section_path": [],
+        "section_path_titles": [],
+        "page": null,
+        "pages": [],
+        "citation": null
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "header": "CAC/GL 28  Page 1 of 1",
+      "title": "FOOD CONTROL LABORATORY MANAGEMENT: RECOMMENDATIONS",
+      "summary": "A página possui um título principal em caixa alta e sem numeração que serve como título nível 1. O texto subsequente foi associado integralmente a esse título. Não há subtítulos ou divisões internas. O cabeçalho da página foi identificado. Perfeito para uso em RAG.",
+      "total_sections": 1,
+      "sections": [
+        "node-1"
+      ]
+    }
+  ]
+}
