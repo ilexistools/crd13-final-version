@@ -81,7 +81,7 @@ export class Crd13ApiService {
   constructor(private http: HttpClient) {}
 
   getTemplates(): Observable<TemplatesRoot> {
-    return this.http.get<TemplatesRoot>(`${this.baseUrl}/templates`).pipe(
+    return this.http.get<TemplatesRoot>('assets/templates/templates.json').pipe(
       map(root => {
         const items = (root?.items || []).map(item => this.normalizeTemplate(item));
         if (!items.some(item => item.id === this.undefinedTemplateId)) {

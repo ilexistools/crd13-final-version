@@ -13,6 +13,9 @@ from pydantic import BaseModel, Field
 from app.orchestration import gpt
 from app.orchestration.config import default_model
 from app.orchestration.util import instruction_loader
+from app.tools._commodity_matching import commodity_query_terms, normalize_commodity
+from app.tools._document_metadata import DEFAULT_SECTIONS_DB_PATH, fetch_documents_by_id
+from app.tools._document_text import DEFAULT_TEXTS_DIR, document_context_text
 
 
 
@@ -36,8 +39,15 @@ class ProvisionFilterResponse(BaseModel):
 
 
 class ProvisionsSearchTool:
-    def __init__(self, db_path: str | Path = DEFAULT_DB_PATH):
+    def __init__(
+        self,
+        db_path: str | Path = DEFAULT_DB_PATH,
+        sections_db_path: str | Path = DEFAULT_SECTIONS_DB_PATH,
+        texts_dir: str | Path = DEFAULT_TEXTS_DIR,
+    ):
         self.db_path = Path(db_path)
+        self.sections_db_path = Path(sections_db_path)
+        self.texts_dir = Path(texts_dir)
         self._provision_filter: gpt.GPT | None = None
 
     def _get_provision_filter(self) -> gpt.GPT:
@@ -51,21 +61,8 @@ class ProvisionsSearchTool:
         connection.row_factory = sqlite3.Row
         return connection
 
-    @staticmethod
-    def normalize_commodity(value: str) -> str:
-        return re.sub(r"\s+", " ", value.strip()).casefold()
-
-    @classmethod
-    def commodity_query_terms(cls, value: str) -> set[str]:
-        normalized = cls.normalize_commodity(value)
-        if not normalized:
-            return set()
-
-        terms = {normalized}
-        for suffix in (" products", " product"):
-            if normalized.endswith(suffix):
-                terms.add(normalized[: -len(suffix)].strip())
-        return {term for term in terms if term}
+    normalize_commodity = staticmethod(normalize_commodity)
+    commodity_query_terms = staticmethod(commodity_query_terms)
 
     @staticmethod
     def _fts_query(text: str) -> str:
@@ -329,10 +326,36 @@ class ProvisionsSearchTool:
             if provision.get("id") in selected_ids
         ]
 
+    def _attach_documents(self, results: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        """Add the source document's display metadata and text to each provision
+        result. `document.text` is the full document text for documents of up to
+        20 pages, or a 10-pages-before/10-pages-after window around the
+        provision's page range for longer documents."""
+        documents_by_id = fetch_documents_by_id(
+            self.sections_db_path, (result.get("document_id") for result in results)
+        )
+        for result in results:
+            document_id = result.get("document_id")
+            document = documents_by_id.get(document_id)
+            if document is not None:
+                document = {
+                    **document,
+                    "text": document_context_text(
+                        document_id,
+                        page_start=result.get("page_start"),
+                        page_end=result.get("page_end"),
+                        texts_dir=self.texts_dir,
+                    ),
+                }
+            result["document"] = document
+        return results
+
     def run(self, commodities: list[str], text: str, limit: int = 25) -> list[dict[str, Any]]:
         candidates = self.filter_results(commodities, text, limit=limit)
-        return {"output": {"input": {"commodities": commodities, "text": text}, "results": self.filter_provisions(text, candidates)}}
+        results = self._attach_documents(self.filter_provisions(text, candidates))
+        return {"output": {"input": {"commodities": commodities, "text": text}, "results": results}}
 
     async def run_async(self, commodities: list[str], text: str, limit: int = 25) -> dict[str, Any]:
         candidates = self.filter_results(commodities, text, limit=limit)
-        return {"output": {"input": {"commodities": commodities, "text": text}, "results": await self.filter_provisions_async(text, candidates)}}
+        results = self._attach_documents(await self.filter_provisions_async(text, candidates))
+        return {"output": {"input": {"commodities": commodities, "text": text}, "results": results}}

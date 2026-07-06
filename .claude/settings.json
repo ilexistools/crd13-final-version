@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"from app.tools.provisions_search import ProvisionsSearchTool; t=ProvisionsSearchTool.__new__\\(ProvisionsSearchTool\\); print\\(ProvisionsSearchTool.normalize_commodity\\('Milk Products'\\)\\); print\\(ProvisionsSearchTool.commodity_query_terms\\('Milk Products'\\)\\)\")",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}

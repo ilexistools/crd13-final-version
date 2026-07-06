@@ -227,6 +227,10 @@ class SQLiteVecSearch:
 
     # ------------------------------- public API ---------------------------
 
+    def embed(self, texts: List[str]) -> np.ndarray:
+        """Embed *texts* with this index's model/normalization settings."""
+        return self._embed_texts(texts)
+
     def add(self, items: List[Dict[str, Any]]) -> None:
         """
         Add items to the index.

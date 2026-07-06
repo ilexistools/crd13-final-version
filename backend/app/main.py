@@ -1,6 +1,3 @@
-import json
-from pathlib import Path
-
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Any
@@ -9,6 +6,7 @@ from PyPDF2 import PdfReader
 from app.tools.commodities_identification import CommoditiesIdentifierTool
 from app.tools.unitization import UnitizationTool
 from app.tools.provisions_search import ProvisionsSearchTool
+from app.tools.attestation_section_search import AttestationSectionSearchTool
 from app.tools.triple_generation import TripleGenerationTool
 from app.tools.attestation_analyser import AttestationAnalyserTool
 from app.tools.attestation_rewriter import AttestationRewriteTool
@@ -20,6 +18,7 @@ from app.tools.compliance_correction import ComplianceCorrectionTool
 unitizer = UnitizationTool()
 commodities_identifier = CommoditiesIdentifierTool()
 provisions_search = ProvisionsSearchTool()
+attestation_section_search = AttestationSectionSearchTool()
 triple_generator = TripleGenerationTool()
 attestation_analyser = AttestationAnalyserTool()
 attestation_rewriter = AttestationRewriteTool()
@@ -48,18 +47,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-ASSETS_DIR = Path(__file__).resolve().parent / "assets" / "resources"
-
-
 @app.get("/health")
 async def health() -> dict[str, str]:
     return {"status": "ok"}
-
-@app.get("/templates")
-async def templates() -> dict[str, Any]:
-    templates_path = ASSETS_DIR / "attestation_templates.json"
-    with templates_path.open("r", encoding="utf-8") as handle:
-        return json.load(handle)
 
 @app.post("/extract_pdf_text")
 async def extract_pdf_text(file: UploadFile = File(...)) -> dict[str, Any]:
@@ -92,6 +82,26 @@ async def unitize_text(payload: InputRequest) -> OutputResponse:
 async def search_provisions(payload: InputRequest) -> OutputResponse:
     result = await provisions_search.run_async(payload.input.get("commodities", []), payload.input.get("text", ""))
     return OutputResponse(output=result)    
+
+@app.post("/search_attestation_sections", response_model=OutputResponse)
+async def search_attestation_sections(payload: InputRequest) -> OutputResponse:
+    provision = payload.input.get("provision", "")
+    commodities = payload.input.get("commodities", [])
+    if not isinstance(provision, str):
+        raise HTTPException(
+            status_code=422,
+            detail="input.provision must be a string.",
+        )
+    if not isinstance(commodities, list):
+        raise HTTPException(
+            status_code=422,
+            detail="input.commodities must be a list of strings.",
+        )
+    try:
+        result = await attestation_section_search.run_async(provision, commodities)
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
+    return OutputResponse(output=result)
 
 @app.post("/generate_triples", response_model=OutputResponse)
 async def generate_triples(payload: InputRequest) -> OutputResponse:
