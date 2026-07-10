@@ -1,0 +1,754 @@
+{
+  "doc_id": "81076ed7-144b-4f9a-b7af-d21f76d3e423",
+  "title": "REGIONAL STANDARD FOR NON-FERMENTED SOYBEAN PRODUCTS CXS 322R-2015 Adopted in 2015. Amended in 2016, 2017.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL STANDARD FOR NON-FERMENTED SOYBEAN PRODUCTS CXS 322R-2015 Adopted in 2015. Amended in 2016, 2017.",
+      "summary": "Document heading naming the Regional Standard for Non‑Fermented Soybean Products (CXS 322R‑2015) and noting adoption in 2015 with amendments in 2016 and 2017; no substantive requirements in this line.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Scope states the standard applies to the products defined in Section 2 when offered for direct consumption (including catering), repacking, or further processing as required.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Describes non‑fermented soybean products (main ingredients soybean and/or soy derivatives plus water, produced without fermentation) and classifies them into categories including soybean beverages (plain, composite/flavoured, soybean‑based), soybean curd and related products (semisolid curd, curd), compressed curd, and dehydrated curd film.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product Definition",
+      "summary": "Defines non‑fermented soybean products as products whose main ingredients are soybean and/or soy derivatives plus water and which are produced without a fermentation process.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Classification",
+      "summary": "Provides the classification framework for non‑fermented soybean products, dividing them into beverage types, soybean curd types, compressed curd, and dehydrated curd film as distinct product classes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 Soybean Beverages 2  and Related Products",
+      "summary": "Defines the soybean beverage category and its three subtypes: plain soybean beverage (milky liquid from soybeans without added optional ingredients), composite/flavoured soybean beverages (plain beverages with optional ingredients such as sweeteners or spices), and soybean‑based beverages (similar products with lower protein content).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.1.1 Plain soybean beverage",
+      "summary": "Defines plain soybean beverage as the milky liquid prepared from soybeans by extracting protein and other components with hot or cold water (or physical means) without adding optional ingredients, with fibres optionally removed.",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "product type heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.1.2 Composite/ flavoured soybean beverages",
+      "summary": "Defines composite/flavoured soybean beverages as milky liquids made by adding optional ingredients to plain soybean beverage, including sweetened, spiced, or salted variants.",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "product type heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.1.3 Soybean-based beverages",
+      "summary": "Defines soybean-based beverages as milky liquid products prepared by adding optional ingredients to soybean beverages and having lower protein content than composite/flavoured soybean beverages (2.2.1.2).",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "product type heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.2 Soybean Curd and Related Products",
+      "summary": "Defines semisolid soybean curd as a semisolid product in which soybean protein is coagulated by adding a coagulant to soybean liquid preparation, and soybean curd as a solid product made by coagulating soybean liquid preparation with a coagulant and having higher water content.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.2.1 Semisolid soybean curd",
+      "summary": "Defines semisolid soybean curd as the semisolid product produced by coagulating soybean protein in a soybean liquid preparation through addition of a coagulant.",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "product type heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.2.2.2 Soybean curd",
+      "summary": "Defines soybean curd as a solid product with relatively high water content produced from soybean liquid preparation by coagulation with a coagulant.",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "product type heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.2.3 Compressed Soybean Curd",
+      "summary": "Defines compressed soybean curd as partially dehydrated soybean curd with much lower water content than soybean curd and a chewy texture.",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "product type heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.2.4 Dehydrated Soybean Curd Film",
+      "summary": "Defines dehydrated soybean curd film as the film formed on the uncovered surface of soybean liquid preparation that is dehydrated (with or without folding) and may be dipped in salt solution prior to dehydration.",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "product type heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies essential composition and quality factors for non‑fermented soybean products: basic ingredients (soybean/derivatives and water), optional ingredients, requirement to process to reduce/eliminate antinutrients, sensory/purity quality criteria, and compliance with component requirements set out in Table 1; Table 1 establishes moisture and protein limits by product class, products failing Sections 3.3/3.4 are 'defectives', and lot acceptance uses sampling with an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.1 Basic Ingredients",
+      "summary": "Lists basic ingredients as soybean and/or soy derivatives and water, requires processing to reduce/eliminate antinutrients and prevent spoilage, and notes these products are referred to as 'soybean milk' in some countries.",
+      "categories": [
+        "composition",
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredients",
+        "processing note",
+        "informative note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2 Optional Ingredients",
+      "summary": "Permits optional ingredients including edible oil, sugars, salts, spices/seasonings/condiments and other appropriate ingredients.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients heading",
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.3 Quality Criteria",
+      "summary": "Requires non‑fermented soybean products to have the characteristic flavour, odour, colour and texture of the product and contain no visible foreign matter.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality criteria heading",
+        "sensory and purity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.4 Component Requirement",
+      "summary": "Requires compliance with Table 1 which sets moisture and protein requirements by product class (examples: plain and composite beverages ≥2.0 g protein/100g; soybean‑based beverages ≥0.8 but <2.0 g/100g; semisolid curd >92.0 g/100g moisture and ≥2.5 g protein/100g; soybean curd ≤92.0 g/100g moisture and ≥3.5 g protein/100g; compressed curd ≤75.0 g/100g moisture and ≥13.0 g protein/100g; dehydrated film ≤20.0 g/100g moisture and ≥30.0 g protein/100g).",
+      "categories": [
+        "composition",
+        "classification"
+      ],
+      "subcategories": [
+        "component requirement heading",
+        "component requirement",
+        "table heading",
+        "composition table",
+        "product classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.5 Classification of ʺDefectivesʺ",
+      "summary": "Declares any minimally packaged product that fails to meet the quality requirements in Sections 3.3 and 3.4 to be considered a 'defective'.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "defective products"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.6 Lot Acceptance",
+      "summary": "Specifies a lot meets applicable quality requirements when the number of 'defectives' does not exceed the acceptance number (c) of the appropriate sampling plan with an AQL of 6.5 (Annex I, II).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.1 General Requirements",
+      "summary": "Permits only additive functional classes listed as technologically justified in Table 2 for the specified product categories, allows carry‑over additives from soybean ingredients per CXS 192‑1995, and identifies which additive classes (e.g., acidity regulators, antioxidants, colours, emulsifiers, firming agents, preservatives, stabilizers, sweeteners) are allowed by product class in Table 2.",
+      "categories": [
+        "additives",
+        "classification"
+      ],
+      "subcategories": [
+        "general requirements heading",
+        "permitted additives",
+        "carry-over additives",
+        "table heading",
+        "additive table",
+        "product classes"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.2 Specific Food Additive Provisions",
+      "summary": "Sets specific additive provisions: plain soybean beverage permits no additives; composite/flavoured and soybean‑based beverages may use additive classes allowed under CXS 192‑1995 (Food Category 06.8.1) and a list of specific additives with maximum levels (e.g., ascorbyl palmitate 500 mg/kg, tocopherols 200 mg/kg, multiple colour INS with specified mg/kg limits, various emulsifiers up to 2000–20000 mg/kg, propylene glycol alginate 10000 mg/kg, acesulfame K 500 mg/kg, aspartame 1300 mg/kg); soybean curd may use acidity regulators, firming agents and stabilizers per CXS 192‑1995 (06.8.3); compressed soybean curd may use acidity regulators, firming agents and preservatives per CXS 192‑1995 and sodium diacetate (INS 262ii) up to 1000 mg/kg; dehydrated soybean curd film may use preservatives per CXS 192‑1995 and sulfites (INS 220–225,227–228,539) up to 200 mg/kg expressed as residual SO2.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.2.1 Plain Soybean Beverage",
+      "summary": "States that no additives are permitted in plain soybean beverage.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "product subsection",
+        "no additives"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.2.2 Composite/ flavoured Soybean Beverages and Soybean-based Beverages",
+      "summary": "Allows acidity regulators, antioxidants, colours, emulsifiers, flavour enhancers, stabilizers and sweeteners for composite/flavoured and soybean‑based beverages per CXS 192‑1995 (Food Category 06.8.1) and lists specific additives and limits such as ascorbyl palmitate 500 mg/kg, tocopherols 200 mg/kg, specific colour INS with mg/kg limits (e.g., curcumin 1 mg/kg; tartrazine and sunset yellow 300 mg/kg), multiple emulsifiers (polysorbates, diacetyltartaric esters, sucrose esters) with limits up to 2000–20000 mg/kg, propylene glycol alginate 10000 mg/kg, and sweeteners acesulfame K 500 mg/kg and aspartame 1300 mg/kg.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "product subsection",
+        "permitted additives",
+        "additive table",
+        "additive limit",
+        "colour additive limits",
+        "emulsifier heading",
+        "emulsifier limits",
+        "additive table heading",
+        "table separator",
+        "stabilizer heading",
+        "stabilizer limits",
+        "sweetener heading",
+        "sweetener limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.2.3 Soybean Curd",
+      "summary": "Permits acidity regulators, firming agents and stabilizers in soybean curd in accordance with Tables 1–3 of the General Standard for Food Additives (CXS 192‑1995) for Food Category 06.8.3.",
+      "categories": [
+        "composition",
+        "additives"
+      ],
+      "subcategories": [
+        "product subtype heading",
+        "general additive permission"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "4.2.4 Compressed Soybean Curd",
+      "summary": "Permits acidity regulators, firming agents and preservatives for compressed soybean curd per CXS 192‑1995 (Table 3) and additionally allows sodium diacetate (INS 262ii) up to 1000 mg/kg.",
+      "categories": [
+        "composition",
+        "additives"
+      ],
+      "subcategories": [
+        "product subtype heading",
+        "general additive permission",
+        "additive table heading",
+        "table separator",
+        "preservative heading",
+        "preservative limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "4.2.5 Dehydrated Soybean Curd Film",
+      "summary": "For dehydrated soybean curd film, preservatives in Table 3 of the General Standard for Food Additives (CXS 192‑1995) are acceptable and sulfite preservatives (INS 220–225, 227–228, 539) are permitted up to 200 mg/kg expressed as residual SO2.",
+      "categories": [
+        "composition",
+        "additives"
+      ],
+      "subcategories": [
+        "product subtype heading",
+        "general additive permission",
+        "additive table heading",
+        "table separator",
+        "preservative heading",
+        "preservative limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "4.3 Flavourings",
+      "summary": "Flavourings used in products covered by this standard must comply with the Guidelines for the Use of Flavourings (CXG 66‑2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings heading",
+        "flavouring compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "4.4 Processing Aids",
+      "summary": "Processing aids (e.g., antifoaming agents, acidity controllers for coagulant and extraction of soybean beverages, and carriers) may be used in products covered by this standard and must comply with the Guidelines on Substances Used as Processing Aids (CXG 75‑2010).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing aids heading",
+        "processing aid use",
+        "processing aid compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "5. CONTAMINANTS",
+      "summary": "Products covered by this Standard must comply with the Maximum Levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "6. HYGIENE",
+      "summary": "Manufacture and handling of products should comply with the General Principles of Food Hygiene (CXC 1‑1969) and relevant Codex texts, and the product should meet any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria related to Foods (CXG 21‑1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "good hygienic practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Net weight must be indicated per the General Standard for the Labelling of Prepackaged Foods (CXS 1‑1985); a container failing to meet declared net weight is a 'defective' and lot acceptance is determined by the appropriate sampling plan using an AQL of 6.5 (see Annex I, II).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "7.1 Net Weight",
+      "summary": "The product's net weight must be declared according to CXS 1‑1985; containers not meeting the declared net weight are 'defectives' and lot acceptance follows the sampling plan with an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "7.1.1 Classification of 'Defectives'",
+      "summary": "A container that fails to meet the net weight declared on the label is classified as a 'defective'.",
+      "categories": [
+        "official control",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defectives classification",
+        "net weight defect"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "7.1.2 Lot Acceptance",
+      "summary": "A lot meets the net weight requirement when the number of 'defectives' does not exceed the acceptance number (c) of the applicable sampling plan with an AQL of 6.5.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8. LABELLING",
+      "summary": "Products must be labelled in accordance with the General Standard for the Labelling of Prepackaged Foods (CXS 1‑1985); if soybean from modern biotechnology is used, relevant Codex texts on labelling (CAC/GL 76‑2011) should be considered, and the product name should use the appropriate term in Section 2.2 though other non‑misleading names are permitted by law and custom.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "8.1 The Name of the Product",
+      "summary": "The product name should use the appropriate term specified in Section 2.2, while other names may be used according to national law and custom provided they do not mislead consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specified methods are given for analysis: moisture by AOAC 925.09 or AACCI 44‑40.01 and protein by NMKL 6 (2004), AACCI 46‑16.01, AOAC 988.05 or AOCS methods, with a nitrogen factor of 5.71 for non‑fermented soybean products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "9.1 Methods of Analysis",
+      "summary": "Methods of analysis are prescribed: moisture determination per AOAC 925.09 or AACCI 44‑40.01 and protein determination per NMKL 6 (2004), AACCI 46‑16.01, AOAC 988.05 or AOCS methods, using a 5.71 nitrogen factor for non‑fermented soybean products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "9.1.1 Determination of Moisture Content",
+      "summary": "Moisture content determination shall be performed according to AOAC 925.09 or AACCI 44‑40.01.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "moisture determination",
+        "moisture method"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "9.1.2 Determination of Protein Content",
+      "summary": "Protein content determination shall follow NMKL 6 (2004) or AACCI 46‑16.01 or AOAC 988.05 or AOCS Bc 4‑91/Ba 4d‑90, with a nitrogen factor of 5.71 for non‑fermented soybean products.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "protein determination",
+        "protein method"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "Sampling Plans",
+      "summary": "Sampling plans specify inspection level selection (Level I for normal sampling; Level II for disputes, referee, enforcement or better lot estimates) and provide tables (AQL = 6.5) of lot‑size‑dependent sample sizes (n) and acceptance numbers (c) for different net weight categories.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plans heading",
+        "inspection level",
+        "normal sampling",
+        "referee sampling",
+        "enforcement sampling",
+        "sampling plan table",
+        "sample size table",
+        "table separator",
+        "sampling table columns",
+        "lot sample values",
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "ANNEX I",
+      "summary": "Annex I contains Sampling Plan 2 for Inspection Level II (AQL = 6.5), giving tables of lot size (N), sample size (n) and acceptance number (c) by net weight category.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "annex heading",
+        "sampling plan heading",
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    }
+  ]
+}

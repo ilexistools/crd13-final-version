@@ -1,0 +1,366 @@
+{
+  "doc_id": "325eb2a0-69b4-40f1-8612-dbdc3faf5bf8",
+  "title": "STANDARD FOR PEANUTS CXS 200-1995",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR PEANUTS CXS 200-1995",
+      "summary": "Document title indicating this is the Codex Standard for Peanuts (CXS 200-1995); not a substantive regulatory provision.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 1995. Amended in 2019.",
+      "summary": "Administrative note that the Standard for Peanuts was adopted in 1995 and amended in 2019; not a substantive regulatory provision.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1 SCOPE",
+      "summary": "This Standard applies to peanuts (see Section 2) intended for processing for direct human consumption.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2 DESCRIPTION",
+      "summary": "Peanuts, either in the pod or as kernels, are defined as products obtained from varieties of the species Arachis hypogaea L.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors for peanuts including general safety and sensory requirements, moisture maxima (in‑pod 10%, kernels 9.0%), defect limits for mouldy/rancid/decayed kernels (0.2% m/m), filth (animal origin) 0.1% m/m, and other extraneous matter 0.5% m/m.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Quality factors - general",
+      "summary": "General quality requirements: peanuts must be safe and suitable for processing for human consumption and free from abnormal flavours, odours, living insects and mites.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.1 Peanuts shall be safe and suitable for processing for human consumption.",
+      "summary": "Obligates that peanuts shall be safe and suitable for processing for human consumption.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "safety requirement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.2 Peanuts shall be free from abnormal flavours, odours, living insects and mites.",
+      "summary": "Requires peanuts to be free from abnormal flavours, odours, living insects and mites.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "sensory defects"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 Quality factors - specific",
+      "summary": "Specifies specific quality factors including moisture limits (in‑pod 10%, kernels 9.0%), a maximum of 0.2% m/m mouldy/rancid/decayed kernels, definitions of those defects, and extraneous matter limits (filth 0.1% m/m; other extraneous matter 0.5% m/m).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.1 Moisture content",
+      "summary": "Maximum moisture content: peanuts in‑pod 10% and peanut kernels 9.0%, with a note that lower moisture limits may be required for certain destinations depending on climate and duration of transport and storage.",
+      "categories": [
+        "quality",
+        "storage"
+      ],
+      "subcategories": [
+        "moisture content",
+        "maximum level heading",
+        "product category",
+        "maximum limit",
+        "storage condition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.2 Mouldy, rancid or decayed kernels 0.2% m/m max",
+      "summary": "Limits mouldy, rancid or decayed kernels to 0.2% m/m and defines mouldy as visible mould filaments, decayed as visibly significant decomposition, and rancid as lipid oxidation (not to exceed 5 meq active oxygen/kg) or free fatty acids (not to exceed 1.0%) causing off flavours.",
+      "categories": [
+        "quality",
+        "definition"
+      ],
+      "subcategories": [
+        "defect limit",
+        "defect definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.3.1  Filth",
+      "summary": "Filth limit: impurities of animal origin (including dead insects) shall not exceed 0.1% m/m.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "filth heading",
+        "filth limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.2 To the extent possible in good manufacturing practice, the product shall be free from objectionable matter.",
+      "summary": "Requires that, to the extent possible under good manufacturing practice, the product be free from objectionable matter.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "gmp cleanliness"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.3 When tested by appropriate methods of sampling and examination, the product:",
+      "summary": "Requires that, when tested by appropriate sampling and examination methods, the product be free from microorganisms, parasites, or microbially‑originating substances in amounts that may represent a hazard to health.",
+      "categories": [
+        "analysis sampling",
+        "hygiene"
+      ],
+      "subcategories": [
+        "sampling and examination",
+        "microbial hazard",
+        "parasitic hazard",
+        "microbial toxin hazard"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "## 6. PACKAGING",
+      "summary": "Packaging obligations: peanuts must be packaged to safeguard hygienic, nutritional, technological and organoleptic qualities using sound, clean, dry, uncontaminated materials; packing materials must be safe and not impart toxic substances or undesirable odours/flavours, and sacks must be clean, sturdy and properly sealed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.1 Peanuts shall be packaged in such manner which will safeguard the hygienic, nutritional, technological, and organoleptic qualities of the product. Packaging will be sound, clean, dry, and free from insect infestation or fungal contamination.",
+      "summary": "Peanuts shall be packaged so as to protect hygienic, nutritional, technological and organoleptic qualities, with packaging that is sound, clean, dry and free from insect or fungal contamination.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.2 Packing material shall be made of substances which are safe and suitable for their intended use, including new clean jute bags, tinplate containers, plastic or paper boxes or bags. They should not impart any toxic substance or undesirable odour or flavour to the product.",
+      "summary": "Packing materials must be safe and suitable for use (examples: new clean jute bags, tinplate, plastic or paper boxes/bags) and must not impart toxic substances or undesirable odours or flavours to the product.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packing material"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "## 7. LABELLING",
+      "summary": "Adds peanut‑specific labelling provisions to the General Standard (CXS 1‑1985), specifying the product name and non‑retail container information requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7.1 The name of the product",
+      "summary": "Requires the product name on the label to be 'peanuts' or 'peanuts in‑pod' and to indicate the type of peanuts.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.2 Labelling of non-retail containers",
+      "summary": "Non‑retail containers must bear the product name, lot identification and the name and address of the manufacturer or packer (which may be replaced by an identifiable mark linked to accompanying documents), and other required information may appear on the container or accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail container info"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## 8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "For compliance checks, users shall apply the methods of analysis and sampling in the Recommended Methods of Analysis and Sampling (CXS 234‑1999) relevant to this Standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods heading",
+        "reference methods"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "ANNEX",
+      "summary": "Annex: advises users to specify the appropriate limit and method where more than one is given and provides a detailed table of defect definitions and recommended limits for in‑pod and kernel defects (e.g., empty pods 3% m/m; damaged pods 10% m/m; discoloured pods 2% m/m; various kernel defect limits).",
+      "categories": [
+        "other",
+        "analysis sampling",
+        "quality",
+        "classification"
+      ],
+      "subcategories": [
+        "annex heading",
+        "method selection",
+        "table header",
+        "table separator",
+        "defect listing",
+        "defect limit",
+        "defect classification",
+        "varietal purity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

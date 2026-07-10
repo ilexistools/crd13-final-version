@@ -1,0 +1,2097 @@
+{
+  "doc_id": "4f714176-8274-483c-b2bb-2e052e6852ee",
+  "title": "Terrestrial Animal Health Code",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "Terrestrial Animal Health Code",
+      "summary": "Document title only: 'Terrestrial Animal Health Code' (non-substantive heading).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Recommendations applicable to WOAH listed diseases",
+      "summary": "Section heading only: 'Recommendations applicable to WOAH listed diseases' (non-substantive scope heading).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## © WORLD ORGANISATION FOR ANIMAL HEALTH",
+      "summary": "Copyright and permissions notice for WOAH publications describing reproduction restrictions and requirements for prior written permission (non-substantive editorial/copyright notice).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "copyright notice",
+        "image artifact"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "CONTENTS",
+      "summary": "Table of contents heading only (non-substantive).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "VOLUME II",
+      "summary": "Volume designation heading only: 'VOLUME II' (non-substantive).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "volume heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "SECTION 8.    | MULTIPLE SPECIES",
+      "summary": "Table of contents entry for Section 8 listing multiple-species disease chapters (Anthrax; Aujeszky's disease; bluetongue; Brucella spp.; Echinococcus spp.; epizootic hemorrhagic disease; foot and mouth disease; Heartwater; Japanese encephalitis; Leishmania; Mycobacterium tuberculosis complex; screwworms; Paratuberculosis; rabies; Rift Valley fever; rinderpest; Trichinella spp.; various Trypanosoma spp.; Tularemia; West Nile fever; Coxiella burnetii (Q fever); Trypanosoma evansi); this is a contents heading and not substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Chapter 8.1.  | Anthrax",
+      "summary": "Contents entry only: Chapter 8.1 titled 'Anthrax' (page 503), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Chapter 8.2.  | Infection with Aujeszky's disease virus",
+      "summary": "Contents entry only: Chapter 8.2 titled 'Infection with Aujeszky's disease virus' (page 507), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Chapter 8.3.  | Infection with bluetongue virus",
+      "summary": "Contents entry only: Chapter 8.3 titled 'Infection with bluetongue virus' (page 515), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Chapter 8.4.  | Infection with Brucella abortus, B. melitensis and B. suis",
+      "summary": "Contents entry only: Chapter 8.4 titled 'Infection with Brucella abortus, B. melitensis and B. suis' (page 525), not substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Chapter 8.5.  | Infection with Echinococcus granulosus",
+      "summary": "Contents entry only: Chapter 8.5 titled 'Infection with Echinococcus granulosus' (page 535), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Chapter 8.6.  | Infection with Echinococcus multilocularis",
+      "summary": "Contents entry only: Chapter 8.6 titled 'Infection with Echinococcus multilocularis' (page 538), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Chapter 8.7.  | Infection with epizootic hemorrhagic disease virus",
+      "summary": "Contents entry only: Chapter 8.7 titled 'Infection with epizootic hemorrhagic disease virus' (page 540), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "Chapter 8.8.  | Infection with foot and mouth disease virus",
+      "summary": "Contents entry only: Chapter 8.8 titled 'Infection with foot and mouth disease virus' (page 546), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Chapter 8.9.  | Heartwater",
+      "summary": "Contents entry only: Chapter 8.9 titled 'Heartwater' (page 569), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Chapter 8.10. | Japanese encephalitis",
+      "summary": "Contents entry only: Chapter 8.10 titled 'Japanese encephalitis' (page 570), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "Chapter 8.11. | Infection with Leishmania spp. (Leishmaniosis)",
+      "summary": "Contents entry only: Chapter 8.11 titled 'Infection with Leishmania spp. (Leishmaniosis)' (page 571), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "Chapter 8.12. | Infection with Mycobacterium tuberculosis complex",
+      "summary": "Contents entry only: Chapter 8.12 titled 'Infection with Mycobacterium tuberculosis complex' (page 572), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Chapter 8.13. | Newworld screwworm (Cochliomyia hominivorax) and old world screwworm (Chrysomya bezziana)",
+      "summary": "Contents entry only: Chapter 8.13 titled 'Newworld screwworm (Cochliomyia hominivorax) and old world screwworm (Chrysomya bezziana)' (page 578), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Chapter 8.14. | Paratuberculosis",
+      "summary": "Contents entry only: Chapter 8.14 titled 'Paratuberculosis' (page 580), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Chapter 8.15.  | Infection with rabies virus",
+      "summary": "Contents entry only: Chapter 8.15 titled 'Infection with rabies virus' (page 581), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Chapter 8.16. | Infection with Rift Valley fever virus",
+      "summary": "Contents entry only: Chapter 8.16 titled 'Infection with Rift Valley fever virus' (page 587), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "Chapter 8.17. | Infection with rinderpest virus",
+      "summary": "Contents entry only: Chapter 8.17 titled 'Infection with rinderpest virus' (page 591), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Chapter 8.18. | Infection with Trichinella spp.",
+      "summary": "Contents entry only: Chapter 8.18 titled 'Infection with Trichinella spp.' (page 597), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "Chapter 8.19. | Infection with Trypanosoma brucei, T. congolense, T. simiae and T. vivax",
+      "summary": "Contents entry only: Chapter 8.19 titled 'Infection with Trypanosoma brucei, T. congolense, T. simiae and T. vivax' (page 601), not substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "Chapter 8.20. | Tularemia",
+      "summary": "Table of contents entry for Chapter 8.20 (Tularemia), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "Chapter 8.21. | West Nile fever",
+      "summary": "Table of contents entry for Chapter 8.21 (West Nile fever), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Chapter 8.22. | Infection with Coxiella burnetii (Q fever)",
+      "summary": "Table of contents entry for Chapter 8.22 (Infection with Coxiella burnetii (Q fever)), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "Chapter 8.23. | Infection with Trypanosoma evansi (Surra)",
+      "summary": "Table of contents entry for Chapter 8.23 (Infection with Trypanosoma evansi (Surra)), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "SECTION 9.    | APINAE",
+      "summary": "Table of contents section header for SECTION 9 (APINAE) listing chapters 9.1–9.6 and page numbers; not a substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "Chapter 9.1.  | Infestation of honey bees with Acarapis woodi",
+      "summary": "Table of contents entry for Chapter 9.1 (Infestation of honey bees with Acarapis woodi), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "Chapter 9.2.  | Infection of honey bees with Paenibacillus larvae (American foulbrood)",
+      "summary": "Table of contents entry for Chapter 9.2 (Infection of honey bees with Paenibacillus larvae — American foulbrood), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Chapter 9.3.  | Infection of honey bees with Melissococcus plutonius (European foulbrood)",
+      "summary": "Table of contents entry for Chapter 9.3 (Infection of honey bees with Melissococcus plutonius — European foulbrood), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "Chapter 9.4.  | Infestation with Aethina tumida (Small hive beetle)",
+      "summary": "Table of contents entry for Chapter 9.4 (Infestation with Aethina tumida — Small hive beetle), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "Chapter 9.5.  | Infestation of honey bees with Tropilaelaps spp.",
+      "summary": "Table of contents entry for Chapter 9.5 (Infestation of honey bees with Tropilaelaps spp.), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "Chapter 9.6.  | Infestation of honey bees with Varroa spp. (Varroosis)",
+      "summary": "Table of contents entry for Chapter 9.6 (Infestation of honey bees with Varroa spp. — Varroosis), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "SECTION 10.   | AVES",
+      "summary": "Table of contents section header for SECTION 10 (AVES) listing chapters 10.1–10.9 and page numbers; not a substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "Chapter 10.1. | Avian chlamydiosis",
+      "summary": "Table of contents entry for Chapter 10.1 (Avian chlamydiosis), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "Chapter 10.2. | Avian infectious bronchitis",
+      "summary": "Table of contents entry for Chapter 10.2 (Avian infectious bronchitis), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "Chapter 10.3. | Avian infectious laryngotracheitis",
+      "summary": "Table of contents entry for Chapter 10.3 (Avian infectious laryngotracheitis), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "Chapter 10.4. | Infection with high pathogenicity avian influenza viruses",
+      "summary": "Table of contents entry for Chapter 10.4 (Infection with high pathogenicity avian influenza viruses), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "Chapter 10.5. | Infection with Mycoplasma gallisepticum (Avian mycoplasmosis)",
+      "summary": "Table of contents entry for Chapter 10.5 (Infection with Mycoplasma gallisepticum — Avian mycoplasmosis), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents entry"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "Chapter 10.6. | Duck virus hepatitis",
+      "summary": "Table of contents/chapter heading for Chapter 10.6 (Duck virus hepatitis), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "Chapter 10.7. | Fowl typhoid and pullorum disease",
+      "summary": "Table of contents/chapter heading for Chapter 10.7 (Fowl typhoid and pullorum disease), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "Chapter 10.8. | Infectious bursal disease (Gumboro disease)",
+      "summary": "Table of contents/chapter heading for Chapter 10.8 (Infectious bursal disease — Gumboro disease), listing the chapter and page number; not a substantive regulatory text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "Chapter 10.9.   Infection with Newcastle virus",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 10.9. Infection with Newcastle virus' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "SECTION 11.     | BOVINAE",
+      "summary": "Section heading and table of contents for SECTION 11 (BOVINAE) listing chapter titles for bovine diseases; this is a TOC entry, not a substantive regulatory provision.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "Chapter 11.1.   | Bovine anaplasmosis",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.1. Bovine anaplasmosis' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "Chapter 11.2.   | Bovine babesiosis",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.2. Bovine babesiosis' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "Chapter 11.3.   | Bovine genital campylobacteriosis",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.3. Bovine genital campylobacteriosis' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "Chapter 11.4.   | Bovine spongiform encephalopathy",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.4. Bovine spongiform encephalopathy' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "Chapter 11.5.   | Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia)",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.5. Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia)' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "Chapter 11.6.   | Enzootic bovine leukosis",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.6. Enzootic bovine leukosis' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "Chapter 11.7.   | Haemorrhagic septicaemia (Pasteurella multocida serotypes 6:b and 6:e)",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.7. Haemorrhagic septicaemia (Pasteurella multocida serotypes 6:b and 6:e)' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "Chapter 11.8.   | Infectious bovine rhinotracheitis/ infectious pustular vulvovaginitis",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.8. Infectious bovine rhinotracheitis/ infectious pustular vulvovaginitis' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "Chapter 11.9.   | Infection with lumpy skin disease virus",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.9. Infection with lumpy skin disease virus' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "Chapter 11.10.  | Infection with Theileria annulata, T. orientalis and T. parva",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.10. Infection with Theileria annulata, T. orientalis and T. parva' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "Chapter 11.11.  | Trichomonosis",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 11.11. Trichomonosis' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "SECTION 12.     | EQUIDAE",
+      "summary": "Section heading and table of contents for SECTION 12 (EQUIDAE) listing chapter titles for equid diseases; this is a TOC entry, not a substantive regulatory provision.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "Chapter 12.1.   | Infection with African horse sickness virus",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 12.1. Infection with African horse sickness virus' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "Chapter 12.2.   | Infection with Taylorella equigenitalis (Contagious equine metritis)",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 12.2. Infection with Taylorella equigenitalis (Contagious equine metritis)' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "Chapter 12.3.   | Dourine",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 12.3. Dourine' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "Chapter 12.4.   | Equine encephalomyelitis (Eastern and Western)",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 12.4. Equine encephalomyelitis (Eastern and Western)' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "Chapter 12.5.   | Equine infectious anaemia",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 12.5. Equine infectious anaemia' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "Chapter 12.6.   | Infection with equine influenza virus",
+      "summary": "Table of contents entry / chapter heading: 'Chapter 12.6. Infection with equine influenza virus' with no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "Chapter 12.7.   | Infection with Theileria equi and Babesia caballi (Equine piroplasmosis)",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on infection with Theileria equi and Babesia caballi (equine piroplasmosis); no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "Chapter 12.8.   | Infection with equid herpesvirus-1 (Equine rhinopneumonitis)",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on infection with equid herpesvirus‑1 (equine rhinopneumonitis); no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "Chapter 12.9.   | Infection with equine arteritis virus",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on infection with equine arteritis virus; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "Chapter 12.10.  | Infection with Burkholderia mallei (Glanders)",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on infection with Burkholderia mallei (glanders); no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 70,
+      "order": 69,
+      "section": "Chapter 12.11.  | Venezuelan equine encephalomyelitis",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on Venezuelan equine encephalomyelitis; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 71,
+      "order": 70,
+      "section": "SECTION 13.     | LEPORIDAE",
+      "summary": "Section header (table of contents) for 'Leporidae' listing chapters on myxomatosis and pathogenic rabbit lagoviruses (rabbit haemorrhagic disease); this is a TOC entry and contains no substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 72,
+      "order": 71,
+      "section": "Chapter 13.1.   | Myxomatosis",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on myxomatosis (Leporidae); no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 73,
+      "order": 72,
+      "section": "Chapter 13.2.   | Infection with pathogenic rabbit lagoviruses (Rabbit haemorrhagic disease)",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on infection with pathogenic rabbit lagoviruses (rabbit haemorrhagic disease); no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 74,
+      "order": 73,
+      "section": "SECTION 14.     | CAPRINAE",
+      "summary": "Section header (table of contents) for 'Caprinae' listing multiple chapters (e.g., caprine arthritis/encephalitis, contagious agalactia, scrapie, sheep/goat pox); this is a TOC entry and contains no substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 75,
+      "order": 74,
+      "section": "Chapter 14.1.   | Caprine arthritis/encephalitis",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on caprine arthritis/encephalitis; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 76,
+      "order": 75,
+      "section": "Chapter 14.2.   | Contagious agalactia",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on contagious agalactia; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 77,
+      "order": 76,
+      "section": "Chapter 14.3.   | Contagious caprine pleuropneumonia",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on contagious caprine pleuropneumonia; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 78,
+      "order": 77,
+      "section": "Chapter 14.4.   | Infection with Chlamydia abortus (Enzootic abortion of ewes, ovine chlamydiosis)",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on infection with Chlamydia abortus (enzootic abortion of ewes); no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 79,
+      "order": 78,
+      "section": "Chapter 14.5.   | Maedi-visna",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on maedi‑visna; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 80,
+      "order": 79,
+      "section": "Chapter 14.6.   | Ovine epididymitis (Brucella ovis)",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on ovine epididymitis (Brucella ovis); no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 81,
+      "order": 80,
+      "section": "Chapter 14.7.   | Infection with peste des petits ruminants virus",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on infection with peste des petits ruminants virus; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 82,
+      "order": 81,
+      "section": "Chapter 14.8.   | Scrapie",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on scrapie; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 83,
+      "order": 82,
+      "section": "Chapter 14.9.   | Sheep pox and goat pox",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on sheep pox and goat pox; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 84,
+      "order": 83,
+      "section": "Chapter 14.10.  | Infection with Theileria lestoquardi, T. luwenshuniand T. uilenbergi",
+      "summary": "Chapter heading / table-of-contents entry naming the chapter on infection with Theileria lestoquardi, T. luwenshuni and T. uilenbergi; no substantive regulatory provisions in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 85,
+      "order": 84,
+      "section": "SECTION 15.     | SUIDAE",
+      "summary": "Section header (table of contents) for 'Suidae' listing chapters on swine diseases (e.g., African swine fever, classical swine fever, porcine reproductive and respiratory syndrome, Taenia solium); this is a TOC entry and contains no substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 86,
+      "order": 85,
+      "section": "Chapter 15.1.   | Infection with African swine fever virus",
+      "summary": "Chapter heading listing 'Infection with African swine fever virus' with no substantive provisions in the provided text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 87,
+      "order": 86,
+      "section": "Chapter 15.2.   | Infection with classical swine fever virus",
+      "summary": "Chapter heading listing 'Infection with classical swine fever virus' with no substantive provisions in the provided text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 88,
+      "order": 87,
+      "section": "Chapter 15.3.   | Infection with porcine reproductive and respiratory syndrome virus",
+      "summary": "Chapter heading listing 'Infection with porcine reproductive and respiratory syndrome virus' with no substantive provisions in the provided text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 89,
+      "order": 88,
+      "section": "Chapter 15.4.   | Infection with Taenia solium (Porcine cysticercosis)",
+      "summary": "Chapter heading listing 'Infection with Taenia solium (Porcine cysticercosis)' with no substantive provisions in the provided text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 90,
+      "order": 89,
+      "section": "Chapter 15.5.   | Transmissible gastroenteritis",
+      "summary": "Chapter heading listing 'Transmissible gastroenteritis' with no substantive provisions in the provided text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 91,
+      "order": 90,
+      "section": "SECTION 16.     | CAMELIDAE",
+      "summary": "Section heading 'CAMELIDAE' that lists chapters on Camelpox and MERS coronavirus; the provided text is a table-style listing without substantive requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 92,
+      "order": 91,
+      "section": "Chapter 16.1.   | Infection with Camelpox virus",
+      "summary": "Chapter heading listing 'Infection with Camelpox virus' with no substantive provisions in the provided text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 93,
+      "order": 92,
+      "section": "Chapter 16.2.   | Infection with Middle East respiratory syndrome coronavirus",
+      "summary": "Chapter heading listing 'Infection with Middle East respiratory syndrome coronavirus' with no substantive provisions in the provided text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 94,
+      "order": 93,
+      "section": "A. Introduction",
+      "summary": "Introductory heading 'A. Introduction' only; no substantive content provided.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "introduction heading"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 95,
+      "order": 94,
+      "section": "B. Terrestrial Code content",
+      "summary": "Explains Terrestrial Code structure and usage: defines that key cross-chapter terms are in the Glossary (italicised and hyperlinked online), that '(under study)' denotes provisions not adopted by the World Assembly of Delegates, and summarizes the purpose of Sections 1–7 (diagnosis/notification, import risk analysis, Veterinary Services standards, prevention/control, trade sanitary measures, production-level preventive measures and animal welfare) and that Sections 8–16 set commodity-specific standards to prevent listed pathogenic agents taking into account exporting status and applicable risk-reduction measures.",
+      "categories": [
+        "scope",
+        "definition",
+        "other",
+        "risk assessment",
+        "inspection certification",
+        "processing",
+        "documentation",
+        "hygiene",
+        "risk management"
+      ],
+      "subcategories": [
+        "content heading",
+        "glossary use",
+        "under study note",
+        "section purpose",
+        "import risk analysis",
+        "veterinary services standards",
+        "sanitary measures",
+        "veterinary certification",
+        "production biosecurity",
+        "animal welfare measures",
+        "import risk reduction"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 96,
+      "order": 95,
+      "section": "## General provisions",
+      "summary": "States the chapter's aim to mitigate spread and human health risk from Brucella abortus, B. melitensis and B. suis (excluding vaccine strains), defines 'Brucella' and enumerates animal categories covered (bovids, sheep and goats, pigs, camelids, cervids and European hare), defines a 'case' as an animal infected with Brucella, and (in a separate provision) defines infection as either isolation of Brucella from an animal sample or a positive diagnostic test with an epidemiological link and directs Veterinary Authorities to require the chapter's Brucella-related import/transit conditions (except for commodities in Article 8.4.2) while referencing the Terrestrial Manual for diagnostic test and vaccine standards.",
+      "categories": [
+        "scope",
+        "risk management",
+        "definition",
+        "other",
+        "inspection certification",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "general provisions heading",
+        "risk mitigation aim",
+        "chapter definitions",
+        "brucella definition",
+        "animal definition",
+        "bovid definition",
+        "sheep goats",
+        "pig definition",
+        "camelid definition",
+        "cervid definition",
+        "hare definition",
+        "case definition",
+        "clinical signs",
+        "infection definition",
+        "isolation criteria",
+        "alternative marker",
+        "diagnostic criteria",
+        "import conditions",
+        "diagnostic references"
+      ],
+      "page_range": {
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "section_id": 97,
+      "order": 96,
+      "section": "## Article 8.4.2.\n\n## Safe commodities",
+      "summary": "Article 8.4.2 lists commodities for which Veterinary Authorities should not require any Brucella-related conditions regardless of exporting-country Brucella status: skeletal muscle meat, brain and spinal cord, digestive tract, thymus, thyroid and parathyroid glands and derived products, cured hides and skins, and gelatine, collagen, tallow and protein meal.",
+      "categories": [
+        "other",
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "article heading",
+        "safe commodities heading",
+        "safe commodity conditions",
+        "commodity list"
+      ],
+      "page_range": {
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "section_id": 98,
+      "order": 97,
+      "section": "## C H A P T E R   8 . 4 .",
+      "summary": "Chapter heading 'CHAPTER 8.4.' indicating the subject 'Infection with Brucella abortus, B. melitensis and B. suis' without substantive provisions in the provided text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "section_id": 99,
+      "order": 98,
+      "section": "## I N F E C T I O N   W I T H B R U C E L L A   A B O R T U S , B . M E L I T E N S I S A N D B .   S U I S",
+      "summary": "Section title 'INFECTION WITH BRUCELLA ABORTUS, B. MELITENSIS AND B. SUIS' presented as a heading; no substantive text provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "section_id": 100,
+      "order": 99,
+      "section": "General conditions and methods for surveillance",
+      "summary": "Heading 'General conditions and methods for surveillance' only; the provided text contains no detailed surveillance provisions.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "surveillance methods"
+      ],
+      "page_range": {
+        "start_page": 317,
+        "end_page": 317
+      }
+    },
+    {
+      "section_id": 101,
+      "order": 100,
+      "section": "Surveillance strategies",
+      "summary": "Heading 'Surveillance strategies' only; no substantive content provided in the excerpt.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "surveillance strategy"
+      ],
+      "page_range": {
+        "start_page": 317,
+        "end_page": 317
+      }
+    },
+    {
+      "section_id": 102,
+      "order": 101,
+      "section": "## General provisions",
+      "summary": "States that the pig (Sus scrofa, domestic and wild) is the only natural host for classical swine fever virus (CSFV) and notes that the chapter makes a distinction between categories relevant to the disease.",
+      "categories": [
+        "official control",
+        "definition"
+      ],
+      "subcategories": [
+        "general provisions",
+        "host definition"
+      ],
+      "page_range": {
+        "start_page": 320,
+        "end_page": 320
+      }
+    },
+    {
+      "section_id": 103,
+      "order": 102,
+      "section": "## Safe commodities",
+      "summary": "Specifies safe commodities for CSF trade for which Veterinary Authorities should not require CSF-related conditions regardless of exporting-country or zone status: meat in a hermetically sealed container with an F0 value of 3 or above, and gelatine.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "safe commodities",
+        "import conditions",
+        "safe commodity item"
+      ],
+      "page_range": {
+        "start_page": 320,
+        "end_page": 320
+      }
+    },
+    {
+      "section_id": 104,
+      "order": 103,
+      "section": "## C H A P T E R   1 5 . 2 .",
+      "summary": "Chapter heading 'CHAPTER 15.2.' for 'Infection with classical swine fever virus' with no substantive provisions in the provided text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 320,
+        "end_page": 320
+      }
+    },
+    {
+      "section_id": 105,
+      "order": 104,
+      "section": "## I N F E C T I O N   W I T H   C L A S S I C A L   S W I N E   F E V E R   V I R U S",
+      "summary": "Section title 'INFECTION WITH CLASSICAL SWINE FEVER VIRUS' presented as a heading; no substantive provisions included in the excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 320,
+        "end_page": 320
+      }
+    },
+    {
+      "section_id": 106,
+      "order": 105,
+      "section": "## Article 15.2.1.",
+      "summary": "Heading only (Article 15.2.1); no substantive provision in this section.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "article reference"
+      ],
+      "page_range": {
+        "start_page": 320,
+        "end_page": 320
+      }
+    },
+    {
+      "section_id": 107,
+      "order": 106,
+      "section": "Country or zone free from CSF",
+      "summary": "Heading only for 'Country or zone free from CSF'; no substantive provisions provided in this section.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "free status"
+      ],
+      "page_range": {
+        "start_page": 321,
+        "end_page": 321
+      }
+    },
+    {
+      "section_id": 108,
+      "order": 107,
+      "section": "Compartment free from CSF",
+      "summary": "A compartment free from CSF must be established and granted bilateral recognition in accordance with this chapter's requirements and the principles set out in Chapters 4.4 and 4.5.",
+      "categories": [
+        "official control",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "free status",
+        "compartment recognition"
+      ],
+      "page_range": {
+        "start_page": 321,
+        "end_page": 321
+      }
+    },
+    {
+      "section_id": 109,
+      "order": 108,
+      "section": "Country or zone infected with CSFV",
+      "summary": "A country or zone is considered infected with CSFV when it does not fulfil the requirements for acceptance as a CSF‑free country or zone.",
+      "categories": [
+        "official control",
+        "definition"
+      ],
+      "subcategories": [
+        "infected status"
+      ],
+      "page_range": {
+        "start_page": 321,
+        "end_page": 321
+      }
+    },
+    {
+      "section_id": 110,
+      "order": 109,
+      "section": "Establishment of a containment zone within a country or zone previously free from CSF",
+      "summary": "When CSF outbreaks occur in a previously free country/zone (including protection zones), a containment zone comprising all epidemiologically linked outbreaks may be established per Article 4.4.7 to limit spread, and the Veterinary Authority must submit documented evidence promptly to WOAH while surveillance must address wild/feral pigs and prevent their dispersion; the free status of areas outside the containment zone is suspended during establishment but may be reinstated once WOAH approves the containment zone.",
+      "categories": [
+        "official control",
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "containment zone",
+        "containment zone measures",
+        "documented evidence",
+        "wild pig surveillance",
+        "article reference",
+        "status suspension"
+      ],
+      "page_range": {
+        "start_page": 321,
+        "end_page": 322
+      }
+    },
+    {
+      "section_id": 111,
+      "order": 110,
+      "section": "Article 15.2.7.\n\n## Recovery of free status",
+      "summary": "A previously free country/zone may recover CSF‑free status after surveillance per Article 15.2.32 yields negative results and three months have passed after: (1) disinfection of the last affected establishment following stamping‑out without vaccination; (2) disinfection plus slaughter of all vaccinated animals after emergency vaccination with slaughter; or (3) disinfection after emergency vaccination without slaughter when validated methods (Terrestrial Manual Ch.3.8.3) can distinguish vaccinated from infected pigs.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "recovery status",
+        "status recovery",
+        "recovery conditions"
+      ],
+      "page_range": {
+        "start_page": 322,
+        "end_page": 322
+      }
+    },
+    {
+      "section_id": 112,
+      "order": 111,
+      "section": "Article 15.2.8.\n\n## Direct transfer of pigs within a country from an infected zone to a free zone for slaughter",
+      "summary": "Pigs may be transported from an infected zone to a free zone only directly by mechanised vehicle to the nearest designated slaughterhouse under strict conditions (no introductions or clinical signs for 30 days, at least three months under approved biosecurity at origin, no CSF within 10 km for three months, vehicle disinfected before loading and biosecure transport without contact with other pigs, and slaughterhouse under approved biosecurity and restricted for export until used and disinfected); the animals must have favourable ante‑ and post‑mortem inspections (Ch.6.2) and the meat treated per Article 15.2.23 and kept separate until treated.",
+      "categories": [
+        "official control",
+        "transport",
+        "inspection certification",
+        "hygiene"
+      ],
+      "subcategories": [
+        "direct transfer",
+        "slaughter transport",
+        "pre movement conditions",
+        "biosecurity period",
+        "disease-free radius",
+        "biosecure transport",
+        "slaughterhouse biosecurity",
+        "meat inspection"
+      ],
+      "page_range": {
+        "start_page": 322,
+        "end_page": 322
+      }
+    },
+    {
+      "section_id": 113,
+      "order": 112,
+      "section": "Article 15.2.9. Recommendations for importation from countries, zones or compartments free from CSF",
+      "summary": "Heading only (Article 15.2.9) for recommendations on importation from CSF‑free countries/zones/compartments for domestic and captive wild pigs; no substantive attestations in this section text.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "import recommendations",
+        "domestic captive pigs"
+      ],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 114,
+      "order": 113,
+      "section": "Article 15.2.10. Recommendations for importation from countries or zones infected with CSFV",
+      "summary": "For imports of domestic and captive wild pigs from CSFV‑infected countries/zones, Veterinary Authorities should require an international veterinary certificate attesting the pigs showed no clinical signs on the day of shipment and either were kept since birth or for three months in a CSF‑free compartment or were isolated 28 days in quarantine with negative virological and serological tests (sample ≥21 days after entry), and that pigs are not vaccinated nor progeny of vaccinated sows unless validated DIVA methods exist (Terrestrial Manual Ch.3.8.3).",
+      "categories": [
+        "official control",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "import recommendations",
+        "domestic captive pigs",
+        "certificate requirement",
+        "clinical certification",
+        "import conditions"
+      ],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 115,
+      "order": 114,
+      "section": "Article 15.2.11. Recommendations for importation from countries, zones or compartments free from CSF",
+      "summary": "Heading/intro only (Article 15.2.11) introducing recommendations for importation of semen of domestic and captive wild pigs and stating a certificate should be required, but no specific attestations are listed in this section.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "article heading",
+        "import recommendations"
+      ],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 116,
+      "order": 115,
+      "section": "For semen of domestic and captive wild pigs",
+      "summary": "Veterinary Authorities should require a certificate for semen showing donor males were kept since birth or for at least three months prior to collection in a CSF‑free country/zone/compartment, showed no clinical signs on the day of collection, and that semen was collected, processed and stored in accordance with Chapters 4.6 and 4.7.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 324
+      }
+    },
+    {
+      "section_id": 117,
+      "order": 116,
+      "section": "Article 15.2.12.\n\n## Recommendations for importation from countries or zones infected with CSFV",
+      "summary": "Heading only (Article 15.2.12) introducing recommendations for importation of semen from CSFV‑infected countries/zones; no substantive attestations in this section text.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "article heading",
+        "import recommendations",
+        "product heading"
+      ],
+      "page_range": {
+        "start_page": 324,
+        "end_page": 324
+      }
+    },
+    {
+      "section_id": 118,
+      "order": 117,
+      "section": "Recommendations for importation from countries, zones or compartments free from CSF",
+      "summary": "Heading only for recommendations concerning in vivo derived embryos of domestic pigs; no substantive provisions provided in this section.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "import recommendations",
+        "product heading"
+      ],
+      "page_range": {
+        "start_page": 324,
+        "end_page": 324
+      }
+    },
+    {
+      "section_id": 119,
+      "order": 118,
+      "section": "For fresh meat of domestic and captive wild pigs",
+      "summary": "Veterinary Authorities should require a certificate that the entire consignment of fresh meat comes from pigs kept in a CSF‑free country/zone/compartment or imported per Articles 15.2.9/15.2.10 and that they were slaughtered in an approved slaughterhouse subject to favourable ante‑ and post‑mortem inspections (Ch.6.2).",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "import recommendations",
+        "product heading",
+        "certificate requirement",
+        "origin conditions",
+        "slaughter inspection"
+      ],
+      "page_range": {
+        "start_page": 325,
+        "end_page": 325
+      }
+    },
+    {
+      "section_id": 120,
+      "order": 119,
+      "section": "Recommendations  for  importation  from  countries  or  zones  infected  with  CSFV,  where  an  official  control programme exists",
+      "summary": "For fresh meat from CSFV‑infected countries/zones with an official control programme, Veterinary Authorities should require a certificate confirming the source pigs complied with Article 15.2.10, were transported under Veterinary Authority supervision in disinfected vehicles directly to an approved export slaughterhouse without contact with other pigs, that no CSF was detected in that slaughterhouse since its last disinfection before slaughter, that ante‑ and post‑mortem inspections were favourable (Ch.6.2), and that appropriate post‑slaughter precautions prevented cross‑contamination.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "import recommendations"
+      ],
+      "page_range": {
+        "start_page": 325,
+        "end_page": 325
+      }
+    },
+    {
+      "section_id": 121,
+      "order": 120,
+      "section": "For fresh meat of domestic pigs and captive wild pigs",
+      "summary": "Veterinary Authorities should require a certificate for fresh meat confirming pigs met Article 15.2.10, were transported under official supervision in disinfected vehicles directly to an approved slaughterhouse without contact with other non‑compliant pigs, were slaughtered in an export‑approved facility with no CSF detected since its last disinfection, underwent favourable ante‑ and post‑mortem inspections (Ch.6.2), and that post‑slaughter measures prevented cross‑contamination.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "product heading",
+        "certificate requirement",
+        "origin conditions",
+        "transport supervision",
+        "transport separation",
+        "slaughter conditions",
+        "approved slaughterhouse",
+        "disease-free slaughter",
+        "ante mortem inspection",
+        "cross-contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 325,
+        "end_page": 325
+      }
+    },
+    {
+      "section_id": 122,
+      "order": 121,
+      "section": "Recommendations for the importation of meat products of pigs",
+      "summary": "Importing Veterinary Authorities should require certificates attesting meat products were either prepared exclusively from fresh meat meeting Articles 15.2.15/15.2.16 in a facility approved for export (processing only meat meeting those conditions) or processed per Article 15.2.23 in an approved facility with precautions against cross‑contamination; the section also sets analogous certificate/processing requirements for bristles, litter/manure, skins/trophies and other pig commodities, and prescribes swill inactivation procedures (either ≥90°C for ≥60 minutes with stirring or saturated steam at ≥121°C for ≥10 minutes at 2 bar).",
+      "categories": [
+        "inspection certification",
+        "other"
+      ],
+      "subcategories": [
+        "product heading",
+        "certificate requirement",
+        "preparation conditions",
+        "source meat conditions",
+        "processing facility conditions",
+        "approved facility",
+        "conjunction marker",
+        "processing conditions"
+      ],
+      "page_range": {
+        "start_page": 325,
+        "end_page": 326
+      }
+    },
+    {
+      "section_id": 123,
+      "order": 122,
+      "section": "## Recommendations for the importation of bristles",
+      "summary": "Veterinary Authorities should require a certificate that bristles originated from pigs in a CSF‑free country/zone/compartment and were processed in an export‑approved facility, or that they were processed per Article 15.2.25 in an approved facility with precautions to avoid post‑processing cross‑contamination.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "product heading",
+        "certificate requirement",
+        "origin conditions",
+        "processing conditions"
+      ],
+      "page_range": {
+        "start_page": 326,
+        "end_page": 326
+      }
+    },
+    {
+      "section_id": 124,
+      "order": 123,
+      "section": "## Recommendations for the importation of litter and manure from pigs",
+      "summary": "Veterinary Authorities should require a certificate that litter or manure originated from pigs in a CSF‑free country/zone/compartment and were processed in an export‑approved facility, or were processed per Article 15.2.26 in an approved facility with measures to prevent cross‑contamination after processing.",
+      "categories": [
+        "scope",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "scope heading",
+        "certificate requirement",
+        "origin and approval",
+        "processing and crosscontamination"
+      ],
+      "page_range": {
+        "start_page": 326,
+        "end_page": 326
+      }
+    },
+    {
+      "section_id": 125,
+      "order": 124,
+      "section": "## Recommendations for the importation of skins and trophies from pigs",
+      "summary": "Veterinary Authorities should require a certificate that skins or trophies originated from pigs in a CSF‑free country/zone/compartment and were processed in an export‑approved facility, or were processed per Article 15.2.27 in an approved facility with precautions to prevent post‑processing cross‑contamination.",
+      "categories": [
+        "scope",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "scope heading",
+        "certificate requirement",
+        "origin and approval",
+        "processing and crosscontamination"
+      ],
+      "page_range": {
+        "start_page": 326,
+        "end_page": 326
+      }
+    },
+    {
+      "section_id": 126,
+      "order": 125,
+      "section": "## Recommendations for the importation of other pig commodities",
+      "summary": "Veterinary Authorities of importing countries should require an international veterinary certificate confirming that pig commodities either (1) originated from domestic or captive wild pigs in a country/zone/compartment free from CSF and were processed in a facility approved by the Veterinary Authority for export, or (2) were processed in a manner demonstrated to inactivate CSFV in an approved facility and thereafter handled with appropriate precautions to avoid cross‑contamination with CSFV.",
+      "categories": [
+        "scope",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "scope heading",
+        "certificate requirement",
+        "origin and approval",
+        "processing and crosscontamination"
+      ],
+      "page_range": {
+        "start_page": 326,
+        "end_page": 326
+      }
+    },
+    {
+      "section_id": 127,
+      "order": 126,
+      "section": "## Procedures for the inactivation of CSFV in swill",
+      "summary": "To inactivate CSFV in swill use one of: (a) maintain swill at ≥90°C for ≥60 minutes with continuous stirring; or (b) maintain under saturated steam at ≥121°C for ≥10 minutes at an absolute pressure of 2 bar.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing heading",
+        "inactivation procedure",
+        "heat treatment",
+        "steam treatment"
+      ],
+      "page_range": {
+        "start_page": 326,
+        "end_page": 326
+      }
+    }
+  ]
+}

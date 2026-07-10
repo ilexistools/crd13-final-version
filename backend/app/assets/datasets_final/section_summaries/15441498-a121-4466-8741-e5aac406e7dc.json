@@ -1,0 +1,416 @@
+{
+  "doc_id": "15441498-a121-4466-8741-e5aac406e7dc",
+  "title": "SECTION I - SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "SECTION I - SCOPE",
+      "summary": "Specifies the code of hygienic practice applies to desiccated coconut — the dried product for human consumption obtained by shredding or otherwise comminuting the pared kernel of Cocos nucifera (coconut).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION II - DEFINITIONS",
+      "summary": "Provides definitions for terms used in the code including coconuts, coconut meat, dehusking, hatcheting, and paring (the pared kernel and related processing terms).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "product definitions",
+        "processing terms"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION III - RAW MATERIAL REQUIREMENTS",
+      "summary": "Sets raw material requirements covering environmental sanitation (sanitary disposal of human/animal wastes), pest and disease control under official agency recommendations, sanitary harvesting and production to prevent contamination, and adequate transport facilities and handling to avoid spoilage or contamination of coconuts.",
+      "categories": [
+        "scope",
+        "hygiene",
+        "pest control",
+        "transport",
+        "other"
+      ],
+      "subcategories": [
+        "requirements heading",
+        "environment sanitation",
+        "waste disposal",
+        "pest disease control",
+        "sanitary harvesting",
+        "sanitary techniques",
+        "contamination prevention",
+        "transport heading",
+        "transport facilities",
+        "editorial note",
+        "document title",
+        "transport hygiene",
+        "handling procedures"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## SECTION IV - PLANT FACILITIES AND OPERATING REQUIREMENTS",
+      "summary": "Specifies plant facilities and operating requirements for desiccated coconut processing, including construction and layout, sanitary facilities and controls, equipment design and materials, hygienic maintenance and cleaning, personnel hygiene and vermin control, and production flow measures to prevent contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## A. Plant Construction and Layout",
+      "summary": "Requires plant buildings and surroundings to be free of objectionable odours/contamination, adequately sized and constructed to prevent pest entry and permit cleaning, with special pest‑proofing for shredding/desiccating/packing areas, dedicated storage spaces, and hard, easily drained floors.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## (2) Sanitary facilities and controls",
+      "summary": "Requires sanitary facilities and controls including separation of husking/paring/washing from subsequent processing, potable water supply meeting WHO drinking water standards and protection of wells (no husk pits within 100 m), separate lines for non‑potable water, approved plumbing and waste disposal, adequate lighting/ventilation, toilets and hand‑washing facilities not opening into food areas, and maintained washing/footbath facilities.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitary facilities",
+        "process separation",
+        "storage segregation",
+        "water supply",
+        "water source protection",
+        "auxiliary water",
+        "plumbing waste disposal",
+        "lighting ventilation",
+        "toilet facilities",
+        "washing facilities",
+        "facility sanitation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "C. Hygienic Operating Requirements",
+      "summary": "Specifies hygienic operating requirements: maintain and clean buildings, equipment and utensils (with frequent cleaning/disinfection of contact equipment), implement vermin control and exclude domestic animals, restrict ill or infectious personnel from food‑handling roles, store/handle toxic substances securely under trained supervision, and require high standards of personal cleanliness, hand washing, dress, prohibition of spitting/eating/tobacco in handling areas, treatment of cuts, and sanitary glove use.",
+      "categories": [
+        "hygiene",
+        "pest control"
+      ],
+      "subcategories": [
+        "operating requirements heading",
+        "plant sanitation",
+        "equipment sanitation",
+        "vermin control",
+        "animal exclusion",
+        "personnel health",
+        "toxic substances",
+        "hygiene heading",
+        "personal cleanliness",
+        "hand washing",
+        "prohibited practices",
+        "contamination prevention",
+        "first aid",
+        "glove hygiene"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "D. Operating Practices and Production Requirements",
+      "summary": "Sets operating and production practices including raw material acceptance and storage, inspection and rejection of unfit kernels, potable washing, preparatory timing and processing controls, drying, packaging, and storage/transport to prevent contamination, deterioration or infestation; it also requires pre‑shred pathogen reduction and controls on handling and packaging.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "(1) Raw material handling",
+      "summary": "States raw material acceptance criteria (reject known decomposed, toxic or extraneous materials not removable by normal sorting/preparation) and requires on‑site storage conditions that protect coconuts from contamination, infestation and deterioration.",
+      "categories": [
+        "hygiene",
+        "composition",
+        "storage"
+      ],
+      "subcategories": [
+        "raw material handling heading",
+        "raw material acceptance",
+        "raw material storage"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "(2) Inspection and sorting",
+      "summary": "Requires inspection and sorting at the paring and washing stage so that all kernels are inspected and any unfit kernels, including germinated ones, are rejected, and these operations are carried out in a clean, sanitary manner.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "inspection sorting"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "(3) Washing",
+      "summary": "Requires water used for washing kernels to be clean and potable, changed frequently to minimise contamination, and not recirculated unless suitably treated (e.g., filtration and chlorination) to prevent public health hazards.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "washing water quality"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "(4) Preparation and processing",
+      "summary": "Outlines preparation and processing controls including timed preparatory operations to prevent contamination and microbial growth, a pre‑shredding treatment to eliminate surface pathogens, hygienic handling (no manual handling post‑treatment), drying to safe moisture levels, and hygienic bulk storage and transport to packing plants.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "(a) Preparatory  operations",
+      "summary": "Requires preparatory and packaging operations to be timed and organized to allow expeditious handling that prevents contamination, deterioration, spoilage or development of infectious or toxigenic microorganisms.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "preparatory operations"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "(b) Processing",
+      "summary": "Requires that after washing and before shredding the coconut meat be subjected to an effective surface‑pathogen elimination process, for example immersion in an adequate quantity of boiling water for not less than one and a half minutes.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "heat treatment"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "(c) Handling",
+      "summary": "Prohibits manual handling of coconut meat after the pathogen‑reduction process and requires use of mechanical devices or impermeable utensils which must be cleaned, washed and disinfected after each work period and at least twice daily, with suitable storage to avoid recontamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "food handling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "(d) Desiccating",
+      "summary": "Requires shredded coconut to be dried in a current of clean hot air free from chemical contamination until moisture reaches a safe storage level, using thin layers on desiccator trays, breaking up mats effectively, and cooling the desiccated coconut before packaging.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "drying"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "(e) Bulk Storage",
+      "summary": "States that bulk desiccated coconut transported to packing plants must be carried in cleanable, non‑absorbent containers disinfected before filling, and the same hygienic precautions must be observed at the packing plant as in the factory packing section.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "bulk transfer"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "(5) Packaging of finished product",
+      "summary": "Requires packaging materials to be stored cleanly, not transfer objectionable substances beyond acceptable limits, and be approved by the official agency; packaging must be in a separate clean room with measures (e.g., magnets/metal detectors, mechanical rams/vibrators) to prevent contamination and manual handling, and containers must be labelled to identify the manufacturing/packing factory.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "(a) Materials",
+      "summary": "Packaging materials must be stored cleanly and sanitarily, be approved by the competent official agency, provide protection from contamination, and must not transfer objectionable substances to the product beyond limits acceptable to that agency (examples include multi‑wall paper sacks with fat- and moisture‑resistant/aluminium layers).",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging materials"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6 Storage and transport of finished product",
+      "summary": "Finished product must be stored and transported under conditions that prevent contamination, development of pathogenic or toxigenic microorganisms or infestation, and protect against deterioration of the product or its container.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage transport heading",
+        "finished product storage"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "E. Sanitation Control Programme",
+      "summary": "Each plant should designate a single individual (preferably not involved in production) responsible for plant cleanliness, supported by a permanent, well‑trained sanitation staff, and should identify critical areas, equipment and materials for specific attention in a permanent sanitation schedule.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitation programme heading",
+        "sanitation programme"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "F. Laboratory Control Procedures",
+      "summary": "Regular, frequent samples of desiccated coconut must be taken from the packing section and examined for objectionable matter, microorganisms, fat content/free fatty acids, and moisture content.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratory control heading",
+        "routine sampling",
+        "contamination testing",
+        "microbiological testing",
+        "chemical testing",
+        "moisture testing"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "SECTION V - END PRODUCT SPECIFICATIONS",
+      "summary": "Defines desiccated coconut as clean, sound, wholesome pared kernel and requires appropriate sampling/analysis methods; product should be free from objectionable matter, free of pathogenic microorganisms or microbial toxins, have oil acidity (solvent‑extracted) ≤ 0.3% m/m free fatty acids (as lauric acid), and moisture ≤ 3% m/m.",
+      "categories": [
+        "quality",
+        "analysis sampling",
+        "contaminants"
+      ],
+      "subcategories": [
+        "end product heading",
+        "product description",
+        "test methods",
+        "objectionable matter",
+        "microbial contamination",
+        "fatty acid limit",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

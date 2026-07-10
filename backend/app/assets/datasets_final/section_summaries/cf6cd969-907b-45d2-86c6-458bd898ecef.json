@@ -1,0 +1,588 @@
+{
+  "doc_id": "cf6cd969-907b-45d2-86c6-458bd898ecef",
+  "title": "1. DEFINITION OF PRODUCE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "This Standard applies to commercial varieties and types of rambutan (Nephelium lappaceum L., Sapindaceae) supplied fresh to consumers after preparation and packaging, and excludes rambutans intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets quality provisions for rambutans, specifying minimum requirements (e.g., whole, sound, clean, practically pest-free, free of abnormal moisture and foreign smell/taste, fresh appearance, no temperature damage), requirement for appropriate maturity and transport suitability, and classification into Extra, Class I and Class II with specified allowable defects.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 MINIMUM REQUIREMENTS",
+      "summary": "Specifies minimum requirements for rambutans in all classes: they must be whole, sound (no rotting/deterioration), clean, practically free of pests and visible foreign matter, free of abnormal external moisture, foreign smells/tastes, and temperature damage, and must have appropriate development/ripeness and be able to withstand transport to arrive in satisfactory condition.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1.1  The rambutans must have reached an appropriate degree of development and ripeness in accordance with criteria proper to the variety and/or commercial type and to the area in which they are grown.",
+      "summary": "Requires rambutans to have reached appropriate development and ripeness according to variety/commercial type and growing area, and to be in a condition to withstand transport and handling and arrive in satisfactory condition at destination.",
+      "categories": [
+        "quality",
+        "transport"
+      ],
+      "subcategories": [
+        "maturity requirement",
+        "transport suitability",
+        "destination condition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2. CLASSIFICATION",
+      "summary": "Classifies rambutans into three classes (Extra, Class I, Class II) and sets the quality criteria and permitted defects for each class, noting that defects must not affect flesh and that tolerances apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "Extra class: rambutans must be of superior quality, characteristic of the variety/commercial type, and free of defects except very slight superficial ones that do not affect appearance, quality, keeping quality or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "extra class quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.2 Class I",
+      "summary": "Class I: rambutans must be of good quality and characteristic of the variety/commercial type; slight defects are allowed provided they do not affect appearance, quality, keeping quality or presentation — specifically a slight shape defect and skin defects not exceeding 5% of total surface area (excluding spinterns), and defects must not affect the flesh.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "class i quality",
+        "shape defect",
+        "skin defect tolerance",
+        "flesh defect prohibition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.3 Class II",
+      "summary": "Class II: includes rambutans not qualifying for higher classes but meeting minimum requirements, allowing defects in shape and skin defects up to 10% of total surface area (excluding spinterns), provided the fruits retain essential characteristics and defects do not affect the flesh.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "class ii quality",
+        "shape defect",
+        "skin defect tolerance",
+        "flesh defect prohibition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Defines sizing by number of fruits per kilogram with two presentation forms: single fruit (size codes 1–6 with specified weight-per-fruit ranges and corresponding fruits/kg bands) and bunches (size codes 1–4 with specified fruits/kg ranges).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "size determination",
+        "size table",
+        "single fruit size",
+        "bunch size table",
+        "bunch size"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Allows tolerances in each package for produce not meeting the indicated class or size; quality tolerances specify percentages per class (see below) and size tolerances permit 10% by number/weight of fruits of the immediately adjacent size.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.1 QUALITY TOLERANCES",
+      "summary": "Specifies quality tolerances by class: Extra allows 5% by number/weight of fruits not meeting Extra but meeting Class I (plus 10% detached fruits in bunch packages), Class I allows 10% not meeting Class I but meeting Class II (plus 10% detached), and Class II allows 10% not meeting the class nor minimum requirements except produce affected by rotting or unfit for consumption (plus 10% detached).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1.1 'Extra' Class",
+      "summary": "Extra class tolerance: up to 5% by number or weight of rambutans not meeting Extra but meeting Class I (or within its tolerances), and an additional 10% by number or weight of detached fruits allowed in packages of bunches.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "class tolerance",
+        "detached fruit tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1.2 Class I",
+      "summary": "Class I tolerance: up to 10% by number or weight of rambutans not meeting Class I but meeting Class II (or within its tolerances), and an additional 10% by number or weight of detached fruits allowed in packages of bunches.",
+      "categories": [
+        "classification",
+        "packaging"
+      ],
+      "subcategories": [
+        "class heading",
+        "class ii tolerance",
+        "detached fruits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.3 Class II",
+      "summary": "Class II tolerance: up to 10% by number or weight of rambutans that satisfy neither the class nor the minimum requirements (except produce affected by rotting or other deterioration rendering it unfit for consumption), and an additional 10% by number or weight of detached fruits allowed in packages of bunches.",
+      "categories": [
+        "classification",
+        "packaging"
+      ],
+      "subcategories": [
+        "class ii heading",
+        "class ii tolerance",
+        "detached fruits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.2 SIZE TOLERANCES",
+      "summary": "Size tolerances: for all classes and presentations, up to 10% by number or weight of rambutans may be of the size immediately above and/or below the size indicated on the package.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size tolerances heading",
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Sets presentation requirements: packages must be uniform by origin/variety/commercial type/quality/size/colour and visibly representative, packed to protect the produce using new/clean/food‑grade materials and complying with CAC/RCP 44-1995, containers must meet hygiene, ventilation and strength criteria and be free of foreign matter and smell; presentation may be individual (pedicel trimmed to ≤5 mm) or in bunches (no leaves, clusters with minimum two fruits, stem ≤20 cm).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.1 UNIFORMITY",
+      "summary": "Uniformity requirement: each package must contain rambutans uniform in origin, variety/commercial type, quality, size and colour, with the visible portion representative of the whole package.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "uniformity requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.2 PACKAGING",
+      "summary": "Packaging requirements: rambutans must be packed to protect the produce using new, clean, food‑grade materials (recycled food‑grade permitted), with non‑toxic inks/glues for labelling, and containers must comply with the Recommended International Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (CAC/RCP 44-1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2.1 Description of Containers",
+      "summary": "Container description: containers must meet required quality, hygiene, ventilation and resistance characteristics for handling, shipping and preserving rambutans and must be free of foreign matter and smell.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "containers heading",
+        "container requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.3 PRESENTATION",
+      "summary": "Heading only: introduces permitted presentation forms (individual or in bunches), with substantive rules given in the following subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.3.1 Individually",
+      "summary": "Individual presentation: when rambutans are presented individually the pedicel must be detached at the first knot and must not extend more than 5 mm beyond the top of the fruit.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "individually heading",
+        "pedicel length"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.3.2 In Bunches",
+      "summary": "For rambutan sold in bunches: bunches must be free of leaves, comprise clusters each with at least two rambutans, and each bunch stem must not exceed 20 cm from the attachment of the highest fruit.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "bunches heading",
+        "bunch requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6. MARKING OR LABELLING",
+      "summary": "Sets labelling requirements for rambutan consignments, referencing the Codex General Standard for the Labelling of Prepacked Foods (CODEX STAN 1-1985) and specifying required particulars for consumer and non‑retail packages (identity, nature, origin, commercial identification and optional official inspection mark).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.1 CONSUMER PACKAGES",
+      "summary": "Introductory provision stating that consumer package labelling must meet CODEX STAN 1-1985 plus the specific provisions that follow.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.1.1 Nature of Produce",
+      "summary": "If rambutan contents are not visible, consumer packages must be labelled with the name 'Rambutan' and may include the variety and/or commercial type or indicate 'individually' or 'in bunches'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2 NON-RETAIL CONTAINERS",
+      "summary": "Non‑retail containers must bear specified particulars grouped on the same side, legibly and indelibly marked and visible from the outside or provided in accompanying shipment documents.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.2.1 Identification",
+      "summary": "Requires name and address of the exporter, packer and/or dispatcher on the package, with an optional identification code.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "identification heading",
+        "packer identification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.2.2 Nature of Produce",
+      "summary": "If contents are not visible, non‑retail containers must state the name 'Rambutan' and may optionally indicate variety or commercial type.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6.2.3 Origin of Produce",
+      "summary": "Requires declaration of country of origin and optionally the district or national/regional/local place name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin heading",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "6.2.4 Commercial Identification",
+      "summary": "Commercial identification on non‑retail packages must indicate class, size and net weight.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial identification heading",
+        "class declaration",
+        "size declaration",
+        "net weight declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Heading only — indicates an optional official inspection mark but contains no substantive provisions.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "official mark heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7. CONTAMINANTS",
+      "summary": "Mandates that the produce comply with Codex maximum levels for contaminants and toxins (CODEX STAN 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.1 The produce covered by this Standard shall comply with the maximum levels of the Codex General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193-1995).",
+      "summary": "Obligates the produce to comply with maximum contaminant and toxin levels specified in the Codex General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193-1995).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "7.2 The produce covered by this Standard shall comply with the maximum residue limits for pesticides established by the Codex Alimentarius Commission.",
+      "summary": "Requires the produce to comply with pesticide maximum residue limits established by the Codex Alimentarius Commission.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8. HYGIENE",
+      "summary": "Recommends preparing and handling the produce in accordance with relevant Codex hygiene codes and complying with any microbiological criteria established per CAC/GL 21-1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.1 It is recommended that the produce covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969), Code of Hygienic Practice for Fresh Fruits and Vegetables (CAC/RCP 53-2003),  and  other  relevant  Codex  texts  such  as  Codes  of  Hygienic  Practice  and  Codes of Practice.",
+      "summary": "Recommends that handling and preparation follow the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CAC/RCP 53-2003) and other relevant Codex texts.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene recommendation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.2 The  produce  should  comply  with  any  microbiological  criteria  established  in  accordance  with  the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997).",
+      "summary": "States that the produce should comply with any microbiological criteria established according to the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

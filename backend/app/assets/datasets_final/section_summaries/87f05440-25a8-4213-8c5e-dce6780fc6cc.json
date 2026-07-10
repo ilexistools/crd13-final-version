@@ -1,0 +1,509 @@
+{
+  "doc_id": "87f05440-25a8-4213-8c5e-dce6780fc6cc",
+  "title": "1 SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1 SCOPE",
+      "summary": "Defines the scope as applying to dried shark fins intended for further processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2 DESCRIPTION",
+      "summary": "Describes the product and process: defines dried shark fins, requires a drying process to meet Section 3.2.4, and sets permitted presentations (e.g., skin‑on, skinless) with labelling requirements to avoid consumer confusion.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 PRODUCT DEFINITION",
+      "summary": "Defines dried shark fins as dorsal and pectoral fins cut in an arc and the lower lobe of the caudal fin cut straight, with all flesh removed, from shark species safe for human consumption.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 PROCESS DEFINITION",
+      "summary": "Requires that fins be subjected to a drying process so as to meet the requirements of Section 3.2.4 and comply with the conditions laid down in the standard.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process definition",
+        "drying process"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.3 PRESENTATION",
+      "summary": "Permits presentation of dried shark fins with skin on or skinless and allows other presentations provided they meet all standard requirements and are adequately described on the label to avoid misleading consumers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3.1 Dried shark fins may be presented with the skin on or as skinless",
+      "summary": "Permits dried shark fins to be presented either with the skin on or as skinless.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "presentation form"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3.2 Other Forms of Presentation",
+      "summary": "Allows other forms of presentation only if they meet all other requirements of the standard and are adequately described on the label to avoid confusing or misleading the consumer.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "alternative presentation",
+        "presentation requirements",
+        "misleading label"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors: fins must come from sound sharks fit for fresh sale and no other ingredients are permitted, and the final product must be free from foreign material, objectionable odours, and objectionable texture; the final product shall have a moisture content not exceeding 18%.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1 SHARK",
+      "summary": "Requires dried shark fins to be prepared from sound sharks of a quality fit to be sold fresh for human consumption.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "species heading",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2 OTHER INGREDIENTS",
+      "summary": "States that no other ingredients are permitted in the product.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.3 FINAL PRODUCT",
+      "summary": "Specifies final product requirements: the product must be free from foreign material, objectionable odours, and objectionable textural characteristics, and must have a moisture content not exceeding 18%.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.1 Appearance",
+      "summary": "Requires the final product to be free from foreign material.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "appearance heading",
+        "foreign material"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.2 Odour",
+      "summary": "Requires the product to be free from objectionable odours.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour heading",
+        "odour quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.3 Texture",
+      "summary": "Requires dried shark fins to be free from objectionable textural characteristics.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture heading",
+        "texture quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.4 Percentage of Moisture",
+      "summary": "Sets a moisture limit: the final product shall have a moisture content not exceeding 18%.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "moisture heading",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "STANDARD FOR DRIED SHARK FINS",
+      "summary": "Document title only: 'STANDARD FOR DRIED SHARK FINS'.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "CODEX STAN 189-1993",
+      "summary": "Document code only: 'CODEX STAN 189-1993'.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Prohibits any food additives in the product; no additives are permitted.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "no additives"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5. HYGIENE AND HANDLING",
+      "summary": "Requires the final product to be free from any foreign material that poses a health threat and, when tested by Codex-prescribed sampling and examination methods, to be free from microorganisms or microbial substances and any other substances in amounts that may present a health hazard; recommends preparation and handling in accordance with the Codex General Principles of Food Hygiene and the Recommended International Code of Practice for Fresh Fish.",
+      "categories": [
+        "hygiene",
+        "contaminants",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "foreign material",
+        "sampling and examination",
+        "microbial hazard",
+        "other hazard",
+        "good hygiene practice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. LABELLING",
+      "summary": "Sets labelling requirements: the name must be “dried shark fins” or an appropriate local name with a clear reference to the form of presentation, and the label must also include species, fin type and size; for non-retail containers required information (product name, lot identification and manufacturer/packer name and address) may appear on the container or accompanying documents and may be replaced by an identifiable mark linked to those documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "general labelling",
+        "name of food",
+        "product name",
+        "presentation declaration",
+        "species declaration",
+        "non-retail containers",
+        "container particulars",
+        "identification mark"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.2 SENSORY AND PHYSICAL EXAMINATION",
+      "summary": "Mandates that samples for sensory and physical examination be assessed by trained personnel following the procedures in Section 7.3, Annex B (“Sensoric and Physical Examination”), and the Guidelines for the Sensory Evaluation of Fish and Shellfish in Laboratories (CAC/GL 31-1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "sensory examination procedure"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.3 DETERMINATION OF NET WEIGHT",
+      "summary": "Requires determination of the net weight (exclusive of packaging) for each sample unit in the sample lot.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net weight determination",
+        "net weight measurement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.4 DETERMINATION OF MOISTURE",
+      "summary": "Method for determination of moisture is not yet developed (placeholder).",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "moisture determination",
+        "method placeholder"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "8. CLASSIFICATION OF DEFECTIVES",
+      "summary": "Defines a defective sample unit as one that fails to meet the final product requirements referenced in Section 3.3.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8.1 FOREIGN MATTER",
+      "summary": "Defines foreign matter as any material not derived from fish that is readily recognized (without magnification) or detectable by methods including magnification and whose presence indicates non-compliance with good manufacturing and sanitation practices, even if it does not pose a health threat.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "foreign matter",
+        "foreign matter criterion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.2 ODOUR",
+      "summary": "Defines an odour defect as a sample unit affected by persistent, distinct objectionable odours indicative of decomposition.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour",
+        "odour defect"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8.3 TEXTURE",
+      "summary": "Defines a texture defect as textural breakdown of the fin (softness) indicative of decomposition.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture",
+        "texture defect"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.4 MOISTURE",
+      "summary": "Specifies a moisture defect where the sample unit exceeds 18% moisture.",
+      "categories": [
+        "analysis sampling",
+        "contaminants"
+      ],
+      "subcategories": [
+        "moisture defect",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "Specifies lot acceptance criteria: total defectives (per Section 8) must not exceed the acceptance number (c) of a sampling plan with an AQL of 6.5; the average net weight of sampled units must be at least the declared weight with no unreasonable shortage in any container; presentation non-conformities must not exceed the acceptance number (c) with an AQL of 6.5; and the Food Additive, Hygiene and Handling, and Labelling requirements of Sections 4, 5.1, 5.2 and 6 must be met.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures",
+        "presentation",
+        "other"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "lot acceptance criteria",
+        "sampling acceptance",
+        "declared weight",
+        "form of presentation",
+        "compliance criteria",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "ANNEX A",
+      "summary": "Non-substantive annex heading containing an image placeholder (Annex A); no substantive text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading",
+        "image placeholder"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

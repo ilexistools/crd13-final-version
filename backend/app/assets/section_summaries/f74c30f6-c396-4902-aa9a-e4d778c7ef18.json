@@ -1,0 +1,753 @@
+{
+  "doc_id": "f74c30f6-c396-4902-aa9a-e4d778c7ef18",
+  "title": "STANDARD FOR RICE CXS 198-1995",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR RICE CXS 198-1995",
+      "summary": "Title only: Codex Standard for Rice (CXS 198-1995).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 1995. Amended in 2019.",
+      "summary": "Administrative note: Standard adopted in 1995 and amended in 2019.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Applies to husked rice, milled rice and parboiled rice intended for direct human consumption (packaged or sold loose) and excludes other rice‑derived products and glutinous rice.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Provides definitions: rice (kernels of Oryza sativa L.), paddy (rice with husk), husked/brown rice (husk removed), milled/white rice (bran/germ removed), parboiled rice (soaked, heat‑treated and dried) and glutinous/waxy rice (amylopectin‑rich varieties).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Requires rice to be safe and suitable for human consumption and free from abnormal flavours, odours, living insects and mites, sets maximum moisture at 15% m/m, and establishes extraneous matter limits including filth (animal‑origin impurities) 0.1% m/m max and inorganic extraneous matter limits of 1.5% m/m for husked (and husked parboiled) rice and 0.5% m/m for milled (and milled parboiled) rice.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Quality factors - general",
+      "summary": "General quality requirements: rice shall be safe and suitable for human consumption and free from abnormal flavours, odours, living insects and mites.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.1 Rice shall be safe and suitable for human consumption.",
+      "summary": "Mandates that rice must be safe and suitable for human consumption.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "safety suitability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.2 Rice shall be free from abnormal flavours, odours, living insects and mites.",
+      "summary": "Mandates that rice be free from abnormal flavours, odours, living insects and mites.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "sensory defects"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 Quality factors - specific",
+      "summary": "Specifies moisture content ≤15% m/m and extraneous matter limits, including filth 0.1% m/m max and inorganic extraneous matter limits of 1.5% m/m for husked/husked parboiled rice and 0.5% m/m for milled/milled parboiled rice.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.1 Moisture content 15% m/m max",
+      "summary": "Sets the maximum moisture content for rice at 15% m/m.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.2 Extraneous matter : is defined as organic and inorganic components other than kernels of rice.",
+      "summary": "Defines extraneous matter (organic and inorganic non‑kernel components) and sets limits including filth (animal‑origin impurities) 0.1% m/m max, with specified limits for other organic and inorganic extraneous matter by rice type (husked 1.5%/milled 0.5% etc.).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.2.1 Filth : impurities of animal origin (including dead insects) 0.1% m/m max",
+      "summary": "Limits filth (impurities of animal origin, including dead insects) in rice to a maximum of 0.1% m/m.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "filth limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.2.2 Other  organic  extraneous  matter  such  as  foreign  seeds,  husk,  bran,  fragments  of  straw,  etc.  shall  not exceed the following limits:",
+      "summary": "States that organic extraneous matter (e.g., foreign seeds, husk, bran, fragments of straw) in rice shall not exceed specified limits.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "extraneous matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.2.3 Inorganic extraneous matter such as stones, sand, dust, etc. shall not exceed the following limits:",
+      "summary": "States that inorganic extraneous matter (e.g., stones, sand, dust) in rice shall not exceed specified limits.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "extraneous matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4. CONTAMINANTS",
+      "summary": "Declares under contaminants that the products covered by this Standard must be free from heavy metals in amounts that may represent a hazard to human health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.1 Heavy metals",
+      "summary": "Requires that products covered by the Standard be free from heavy metals in amounts that may pose a hazard to human health.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "heavy metals heading",
+        "heavy metals limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.2 Pesticide residues",
+      "summary": "Requires rice to comply with maximum residue limits for pesticide residues established by the Codex Alimentarius Commission for this commodity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5. HYGIENE",
+      "summary": "Recommends preparing and handling rice according to the General Principles of Food Hygiene and relevant Codes of Practice, requires the product to be free from objectionable matter to the extent achievable by good manufacturing practice, and mandates that when tested it be free from microorganisms, parasites, and microbially‑originating substances in amounts that may represent a health hazard.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "good manufacturing",
+        "objectionable matter",
+        "sampling examination",
+        "microbial safety",
+        "parasite safety",
+        "microbial toxins"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6. PACKAGING",
+      "summary": "Requires rice to be packaged in containers that safeguard hygienic, nutritional, technological and organoleptic qualities; container materials must be safe and not impart toxic substances or undesirable odours/flavours; sacks must be clean, sturdy, and strongly sewn or sealed.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "protective packaging",
+        "container safety",
+        "sack requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7. LABELLING",
+      "summary": "States that, in addition to the General Standard for Labelling of Prepackaged Foods, specific labelling provisions for this product apply (see the following subsections on product name and non‑retail container information).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.1 Name of the product",
+      "summary": "Requires the product name on the label to conform to the definitions in Section 2.1, with alternative names in parentheses used according to local practice.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.2 Labelling of non-retail containers",
+      "summary": "Requires information on non‑retail containers to be on the container or in accompanying documents and mandates that the product name, lot identification and manufacturer/packer name and address appear on the container (lot id and name/address may be replaced by an identification mark clearly linked to accompanying documents).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail particulars"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Mandates use of the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to this Standard for checking compliance.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "reference methods"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "1. CLASSIFICATION",
+      "summary": "Provides three classification options for rice (long, medium, short grain): by kernel length/width ratio, by kernel length, or by a combination of length and ratio, each with specific numeric thresholds for classifying grain types.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "OPTION 1: kernel length/width ratio",
+      "summary": "Option 1 classifies rice by kernel length/width ratio, setting distinct ratio ranges for long, medium and short grain for husked/parboiled and milled forms.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "1.1 Long grain rice",
+      "summary": "Defines long grain rice under Option 1 as husked/parboiled husked with length/width ratio ≥3.1 and milled/parboiled milled with ratio ≥3.0.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "1.1.1 Husked rice or parboiled husked rice with a length/width ratio of 3.1 or more.",
+      "summary": "Classifies husked or parboiled husked rice with a length/width ratio of 3.1 or more as long grain.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "long grain"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "1.1.2 Milled rice or parboiled milled rice with a length/width ratio of 3.0 or more.",
+      "summary": "Classifies milled or parboiled milled rice with a length/width ratio of 3.0 or more as long grain.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "long grain"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "1.2 Medium grain rice",
+      "summary": "Defines medium grain rice under Option 1 with length/width ratio ranges of 2.1–3.0 for husked/parboiled husked and 2.0–2.9 for milled/parboiled milled forms.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "1.2.1 Husked rice or parboiled husked rice with a length/width ratio of 2.1-3.0.",
+      "summary": "Classifies husked or parboiled husked rice with a length/width ratio of 2.1–3.0 as medium grain.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "medium grain"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "1.2.2 Milled rice or parboiled milled rice with a length/width ratio of 2.0-2.9.",
+      "summary": "Classifies milled or parboiled milled rice with a length/width ratio of 2.0–2.9 as medium grain.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "medium grain"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "1.3 Short grain rice",
+      "summary": "Classifies short-grain rice by length/width ratio: husked or parboiled short grain has L/W ≤ 2.0 and milled or parboiled milled short grain has L/W ≤ 1.9.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "1.3.1 Husked rice or parboiled rice with a length/width ratio of 2.0 or less.",
+      "summary": "Defines short-grain husked rice or parboiled rice as kernels with a length/width ratio of 2.0 or less.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "short grain"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "1.3.2 Milled rice or parboiled milled rice with a length/width ratio of 1.9 or less.",
+      "summary": "Defines short-grain milled rice or parboiled milled rice as kernels with a length/width ratio of 1.9 or less.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "short grain"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "OPTION 2: the kernel length",
+      "summary": "Provides an alternative classification by kernel length: long grain ≥ 6.6 mm, medium grain ≥ 6.2 mm and < 6.6 mm, and short grain < 6.2 mm.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "OPTION 3: a combination of the kernel length and the length/width ratio",
+      "summary": "Specifies combined kernel length and length/width ratio criteria: long grain >6.0 mm with L/W >2 (and <3) or ≥3, medium grain >5.2 mm to ≤6.0 mm with L/W <3, and short grain ≤5.2 mm with L/W <2.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "2. MILLING DEGREE",
+      "summary": "Introduces milling-degree classifications for milled (white) rice and indicates there are defined categories (undermilled, well‑milled, extra‑well‑milled) with specific milling descriptions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "2.1 Milled rice (white rice) may be further classified into the following degrees of milling:",
+      "summary": "States that milled (white) rice may be further classified into specified degrees of milling.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "milling degrees"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "2.2 Undermilled  rice is  obtained  by  milling  husked  rice  but  not  to  the  degree  necessary  to  meet  the requirements of well-milled rice.",
+      "summary": "Defines undermilled rice as husked rice milled insufficiently to meet the requirements of well‑milled rice.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "milling degrees"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "2.3 Well-milled rice is obtained by milling husked rice in such a way that some of the germ and all the external layers and most of the internal layers of the bran have been removed.",
+      "summary": "Defines well‑milled rice as husked rice milled so that some germ and all external layers and most internal layers of the bran have been removed.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "milling degrees"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "2.4 Extra-well-milled rice is obtained by milling husked rice in such a way that almost all of the germ, all of the external layers and the largest part of the internal layers of the bran, and some of the endosperm, have been removed.",
+      "summary": "Defines extra‑well‑milled rice as husked rice milled so that almost all of the germ, all external layers and most internal bran layers, and some endosperm have been removed.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "milling degrees"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "3. OPTIONAL INGREDIENTS",
+      "summary": "Heading only: indicates an optional ingredients section (no substantive provisions provided here).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "Nutrients",
+      "summary": "Permits addition of vitamins, minerals and specific amino acids to the product provided such additions conform with the legislation of the country where the product is sold.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "nutrients heading",
+        "nutrient addition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "4.2.2 Damaged Kernels",
+      "summary": "Defines 'Damaged Kernels' as whole or broken kernels showing deterioration from moisture, pests, disease or other causes (excluding heat damage) and lists maximum recommended levels (e.g., 4.0% m/m and 3.0% m/m for specified categories) with ISO 7301 (Annex A) as the reference method.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect category"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "4.2.3 Immature Kernels",
+      "summary": "Defines 'Immature Kernels' as unripe or undeveloped whole or broken kernels and gives maximum recommended levels (e.g., 12.0% m/m and 2.0% m/m depending on category) with ISO 7301 (Annex A) cited.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect category"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "4.2.4 Chalky Kernels",
+      "summary": "Defines 'Chalky Kernels' (except glutinous rice) as kernels with at least three‑quarters of the surface opaque and floury and specifies a maximum recommended level of 11.0% m/m in applicable categories, referencing ISO 7301 (Annex A).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect category"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "4.2.5 Red Kernels",
+      "summary": "Defines 'Red Kernels' as kernels with a red pericarp covering more than one‑quarter of the surface and lists maximum recommended limits (e.g., 12.0% m/m and 4.0% m/m for certain classes) with ISO 7301 (Annex A) as the method.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect category"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "4.2.6 Red-Streaked Kernels",
+      "summary": "Defines 'Red‑Streaked Kernels' as kernels with red streaks whose length may be ≥ half the kernel but whose surface area covered is < one‑quarter, and gives maximum recommended levels (e.g., 8.0% m/m for applicable categories) with ISO 7301 (Annex A) cited.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect category"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "4.2.7 Pecks",
+      "summary": "Defines 'Pecks' for parboiled rice as kernels with > one‑quarter of the surface dark brown or black and provides maximum recommended limits for specified categories (e.g., 4.0% m/m* and 2.0% m/m) with ISO 7301 (Annex A) referenced.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect category"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "4.3 Maximum Recommended Levels of Other Types of Rice",
+      "summary": "Table heading indicating maximum recommended levels for other types of rice; substantive limits and test reference (ISO 7301, Annex A) are given in the accompanying table entries.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "rice types"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

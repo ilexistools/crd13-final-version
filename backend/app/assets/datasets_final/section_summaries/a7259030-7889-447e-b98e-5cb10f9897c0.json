@@ -1,0 +1,340 @@
+{
+  "doc_id": "a7259030-7889-447e-b98e-5cb10f9897c0",
+  "title": "Formerly CODEX STAN C-6-1966. Adopted in 1966. Revised in 2007.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "Formerly CODEX STAN C-6-1966. Adopted in 1966. Revised in 2007.",
+      "summary": "Document metadata: indicates former designation (CODEX STAN C‑6‑1966), adoption and revision years, and title for the Standard for Havarti (CXS 267‑1966) with amendment years.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document metadata",
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2022 Amendment",
+      "summary": "Amendment notice stating changes made following the 45th Codex Alimentarius Commission (Dec 2022) and providing a table template comparing previous and amended text; this section is an amendment heading/notice rather than substantive product requirements.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "table header",
+        "table separator"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to Havarti cheese intended for direct consumption or for further processing as described in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Description of Havarti as a ripened firm/semi-hard cheese (near white to yellow) with plentiful irregular rice-seed–sized gas holes, flat-cylindrical/rectangular/loaf shapes and sold with or without a slightly greasy smear rind; specifies typical ripening conditions for ready-for-consumption Havarti (typically 1–2 weeks at 14–18°C for smear development then 1–3 weeks at 8–12°C) while allowing alternative ripening methods if equivalent properties result and permitting less ripening for cheeses intended for further processing.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "ripening conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality framework: raw materials (cow or buffalo milk and their products), lists permitted ingredients (e.g., starter cultures, rennet, NaCl/KCl, potable water, ripening enzymes, processing aids and limited use of rice/corn/potato flours as surface anti-caking agents), and provides compositional requirements including minimum milk fat in dry matter and dry matter reference levels tied to fat ranges, with non‑compliance if compositions exceed specified minima/maxima.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Raw materials",
+      "summary": "Raw materials limited to cows' milk, buffaloes' milk, their mixtures and products derived from these milks.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "milk sources"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Permitted ingredients include harmless lactic/flavour starter cultures and other harmless micro‑organisms, rennet or suitable coagulating enzymes, sodium chloride or potassium chloride, potable water, safe ripening‑enhancing enzymes and processing aids, and rice/corn/potato flours or starches only as surface anti‑caking agents for cut/sliced/shredded products in amounts functionally necessary under Good Manufacturing Practice.",
+      "categories": [
+        "additives",
+        "processing"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "starter cultures",
+        "coagulating enzymes",
+        "salt substitute",
+        "potable water",
+        "ripening enzymes",
+        "processing aids",
+        "anti-caking agents"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.3 Composition",
+      "summary": "Composition table: milk fat in dry matter must be at least 30% (no maximum; reference 45–55%), and minimum dry matter content varies by fat‑in‑dry‑matter ranges (e.g., 46% for 30–<40% fat; 48% for 40–<45%; 50% for 45–<55%; 54% for 55–<60%; 58% for ≥60%); compositional modifications beyond these specified minima/maxima are not compliant with CXS 206‑1999.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition table header",
+        "table separator",
+        "milk fat minimum",
+        "dry matter requirement",
+        "dry matter table header",
+        "dry matter minimum",
+        "compositional compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Only additive functional classes justified in the accompanying table and in accordance with the General Standard for Food Additives (CXS 192‑1995) may be used for Havarti; the table indicates colours, acidity regulators and preservatives are justified for cheese mass (with preservatives also justified for surface/rind), while most other classes are not justified.",
+      "categories": [
+        "additives",
+        "other"
+      ],
+      "subcategories": [
+        "additives heading",
+        "additives conditions",
+        "table header",
+        "table separator",
+        "use categories",
+        "colour allowance",
+        "bleaching agents",
+        "acidity regulators",
+        "stabilizers list",
+        "thickeners list",
+        "emulsifiers list",
+        "antioxidants list",
+        "preservatives list",
+        "foaming agents"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5. CONTAMINANTS",
+      "summary": "Contaminants: products must comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995), and milk used must meet the milk‑specific contaminant/toxin limits and maximum residue limits for veterinary drugs and pesticides established by the CAC.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "milk residue limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6. HYGIENE",
+      "summary": "Hygiene: production and handling should follow the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57‑2004) and other relevant Codex texts, and the product should meet any microbiological criteria established per CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "7. LABELLING",
+      "summary": "Labelling: in addition to general labelling and dairy term standards, specific provisions cover name usage, country of origin, milk fat declaration, date marking and non‑retail container labelling—these include conditional naming rules, origin declaration, permitted fat‑declaration formats, allowance for manufacture date in certain cases, and reference to non‑retail labelling standard CXS 346‑2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7.1 Name of the food",
+      "summary": "Name of the food: the name 'Havarti' (or customary alternative spellings) may be used only for cheeses conforming to this standard, products with fat in dry matter outside the reference but above the absolute minimum must carry an appropriate qualifier or fat declaration, Havarti with minimum 60% fat in dry matter may be designated 'Cream Havarti', and the name may also be used for cut/sliced/shredded/grated products made from compliant cheese.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food",
+        "product name use",
+        "name use conditions",
+        "modified product designation",
+        "alternative designation",
+        "retail product designation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.2 Country of origin",
+      "summary": "Country of origin: the country of manufacture must be declared on the label, and if the product undergoes substantial transformation in another country that country is to be declared as the country of origin for labelling purposes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "country of origin",
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.3 Declaration of milk fat content",
+      "summary": "Declaration of milk fat content: milk fat must be declared in an acceptable manner in the country of retail sale—either as percentage by mass, percentage of fat in dry matter, or grams per serving with number of servings stated; for comparative nutritional claims, 45% fat in dry matter is the reference, and routine handling operations like repackaging, cutting or slicing are not considered substantial transformation.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "milk fat declaration",
+        "fat content declaration",
+        "nutritional claim note",
+        "substantial transformation note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.4 Date marking",
+      "summary": "Date marking: the date of manufacture may be declared instead of minimum durability information provided the product is not intended to be sold as such to the final consumer.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking",
+        "manufacture date"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.5 Labelling of non-retail containers",
+      "summary": "Labelling of non-retail containers: labelling should comply with the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346‑2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "8. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Methods of sampling and analysis: compliance checks must use the methods of analysis and sampling in the Recommended Methods of Analysis and Sampling (CXS 234‑1999) that are relevant to this standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "sampling and analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

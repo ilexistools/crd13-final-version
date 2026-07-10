@@ -1,0 +1,386 @@
+{
+  "doc_id": "65e9c4ee-274d-41be-99a5-a56fed4e5bc7",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "States that the standard applies to halwa tehenia as defined in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2. DEFINITIONS",
+      "summary": "Defines key terms used in the standard: Halwa tehenia (a heat‑processed tahina-and-sugars product with a consistent or crumbly fibrous texture), tahina (ground peeled roasted sesame seeds), natural sugars (unprocessed sucrose, glucose, fructose or mixtures), and soapwort extract (saponin from Saponaria officinalis).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 Halwa Tehenia",
+      "summary": "'Halwa tehenia' is defined as a heat-processed food made of tahina, natural sugars and other ingredients (composition in Section 3) with a consistent or crumbly (fibrous) texture.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 Tahina",
+      "summary": "Defines tahina as a food product made by grinding peeled and roasted sesame seeds.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "ingredient definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.3 Natural Sugars",
+      "summary": "Defines 'natural sugars' as unprocessed carbohydrates such as sucrose, glucose, fructose, or mixtures thereof.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "ingredient definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.4 Soapwort Extract",
+      "summary": "Defines soapwort extract (saponin) as a substance extracted from the bark, leaves or roots of soapwort (Saponaria officinalis).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "ingredient definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## 3. INGREDIENTS AND QUALITY FACTORS",
+      "summary": "Specifies ingredients and quality requirements for halwa tehenia, including primary and optional ingredients and general obligations that raw materials meet their standards, the product be free of rancid or foreign tastes, insect contamination and spots, and have a consistent, easily cuttable texture. Numeric limits are given for acidity (expressed as citric acid) not exceeding 0.2% wt, acid‑insoluble ash limits (values provided in the text), and fat (sesame oil) content not less than 25% wt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Primary ingredients",
+      "summary": "Lists primary ingredients required for halwa tehenia: tahina, natural sugars and soapwort extract or authorized substitutes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.1 Tahina",
+      "summary": "Line item naming 'Tahina' as a primary ingredient; no additional detail in this line item.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "required ingredients"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.2 Natural sugars",
+      "summary": "Line item naming 'Natural sugars' as a primary ingredient; no additional detail in this line item.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "required ingredients"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.3 Soapwort extract or authorized substitutes",
+      "summary": "Line item naming 'Soapwort extract or authorized substitutes' as a primary ingredient; no additional detail in this line item.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "required ingredients"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2 Optional Ingredients",
+      "summary": "Permits optional ingredients including almonds, pistachios, walnuts, dried fruits and/or cocoa powder.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4 FOOD ADDITIVES",
+      "summary": "Permits only acidity regulators and emulsifiers listed in Table 3 of CODEX STAN 192-1995 and allows flavourings when used in accordance with good manufacturing practices and the Codex Guidelines for the Use of Flavourings (CAC/GL 66-2008).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1 Only acidity regulators and emulsifiers listed in Table 3 of the General Standard for Food Additives (CODEX STAN 192-1995) are acceptable for use in foods conforming to this Standard.",
+      "summary": "States that only acidity regulators and emulsifiers listed in Table 3 of the General Standard for Food Additives (CODEX STAN 192-1995) are acceptable for use in foods conforming to this standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.2 Flavourings",
+      "summary": "Allows flavourings in foods conforming to this standard when used in accordance with good manufacturing practices and the Codex Guidelines for the Use of Flavourings (CAC/GL 66-2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "## 5. CONTAMINANTS",
+      "summary": "Requires products covered by this standard to comply with the Maximum Levels in the General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## 5. CONTAMINANTS",
+      "summary": "Requires products covered by this Standard to comply with the Maximum Levels in the General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "## 6. HYGIENE REQUIREMENTS",
+      "summary": "Recommends preparation and handling in accordance with the General Principles of Food Hygiene (CAC/RCP 1-1969) and other relevant Codex texts, and states the products should comply with microbiological criteria established under CAC/GL 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## 7. PACKAGING, TRANSPORTATION AND STORAGE",
+      "summary": "Sets packaging, transportation and storage considerations: package to protect from humidity/contamination and sticking; transport must protect the product from climatic effects that could alter/spoil it; store in well-ventilated warehouses away from heat, sun and contaminating materials.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "## 7.1 Packaging",
+      "summary": "Requires Halwa Tehenia to be packaged in suitable, tightly closed containers that protect against humidity and contamination and prevent the product from sticking to packaging material.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "packaging requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## 7.2 Transportation",
+      "summary": "Requires means of transportation that protect the product from climatic effects which might alter its characteristics or cause spoilage.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport heading",
+        "transport requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "## 7.3 Storage",
+      "summary": "Requires storage in well-ventilated warehouses, away from heat, sun and any material that might lead to contamination.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading",
+        "storage requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "## 8. LABELLING",
+      "summary": "Labelling must comply with the General Standard for the Labelling of Pre-packaged Foods (CODEX STAN 1-1985); the product name for labelling shall be 'Halwa Tehenia', 'Halwa Shamia' or 'Halva'; optional ingredients, if used, must be indicated next to the product name; the label must not be applied directly on the product.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "general labelling",
+        "product name",
+        "ingredient declaration",
+        "label placement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "## 9. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Placeholder: methods of sampling and analysis are not specified ('To be completed').",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "placeholder text"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    }
+  ]
+}

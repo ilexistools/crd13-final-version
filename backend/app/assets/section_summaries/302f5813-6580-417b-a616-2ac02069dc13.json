@@ -1,0 +1,504 @@
+{
+  "doc_id": "302f5813-6580-417b-a616-2ac02069dc13",
+  "title": "STANDARD FOR BABY CORN (CODEX STAN 188-1993)",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR BABY CORN (CODEX STAN 188-1993)",
+      "summary": "Heading only: title of the Standard for Baby Corn (Codex Stan 188-1993) with no substantive provisions in this section.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "Defines the produce covered as cobs (without silk and anthers) of commercial baby corn (Zea mays L.) supplied fresh after preparation and packaging and explicitly excludes baby corn intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "definition heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets quality provisions including minimum requirements (whole, sound, clean, pest- and abnormal-moisture-free, practically free of silk, etc.) and classifies baby corn into three classes (Extra, Class I, Class II) with class-specific allowances for defects and presentation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 MINIMUM REQUIREMENTS",
+      "summary": "Lists minimum requirements for baby corn cobs: whole, sound (no rotting), practically free of visible foreign matter and silk, free of pest damage, abnormal external moisture, foreign smell/taste, with a clean well-defined base cut (slight discoloration acceptable), and fit to withstand transport and arrive in satisfactory condition.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1.1  The development and condition of the baby corn must be such as to enable it:",
+      "summary": "The development and condition of baby corn must enable it to withstand transport and handling and to arrive in satisfactory condition at the destination.",
+      "categories": [
+        "quality",
+        "transport"
+      ],
+      "subcategories": [
+        "minimum condition",
+        "transport handling",
+        "destination condition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 CLASSIFICATION",
+      "summary": "Defines three quality classes (Extra, Class I, Class II) for baby corn cobs and indicates that each class has specific quality criteria and permitted defects, with Extra being highest quality and Class II lowest.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "Extra Class: cobs must be well trimmed, free of husk, stalk and silk, intact and of superior quality, characteristic of the variety, and free of defects except very slight superficial ones that do not affect appearance, quality, keeping quality or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "extra class",
+        "extra class requirements"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.2 Class I",
+      "summary": "Class I: cobs must be well trimmed, free of husk and stalk and of good quality, but may have slight defects in shape, colour or texture, slight irregular arrangement of undeveloped kernels, surface damage up to 5% of the cob, and minimal attached or broken silk that does not affect appearance.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class i",
+        "class i requirements",
+        "class i defects"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.3 Class II",
+      "summary": "Class II: for cobs meeting the minimum requirements but not higher classes; allows defects in shape, colour, texture and irregular kernel arrangement, surface damage up to 10% of the cob, and minimal attached or broken silk that does not affect appearance.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class ii",
+        "class ii requirements",
+        "class ii defects"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Size is determined by cob length with codes A (5.0–7.0 cm), B (7.0–9.0 cm) and C (9.0–12.0 cm); for all sizes width must be at least 1.0 cm and not more than 2.0 cm.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "size determination",
+        "size table",
+        "size code a",
+        "size code b",
+        "size code c",
+        "width limits"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Specifies tolerances: quality tolerances allow a percentage of cobs not meeting the declared class (Extra 5%, Class I 10%, Class II 10% with exclusions for rotted produce) and limit incompletely removed husk/stalk to 5% by number/weight at 0.5 cm; size tolerances allow 5% (Extra) or 10% (Class I/II) by number/weight of cobs outside the declared size but within the adjacent class.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1 QUALITY TOLERANCES",
+      "summary": "Details quality tolerances by class: Extra 5% by number/weight not meeting Extra but meeting Class I (or within its tolerances); Class I 10% not meeting Class I but meeting Class II (with a 5% allowance for 0.5 cm of residual husk/stalk); Class II 10% not meeting class or minimum (excluding rotted produce) with the same husk/stalk limit.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1.1 'Extra' Class",
+      "summary": "Extra Class tolerance: up to 5% by number or weight of cobs may fail to meet Extra class requirements provided they meet Class I or, exceptionally, fall within Class I tolerances.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "extra class",
+        "class tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.2 Class I",
+      "summary": "Class I tolerance: up to 10% by number or weight of cobs may fail to meet Class I requirements but meet Class II (or within its tolerances), and only up to 5% by number or weight may have up to 0.5 cm of residual husk or stalk.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class i",
+        "class tolerance",
+        "husk stalk allowance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1.3 Class II",
+      "summary": "Class II tolerance: up to 10% by number or weight of cobs may fail to meet Class II or the minimum requirements (excluding rotted/unfit produce), and up to 5% by number or weight may have up to 0.5 cm of residual husk or stalk.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class ii",
+        "class tolerance",
+        "husk stalk allowance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.2 SIZE TOLERANCES",
+      "summary": "Specifies size tolerances for baby corn: up to 5% for 'Extra' Class and up to 10% for Class I or Class II (by number or weight) of cobs that do not meet sizing requirements but fall within the adjacent class.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "size tolerances",
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Sets presentation requirements for baby corn covering package uniformity (contents uniform by origin, quality and size with the visible portion representative), packaging materials (new, clean, food‑grade; non‑toxic inks allowed) and container standards to protect produce and comply with the Recommended International Code of Practice for Packaging and Transport (CAC/RCP 44‑1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.1 UNIFORMITY",
+      "summary": "Requires each package of baby corn to be uniform in origin, quality and size, and that the visible part of the package be representative of the entire contents.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "package uniformity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2 PACKAGING",
+      "summary": "Requires baby corn to be packed to protect the produce with internal materials that are new, clean and of food‑grade quality (including permitted recycled food‑grade material), allows printed materials if non‑toxic inks/glues are used, and mandates packing in accordance with CAC/RCP 44‑1995.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.2.1 Description of Containers",
+      "summary": "Requires containers for baby corn to meet quality, hygiene, ventilation and resistance characteristics to ensure suitable handling, shipping and preservation, and that packages be free of foreign matter and odour.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container description",
+        "container requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6. MARKING OR LABELLING",
+      "summary": "Establishes labelling requirements for baby corn: consumer packages follow the Codex General Standard for the Labelling of Prepackaged Foods (CODEX STAN 1‑1985) plus specific provisions, while non‑retail containers must bear legible, indelible particulars visible from outside or in accompanying documents (with provisions for bulk transport); identifies required particulars categories such as identification, nature, origin, commercial identification and optional inspection mark.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1 CONSUMER PACKAGES",
+      "summary": "States that consumer package labelling must meet CODEX STAN 1‑1985 and that additional specific provisions in this standard also apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.1.1 Nature of Produce",
+      "summary": "Requires that if the produce is not visible from the outside, each package or bulk lot be labelled with the name of the produce and optionally the variety.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "nature of produce"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.2 NON-RETAIL CONTAINERS",
+      "summary": "Requires non‑retail containers to carry legible, indelible particulars grouped on the same side and visible from the outside or to have those particulars in accompanying documents for bulk shipments; notes that recycled food‑grade material is acceptable for inside packaging.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.2.1 Identification",
+      "summary": "Requires non‑retail container identification to include the name and address of the exporter, packer and/or dispatcher and allows an optional identification code.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "identification heading",
+        "exporter identification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2.2 Nature of Produce",
+      "summary": "Requires the name of the produce on non‑retail containers when contents are not visible, with the variety or commercial type optional.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce",
+        "product identity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.2.3 Origin of Produce",
+      "summary": "Requires declaration of the country of origin and optionally the district or other national/regional/local place name for the produce.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin of produce",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.2.4 Commercial Identification",
+      "summary": "Specifies commercial identification requirements: class, size (size code) and optionally net weight.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial identification",
+        "class declaration",
+        "size declaration",
+        "net weight"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Heading only: indicates an optional official inspection mark but contains no substantive provisions.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "inspection mark"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "CONTAMINANTS",
+      "summary": "Mandates that the produce comply with Codex maximum levels for contaminants and toxins (CODEX STAN 193‑1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum contaminant levels",
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "HYGIENE",
+      "summary": "Recommends preparing and handling baby corn in accordance with relevant Codex hygiene texts (e.g., CAC/RCP 1‑1969 and CAC/RCP 53‑2003) and requires compliance with any microbiological criteria established per CAC/GL 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene practices",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

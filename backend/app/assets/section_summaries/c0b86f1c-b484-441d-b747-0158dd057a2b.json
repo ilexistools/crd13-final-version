@@ -1,0 +1,394 @@
+{
+  "doc_id": "c0b86f1c-b484-441d-b747-0158dd057a2b",
+  "title": "STANDARD FOR FERMENTED MILKS CXS 243-2003 Adopted in 2003. Revised in 2008, 2010, 2018. Amended in 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR FERMENTED MILKS CXS 243-2003 Adopted in 2003. Revised in 2008, 2010, 2018. Amended in 2022.",
+      "summary": "Title and identification: Codex Standard for Fermented Milks (CXS 243‑2003), adopted 2003 with revisions in 2008, 2010, 2018 and an amendment in 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2022 Amendment",
+      "summary": "Amendment notice (Dec 2022) replacing the previous labelling instructions for non‑retail containers with a requirement to follow the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346‑2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "amendment table",
+        "table separator",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to fermented milks (including heat‑treated, concentrated, and composite milk products) for direct consumption or further processing as defined in Section 2 of the Standard.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines fermented milk products (including concentrated, flavoured, and drinks based on fermented milk), states that starter microorganisms must be viable/active until the date of minimum durability unless the product is heat‑treated after fermentation, and lists specific starter cultures and compositional rules for the product categories while allowing other microorganisms to be added.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Fermented Milk is a milk product obtained by fermentation of milk, which milk may have been manufactured from products obtained from milk with or  without compositional modification as limited by the  provision in Section  3.3,  by  the  action  of  suitable  microorganisms  and  resulting  in  reduction  of  pH  with  or  without coagulation (iso-electric precipitation). These starter microorganisms shall be viable, active and abundant in the product to the date of minimum durability. If the product is heat treated after fermentation the requirement for viable microorganisms does not apply.",
+      "summary": "Defines Fermented Milk as milk fermented by suitable microorganisms causing pH reduction with or without coagulation, requires starter microorganisms to be viable and abundant until the date of minimum durability (unless heat‑treated after fermentation), and identifies specific starter cultures associated with certain fermented‑milk types while permitting addition of other microorganisms.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1.1 Yoghurt",
+      "summary": "Defines yoghurt as a fermented milk made with symbiotic cultures of Streptococcus thermophilus and Lactobacillus delbrueckii subsp. bulgaricus.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition",
+        "starter culture"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1.2 Alternate culture yoghurt",
+      "summary": "Defines alternate culture yoghurt as a fermented milk made with cultures of Streptococcus thermophilus and any Lactobacillus species.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition",
+        "starter culture"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1.3 Acidophilus milk",
+      "summary": "Defines acidophilus milk as a fermented milk made with Lactobacillus acidophilus.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition",
+        "starter culture"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.1.4 Kefir",
+      "summary": "Defines kefir as a fermented milk produced with starter cultures prepared from kefir grains including Lactobacillus kefiri and species of Leuconostoc, Lactococcus and Acetobacter in a specific relationship.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition",
+        "starter culture"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1.5 Kefir grains",
+      "summary": "States that kefir grains contain both lactose‑fermenting yeasts (Kluyveromyces marxianus) and non‑lactose‑fermenting yeasts (Saccharomyces unisporus, S. cerevisiae and S. exiguus).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "starter culture"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.1.6 Kumys",
+      "summary": "Defines kumys as a fermented milk produced with Lactobacillus delbrueckii subsp. bulgaricus and Kluyveromyces marxianus.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition",
+        "starter culture"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.1.7 Other microorganisms",
+      "summary": "Permits addition of microorganisms other than the specific starter cultures listed in Section 2.1.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "additional microorganisms"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.2 Concentrated Fermented Milk is a Fermented Milk the protein of which has been increased prior to or after fermentation to minimum 5.6%. Concentrated Fermented Milks includes traditional products such as Stragis to (strained yoghurt), Labneh, Ymer and Ylette.",
+      "summary": "Defines Concentrated Fermented Milk as fermented milk with protein increased to a minimum of 5.6% (m/m) and gives examples such as strained yoghurt, Labneh, Ymer and Ylette.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "concentrated fermented milk"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.3 Flavoured Fermented Milks are composite milk products, as defined in Section 2.3 of the General Standard for the Use of Dairy Terms (CXS 206-1999) which contain a maximum of 50% (m/m) of non-dairy ingredients (such  as  nutritive  and  non  nutritive  sweeteners,  fruits  and  vegetables  as  well  as  juices,  purees,  pulps, preparations  and  preserves  derived  there  from,  cereals,  honey,  chocolate,  nuts,  coffee,  spices  and  other harmless natural flavouring foods) and/or flavours. The non-dairy ingredients can be mixed in prior to/or after fermentation.",
+      "summary": "Defines Flavoured Fermented Milks as composite products (per CXS 206‑1999) containing up to 50% (m/m) non‑dairy ingredients (e.g., sweeteners, fruits, cereals, chocolate, nuts, flavours) which may be added before or after fermentation.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "flavoured fermented milk"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.4 Drinks based on Fermented Milk are  composite milk products, as defined in Section 2.3 of the General Standard for the Use of Dairy Terms (CXS 206-1999), obtained by mixing Fermented Milk as described in Section 2.1 with potable water with or without the addition of other ingredients such as whey, other non-dairy ingredients, and flavourings. Drinks Based on Fermented Milk contain a minimum of 40% (m/m) fermented milk.",
+      "summary": "Defines Drinks Based on Fermented Milk as composite products made by mixing fermented milk with potable water (and optionally other ingredients) that contain a minimum of 40% (m/m) fermented milk.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fermented milk drink"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Covers essential composition and quality factors: raw materials (milk and potable water), permitted ingredients (starter and other harmless microorganisms, sodium chloride, listed non‑dairy ingredients, gelatin/starch under specified conditions), compositional minimums and microbiological criteria including minimum protein, fat, acidity, ethanol and starter‑culture counts with verification by analysis through the date of minimum durability, and an essential manufacturing requirement that whey removal after fermentation is prohibited except for Concentrated Fermented Milk.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.1 Raw materials",
+      "summary": "Lists raw materials permitted for fermented milk production: milk and/or milk products and potable water for reconstitution or recombination.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Lists ingredients permitted in products covered by this fermented milk standard (starter cultures specified in Section 2, other harmless microorganisms in products under Section 2.4, sodium chloride, non-dairy ingredients of Section 2.3, potable water, milk and milk products where allowed, and gelatine/starch in specified product types), and limits their use to amounts functionally necessary under Good Manufacturing Practice taking into account stabilizers/thickeners in Section 4, with these substances allowed to be added before or after non-dairy ingredients; gelatine/starch use in plain fermented milks is subject to national legislation in the country of sale.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "permitted ingredients",
+        "stabilizers and thickeners",
+        "gmp condition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.3 Composition",
+      "summary": "Specifies compositional and microbiological criteria for fermented milk products (minimum milk protein 2.7% for listed types, milk fat limits [<10% or <15% by product], minimum titratable acidity values, ethanol ≥0.5% v/v for kumys, starter culture total ≥10^7 cfu/g, labelled microorganisms ≥10^6 cfu/g where indicated, yeasts ≥10^4 cfu/g for kefir/kumys), states these criteria apply to the fermented-milk portion of flavoured products and are valid up to the date of minimum durability (except for products heat‑treated after fermentation), and requires analytical testing to verify compliance through the date of minimum durability under labelled storage conditions.",
+      "categories": [
+        "composition",
+        "classification",
+        "quality",
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "composition heading",
+        "product types",
+        "table separator",
+        "milk protein minimum",
+        "milk fat limit",
+        "acidity minimum",
+        "ethanol limit",
+        "starter culture count",
+        "labelled microorganisms",
+        "yeast count",
+        "heat treatment exception",
+        "compliance testing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires products covered by this Standard to comply with Maximum Levels for contaminants and toxins in the General Standard for Contaminants and Toxins in Foods and Feeds (CXS 193‑1995), and requires milk used in manufacture to meet the contaminant/toxin maximum levels and CAC maximum residue limits for veterinary drugs and pesticides established for milk.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "general contaminant limits",
+        "milk residue limits"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling of products in accordance with Codex texts on food hygiene (General Principles CXC 1‑1969, Code for Milk and Milk Products CXC 57‑2004 and other relevant Codes of Practice) and requires compliance with microbiological criteria established per CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene practice"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7. LABELLING",
+      "summary": "States that labelling must comply with the General Standard for the Labelling of Pre‑packaged Foods (CXS 1‑1985) and the General Standard for the Use of Dairy Terms (CXS 206‑1999) and that additional specific Codex labelling provisions follow (including naming rules in Section 7.1).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.1 Name of the food",
+      "summary": "Requires the products covered by Sections 2.1–2.3 to be named ‘fermented milk’ or ‘concentrated fermented milk’ as appropriate, but allows those names to be replaced by specified designations (Yoghurt, Acidophilus Milk, Kefir, Kumys, Stragisto, Labneh, Ymer, Ylette) provided the product meets the Standard, and permits local spelling of ‘Yoghurt’ at retail sale.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name heading",
+        "product name",
+        "permitted names"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

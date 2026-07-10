@@ -1,0 +1,94 @@
+{
+  "doc_id": "928b2c2d-8ae0-46e9-bef1-cf02e6d4885c",
+  "title": "GUIDELINES ON MEASUREMENT UNCERTAINTY CXG 54-2004",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON MEASUREMENT UNCERTAINTY CXG 54-2004",
+      "summary": "Guidelines on Measurement Uncertainty (CXG 54-2004, adopted 2004, amended 2021) explains the importance of evaluating measurement uncertainty for comparability and decision-making in food control, states that uncertainty must be assessed because true values are unknown, excludes guidance on the sampling contribution to total uncertainty, and notes ISO/IEC 17025 requires reporting uncertainty when relevant to test validity or conformity assessment.",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption date",
+        "measurement uncertainty",
+        "scope limits"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Scope",
+      "summary": "Covers general aspects of measurement uncertainty for quantitative analysis (definitions and role in conformity assessment and sampling-plan specification), excludes the uncertainty component associated with sampling, and advises that while uncertainty estimation is not required for qualitative results, laboratories should identify influencing factors and apply quality assurance procedures.",
+      "categories": [
+        "scope",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "scope coverage",
+        "qualitative results"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Prerequisites",
+      "summary": "States that laboratories performing analytical measurements should have effective quality assurance systems (trained staff, equipment maintenance and calibration, reference materials/standards, documentation, proficiency testing, control charts) and sufficient statistical expertise (in-house or external) to apply methods, formulas and decision rules correctly and meet producer/consumer risk criteria.",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "prerequisites heading",
+        "laboratory requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "Terms and definitions",
+      "summary": "Provides the normative references for terms and definitions (including CXG 72-2009, JCGM 200 VIM, ISO 3534 parts, ISO sampling standards and ISO/IEC 17025) and supplies key definitions relevant to measurement uncertainty and sampling (inspection by variables, item, laboratory sample, lot, measurement uncertainty, sample, sampling plan, sample size, test portion and test sample), with a note on heterogeneity and fundamental sampling errors.",
+      "categories": [
+        "definition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition source",
+        "source citation",
+        "sampling error note",
+        "definitions intro",
+        "inspection by variables",
+        "item definition",
+        "laboratory sample",
+        "lot definition",
+        "measurement uncertainty",
+        "sample definition",
+        "sampling plan",
+        "sample size",
+        "test portion",
+        "test sample"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    }
+  ]
+}

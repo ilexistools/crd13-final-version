@@ -1,0 +1,753 @@
+{
+  "doc_id": "4df91dbd-5613-4ade-9250-7370ebf03dc5",
+  "title": "GUIDELINES FOR THE CONTROL OF NONTYPHOIDAL SALMONELLA SPP. IN BEEF AND PORK MEAT",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR THE CONTROL OF NONTYPHOIDAL SALMONELLA SPP. IN BEEF AND PORK MEAT",
+      "summary": "Document title and code: 'Guidelines for the Control of Nontyphoidal Salmonella spp. in Beef and Pork Meat' (CAC/GL 87-2016).",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. INTRODUCTION",
+      "summary": "Introduces Salmonella as a significant foodborne disease with beef and pork as important vehicles and states the Guidelines apply a risk-management framework to present GHP- and hazard-based control measures across the food chain in a flow-diagram format to support HACCP, equivalence judgments and national implementation while excluding animal health matters not directly related to food safety.",
+      "categories": [
+        "scope",
+        "risk management",
+        "risk assessment",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background",
+        "risk management framework",
+        "guideline purpose",
+        "control measure types",
+        "hazard based measures",
+        "quantitative evaluation",
+        "flow diagram format",
+        "format introduction",
+        "control measure range",
+        "food chain relationships",
+        "data gaps",
+        "haccp support",
+        "equivalence judgment",
+        "animal health limitation",
+        "national flexibility"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1  Human pathogens of public health relevance only. For the purposes of this document, all references to Salmonella relate only to human pathogens.",
+      "summary": "Defines that all references to Salmonella in the document relate only to human pathogens of public health relevance (nontyphoidal human pathogens).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "salmonella scope"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2  Strategic Goal 2 of the Strategic Plan of the Codex Alimentarius Commission is to 'Ensure the application of risk analysis principles  in  the  development  of  Codex  standards'  and  the  CAC  Procedural  Manual  states  that  'Health  and  safety aspects  of  Codex  decisions  and  recommendations  should  be  based  on  a  risk  assessment,  as  appropriate  to  the circumstances'.",
+      "summary": "States Codex's Strategic Goal to ensure application of risk analysis principles in standards development and cites the Procedural Manual requirement that health and safety aspects be based on risk assessment as appropriate.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk analysis principle"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3 Guidelines on the Judgement of Equivalence of Sanitary Measures Associated with Food Inspection and Certification Systems (CAC/GL 53-2003).",
+      "summary": "References the Guidelines on the Judgement of Equivalence of Sanitary Measures Associated with Food Inspection and Certification Systems (CAC/GL 53-2003).",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "equivalence reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. OBJECTIVES",
+      "summary": "States the Guidelines aim to inform governments and industry on control of nontyphoidal Salmonella in beef and pork to reduce foodborne disease and support fair international trade, provide a scientifically based framework for GHP- and hazard-based measures, and explicitly do not set quantitative Salmonella limits for international trade.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives",
+        "no quantitative limits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## 3. SCOPE AND USE OF THE GUIDELINES",
+      "summary": "Section heading introducing 'Scope and Use' of the Guidelines and directing readers to the subsections that define applicability to nontyphoidal Salmonella in beef and pork and how the Guidelines should be used.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## 3.1. Scope",
+      "summary": "Specifies the Guidelines apply to all nontyphoidal Salmonella that may contaminate beef and pork meat (primary focus on fresh meat), and that they can be applied from primary production to consumption for commercial production systems in conjunction with relevant OIE standards.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "production chain scope"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 3.2. Use",
+      "summary": "Explains the Guidelines are supplementary to existing Codex and OIE texts, present GHP-based prerequisites and illustrative hazard-based control measures that require local validation and, where appropriate, competent authority approval for decontamination measures, and are intended to be flexibly used by government risk managers and industry.",
+      "categories": [
+        "scope",
+        "risk management",
+        "processing"
+      ],
+      "subcategories": [
+        "use heading",
+        "supplementary use",
+        "non-duplication",
+        "oie conjunction",
+        "control measure guidance",
+        "decontamination measures",
+        "application flexibility"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4 Code of Hygienic Practice for Meat (CAC/RCP 58-2005)",
+      "summary": "Reference citation for the Code of Hygienic Practice for Meat (CAC/RCP 58-2005).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4. DEFINITIONS",
+      "summary": "Defines key terms used in the Guidelines including 'Cattle' (Bos indicus, Bos taurus, Bubalus bubalis), 'Lairage' (animal holding areas), 'Nontyphoidal Salmonella' (Salmonella enterica serovars excluding typhoidal serovars Typhi, Paratyphi A/B/C and Sendai), and 'Pigs' (Sus scrofa domesticus).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "term entry",
+        "term definition",
+        "animal holding area",
+        "salmonella term",
+        "nontyphoidal salmonella",
+        "pig term",
+        "pig species"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. PRINCIPLES APPLYING TO CONTROL OF SALMONELLA IN BEEF AND PORK MEAT",
+      "summary": "Sets overarching principles: incorporate food safety risk analysis where possible in Salmonella control from primary production to consumption and, where practical, competent authorities should establish objective risk management metrics to express required levels of control; it also notes sections 6–9 contain specific beef and pork measures in Annexes I and II.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "control principles",
+        "risk analysis principles",
+        "risk-based control",
+        "risk metrics"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "6. PRIMARY PRODUCTION-TO-CONSUMPTION APPROACH TO CONTROL MEASURES",
+      "summary": "Heading for the primary production-to-consumption approach to control measures, indicating related specific measures are provided in subsequent sections and annexes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7. SPECIFIC CONTROL MEASURES (PRIMARY PRODUCTION)",
+      "summary": "Heading for specific control measures at primary production, directing readers to Annex I for beef-specific and Annex II for pork-specific measures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "8. SPECIFIC CONTROL MEASURES (PROCESSING)",
+      "summary": "Section heading noting that Sections 6–9 contain beef and pork specific measures, with beef measures in Annex I and pork measures in Annex II (non‑substantive navigation note).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "9. SPECIFIC CONTROL MEASURES (DISTRIBUTION CHANNELS)",
+      "summary": "Heading for distribution‑channel specific control measures that only states Sections 6–9 contain beef and pork measures and directs readers to Annex I (beef) and Annex II (pork) without substantive provisions.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "control measures heading",
+        "distribution channel measures"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "10. CONTROL MEASURES",
+      "summary": "States that Good Hygiene Practices (GHP) are the foundation for food safety control systems which should, where practicable, incorporate hazard‑based and risk‑based control measures for Salmonella using a risk management framework, and assigns primary responsibility for developing national risk‑based measures to competent authorities while industry may derive process controls.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "10.1 Development of risk-based control measures",
+      "summary": "Competent authorities should develop risk‑based Salmonella control measures where practical, understand limitations of risk‑modelling tools, may use the document's quantitative examples, and must apply scientifically robust, transparent methodologies when formulating risk management metrics (references and footnotes provided).",
+      "categories": [
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "risk measure development",
+        "risk-based measures",
+        "risk model limits",
+        "quantitative examples",
+        "footnote note",
+        "reference note",
+        "scientific methodology"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "11. IMPLEMENTATION OF CONTROL MEASURES",
+      "summary": "Implementation involves putting selected control measures into effect through planning, communication, regulatory frameworks and monitoring/evaluation; prior to validation authorities/industry must identify measures and targets, validation (by industry or authority) must show measures meet specified Salmonella control outcomes, industry has primary responsibility for implementing and documenting process control systems, and competent authorities should provide guidance, approve systems, stipulate verification/testing and verify compliance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "11.1 Prior to Validation",
+      "summary": "Prior to validation establishments must identify the specific measure(s) to be validated (including whether prior validation is applicable) and identify any existing food safety outcomes or targets set by competent authorities or industry (industry may set stricter targets).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "validation heading",
+        "prevalidation tasks",
+        "measure identification",
+        "target identification"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "11.2 Validation",
+      "summary": "Validation of control measures may be performed by industry and/or the competent authority and must produce evidence that the measure or combination of measures controls Salmonella to a specified target or outcome, with further guidance in CAC/GL 69‑2008.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "validation heading",
+        "validation responsibility",
+        "validation evidence"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "11.3 Implementation",
+      "summary": "Implementation refers to CAC/RCP 58‑2005 Section 9.2 and states industry has primary responsibility for process control systems for beef and pork (including GHP and hazard‑based measures), while competent authorities should provide guidance, may approve documented systems, set verification frequencies and testing requirements, and may delegate specific verification tasks to competent bodies.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "11.3.1 Industry",
+      "summary": "Industry bears primary responsibility for implementing, documenting, applying and supervising process control systems for beef and pork, and documented systems must describe applied activities including sampling procedures, specified Salmonella targets, verification activities, and corrective/preventive actions.",
+      "categories": [
+        "analysis sampling",
+        "processing",
+        "documentation"
+      ],
+      "subcategories": [
+        "industry heading",
+        "process control systems",
+        "process records"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "11.3.2 Regulatory systems",
+      "summary": "The competent authority should provide implementation guidance to industry, may approve documented process control systems and set verification frequencies, require microbiological testing for HACCP verification where targets exist, and may use a competent body to perform specified verification functions.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "regulatory systems heading",
+        "implementation guidance",
+        "approval and verification",
+        "verification delegation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "11.4 Verification of control measures",
+      "summary": "Section heading directing readers to CAC/RCP 58‑2005 Section 9.2 and CAC/GL 69 Section IV for verification of control measures (no substantive verification procedures provided here).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "11.4.1 Industry",
+      "summary": "Industry verification must demonstrate that Salmonella control measures are implemented as intended through observation of monitoring, documentary verification and microbiological sampling, with verification frequency determined by operational factors, establishment history and verification results, and with record keeping to support verification and traceability.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "industry heading",
+        "industry verification",
+        "verification frequency",
+        "record keeping"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "11.4.2 Regulatory systems",
+      "summary": "The competent authority and/or a competent body should verify that industry‑implemented regulatory control measures comply with regulatory requirements for control of Salmonella.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "regulatory systems heading",
+        "regulatory verification"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "12. MONITORING AND REVIEW",
+      "summary": "States that monitoring and review are essential components of a risk management framework to verify process control, demonstrate progress toward public health goals for Salmonella, and inform prioritization and improvement of food safety control systems.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "12.1 Monitoring",
+      "summary": "Monitoring should be performed at appropriate food‑chain steps using validated diagnostic tests with randomized or targeted sampling, standardized and quality‑assured at national level, designed with stakeholders for cost efficiency, collecting sample types and data suitable for intended outcomes (enumeration and subtyping preferred), sharing results with stakeholders, and combining food‑chain monitoring with human surveillance and source attribution to validate control measures and support outbreak/epidemiological investigations.",
+      "categories": [
+        "analysis sampling",
+        "documentation",
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "monitoring heading",
+        "monitoring sampling",
+        "monitoring program",
+        "sample selection",
+        "information sharing",
+        "monitoring review",
+        "surveillance activity",
+        "epidemiological investigation",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "12.2 Review",
+      "summary": "Periodic review of monitoring data at relevant process steps should assess effectiveness of risk management actions, inform selection, validation and verification of control measures, integrate food‑chain data with human surveillance and source attribution, and trigger review of strategies when regulatory performance goals are not met.",
+      "categories": [
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "review heading",
+        "monitoring review",
+        "control review"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "12.3 Public health goals",
+      "summary": "Countries should use monitoring and review, combined with food source attribution and human health surveillance data, when re‑evaluating and updating public health goals for Salmonella control and when assessing progress toward those goals (references provided).",
+      "categories": [
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "goals heading",
+        "public health goals",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "6 SPECIFIC CONTROL MEASURES FOR BEEF (For Sections 6 to 9)",
+      "summary": "Heading introducing the specific control measures for beef that apply to Sections 6–9 (non‑substantive title).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "6.1 Generic flow diagram for application of control measures",
+      "summary": "Provides a generic beef production flow diagram identifying where GHP or hazard‑based interventions may be applied and advises establishments to adapt HACCP plans to their process flows or apply HACCP principles where HACCP is not widely used.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "flow diagram heading",
+        "process flow diagram",
+        "haccp application"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "6.2 Availability of control measures at specific process flow steps addressed in these Guidelines",
+      "summary": "Explains a table that maps where specific Salmonella control measures may apply across beef process flow steps (check marks indicate measures, blanks indicate none) and points to the Guidelines and the OIE Terrestrial Animal Health Code for details.",
+      "categories": [
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "control measures heading",
+        "control measures table",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "Availability of Control Measures at Specific Steps in the Process Flow",
+      "summary": "Table listing slaughter, processing, packaging, storage, transport and consumer steps (1–27) and indicating for each step whether GHP-based control measures and/or hazard‑based control measures are available, identifying specific steps (e.g. stunning, shackling, sticking, dehiding, head removal, evisceration, splitting, pre‑chill, trim/grinding, packaging/storage) where hazard‑based measures are noted.",
+      "categories": [
+        "processing",
+        "packaging",
+        "transport",
+        "storage",
+        "other"
+      ],
+      "subcategories": [
+        "control measures heading",
+        "process step table",
+        "pre chill treatment",
+        "chilling",
+        "carcass fabrication",
+        "trim grinding",
+        "packaging storage",
+        "distribution transport",
+        "cold storage aging",
+        "receiving stage",
+        "finished fabrication",
+        "mechanical tenderization",
+        "retail distribution",
+        "consumer stage"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "7. CONTROL MEASURES FOR PRIMARY PRODUCTION (STEPS 1 TO 2)",
+      "summary": "Guidance that Salmonella control can begin at farm level and practical control measures should be implemented for primary production (steps 1–2), with cross‑references to relevant OIE Terrestrial Animal Health Code and the Codex Code of Hygienic Practice for Meat.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "7.1. GHP-based control measures",
+      "summary": "Non‑substantive cross‑reference instructing readers to consult relevant Chapters of the OIE Terrestrial Animal Health Code for GHP‑based control measures.",
+      "categories": [
+        "hygiene",
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "ghp measures",
+        "cross reference",
+        "image artifact"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "7.2.1 GHP-based control measures",
+      "summary": "Non‑substantive cross‑reference directing users to the OIE Terrestrial Animal Health Code and the Codex Code of Hygienic Practice for Meat (CAC/RCP 58‑2005) for GHP‑based measures.",
+      "categories": [
+        "hygiene",
+        "documentation"
+      ],
+      "subcategories": [
+        "ghp measures",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "8. CONTROL MEASURES FOR PROCESSING (STEPS 3 TO 20)",
+      "summary": "Requires implementation of general control measures during processing (steps 3–20) per the Codex Code of Hygienic Practice for Meat—examples include cleaning and disinfection of equipment and environment, good drainage, equipment maintenance, knife sanitation between carcasses, employee training and hygiene, potable water for decontamination, and personnel health surveillance; for receiving and lairage it advises assessing incoming cattle cleanliness and source information (e.g. Salmonella status) to enable segregation, line‑speed adjustments and other controls, and recommends measures such as water misting and routine cleaning of lairage to reduce cross‑contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "8.1 Step 3: Receive and Unload",
+      "summary": "Identifies 'Receive and Unload' (Step 3) as the point of arrival and ante‑mortem activities with increased risk of contamination by enteric pathogens (e.g. Salmonella) from hides and feces and elevated shedding due to transport and handling, and refers to OIE and Codex hygienic practice guidance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "8.1.1 GHP-based control measures",
+      "summary": "GHP requirement: loading docks must be kept clean and disinfected as often as practical, taking environmental conditions into account.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ghp measures",
+        "cleaning disinfection"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "8.2 Step 4: Lairage and Ante-Mortem Inspection",
+      "summary": "Identifies lairage and ante‑mortem inspection (Step 4) as holding where Salmonella contamination risk is increased due to hide/fecal contamination and animal interactions that can increase pathogen shedding.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "8.2.1 GHP-based control measures",
+      "summary": "GHP recommendations for lairage: apply water misting to reduce dust/dirt carrying Salmonella and routinely clean lairage areas, pens and watering points—including cleaning when stock are absent to reduce aerosol contamination and cross‑contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ghp measures",
+        "dust control",
+        "cross contamination control"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

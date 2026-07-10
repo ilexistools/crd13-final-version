@@ -1,0 +1,443 @@
+{
+  "doc_id": "edd5431a-5199-4cf8-94f8-4f64ad2862e4",
+  "title": "STANDARD FOR BOUILLONS AND CONSOMMÉS CXS 117-1981 Adopted in 1981. Revised in 2001, 2015. Amended in 2021.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR BOUILLONS AND CONSOMMÉS CXS 117-1981 Adopted in 1981. Revised in 2001, 2015. Amended in 2021.",
+      "summary": "Document title and identification of the Codex Standard for Bouillons and Consommés (CXS 117-1981) with adoption, revision and amendment dates; non‑substantive heading.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 SCOPE",
+      "summary": "Scope: applies to bouillons, consommés (meat and poultry) and similar culinary products intended for direct consumption, presented ready-to-eat or in dehydrated, condensed, frozen or concentrated form.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2 DESCRIPTION",
+      "summary": "Section heading only (Description) and not a substantive provision.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product definitions",
+      "summary": "Section heading only (Product definitions) and not a substantive provision.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1.1 Bouillons and consommés",
+      "summary": "Defines bouillons and consommés as thin clear liquids produced by cooking protein-rich substances or their extracts/hydrolysates with water (or reconstitution of dehydrated ingredients), optionally with seasonings, edible fats, salt, spices, permitted additives (see Section 4) or other foodstuffs to improve taste.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition",
+        "composition definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1.2 Beef",
+      "summary": "Defines 'Beef' as bovine carcass meat trimmed of thick ligaments and large fat with on average 70% visible lean, and states that 10–12 g of such raw beef is necessary to reach 35 mg creatinine per litre in beef bouillon, with required amounts adjusted according to creatinine variation in beef.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "ingredient definition",
+        "meat specification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1.3 Beef extract",
+      "summary": "Defines 'Beef extract' as the concentrate of water-soluble components of raw beef free of coagulable albumin, gelatine and fat, with compositional calculations in Sections 3.2.1.1–3.2.1.2 based on extract containing 60% dry matter (salt excluded); minimum creatinine is 8.5% on dry matter (salt excluded) by the AIIBP reference method and required amounts adjust with dry matter variation.",
+      "categories": [
+        "definition",
+        "composition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "ingredient definition",
+        "extract specification",
+        "basis of calculation",
+        "reference method",
+        "ingredient adjustment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1.4 Poultry",
+      "summary": "Defines 'Poultry' to include poultry meat, fat, raw eviscerated carcasses or meat extracts from birds such as chicken, duck, goose, turkey, emu, ostrich, game birds and chicks.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "ingredient definition",
+        "poultry composition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2 Forms of presentation",
+      "summary": "Describes permitted forms of presentation: ready-to-eat products, condensed/concentrated liquid or paste forms and dehydrated products that, after following directions for use (reconstitution or addition of water), yield preparations complying with the product definition in Section 2.1.1.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.1 Ready-to-eat Bouillons and Consommés",
+      "summary": "Defines ready-to-eat bouillons and consommés as products intended to be consumed as presented, with or without heating.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "ready to eat form"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.2 Condensed and Concentrated Bouillons and Consommés",
+      "summary": "Defines condensed and concentrated bouillons and consommés as liquid, semi-liquid or paste-like products which, after addition of water according to directions, yield preparations complying with Section 2.1.1.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "condensed form"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.2.3 Dehydrated Bouillons and Consommés",
+      "summary": "Defines dehydrated bouillons and consommés as dry products which, after reconstitution with water according to directions (with or without heating), yield preparations complying with Section 2.1.1.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "dehydrated form"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1 Purity requirements",
+      "summary": "Purity requirements: all ingredients must be clean, sound and fit for human consumption in accordance with relevant Codex Codes of Hygienic Practice, and water must be potable per WHO Guidelines for Drinking Water Quality.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "purity requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2 Compositional requirements",
+      "summary": "Compositional requirements for the product when prepared ready-for-consumption: meat bouillon must contain per litre at least 10 g beef (or 0.67 g beef extract) and meat consommé at least 15 g beef (or 1 g beef extract); poultry bouillon must have total nitrogen ≥100 mg/L; other bouillons total nitrogen ≥50 mg/L; sodium chloride is limited to a maximum of 12.5 g/L.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "composition heading",
+        "preparation basis",
+        "meat ingredient requirement",
+        "meat content minimum",
+        "table separator",
+        "table connector",
+        "meat extract minimum",
+        "salt maximum",
+        "poultry content minimum",
+        "nitrogen minimum",
+        "other bouillon spec"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.3 Specific prohibitions",
+      "summary": "Specific prohibition: addition of creatinine 'as such' to products covered by this Standard is not permitted.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "prohibitions heading",
+        "restricted ingredient"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Food additives: specified classes of additives (e.g., acidity regulators, anticaking agents in dehydrated products, antioxidants, colours, emulsifiers, flavour enhancers, preservatives, etc.) are acceptable only as listed in Tables 1–3 of the General Standard for Food Additives (CXS 192‑1995) for food category 12.5 (Soups and broths) and related categories, and flavourings must comply with the Guidelines for the Use of Flavourings (CXG 66‑2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "flavouring compliance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. HYGIENE",
+      "summary": "Hygiene: products should be prepared and handled following the General Principles of Food Hygiene (CXC 1‑1969) and relevant Codes of Hygienic Practice, and must comply with any microbiological criteria established under CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6. LABELLING",
+      "summary": "Section heading only (Labelling) indicating that additional specific labelling provisions follow alongside the General Standard for the Labelling of Pre-packaged Foods (CXS 1‑1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6.1 Name of the product",
+      "summary": "Naming rules: specifies required product names (e.g., 'Meat bouillon', 'Beef bouillon', 'Meat consommé', 'Beef consommé', 'Poultry bouillon', or 'Bouillon' with an appropriate qualifier) tied to compliance with the compositional requirements in Sections 3.2–3.2.2 and, for 'beef' designations, that total creatinine content is derived from beef.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "product name",
+        "product designation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.2 Optional provisions",
+      "summary": "Optional labelling provisions: if the number of servings is declared it must use the specified standard serving sizes (minimums — Plate 250 ml; Cup 150 ml; Small Cup 100 ml; Bottle 40 ml).",
+      "categories": [
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "optional provisions",
+        "serving reference",
+        "standard serving"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## 7. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies sampling per Codex General Guidelines on Sampling (CXG 50-2004) and prescribes methods of analysis: creatinine by AIIBP Method 2/5 (HPLC, Rev. 2000); total nitrogen by AIIBP Method 2/6 (Feb 1978) or AOAC 928.08 (with reconstitution for dried/dehydrated products if needed); amino nitrogen by AIIBP Method 2/7 (Sept 1985); and sodium chloride by AIIBP Method 2/4 (Rev. 1998) or AOAC 971.27 (potentiometric).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "## Method of Sampling",
+      "summary": "Requires sampling to be carried out in accordance with the Codex General Guidelines on Sampling (CXG 50-2004).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "## Determination of Creatinine",
+      "summary": "Prescribes determination of creatinine using AIIBP Method 2/5 (HPLC), Revision 2000, from the AIIBP Official Collection of Methods of Analysis (2001).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "creatinine method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "## Determination of Total Nitrogen",
+      "summary": "Specifies determination of total nitrogen by AIIBP Method 2/6 (Feb 1978) or AOAC Method 928.08, noting dried or dehydrated products may need reconstitution prior to analysis.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "total nitrogen method",
+        "analysis method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "## Determination of Amino Nitrogen",
+      "summary": "Specifies determination of amino nitrogen according to AIIBP Method 2/7 (September 1985) from the AIIBP Official Collection of Methods of Analysis.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "amino nitrogen method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "## Determination of Sodium Chloride",
+      "summary": "Specifies determination of sodium chloride by AIIBP Method 2/4 (Revision 1998) or by the AOAC Method 971.27 (Codex general method) using potentiometric determination.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "sodium chloride method",
+        "analysis method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

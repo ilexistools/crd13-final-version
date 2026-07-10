@@ -1,0 +1,669 @@
+{
+  "doc_id": "6b59bee0-3e16-4887-acb3-96a84cf68532",
+  "title": "## GUIDELINES FOR THE VALIDATION OF FOOD SAFETY CONTROL MEASURES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## GUIDELINES FOR THE VALIDATION OF FOOD SAFETY CONTROL MEASURES",
+      "summary": "Document title and code: 'Guidelines for the Validation of Food Safety Control Measures' (CAC/GL 69-2008).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## I. INTRODUCTION",
+      "summary": "Introduces validation as the evidence-based demonstration that selected food-safety control measures consistently achieve intended hazard control, distinguishes industry (responsible for validation) from competent authorities (ensuring effective validation systems and providing guidance or conducting studies), and states the guidelines cover validation concepts, tasks, processes, re-validation and differences from monitoring and verification, with illustrative Annex I.",
+      "categories": [
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "control measures",
+        "authority roles",
+        "document overview"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## II. SCOPE",
+      "summary": "These guidelines apply to validation of control measures at any stage of the food chain for industry and governments (individual measures, limited combinations, or systems like HACCP), while tools, techniques and detailed statistical principles for specific validations are beyond the document's scope and should be sought from scientific or expert sources.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope exclusion"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## III. DEFINITIONS 3",
+      "summary": "Provides definitions for key terms—Control Measure, Food Safety Control System, Monitoring, Validation and Verification—referencing relevant Codex instruments and footnotes for context.",
+      "categories": [
+        "definition",
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "control measure",
+        "food safety system",
+        "monitoring",
+        "validation",
+        "footnote note",
+        "document focus",
+        "definition note",
+        "reference note",
+        "verification"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "IV. CONCEPT AND NATURE OF VALIDATION",
+      "summary": "Defines validation as the collection and evaluation of scientific, technical and observational information to determine whether control measures achieve a specified food‑safety outcome, states validation is performed when designing control measures or after changes (ideally before full implementation), and distinguishes validation from monitoring (ongoing real‑time measurement of control measure performance) and verification (ongoing checks during/after operation), illustrated by an uncooked fermented sausage example involving pH, water activity and microbiological testing.",
+      "categories": [
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "section heading",
+        "validation concept",
+        "validation timing",
+        "subheading",
+        "concept distinction",
+        "monitoring concept",
+        "verification concept",
+        "example introduction",
+        "validation example",
+        "monitoring example",
+        "verification example"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "V. TASKS PRIOR TO VALIDATION OF CONTROL MEASURES",
+      "summary": "Lists pre‑validation tasks for food businesses: identify hazards and required food‑safety outcomes (using competent‑authority targets where available or industry targets), identify measures to be validated and whether they were previously validated/applicable, and prioritize validation based on adverse health impact, historical experience, amenability to monitoring/verification, scientific/technical feasibility and available resources (noting small/less‑developed businesses may need assistance).",
+      "categories": [
+        "other",
+        "risk management",
+        "processing"
+      ],
+      "subcategories": [
+        "section heading",
+        "prevalidation tasks",
+        "task list",
+        "hazard identification",
+        "outcome identification",
+        "target setting",
+        "measure identification",
+        "measure importance",
+        "heat treatment",
+        "ibid reference",
+        "guidance reference",
+        "cooling step",
+        "validation heading",
+        "validation status",
+        "validation prioritization",
+        "adverse health effect",
+        "historical experience",
+        "historical data use",
+        "other factors heading",
+        "monitoring ability",
+        "validation priority",
+        "feasibility heading",
+        "technical feasibility",
+        "resources heading",
+        "resource constraints"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "EXAMPLES OF VALIDATION OF FOOD SAFETY CONTROL MEASURES",
+      "summary": "Introductory Annex note explaining the following illustrative examples of validation approaches are for illustration only, assume the measures have not been previously validated, and are presented in a specific format not intended as a general model.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "EXAMPLE TWO: MEETING A PERFORMANCE OBJECTIVE FOR VERO-TOXIN PRODUCING ESCHERICHIA COLI IN A HARD RAW MILK CHEESE",
+      "summary": "Example validating a combination of control measures to meet a performance objective (<0.001 cfu VTEC/g) in hard raw‑milk cheese using scientifically valid experimental data and models, with the decision criterion that the geometric mean plus 3 standard deviations at end of production is <0.001 cfu/g, implemented via spiked pilot trials, process monitoring, statistical analysis, documentation and defined release conditions (process parameters within tolerance, raw‑milk limit, minimum ripening time).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "8. Conclusion",
+      "summary": "States the performance objective can be met provided (a) process parameters (time, temperature, pH) remain within monitored tolerances, (b) raw milk does not exceed a specified cfu/g limit, and (c) the cheese is ripened for a minimum specified number of days before release.",
+      "categories": [
+        "risk management",
+        "processing",
+        "contaminants"
+      ],
+      "subcategories": [
+        "conclusion heading",
+        "conditions for outcome",
+        "process parameters",
+        "microbial limit",
+        "ripening time"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "EXAMPLE  THREE:  VALIDATION  OF  CLEANING  AND  DISINFECTING  PROTOCOLS  (Sanitation  Standard Operating Procedures, SSOPs)",
+      "summary": "Example validating cleaning and disinfection SSOPs by implementing protocols for 3–4 weeks, conducting microbiological testing of food‑contact surfaces after each day's production, comparing results to established microbiological criteria with statistical analysis, documenting findings, and considering the SSOPs validated if they consistently meet criteria—after which a reduced testing rate can be used for ongoing verification.",
+      "categories": [
+        "risk management",
+        "processing",
+        "analysis sampling",
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "validation example heading",
+        "prevalidation tasks",
+        "hazard identification",
+        "food safety outcome",
+        "cleaning and disinfection",
+        "data collection",
+        "validation criteria",
+        "validation information",
+        "implementation period",
+        "microbiological testing",
+        "results analysis",
+        "criteria comparison",
+        "statistical analysis",
+        "validation review",
+        "implementation records",
+        "testing records",
+        "conclusion heading",
+        "validation conclusion",
+        "verification activity"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "EXAMPLE FOUR: CONTROL OF METAL FRAGMENTS",
+      "summary": "Example validating a sieve to control metal fragments with a food‑safety outcome of <1 fragment ≥2 mm per 100,000 kg by collecting one month of operational data, ensuring metal detector sensitivity/calibration and sieve integrity, determining the rate of fragments reaching product, documenting findings and equipment records, and using the metal detector thereafter for ongoing verification if the criterion is met.",
+      "categories": [
+        "risk management",
+        "risk assessment",
+        "analysis sampling",
+        "equipment",
+        "documentation"
+      ],
+      "subcategories": [
+        "metal fragment control",
+        "prevalidation tasks",
+        "hazard identification",
+        "food safety outcome",
+        "control measure",
+        "data collection approach",
+        "parameters criteria",
+        "validation criteria",
+        "validation information",
+        "measurement procedure",
+        "detector calibration",
+        "equipment integrity",
+        "results analysis",
+        "rate determination",
+        "validation review",
+        "findings record",
+        "equipment records",
+        "validation conclusion",
+        "implementation criterion",
+        "monitoring guidance",
+        "verification activity"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "7. Conclusion: The new inspection package results in the same level of consumer protection as the old inspection package that involved considerably more slicing.",
+      "summary": "Concludes that the new inspection package provides the same level of consumer protection as the previous inspection package that involved considerably more slicing.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "consumer protection conclusion"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## EXAMPLE SIX: VALIDATION OF A SAFE-HANDLING LABEL FOR TABLE EGGS",
+      "summary": "Example validating a safe‑handling label for table eggs aimed at reducing Salmonella Enteritidis exposure by increasing consumer refrigeration to 5°C and cooking until yolks are firm, using a representative survey with a decision criterion tied to a ≥25% increase in consumers adopting the practices and documentation of survey design and results leading to implementation when the threshold is met.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "1. Pre-validation Tasks:",
+      "summary": "Pre‑validation tasks for the egg label example: identify hazard (Salmonella Enteritidis), the food‑safety outcome (reduced consumption of contaminated eggs), and the control measure (a label instructing refrigeration at 5°C and cooking eggs until yolk is firm).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "a. Hazard: Salmonella Enteritidis (SE) in table eggs (shell eggs).",
+      "summary": "Identifies the hazard as Salmonella Enteritidis (SE) in table (shell) eggs.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard identification"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "b. Food Safety Outcome: Reduced frequency of consumption of eggs contaminated with SE.",
+      "summary": "States the food‑safety outcome as a reduced frequency of consumption of eggs contaminated with Salmonella Enteritidis.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "food safety outcome"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "c. Control Measure: Labelling (one control measure among several beginning at primary production (on-farm practices) through consumer use (cooking, storage temperatures)).",
+      "summary": "Specifies the control measure as consumer labelling (part of a chain of controls) that instructs: 'To avoid illness, refrigerate eggs at 5ºC (41ºF) and cook eggs until the yolk is firm.'",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "consumer instructions"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2. Approach: A representative survey of consumers",
+      "summary": "Specifies the validation approach as a representative consumer survey.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "survey approach"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3. Parameters and Decision Criteria:",
+      "summary": "States the decision framework: a risk assessment indicates a 25% increase in consumers refrigerating at 5°C and cooking yolks firm would significantly reduce contaminated servings, and the label is validated if a specified proportion of the population understands the label and indicates intent to follow it.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "a. A risk assessment has shown that, in concert with control measures elsewhere in the food chain, the number of servings of eggs contaminated with SE will be significantly reduced if there is a 25% increase in the number of consumers that store table eggs at 5ºC (41ºF) and cook eggs until the yolks are firm.",
+      "summary": "Explains the risk‑assessment rationale that, together with other chain controls, a 25% increase in consumers refrigerating eggs at 5°C and cooking yolks firm would significantly reduce servings contaminated with SE.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk reduction rationale"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "b. The control measure (label) will be considered validated if a specified percentage of the population understands the label (i.e., having read it, they can state what they would do if following the label instructions) and indicates that they plan to follow the instructions.",
+      "summary": "Specifies the validation criterion that the label will be considered validated if a defined percentage of the population understands the instructions and indicates they plan to follow them.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "survey validation criterion"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4. Assemble relevant validation information:",
+      "summary": "Calls for assembling validation information by identifying the survey target demographic and designing a statistically valid survey to assess current consumer practices, label understandability and intent to change behavior.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "a. Identify target demographic for survey",
+      "summary": "Directive to identify the target demographic for the consumer survey.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "survey design"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "b.   Design a statistically-valid survey to determine",
+      "summary": "Directive to design a statistically valid survey to determine current consumer practices, whether the label is understandable, and whether consumers plan to change practices based on the label.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "survey design"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "12. \u0016 Current consumer practices",
+      "summary": "Heading only indicating a section to address current consumer practices; no substantive requirements or data are provided in this entry.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "consumer practices"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "13. \u0016 Whether the label is understandable",
+      "summary": "Heading only indicating a section to assess whether the label is understandable; no substantive criteria or methods are provided here.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "label understandability"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "14. \u0016 Whether consumers plan to change their current practices, if necessary, based on the label instructions.",
+      "summary": "Heading only indicating a section to evaluate whether consumers plan to change practices based on label instructions; no substantive content is included.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "intended behavior"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5. Analyze the results:",
+      "summary": "Directs analysis to calculate three population percentages: those not currently following label practices, those who understand the label instructions, and those who intend to change behavior to follow the label.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "a. Determine the percentage of the population that is not currently following the practices described on the label.",
+      "summary": "Instruction to determine the percentage of the population not currently following the practices described on the label.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "current practices"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "b. Determine the percentage of the population that understands the label instructions.",
+      "summary": "Instruction to determine the percentage of the population that understands the label instructions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "label comprehension"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "c. Determine the percentage of the population that indicates that they plan to change their current practice and follow the label instructions.",
+      "summary": "Instruction to determine the percentage of the population who indicate they plan to change current practices and follow the label instructions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "behavior change"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "6. Document and review the validation:",
+      "summary": "Requires documenting and reviewing validation by recording survey development, identification of target demographics, and the survey results.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "a. Document the development of the survey",
+      "summary": "Instruction to document the development of the survey used in the validation process.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "survey documentation"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "b. Document the identification of the target demographics for the survey",
+      "summary": "Instruction to document identification of the target demographics for the survey.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "survey demographics"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "c. Document the survey results",
+      "summary": "Instruction to document the survey results as part of the validation record.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "survey results"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "7. Conclusion",
+      "summary": "Concludes that the control measure is implementable because data showed more than 25% of the population plan to refrigerate eggs at 5°C (41°F) and, where appropriate, cook eggs until the yolk is firm due to the label instructions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "The control measure can be implemented because data indicated that because of the label instructions more than 25% of the population plan to change their current practice and begin refrigerating eggs at 5ºC (41ºF) and, when appropriate, cooking eggs until the yolk is firm.",
+      "summary": "States the basis for implementing the control measure: survey data indicated over 25% of the population would change practices to refrigerate eggs at 5°C (41°F) and, when appropriate, cook eggs until the yolk is firm.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "control measure basis"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    }
+  ]
+}

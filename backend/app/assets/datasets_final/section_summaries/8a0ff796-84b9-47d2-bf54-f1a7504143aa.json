@@ -1,0 +1,340 @@
+{
+  "doc_id": "8a0ff796-84b9-47d2-bf54-f1a7504143aa",
+  "title": "INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "INTRODUCTION",
+      "summary": "Introduces hazard prioritization within the feed risk‑management process, stating its purpose is to improve safety of edible products by optimizing allocation of resources for risk assessment and risk management.",
+      "categories": [
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "process overview",
+        "risk management purpose"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "STEP  1.  IDENTIFICATION  OF  THE  HAZARD,  THE  FEED  AND  THE  EDIBLE  PRODUCT  POTENTIALLY  ASSOCIATED  WITH  FOOD  SAFETY PROBLEMS",
+      "summary": "Describes Step 1 screening to identify hazard/feed/edible‑product combinations potentially linked to food safety problems using data from risk profiles, surveillance, published sources and international systems, lists useful information items (hazard description, occurrence levels, sources, legislation, economic impact, knowledge gaps), and allows exclusion of negligible combinations using defined decision rules.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "step heading",
+        "initial screening",
+        "data sources",
+        "information list intro",
+        "hazard description",
+        "problem description",
+        "hazard characteristics",
+        "occurrence levels",
+        "source identification",
+        "relevant legislation",
+        "economic impact",
+        "knowledge gaps",
+        "exclusion criteria",
+        "reference example"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "STEP 2. IDENTIFICATION AND DEFINITION OF THE CRITERIA BY WHICH EACH SELECTED HAZARD/FEED/EDIBLE PRODUCT COMBINATION WILL BE QUANTIFIED",
+      "summary": "Step 2 requires selecting and defining prioritization criteria relevant to the purpose (e.g., occurrence, human health effects, other legitimate factors), defining each criterion unambiguously and quantitatively or semi‑quantitatively, and doing so with expert assistance.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "step heading",
+        "criteria selection",
+        "criterion factors",
+        "criterion definition",
+        "expert assistance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "STEP 3. ASSIGNMENT OF CRITERION-BASED VALUES TO THE HAZARD/FEED/EDIBLE PRODUCT COMBINATIONS",
+      "summary": "Step 3 directs experts to assign criterion‑based values to each selected hazard/feed/edible‑product combination, noting different specialized experts may be required depending on the criteria and combinations.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "step heading",
+        "criterion assignment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "STEP 4. NORMALIZATION OF THESE VALUES TO MAKE THEM COMPARABLE BETWEEN CRITERIA",
+      "summary": "Requires criterion values to be normalized to a common scale with defined levels to allow comparison, using an expert-developed method that must be fully documented.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "step heading",
+        "normalization scale",
+        "method documentation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "STEP 5. WEIGHTING OF THE CRITERIA TO REFLECT THEIR RELATIVE IMPORTANCE",
+      "summary": "Criterion weighting is determined independently (typically by risk managers with expert support) with weights summing to 100%; weighted normalized values for each hazard/feed/edible product combination are then combined to produce scores and ranked, and the influence of assumptions should be demonstrated (e.g., via sensitivity analyses).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "step heading",
+        "criterion weighting",
+        "weighting allocation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "STEP 6. COMBINING THE WEIGHTED NORMALIZED VALUES FOR EACH HAZARD/FEED/EDIBLE PRODUCT COMBINATION TO PRODUCE A SCORE, AND RANKING OF THE SCORES TO OBTAIN THE ORDER OF PRIORITY",
+      "summary": "For each hazard/feed/edible product combination compute a score by combining weighted normalized criteria (e.g., Score = Σ Ci·Wi), rank combinations by score to prioritize, and demonstrate the impact of assumptions used in ranking through sensitivity analyses.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "step heading",
+        "score calculation",
+        "ranking results",
+        "sensitivity analysis"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "STEP 7. REPORTING OF THE PROCESS, METHODS AND RESULTS",
+      "summary": "Mandates full, systematic and transparent reporting of the prioritization process, methods and results, including the rationales for chosen combinations, criteria, normalization method and weightings, and an estimate of ranking sensitivity.",
+      "categories": [
+        "risk management",
+        "documentation",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "step heading",
+        "reporting requirements",
+        "selection rationale",
+        "criteria rationale",
+        "normalization rationale",
+        "weighting rationale",
+        "sensitivity estimate"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "EXAMPLE OF THE PRIORITIZATION PROCESS",
+      "summary": "Provides a fictitious illustrative example of the prioritization process and notes that real-world criteria definitions, quantification, normalization and weightings must be developed case-by-case with experts.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "prioritization example",
+        "example explanation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "STEP  1.  IDENTIFICATION  OF  THE  HAZARD,  THE  FEED  AND  THE  EDIBLE  PRODUCT  POTENTIALLY  ASSOCIATED  WITH  FOOD  SAFETY PROBLEMS",
+      "summary": "Step 1 identifies the hazard, feed and edible product combinations to consider; the example uses three combinations for demonstration though the method is intended for larger numbers.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard identification",
+        "example scope"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "STEP 2. IDENTIFICATION AND DEFINITION OF THE CRITERIA BY WHICH EACH SELECTED HAZARD/FEED/EDIBLE PRODUCT COMBINATION WILL BE QUANTIFIED",
+      "summary": "Defines four criteria (C1–C4) for quantifying each hazard/feed/edible product combination: C1 occurrence in feed (% samples exceeding a level), C2 transfer from feed to edible product (%), C3 toxicity/health effects (health‑based guidance value or number of illnesses), and C4 impact on feed availability (easy/difficult/impossible).",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "criteria identification",
+        "criteria summary",
+        "criteria table heading",
+        "table header",
+        "table separator",
+        "occurrence criterion",
+        "transfer criterion",
+        "hazard effect criterion",
+        "availability criterion"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "STEP 3. ASSIGNMENT OF CRITERION-BASED VALUES TO THE HAZARD/FEED/EDIBLE PRODUCT COMBINATIONS",
+      "summary": "Requires assigning a value for each criterion C1–C4 to every hazard/feed/edible product combination and categorizing those values as shown in Table 2.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "value assignment",
+        "criteria scoring"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "STEP 4. NORMALIZATION OF THESE VALUES TO MAKE THEM COMPARABLE BETWEEN CRITERIA",
+      "summary": "Gives an example normalization approach where criterion values are assigned to levels and normalized to a scale of 0, 0.5 and 1.0 as summarized in Table 2.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "normalization step",
+        "normalization method",
+        "normalization table"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "STEP 5. WEIGHTING OF THE CRITERIA TO REFLECT THEIR RELATIVE IMPORTANCE",
+      "summary": "Presents example criterion weightings (C1 15%, C2 40%, C3 30%, C4 15%) that sum to 100%, noting transfer from feed to edible product is assigned the greatest weight in this example.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "weighting step",
+        "weighting summary",
+        "weighting table heading",
+        "weighting table",
+        "table separator",
+        "occurrence weighting",
+        "transfer weighting",
+        "hazard weighting",
+        "availability weighting",
+        "weighting total",
+        "weighting interpretation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "STEP 6. COMBINING THE WEIGHTED NORMALIZED VALUES FOR EACH HAZARD/FEED/EDIBLE PRODUCT COMBINATION TO PRODUCE A SCORE, AND RANKING OF THE SCORES TO OBTAIN THE ORDER OF PRIORITY",
+      "summary": "Specifies the scoring equation Score = C1·W1 + C2·W2 + C3·W3 + C4·W4 using normalized values and weights, illustrates the calculation for a chemical-hazard example, and shows ranking of three combinations by score (e.g., 0.5, 0.475, 0.75).",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "score ranking",
+        "score calculation",
+        "scoring equation",
+        "variable definition",
+        "scoring example",
+        "scoring table heading",
+        "score table",
+        "table separator",
+        "occurrence score",
+        "transfer score",
+        "hazard score table",
+        "feed availability score",
+        "score summary",
+        "prioritization method",
+        "ranking summary",
+        "ranking table heading",
+        "ranking table",
+        "combination ranking"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "STEP 7. REPORTING OF THE PROCESS, METHODS AND RESULTS",
+      "summary": "States the report must include the full documentation elements specified in paragraph 30 of the Guidance.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "reporting heading",
+        "report contents"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "doc_id": "7d9e1707-7804-483e-ab54-508c4b9ccaf2",
+  "title": "STANDARD FOR FORMULA FOODS FOR USE IN WEIGHT-CONTROL DIETS CXS 181-1991 Adopted in 1991. Amended in 2023.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR FORMULA FOODS FOR USE IN WEIGHT-CONTROL DIETS CXS 181-1991 Adopted in 1991. Amended in 2023.",
+      "summary": "Title and bibliographic information: Standard for Formula Foods for Use in Weight-Control Diets (CXS 181-1991), adopted 1991 and amended 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## Amendments 2023",
+      "summary": "Notes 2023 amendments aligning food-additive provisions with the General Standard for Food Additives (GSFA, CXS 192-1995) and indicating amendments were made in Section 7 (Packaging).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "States the standard applies to formula foods for use in weight-control diets as defined in Section 2 and excludes pre-packaged meals controlled in energy presented as conventional foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines formula foods for weight-control diets as foods presented ready-to-serve or prepared per directions that are intended to replace all or part of the total daily diet.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality requirements for weight-control formula foods, including energy limits for full- and partial-replacement products; protein at 25–50% of energy (≤125 g/day) with defined quality criteria and restricted amino-acid use; fat ≤30% of energy with ≥3% energy from linoleic acid; specified vitamin and mineral levels for full-replacement products (with reduced proportions for single-meal replacements); and requirement to use suitable animal/plant protein constituents and other ingredients necessary to meet these specifications.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Energy content",
+      "summary": "Specifies energy-content limits: full-diet replacements must provide 800–1200 kcal/day with portions approximately one third or one fourth of total depending on 3 or 4 servings per day, and single-meal replacements must provide 200–400 kcal per meal with total intake not to exceed 1200 kcal when replacing the major part of the diet.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "energy content heading",
+        "meal energy limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Nutrient content",
+      "summary": "Sets overall nutrient-content requirements for formula foods for weight control and refers to detailed provisions on protein (3.2.1), fat and linoleate (3.2.2) and vitamins and minerals (3.2.3).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2.1 Protein",
+      "summary": "Requires that 25–50% of available energy (ready-to-serve) be from protein, with total protein ≤125 g/day; protein must be nutritionally equivalent to egg or milk protein (or higher effective levels if quality is lower), no protein below 80% of the reference may be used, and essential amino acids may be added only as necessary using L-forms (DL‑methionine excepted).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "protein heading",
+        "protein energy share",
+        "protein requirements",
+        "protein quality reference",
+        "protein quality minimum",
+        "amino acid addition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2.2 Fat and linoleate",
+      "summary": "Limits fat to no more than 30% of available energy and requires at least 3% of available energy to be provided by linoleic acid (as a glyceride).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fat and linoleate heading",
+        "fat linoleate limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.3 Vitamins and mineral s",
+      "summary": "For formula foods presented as a total daily replacement, requires at least 100% of the listed daily amounts of specified vitamins and minerals (table of specific values provided); for single-meal replacements the vitamin/mineral amounts must be reduced to a minimum of 33% or 25% of those amounts depending on whether three or four servings per day are recommended, respectively.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "vitamin mineral heading",
+        "vitamin mineral content",
+        "nutrient table",
+        "vitamin mineral levels"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.3 Ingredients",
+      "summary": "Requires that formula foods for weight control be made from animal and/or plant protein constituents proven suitable for human consumption and other suitable ingredients necessary to meet the compositional requirements in Sections 3.1 and 3.2.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredient heading",
+        "ingredient requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits use of food additives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for food category 13.4 or additives listed in Table 3 for foods conforming to this standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additive heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires production under good manufacturing practice to minimize pesticide residues and mandates the product be free from hormone and antibiotic residues (by agreed analytical methods) and practically free from other contaminants, especially pharmacologically active substances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.1 Pesticide residues",
+      "summary": "Mandates preparation under good manufacturing practices so that pesticide residues do not remain, or if technically unavoidable are reduced to the maximum extent possible.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues",
+        "pesticide control"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.2 Other contaminants",
+      "summary": "Requires the product to be free from residues of hormones and antibiotics as determined by agreed methods of analysis and to be practically free from other contaminants, particularly pharmacologically active substances.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "other contaminants",
+        "residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6. HYGIENE",
+      "summary": "Hygiene requirements state the product should, insofar as possible under good manufacturing practice, be free from objectionable matter and, when tested by appropriate sampling and examination methods, be free from pathogenic microorganisms and from microbial-origin or other poisonous/deleterious substances in amounts that may represent a health hazard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.1 To the extent possible in good manufacturing practice, the product shall be free from objectionable matter.",
+      "summary": "Requires, to the extent possible under good manufacturing practice, that the product be free from objectionable matter.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "objectionable matter"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6.2 When tested by appropriate methods of sampling and examination, the product:",
+      "summary": "When tested by appropriate sampling and examination methods, the product must meet three criteria: be free from pathogenic microorganisms, not contain substances originating from microorganisms in hazardous amounts, and not contain other poisonous or deleterious substances in hazardous amounts.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6.2(a) shall be free from pathogenic microorganisms;",
+      "summary": "Specifies that the product shall be free from pathogenic microorganisms when tested by appropriate methods.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "pathogen absence"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.2(b) shall not contain any substances originating from microorganisms in amounts which may represent a hazard to health;",
+      "summary": "Specifies that the product shall not contain substances originating from microorganisms in amounts which may represent a hazard to health.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbial substances"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.2(c) shall not contain any other poisonous or deleterious substances in amounts which may represent a hazard to health.",
+      "summary": "Specifies that the product shall not contain other poisonous or deleterious substances in amounts which may represent a hazard to health.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "toxic substances"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7. PACKAGING",
+      "summary": "Requires packaging that safeguards the hygienic and other qualities of the food (liquids must be thermally processed and hermetically sealed to ensure sterility) and mandates that containers and packaging materials be safe, suitable and, where Codex has a standard for the material, comply with that standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.1 The product shall be packed in containers which will safeguard hygienic and other qualities of the food. When in liquid form, the product shall be thermally processed and packed in hermetically sealed containers to ensure sterility.",
+      "summary": "Requires the product be packed in containers that safeguard hygienic qualities and mandates that liquid products be thermally processed and packed in hermetically sealed containers to ensure sterility.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "protective packaging"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.2 The containers, including packaging materials, shall be made only of substances which are safe and suitable for their  intended  uses.  Where  the  Codex  Alimentarius  Commission  has  established  a  standard  for  any  such substances used as packaging materials, that standard shall apply.",
+      "summary": "Requires that containers and packaging materials be made only of substances safe and suitable for their intended uses and comply with any applicable Codex standard for packaging materials.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging materials"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8. FILL OF CONTAINER",
+      "summary": "For ready-to-eat products, specifies minimum fill-of-container by water capacity: ≥80% v/v for products <150 g, ≥85% v/v for 150–250 g, and ≥90% v/v for >250 g; the water capacity is defined as the volume of distilled water at 20°C the sealed container will hold when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "fill heading",
+        "fill requirements",
+        "fill percentage",
+        "container capacity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "9. LABELLING",
+      "summary": "Adds specific labelling rules to the General Standard: the name must be \"Meal replacement for weight control\" and a complete ingredient list and specified nutritive-value declaration per 100 g/100 ml (or per serving where customary) are required, plus date marking and storage instructions for unopened and opened packages; additionally the label must not claim rate/amount of weight loss, should advise adequate daily fluid intake, must warn of laxative effect if sugar alcohols exceed 20 g/day, state the product is useful only as part of an energy‑controlled diet, and (for total-diet replacements) prominently recommend seeking medical advice if used for more than six weeks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "9.1 The name of the food",
+      "summary": "Specifies the mandatory product name: \"Meal replacement for weight control.\"",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "9.2 List of ingredients",
+      "summary": "Requires a complete list of ingredients to be declared on the label in accordance with Section 4.2 of the General Standard.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "ingredient list"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "9.3 Declaration of nutritive value",
+      "summary": "Requires nutritive value declaration per 100 g or 100 ml (or per specified suggested quantity) including energy (kcal and kJ), protein, available carbohydrates, fat (g), vitamins and minerals listed in Section 3.2.3 (metric units), and optionally other nutrients; fatty acid composition and expression of vitamins/minerals as % of reference RDA must follow the Guidelines on Nutrition Labelling (CXG 2-1985), per-serving labelling is permitted where customary provided the number of servings is stated, and the nutritive value of a final combination may be given if directions require combining with other ingredients.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nutrition heading",
+        "nutrition declaration",
+        "energy declaration",
+        "macronutrient declaration",
+        "vitamin mineral declaration",
+        "other nutrients",
+        "fatty acid declaration",
+        "percent daily value",
+        "serving basis",
+        "combined nutrition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9.4 Date marking",
+      "summary": "Requires the date of minimum durability to be declared in accordance with Section 4.8 of the General Standard.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking",
+        "durability date"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "9.5 Storage instructions",
+      "summary": "Heading only (storage instructions) with no substantive provisions in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "9.5.1 Unopened food",
+      "summary": "If the validity of the date depends on special storage conditions for unopened food, those conditions must be declared on the label.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "storage heading",
+        "storage declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "9.5.2 Opened food",
+      "summary": "Labels must include storage instructions for opened packages to maintain wholesomeness and nutritive value, and must include a warning if the food cannot be stored after opening or cannot be stored in the container after opening.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "opened food label",
+        "opened food storage"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "9.6 Additional provisions",
+      "summary": "Contains additional labelling requirements and limits: prohibits claims about rate/amount of weight loss or reduced hunger/increased satiety; recommends stating the importance of adequate daily fluid intake with formula foods for weight control; requires a laxative-effect statement if sugar alcohol intake exceeds 20 g/day; mandates a statement that the food is useful for weight control only as part of an energy‑controlled diet; and for total diet replacements requires a prominent recommendation to seek medical advice if used for more than six weeks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "9.6.1 The label and labelling shall not make any reference to the rate or amount of weight loss which may result from the use of the food or to a reduction in the sense of hunger or an increase in the sense of satiety.",
+      "summary": "Prohibits any label or labelling reference to the rate or amount of weight loss or to reductions in hunger or increases in satiety resulting from use of the food.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "weight loss claims"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "9.6.2 The label or labelling should make reference to the importance of maintaining an adequate daily fluid intake when formula foods for weight control are used.",
+      "summary": "Recommends that labels for formula foods for weight control refer to the importance of maintaining an adequate daily fluid intake.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fluid intake warning"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "9.6.3 If the food provides a daily intake of sugar alcohols in excess of 20 g per day, there shall be a statement on the label to the effect that the food may have a laxative effect.",
+      "summary": "Requires a label statement that the food may have a laxative effect if it provides a daily sugar alcohol intake in excess of 20 g.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "laxative warning"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "9.6.4 The label and labelling shall carry a statement to the effect that the food may be useful in weight control only as part of an energy-controlled diet.",
+      "summary": "Requires a label statement that the food may be useful in weight control only as part of an energy‑controlled diet.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "energy diet statement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "9.6.5 For those products presented as replacements of the total daily diet, the label shall contain a prominent statement recommending that, if the food is used for more than six weeks, medical advice should be sought.",
+      "summary": "For products presented as total daily diet replacements the label must prominently recommend seeking medical advice if the food is used for more than six weeks.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "medical advice warning"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

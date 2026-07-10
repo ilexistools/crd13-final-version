@@ -1,0 +1,317 @@
+{
+  "doc_id": "1710c8ef-997b-4e48-99a6-65bee031f26e",
+  "title": "## GUIDELINES ON THE APPLICATION OF RISK ASSESSMENT FOR FEED",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## GUIDELINES ON THE APPLICATION OF RISK ASSESSMENT FOR FEED",
+      "summary": "Title heading for the Codex guidelines on the application of risk assessment for feed (no substantive text beyond the document title).",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "guideline heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## INTRODUCTION",
+      "summary": "Introduces guidelines for government risk assessment of feed and feed ingredients under Codex risk analysis principles to address human-health risks from hazards in animal feed transferring to edible products, promote comparability in assessments and trade, require specialist training, and directs readers to related Codex, WHO and FAO references and the Code of Practice on Good Animal Feeding.",
+      "categories": [
+        "scope",
+        "training",
+        "risk assessment",
+        "risk management",
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "purpose statement",
+        "benefits statement",
+        "expert training",
+        "related document",
+        "related guidance",
+        "risk analysis principles",
+        "committee principles",
+        "government principles",
+        "microbiological management",
+        "antimicrobial resistance",
+        "microbiological assessment",
+        "external references",
+        "reference list"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## SCOPE",
+      "summary": "States the guidelines apply to all hazards in feed of food-producing animals that may affect human health and explicitly exclude agents that only affect animal health and direct human occupational exposure since those are outside Codex scope.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "excluded exposure"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## DEFINITIONS",
+      "summary": "Provides definitions for key terms used in the guidelines (e.g. biotransformation product, contaminant, edible product, exposure assessment, feed, feed additive, feed ingredient, hazard, risk, risk assessment components and related terms) to ensure common understanding and references relevant sources.",
+      "categories": [
+        "definition",
+        "documentation"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition introduction",
+        "biotransformation product",
+        "contaminant",
+        "edible product",
+        "footnote note",
+        "web reference",
+        "procedural manual note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "Exposure assessment: The qualitative and/or quantitative evaluation of the likely human intake of biological, chemical, and physical agents via food as well as exposures from other sources if relevant. 2 In these guidelines, it may also refer to the consideration of the exposure of a food-producing animal to a hazard and to an evaluation of the likely amount of a hazard in feed that can transfer to an edible product.",
+      "summary": "Defines exposure assessment as the qualitative and/or quantitative evaluation of likely human intake of agents via food and, in these guidelines, also as consideration of food-producing animal exposure to hazards and the likely amount that can transfer to edible products.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "exposure assessment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "RISK ASSESSMENT IN THE CODEX RISK ANALYSIS FRAMEWORK",
+      "summary": "Explains that risk assessment is one component of the Codex risk analysis framework alongside risk management and risk communication, outlines risk management preliminary activities and steps, lists the four steps of risk assessment (hazard identification, hazard characterization, exposure assessment, risk characterization), and states risk assessments are commissioned by risk managers who should establish assessment policy in advance.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "framework heading",
+        "risk analysis framework",
+        "figure caption",
+        "risk management heading",
+        "problem identification",
+        "preliminary activities",
+        "risk profile",
+        "assessment policy",
+        "hazard ranking",
+        "output definition",
+        "risk management step",
+        "risk assessment commissioning",
+        "risk management evaluation",
+        "risk management implementation",
+        "monitoring review",
+        "risk assessment heading",
+        "hazard identification",
+        "hazard characterization",
+        "exposure assessment",
+        "risk characterization",
+        "risk assessment policy"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "HAZARD IDENTIFICATION",
+      "summary": "Describes hazard identification for feed as considering biological, chemical (e.g. heavy metals, dioxins, pesticides, veterinary drugs), radionuclides and biotransformation products, notes pre-approved feed additives/veterinary drugs need not be prima facie hazards, excludes physical agents that affect only animal health, and advises considering locale-specific factors and surveillance, literature and monitoring systems for evidence of hazard presence.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hazard identification heading",
+        "hazard sources",
+        "hazard exclusions",
+        "hazard scope",
+        "hazard occurrence factors",
+        "surveillance sources",
+        "hazard introduction sources"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "HAZARD CHARACTERIZATION",
+      "summary": "Defines hazard characterization as the qualitative/quantitative evaluation of adverse health effects from hazards transferred from feed to edible products, directs use of documented international reports and peer-reviewed literature, identifies relevant reference values for chemicals (e.g. ADI, TDI, ARfD) and dose-response for biologicals, and notes data gaps may require generation of new data at the risk manager's request.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard characterization heading",
+        "hazard characterization",
+        "information sources",
+        "reference values",
+        "data gaps"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "EXPOSURE ASSESSMENT",
+      "summary": "States exposure assessment aims to estimate levels or prevalence of hazards in edible products after transfer from feed and should define final edible products precisely, use quantitative data where possible (or semi-quantitative/qualitative approaches if not), rely on scientifically based sampling and validated analytical methods, and recognizes exposure assessment for feed is a two-step process (animal exposure then transfer to edible product).",
+      "categories": [
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "exposure assessment heading",
+        "human exposure",
+        "edible product definition",
+        "sampling and testing",
+        "two-step exposure"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "First Step: Animal exposure assessment",
+      "summary": "Outlines the first (animal) exposure assessment step: identify feeds contributing to intake of the hazard, determine hazard concentration in feed, calculate animal hazard intake from feeding practices, and identify/quantify other sources (e.g. bedding, soil, water, air), noting animal exposure varies with feed formulation and use patterns.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "animal exposure heading",
+        "first step outline",
+        "feed identification",
+        "hazard concentration",
+        "hazard intake",
+        "other exposure sources",
+        "exposure determinants"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "RISK CHARACTERIZATION",
+      "summary": "Describes risk characterization as combining hazard characterization and exposure assessment to produce a risk estimate, which may be a comparison of predicted edible-product hazard levels with national/international maximum levels or more detailed probabilistic estimates of transfer and human health exceedance, and notes other environmental or food-source exposures and evaluation of risk management options should be considered.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk characterization heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "40. The feed exposure assessment should result in the determination of the  predicted level or prevalence of a hazard in edible  product.  This  result  is  then  incorporated  as  a  starting  point  in  the  human  exposure  assessment  for  food.  The evaluation of the human exposure to the hazard should be done using relevant foods and food groups and/or specific human populations to account for feed as a source of exposure, (e.g. by modelling).",
+      "summary": "States that the feed exposure assessment should determine the predicted level or prevalence of a hazard in edible product and that result should be used as the starting point for human exposure assessment using relevant foods, food groups or specific populations (e.g. via modelling).",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "exposure outcome"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "41. Risk  characterization,  in  a  feed  risk  assessment,  considers the  outcomes  from  the  hazard  characterization  and  the exposure assessment to derive a risk estimate for food safety.",
+      "summary": "Risk characterization in a feed risk assessment integrates the outcomes of hazard characterization and exposure assessment to derive a food-safety risk estimate.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk estimate"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "REPORTING",
+      "summary": "Risk assessments must be fully and systematically documented and communicated to the risk manager; the report should state constraints, uncertainties, assumptions and minority opinions, present conclusions in a readily understandable form for risk managers and interested parties, and notes that resolving uncertainty for management decisions is the risk manager's responsibility.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "reporting heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "46. The risk assessment should be fully and systematically documented and communicated to the risk manager.",
+      "summary": "The risk assessment should be fully and systematically documented and communicated to the risk manager.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "risk documentation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

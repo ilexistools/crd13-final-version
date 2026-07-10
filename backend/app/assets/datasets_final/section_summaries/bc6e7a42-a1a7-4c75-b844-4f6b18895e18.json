@@ -1,0 +1,477 @@
+{
+  "doc_id": "bc6e7a42-a1a7-4c75-b844-4f6b18895e18",
+  "title": "GENERAL STANDARD FOR VEGETABLE PROTEIN PRODUCTS (VPP)",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR VEGETABLE PROTEIN PRODUCTS (VPP)",
+      "summary": "Title/heading for the General Standard for Vegetable Protein Products (VPP); not a substantive provision.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 174-1989",
+      "summary": "Document code CXS 174-1989: standard adopted in 1989 and amended in 2019 and 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code",
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2022 Amendment",
+      "summary": "2022 amendment replaces previous Section 8.3 wording on information for non‑retail containers with a requirement that non‑retail container labelling should follow CXS 346-2021.",
+      "categories": [
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note",
+        "table header",
+        "table separator",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Scope: Standard applies to vegetable protein products (VPP) made from vegetable sources (excluding single-cell protein) intended for further food preparation or use by the food‑processing industry, and excludes VPP that are the subject of a specific Codex commodity standard bearing a specific name.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Description: VPP are products produced by removing major non‑protein constituents from vegetable materials to achieve a protein (N×6.25) content of 40% or more on a dry‑weight basis, excluding added vitamins and minerals.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY AND NUTRITIONAL FACTORS",
+      "summary": "Sets essential composition, quality and nutritional requirements: raw materials must be clean and GMP‑compliant; moisture must be low for microbial stability; crude protein ≥40% (dry basis); ash ≤10% (dry basis); residual fat compatible with GMP; crude fibre ≤10% where no specific standard exists; optional ingredients are listed; processing must control anti‑nutritional factors and protect nutritive value, with special provisions for low‑temperature VPP and assay requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1 Raw materials",
+      "summary": "Raw materials shall be clean, sound plant material essentially free from foreign matter in accordance with Good Manufacturing Practice, or VPP of lower protein content that meet this Standard's specifications.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 VPP shall conform to the following compositional requirements except in so far as certain requirements may be modified in specific types of VPP.",
+      "summary": "VPP shall meet compositional requirements: moisture low enough for microbiological stability; crude protein (N×6.25) ≥40% (dry basis); ash ≤10% (dry basis); residual fat compatible with Good Manufacturing Practice; and crude fibre ≤10% for products not covered by a specific product standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2.1 Moisture",
+      "summary": "Moisture shall be sufficiently low to ensure microbiological stability under the recommended storage conditions.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "moisture heading",
+        "moisture stability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.2 Crude protein",
+      "summary": "Crude protein (N×6.25) shall not be less than 40% on a dry weight basis, excluding vitamins, minerals, amino acids and food additives.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "protein heading",
+        "protein minimum"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.3 Ash",
+      "summary": "Ash yield on incineration shall not exceed 10% on a dry weight basis.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ash heading",
+        "ash limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.4 Fat",
+      "summary": "Residual fat content shall be compatible with Good Manufacturing Practice.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fat heading",
+        "fat content"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.5 Crude fibre",
+      "summary": "For products not covered by a specific product standard, crude fibre shall not exceed 10% on a dry weight basis.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fibre heading",
+        "fibre limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.3 Optional ingredients",
+      "summary": "Optional ingredients permitted in VPP include carbohydrates (including sugars), edible fats and oils, other protein products, vitamins and minerals, salt, and herbs and spices.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.4 Nutritional factors",
+      "summary": "Processing shall be controlled to secure flavour/palatability and to control anti‑nutritional factors (e.g., trypsin inhibitor, hemagglutinins, glucosinolates); where trypsin inhibitor control is necessary the maximum level should be defined for the finished product, and special low‑temperature VPP must be assayed for protein nutritive value after appropriate heat treatment, while processing must not appreciably impair nutritive value.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "nutritional factors",
+        "processing conditions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Processing aids (e.g., acidity regulators, antifoam agents, firming agents, enzymes, extraction solvents, antidusting agents, flour treatment agents, viscosity control agents) may be used consistent with the Guidelines on Substances used as Processing Aids (CXG 75-2010); no food additives are permitted in vegetable protein products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.1 Processing Aids",
+      "summary": "During manufacturing of VPP (vegetable protein products) specified classes of processing aids may be used and such use should be consistent with the Guidelines on Substances used as Processing Aids (CXG 75-2010); listed classes include acidity regulators, antifoam agents, firming agents, enzyme preparations, extraction solvents, antidusting agents, flour treatment agents and viscosity control agents.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "processing aids heading",
+        "processing aids list",
+        "processing aids guidance",
+        "acidity regulators",
+        "antifoam agents",
+        "firming agents",
+        "enzyme preparations",
+        "processing aids"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.2 Food Additives",
+      "summary": "No food additives are permitted in vegetable protein products (VPP).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "no additives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5. CONTAMINANTS",
+      "summary": "VPP must be free from heavy metals in amounts that may represent a hazard to health.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "heavy metals"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. HYGIENE",
+      "summary": "Hygiene provisions recommend preparing products under the General Principles of Food Hygiene (CXC 1-1969) and, to the extent possible under Good Manufacturing Practice, ensuring products are free from objectionable matter; when tested, products must be free of microorganisms or microbial-origin substances and other poisonous substances in amounts that may represent a hazard to health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.1 It is recommended that the products covered by the provisions of this Standard be prepared in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969).",
+      "summary": "It is recommended that products covered by this Standard be prepared in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene practices"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.2 To the extent possible in Good Manufacturing Practice, the products shall be free from objectionable matter.",
+      "summary": "Under Good Manufacturing Practice, the products shall, as far as practicable, be free from objectionable matter.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "good manufacturing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.3 When tested by appropriate methods of sampling and examination, the product:",
+      "summary": "When tested by appropriate sampling and examination, the product must (a) be free of microorganisms that may pose a health hazard, (b) not contain substances originating from microorganisms in hazardous amounts, and (c) not contain other poisonous substances in hazardous amounts.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.(a) shall be free of micro-organisms which may represent a hazard to health;",
+      "summary": "The product shall be free of microorganisms which may represent a hazard to health when tested by appropriate methods.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbiological safety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.(b) shall not contain any substances originating from micro-organisms in amounts which may represent a hazard to health; and",
+      "summary": "The product shall not contain substances originating from microorganisms in amounts that may represent a hazard to health.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbial toxins"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.(c) shall not contain any other poisonous substances in amounts which may represent a hazard to health.",
+      "summary": "The product shall not contain any other poisonous substances in amounts that may represent a hazard to health.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "toxic substances"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7. PACKAGING",
+      "summary": "VPP must be packed in suitable hygienic containers that maintain the product in a dry and sanitary condition during storage and transport.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "packaging conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.3 Labelling of non-retail containers",
+      "summary": "Labelling of non-retail containers should follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Compliance with this Standard must be checked using the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions concerned.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

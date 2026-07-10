@@ -1,0 +1,717 @@
+{
+  "doc_id": "16f12935-5941-4c03-8224-ade8432f2f92",
+  "title": "STANDARD FOR QUICK FROZEN FINFISH, UNEVISCERATED AND EVISCERATED",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR QUICK FROZEN FINFISH, UNEVISCERATED AND EVISCERATED",
+      "summary": "Title of the Codex standard: 'Standard for Quick Frozen Finfish, Uneviscerated and Eviscerated'.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CODEX STAN 36-1981",
+      "summary": "Identifies the document as Codex Standard CODEX STAN 36-1981.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 1981. Revised in 1995, 2017. Amended in 2013.",
+      "summary": "Gives the adoption and amendment history: adopted 1981, amended 2013, and revised in 1995 and 2017.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "revision history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to frozen finfish, both uneviscerated and eviscerated, intended for human consumption.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Describes product and process requirements for quick frozen finfish: product definition (frozen finfish for human consumption), rapid freezing process requirements including reaching −18°C or colder at the thermal centre after stabilization, allowance for controlled industrial repacking with reapplication of quick freezing, and processing/packaging measures to minimize dehydration and oxidation; presentations are permitted if they meet the standard and are clearly labelled to avoid consumer confusion.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Product definition",
+      "summary": "Defines the product as frozen finfish suitable for human consumption, with or without the head, from which viscera or other organs may have been completely or partially removed.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition",
+        "fish definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Process definition",
+      "summary": "Specifies the quick‑freezing process: pass the maximum crystallization range quickly and ensure the product thermal centre reaches −18°C or colder after stabilization, maintain deep freezing during transport/storage, permit controlled industrial repacking followed by re‑freezing, and process/package to minimize dehydration and oxidation.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "process definition",
+        "freezing conditions",
+        "repacking conditions",
+        "dehydration oxidation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.3 Presentation",
+      "summary": "Permits any product presentation provided it meets all standard requirements and is adequately described on the label so as not to confuse or mislead consumers.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation conditions",
+        "consumer description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies essential composition and quality factors: quick frozen finfish must be from sound fish fit for fresh sale; glazing water must be potable or clean sea‑water meeting WHO microbiological standards; other ingredients must be food grade and meet Codex/WHO standards; histamine must not exceed 10 mg/100 g for listed species families; and final products must comply with inspection/testing provisions in the cited sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1 Fish",
+      "summary": "Requires that quick frozen finfish be prepared from sound fish of a quality fit to be sold fresh for human consumption.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "fish heading",
+        "fresh quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2 Glazing",
+      "summary": "If glazing is used, the water or glazing solutions must be potable (meeting WHO drinking‑water standards) or clean sea‑water that meets the same microbiological criteria and is free from objectionable substances.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "glazing heading",
+        "glazing water"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.3 Other ingredients",
+      "summary": "All other ingredients used in the product must be food grade and conform to applicable Codex and WHO standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients",
+        "ingredient quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.4. Decomposition",
+      "summary": "Limits decomposition for certain species by setting a histamine maximum of 10 mg per 100 g (based on the sample average) applicable to species in the Clupeidae, Scombridae, Scombresocidae, Pomatomidae and Coryphaenedae families.",
+      "categories": [
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "decomposition heading",
+        "histamine limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.5 Final product",
+      "summary": "States that products shall meet the standard when lots examined per Section 9 comply with provisions in Section 8 and be tested by methods in Section 7, and notes the standard does not apply to fish frozen in brine intended for further processing.",
+      "categories": [
+        "quality",
+        "analysis sampling",
+        "scope"
+      ],
+      "subcategories": [
+        "final product heading",
+        "compliance testing",
+        "scope exclusion"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Antioxidants listed in Tables 1 and 2 of the General Standard for Food Additives (CODEX STAN 192-1995) are permitted for use in food category 09.2.1 (frozen fish, fillets and fish products including mollusks, crustaceans and echinoderms) and its parent categories for foods conforming to this Standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "antioxidant permission"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5. HYGIENE",
+      "summary": "Products should be prepared and handled per the General Principles of Food Hygiene and relevant Codex Codes and comply with any Codex microbiological criteria; the product must be free from microorganisms or microbial substances that present a health hazard, must not contain histamine above 20 mg/100 g for specified families (Clupeidae, Scombridae, Scombresocidae, Pomatomidae and Coryphaenedae), and must not contain other substances in amounts that present a health hazard under Codex standards.",
+      "categories": [
+        "hygiene",
+        "analysis sampling",
+        "contaminants"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria",
+        "sampling and examination",
+        "microbial hazard",
+        "histamine limit",
+        "hazard substances"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6. LABELLING",
+      "summary": "In addition to the General Standard for the Labelling of Prepackaged Foods, specific labelling requirements in this Standard cover the name of the food, glazed net contents, storage instructions, and information required on non-retail containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6.1 The name of the food",
+      "summary": "Labels must include the common or usual species name and, for eviscerated fish, indicate eviscerated status and whether \"head-on\" or \"headless\", declare if glazed with sea-water, show the term \"quick frozen\" (or \"frozen\" where customary under subsection 2.2), and state that the product must be maintained under conditions that preserve quality during transport, storage and distribution.",
+      "categories": [
+        "labelling",
+        "storage"
+      ],
+      "subcategories": [
+        "food name heading",
+        "product identity",
+        "glaze declaration",
+        "frozen term",
+        "storage conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6.2 Net contents (glazed products)",
+      "summary": "When the food is glazed, the declared net contents must exclude the weight of the glaze.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net contents",
+        "net contents declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.3 Storage instructions",
+      "summary": "The label must state that the product shall be stored at a temperature of -18 °C or colder.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage instructions",
+        "temperature requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.4 Labelling of non-retail containers",
+      "summary": "Information required for retail labelling may be on the container or accompanying documents, but the name of the food, lot identification, name and address, and storage instructions must always appear on the container, and lot identification and name/address may be replaced by an identification mark if it is clearly identifiable with accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "container information",
+        "identification mark"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7. SAMPLING, EXAMINATION AND ANALYSES",
+      "summary": "Sampling and examination require an appropriate sampling plan (AQL 6.5; sample unit = individual fish or primary container) and trained assessors for sensory/physical tests, net weight is determined in the frozen state for non-glazed products (glazed method pending), gelatinous condition by AOAC methods, cooking methods specified for internal temperature 65–70 °C, and histamine must be determined using methods that meet specified performance criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.1 Sampling",
+      "summary": "Lots shall be sampled for final product examination using an appropriate sampling plan with an AQL of 6.5 (sample unit = individual fish or primary container), and net weight sampling shall follow CAC-established criteria.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.2 Sensory and physical examination",
+      "summary": "Samples for sensory and physical examination must be assessed by persons trained in these methods and in accordance with the procedures in Sections 7.3–7.5, Annex A and CAC/GL 31-1999.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "trained assessors"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.3 Determination of net weight",
+      "summary": "Net weight determination requires measuring the net weight (exclusive of packaging) of each sample unit in the frozen state for non-glazed products, while the procedure for glazed products is to be elaborated.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.3.1 Determination of Net Weight of Products not Covered by Glaze",
+      "summary": "For products not covered by glaze, the net weight of each sample unit (exclusive of packaging) shall be determined in the frozen state.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "net weight determination",
+        "net weight measurement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.3.2 Determination of Net Weight of Products Covered by Glaze",
+      "summary": "Procedure for determining net weight of glazed products is not yet specified (to be elaborated).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "glazed weight determination",
+        "method pending"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.4 Thawing",
+      "summary": "Thawing procedures for analysis are not specified in this text (to be elaborated).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "thawing procedure",
+        "method pending"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.5 Determination of gelatinous conditions",
+      "summary": "Determination of gelatinous conditions shall follow specified AOAC methods (e.g., AOAC 883.18, Method A 950.46; AOAC 1990).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "gelatinous condition",
+        "aoac method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.6 Cooking methods",
+      "summary": "Cooking procedures for testing are based on heating the product to an internal temperature of 65–70 °C without overcooking and include baking, steaming, boil-in-bag and microwave methods with exact times to be determined experimentally.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "cooking methods",
+        "cooking procedure",
+        "baking procedure",
+        "steaming procedure",
+        "boil in bag",
+        "microwave procedure"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.7 Determination of histamine",
+      "summary": "Methods for histamine determination must meet defined performance criteria; the table specifies MLs (10 mg/100 g average; 20 mg/100 g per unit), applicable ranges, LOD/LOQ, RSDR, recovery (90–107%) and acceptable methods (e.g., AOAC 977.13, NMKL 99 and NMKL 196).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "histamine determination",
+        "method criteria",
+        "performance criteria table",
+        "histamine criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8. DEFINITION OF DEFECTIVES",
+      "summary": "A sample unit is deemed defective if it exhibits specified defects including deep dehydration (>10% surface area or >10% weight), foreign matter indicating poor GMP, persistent objectionable odour/flavour, textural breakdown (mushy/paste-like or flesh separation), excessive gelatinous condition (>86% moisture or pasty texture from parasitic infestation affecting >5% by weight), or belly burst in uneviscerated fish.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.1 Deep dehydration",
+      "summary": "Deep dehydration is defined as excessive moisture loss affecting more than 10% of the block surface area or more than 10% of the fish weight, visible as white or yellow abnormalities that penetrate below the surface and cannot be removed by scraping without unduly affecting appearance.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "deep dehydration",
+        "dehydration defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.2 Foreign matter",
+      "summary": "Foreign matter is any non-fish material (excluding packaging) that does not pose a health threat, is readily recognizable without magnification or present at a level indicating non-compliance with good manufacturing and sanitation practices.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.3 Odour and flavour",
+      "summary": "Classifies a sample unit as defective when it exhibits persistent, distinct objectionable odours or flavours indicative of decomposition or of feed.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour and flavour",
+        "sensory defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.4 Texture",
+      "summary": "Describes undesirable textural conditions: textural breakdown indicative of decomposition (mushy or paste-like muscle structure or separation of flesh from bones); and excessive gelatinous or pasty flesh which is defined further by thresholds (greater than 86% moisture in any individual fish or pasty texture from parasitic infestation affecting more than 5% of the sample unit by weight).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.4.1 Textural  breakdown  of  the  flesh",
+      "summary": "Specifies textural breakdown of flesh indicative of decomposition, characterized by mushy or paste-like muscle structure or separation of flesh from bones.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "textural breakdown"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "8.4.2 Flesh abnormalities",
+      "summary": "Defines flesh abnormalities as excessive gelatinous condition accompanied by greater than 86% moisture in any individual fish, or pasty texture resulting from parasitic infestation affecting more than 5% of the sample unit by weight.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "flesh abnormalities",
+        "defect description"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "8.5 Belly burst",
+      "summary": "Identifies ruptured bellies in uneviscerated fish as a defect indicative of decomposition.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defect heading",
+        "defect description"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "States a lot meets the standard only if (i) total defectives per Section 8 do not exceed the sampling plan acceptance number (c) with an AQL of 6.5, (ii) the average net weight of sample units is not less than the declared weight without unreasonable shortages in any container, and (iii) Food Additives, Hygiene and Labelling requirements of Sections 4, 5 and 6 are met.",
+      "categories": [
+        "inspection certification",
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance criteria",
+        "sampling acceptance",
+        "net weight check",
+        "compliance requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "SENSORY AND PHYSICAL EXAMINATION",
+      "summary": "Sets out sensory and physical examination procedures: determine complete net weight, inspect frozen units for deep dehydration and measure affected surface area, thaw and inspect each fish for foreign matter, evaluate each fish against Section 8 criteria with odours assessed by cutting the neck, and where odour, texture or gelatinous condition is uncertain confirm by specified cooking methods or by measuring moisture (>86%) using procedures in Sections 7.5 and 7.6.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination heading",
+        "net weight determination",
+        "physical examination",
+        "foreign matter check",
+        "sensory examination",
+        "cooking evaluation",
+        "moisture evaluation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "ANNEX A",
+      "summary": "Annex heading only (no substantive text provided).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

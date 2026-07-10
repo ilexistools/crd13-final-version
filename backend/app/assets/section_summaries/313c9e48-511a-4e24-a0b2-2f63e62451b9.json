@@ -1,0 +1,558 @@
+{
+  "doc_id": "313c9e48-511a-4e24-a0b2-2f63e62451b9",
+  "title": "GENERAL STANDARD FOR FRUIT JUICES AND NECTARS CXS 247-2005",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR FRUIT JUICES AND NECTARS CXS 247-2005",
+      "summary": "Identifies the document as the Codex General Standard for Fruit Juices and Nectars (CXS 247‑2005), adopted 2005 and amended 2022, and states that it supersedes the listed individual Codex standards for specific fruit juices and concentrates.",
+      "categories": [
+        "scope",
+        "other",
+        "food category system"
+      ],
+      "subcategories": [
+        "scope heading",
+        "adoption note",
+        "scope applicability",
+        "product references"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendment",
+      "summary": "Records the 2022 amendment which updates labelling of non‑retail containers to reference CXS 346‑2021 and adds that date marking may be indicated and that for tankers required information may appear exclusively in accompanying documents.",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note",
+        "amendment table",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1 SCOPE",
+      "summary": "States the scope: this Standard applies to all products defined in Section 2.1 (i.e., the fruit juices, concentrates, purées and nectars defined in the Description).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2 DESCRIPTION",
+      "summary": "Provides detailed definitions for covered products: fruit juice (unfermented liquid from sound, mature fruit obtained by suitable processes, including juices from concentrate and limited retention/restoration of aroma/pulp from the same fruit), concentrated fruit juice (water removed to raise Brix ≥50% over reconstituted juice), water‑extracted fruit juice, fruit purée and concentrated purée, and fruit nectar (juice/purée diluted and/or sweetened within Annex specifications); requires use of botanical names in the Annex or correct names for species not listed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Product definition",
+      "summary": "Defines product scope for fruit juices, purées, concentrates and nectars and introduces the detailed definitions in following subsections (non‑substantive heading for the group of product definition provisions).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1.1 Fruit juice",
+      "summary": "Defines fruit juice as the unfermented but fermentable liquid from the edible part of sound, mature fruit, allows limited inclusion of components from pips/seeds/peel unavoidable by GMP, permits cloudy or clear juices and recovery/restoration of volatile/aromatic components and pulp from the same fruit, distinguishes single and mixed juices, and specifies juice may be directly expressed or reconstituted from concentrate using potable water meeting Section 3.1.1(c).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1.1.1 Fruit juice directly expressed by mechanical extraction processes.",
+      "summary": "Non‑substantive single‑line definition: fruit juice directly expressed by mechanical extraction processes (defines one permitted method of obtaining fruit juice).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "juice definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1.1.2 Fruit juice from concentrate by reconstituting concentrated fruit juice defined in Section 2.1.2 with potable water that meets the criteria described in Section 3.1.1(c).",
+      "summary": "Non‑substantive single‑line definition: fruit juice from concentrate means reconstituting concentrated fruit juice (Section 2.1.2) with potable water that meets criteria in Section 3.1.1(c).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "juice definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.1.2 Concentrated fruit juice",
+      "summary": "Defines concentrated fruit juice as juice meeting Section 2.1.1 but with water physically removed to raise Brix at least 50% above the Brix for reconstituted juice of the same fruit, allows certain processing steps (including diffusion if extracted soluble solids are returned in‑line), and permits restoration of volatile/aromatic components and addition of pulp/cells from the same fruit.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "concentrated juice",
+        "juice composition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1.2 Concentrated fruit juice",
+      "summary": "Duplicate of Section 2.1.2: concentrated fruit juice defined by at least a 50% Brix increase over reconstituted juice of same fruit, with permitted processing, restoration of aromatics and addition of pulp/cells from the same fruit.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "concentrated juice",
+        "juice composition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.1.3 Water extracted fruit juice",
+      "summary": "Defines water‑extracted fruit juice as product obtained by diffusion with water from pulpy whole fruit not extractable by physical means or from dehydrated whole fruit, allows concentration/reconstitution, and requires finished product solids meet the minimum Brix for reconstituted juice in the Annex.",
+      "categories": [
+        "composition",
+        "processing",
+        "quality"
+      ],
+      "subcategories": [
+        "composition heading",
+        "water extracted juice",
+        "water extraction",
+        "reconstitution",
+        "brix requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.1.4 Fruit purée for use in the manufacture of fruit juices and nectars",
+      "summary": "Defines fruit purée for manufacture of juices and nectars as the unfermented product from sieving/grinding/milling edible fruit (whole or peeled) without removing juice, requires sound, mature fruit or properly preserved fruit, and permits restoration of aromatic/volatile components and addition of pulp/cells from the same fruit.},{",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "fruit puree",
+        "puree composition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.1.5 Concentrated fruit purée for use in the manufacture of fruit juices and nectars",
+      "summary": "Defines concentrated fruit purée (for juices/nectars) as purée with water removed to raise Brix at least 50% above the Brix for reconstituted juice of the same fruit and allows restoration of aromatic/volatile components obtained from the same fruit.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "concentrated puree",
+        "puree composition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.1.6 Fruit nectar",
+      "summary": "Defines fruit nectar as the unfermented product obtained by adding water and optionally sugars, honey/syrups, or permitted sweeteners to products of Sections 2.1.1–2.1.5 (or their mixtures), allows addition of aromatics/pulp from the same fruit, requires compliance with nectar requirements in the Annex, and notes mixed nectars may be made from multiple fruits.",
+      "categories": [
+        "composition",
+        "classification"
+      ],
+      "subcategories": [
+        "composition heading",
+        "fruit nectar",
+        "mixed nectar"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.2 Species",
+      "summary": "Requires the botanical species names in the Annex be used for labelling fruit juices, purées and nectars bearing the fruit name, and for species not in the Annex the correct botanical or common name must be used.",
+      "categories": [
+        "classification",
+        "composition"
+      ],
+      "subcategories": [
+        "species heading",
+        "species requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section heading introducing essential composition and quality factors with subsections on composition, permitted ingredients, quality, authenticity and verification (non‑substantive grouping heading).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.1 Composition",
+      "summary": "Grouping heading for composition with subsections on basic ingredients and other permitted ingredients (non‑substantive grouping heading).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Specifies basic ingredient rules: directly expressed juices must retain expressed Brix except blending with same fruit; reconstitution of concentrates must meet minimum Brix in the Annex (or be calculated from single‑strength juice if not listed); and potable water for reconstitution must meet WHO Drinking Water Guidelines (Volumes 1–2) at minimum.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "juice composition",
+        "reconstitution conditions",
+        "water quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.1.2 Other permitted Ingredients",
+      "summary": "Lists other permitted ingredients and labelling/usage conditions: certain low‑moisture sugars may be added to all Section 2.1 products (for consumer/catering sales only), specified syrups/honey limited to concentrates, nectar or specified products, limited addition of lemon/lime juice for acidification (up to 3 g/L for unsweetened juices, up to 5 g/L for nectars) subject to importing country law, prohibits adding both sugars and GSFA‑listed acidifying agents to the same juice, allows limited addition of Citrus reticulata to orange juice (≤10% of orange soluble solids) subject to national law, permits salt/spices to tomato juice, and permits fortification with essential nutrients in line with Codex texts.",
+      "categories": [
+        "composition",
+        "labelling"
+      ],
+      "subcategories": [
+        "other ingredients",
+        "ingredient declaration",
+        "allowed sugars",
+        "allowed syrups",
+        "acidification additives",
+        "additive prohibition",
+        "citrus juice addition",
+        "seasoning addition",
+        "fortification nutrients"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.2 Quality criteria",
+      "summary": "Quality criteria require fruit juices and nectars to have the characteristic colour, aroma and flavour of the source fruit and that fruit shall not retain more water from preparatory operations than is technologically unavoidable.",
+      "categories": [
+        "quality",
+        "processing"
+      ],
+      "subcategories": [
+        "quality criteria heading",
+        "organoleptic quality",
+        "washing water limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.3 Authenticity",
+      "summary": "Defines authenticity as maintenance of the product's essential physical, chemical, organoleptic and nutritional characteristics of the fruit(s) from which it comes.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "authenticity heading",
+        "product authenticity"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.4 Verification of composition, quality and authenticity",
+      "summary": "States juices and nectars should be tested for authenticity, composition and quality where applicable using analytical methods in Section 9, and that verification involves comparing sample data with data for the same fruit type/region while allowing natural, seasonal and processing variations.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "verification heading",
+        "authenticity testing",
+        "sample comparison"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits use of food additives listed in Tables 1 and 2 of the GSFA for the relevant Codex food categories (14.1.2.1, 14.1.2.3, 14.1.3.1, 14.1.3.3) applicable to fruit juices, concentrates and nectars (heading with cross‑reference to GSFA).",
+      "categories": [
+        "additives",
+        "other"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted food additives",
+        "footnote note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5. PROCESSING AIDS - MAXIMUM LEVEL OF USE IN LINE WITH GOOD MANUFACTURING PRACTICES",
+      "summary": "Provides a non‑exhaustive table of processing aids and maximum use aligned with GMP, listing antifoaming agents, adsorbents, clarifying/filtration/flocculating agents, enzyme preparations (pectinases, proteinases, amylases, limited cellulases), packing gases (nitrogen, CO2) and others permitted for juice processing.",
+      "categories": [
+        "processing",
+        "additives",
+        "packaging"
+      ],
+      "subcategories": [
+        "processing aids heading",
+        "processing aids table",
+        "processing aid list",
+        "additive list",
+        "packing gas"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6. CONTAMINANTS",
+      "summary": "Requires products covered by this Standard to comply with Codex Alimentarius Commission maximum residue limits for pesticide residues (6.1) and with Codex-established maximum levels for other contaminants (6.2).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "pesticide residues",
+        "residue limits",
+        "contaminants section",
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7. HYGIENE",
+      "summary": "Recommends that products be prepared and handled in accordance with the Codex General Principles of Food Hygiene (CXC 1-1969) and related Codes, and requires compliance with any microbiological criteria established under CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8. LABELLING",
+      "summary": "Adds specific labelling provisions to the General Standard for the Labelling of Pre‑packaged Foods (CXS 1-1985), covering required product names, declarations and additional labelling rules for consumer and non‑retail containers (see 8.1 and 8.2 for details).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.1 General requirements for fruit juice products",
+      "summary": "Specifies mandatory product-name conventions and detailed labelling requirements for fruit juices, concentrates, water‑extracted juices, purées and nectars (including naming for blends), mandatory 'from concentrate'/'reconstituted' declarations, criteria for labeling 'concentrated' (Brix increase ≥50% over reconstituted), mandatory statements for added sugars or sweeteners, reconstitution directions, juice‑content percentage declarations for nectars, rules on varietal denominations, nutrient/claim labelling references, pictorials, carbonation and 'spiced' declarations, and ingredient declarations for added pulp/aromatics.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "container heading",
+        "product name heading",
+        "product name declaration",
+        "fruit juice name",
+        "concentrated juice name",
+        "water extracted juice",
+        "fruit puree name",
+        "concentrated puree name",
+        "nectar name",
+        "mixed juice name",
+        "from concentrate declaration",
+        "additional requirements",
+        "concentrated claim",
+        "product name statement",
+        "reconstitution directions",
+        "varietal denomination",
+        "juice content declaration",
+        "ingredient claim distinction",
+        "nutrition claims reference",
+        "sugar reduction claim",
+        "pictorial representation",
+        "carbonation declaration",
+        "spiced juice declaration",
+        "ingredient declaration"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Requires labelling of non‑retail containers to follow the General Standard for the Labelling of Non‑Retail Containers (CXS 346-2021), allows date marking, and permits tanker information to appear only in accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail provisions",
+        "date marking",
+        "accompanying documents"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Provides a table of specified analytical methods, principles and method types (HPLC, enzymatic, spectrometry, stable isotope MS, titrimetry, etc.) for analysis and sampling of compositional, quality and authenticity parameters referenced in the Standard, with footnotes clarifying exceptions and method duplications.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "methods table",
+        "analytical method",
+        "analytical method table",
+        "footnote note",
+        "method table header",
+        "table separator"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 12
+      }
+    }
+  ]
+}

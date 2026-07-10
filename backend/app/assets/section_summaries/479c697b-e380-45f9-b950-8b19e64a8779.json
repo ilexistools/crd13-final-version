@@ -1,0 +1,972 @@
+{
+  "doc_id": "479c697b-e380-45f9-b950-8b19e64a8779",
+  "title": "GENERAL STANDARD FOR DRIED FRUITS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR DRIED FRUITS",
+      "summary": "Title/heading identifying the General Standard for Dried Fruits (CXS 360-2020) adopted in 2020; not a substantive provision.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "standard heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 360-2020 Adopted in 2020",
+      "summary": "Document identification: CXS 360-2020 adopted in 2020, followed by the scope heading — not substantive content itself.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Applies to dried fruits as defined in Section 2 offered for direct consumption (including catering and repackaging) but excludes products indicated as intended for further processing; general standard provisions apply unless an annex provides otherwise.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Section 2 describes dried fruits, covering product definition, permitted processing and operations, packaging, presentation styles, and permissible species/varietal types, and introduces the following composition and quality provisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Product definition",
+      "summary": "Defines dried fruits as products from sound, sufficiently mature fruits processed by drying (sun or recognized methods; frying excluded), potentially subjected to operations (washing, peeling, pitting, slicing, etc.) without removing essential characteristics, packaged to ensure preservation, and classified as untreated, treated (e.g., with preservatives or pasteurization) or preserved (e.g., salting, sugaring).",
+      "categories": [
+        "definition",
+        "composition",
+        "processing",
+        "packaging",
+        "classification"
+      ],
+      "subcategories": [
+        "product definition",
+        "definition lead-in",
+        "raw material criteria",
+        "drying process",
+        "permitted operations",
+        "container suitability",
+        "product styles",
+        "untreated dried fruits",
+        "treated dried fruits",
+        "preserved dried fruits"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Styles",
+      "summary": "Lists 18 permitted presentation styles (e.g., whole, halves, quarters, slices, chunks, dices, strips, shreds, coins) and notes that for products covered by annexes only the styles in those annexes or Section 2.2.1 apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.1 Other styles",
+      "summary": "Allows other product presentations provided they are sufficiently distinctive from listed styles and are adequately described on the label to avoid consumer confusion or misleading information.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "other styles",
+        "distinctiveness",
+        "consumer description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.3 Species and varietal types",
+      "summary": "Permits any fruit variety or type suitable for human consumption and suitable for drying to be used in dried fruit products.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "species and varieties",
+        "fruit suitability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets out essential composition (basic and optional ingredients), sensory and moisture requirements, cleanliness and pest freedom, uniformity, definitions and allowances for defects, classification of defectives, and lot acceptance criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1 Composition",
+      "summary": "States that the basic ingredient for dried fruits is the fruit as defined in Section 2 and in any applicable annexes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Specifies that the basic ingredient of dried fruit products is the fruit described in Section 2 and the individual annexes.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.2 Optional ingredients",
+      "summary": "Provides optional ingredients (for products not in annexes: e.g., flours, edible vegetable oils) and for preserved dried fruits lists permitted additions such as sugars/honey, spices/herbs, edible stuffing, salt and fruit juice, with reference to relevant Codex standards and annexes.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients",
+        "preserved ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2 Quality criteria",
+      "summary": "Specifies quality criteria including normal colour, flavour, odour and texture; moisture limits per annex or maximum specific to the fruit variety to ensure food safety; requirements for cleanliness, absence of visible foreign matter, mould and pests; package uniformity; defect definitions and allowances; and classification of defectives.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.1 Colour, flavour, odour and texture",
+      "summary": "Requires dried fruits to have normal colour, flavour, odour and texture characteristic of the fruit, treatment applied and any optional ingredients used.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality attributes",
+        "sensory requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.2 Moisture content",
+      "summary": "Moisture content must follow relevant annex provisions where applicable; for products not in annexes, dried fruits must meet a maximum moisture content specific to the fruit variety and be sufficiently dried to ensure food safety, considering preservatives when used.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "moisture content",
+        "annex moisture",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.3 Dried fruits should be",
+      "summary": "Dried fruits must be clean, practically free of visible foreign matter, free from mouldy fruits, and free from living pests at any stage of development, including absence of dead insects, mites, debris or excreta.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "cleanliness",
+        "foreign matter",
+        "defect freedom",
+        "pest freedom"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.4 Uniformity",
+      "summary": "Requires package contents to be uniform in size and contain only dried fruits of the same quality and variety (visible portion representative of the whole), while permitting mixtures of distinctly different species if uniform in quality without requiring size uniformity among species.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "uniformity provisions",
+        "uniformity requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2.5 Defects",
+      "summary": "Defines defects and provides framework for allowances, including definitions for blemished units, mouldy fruit, pest damage, foreign matter and extraneous vegetable material, with specific allowances to be given in annexes where applicable.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.2.5.1 Definition of defects",
+      "summary": "Provides definitions for defect types: \"blemished unit\" (scars, discolouration, sunburn, dark spots, blacknose), \"mouldy fruit\" (visible mould filaments), \"damage caused by pests\", \"foreign matter\", and \"extraneous vegetable material.\"",
+      "categories": [
+        "quality",
+        "definition",
+        "other"
+      ],
+      "subcategories": [
+        "defects definition heading",
+        "defects heading",
+        "definitions heading",
+        "blemished unit",
+        "separator line",
+        "mouldy fruit",
+        "pest damage",
+        "foreign matter",
+        "vegetable material"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.2.5.2 Defects and allowances",
+      "summary": "States that dried fruits should be reasonably free from visible defects (e.g., blemishes) and practically free from mouldy fruits and pest damage, with specific defects and allowances to be determined by applicable annex provisions.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defects allowances",
+        "defects criteria",
+        "annex provisions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.3 Classification of defectives",
+      "summary": "Defines a 'defective' container as any container failing one or more applicable quality requirements (except those based on sample averages) and defines a defective standard sample unit as any standard sample unit failing the defects specified in Section 3.2.5.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "defective container",
+        "defective sample"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.4 Lot acceptance",
+      "summary": "Specifies lot acceptance criteria: (1) for requirements not based on averages, the lot is acceptable if the number of defectives does not exceed the acceptance number (c) of the appropriate sampling plan with an AQL of 6.5; and (2) requirements based on sample averages must be complied with.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance criteria",
+        "sampling plan",
+        "sample average compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "States that for products covered by annexes the relevant annex provisions apply, while for products not in annexes the food additive classes in Section 4.1 may be used, listing permitted additive classes consistent with the General Standard for Food Additives (CXS 192-1995) and requiring flavourings to comply with the Guidelines for the use of flavourings (CXG 66-2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "annex provisions",
+        "additive classes",
+        "permitted additives",
+        "flavouring use"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires products to comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum levels",
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with the General Principles of Food Hygiene (CXC 1-1969) and relevant Codex texts and requires compliance with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Covers weights and measures including fill of container and net weight: containers should be filled as full as commercially practicable consistent with the declared contents, and net weight requirements are met when the average net weight of examined containers is not less than the declared weight provided there is no unreasonable shortage in individual containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.1 Fill of container",
+      "summary": "Heading only: introduces 'Fill of container' and the subheading 'Net weight' but contains no substantive provisions in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.1.1 Net weight",
+      "summary": "Requires that containers be filled as full as commercially practicable without impairing quality and that fill be consistent with a proper declaration of contents.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net weight heading",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.1.2 Lot acceptance",
+      "summary": "Specifies that net weight requirements are deemed complied with when the average net weight of all examined containers is not less than the declared weight, provided there is no unreasonable shortage in individual containers.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "net weight compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "8. LABELLING",
+      "summary": "Requires labelling in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and adds specific provisions on product name and style, indication of flavouring when added, optional inclusion of varietal type, marking of characteristic coatings, declaration of size when sized, and that non-retail container labelling follow CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8.1 The products covered by the provisions of this standard shall be labelled in accordance with the General standard for the labelling of pre-packaged foods (CXS 1-1985).",
+      "summary": "States the obligation that products be labelled per the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and that additional specific labelling provisions follow.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general labelling",
+        "product name heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8.2.5 The name of the product may include the varietal type.",
+      "summary": "Permits the product name to include the varietal type.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.2.6 Where a characteristic coating or similar treatment has been used, appropriate terms shall be included as part of the name: e.g. \"sugar coated\", \"coated with X\".",
+      "summary": "Requires that when a characteristic coating or similar treatment is used, appropriate terms (e.g. \"sugar coated\", \"coated with X\") be included as part of the product name or in close proximity to it.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.2.7 When dried fruits are sized, the size (or sizes when sizes are mixed), as defined in the individual annex, may be declared as part of the name or in close proximity to the name of the product.",
+      "summary": "Allows the declared product name or nearby labelling to include the size (or sizes when mixed) of dried fruits as defined in the relevant annex.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "## 8.3 Labelling of non-retail containers",
+      "summary": "Requires labelling of non-retail containers in accordance with the General Standard for the Labelling of Non-retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail container labelling"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "## 9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Mandates use of the methods of analysis in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to this standard for compliance checks and references inspection levels I and II and associated sampling plans.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "Sampling plans",
+      "summary": "Describes selection of the appropriate inspection level (normal sampling versus disputes/referee, enforcement or when a better lot estimate is needed) and references Sampling Plan 1 for Inspection level I.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "SAMPLING PLAN (Inspection level II, AQL = 6.5)",
+      "summary": "Heading indicating a sampling plan for Inspection level II with an AQL of 6.5; no procedural details are provided in this entry.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plan heading"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "1. DESCRIPTION",
+      "summary": "Defines 'dried apricots' as product prepared from clean, sound, ripe fruit of varieties of Armeniaca vulgaria Lam. (Prunus armeniaca L.) and processed by sun drying or other recognized dehydration methods, which may be preceded by sulphuring, into a marketable dried product.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "1.1 Product definition",
+      "summary": "Provides the product definition of dried apricots: prepared from clean, sound, ripe Armeniaca vulgaria Lam. (Prunus armeniaca L.) fruit and processed by sun or other recognized drying methods, possibly after sulphuring, into a marketable dried product.",
+      "categories": [
+        "definition",
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "raw material definition",
+        "drying process"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "1.2 Styles",
+      "summary": "Specifies permitted presentation styles for the product (dried apricots): (1) whole unpitted; (2) whole pitted; (3) halves (unpitted or pitted); (4) quarters (unpitted or pitted); (5) granules (broken shreds/chips or small irregular pieces); and (6) slabs (whole and half apricots flattened and of irregular shape/size/thickness).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "style heading",
+        "presentation styles",
+        "style list"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "2. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section heading introducing essential composition (basic and optional ingredients) and quality factors for the product, including moisture content limits and optional sizing criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "2.1 Composition",
+      "summary": "Section heading stating that the basic ingredient is apricots as defined in Section 1.1 (product definition).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "2.1.1 Basic ingredients",
+      "summary": "Specifies the basic ingredient: apricots as defined in Section 1.1 (product definition).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "2.1.2 Optional ingredients",
+      "summary": "Lists optional ingredients permitted: flour (e.g., rice or corn flour) and edible vegetable oil.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients heading",
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "2.2 Quality criteria",
+      "summary": "Introduces quality criteria covering moisture content limits and optional sizing methods (count per kg, diameter, or trade practices) and references tables and options for achieving size uniformity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "2.2.1 Moisture content",
+      "summary": "Sets moisture limits: untreated dried apricots must have moisture ≤25% by mass, while apricots treated with preservatives or other preservation (e.g., pasteurization) may have moisture >25% up to 40% by mass.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "moisture content heading",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "2.2.2 Sizing (optional)",
+      "summary": "Allows sizing by (1) number of fruits per kg, (2) diameter (shortest measurement across restored apricot half), or (3) existing trade practices provided the method and size are indicated.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "(1) By count:",
+      "summary": "Provides a table of size codes (1–5) giving ranges of number of unpitted wholes, pitted wholes, and halves per kg to classify size by count.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size by count",
+        "count size table"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "(2) By diameter:",
+      "summary": "Provides diameter-based size categories with millimetre and inch ranges (e.g., >34 mm, >31–34 mm, >28–31 mm, >25–28 mm, 20–25 mm, <20 mm) to size product by diameter.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size by diameter",
+        "diameter table",
+        "size table"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "(3) Size ranges other than option (1) or (2) and size codes other than option (1) are allowed provided that the range used is labelled accordingly such as:",
+      "summary": "Permits alternate size ranges and grade codes (A–E) defined by number of whole fruits per kg or by diameter bands (e.g., A: ≤140 or ≥32 mm; E: ≥261 or <20 mm), provided the chosen range is labelled.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size options",
+        "grade table",
+        "table separator"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "(4)  Or by count:",
+      "summary": "Gives an alternative count-based size table with size codes 1–8 corresponding to specified ranges of number of fruits per kg (e.g., 1: ≤100; 8: ≥221).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "count option",
+        "count table",
+        "table separator"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "2.2.3 Uniformity",
+      "summary": "Requires declared size classes to be generally uniform in size within any count category.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity",
+        "size uniformity"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "2.2.4 Size tolerance",
+      "summary": "Allows a 10% size tolerance by weight or number for produce not conforming to the indicated diameter sizing, and states this tolerance does not apply when sizing is by number of fruits per kilogram.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "2.2.5 Definition of defects",
+      "summary": "Defines defects: 'damaged fruit' (surface damage or blemish affecting >5 mm²), 'broken fruit' (damage from improper halving or mechanical action), 'immature fruit' (deficient in sugar, possibly sour), 'damage caused by pests' (visible insect/rodent/animal damage), and 'dirty fruit' (embedded dirt or foreign material).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defect definition",
+        "damage definition"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "2.2.6 Defects and allowances",
+      "summary": "Prohibits damaged, broken, mouldy and immature fruit in styles 1–3 subject to specified tolerances and provides detailed defect allowances (table) applicable to all styles except 'slab' and excluding certain processed/industrial uses; key tolerances include an overall 20% allowance for produce not meeting minimum requirements and specific limits such as mouldy 1%, rotten 2%, pest damage 4%, fermented (untreated) 5% (treated 2%), color/texture defects 10%, lesions/calluses 8%, extraneous vegetable matter 0.5% by mass, pits/pit fragments 2 per 100 units, apricot pieces among whole/halves 6%, and varieties other than declared 10%, with a minimum sample unit of 1 kg.",
+      "categories": [
+        "quality",
+        "scope",
+        "processing",
+        "classification",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defects allowances",
+        "defect requirements",
+        "defect allowances",
+        "scope limitation",
+        "tolerance table",
+        "table separator",
+        "mouldy defect",
+        "rotten defect",
+        "pest damage",
+        "fermented untreated",
+        "fermented treated",
+        "appearance defects",
+        "spotted defect",
+        "lesions calluses",
+        "defect tolerances",
+        "extraneous material limit",
+        "pit fragments limit",
+        "fruit pieces limit",
+        "varietal tolerance",
+        "sample unit note"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "3. FOOD ADDITIVES",
+      "summary": "Permits only preservatives listed for food category 04.1.2.2 (Dried fruit) in Tables 1 and 2 of the General Standard for Food Additives (CXS 192‑1995) or those listed in Table 3 for use in foods conforming to Annex A of this standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "preservative permission"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "4. LABELLING",
+      "summary": "Requires dried apricots with moisture >25% up to 40% by mass to be labelled as 'high moisture' or an equivalent denomination.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "moisture designation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

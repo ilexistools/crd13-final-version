@@ -1,0 +1,477 @@
+{
+  "doc_id": "4e0dde79-8acf-4ca2-b23a-7b1436c55b5f",
+  "title": "SECTION 1. INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "SECTION 1. INTRODUCTION",
+      "summary": "Establishes a feed safety system covering the whole food chain for food‑producing animals to minimize risks to consumers' health, to be applied alongside Codex general principles of food hygiene.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose and scope"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION 2. PURPOSE AND SCOPE",
+      "summary": "States the Code's objective to ensure safety of human food by promoting good animal feeding practices at farm level and GMPs in procurement, handling, storage, processing and distribution of all materials destined for animal feed (including grazing, forage and aquaculture), while excluding non‑food‑safety animal welfare issues and noting environmental contaminants should be considered when they pose consumer health risks.",
+      "categories": [
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "scope heading",
+        "objective statement",
+        "applicability",
+        "hazard consideration",
+        "consumer safety focus"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION 3. DEFINITIONS",
+      "summary": "Provides definitions for key terms used in the Code—Feed, Feed Ingredient, Feed Additive, Medicated Feed and Undesirable Substances—clarifying that 'undesirable substances' are contaminants or other substances in feed that pose consumer health risks.",
+      "categories": [
+        "definition",
+        "other"
+      ],
+      "subcategories": [
+        "definition heading",
+        "introductory definitions",
+        "feed definition",
+        "feed ingredient definition",
+        "feed additive definition",
+        "medicated feed definition",
+        "undesirable substances",
+        "footnote reference"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION 4. GENERAL PRINCIPLES AND REQUIREMENTS",
+      "summary": "Sets general requirements that feed and feed ingredients be protected from chemical, physical, microbiological contamination through good agricultural/manufacturing practices and, where applicable, HACCP, and calls for collaboration, traceability, clear labelling, risk‑based inspection/monitoring and sampling to detect hazards; it also requires safety assessment and pre‑approval of feed additives and veterinary drugs, proper handling and storage, restrictions on antibiotic use for growth promotion absent public‑health assessment, control and minimization of undesirable substances (including prohibition of BSE‑risk material for ruminant feed), and use of risk assessment‑based inspection programmes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4.1 Feed ingredients",
+      "summary": "Requires feed ingredients to be sourced from safe suppliers, subject novel processes to risk analysis consistent with Codex risk analysis principles, and to be monitored by inspection, sampling and analysis using risk‑based protocols to meet statutory standards for pathogens, mycotoxins, pesticides and other undesirable substances.",
+      "categories": [
+        "scope",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "subsection heading",
+        "risk based monitoring"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4.2 Labelling",
+      "summary": "Specifies labelling requirements for feed and feed ingredients—where appropriate labels or accompanying documents must state target species/category, intended purpose, ingredient list (descending order), manufacturer contact and registration, directions and precautions, lot ID, manufacture date and 'use before'/expiry date—and notes this subsection does not apply to biotech‑derived feeds.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "labelling requirements",
+        "animal species declaration",
+        "intended purpose",
+        "ingredient declaration",
+        "manufacturer contact",
+        "registration number",
+        "use directions",
+        "lot identification",
+        "manufacturing date",
+        "expiry date",
+        "biotech exclusion"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4.3 Traceability/product tracing and record keeping of feed and feed ingredients",
+      "summary": "Requires record keeping to enable traceability/trace‑forward and trace‑back of feed and feed ingredients (including additives) to support timely withdrawal or recall when consumer health risks are identified.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.3.1 Special conditions applicable to emergency situations",
+      "summary": "Obliges operators to promptly notify competent authorities with detailed information if they consider a feed or ingredient fails Code safety requirements and for competent authorities/operators to take immediate measures to prevent risks, and requires exporting country authorities to notify relevant importing country authorities if an internationally traded feed may pose a consumer health danger.",
+      "categories": [
+        "risk management",
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "emergency situations",
+        "incident notification",
+        "footnote reference",
+        "traceability reference",
+        "corrective measures",
+        "international notification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.4 Inspection and control procedures",
+      "summary": "Calls for industry self‑regulation/auto‑control and establishment of risk‑based official inspection and control programmes designed on objective risk assessment and current scientific evidence, with monitoring including inspection, sampling and analysis to detect unacceptable levels of undesirable substances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.4.1 Feed additives and veterinary drugs used in medicated feed",
+      "summary": "States that feed additives and veterinary drugs for medicated feed must be safety‑assessed and used only under competent‑authority pre‑approved conditions, that veterinary drugs must comply with the Codex Code of Practice, that boundaries between additives and drugs may be set to prevent misuse, that additives must be handled and stored to maintain integrity, and that antibiotics should not be used for growth promotion absent a public‑health safety assessment.",
+      "categories": [
+        "processing",
+        "inspection certification",
+        "risk management",
+        "storage"
+      ],
+      "subcategories": [
+        "medicated feed heading",
+        "preapproved use",
+        "veterinary drug control",
+        "boundary setting",
+        "handling storage integrity",
+        "antibiotic restriction"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.4.2 Feed and feed ingredients",
+      "summary": "Requires that feed and feed ingredients be produced, marketed, stored and used only if safe and suitable for their intended use, mandates that items contaminated with unacceptable levels of undesirable substances be identified as unsuitable and not marketed or used, and prohibits misleading presentation of feed.",
+      "categories": [
+        "scope",
+        "labelling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "feed safety",
+        "misleading presentation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.4.3 Undesirable substances",
+      "summary": "For feed and feed ingredients, industrial/environmental contaminants (including pesticides, radionuclides, POPs), pathogenic agents and toxins (e.g., mycotoxins) must be identified, controlled and minimized; the BSE agent must not be used for feeding directly to, or in feed manufacture for, ruminants, and risk assessments of undesirable substances may lead to maximum limits or prohibition of certain materials, with control measures evaluated for their food-safety impact.",
+      "categories": [
+        "contaminants",
+        "documentation",
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "undesirable substances heading",
+        "undesirable substances control",
+        "reference note",
+        "page number",
+        "bse control",
+        "substance risk assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "SECTION 5. PRODUCTION, PROCESSING, STORAGE, TRANSPORT AND DISTRIBUTION OF FEED AND FEED INGREDIENTS",
+      "summary": "All participants in the feed chain are responsible for ensuring production, processing, storage, transport and distribution of safe feed under their control, including avoiding incompatible operations, applying GMPs and HACCP where appropriate, preventing cross-contamination, monitoring undesirable substances, maintaining personnel training, sanitation, equipment performance and records to enable recalls and protect food safety.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.1 Premises",
+      "summary": "Premises and equipment for processing feed must be constructed and arranged to allow easy operation, maintenance and cleaning and to minimize contamination; water used must meet hygienic standards suitable for animals and sewage/waste/rainwater must be disposed of to avoid contaminating equipment, feed and ingredients.",
+      "categories": [
+        "hygiene",
+        "equipment"
+      ],
+      "subcategories": [
+        "premises heading",
+        "facility design",
+        "water quality",
+        "waste disposal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.2 Receiving, storage and transportation",
+      "summary": "Store chemicals and non-feed materials separately from feed and ingredients, keep processed and unprocessed materials apart and use appropriate packaging and transport to minimize cross-contamination, monitor and control undesirable substances, minimize deterioration and microbial growth (keep dry, limit condensation), and do not use or must appropriately dispose of waste or materials with unsafe levels of hazards.",
+      "categories": [
+        "storage",
+        "contaminants",
+        "documentation"
+      ],
+      "subcategories": [
+        "storage transport heading",
+        "separate storage",
+        "cross-contamination prevention",
+        "monitoring control",
+        "storage deterioration",
+        "reference note",
+        "spoilage prevention",
+        "waste disposal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.2.3 Monitoring records",
+      "summary": "On-farm feed manufacturers must maintain appropriate records of manufacturing procedures to support investigations of feed-related contamination or disease, including records of incoming ingredients, dates of receipt, batches produced and other records required by sub-section 4.3.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "monitoring records heading",
+        "manufacturing records",
+        "incoming batch records"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.3 Good animal feeding practice",
+      "summary": "Good animal feeding practice requires using feed and ingredients properly to minimize biological, chemical and physical risks to food consumers, including ensuring water quality, managing grazing to avoid contamination and observe withholding periods for chemicals, and ensuring correct feeding practices with identification, records and management (including withholding periods and cleaning) for animals receiving medicated feed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6.3.1 Water",
+      "summary": "Water for drinking or aquaculture must be of quality appropriate for the animals produced, and where contamination is suspected measures must be taken to evaluate and minimize hazards.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "water heading",
+        "drinking water quality"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6.3.2 Pasture grazing",
+      "summary": "Grazing of pastures and croplands must be managed to minimize avoidable contamination of foods of animal origin, with adequate intervals before grazing or between rotations to reduce manure cross-contamination and observance of withholding periods when agricultural chemicals are used.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "pasture heading",
+        "grazing management",
+        "manure control",
+        "withholding period"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.3.3 Feeding",
+      "summary": "Ensure the correct feed is given to the correct animal group, minimize contamination during feeding, keep records of feeding, and identify and manage animals receiving medicated feed until withholding periods are met while ensuring transport and feeding equipment are cleaned between different medicated or non-medicated feeds.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "feeding heading",
+        "feeding control",
+        "medicated feeding"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.4 Stable feeding and lot/intensive feeding units",
+      "summary": "Animal production units should be sited to avoid producing foods of animal origin that pose food-safety risks, preventing animal access to contaminated land or facilities with potential toxic sources.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.4.1 Hygiene",
+      "summary": "Animal production units must be designed for effective cleaning, have regular cleaning and appropriate labeled storage/use of cleaning chemicals, implement pest control to limit access, and require personnel to observe hygiene measures to protect food safety.",
+      "categories": [
+        "hygiene",
+        "pest control"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "cleaning sanitation",
+        "pest control measures",
+        "personal hygiene"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.5 Aquaculture 14",
+      "summary": "Aquaculture encompasses diverse species, culture methods and feed regimes, and operators must take precautions regarding culturing methods, sites, technologies, materials and feeds to minimize contamination and reduce food-safety hazards.",
+      "categories": [
+        "processing",
+        "contaminants"
+      ],
+      "subcategories": [
+        "aquaculture heading",
+        "aquaculture production",
+        "contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "SECTION 7. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Sampling and laboratory analysis of feed and ingredients must follow scientifically recognized, validated principles and procedures; sampling protocols should be scientifically sound and laboratories should use validated, practicable, reliable methods, demonstrate analytical competency and maintain documentation (e.g., via quality assurance/ISO 17025).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.1 Sampling",
+      "summary": "Sampling protocols for feed and feed ingredients must meet scientifically recognized principles and procedures.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling protocol"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.2 Analysis",
+      "summary": "Analytical methods for feed should be developed and validated using scientifically recognized principles, prioritized for practicability and routine applicability, and laboratories must ensure competency with each method and maintain appropriate documentation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "laboratory methods"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    }
+  ]
+}

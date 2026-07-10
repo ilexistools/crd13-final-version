@@ -1,0 +1,400 @@
+{
+  "doc_id": "45b88744-1925-40c0-909c-729d660efa6e",
+  "title": "GENERAL STANDARD FOR THE LABELLING OF PRE-PACKAGED FOODS CXS 1-1985",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR THE LABELLING OF PRE-PACKAGED FOODS CXS 1-1985",
+      "summary": "Identifies the document as the Codex General Standard for the Labelling of Pre‑packaged Foods (CXS 1‑1985) and records its adoption and amendment history, noting revisions in 2018 and 2024 including changes to address food allergen labelling.",
+      "categories": [
+        "labelling",
+        "documentation"
+      ],
+      "subcategories": [
+        "standard title",
+        "amendment history",
+        "revision note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "States the standard applies to labelling of all pre‑packaged foods offered to consumers or for catering purposes and covers certain aspects of their presentation.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DEFINITION OF TERMS",
+      "summary": "Provides definitions of terms used in the standard—such as 'allergenic food', 'food allergen', 'food allergy', 'claim', 'consumer', 'container', 'best‑before', 'use‑by', 'ingredient', 'label', 'pre‑packaged', 'processing aid' and others—establishing their meanings for labelling requirements.",
+      "categories": [
+        "definition",
+        "labelling"
+      ],
+      "subcategories": [
+        "definition heading",
+        "introductory clause",
+        "allergenic food",
+        "claim definition",
+        "coeliac disease",
+        "consumer definition",
+        "container definition",
+        "date marking intro",
+        "best before date",
+        "date of manufacture",
+        "date of packaging",
+        "use by date",
+        "food definition",
+        "food additive",
+        "food allergen",
+        "food allergy",
+        "catering foods",
+        "ingredient definition",
+        "label definition",
+        "labelling definition",
+        "lot definition",
+        "prepackaged definition",
+        "processing aid"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. GENERAL PRINCIPLES",
+      "summary": "Prohibits labelling or presentation of pre‑packaged food in any manner that is false, misleading or deceptive or likely to create an erroneous impression regarding its character, including use of words or images that suggest association with or confusion with another product.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "principles heading",
+        "misleading presentation",
+        "confusing presentation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4. MANDATORY LABELLING OF PRE-PACKAGED FOODS",
+      "summary": "Sets mandatory labelling requirements: the label must include the name of the food and, except for single‑ingredient foods, a headed list of ingredients in descending order by ingoing weight, with additional rules on compound ingredients, and it mandates declaration of specified allergenic foods and certain thresholds (e.g., sulphite ≥10 mg/kg), while allowing regional/national exemptions for allergen derivatives subject to risk assessment and requiring biotech‑transferred allergens to be declared.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4.2.3 Foods and ingredients as listed in Section 4.2.1.4, Section 4.2.1.7 and where applicable Section 4.2.1.5 must be declared using the specified name in addition to or as part of the ingredient name. All ingredients in the list of ingredients shall be declared in accordance with the provisions set out in Section 4.1 (Name of the food) except that:",
+      "summary": "Specifies rules for ingredient declarations and class names: permits use of defined class names for groups of ingredients (with required specified names for priority allergens), requires pork/lard/beef fat to be declared by specific name, prescribes functional and class titles for food additives as required by legislation, and requires carry‑over additives that perform a technological function to be declared while exempting processing aids and insignificant carry‑over except where they contain priority allergens.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "NAME OF CLASSES",
+      "summary": "Heading only: introduces the forthcoming lists of 'Name of Classes' used for permitted class‑name ingredient declarations and contains no substantive provisions by itself.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class names heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "CLASS NAMES",
+      "summary": "Provides a table of permitted class names and their corresponding class‑name labels for ingredient declaration (e.g., using 'Oil' for refined vegetable/animal oils, 'Fish' for unspecified fish species, 'Poultry meat' for unspecified poultry ingredients, and similar mappings).",
+      "categories": [
+        "classification",
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "class names heading",
+        "oil class name",
+        "table separator",
+        "fat class name",
+        "starch class name",
+        "fish class name",
+        "poultry class name",
+        "cheese class name",
+        "ingredient declaration"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.3 Net contents and drained weight",
+      "summary": "Net contents must be declared in SI units: by volume for liquid foods, by weight for solid foods, and by weight or volume for semi-solid/viscous foods; additionally, foods packed in a liquid medium must declare the drained weight in metric units, with liquid medium defined (e.g. water, aqueous sugar/salt solutions, certain fruit/vegetable juices for canned produce, vinegar).",
+      "categories": [
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net contents heading",
+        "net contents declaration",
+        "drained weight declaration"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.4 Name and address",
+      "summary": "The label must declare the name and address of the manufacturer, packer, distributor, importer, exporter or vendor of the food.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name address heading",
+        "manufacturer address"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.5 Country of origin",
+      "summary": "The country of origin must be declared if omission would mislead consumers, and when processing in a second country changes the nature of the food that processing country shall be regarded as the country of origin.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "country origin heading",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.6 Lot identification",
+      "summary": "Each container must be permanently marked (e.g., embossed or coded) to identify the producing factory and the lot.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "lot identification heading",
+        "lot identification"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.7 Date marking and storage instructions",
+      "summary": "Labels must show a 'Use-by/Expiration date' when consumption by a certain date is needed for safety and quality, otherwise a 'Best-before/Best quality-before date' is required, with format rules (day/month/year for products ≤3 months durability; at least month and year for >3 months) and prescribed introductory wording and numeric conventions; provided safety is not compromised, certain foods (e.g., high-alcohol beverages, vinegar, non-iodized salt, sugar, many fresh fruits/vegetables, bakery wares normally consumed within 24 hours) may be exempt and may use date of manufacture/packaging, and any special storage conditions required to support the date mark must be declared.",
+      "categories": [
+        "labelling",
+        "weights and measures",
+        "other"
+      ],
+      "subcategories": [
+        "date marking heading",
+        "date marking",
+        "use by date",
+        "best before date",
+        "date marking format",
+        "date mark prefix",
+        "date mark format",
+        "net contents enforcement",
+        "drained weight enforcement",
+        "footnote note",
+        "date marking exemption",
+        "date mark conditions",
+        "date mark exemptions",
+        "date mark examples",
+        "date mark wording",
+        "storage declaration"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.8 Instructions for use",
+      "summary": "Instructions for use, including reconstitution where applicable, must be provided on the label as necessary to ensure correct utilization of the food.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "instructions for use"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5. ADDITIONAL MANDATORY REQUIREMENTS",
+      "summary": "This section introduces additional mandatory labelling requirements including quantitative ingredient declaration (QUID) rules and labelling requirements for irradiated foods, detailed in following subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5.1 Quantitative ingredients declaration",
+      "summary": "The ingoing percentage (by weight or volume at time of manufacture) of an ingredient or compound ingredient must be declared as a numerical percentage for mixtures when the ingredient is emphasized on the label or is essential and omission would mislead, except for small flavouring quantities or where Codex commodity standards conflict; the percentage must be placed near the emphasis/name/ingredient list, correspond to the quantity used for foods that lost moisture, and where declared ingredient percentages would exceed 100% an alternative declaration of the weight used per 100 g of finished product is permitted.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "quantitative ingredients",
+        "quantitative ingredients exemptions",
+        "quantitative ingredient declaration"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.2 Irradiated foods",
+      "summary": "Foods treated with ionizing radiation must carry a written statement of that treatment close to the name of the food (the international irradiation symbol is optional but if used must also be close to the name), irradiated ingredients must be declared in the ingredient list, and single-ingredient products prepared from irradiated raw material must indicate the treatment on the label.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "irradiated foods",
+        "irradiation declaration",
+        "irradiated ingredient declaration"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6. EXEMPTIONS FROM MANDATORY LABELLING REQUIREMENTS",
+      "summary": "Small units (largest surface area <10 cm²) may be exempted from certain mandatory labelling requirements (Sections 4.2 and 4.6–4.8) except for spices and herbs and except where specific declarations listed in Sections 4.2.1.4, 4.2.1.7 and, if applicable, 4.2.1.5 are required.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling exemptions",
+        "small package exemption"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7. OPTIONAL LABELLING",
+      "summary": "Optional labelling information or pictorial devices may be displayed provided they do not conflict with mandatory requirements or anti-deception principles, and any grade designations used must be readily understandable and not misleading.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "optional labelling",
+        "optional label content",
+        "grade designation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "8. PRESENTATION OF MANDATORY INFORMATION",
+      "summary": "Mandatory label information must be applied so it remains with the container, be clear, prominent, indelible and legible, and when wrappers are used the information must be present or legible through the wrapper; where specified names for certain foods/ingredients must be declared they shall be made distinct and declared in the ingredient list or a separate 'contains' statement, with rules for placement and exceptions when a list of ingredients is absent or for single-ingredient foods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "8.1 General",
+      "summary": "Labels on pre-packaged foods must be affixed so they will not separate from the container, required statements must be clear, prominent, indelible and legible, wrappers must carry necessary information or not obscure the container label, and the name and net contents must appear prominently in the same field of vision.",
+      "categories": [
+        "analysis sampling",
+        "labelling"
+      ],
+      "subcategories": [
+        "general",
+        "label durability",
+        "label legibility",
+        "wrapper labelling",
+        "name and net contents"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

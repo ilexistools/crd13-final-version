@@ -1,0 +1,211 @@
+{
+  "doc_id": "1ca1055e-7a6a-424b-bd83-47b0c2f4c1e6",
+  "title": "CXG 10-1979",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CXG 10-1979",
+      "summary": "Document identifier heading: CXG 10-1979 (non-substantive heading only).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 1979. Amended in 1983, 1991, 2009, 2015, 2016, 2023. Revised in 2008, 2010.",
+      "summary": "Records adoption and revision history: adopted 1979; amended 1983, 1991, 2009, 2015, 2016, 2023; revised 2008 and 2010.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "INTERNATIONAL FOOD STANDARDS",
+      "summary": "Section heading: INTERNATIONAL FOOD STANDARDS (non-substantive heading only).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document series"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2023 Amendments",
+      "summary": "Notes a 2023 amendment made after the 46th Codex Alimentarius Commission session modifying Table B (Advisory list of vitamin compounds for foods for infants and young children), specifically row 10.2 Calcium-L-methyl-folate.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1. PREAMBLE",
+      "summary": "Preamble stating the lists include nutrient compounds for nutritional use in foods for special dietary uses intended for infants and young children, to be used only according to the criteria and conditions below and other relevant standards, and noting that source restrictions (e.g., religious/dietary) or whether use is essential or optional may be specified in respective standards.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "preamble heading",
+        "nutrient list purpose"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. CRITERIA FOR THE INCLUSION AND DELETION OF NUTRIENT COMPOUNDS FROM THE ADVISORY LISTS",
+      "summary": "Sets inclusion criteria (safety/appropriateness, demonstrated biological availability in animals/humans, conformity with Codex or equivalent purity specifications, demonstrable stability in foods, and demonstration by accepted scientific criteria) and states nutrient compounds shall be deleted if they no longer meet these criteria, with countries proposing additions/deletions expected to provide supporting information addressing the criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1 Nutrient compounds that are to be added for nutritional purposes to foods for infants and young children may be included in the lists only if:",
+      "summary": "Lists the specific inclusion criteria (a–e) for nutrient compounds used in foods for infants and young children: safety and appropriateness, evidence of biological availability, conformity with Codex or equivalent purity specifications (or evaluated national specs), demonstrable stability in the target food, and demonstration by generally accepted scientific criteria.",
+      "categories": [
+        "scope",
+        "analysis sampling",
+        "quality"
+      ],
+      "subcategories": [
+        "inclusion criteria",
+        "safety criterion",
+        "bioavailability evidence",
+        "purity specification",
+        "stability requirement",
+        "scientific criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3. OPTIONAL INGREDIENTS",
+      "summary": "States that Codex optional-ingredient sections do not list every possible optional ingredient for foods for infants and young children and that optional ingredients added for nutritional purposes must meet the Section 2.1 criteria and the provisions of the respective Codex standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. OPTIONAL INGREDIENTS The optional ingredients sections in Codex standards for foods for infants and young children do not identify all optional ingredients that may be considered for use in foods for  special  dietary  uses intended for infants and young children.  Optional  ingredients  added  for  nutritional  purposes  to  foods  for  special  dietary  uses intended for infants and young children should meet the criteria specified in Section 2.1. They should also meet the provisions for optional ingredients in the respective Codex standard for foods for infants and young children.",
+      "summary": "Reiterates that optional ingredients for foods for special dietary uses intended for infants and young children should meet the inclusion criteria in Section 2.1 and conform to provisions in the relevant Codex standard.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "optional ingredient criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "A: ADVISORY LIST OF MINERAL SALTS AND TRACE ELEMENTS FOR USE IN FOODS FOR SPECIAL DIETARY USES INTENDED FOR INFANTS AND YOUNG CHILDREN",
+      "summary": "Introduces an advisory table of mineral salts and trace elements permitted for foods for special dietary uses intended for infants and young children, providing nutrient sources, applicable purity requirements and which Codex infant/young-child standards permit each source (table includes multiple calcium compounds; table truncated).",
+      "categories": [
+        "food category system",
+        "documentation",
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "advisory list heading",
+        "table header",
+        "table separator",
+        "table row header",
+        "table entry",
+        "nutrient source table",
+        "table column labels",
+        "section heading",
+        "nutrient source heading",
+        "sodium source",
+        "table divider",
+        "potassium source",
+        "copper source",
+        "table heading",
+        "iodine source",
+        "zinc source"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "B:   ADVISORY LIST OF VITAMIN COMPOUNDS FOR USE IN FOODS FOR SPECIAL DIETARY USES INTENDED FOR INFANTS AND YOUNG CHILDREN",
+      "summary": "Introduces an advisory table of vitamin compounds for use in foods for special dietary uses intended for infants and young children, listing nutrient sources, applicable purity requirements, use across Codex infant/young-child standards and explanatory footnotes defining abbreviations (table entries show specific vitamins and authorized sources).",
+      "categories": [
+        "food category system",
+        "composition",
+        "documentation"
+      ],
+      "subcategories": [
+        "advisory list heading",
+        "table heading",
+        "table separator",
+        "table heading continuation",
+        "vitamin a source",
+        "provitamin a source",
+        "vitamin d source",
+        "abbreviation note"
+      ],
+      "page_range": {
+        "start_page": 14,
+        "end_page": 14
+      }
+    }
+  ]
+}

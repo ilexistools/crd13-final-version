@@ -1,0 +1,1119 @@
+{
+  "doc_id": "e78dc859-a9c7-4658-8d41-e0e92ef94349",
+  "title": "INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "INTRODUCTION",
+      "summary": "Introduces the global rise in foodborne microbial diseases, explains the complexity of managing microbial hazards, promotes risk analysis (risk assessment, management and communication) as the framework, and directs readers to related Codex/FAO/WHO guidance.",
+      "categories": [
+        "scope",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "background context",
+        "risk management overview",
+        "reference guidance"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Sets the scope: provides a framework for Microbiological Risk Management (MRM) and guidance on applying Microbiological Risk Assessment (MRA) for Codex and countries, and notes applicability to other stakeholders like industry and consumers.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DEFINITIONS",
+      "summary": "States that definitions of risk analysis and related terms derive from the Codex Procedural Manual and other Codex texts (including hazard, risk, MRA components, HACCP terms, microbiological criterion, ALOP per the WTO SPS Agreement, validation/verification, and risk manager as the governmental organisation responsible for MRM).",
+      "categories": [
+        "definition",
+        "documentation"
+      ],
+      "subcategories": [
+        "definition heading",
+        "risk analysis terms",
+        "related definitions",
+        "hazard definition",
+        "reference note",
+        "document code",
+        "protection level",
+        "validation verification",
+        "risk manager"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. GENERAL PRINCIPLES FOR MRM",
+      "summary": "Lists eight general MRM principles emphasizing protection of human health as primary, consideration of the whole food chain, a structured approach, transparency and documentation, stakeholder consultation, interaction with risk assessors, attention to regional differences, and monitoring and review of decisions.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "principles heading",
+        "health protection principle",
+        "food chain principle",
+        "structured approach",
+        "documentation requirement",
+        "consultation principle",
+        "interaction principle",
+        "regional differences",
+        "monitoring review"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4. GENERAL CONSIDERATIONS",
+      "summary": "Describes general considerations that MRM decisions must protect consumer health using the ALOP concept, address the entire food chain, follow a structured, transparent and documented process with stakeholder consultation and assessor interaction, account for regional differences, and be iterative with monitoring and review.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "general considerations heading",
+        "decision making",
+        "food chain approach",
+        "process steps",
+        "procedural documentation",
+        "consultation records",
+        "manager assessor interaction",
+        "reference note",
+        "regional risk factors",
+        "review and revision"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "5. PRELIMINARY MICROBIOLOGICAL RISK MANAGEMENT ACTIVITIES",
+      "summary": "Outlines preliminary MRM activities including identifying a food safety issue, preparing a microbiological risk profile, establishing risk assessment policy, and commissioning MRAs to inform selection and implementation of MRM options.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5.1 IDENTIFICATION OF A MICROBIOLOGICAL FOOD SAFETY ISSUE",
+      "summary": "Defines a food safety issue as one or more microbial hazards associated with foods, describes possible information sources for identification, and notes that immediate temporary actions or provisional decisions (with communicated review timelines) may be taken when there is an imminent or uncertain risk.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "issue identification",
+        "immediate action",
+        "provisional decision"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5.2 MICROBIOLOGICAL RISK PROFILE",
+      "summary": "Defines the microbiological risk profile as a concise description of the food safety problem, current knowledge, potential MRM options and policy context, and notes that it may lead to commissioning an MRA, gathering more information, immediate/temporary actions, or no further action.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "risk profile heading",
+        "risk profile description",
+        "risk profile use",
+        "risk profile options"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5.3 RISK ASSESSMENT POLICY",
+      "summary": "States that setting risk assessment policy is a risk management responsibility to be done in collaboration with risk assessors, documented in advance to protect scientific integrity and guide value judgments, data selection, and handling of uncertainties and data gaps.",
+      "categories": [
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "policy heading",
+        "risk assessment policy",
+        "footnote text"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5.4 MICROBIOLOGICAL RISK ASSESSMENT",
+      "summary": "Explains that risk managers may commission MRAs per CAC/GL-30 with a clear mandate, scientific review, and outputs presented as detailed technical reports and interpretative summaries that describe key assumptions, data gaps and uncertainties to inform MRM decisions or provisional options.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "assessment heading",
+        "commission assessment",
+        "assessment mandate",
+        "assessment output",
+        "assessment use"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 6. IDENTIFICATION AND SELECTION OF MRM OPTIONS",
+      "summary": "Requires risk managers to identify and select suitable MRM options based on effectiveness and practicability, and provides examples of options for Codex and countries to consider when controlling food safety issues.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## 6.1 IDENTIFICATION OF THE AVAILABLE MRM OPTIONS FOR CODEX AND COUNTRIES",
+      "summary": "Reiterates that risk managers must identify and select implementable MRM options that reduce risk to an appropriate level and gives examples of possible Codex and national measures to consider.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## 6.1.1 Codex",
+      "summary": "Specifies the Codex role in MRM as the elaboration of standards and related texts.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "codex role"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "## 6.1.2 Countries",
+      "summary": "Lists national MRM options including establishing regulatory requirements, developing/adopting GAP/GMP/GHP/HACCP guidance, defining FSOs, specifying control measures and metrics, setting inspection/audit/certification and import-certificate requirements, and promoting traceability, recall procedures, labelling, awareness and training.",
+      "categories": [
+        "risk management",
+        "training",
+        "inspection certification",
+        "other",
+        "contaminants",
+        "hygiene",
+        "labelling"
+      ],
+      "subcategories": [
+        "countries role",
+        "national requirements",
+        "training programs",
+        "national adaptation",
+        "fso setting",
+        "control measures",
+        "inspection certification",
+        "footnote text",
+        "feed hazard note",
+        "import certificates",
+        "awareness programs",
+        "contamination prevention",
+        "withdrawal recall",
+        "safety instructions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6.2 SELECTION OF MRM OPTIONS",
+      "summary": "Selection of MRM options must be based on their ability to mitigate risks effectively and on practical feasibility, using MRAs where available, and should favour planned controls (e.g., HACCP) over end-product testing, consider multiple hazard sources, suitability for monitoring and revision, and the capacity of food businesses (with traditional approaches potentially preferred for small/less developed enterprises).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.2.1 Responsibility for selecting MRM options",
+      "summary": "Risk managers have primary responsibility for selecting MRM options, informed by risk assessors and interested parties, and Codex and countries should, where feasible, specify required levels of control while allowing industry flexibility in how to achieve them.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "option selection",
+        "stakeholder input",
+        "control stringency"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.2.2 MRM options based on risk",
+      "summary": "Risk-based approaches link ALOP to the required stringency of food safety control systems and support using traditional and newer MRM tools (e.g., FSO, PO, PC) and strengthening the scientific basis of existing tools like microbiological criteria.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "risk options",
+        "risk based options"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7. IMPLEMENTATION OF MRM OPTIONS",
+      "summary": "Implementation means giving effect to selected MRM options and verifying compliance involving competent authorities, industry and consumers as appropriate, with Codex not responsible for implementation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7.1 INTERNATIONAL INTERGOVERNMENTAL ORGANISATIONS",
+      "summary": "International intergovernmental organisations (e.g., FAO, WHO) and developed countries should provide assistance, in the spirit of the SPS Agreement, to developing countries in designing implementation strategies and education for MRM.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "intergovernmental role",
+        "implementation assistance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.2 COUNTRIES",
+      "summary": "Countries should develop consultative implementation strategies and plans for chosen MRM options (who, how, when), consider stepwise phase‑in by risk/capability, communicate decisions and rationales (including to trading partners), ensure regulatory frameworks, trained inspection staff and enforcement, and define evaluation processes to adjust provisional or ineffective MRM options.",
+      "categories": [
+        "risk management",
+        "official control"
+      ],
+      "subcategories": [
+        "countries heading",
+        "implementation strategy",
+        "implementation plan",
+        "decision communication",
+        "provisional decision",
+        "enforcement oversight",
+        "implementation evaluation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.3 INDUSTRY",
+      "summary": "Industry must develop and apply food safety control systems to implement MRM decisions, including setting metrics to meet FSOs, identifying performance criteria and validated controls, monitoring and verification (including sampling plans), corrective action and traceability, supplier/customer communication, staff training, and industry associations may provide guidance and training materials.",
+      "categories": [
+        "risk management",
+        "analysis sampling",
+        "training"
+      ],
+      "subcategories": [
+        "industry heading",
+        "industry responsibilities",
+        "performance metrics",
+        "control measures",
+        "monitoring verification",
+        "sampling plans",
+        "corrective actions",
+        "communication channels",
+        "staff training",
+        "guidance materials"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.4 CONSUMERS",
+      "summary": "Consumers are expected to follow food-safety instructions and be informed via public education, appropriate labeling and public messages, with consumer organizations helping to disseminate this information.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "consumers heading",
+        "consumer information"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8. MONITORING AND REVIEW",
+      "summary": "Monitoring requires ongoing collection, analysis and interpretation of data on food safety control system performance to establish baselines and guide improvements, and review of MRM activities must be periodic or triggered by new information, with criteria set in implementation plans and outcomes communicated publicly; reviews may lead to amending or replacing MRM options.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "8.1 MONITORING",
+      "summary": "Monitoring is continuous gathering and analysis of data (often led by national governments) on public health and microbial hazards across the farm-to-fork continuum—using clinical surveillance, outbreak investigations, laboratory testing, environmental hygiene data and behavioural surveillance—and systems should estimate foodborne burden, deploy interdisciplinary investigation teams, consider microbiological/physicochemical indicators with human disease data, and aim for harmonised surveillance methods for comparability.",
+      "categories": [
+        "risk management",
+        "analysis sampling",
+        "hygiene"
+      ],
+      "subcategories": [
+        "monitoring heading",
+        "monitoring program",
+        "public health monitoring",
+        "hazard monitoring",
+        "monitoring data",
+        "disease surveillance",
+        "outbreak investigation",
+        "laboratory surveillance",
+        "environmental hygiene",
+        "behavior surveillance",
+        "monitoring design",
+        "foodborne estimation",
+        "investigation teams",
+        "impact evaluation",
+        "surveillance harmonisation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8.2 REVIEW OF MRM ACTIVITIES",
+      "summary": "MRM activities must be reviewed using criteria set in the implementation plan at predetermined times or when new information arises, and review (which can be suggested by industry or other parties) may result in amendment or substitution of MRM options based on monitored data and performance indicators.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "review activities"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "ANNEX I: SUGGESTED ELEMENTS TO INCLUDE IN A MICROBIOLOGICAL RISK PROFILE",
+      "summary": "Annex I lists suggested elements of a microbiological risk profile, including hazard–commodity combinations, public health description, farm‑to‑table production/processing factors, trade considerations, public perceptions, risk assessment needs, available information and major knowledge gaps to inform MRM activities and possible MRAs.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "A risk profile should present, to the extent possible, information on the following.",
+      "summary": "Introductory statement indicating a risk profile should present specified information to the extent possible (serves as a lead-in to the Annex I checklist).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "1. Hazard-food commodity combination(s) of concern :",
+      "summary": "Checklist item: identify the hazard–food commodity combination(s) of concern for the risk profile.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard commodity"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "2. \u000b7 Hazard(s) of concern;",
+      "summary": "Checklist item: identify the specific hazard(s) of concern.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard commodity"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "3. \u000b7 Description of the food or food product and/or condition of its use with which problems (foodborne illness, trade restrictions) due to this hazard have been associated;",
+      "summary": "Checklist item: describe the food or product and its conditions of use that have been associated with foodborne illness or trade restrictions due to the hazard.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard commodity"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "4. \u000b7 Occurrence of the hazard in the food chain.",
+      "summary": "Checklist item: document the occurrence of the hazard along the food chain.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard occurrence"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "2. Description of the public health problem :",
+      "summary": "Heading indicating the risk profile should include a description of the public health problem associated with the hazard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "6. \u000b7 Description of the hazard including key attributes that are the focus of its public health impact (e.g., virulence characteristics, thermal resistance, antimicrobial resistance);",
+      "summary": "Require description of the hazard's key attributes relevant to public health impact (e.g., virulence, thermal resistance, antimicrobial resistance).",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard characteristics"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "7. \u000b7 Characteristics of the disease, including;",
+      "summary": "Heading/checklist item indicating the risk profile should describe characteristics of the disease caused by the hazard (further specifics provided elsewhere in the Annex).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8. o Susceptible populations;",
+      "summary": "Item requesting identification/description of susceptible populations relevant to the risk assessment.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "susceptible populations"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "9. o Annual incidence rate in humans including, if possible, any differences between age and sex;",
+      "summary": "Requires reporting the annual incidence rate in humans, including stratification by age and sex where possible.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "incidence data"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "10. o Outcome of exposure;",
+      "summary": "Requests information on the outcomes resulting from exposure to the hazard.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "exposure outcome"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "11. o Severity of clinical manifestations (e.g., case-fatality rate, rate of hospitalisation);",
+      "summary": "Requires reporting severity of clinical manifestations with examples such as case-fatality rate and hospitalization rate.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "severity data"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "12. o Nature and frequency of long-term complications;",
+      "summary": "Requests description of the nature and frequency of long-term complications associated with the hazard.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "long-term effects"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "13. o Availability and nature of treatment;",
+      "summary": "Requests information on the availability and characteristics of treatments for the disease.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "treatment availability"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "14. o Percentage of annual cases attributable to foodborne transmission.",
+      "summary": "Requires an estimate of the percentage of annual cases attributable to foodborne transmission.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "foodborne attribution"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "15. \u000b7 Epidemiology of foodborne disease;",
+      "summary": "Section heading only: 'Epidemiology of foodborne disease' indicating a grouping of epidemiological items.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "16. o Aetiology of foodborne diseases;",
+      "summary": "Requests description of the aetiology (causal agents) of foodborne diseases.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "disease aetiology"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "17. o Characteristics of the foods implicated;",
+      "summary": "Requests description of characteristics of the foods implicated in disease transmission.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "implicated foods"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "18. o Food use and handling that influences transmission of the hazard;",
+      "summary": "Requests information on food use and handling practices that influence transmission of the hazard.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "food handling"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "19. o Frequency and characteristics of foodborne sporadic cases;",
+      "summary": "Requests data on the frequency and characteristics of sporadic foodborne cases.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "sporadic cases"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "20. o Epidemiological data from outbreak investigations;",
+      "summary": "Requests epidemiological data arising from outbreak investigations.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "outbreak data"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "\u000b7 Regional, seasonal, and ethnic differences in the incidence of foodborne illness due to the hazard;",
+      "summary": "Requests information on regional, seasonal, and ethnic differences in incidence of foodborne illness due to the hazard.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "incidence variation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "22. \u000b7 Economic impact or burden of the disease if readily available;",
+      "summary": "Requests information on the economic impact or burden of the disease, if such data are readily available.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "o Medical, hospital costs;",
+      "summary": "Requests data on medical and hospital costs associated with the disease.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "economic costs"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "o Working days lost due to illness, etc.",
+      "summary": "Requests information on working days lost and other productivity impacts due to illness.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "productivity loss"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "3. Food Production, processing, distribution and consumption :",
+      "summary": "Section heading only: 'Food Production, processing, distribution and consumption' indicating a grouping of related items.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "26. \u000b7 Characteristics of the commodity (commodities) that are involved and that may impact on risk management;",
+      "summary": "Requests description of characteristics of the commodity or commodities that may impact risk management.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "commodity characteristics"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "27. \u000b7 Description of the farm to table continuum including factors which may impact the microbiological safety of the commodity (i.e., primary production, processing, transport, storage, consumer handling practices);",
+      "summary": "Requests a farm-to-table description covering primary production, processing, transport, storage, and consumer handling practices that may affect the commodity's microbiological safety.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "farm to table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "28. \u000b7 What is currently known about the risk, how it arises with respect to the commodity's production, processing, transport and consumer handling practices, and who it affects;",
+      "summary": "Request to document current knowledge of the hazard, describing how the risk arises across the commodity's production, processing, transport and consumer handling practices, and identifying the populations affected.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk pathway"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "29. \u000b7 Summary  of  the  extent  and  effectiveness  of  current  risk  management  practices  including  food  safety production/processing  control  measures,  educational  programs,  and  public  health  intervention  programs (e.g., vaccines);",
+      "summary": "Request for a summary of the extent and effectiveness of existing risk management practices (including production/processing controls, education and public health interventions such as vaccines) and identification of additional risk mitigation strategies that could be used to control the hazard.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "current controls",
+        "mitigation strategies"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "4. Other Risk Profile Elements :",
+      "summary": "Lists other risk-profile elements to consider: the extent of international trade in the commodity, relevant regional/international trade agreements and their public‑health implications, public perceptions of the risk, and potential public health and economic consequences of issuing a Codex MRM guidance document.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk profile elements",
+        "trade extent",
+        "trade agreements",
+        "public perception",
+        "impact assessment"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "5. Risk Assessment Needs and Questions for the Risk Assessors :",
+      "summary": "Calls for initial assessments of the need, benefits and feasibility (within required timeframes) of requesting a microbiological risk assessment (MRA) and for recommended questions to pose to risk assessors if an assessment is needed.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk assessment needs",
+        "feasibility assessment",
+        "assessor questions"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "6. Available Information and Major Knowledge Gaps Provide, to the extent possible, information on the following :",
+      "summary": "Requests available information and major knowledge gaps, including existing national MRAs, other relevant scientific data, existing Codex MRM guidance and codes of hygienic practice (including microbiological criteria), potential information/expert sources, and areas where lack of data could hamper MRM activities or conduct of an MRA.",
+      "categories": [
+        "risk assessment",
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "knowledge gaps",
+        "national assessments",
+        "scientific evidence",
+        "guidance documents",
+        "hygienic practice",
+        "expert sources",
+        "information gaps"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "ANNEX II:  GUIDANCE ON MICROBIOLOGICAL RISK MANAGEMENT METRICS",
+      "summary": "Annex II provides guidance to Codex, national governments and stakeholders on concepts and principles for developing and implementing microbiological risk management (MRM) metrics (e.g., FSO, PO, PC), explaining their role in linking control‑measure stringency to public‑health protection, scope, use, and high‑level principles for establishment and verification.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "Introduction",
+      "summary": "Introduction states three guiding principles—that food safety system stringency should match public‑health and trade fairness goals, control levels be risk‑based and scientifically transparent, and system performance be verifiable—and notes advances in microbiological risk assessment enabling new risk‑based metrics (FSO, PO, PC) to better relate controls to public‑health outcomes.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "scope heading",
+        "risk principles",
+        "risk metrics",
+        "risk-based approach"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "Scope",
+      "summary": "Scope: the annex is intended to guide Codex and national governments (and industry/stakeholders) on concepts and principles for developing and implementing MRM metrics and manager–assessor interaction, while excluding detailed discussion of risk‑assessment tools, techniques and mathematical/statistical methods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement",
+        "stakeholder use",
+        "scope limitation"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "Use of the Document",
+      "summary": "Use of the document: provides general guidance on establishing MRM metrics to relate control‑measure stringency to public‑health protection, advises that metrics may not always be necessary, and recommends using the annex alongside existing Codex/FAO/WHO references and experienced multidisciplinary teams (noting need for practical implementation manuals for inexperienced countries).",
+      "categories": [
+        "scope",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document use",
+        "related standards",
+        "implementation guidance"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "Emerging Metrics",
+      "summary": "Describes emerging risk‑based metrics: the Food Safety Objective (FSO) as the maximum pathogen frequency/concentration at consumption linked to a country's ALOP (set by competent authorities, established via epidemiological or hazard‑level analyses), and the Performance Objective (PO) as an operational, risk‑based limit at a specific point in the food chain used to ensure the FSO/ALOP is met, with guidance that metrics be feasible, chain‑contextual and may vary regionally.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "metrics heading",
+        "emerging metrics",
+        "food safety objective",
+        "objective setting",
+        "establishment methods",
+        "country use",
+        "objective communication",
+        "behavior change",
+        "trade communication",
+        "performance target",
+        "regulatory feasibility",
+        "regional differences",
+        "performance objective",
+        "generic guidelines",
+        "citation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

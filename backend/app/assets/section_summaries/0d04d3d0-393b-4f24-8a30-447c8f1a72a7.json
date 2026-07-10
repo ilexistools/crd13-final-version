@@ -1,0 +1,588 @@
+{
+  "doc_id": "0d04d3d0-393b-4f24-8a30-447c8f1a72a7",
+  "title": "STANDARD FOR EDIBLE FATS AND OILS NOT COVERED BY INDIVIDUAL STANDARDS CXS 19-1981",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR EDIBLE FATS AND OILS NOT COVERED BY INDIVIDUAL STANDARDS CXS 19-1981",
+      "summary": "Title of the Codex standard for edible fats and oils not covered by individual standards, with adoption in 1981 and revisions/amendments listed through 2023.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "revision history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2023 Amendment",
+      "summary": "Notes that amendments were made in 2023 to the Appendix under Section 2 (Methods of analysis and sampling) following the 2023 Codex Commission decisions.",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Applies to oils and fats (including modified or fractionated forms) intended for human consumption and explicitly excludes oils/fats covered by the Standards for Named Animal Fats (CXS 211-1999), Named Vegetable Oils (CXS 210-1999), Olive Oils and Olive‑pomace Oils (CXS 33-1981), and Fish Oils (CXS 329-2017).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusion notice",
+        "excluded standard"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTIONS",
+      "summary": "Defines edible fats and oils as glycerides of fatty acids of vegetable, animal or marine origin that may contain small amounts of other lipids and free fatty acids, requires animal fats be from healthy animals fit for human consumption, and defines 'virgin' and 'cold pressed' vegetable fats/oils by permissible mechanical extraction and limited purification methods.",
+      "categories": [
+        "definition",
+        "presentation"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definition",
+        "processing style"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. FOOD ADDITIVES",
+      "summary": "Permits antifoaming agents, antioxidants and colours (per CXS 192-1995) in food category 02.1 and emulsifiers in 02.1.2, prohibits additives in virgin or cold‑pressed oils, and requires flavourings to comply with the Guidelines for the Use of Flavourings (CXG 66-2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "prohibited additives",
+        "flavouring use"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4. CONTAMINANTS",
+      "summary": "States that products covered by this standard must comply with the maximum levels set in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4.1 Pesticide residues",
+      "summary": "Requires compliance with Codex-established maximum residue limits for pesticide residues applicable to these commodities.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues",
+        "residue limits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5. HYGIENE",
+      "summary": "Recommends that products be prepared and handled according to the General Principles of Food Hygiene (CXC 1-1969) and comply with any microbiological criteria established under CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene practices",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "6. LABELLING",
+      "summary": "Requires product labelling to conform to the General Standard for the Labelling of Pre‑packaged Foods (CXS 1-1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "6.1 Name of the food",
+      "summary": "Permits the designations 'virgin fat/oil' and 'cold pressed fat/oil' only for individual fats or oils that meet the definitions for those terms in Sections 2.2 and 2.3 of the standard.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food",
+        "designation use"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6.2 Labelling of non-retail containers",
+      "summary": "For non‑retail containers, required labelling information may appear on the container or accompanying documents, but the name of the food, lot identification and manufacturer/packer name and address must be on the container; lot id and name/address may be replaced by an identifiable mark linked to accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling",
+        "non-retail particulars",
+        "identification mark"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "OTHER QUALITY AND COMPOSITION FACTORS",
+      "summary": "Explains that listed 'other' quality and composition factors are supplementary and that a product meeting the essential factors may still conform to the standard even if it does not meet these supplementary factors.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "1. QUALITY CHARACTERISTICS",
+      "summary": "Specifies quality characteristics (colour, odour, taste) must be characteristic of the product and free from foreign or rancid attributes, and sets maximum limits for parameters including matter volatile at 105°C (0.2% m/m), insoluble impurities (0.05% m/m), soap (0.005% m/m), iron and copper (differing by refined/virgin/cold‑pressed classes), acid value (0.6 mg KOH/g for refined; 4.0 mg KOH/g for virgin/cold‑pressed) and peroxide value (up to 15 meq O2/kg for virgin/cold‑pressed, up to 10 meq O2/kg for other fats).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "Colour :",
+      "summary": "Requires the colour of the product to be characteristic of the designated fat or oil.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "colour requirement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Odour and taste :",
+      "summary": "Requires odour and taste to be characteristic of the designated product and free from foreign and rancid odour and taste.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour taste"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Maximum level",
+      "summary": "Section heading indicating the following items set maximum levels (non‑substantive heading).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "Matter volatile at 105 °C :",
+      "summary": "Specifies matter volatile at 105 °C must not exceed 0.2% m/m.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "moisture test",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "Insoluble impurities :",
+      "summary": "Sets the maximum level for insoluble impurities at 0.05% m/m.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "impurities test",
+        "impurities limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Soap content :",
+      "summary": "Sets the maximum soap content at 0.005% m/m.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "soap test",
+        "soap limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Iron (Fe) :",
+      "summary": "Specifies iron (Fe) maximum levels by product class: 2.5 mg/kg for refined fats/oils and 5.0 mg/kg for virgin and cold‑pressed fats/oils.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Refined fats and oils",
+      "summary": "States the iron limit for refined fats and oils is 2.5 mg/kg.",
+      "categories": [
+        "classification",
+        "contaminants"
+      ],
+      "subcategories": [
+        "product class",
+        "contaminant limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Virgin fats and oils",
+      "summary": "States the iron limit for virgin fats and oils is 5.0 mg/kg.",
+      "categories": [
+        "classification",
+        "contaminants"
+      ],
+      "subcategories": [
+        "product class",
+        "contaminant limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "Cold pressed fats and oils",
+      "summary": "States the iron limit for cold pressed fats and oils is 5.0 mg/kg.",
+      "categories": [
+        "classification",
+        "contaminants"
+      ],
+      "subcategories": [
+        "product class",
+        "contaminant limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Copper (Cu) :",
+      "summary": "Specifies copper (Cu) maximum levels by product class: 0.1 mg/kg for refined fats/oils and 0.4 mg/kg for virgin and cold‑pressed fats/oils.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "Refined fats and oils 0.1 mg/kg Virgin fats and oils 0.4 mg/kg Cold pressed fats and oils 0.4 mg/kg",
+      "summary": "Repeats that copper limits are 0.1 mg/kg for refined fats/oils and 0.4 mg/kg for virgin and cold‑pressed fats/oils.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "Virgin fats and oils 0.4 mg/kg",
+      "summary": "Restates the copper contaminant limits: 0.1 mg/kg for refined fats/oils and 0.4 mg/kg for virgin and cold‑pressed fats/oils.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "Cold pressed fats and oils 0.4 mg/kg",
+      "summary": "Restates the copper contaminant limits: 0.1 mg/kg for refined fats/oils and 0.4 mg/kg for virgin and cold‑pressed fats/oils.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Acid value :",
+      "summary": "Sets acid value limits: 0.6 mg KOH/g for refined fats/oils and 4.0 mg KOH/g for virgin and cold‑pressed fats/oils.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "Refined fats and oils 0.6 mg KOH/g fat or oil",
+      "summary": "Specifies the acid value limit for refined fats and oils as 0.6 mg KOH/g.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "product class",
+        "acidity limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Virgin fats and oils 4.0 mg KOH/g fat or oil",
+      "summary": "Specifies the acid value limit for virgin fats and oils as 4.0 mg KOH/g.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "product class",
+        "acidity limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "Cold pressed fats and oils 4.0 mg KOH/g fat or oil",
+      "summary": "Specifies the acid value limit for cold pressed fats and oils as 4.0 mg KOH/g.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "product class",
+        "acidity limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "Peroxide value :",
+      "summary": "Sets peroxide value limits by class: up to 15 milliequivalents of active oxygen/kg for virgin oils and cold‑pressed fats, and up to 10 milliequivalents/kg for other fats and oils.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Virgin oils and cold pressed fats and oils",
+      "summary": "Reiterates peroxide value limits of up to 15 meq O2/kg for virgin and cold‑pressed fats/oils and up to 10 meq O2/kg for other fats and oils.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "Other fats and oils",
+      "summary": "States the peroxide (oxidation) limits for fats and oils as up to 15 meq O2/kg for virgin/cold‑pressed and up to 10 meq O2/kg for other fats and oils.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "oxidation limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "2.",
+      "summary": "Section heading for 'Methods of Analysis and Sampling' (non‑substantive heading).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "2. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Requires that methods of analysis and sampling relevant to this standard from the Recommended Methods of Analysis and Sampling (CXS 234-1999) be used to check compliance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "For  checking  the  compliance  with  this  standard,  the  methods  of  analysis  and  sampling  contained  in  the Recommended  Methods  of  Analysis  and  Sampling (CXS 234-1999) 11  relevant  to  the  provisions  in  this standard, shall be used.",
+      "summary": "Restates that compliance checking must use the relevant methods in the Recommended Methods of Analysis and Sampling (CXS 234-1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

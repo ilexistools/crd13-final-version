@@ -1,0 +1,784 @@
+{
+  "doc_id": "b2fcb564-615b-4c71-9a1c-66186d397bb4",
+  "title": "CODE OF PRACTICE FOR THE REDUCTION OF 3-MONOCHLOROPROPANE-1,2-  DIOL ESTERS (3-MCPDEs) AND GLYCIDYL ESTERS (GEs) IN REFINED OILS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE REDUCTION OF 3-MONOCHLOROPROPANE-1,2-  DIOL ESTERS (3-MCPDEs) AND GLYCIDYL ESTERS (GEs) IN REFINED OILS",
+      "summary": "Title/heading of the Code of Practice for reduction of 3‑MCPDEs and GEs in refined oils and foods made with refined oils; not substantive text.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Introduces that refining edible oils (≈200°C+) can produce 3‑MCPDEs and GEs, summarizes exposure routes and toxicology (3‑MCPDEs/3‑MCPD: kidney and reproductive effects, non‑genotoxic carcinogens; GE/glycidol: genotoxic carcinogens), and explains key formation mechanisms and influential factors (precursors, lipase activity, temperature) affecting mitigation choices.",
+      "categories": [
+        "scope",
+        "other",
+        "risk management",
+        "processing"
+      ],
+      "subcategories": [
+        "scope heading",
+        "background introduction",
+        "exposure background",
+        "toxicology background",
+        "mitigation recommendation",
+        "formation conditions",
+        "refining conditions",
+        "precursor factors",
+        "formation mechanism",
+        "precursor uptake",
+        "lipase activity",
+        "temperature effect",
+        "mitigation strategy",
+        "temperature mitigation",
+        "production chain measures",
+        "method selection"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SCOPE",
+      "summary": "Specifies the Code’s intent to guide authorities, producers and manufacturers on preventing and reducing 3‑MCPDE and GE formation in refined oils and food products, covering three strategies: good agricultural practices, good manufacturing practices, and selection/use of refined oils in foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "strategy list"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "RECOMMENDED  PRACTICES  BASED  ON  GOOD  AGRICULTURAL  PRACTICES  (GAP)  AND  GOOD MANUFACTURING PRACTICES (GMP)",
+      "summary": "Summarizes major processing steps for edible vegetable and fish oils and distinguishes chemical versus physical refining steps (degumming, neutralization, bleaching, deodorization) and their roles and temperature/pressure ranges relevant to contaminant removal.",
+      "categories": [
+        "risk management",
+        "processing"
+      ],
+      "subcategories": [
+        "practice heading",
+        "vegetable oil processing",
+        "fish oil processing",
+        "refining process"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "AGRICULTURAL PRACTICES FOR VEGETABLE OILS",
+      "summary": "Recommends agricultural measures for vegetable oils: select low‑lipase varieties when available, minimize use of chlorine‑containing inputs (use non‑chlorinated alternatives), harvest at optimal ripeness and minimize fruit damage to reduce precursors, and transport fruits to mills promptly.",
+      "categories": [
+        "risk management",
+        "transport"
+      ],
+      "subcategories": [
+        "agricultural practices",
+        "variety selection",
+        "chlorine reduction",
+        "harvest handling",
+        "transport timing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "OIL MILLING AND REFINING",
+      "summary": "Outlines crude oil production and treatment measures: store oilseeds cool/dry to limit lipase, sterilize palm fruits promptly (≤140°C) and wash to remove chlorine precursors, consider washing crude oil with chlorine‑free water, avoid residual solvent‑recovered oils, assess precursor levels (DAGs, FFAs, chlorine compounds) by batch, and preferentially refine low‑precursor batches to reduce 3‑MCPDE and GE in finished oils.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "oil milling heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Crude Oil Production and Treatment",
+      "summary": "Reiterates crude oil production/treatment recommendations: cool, dry seed storage; prompt sterilization of palm fruits (≤140°C) and potential washing to remove chlorine precursors; cleaning/heating of oilseeds to inactivate lipases; washing crude oil with chlorine‑free water; avoiding residual solvent oils; assessing precursors to adjust refining; and preferentially refining low‑precursor batches.",
+      "categories": [
+        "processing",
+        "storage",
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "crude oil heading",
+        "seed storage",
+        "sterilization treatment",
+        "oil washing",
+        "residual oil use",
+        "precursor assessment",
+        "low precursor refining"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "32. Degumming",
+      "summary": "Recommends milder/less acidic degumming (e.g., low concentrations of phosphoric/citric acids or water degumming) and potentially lower degumming temperatures to decrease 3‑MCPDE precursors, noting acid concentration and temperature depend on crude oil quality and oil type.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "32. Processors should use milder and less acidic conditions (e.g. either degumming with a low concentration of phosphoric, citric, or other acids or water degumming) to decrease 3-MCPDE in vegetable oils or fish oils. The concentration of acid needed depends on the quality of the crude vegetable oil or fish oil. Care should be taken to remove sufficient concentrations of phospholipids and acid to ensure quality.",
+      "summary": "Advises using milder, less acidic degumming (low‑concentration acids or water degumming) to reduce 3‑MCPDE in vegetable and fish oils while ensuring sufficient removal of phospholipids and acid based on crude oil quality.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "degumming practice"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "33. Lowering the degumming temperature may help to reduce formation of 3-MCPDE precursors in vegetable oils; however, the degumming temperature will depend on numerous factors including the type of vegetable oil.",
+      "summary": "States lowering degumming temperature may help reduce 3‑MCPDE precursor formation but the optimal temperature depends on multiple factors, including oil type.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "degumming temperature"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "34. Neutralization",
+      "summary": "Introduces neutralization and recommends chemical refining (neutralization) as an alternative to physical refining to remove precursors (e.g., chloride) and reduce FFAs, which can permit lower deodorization temperatures, but notes chemical refining may cause higher oil loss (notably in palm oil) and greater environmental impact.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "34. Using chemical refining (i.e., neutralization) as an alternative to physical refining can help remove precursors (e.g. chloride) and reduce FFAs, which may allow for lower deodorization temperatures in vegetable oils or fish oils. However, chemical refining can lead to excessive oil loss (especially for palm oil due to higher FFA levels) and may have a greater environmental impact than physical refining.",
+      "summary": "Reiterates that chemical refining/neutralization can remove precursors and FFAs to allow lower deodorization temperatures but may increase oil loss (especially for palm oil) and environmental impacts compared with physical refining.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "neutralization practice"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "35. Bleaching",
+      "summary": "Introduces bleaching recommendations, noting increased amounts of bleaching clay can reduce 3‑MCPDE and GE formation, but clays containing significant chlorine compounds should be avoided and more pH‑neutral clays can reduce acidity and 3‑MCPDE potential.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "35. Use of greater amounts of bleaching clay may reduce formation of 3-MCPDE and GE in all vegetable oils and fish oils. However, bleaching clays that contain significant amounts of chlorine-containing compounds should be avoided.",
+      "summary": "Advises that using greater amounts of bleaching clay may lower 3‑MCPDE and GE formation but warns to avoid bleaching clays that contain substantial chlorine‑containing compounds.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "bleaching clay"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "36. Deodorization",
+      "summary": "Recommends deodorization strategies to reduce GE (e.g., lower deodorization temperatures—suggested 190–230°C for vegetable oils and <190°C for fish oils depending on residence time), use of dual (2‑stage) deodorization, stronger vacuum to aid stripping, and alternatives like short‑path distillation for fish oil with potential need for mild post‑processing to address sensory issues; notes parameter trade‑offs and equipment considerations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "36. Use of more pH-neutral clays reduces the acidity and potential to form 3-MCPDE in palm oil, some seed oils, and fish oil.",
+      "summary": "Use of more pH-neutral clays reduces acidity and the potential formation of 3‑MCPDE in palm oil, some seed oils, and fish oil.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "clay acidity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "37. Deodorization",
+      "summary": "Guidance on deodorization: processors should consider reduced-temperature deodorization (see ranges below) to lower GE formation and other approaches to reduce thermal load; dual deodorization, stronger vacuum, and short‑path distillation are described as options with equipment, time, temperature and post‑processing considerations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "37. Processors should consider conducting deodorization of vegetable oils and fish oils at reduced temperatures to decrease formation of GE. For example, it has been suggested to conduct deodorization at 190-230°C for vegetable oils and less than 190°C for fish oils. The temperature will vary depending on the residence time of oil. Processors can determine the optimal conditions for their processes.",
+      "summary": "Processors are advised to conduct deodorization at reduced temperatures to decrease GE formation, with suggested ranges of 190–230°C for vegetable oils and <190°C for fish oils, noting optimal temperature depends on oil residence time and should be determined per process.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "deodorization temperature"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "38. As an alternative to traditional deodorization, processors can conduct dual deodorization of vegetable oils and fish oils (2-stage deodorization) to reduce thermal load in oil and to decrease formation of GE, with a smaller reduction in 3-MCPDE. This includes both a shorter deodorization period at a higher temperature and a longer deodorization  period  at  a  lower  temperature.  Consideration  needs  to  be  given  to  parameters  such  as temperature, vacuum pressure, and time, and variations in equipment design and capability. Also, additional post processing may be required to reduce levels of GE.",
+      "summary": "Dual (two‑stage) deodorization—a short high‑temperature stage followed by a longer lower‑temperature stage—is presented as an alternative to reduce thermal load and GE (with smaller reductions in 3‑MCPDE), and processors must consider temperature, vacuum, time, equipment variation and possible need for additional post‑processing.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "dual deodorization"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "39. Use of a stronger vacuum facilitates evaporation of volatile compounds due to the increased steam volume and rate of stripping, contributing to decreased deodorization temperatures and reduced formation of GE, and to a lesser extent 3-MCPDE, in vegetable and fish oils.",
+      "summary": "Using a stronger vacuum during deodorization facilitates evaporation and steam stripping, enabling lower deodorization temperatures and reduced GE formation and, to a lesser extent, reduced 3‑MCPDE in vegetable and fish oils.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "vacuum control"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "40. Short-path distillation 2  (in place of deodorization) has been shown to reduce the thermal load and formation of esters  in  fish  oil,  contributing  to  lower  amounts  of  3-MCPDE  and  GE  in  comparison  to  conventional deodorization. However, additional post processing using mild deodorization is needed to address sensory considerations.",
+      "summary": "Short‑path distillation in place of conventional deodorization reduces thermal load and ester formation in fish oil, lowering 3‑MCPDE and GE compared with conventional deodorization, but typically requires additional mild deodorization for sensory reasons.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "distillation treatment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "TREATMENT POST REFINING",
+      "summary": "Recommended post‑refining practices to lower 3‑MCPDE and GE in refined oils (particularly those with higher-than-desired levels) include additional bleaching and lower‑temperature second deodorization, application of activated bleaching earth, short‑path distillation (pressure <1 mbar, 120–270°C) on bleached/deodorized oil to reduce acylglycerols and esters, and chemical treatment of refined MCT oil with fatty acids, a cation counterion and bases to convert 3‑MCPDE and GE to other glycerides.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "treatment heading",
+        "post refining practices",
+        "post bleaching",
+        "activated bleaching",
+        "distillation treatment",
+        "mct treatment"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "SELECTION AND USES OF REFINED OILS IN FOOD PRODUCTS MADE FROM THESE OILS",
+      "summary": "Selecting refined vegetable and fish oils with low intrinsic or mitigated levels of 3‑MCPDE and GE reduces these contaminants in finished products, but manufacturers must also consider product quality and compositional requirements (e.g., infant formula standards such as CXS 72‑1981).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Oil selection",
+      "summary": "Selecting refined vegetable and fish oils low in 3‑MCPDE and GE results in lower levels of these contaminants in finished products, though manufacturers must balance this with product quality and compositional criteria (e.g., infant formula standards).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "oil selection heading",
+        "oil selection"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "## Production Stage",
+      "summary": "Heading only: 'Production Stage'—no substantive requirements in this section.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "production stage heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "AGRICULTURAL PRACTICES FOR VEGEGETABLE OILS",
+      "summary": "Heading only: 'AGRICULTURAL PRACTICES FOR VEGEGETABLE OILS'—no substantive content in this item.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "agricultural practices heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "## OIL MILLING AND REFINING",
+      "summary": "Heading only: 'OIL MILLING AND REFINING'—no substantive content in this item.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "oil milling heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "## POTENTIAL MITIGATION MEASURES FOR REDUCING 3-MCPDEs AND GEs",
+      "summary": "Introductory note that potential mitigation measures for reducing 3‑MCPDE and GE are listed (not in priority order) and should be tested to identify the most successful measures for a given product.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "The mitigation measures are not listed in order of priority It is recommended that reduction measures be tested to identify the most successful for your own product.",
+      "summary": "Mitigation measures are not presented in order of priority and should be tested to identify which reductions work best for a specific product.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "recommendation note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Mitigation measures",
+      "summary": "Mitigation recommendations include selecting oil palm varieties with low lipase activity, minimizing use of chlorine‑containing substances in cultivation, harvesting fruits at optimal ripeness and avoiding damaged/overripe fruit, minimizing handling, and transporting fruits to mills promptly.",
+      "categories": [
+        "scope",
+        "contaminants",
+        "transport"
+      ],
+      "subcategories": [
+        "mitigation measures heading",
+        "plant variety selection",
+        "chlorine reduction",
+        "harvest handling",
+        "fruit transport"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "## Crude Oil Production and Treatment",
+      "summary": "Crude oil production/treatment recommendations: store oilseeds cool and dry, sterilize oil palm fruit at ≤140°C and dry/heat seeds to inactivate lipases, wash crude oil with chlorine‑free water, avoid solvent‑recovered residual oils, assess precursors (DAGs, FFAs, chlorine compounds) to adjust refining, and preferentially refine batches with low precursor concentrations.",
+      "categories": [
+        "processing",
+        "storage",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "crude oil heading",
+        "seed storage",
+        "sterilization treatment",
+        "washing treatment",
+        "solvent residue avoidance",
+        "precursor assessment",
+        "raw material selection"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "## Degumming",
+      "summary": "Degumming recommendations: use milder, less acidic conditions (e.g., low‑concentration acid or water degumming) and lower degumming temperatures for vegetable and fish oils.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "degumming heading",
+        "degumming practice",
+        "degumming temperature"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "## Neutralization",
+      "summary": "Neutralization recommendation: use chemical refining (neutralization) as an alternative to physical refining for vegetable and fish oils.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "neutralization heading",
+        "neutralization practice"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "## Bleaching",
+      "summary": "Bleaching recommendations: use greater amounts of bleaching clay and prefer more pH‑neutral clays to reduce acidity in palm oils, some seed oils, and fish oils.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "bleaching heading",
+        "bleaching clay",
+        "processing mitigation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "## ANNEX",
+      "summary": "Annex compiling production stage, milling/refining, post‑refining treatments, oil selection and mitigation measures, and process modifications; it summarizes recommended mitigation options such as reduced deodorization temperatures, dual deodorization, stronger vacuum, short‑path distillation, additional bleaching/activated clay, chemical treatment of MCT oil, selection of low‑contaminant oils, and reducing oil use in products.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "Production Stage",
+      "summary": "Section heading only: 'Production Stage' — no substantive requirements or details provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "production stage"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "OIL MILLING AND REFINING",
+      "summary": "Section heading only: 'OIL MILLING AND REFINING' — no substantive requirements or details provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "milling refining"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "TREATMENT POST REFINING",
+      "summary": "Section heading only: 'TREATMENT POST REFINING' — no substantive requirements or details provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "post refining"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "SELECTION AND USES OF REFINED OILS",
+      "summary": "Section heading only: 'SELECTION AND USES OF REFINED OILS' — no substantive requirements or details provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "oil selection"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "POTENTIAL MITIGATION MEASURES FOR REDUCING 3-MCPDE AND GE",
+      "summary": "Introduces potential mitigation measures for reducing 3‑MCPDE and GE in oils and notes that the listed measures are not in order of priority.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "mitigation measures"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "The mitigation measures are not listed in order of priority",
+      "summary": "Clarifies that the mitigation measures described are not ranked by priority.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "mitigation note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "It is recommended that reduction measures be tested to identify the most successful for your own product",
+      "summary": "Recommends testing reduction measures to determine which are most effective for a given product.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "measure evaluation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "Mitigation measures",
+      "summary": "Section heading only: 'Mitigation measures' — introduces the topic but contains no specific measures in this text.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "mitigation measures"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "Deodorization",
+      "summary": "Recommends deodorization-related strategies to reduce contaminant formation in vegetable and fish oils, including reduced-temperature and dual-stage deodorization (temperature depending on residence time), stronger vacuum, short‑path distillation as an alternative for fish oil, and additional bleaching/deodorization for refined palm oil.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "deodorization",
+        "reduced temperature",
+        "dual deodorization",
+        "vacuum deodorization",
+        "short-path distillation",
+        "additional bleaching"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "OIL SELECTION",
+      "summary": "Recommends selecting refined vegetable or fish oils that have lower levels of 3‑MCPDE and GE.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "oil selection",
+        "lower contamination"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "PROCESS MODIFICATIONS",
+      "summary": "Recommends reducing the proportion of refined vegetable or fish oils in finished products to lower contaminant levels.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process modifications",
+        "reduce ingredient share"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

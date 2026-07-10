@@ -1,0 +1,405 @@
+{
+  "doc_id": "3d576969-41d4-40cb-bd30-7ed16e732083",
+  "title": "GENERAL STANDARD FOR THE LABELLING OF NON-RETAIL CONTAINERS OF FOODS CXS 346-2021",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR THE LABELLING OF NON-RETAIL CONTAINERS OF FOODS CXS 346-2021",
+      "summary": "Title only: the document is the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling standard heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 2021",
+      "summary": "Adoption date only: this standard was adopted in 2021.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 1. PURPOSE",
+      "summary": "Purpose: to facilitate harmonized labelling of non-retail containers of food and to specify what information must appear on labels and what information may be provided by other means.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2. SCOPE",
+      "summary": "Scope: the Standard applies to labelling of non-retail containers of food (excluding food additives and processing aids) not intended for direct sale to consumers, including information provided in accompanying documents or by other means and its presentation.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 3. DEFINITION OF TERMS",
+      "summary": "Definitions: relevant terms from the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985) apply, and this Standard defines 'food business' (entities across production to distribution) and 'non-retail container' (containers not intended for direct sale, whose contents are for further food business activities).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "terms applicability",
+        "food business definition",
+        "non-retail container definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## 4. GENERAL PRINCIPLES",
+      "summary": "General principles: the principles of CXS 1-1985 apply as appropriate; labelling for non-retail containers must be distinct from prepackaged food labelling, containers must be clearly identifiable as non-retail, non-retail status is determined by the selling/distributing food business, requirements should consider business/authority capabilities, information may be provided by means other than a label when allowed by the competent authority, and all information must be traceable to the food in the container.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general principles heading",
+        "general principles",
+        "label distinction",
+        "container identification",
+        "status determination",
+        "implementation factors",
+        "other means",
+        "traceability requirement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## 5. MANDATORY INFORMATION REQUIREMENTS ON THE LABEL",
+      "summary": "Heading only: introduces the mandatory information requirements that shall appear on labels of non-retail containers (details provided in subsequent subsections).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## 5.2 Lot identification",
+      "summary": "Lot identification: each non-retail container must be marked (in code or otherwise) to clearly identify the producing factory and the lot(s) of the food.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "lot identification heading",
+        "lot identification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 5.3 Date marking and storage instructions 10",
+      "summary": "Date marking and storage instructions must be provided when required for the safety or integrity of the product.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking heading",
+        "date marking"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 5.4 Identification of a non-retail container",
+      "summary": "Identification of a non-retail container: non-retail containers must be clearly identifiable as such, and if not obvious they must bear a statement (e.g., 'NON-RETAIL CONTAINER' or 'NOT FOR DIRECT SALE TO CONSUMER') or other marking indicating they are not for direct sale.",
+      "categories": [
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "container identification heading",
+        "container identification",
+        "non-retail statement",
+        "conjunction marker",
+        "non-retail mark"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 5.5 Name and address",
+      "summary": "Name and address: the name and address of the manufacturer, packer, distributor, importer, exporter or vendor of the food shall be declared on the non-retail container.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name address heading",
+        "responsible party details"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## 6. MANDATORY INFORMATION REQUIREMENTS BY MEANS OTHER THAN ON THE LABEL",
+      "summary": "Mandatory info by other means: information required under Section 5 (and additional details to enable safe preparation and prepackaged labelling, plus net contents) may be provided in accompanying documents or other means but must be traceable to the food; if all required information is on the label, these provisions do not apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## 7. PROVISIONS FOR SPECIFIC TYPES OF NON-RETAIL CONTAINERS",
+      "summary": "Heading only: introduces provisions for specific types of non-retail containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "## 7.1 Non-retail container used as food transportation unit 13",
+      "summary": "Non-retail containers used as food transportation units that cannot bear a label must have all information required by Section 5 and Subsection 6.1 provided in accompanying documents or by other appropriate means (e.g., electronically) and effectively traceable to the food.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport unit heading",
+        "transport documents"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.2 Non-retail container containing multiple types of food",
+      "summary": "When a non-retail container contains multiple types of food, the mandatory information required by Section 5 and Subsection 6.1 must be provided for all food types contained therein.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "multiple foods heading",
+        "multiple foods information"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.3 Non-retail container providing visual access",
+      "summary": "Non-retail containers that provide visual and legible access to all information required by Section 5 for the prepackaged foods inside are exempted from carrying that Section 5 information on the container.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "visual access heading",
+        "visual access exemption"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "8. PRESENTATION OF INFORMATION",
+      "summary": "Heading only for Section 8 on presentation of information; no substantive provisions in this item.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "8.1 General",
+      "summary": "General presentation requirements for non-retail containers: labels must remain affixed, mandatory and other required statements must be clear, prominent, readily legible and tamper-evident, mandatory Section 5 information must be in a prominent and readily accessible position under normal handling, and information provided other than on the label must be readily accessible, legible and clearly displayed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8.1.1 Labels on non-retail containers of foods shall be applied in such a manner that they will not  become separated from the container.",
+      "summary": "Labels on non-retail food containers must be applied so they will not become separated from the container.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "label adhesion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "8.1.2 Information and the statements required to appear on the label by virtue of this Standard or any other Codex standards shall be clear, prominent, readily legible and applied in such a manner that any tampering with it will be evident.",
+      "summary": "Information and statements required by this Standard or other Codex standards must be clear, prominent, readily legible and applied so that any tampering will be evident.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "legibility requirement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "8.1.3 The mandatory information required on the label under Section 5 shall appear in a prominent position on the non-retail container and shall be readily accessible under normal handling and use of the container.",
+      "summary": "Mandatory information required under Section 5 must appear in a prominent position on the non-retail container and be readily accessible under normal handling and use.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "label placement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "8.1.4 Information that is provided by means other than the label shall be readily accessible, legible and clearly displayed.",
+      "summary": "Information provided by means other than the label must be readily accessible, legible and clearly displayed.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "off-label information"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8.2 Language",
+      "summary": "If the original label language is not acceptable to the competent authority or food business in the country of sale, the mandatory information should be provided in the required language by re-labelling, a supplementary label, accompanying documents or other means, and that information must fully and accurately reflect the original label.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "8.2.1 If the language on the original label is not acceptable to the competent authority or the food business in the country in which the product is sold, the mandatory information in the required language should be provided in the form of re-labelling, a supplementary label and/or in the accompanying documents or by means other than on the label to meet the requirements of the country in which the product is sold.",
+      "summary": "When the original label language is unacceptable to the competent authority or food business in the country of sale, mandatory information in the required language should be provided via re-labelling, a supplementary label, accompanying documents or other means to meet that country's requirements.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "language requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8.2.2 The mandatory information provided in the required  language shall fully  and accurately reflect that  of the original label.",
+      "summary": "Mandatory information provided in the required language must fully and accurately reflect the original label.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "mandatory information"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "doc_id": "064fbe8f-a2c8-4730-bb50-812e9fc0c30d",
+  "title": "Contents",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "Contents",
+      "summary": "Table of contents listing Part A (methods of analysis by commodity categories and names), Part B (methods of sampling by commodity), and the commodity groupings; a non-substantive contents heading.",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "contents heading",
+        "methods index",
+        "commodity grouping",
+        "commodity list",
+        "page number"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "PART A - METHODS OF ANALYSIS BY COMMODITY CATEGORIES AND NAMES",
+      "summary": "Part A header indicating a tabulated catalogue of analytical methods organized by commodity category and provision, mapping commodities to specific methods, analytical principles and method type classifications.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 75
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Cereals, pulses and legumes and derived products",
+      "summary": "Tabulated methods for cereals, pulses, legumes and derived products specifying, by commodity, the analytical provisions and referenced methods (ISO, AOAC, ICC, EN, etc.) and their principles (e.g., gravimetry, titrimetry, HPLC) and method type classifications.",
+      "categories": [
+        "analysis sampling",
+        "food category system",
+        "other"
+      ],
+      "subcategories": [
+        "table header",
+        "table separator",
+        "moisture method",
+        "ash method",
+        "fat method",
+        "particle size method",
+        "protein method",
+        "oil extraction method",
+        "acid value method",
+        "colour method",
+        "fibre method",
+        "test method table",
+        "category table",
+        "analysis table heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 8
+      }
+    }
+  ]
+}

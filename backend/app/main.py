@@ -1,4 +1,6 @@
-from fastapi import FastAPI, File, HTTPException, UploadFile
+import json
+
+from fastapi import Body, FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Any
 from pydantic import BaseModel
@@ -9,7 +11,10 @@ from app.tools.provisions_search import ProvisionsSearchTool
 from app.tools.attestation_section_search import AttestationSectionSearchTool
 from app.tools.triple_generation import TripleGenerationTool
 from app.tools.attestation_analyser import AttestationAnalyserTool
+from app.tools.attestation_section_analyser import AttestationSectionAnalyserTool
 from app.tools.attestation_rewriter import AttestationRewriteTool
+from app.tools.attestation_rewrite_change_planner import AttestationRewriteChangePlannerTool
+from app.tools.attestation_change_applier import AttestationChangeApplierTool
 from app.tools.attestation_template_adaptation import AttestationTemplateAdapterTool
 from app.tools.compliance_analysis import ComplianceAnalysisTool
 from app.tools.compliance_correction import ComplianceCorrectionTool
@@ -19,9 +24,12 @@ unitizer = UnitizationTool()
 commodities_identifier = CommoditiesIdentifierTool()
 provisions_search = ProvisionsSearchTool()
 attestation_section_search = AttestationSectionSearchTool()
+attestation_section_analyser = AttestationSectionAnalyserTool()
 triple_generator = TripleGenerationTool()
 attestation_analyser = AttestationAnalyserTool()
 attestation_rewriter = AttestationRewriteTool()
+attestation_rewrite_change_planner = AttestationRewriteChangePlannerTool()
+attestation_change_applier = AttestationChangeApplierTool()
 attestation_template_adapter = AttestationTemplateAdapterTool()
 compliance_analyser = ComplianceAnalysisTool()
 compliance_corrector = ComplianceCorrectionTool()
@@ -85,12 +93,14 @@ async def search_provisions(payload: InputRequest) -> OutputResponse:
 
 @app.post("/search_attestation_sections", response_model=OutputResponse)
 async def search_attestation_sections(payload: InputRequest) -> OutputResponse:
-    provision = payload.input.get("provision", "")
+    provision = payload.input.get("attestation")
+    if provision is None:
+        provision = payload.input.get("provision", "")
     commodities = payload.input.get("commodities", [])
-    if not isinstance(provision, str):
+    if not isinstance(provision, str) or not provision.strip():
         raise HTTPException(
             status_code=422,
-            detail="input.provision must be a string.",
+            detail="input.attestation must be a non-empty string.",
         )
     if not isinstance(commodities, list):
         raise HTTPException(
@@ -101,6 +111,52 @@ async def search_attestation_sections(payload: InputRequest) -> OutputResponse:
         result = await attestation_section_search.run_async(provision, commodities)
     except FileNotFoundError as exc:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
+    except ValueError as exc:
+        raise HTTPException(status_code=422, detail=str(exc)) from exc
+    return OutputResponse(output=result)
+
+@app.post("/analyze_attestation_sections", response_model=OutputResponse)
+async def analyze_attestation_sections(payload: Any = Body(...)) -> OutputResponse:
+    if isinstance(payload, str):
+        try:
+            payload = json.loads(payload)
+        except json.JSONDecodeError as exc:
+            raise HTTPException(
+                status_code=422,
+                detail="Request body must be a JSON object or a JSON string containing an object.",
+            ) from exc
+
+    if not isinstance(payload, dict):
+        raise HTTPException(
+            status_code=422,
+            detail="Request body must be a JSON object.",
+        )
+
+    input_data = payload.get("input", payload)
+    if not isinstance(input_data, dict):
+        raise HTTPException(
+            status_code=422,
+            detail="Request body must contain an input object.",
+        )
+
+    attestation = input_data.get("attestation", "")
+    commodities = input_data.get("commodities", [])
+    if not isinstance(attestation, str) or not attestation.strip():
+        raise HTTPException(
+            status_code=422,
+            detail="input.attestation must be a non-empty string.",
+        )
+    if not isinstance(commodities, list):
+        raise HTTPException(
+            status_code=422,
+            detail="input.commodities must be a list of strings.",
+        )
+    try:
+        result = await attestation_section_analyser.run_async(attestation, commodities)
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
+    except ValueError as exc:
+        raise HTTPException(status_code=422, detail=str(exc)) from exc
     return OutputResponse(output=result)
 
 @app.post("/generate_triples", response_model=OutputResponse)
@@ -124,6 +180,95 @@ async def rewrite_attestation_endpoint(payload: InputRequest) -> OutputResponse:
             detail="rewrite_attestation requires input.analysis_result",
         )
     result = await attestation_rewriter.run_async(analysis_result)
+    return OutputResponse(output=result)
+
+@app.post("/plan_attestation_rewrite_changes", response_model=OutputResponse)
+async def plan_attestation_rewrite_changes(payload: Any = Body(...)) -> OutputResponse:
+    if isinstance(payload, str):
+        try:
+            payload = json.loads(payload)
+        except json.JSONDecodeError as exc:
+            raise HTTPException(
+                status_code=422,
+                detail="Request body must be a JSON object or a JSON string containing an object.",
+            ) from exc
+
+    if not isinstance(payload, dict):
+        raise HTTPException(
+            status_code=422,
+            detail="Request body must be a JSON object.",
+        )
+
+    input_data = payload.get("input", payload)
+    if not isinstance(input_data, dict):
+        raise HTTPException(
+            status_code=422,
+            detail="Request body must contain an input object.",
+        )
+
+    attestation = input_data.get("attestation", "")
+    sections = input_data.get("sections")
+    if sections is None:
+        sections = input_data.get("significant_sections", [])
+
+    if not isinstance(attestation, str) or not attestation.strip():
+        raise HTTPException(
+            status_code=422,
+            detail="input.attestation must be a non-empty string.",
+        )
+    if not isinstance(sections, list):
+        raise HTTPException(
+            status_code=422,
+            detail="input.sections must be a list.",
+        )
+
+    try:
+        result = await attestation_rewrite_change_planner.run_async(attestation, sections)
+    except ValueError as exc:
+        raise HTTPException(status_code=422, detail=str(exc)) from exc
+    return OutputResponse(output=result)
+
+@app.post("/apply_attestation_changes", response_model=OutputResponse)
+async def apply_attestation_changes(payload: Any = Body(...)) -> OutputResponse:
+    if isinstance(payload, str):
+        try:
+            payload = json.loads(payload)
+        except json.JSONDecodeError as exc:
+            raise HTTPException(
+                status_code=422,
+                detail="Request body must be a JSON object or a JSON string containing an object.",
+            ) from exc
+
+    if not isinstance(payload, dict):
+        raise HTTPException(
+            status_code=422,
+            detail="Request body must be a JSON object.",
+        )
+
+    input_data = payload.get("input", payload)
+    if not isinstance(input_data, dict):
+        raise HTTPException(
+            status_code=422,
+            detail="Request body must contain an input object.",
+        )
+
+    attestation = input_data.get("attestation", "")
+    changes = input_data.get("changes", [])
+    if not isinstance(attestation, str) or not attestation.strip():
+        raise HTTPException(
+            status_code=422,
+            detail="input.attestation must be a non-empty string.",
+        )
+    if not isinstance(changes, list):
+        raise HTTPException(
+            status_code=422,
+            detail="input.changes must be a list.",
+        )
+
+    try:
+        result = await attestation_change_applier.run_async(attestation, changes)
+    except ValueError as exc:
+        raise HTTPException(status_code=422, detail=str(exc)) from exc
     return OutputResponse(output=result)
 
 @app.post("/adapt_attestation_template", response_model=OutputResponse)

@@ -1,0 +1,465 @@
+{
+  "doc_id": "35688d60-5709-4c59-9f0c-8d847e543e20",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "This Standard applies to the labelling, certain aspects of presentation, and claims for all prepackaged Foods for Special Dietary Uses (as defined in Section 2.1) offered to consumers or for catering purposes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DESCRIPTION",
+      "summary": "Foods for Special Dietary Uses are defined as foods specially processed or formulated to meet particular dietary requirements arising from specific physical or physiological conditions or diseases and must differ significantly in composition from ordinary comparable foods, with other definitions given in the Codex General Standard for the Labelling of Prepackaged Foods.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "special dietary foods",
+        "general standard reference"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3. GENERAL PRINCIPLES",
+      "summary": "Prepackaged Foods for Special Dietary Uses must not be described or presented in a false, misleading or deceptive way and labelling or advertising must not imply that advice from a qualified person is unnecessary.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general principles heading",
+        "misleading presentation",
+        "need for advice"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "4. MANDATORY LABELLING OF PREPACKAGED FOODS FOR SPECIAL DIETARY USES",
+      "summary": "The label of all prepackaged Foods for Special Dietary Uses must bear the information required by Sections 4.1 to 4.8 as applicable, except where a specific Codex standard explicitly provides otherwise.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4.1 The name of the food",
+      "summary": "In addition to the General Standard name requirements, the designation 'special dietary' (or equivalent) may be used only if the product meets the Section 2.1 definition, and the characterizing essential feature (not the condition intended) must be stated in descriptive terms close to the name.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4.1.1 The  designation  'special  dietary',  'special  dietetic'  or  an  appropriate  equivalent  term,  may  be  used  in conjunction with the name only where the product corresponds to the definition in Section 2.1.",
+      "summary": "'Special dietary', 'special dietetic' or an appropriate equivalent term may be used with the product name only when the product corresponds to the definition in Section 2.1.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "special dietary designation"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4.1.2 The characterizing essential feature, but not the condition for which the food is intended, shall be stated in appropriate descriptive terms in close proximity to the name of the food.",
+      "summary": "The characterizing essential feature of the food, but not the condition for which it is intended, must be stated in appropriate descriptive terms in close proximity to the name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "descriptive feature statement"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.2 List of ingredients",
+      "summary": "The list of ingredients must be declared in accordance with Section 4.2 of the Codex General Standard for the Labelling of Prepackaged Foods.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "ingredients declaration"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.3 Nutrition labelling",
+      "summary": "Nutrition labelling must state energy per 100 g or 100 ml (and where appropriate per specified quantity), grams of protein, available carbohydrate and fat per 100 g or 100 ml (and where appropriate per specified quantity), and the total quantity of the specific nutrients or components that provide the characterizing essential feature per 100 g or 100 ml (and where appropriate per specified quantity).",
+      "categories": [
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "nutrition heading",
+        "nutrition labelling intro",
+        "energy declaration",
+        "macronutrient declaration",
+        "characterizing nutrients",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.4 Net contents and drained weight",
+      "summary": "Declaration of net contents and drained weight must be made in accordance with Section 4.3 of the Codex General Standard for the Labelling of Prepackaged Foods.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net contents heading",
+        "net contents declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.5 Name and address",
+      "summary": "The name and address on the label shall be declared in accordance with Section 4.4 of the Codex General Standard for the Labelling of Prepackaged Foods.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name address heading",
+        "name address declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.6 Country of origin",
+      "summary": "Country of origin must be declared in accordance with Section 4.5 of the Codex General Standard for the Labelling of Prepackaged Foods.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin heading",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.7 Lot identification",
+      "summary": "Lot identification shall be declared in accordance with Section 4.6 of the Codex General Standard for the Labelling of Prepackaged Foods.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "lot identification heading",
+        "lot identification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.8 Date marking and storage instructions",
+      "summary": "Date marking and storage instructions must follow Section 4.7 of the Codex General Standard for the Labelling of Prepackaged Foods, with additional provisions set out below.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.8.1 Storage of opened food",
+      "summary": "Labels must include storage instructions for opened packages when necessary to ensure the opened product's wholesomeness and nutritive value, and must include a warning if the food cannot be stored after opening or in its container after opening.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "opened food heading",
+        "opened package storage"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5 ADDITIONAL MANDATORY REQUIREMENTS FOR SPECIFIC FOODS",
+      "summary": "Heading only: introduces that additional mandatory requirements for specific foods follow (no substantive provisions in this section).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.1 Quantitative labelling of ingredients",
+      "summary": "Requires quantitative labelling of ingredients to be carried out in accordance with Section 5.1 of the General Standard (i.e., follow the General Standard's quantitative ingredient labelling provisions).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "quantitative ingredients heading",
+        "quantitative ingredients declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.2 Claims",
+      "summary": "Sets rules for labelling claims: all claims must follow Codex General Guidelines on Claims (CAC/GL 1-1979); 'special dietary use' claims must comply with this standard unless a specific Codex standard provides otherwise; naturally suitable but unmodified foods must not be labelled 'special dietary' though a non-misleading statement of natural characteristic is allowed; and claims that a food can prevent, treat or cure disease are prohibited except as allowed under the conditions in 5.2.4.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2.1 Any claims made for the foods covered by this standard shall be in accordance with the General Guidelines on Claims elaborated by the Codex Alimentarius Commission (CAC/GL 1-1979).",
+      "summary": "Any claims for foods covered by this standard must comply with the Codex General Guidelines on Claims (CAC/GL 1-1979).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "claims compliance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.2.2 Where  a  claim  is  made  that  the  food  is  suitable  for  'special  dietary  use'  that  food  shall  comply  with  all provisions of this standard except as otherwise provided in a specific Codex Standard for Foods for Special Dietary Uses.",
+      "summary": "A food claimed to be suitable for 'special dietary use' must comply with all provisions of this standard unless a specific Codex Standard for Foods for Special Dietary Uses provides otherwise.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "special dietary claim"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.2.3 A  food  which  has  not  been  modified  in  accordance  with  Section  2.1  but  is  suitable  for  use  in  a  particular dietary  regimen  because  of  its  natural  composition,  shall  not  be  designated  'special  dietary'  or  'special dietetic' or any other equivalent term. However, such a food may bear a statement on the label that 'this food is by its nature 'X' ('X' refers to the essential distinguishing characteristic), provided that such statement does not mislead the consumer.",
+      "summary": "Foods not modified as per Section 2.1 but naturally suitable for a dietary regimen must not be labelled 'special dietary' or equivalent, though they may state a natural distinguishing characteristic on the label provided it is not misleading.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "natural suitability claim"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.2.4 Claims as to the suitability of a food defined in Section 2.1 for use in the prevention, alleviation, treatment or cure of a disease, disorder or particular physiological condition are prohibited unless they are:",
+      "summary": "Prohibits claims that a food defined in Section 2.1 can prevent, alleviate, treat or cure disease, disorder or particular physiological conditions except as allowed under the specific conditions set out in 5.2.4(a) and (b).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.2.4(a) in accordance with the provisions of Codex standards or guidelines for   foods for special dietary uses, and follow the principles set forth in such standards or guidelines; or",
+      "summary": "Permits disease‑related suitability claims only if they conform to Codex standards or guidelines for foods for special dietary uses and follow the principles in those documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "claim conditions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.2.4(b) in the absence of an applicable Codex standard or guideline, permitted  under the laws of the country in which the food is distributed.",
+      "summary": "If no applicable Codex standard or guideline exists, disease‑related suitability claims may be permitted under the laws of the country where the food is distributed.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "claim conditions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "5.3 Irradiated  foods  for  special  dietary  uses  shall  be  labelled  in  accordance  with  Section  5.2  of  the  General Standard.",
+      "summary": "Irradiated foods for special dietary uses must be labelled in accordance with Section 5.2 of the General Standard.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "irradiated foods heading",
+        "irradiated food labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5.4 Nothing in this standard shall preclude the adoption of additional or different provisions in a Codex standard for a food for special dietary use, in respect of labelling, where the circumstances of a particular food would justify their incorporation in that standard.",
+      "summary": "This standard does not preclude adopting additional or different labelling provisions in a specific Codex standard for a food for special dietary use when the circumstances of that food justify them.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "additional labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6 EXEMPTIONS FROM MANDATORY LABELLING REQUIREMENTS",
+      "summary": "Exemptions from mandatory labelling requirements for these foods shall be made in accordance with Section 6 of the General Standard.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling exemptions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7. OPTIONAL LABELLING",
+      "summary": "Optional labelling of foods for special dietary uses must comply with Section 7 of the General Standard.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "optional labelling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8. PRESENTATION OF MANDATORY INFORMATION",
+      "summary": "The presentation of mandatory information on these foods must conform to Section 8 of the General Standard.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

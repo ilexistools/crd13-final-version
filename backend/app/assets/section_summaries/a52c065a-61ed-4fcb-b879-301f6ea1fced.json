@@ -1,0 +1,894 @@
+{
+  "doc_id": "a52c065a-61ed-4fcb-b879-301f6ea1fced",
+  "title": "## GUIDELINES ON GOOD LABORATORY PRACTICE IN PESTICIDE RESIDUE ANALYSIS CAC/GL 40-1993",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## GUIDELINES ON GOOD LABORATORY PRACTICE IN PESTICIDE RESIDUE ANALYSIS CAC/GL 40-1993",
+      "summary": "Document title only: Guidelines on Good Laboratory Practice in Pesticide Residue Analysis (CAC/GL 40-1993).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## Content",
+      "summary": "Table of contents (truncated) listing the main parts and sections of the Guidelines (Foreword, Introduction, The Analyst, Basic Resources, The Analysis, etc.), not substantive text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "contents heading",
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## FOREWORD",
+      "summary": "States the Guidelines' purpose to help ensure reliability of analytical results for checking compliance with Codex MRLs in international trade and lists related Codex recommendations and reference documents (sampling, portion to analyze, MRL lists, methods, classification).",
+      "categories": [
+        "other",
+        "scope",
+        "documentation",
+        "analysis sampling",
+        "contaminants",
+        "food category system"
+      ],
+      "subcategories": [
+        "foreword heading",
+        "purpose statement",
+        "related references",
+        "sampling method reference",
+        "sampling portion reference",
+        "mrl reference",
+        "analysis method reference",
+        "classification reference"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 1. INTRODUCTION",
+      "summary": "Introduces the goal of obtaining reliable analytical results in pesticide residue analysis, outlines the Guidelines' three parts (The Analyst, Basic Resources, The Analysis) and notes prerequisites in ISO/IEC 17025, OECD GLP guidance and relevant national regulations.",
+      "categories": [
+        "scope",
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "purpose statement",
+        "guideline structure",
+        "section listing",
+        "quality assurance"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. THE ANALYST",
+      "summary": "Describes analyst-related requirements: appropriate professional qualification, competence and training in residue analysis, adherence to methods and AQA, completion of specified method tests before routine use, and maintenance of training and experience records, with recommendation to train in established laboratories when setting up a new lab.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Residue analysis consists of a chain of procedures, most of which are known, or readily understood, by a trained chemist, but because the analyte concentrations are in the range μ g/kg to mg/kg and because the analyses can be challenging, attention to detail is essential.",
+      "summary": "Specifies that the analyst in charge must be appropriately qualified and experienced, that staff be fully trained in apparatus use and laboratory skills, that each analyst using a method for the first time complete validation tests (referenced in Table 4, section 4.4.5), and that records of training and experience be kept.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "analyst competence"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 When a laboratory for residue analysis is set up, the staff should spend some of their training period in a well established laboratory where experienced advice and training is available.",
+      "summary": "Recommends that staff of a newly established residue laboratory spend part of their training period in established laboratories to gain experience and, for broad pesticide analyses, possibly train in more than one expert laboratory.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "laboratory training"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## 3. BASIC RESOURCES",
+      "summary": "Sets out basic laboratory resources and requirements: facility design to minimize contamination and ensure safety (separate areas, solvent‑grade extraction areas, fume extraction), equipment and supplies provisioning, regular calibration and servicing of instruments, appropriate storage and labelling of reference standards and reagents, and recordkeeping to preserve sample integrity and measurement reliability.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 3.1. THE LABORATORY",
+      "summary": "Sets laboratory design and safety requirements for pesticide residue work: allocate well‑defined areas to minimize contamination and protect personnel, use chemical‑resistant materials, ideally provide separate rooms for sample receipt/storage, preparation, extraction/clean‑up and instrumental determination, ensure solvent‑laboratory and high‑quality fume extraction specifications, and prioritize sample integrity and personal safety.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.1. The laboratory and its facilities must be designed to allow tasks to be allocated to well-defined areas where maximum safety and minimum chance of contamination of samples prevail.",
+      "summary": "Requires laboratories to be designed to allow task allocation into defined areas to minimize contamination and maximize safety, use materials resistant to expected chemicals, provide separate rooms for receipt, preparation, extraction/clean‑up and instrumentation where possible, ensure extraction areas meet solvent‑lab specs with good fume extraction, and maintain sample integrity and personal safety.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "laboratory facilities"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2 EQUIPMENT AND SUPPLIES",
+      "summary": "Specifies equipment and supplies requirements: reliable electricity/water and suitable reagents/solvents/gases/glassware; routine servicing, calibration and records for analytical instruments and measuring equipment with monitoring of temperatures; equipment must be fit for purpose; laboratories must hold high‑purity pesticide reference standards for parent compounds and relevant metabolites; and all standards, stock solutions and reagents must be clearly labelled with preparation date, analyst ID, solvent, storage conditions and expiry where degradation is possible, and stored to minimise degradation.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "supplies requirements",
+        "equipment calibration",
+        "equipment suitability",
+        "reference standards",
+        "standards labelling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.4 Safety screens should be used when glassware is used under vacuum or pressure.",
+      "summary": "Requires use of safety screens for glassware under vacuum or pressure and availability of protective equipment (safety glasses, gloves, clothing), emergency wash facilities, spillage kit and adequate fire‑fighting equipment, and warns staff about acute and chronic toxicity of many pesticides when handling reference compounds.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "laboratory safety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## 4. THE ANALYSIS",
+      "summary": "States that pesticide residue analytical methods must meet the criteria given (Table 3) and covers key topics for reliable analysis: avoidance of contamination, sample reception and storage, SOPs, method validation and ongoing performance verification including proficiency testing where practicable.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1 AVOIDANCE OF CONTAMINATION",
+      "summary": "Describes sources of contamination in pesticide residue analysis (from sampling, transport, reagents, materials, personnel products, equipment and plastics) and prescribes controls including reagent blanks, banning cosmetics/personal products in the lab, purification/re‑distillation of solvents and reagents, strict cleaning and separation of glassware and equipment, use of suitable materials (e.g. PTFE/silicone), housing instrumentation separately where possible, and separate facilities for residue versus formulation analyses; contaminants may be acceptable only if they do not interfere with the determination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1 Chemical reagents, adsorbents and general laboratory solvents",
+      "summary": "Warns that chemical reagents, adsorbents and general laboratory solvents can contain or adsorb interfering compounds and recommends purification and use of re‑distilled solvents (with re‑distilled water preferred to deionised water where necessary).",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "reagent purity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.1.5 Contamination of glassware, syringes and gas chromatographic columns can arise from contact with previous  samples  or  extracts.",
+      "summary": "Prescribes cleaning procedures to prevent carryover contamination of glassware, syringes and GC columns (detergent wash, thorough rinsing with clean water then solvent) and requires dedicated glassware for trace analysis that must not be used for other purposes.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.1.6 Pesticide reference standards should always be stored at a suitable temperature in a room separate from the main residue laboratory.",
+      "summary": "Requires pesticide reference standards to be stored at an appropriate temperature in a room separate from the main residue laboratory and forbids storing concentrated analytical standard solutions and sample extracts in the same area.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "standards storage"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.1.7 Apparatus containing polyvinylchloride (PVC) should be regarded as suspect and, if shown to be a source  of  contamination,  should  not  be  allowed  in  the  residue  laboratory.",
+      "summary": "States that apparatus containing PVC or other materials with plasticisers should be treated as potential contamination sources and excluded if implicated, whereas PTFE and silicone rubbers are usually acceptable; recommends glass bottles with ground stoppers for storage, housing analytical instrumentation separately where possible, and notes that contamination importance varies by analytical technique and is acceptable only if non‑interfering.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "contamination control"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.1.8 Residues  and  formulation  analyses  must  have  completely  separate  laboratory  facilities  provided.",
+      "summary": "Mandates completely separate laboratory facilities and workflows for residue analysis and for formulation analyses, with separate sample preparation to prevent cross‑contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "facility separation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "## 4.2 RECEPTION AND STORAGE OF SAMPLES",
+      "summary": "Sets reception, identification, sampling and storage requirements: samples must arrive with complete source and hazard information, receive a unique identification code that accompanies them through analysis, and be processed/sub‑sampled using procedures shown to yield representative analytical portions without changing residue concentrations; provides storage guidance and checks for short‑ and long‑term storage and container integrity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.2.1 Every sample received into the laboratory should be accompanied by complete information on the source of the sample, on the analysis required and on potential hazards associated with the handling of that sample.",
+      "summary": "Requires every received sample to be accompanied by complete information on sample source, required analysis and any handling hazards.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "sample information"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.2.2 On receipt, a sample must immediately be assigned a unique identification code which should accompany it  through all stages of the analysis to the reporting of the results.",
+      "summary": "Requires immediate assignment of a unique identification code to each received sample that must travel with it through all analytical stages, and retention of records plus appropriate disposal review.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "sample identification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.2.3 Sample  processing  and  sub-sampling  should  be  carried  out  using  procedures  that  have  been  demonstrated  to  provide  a  representative  analytical  portion  and  to  have  no  effect  on  the  concentration  of residues present.",
+      "summary": "Requires sample processing and sub‑sampling procedures that have been demonstrated to yield a representative analytical portion and not alter the concentration of residues present.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample processing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.2.4 If samples cannot be analysed immediately but are to be analysed quickly, they should be stored at (1  -  5  °C)...",
+      "summary": "Gives sample storage temperature guidance: short‑term refrigerated storage at 1–5 °C away from sunlight and analysed within days; deep‑frozen samples kept ≤−16 °C until analysis and prolonged storage at approximately −20 °C with stability checks using fortified samples, and refers to FAO/WHO JMPR publications for storage stability information.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "sample storage"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.2.5 When samples  are  to  be  frozen  it  is  recommended  that  analytical  test  portions  be  taken  prior  to freezing ...",
+      "summary": "Recommends taking analytical test portions before freezing to minimise effects of water separation as ice crystals and cautions that the entire test portion must still be used for analysis.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample freezing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.2.6 The  containers  must  not  leak.  Neither  the  containers  used  for  storage  nor  their  caps  or  stoppers should allow migration of the analyte(s) into the storage compartment.",
+      "summary": "Requires storage containers, caps and stoppers to be leak‑proof and to prevent migration of analytes into the storage compartment.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container integrity"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "## 4.3 STANDARD OPERATING PROCEDURES (SOPS)",
+      "summary": "Requires the use of SOPs for all operations, with full working instructions, applicability, expected performance, internal quality control/performance verification requirements, calculation procedures and hazard information, and mandates that any deviations be recorded and authorised by the analyst in charge.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "4.3.1 SOPs should be used for all operations. The SOPs should contain full working instructions as well as  information  on  applicability,  expected  performance,  internal  quality  control  (performance verification) requirements and calculation of results.",
+      "summary": "Specifies that SOPs must include full working instructions, applicability, expected performance, internal QC/performance verification, calculation of results and information on hazards from methods, standards or reagents.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "sop requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "4.3.2 Any deviations from a SOP must be recorded and authorised by the analyst in charge.",
+      "summary": "Requires that any deviation from a standard operating procedure (SOP) be recorded and authorised by the analyst in charge.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "sop deviations"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "## 4.4 VALIDATION OF METHODS 1",
+      "summary": "Provides non‑normative practical principles for validation of pesticide‑residue analytical methods, defines an analytical method and validation, states the analyst must determine the degree of validation needed for the intended purpose, advises that validation generally precedes application but must be followed by ongoing performance verification, recommends proficiency testing where practicable, and requires that uncertainty data incorporate performance verification.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "4.4.1 Guidelines  have  been  published  for  validation  of  analytical  procedures  for  various  purposes.",
+      "summary": "States that published, non‑normative guidelines offer practical principles for validating analytical procedures for pesticide residues and that the analyst must decide and document the extent of validation needed according to the intended use (e.g., MRL compliance versus intake estimation).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method validation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "4.4.2 An analytical method is the series of procedures from receipt of a sample to the production of the final result.",
+      "summary": "Defines an analytical method as the sequence from sample receipt to result and validation as demonstrating fitness for purpose; methods may be in‑house or third‑party and adapted, must be used within instrument calibration ranges, typically validated before routine use but subject to ongoing performance verification, recommends proficiency testing for between‑laboratory checks (noting its limitations), and requires uncertainty estimates to include performance verification data.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method validation",
+        "proficiency testing",
+        "measurement uncertainty"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "4.4.3 Whenever a laboratory undertakes method development and/or method modification, the effects of analytical  variables  should  be  established...",
+      "summary": "Requires that, during method development or modification, the effects of analytical variables be established (e.g., via ruggedness tests) and strict controls applied to factors affecting results—such as sample size, clean‑up performance, reagent and analyte stability, and instrument/separation/detection conditions—to ensure the measured signal is unequivocally related to the analyte.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method development"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "4.4.4 Preference should be given to methods having multi-residue and or multi-matrix applicability.",
+      "summary": "Advises preference for multi‑residue and/or multi‑matrix methods and the use of representative analytes and matrices for validation, instructing that commodities be differentiated sufficiently (but not unnecessarily), that some variants may represent others while others require separate validation, and that method accuracy and precision can vary substantially between species.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "1 This section is based on the recommendations elaborated by an AOAC/FAO/IAEA Consultation ...",
+      "summary": "Reference note stating this section is based on recommendations from an AOAC/FAO/IAEA Consultation (Miskolc, 1999) and citing the source documents for further detail.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "4.4.4.1  Where  experience  shows  similar  performance  of  extraction  and  clean-up  between  broadly  similar commodities/sample  matrices...",
+      "summary": "Permits a simplified validation approach when similar extraction/clean‑up performance is expected across broadly similar commodity matrices by using a representative commodity (from Table 5, classified per the Codex system) to stand for the group.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "commodity classification"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "4.5 PERFORMANCE VERIFICATION",
+      "summary": "Defines the purposes of performance verification: to monitor method performance under actual use, account for inevitable variations (sample composition, instruments, reagents, analysts, environment), and demonstrate the method remains under statistical control with accuracy and uncertainty comparable to validation data, recommending internal QC, concurrent control analyses, and control charts to detect trends.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "4.5.2 Construction and use of control charts",
+      "summary": "Explains construction and use of control charts (e.g., recovery charts) to demonstrate method performance and reproducibility using representative analytes/matrices and a typical within‑lab CV (CVAtyp); warning and action limits for recoveries are Qtyp ± 2*CVAtyp*Q and Qtyp ± 3*CVAtyp*Q respectively, and after ~15–20 additional recovery tests the Qtyp and CVA should be recalculated and a new control chart constructed to reflect long‑term reproducibility.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "4.5.2.5  During the regular use of the method, if the average of the first ≥ 10 recovery tests ...",
+      "summary": "States that if the mean of the first ≥10 recovery tests for an analyte/matrix differs significantly (P=0.05) from the representative mean, the Qtyp and CVtyp are not applicable and new warning and action limits must be calculated using the new mean recovery and measured CV.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "warning limits"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "4.5.2.6  If  performance  verification  data  repeatedly  fall  outside  the  warning  limits ...",
+      "summary": "Requires checking method application conditions, identifying error sources, and implementing corrective actions before continuing use if performance verification data repeatedly fall outside warning limits (allowing roughly a 1‑in‑20 exceedance rate as acceptable).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "corrective action"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "4.5.2.7  If performance verification data are outside the refined action limits ...",
+      "summary": "Mandates repeating the analytical batch (or at least samples with residues ≥0.7 AL for regularly detected analytes or ≥0.5 AL for occasionally detected analytes) if performance verification results fall outside the refined action limits established by control‑chart procedures.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "repeat analysis"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "4.5.2.8  Re-analysis  of  analytical  portions  of  positive  samples  is  another  powerful  way  of  performance verification.",
+      "summary": "Recommends re‑analysis of analytical portions of positive samples to estimate overall within‑laboratory reproducibility (CVLtyp), noting that CVLtyp includes uncertainty from sample processing but will not reveal analyte losses during processing.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reanalysis verification"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "## 4.6 CONFIRMATORY TESTS",
+      "summary": "Sets out confirmatory testing principles for monitoring and enforcement: require confirmatory data before reporting unexpected residues or apparent MRL exceedances, repeat the analysis if only one portion was run, use quantitative and qualitative confirmation as needed (preferably orthogonal techniques such as mass spectrometry), and consider sample history and blanks when selecting confirmations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "4.6.1 When analyses are performed for monitoring or enforcement purposes, it is especially important that confirmatory data are generated ...",
+      "summary": "Emphasises that for monitoring/enforcement confirmatory data must be generated before reporting residues not normally associated with a commodity or where MRLs appear exceeded, that repeat analysis of the same method is a first check, and that absence of detectable residues is supported only by performance verification data.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "confirmatory analysis"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "4.6.2 Confirmatory  tests  may  be  quantitative  and/or  qualitative ...",
+      "summary": "States confirmatory tests may be quantitative and/or qualitative and that both level and identity must be adequately confirmed, especially when residues are at or near the limit of determination where quantification is difficult.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "confirmatory analysis"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "4.6.3 The need for confirmatory tests may depend upon the type of sample or its known history.",
+      "summary": "Explains that the need for confirmation depends on sample type and history—routine residues in a commodity may require only random confirmation of a subset, known applications may need less confirmation, and available blanks should be used to check for interfering substances.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "confirmatory analysis"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "4.6.4 Depending  upon  the  initial  technique  of  determination,  an  alternative  procedure ...",
+      "summary": "Advises that, depending on the initial analytical technique, an alternative detection procedure may be needed to verify quantity and that qualitative identity confirmation should preferably use mass‑spectral data or a combination of techniques based on different physico‑chemical properties.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "confirmation methods"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "4.6.5 The necessary steps to positive  identification  are  a  matter  of  judgement ...",
+      "summary": "States that positive identification is a matter of analyst judgement, requiring choice of methods that minimise interferences and depend on available equipment and expertise, with alternative confirmation procedures listed in Table 6.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "identity confirmation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "## 4.7 MASS SPECTROMETRY",
+      "summary": "Section heading only for mass spectrometry; no substantive content provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "4.7.1 Residue  data  obtained  using  mass  spectrometry  can  represent  the  most  definitive  evidence ...",
+      "summary": "Mass spectrometry (usually coupled with chromatographic separation) is the preferred confirmatory technique for pesticide residues when available, with complete electron‑impact spectra providing the most definitive identification while selected ion monitoring improves sensitivity at the cost of specificity; additional confirmation may be obtained by alternative columns or ionisation, MS/MS or higher resolution, LC‑MS(/MS) provides supporting evidence but is often less definitive and subject to matrix effects requiring standard addition or isotopically labelled standards, and thin‑layer chromatography and bioassay visualisation can offer qualitative confirmation though TLC is limited quantitatively.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "mass spectrometry",
+        "lc confirmation",
+        "tlc confirmation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "(b) Physical reactions",
+      "summary": "Photochemical conversion of a pesticide residue to reproducible products can be used for confirmation provided the standard and fortified extract are treated identically, and where multiple residues complicate interpretation pre‑separation (e.g. TLC, HPLC, column fractionation) is recommended.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "section heading",
+        "sample preparation"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "(c)  Other methods",
+      "summary": "Enzymatic degradation (oxidation, hydrolysis or de‑alkylation) of pesticides yields characteristic conversion products with different chromatographic behaviour that may be used for confirmatory identification when compared with products from standard pesticides.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "other methods",
+        "confirmatory methods"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "4.9 THE CONCEPT OF LOWEST CALIBRATED LEVEL (LCL)",
+      "summary": "Section heading only introducing the concept of Lowest Calibrated Level (LCL); substantive text follows in subsequent paragraphs.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "4.9.1 When the objective of the analysis is to monitor and verify the compliance with MRLs or other ALs...",
+      "summary": "Analytical methods used to verify compliance with MRLs/ALs must reliably measure residues at or around those limits but need not detect residues orders of magnitude lower, and adopting a Lowest Calibrated Level (LCL) can reduce technical difficulty and cost when designing methods.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method sensitivity"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "4.9.2 For active ingredients with agreed MRLs, the LCL can be specified as a fraction of the MRL.",
+      "summary": "The LCL may be specified as a fraction of the MRL with suggested LCL values varying by MRL range (examples given in a table), and when an MRL equals the method's limit of determination the LCL is set at that same level.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reporting limit"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "4.10 EXPRESSION OF RESULTS",
+      "summary": "For regulatory reporting only confirmed results expressed as defined by the MRL should be reported, nulls reported as < LCL, results generally not corrected for recovery unless recovery differs significantly from 100% (if corrected both measured and corrected values and the basis must be reported), the lowest valid value from replicates or the mean of lowest valid values from multiple test portions should be reported, and results should be rounded according to typical precision (generally two significant figures, but one significant figure for values below 0.1).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "results expression",
+        "results reporting"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "Table 1 Summary of parameters to be assessed for method validation",
+      "summary": "Table 1 summarizes method validation parameters (e.g. specificity, analytical range, calibration, LOD/LOQ, reporting limit/LCL, analyte stability) and indicates which validation experiments are required for existing methods, modified methods or new methods and which experiment types may be combined.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "validation table heading",
+        "validation table"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "doc_id": "96cb7fcc-78c9-480e-947f-16812b5eeeda",
+  "title": "GROUP STANDARD FOR CHEESES IN BRINE CXS 208-1999 Adopted in 1999. Amended in 2001, 2010, 2018, 2021, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GROUP STANDARD FOR CHEESES IN BRINE CXS 208-1999 Adopted in 1999. Amended in 2001, 2010, 2018, 2021, 2022.",
+      "summary": "Document title and amendment history for the Group Standard for Cheeses in Brine (CXS 208-1999), listing adoption and amendment years.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Applies to cheeses in brine intended for direct consumption or further processing that conform to the description in Section 2, and notes that individual Codex standards for specific varieties may include more specific provisions.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Describes cheeses in brine as semi‑hard to soft ripened cheeses compliant with the General Standard for Cheese (CXS 283-1978), with white to yellowish body, compact sliceable texture with none to few openings, no actual rind, and ripened/preserved in brine until delivered or prepacked; some varieties may include herbs and spices.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors, specifying raw materials (milk), permitted ingredients (starter cultures, harmless micro-organisms, suitable enzymes, sodium chloride, potable water, and identity herbs/spices) and minimum composition limits (minimum fat in dry matter 40% for both soft and semi‑hard; minimum dry matter 40% soft, 52% semi‑hard).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.1 Raw materials",
+      "summary": "Specifies raw materials as milk and/or products obtained from milk.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Lists permitted ingredients: harmless lactic/flavour‑producing starter cultures and other harmless micro‑organisms, safe and suitable enzymes, sodium chloride, potable water, and herbs and spices when part of the cheese identity.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "permitted ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.3 Composition",
+      "summary": "Defines composition limits in a table: minimum fat in dry matter 40% for both soft and semi‑hard categories, and minimum dry matter 40% for soft and 52% for semi‑hard cheeses.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition table",
+        "fat content",
+        "dry matter"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits only those additive functional classes shown as technologically justified for the specified product categories (the table indicates only certain acidity regulators are justified and acceptable in accordance with Table 3 of the General Standard for Food Additives CXS 192-1995, while other additive classes are not justified).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted classes",
+        "acidity regulators",
+        "additive table",
+        "additive classes",
+        "technological justification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "doc_id": "286fa3dc-9f98-4509-afe0-4e3f6ccdce55",
+  "title": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF LEAD CONTAMINATION IN FOODS CXC 56-2004",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF LEAD CONTAMINATION IN FOODS CXC 56-2004",
+      "summary": "Document title only: Code of Practice for the Prevention and Reduction of Lead Contamination in Foods (CXC 56-2004).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 2004. Revised in 2021.",
+      "summary": "Adoption/revision note: adopted in 2004 and revised in 2021.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1 INTRODUCTION",
+      "summary": "Describes lead as a toxic heavy metal causing neurodevelopmental and other health effects (fetuses, infants, children most sensitive), summarizes multiple exposure routes (food, water, cosmetics, supplements, workplace, soil/air) and many contamination sources for food (industrial emissions, leaded gasoline, contaminated soil, pesticides, plumbing corrosion, lead-soldered cans, packaging, utensils), notes JECFA's recommendation to identify and reduce major dietary sources, and references existing Codex/national maximum levels and the role of good agricultural/manufacturing practices and consumer actions in minimizing lead exposure.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "risk management",
+        "contaminants",
+        "processing"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "hazard overview",
+        "risk reduction",
+        "exposure sources",
+        "contamination sources",
+        "water contamination",
+        "processing contamination",
+        "control measures",
+        "good practices"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. RECOMMENDED PRACTICES  BASED  ON  GOOD  AGRICULTURAL  PRACTICES  (GAP)  AND  GOOD MANUFACTURING PRACTICES (GMP)",
+      "summary": "Introduces recommended GAP/GMP-based practices to prevent and reduce lead contamination across source-directed measures, agricultural practices, drinking-water management, and food-ingredient/processing controls.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Source-directed measures",
+      "summary": "Recommends that national or relevant food control authorities consider implementing source-directed measures as set out in the Code of Practice for Source Directed Measures to Reduce Contamination in Foods with Chemicals (CXC 49-2011).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "source measures heading",
+        "source directed measures"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Agricultural",
+      "summary": "Provides comprehensive agricultural recommendations to reduce lead: eliminate or reduce leaded gasoline in agricultural areas; remove lead sources (e.g., batteries, scrap, lead solder) from farms; test and manage soils and avoid farming or remediate fields with elevated lead; prevent livestock exposure and exclude contaminated animals from milk supply; ensure feeds and fertilizers meet national standards; avoid planting vulnerable crops in contaminated areas and adopt gardening/soil remediation measures; protect irrigation water and drying/transport processes from contamination; and promote farmer awareness and guidance by authorities.",
+      "categories": [
+        "risk management",
+        "equipment",
+        "analysis sampling",
+        "contaminants",
+        "processing",
+        "transport",
+        "training"
+      ],
+      "subcategories": [
+        "agricultural heading",
+        "leaded gasoline",
+        "soil source removal",
+        "farm equipment materials",
+        "soil testing",
+        "livestock exposure",
+        "livestock containment",
+        "feed standards",
+        "dairy holding",
+        "former orchard use",
+        "fertilizer controls",
+        "lead compounds use",
+        "crop selection",
+        "garden crop selection",
+        "irrigation water protection",
+        "drying equipment",
+        "transport protection",
+        "gardening practices",
+        "soil remediation",
+        "farmer awareness"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Drinking water",
+      "summary": "National or local authorities should consider setting allowable lead levels or treatment techniques for drinking water (WHO guideline 0.01 mg/L cited) and water-system administrators should use corrosion-control measures (e.g., pH adjustment), monitor lead during treatment changes, replace problematic lead-containing pipes/fixtures where appropriate, and monitor and mitigate lead in school and childcare water supplies.",
+      "categories": [
+        "scope",
+        "contaminants",
+        "processing",
+        "official control"
+      ],
+      "subcategories": [
+        "drinking water heading",
+        "drinking water limit",
+        "water treatment",
+        "fixture replacement",
+        "school water monitoring"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.4 Food ingredients and processing",
+      "summary": "Food producers and processors should ensure lead in foods and ingredients meets MLs in CXS 193-1995 or national standards (especially for infant foods), or otherwise keep levels as low as reasonably achievable through sourcing, supplier controls and targeted incoming/finished-product testing for high-risk items, remove surface lead by washing/peeling, ensure processing water and facility piping do not add lead, use food-grade metals and avoid lead solder/paint contamination, select or decontaminate filtration aids with lead potential, and use metal detection/X-ray to remove lead shot in game and fish.",
+      "categories": [
+        "scope",
+        "contaminants",
+        "risk management",
+        "analysis sampling",
+        "processing",
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "food ingredients heading",
+        "maximum lead levels",
+        "lead standards",
+        "raw material selection",
+        "incoming testing",
+        "targeted testing",
+        "infant sourcing",
+        "surface removal",
+        "water supply control",
+        "piping inspection",
+        "food contact metals",
+        "equipment repair",
+        "facility contamination",
+        "filtration aids",
+        "hazard detection"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.5 Production and use of packaging and storage products",
+      "summary": "Food processors should avoid lead-soldered cans (use alternatives or mitigation measures if unavoidable), ensure tinplate meets lead limits (ASTM Grade A 0.010% Pb), prohibit lead-based inks/dyes on packaging/exteriors, avoid lead-glazed ceramics and lead foil wine capsules for food use, and national/local authorities should consider setting lead migration/composition standards while producers apply quality-control measures to minimize leaching.",
+      "categories": [
+        "packaging",
+        "contaminants",
+        "labelling",
+        "quality"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "cans and containers",
+        "soldered can controls",
+        "tinplate standard",
+        "printing inks",
+        "packaging exteriors",
+        "ceramic packaging",
+        "wine capsules",
+        "migration standards",
+        "food contact migration",
+        "not for food",
+        "manufacturing quality"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.6 Consumer practices and consideration of certain foods",
+      "summary": "Authorities should educate consumers on lead hazards and prevention (especially for children), advising thorough washing/peeling of produce, sealed storage, avoiding storage/serving in lead-leaching containers, flushing faucets if distribution systems contain lead, proper filter use, discouraging geophagia, cautioning about traditional medicines, and reducing or avoiding consumption of game meat containing lead shot with excision of lead fragments when present.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "consumer practices",
+        "consumer education",
+        "home washing",
+        "home storage",
+        "water use advice",
+        "geophagia warning",
+        "traditional medicines",
+        "game meat advice",
+        "local foods warning"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "doc_id": "908ac3ae-f8aa-4b2c-aa3a-075dbddb0d76",
+  "title": "SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "SCOPE",
+      "summary": "Sets out guidelines providing a framework for implementing quality assurance measures in testing laboratories involved in import/export food control to protect consumers and facilitate fair and safe trade.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "purpose"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "REQUIREMENTS",
+      "summary": "Lists recommended laboratory quality criteria: compliance with ISO/IEC Guide 17025, participation in proficiency testing per the International Harmonized Protocol, use of validated Codex methods where available, implementation of internal quality control per Harmonized Guidelines, and that accreditation bodies comply with ISO/IEC Guide 58.",
+      "categories": [
+        "official control",
+        "quality",
+        "analysis sampling",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "requirements heading",
+        "quality criteria",
+        "testing laboratory criteria",
+        "proficiency testing",
+        "method validation",
+        "internal quality control",
+        "laboratory accreditation"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## GUIDELINES FOR THE",
+      "summary": "Document heading/title indicating the Guidelines for the Assessment of the Competence of Testing Laboratories involved in import and export control of food (CAC/GL 27-1997); not substantive text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "ASSSMENT OF THE COMPETENCE...",
+      "summary": "Title of the Codex guideline CAC/GL 27-1997 on assessing the competence of testing laboratories used in import and export control of food; this is the document title rather than substantive requirements.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "assessment heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    }
+  ]
+}

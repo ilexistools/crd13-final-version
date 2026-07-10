@@ -1,0 +1,492 @@
+{
+  "doc_id": "27f25a73-27d9-42cf-8fa8-c99a89937b13",
+  "title": "STANDARD FOR OATS CXS 201-1995 Adopted in 1995. Amended in 2019.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR OATS CXS 201-1995 Adopted in 1995. Amended in 2019.",
+      "summary": "Document title and status: Codex Standard for Oats (CXS 201-1995), adopted 1995 and amended 2019 (informational header, not a substantive requirement).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to oat grains (Avena sativa and Avena byzantina) intended for processing for direct human consumption and explicitly excludes Avena nuda (hulless oats).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines oats as the grains of Avena sativa and Avena byzantina.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "oats definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets out essential composition and quality factors for oats, including general requirements for safety and absence of abnormal sensory attributes or pests, and specific limits such as maximum moisture 14.0% m/m, ergot (Claviceps purpurea) 0.05% m/m, filth 0.1% m/m, other organic extraneous matter 1.5% m/m, and inorganic extraneous matter 0.5% m/m, plus prohibition on toxic/noxious seeds that may hazard health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.1 Quality factors - general",
+      "summary": "General quality requirements: oats must be safe and suitable for processing for human consumption and free from abnormal flavours, odours, living insects and mites.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1.1 Oats shall be safe and suitable for processing for human consumption.",
+      "summary": "Mandatory requirement that oats shall be safe and suitable for processing for human consumption.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "safety suitability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.2 Oats shall be free from abnormal flavours, odours, living insects and mites.",
+      "summary": "Mandatory requirement that oats shall be free from abnormal flavours, odours, living insects and mites.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "sensory purity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 Quality and safety factors - specific",
+      "summary": "Lists specific quality and safety factors for oats, specifying maximum limits and prohibitions including moisture 14.0% m/m max, ergot 0.05% m/m max, prohibition of toxic/noxious seeds harmful to health, filth 0.1% m/m max, other organic extraneous matter 1.5% m/m max, and inorganic extraneous matter 0.5% m/m max.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2.1 Moisture content 14.0% m/m max",
+      "summary": "Sets maximum moisture content at 14.0% m/m and notes that lower moisture limits may be required for certain destinations depending on climate and transport/storage duration.",
+      "categories": [
+        "contaminants",
+        "storage"
+      ],
+      "subcategories": [
+        "moisture limit",
+        "destination moisture"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.2 Ergot",
+      "summary": "Specifies a maximum limit for ergot (sclerotia of Claviceps purpurea) of 0.05% m/m.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "ergot heading",
+        "ergot limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.3 Toxic or noxious seeds",
+      "summary": "Requires products to be free from specified toxic or noxious seeds (e.g., Crotalaria spp., Agrostemma githago, Ricinus communis, Datura spp.) in amounts that may present a hazard to human health.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "toxic seeds heading",
+        "toxic seeds hazard",
+        "harmful seeds list"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.4 Filth",
+      "summary": "Limits impurities of animal origin (including dead insects) to a maximum of 0.1% m/m.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "filth heading",
+        "animal filth limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.5 Other organic extraneous matter 1.5% m/m max",
+      "summary": "Sets maximum other organic extraneous matter at 1.5% m/m and defines it as organic components other than edible cereal grains (e.g., foreign seeds, stems).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "organic extraneous heading",
+        "organic extraneous definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.6 Inorganic extraneous matter 0.5% m/m max",
+      "summary": "Sets maximum inorganic extraneous matter at 0.5% m/m and defines it as inorganic components such as stones and dust.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "inorganic extraneous heading",
+        "inorganic extraneous definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4. CONTAMINANTS",
+      "summary": "Contaminants and hygiene: requires oats be free from heavy metals in amounts that may hazard health and comply with Codex pesticide MRLs, and recommends preparation/handling per Codex General Principles of Food Hygiene with cleaned product free from objectionable matter and, when tested, free from microorganisms, parasites or microbial-derived substances in amounts that may represent a hazard to health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.1 Heavy metals",
+      "summary": "Requires oats to be free from heavy metals in amounts which may represent a hazard to human health.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "heavy metals heading",
+        "heavy metals limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.2 Pesticide residues",
+      "summary": "Oats must comply with the Codex Alimentarius Commission's maximum residue limits for pesticide residues established for this commodity.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues heading",
+        "pesticide residues limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5. HYGIENE",
+      "summary": "Hygiene provisions recommend following the Codex General Principles of Food Hygiene and relevant Codes of Practice; cleaned oats should be free from objectionable matter and, when sampled and examined after cleaning and sorting and before further processing, must not contain microorganisms, parasites, or microbial-origin substances (including fungi) in amounts that may represent a hazard to health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.1 It is recommended that the product covered by the provisions of this Standard be prepared and handled in accordance  with  the  appropriate  sections  of  the General  Principles  of  Food  Hygiene (CXC  1-1969),  and other  Codes of Practice recommended  by the Codex Alimentarius Commission which are relevant to this commodity.",
+      "summary": "Recommendation that the product be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex Codes of Practice.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "gmp recommendation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.2 To the extent possible in good manufacturing practice, the cleaned product shall be free from objectionable matter.",
+      "summary": "To the extent possible under good manufacturing practice, the cleaned product shall be free from objectionable matter.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "objectionable matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.3 When tested by appropriate methods of sampling and examination, the product, after cleaning and sorting, and before further processing:",
+      "summary": "After cleaning and sorting and before further processing, the product, when tested by appropriate sampling and examination methods, shall be free from microorganisms, parasites, and substances originating from microorganisms (including fungi) in amounts that may represent a hazard to health.",
+      "categories": [
+        "analysis sampling",
+        "hygiene"
+      ],
+      "subcategories": [
+        "sampling and examination",
+        "microbiological safety",
+        "parasite safety",
+        "microbial toxins"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6. PACKAGING",
+      "summary": "Packaging must safeguard the hygienic, nutritional, technological and organoleptic qualities of oats; containers and materials must be safe, suitable and not impart toxic substances or undesirable odour/flavour, and sacks (if used) must be clean, sturdy and strongly sewn or sealed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.1 Oats  shall  be  packaged  in  containers  which  will  safeguard  the  hygienic,  nutritional,  technological,  and organoleptic qualities of the product.",
+      "summary": "Oats shall be packaged in containers that preserve the product's hygienic, nutritional, technological and organoleptic qualities.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "protective packaging"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.2 The containers, including packaging material, shall be made of substances which are safe and suitable for their  intended  use.  They  should  not  impart  any  toxic  substance  or  undesirable  odour  or  flavour  to  the product.",
+      "summary": "Packaging materials must be made of substances safe and suitable for their intended use and must not impart toxic substances or undesirable odour or flavour to the product.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "package materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.3 When the product is packaged in sacks, these must be clean, sturdy, and strongly sewn or sealed.",
+      "summary": "When packaged in sacks, the sacks must be clean, sturdy, and strongly sewn or sealed.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "sack requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7. LABELLING",
+      "summary": "In addition to the General Standard for Labelling of Prepackaged Foods, this standard requires the product name 'oats' on labels and specifies non-retail container labelling rules, including that the product name, lot identification and manufacturer/packer name and address appear on the container (these may be replaced by an identification mark if clearly linked to accompanying documents).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.1 Name of the product",
+      "summary": "The name of the product to be shown on the label shall be 'oats'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.2 Labelling of non-retail containers",
+      "summary": "For non-retail containers, information may be on the container or accompanying documents, but the product name, lot identification and the name and address of the manufacturer/packer must appear on the container, although lot identification and name/address may be replaced by an identification mark if it is clearly identifiable with the accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail information"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Methods of analysis and sampling for checking compliance with this standard shall be those contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "reference methods"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "ANNEX",
+      "summary": "Annex provides factor limits and associated methods for oats (and advises users to specify the appropriate limit/method when multiple options exist), including test weight at least 46 kg/hl per ISO 7971-1986; hull-less and broken kernels ≤5% m/m; edible grains other than oats ≤3% m/m; damaged kernels ≤3% m/m; wild oats ≤0.2% m/m; insect-bored kernels ≤0.5% m/m; and a to-be-decided limit for blemished grains.",
+      "categories": [
+        "other",
+        "analysis sampling",
+        "classification",
+        "composition",
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "annex heading",
+        "method guidance",
+        "table heading",
+        "table separator",
+        "test weight",
+        "kernel defects",
+        "other grains",
+        "damaged kernels",
+        "wild oats",
+        "insect damage",
+        "blemished grains"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

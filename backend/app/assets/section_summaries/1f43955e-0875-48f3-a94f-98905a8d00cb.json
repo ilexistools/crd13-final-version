@@ -1,0 +1,411 @@
+{
+  "doc_id": "1f43955e-0875-48f3-a94f-98905a8d00cb",
+  "title": "1. INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. INTRODUCTION",
+      "summary": "Introduction setting the public health context: the document promotes establishing microbiological criteria based on scientific analysis and, where possible, quantitative risk assessment (linking metrics such as FSO/PO/PC to public health outcomes), emphasizes validated preventive control measures over sole reliance on end-product testing, and explains Codex's role and relation to other guidance documents.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "risk management",
+        "official control",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "risk context",
+        "scientific basis",
+        "control measures",
+        "scope exclusion",
+        "stringency level",
+        "national adoption",
+        "related documents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. SCOPE AND DEFINITIONS",
+      "summary": "Scope and Definitions: provides a framework for governments and food business operators on establishing/applying microbiological criteria for food safety (excluding environmental monitoring), lists applicable agents (microorganisms, toxins, markers) and introduces key definitions related to microbiological criteria and risk management metrics.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 SCOPE",
+      "summary": "Scope statement clarifying the guidelines are for national authorities and food businesses to establish microbiological criteria for food safety and hygiene, excluding food-processing environmental monitoring, and applicable to bacteria, viruses, moulds, protozoa, helminths, toxins/metabolites and relevant markers.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "bullet item"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 DEFINITIONS",
+      "summary": "Definitions section defining a microbiological criterion as a risk-management metric indicating acceptability of foods or performance of processes/control systems based on sampling/testing, and listing other relevant terms (ALOP, FSO, PO, PC, lot, sample, validation, verification, sampling plan types).",
+      "categories": [
+        "definition",
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "criterion definition",
+        "revision note",
+        "additional definitions",
+        "alop definition",
+        "fso definition",
+        "po definition",
+        "pc definition",
+        "lot definition",
+        "sample definition",
+        "control system definition",
+        "validation definition",
+        "verification definition",
+        "attributes plans",
+        "variables plans"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. GENERAL PRINCIPLES",
+      "summary": "General principles requiring that microbiological criteria be science-based, practical and proportionate to protect public health and fair trade, have a clearly stated purpose, consider microorganism behaviour and consumer use, and be periodically reviewed for relevance.",
+      "categories": [
+        "scope",
+        "risk management",
+        "documentation",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "general principles heading",
+        "consumer protection",
+        "practical feasibility",
+        "purpose statement",
+        "scientific basis",
+        "microbe behavior",
+        "consumer use",
+        "intended purpose",
+        "periodic review"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4. ESTABLISHMENT AND APPLICATION OF MICROBIOLOGICAL CRITERIA",
+      "summary": "Overview of the establishment and application of microbiological criteria, providing structured guidance on approaches, purposes, relationship to ALOP/FSO/PO, required components (limits, sampling plans, methods), and other considerations for implementation and verification.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4.1 GENERAL CONSIDERATIONS",
+      "summary": "General considerations: selection of approach (empirical GHP, HACCP, or risk assessment) should align with risk-management objectives and available data, criteria are set at a specific point in the food chain, and the need for a criterion should be justified by evidence or assessment.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "general considerations heading",
+        "approach selection",
+        "microbial criterion",
+        "criteria justification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.2 PURPOSE",
+      "summary": "Purpose: microbiological criteria may be established to accept/reject lots, verify performance of food safety control systems or contractual acceptance criteria, confirm meeting of POs/FSOs, inform best-practice levels, and detect unforeseen control failures.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "criteria purpose",
+        "lot acceptance",
+        "system verification",
+        "buyer agreement verification",
+        "control measure verification",
+        "best practice guidance",
+        "reference note",
+        "risk metric"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.5 SAMPLING PLAN",
+      "summary": "Sampling-plan guidance explains variables versus attributes plans (most lot-acceptance plans are attributes), requires probability-based sampling, mandates using the stated number/size of analytical units for regulatory compliance, and sets rules for when and how sampling plans may be tightened or changed.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plan heading",
+        "sampling plan guidance",
+        "sampling plan types",
+        "attributes sampling",
+        "sampling plan rules"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.6 MICROBIOLOGICAL AND/OR OTHER LIMITS",
+      "summary": "Microbiological limits: describes limits m and M within two- and three-class attributes plans (m separates acceptable from marginal; M denotes non-conforming), requires accounting for expected changes after the sampling point, and specifying how limits apply (per unit, average, etc.), with alternatives available for linking to other metrics or ALOP.",
+      "categories": [
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "limit heading",
+        "microbial limits",
+        "limit parameters",
+        "limit application",
+        "two-class limits",
+        "three-class limits",
+        "alternative limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.7 ANALYTICAL METHODS",
+      "summary": "Analytical methods must be fit for purpose and validated (e.g. LOD, repeatability, reproducibility, inclusivity/exclusivity) using accepted protocols; methods should be reasonable in complexity and cost, and compositing/pooling affects test outcomes (not appropriate for enumeration or three-class plans but may be considered for presence/absence two-class plans if equivalence to individual testing is maintained).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "method selection",
+        "method practicality",
+        "sample compositing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.8 STATISTICAL PERFORMANCE",
+      "summary": "Statistical performance: the operating characteristic (OC) curve is used to illustrate a sampling plan's probability of acceptance versus proportion of non-conforming units, and web-based tools (e.g. FAO/WHO JEMRA) can be used to evaluate sampling plans.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "performance heading",
+        "operating characteristic",
+        "evaluation tools",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.9 MOVING WINDOW",
+      "summary": "Moving-window approach: collect a defined number (n) of recent sample results and compare against limits m/M with acceptance number c as the window advances, enabling continuous verification and timely corrective action when more than c of n exceed m or when M is exceeded; this is distinct from trend analysis.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "moving window heading",
+        "moving window method",
+        "continuous verification",
+        "corrective action",
+        "trend distinction"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.10 TREND ANALYSIS",
+      "summary": "Trend analysis is a procedure to detect changes in patterns of observations over relatively long (often not predefined) periods — including microbiological test results against criteria — to identify gradual or sudden losses of control and can be visualized (e.g., graphically) to reveal such patterns.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "trend analysis heading",
+        "trend analysis"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.11 ACTION TO BE TAKEN WHEN THE MICROBIOLOGICAL CRITERION IS NOT MET",
+      "summary": "When a microbiological criterion is not met, corrective actions should be taken based on risk to the consumer, point in the food chain, product and history (including re-evaluation of food safety controls, GHP and operational procedures), and for pathogen non-conformance actions should include appropriate product containment and disposition (e.g., further processing, diversion, withdrawal/recall, rework, rejection or destruction) plus further investigation and possible increased sampling, inspection, audits or official sanctions.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "action on nonconformance",
+        "corrective actions",
+        "product disposition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.12 DOCUMENTATION AND RECORD KEEPING",
+      "summary": "Documentation and records are essential to support microbiological criteria (including underlying scientific evidence, application/performance and test reports with sample identification, sampling plan, analytical method, results and interpretation), reporting may be required by national governments, and records must document all non-conformances and corrective actions taken.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "documentation heading",
+        "records and reports",
+        "nonconformance records"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. REVIEW OF MICROBIOLOGICAL CRITERIA FOR FOODS",
+      "summary": "Revision of microbiological criteria is part of Microbiological Risk Management and should be considered in response to changes in scientific knowledge, pathogen taxonomy/prevalence, disease incidence, microorganism traits, test methods, food/processing, control systems, at-risk populations, consumer behaviour, trend analysis or assurance needs; reviews may be initiated by governments or food business operators (and proposed by Codex members), and should result in retention, adjustment or revocation as appropriate while using the risk management framework to continuously refine criteria to better link them to public health outcomes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "49. A review of the microbiological criterion may be initiated and carried out by national governments and/or food business operators. Codex members may propose review of microbiological criteria in Codex texts.",
+      "summary": "A review of a microbiological criterion may be initiated and carried out by national governments and/or food business operators, and Codex members may propose reviews of microbiological criteria in Codex texts.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "criterion review"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "50. A review will result in retention, adjustment or revocation of a microbiological criterion, as appropriate.",
+      "summary": "A review of a microbiological criterion will result, as appropriate, in retention, adjustment or revocation of the criterion.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "criterion revision"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "51. The risk management framework should be used to continuously improve, refine and adjust the relevant components of the microbiological criterion in relation to their effectiveness, to improved scientific knowledge and the increasing knowledge of public health risk and related food safety risk management metrics (FSO, PO and PC). The goal should ultimately be to achieve a more quantifiable estimation of the linkages between microbiological criteria, other metrics and public health outcomes.",
+      "summary": "The risk management framework should be used to continuously improve, refine and adjust components of microbiological criteria in light of effectiveness and advancing scientific and public health knowledge, with the aim of achieving more quantifiable linkages between microbiological criteria, risk-management metrics (FSO, PO, PC) and public health outcomes.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "continuous improvement"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "52. When microbiological criteria have been developed to address specific risk outcomes they should be reviewed against those outcomes and, if shown not to be effective, they should be adjusted or revoked.",
+      "summary": "Microbiological criteria developed to address specific risk outcomes should be reviewed against those outcomes and adjusted or revoked if they are not effective.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "outcome review"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

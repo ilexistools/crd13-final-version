@@ -1,0 +1,479 @@
+{
+  "doc_id": "e4cd53a6-5416-4d90-bf81-02d07c6555d2",
+  "title": "STANDARD FOR KIMCHI CXS 223-2001 Adopted in 2001. Amended in 2017, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR KIMCHI CXS 223-2001 Adopted in 2001. Amended in 2017, 2022.",
+      "summary": "Document title identifying the Standard for Kimchi (CXS 223-2001), adopted 2001 and amended in 2017 and 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendment",
+      "summary": "Notification that, following the Forty‑fifth Session of the Codex Alimentarius Commission (Dec 2022), amendments were made to Section 8.2 (Labelling of non‑retail containers).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope stating the standard applies to kimchi prepared with Chinese cabbage as the predominant ingredient and other trimmed, cut, salted and seasoned vegetables that are fermented.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines kimchi as a product prepared from Chinese cabbage (Brassica pekinensis) trimmed, salted, washed, drained and possibly cut, seasoned mainly with red pepper, garlic, ginger, edible alliums and radish, and fermented before or after packaging to produce lactic acid; the product may be presented whole, in halves, quarters, or as slices/chips (1–6 cm).",
+      "categories": [
+        "composition",
+        "definition",
+        "processing",
+        "presentation"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definition heading",
+        "product definition",
+        "ingredient preparation",
+        "seasoning composition",
+        "fermentation process",
+        "styles heading",
+        "presentation styles",
+        "whole style",
+        "halves style",
+        "quarters style",
+        "slices style"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.2.1 Other quality criteria",
+      "summary": "Specifies other quality criteria for kimchi: red color from red pepper, a hot and salty (possibly sour) taste, and a reasonably firm, crisp and chewy texture.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality criteria heading",
+        "colour requirement",
+        "taste requirement",
+        "texture requirement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Lists permitted food additives for kimchi with maximum levels 'limited by good manufacturing practices (GMP)', including acidity regulators (acetic, lactic, citric), flavour enhancers (INS 621, 627, 631), natural/synthetic flavourings, texturizer sorbitol (INS 420) and thickeners/stabilizers (carrageenan INS 407, xanthan gum INS 415).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4.1 Acidity regulators",
+      "summary": "Specifies permitted acidity regulators for kimchi—acetic acid (INS 269), lactic acid (INS 270) and citric acid (INS 330)—with maximum levels limited by GMP.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "acidity regulators heading",
+        "table header",
+        "table separator",
+        "acidity regulator"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.2 Flavour enhancers",
+      "summary": "Table of flavour enhancers listing INS 621 (monosodium L‑glutamate), 627 (disodium 5'-guanylate) and 631 (disodium 5'-inosinate) with maximum levels specified as 'limited by GMP'.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.2 Monosodium L-glutamate",
+      "summary": "Monosodium L‑glutamate (INS 621) is permitted as a flavour enhancer with its maximum level 'limited by GMP'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavour enhancer"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.2 Disodium 5'-guanylate",
+      "summary": "Disodium 5'-guanylate (INS 627) is permitted as a flavour enhancer with its maximum level 'limited by GMP'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavour enhancer"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.2 Disodium 5'-inosinate",
+      "summary": "Disodium 5'-inosinate (INS 631) is permitted as a flavour enhancer with its maximum level 'limited by GMP'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavour enhancer"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.3 Flavourings",
+      "summary": "Table entry stating that natural and synthetic flavourings are permitted and their use levels are 'limited by GMP'.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.3 Natural and synthetic flavourings",
+      "summary": "Natural and synthetic flavourings are allowed with maximum levels 'limited by GMP'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.3 Limited by GMP",
+      "summary": "Specifies that natural and synthetic flavourings are subject to maximum use levels 'limited by GMP'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.4 Texturizers",
+      "summary": "Table of texturizers listing sorbitol (INS 420) with maximum level 'limited by GMP'.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.4 Sorbitol",
+      "summary": "Sorbitol (INS 420) is permitted as a texturizer with its maximum level 'limited by GMP'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "sweetener"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.5 Thickening and stabilizing agents",
+      "summary": "Table of thickening and stabilizing agents listing carrageenan (INS 407, including furcellaran) and xanthan gum (INS 415) with maximum levels 'limited by GMP'.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.5 Carrageenan (including furcellaran)",
+      "summary": "Carrageenan (INS 407, including furcellaran) is permitted as a thickening/stabilizing agent with its maximum level 'limited by GMP'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "thickener"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.5 Xanthan gum",
+      "summary": "Xanthan gum (INS 415) is permitted as a thickening/stabilizing agent with its maximum level 'limited by GMP'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "thickener"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5. CONTAMINANTS",
+      "summary": "The product must comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant compliance",
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6. HYGIENE",
+      "summary": "It is recommended that the product be prepared and handled according to the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex texts, and that it comply with any microbiological criteria established per CXG 21-1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1 It is recommended that the product covered by the provisions of this standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex texts such as codes of hygienic practice and codes of practice.",
+      "summary": "Recommendation that the product be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex codes of practice.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene recommendation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.2 The product should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "summary": "The product should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Weights and measures section includes a fill-of-container requirement that the drained weight of the final product must be not less than 80% of the indicated weight, calculated on the basis of the weight of distilled water at 20 °C that the sealed container will hold when completely filled.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.1 Fill of container",
+      "summary": "Fill-of-container provisions state a minimum drained weight requirement of not less than 80% of the indicated weight, calculated as the weight of distilled water at 20 °C the sealed container holds when full.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.1.1 Minimum drained weight",
+      "summary": "Minimum drained weight requirement: the drained weight of the final product must be at least 80% of the indicated weight, calculated on the basis of the weight of distilled water at 20 °C that the sealed container will hold when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "drained weight heading",
+        "minimum drained weight"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8. LABELLING",
+      "summary": "Labelling must follow the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), the product name shall be 'Kimchi' with style indicated in close proximity to the name, and labelling of non-retail containers should follow CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.1 Name of the product",
+      "summary": "Mandatory product name is \"Kimchi\" and the product style must be indicated in close proximity to that name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Labelling requirements for non-retail containers must follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Methods of analysis and sampling for compliance with this standard are those in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis sampling heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "doc_id": "97e825c9-1060-4fd5-b58b-145d272ac7e4",
+  "title": "SECTION 1 - SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "SECTION 1 - SCOPE",
+      "summary": "Defines scope: provides principles to assist competent authorities in using traceability/product tracing within food inspection and certification systems and should be read with relevant Codex, IPPC and OIE texts; its purpose is to support consumer protection against foodborne hazards and deceptive marketing and to facilitate trade through accurate product description.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION 2 - DEFINITIONS",
+      "summary": "Defines key terms for food inspection and certification systems: Inspection as examination of food/systems including in-process and finished-product testing; Certification as written assurance by official or recognized bodies based on inspection/auditing activities; Equivalence as different inspection/certification systems' capability to meet the same objectives; and Traceability/product tracing as the ability to follow a food through specified production, processing and distribution stages.",
+      "categories": [
+        "definition",
+        "documentation"
+      ],
+      "subcategories": [
+        "definition heading",
+        "inspection definition",
+        "certification definition",
+        "equivalence definition",
+        "traceability definition",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION 3 - PRINCIPLES",
+      "summary": "Sets principles for using traceability/product tracing by competent authorities within food inspection and certification systems, covering context and rationale (it is one tool, may improve effectiveness/efficiency but does not alone ensure food safety and can aid recalls and protection against deceptive marketing), and design/application requirements (may apply to specified chain stages, must identify one step back and forward, be transparent, consider developing countries, not be more trade-restrictive than necessary, be practical/feasible/economically viable, and be applied case-by-case based on assessed risks).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "Context",
+      "summary": "States that traceability/product tracing is one of several tools available to competent authorities, that importing countries should recognise systems without traceability may achieve equivalent outcomes, and that exporters should not be required to replicate the importing country's traceability tool.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "context heading",
+        "tool use",
+        "equivalence outcome",
+        "nonmandatory replication"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "Rationale",
+      "summary": "Explains the rationale that traceability/product tracing can improve the effectiveness and efficiency of inspection and certification actions and support food safety measures (e.g., targeted recalls) and protection against deceptive marketing, but does not by itself improve food safety and must be justified with clearly described purpose, objectives and scope.",
+      "categories": [
+        "other",
+        "risk management",
+        "labelling",
+        "documentation"
+      ],
+      "subcategories": [
+        "rationale heading",
+        "effectiveness efficiency",
+        "food safety support",
+        "deceptive marketing",
+        "reference note",
+        "recall support",
+        "product description",
+        "system description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "7 Design",
+      "summary": "Specifies design requirements: the traceability tool may cover all or specified stages of the food chain, must be able to identify one step back and one step forward at specified stages as appropriate, and its objectives, scope and procedures must be transparent and available to exporting countries' competent authorities on request.",
+      "categories": [
+        "other",
+        "scope",
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "design heading",
+        "food chain stages",
+        "one step traceability",
+        "transparency availability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "8 Application",
+      "summary": "Sets application criteria: take account of developing countries' capabilities and consider assistance (longer timeframes, design flexibility, technical help) if exporters cannot meet importing countries' objectives; ensure measures are no more trade-restrictive than necessary, practical, technically and economically feasible, risk-based, and implemented on a case-by-case basis.",
+      "categories": [
+        "other",
+        "scope",
+        "risk management",
+        "documentation",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "application heading",
+        "developing country",
+        "technical assistance",
+        "reference note",
+        "trade restrictiveness",
+        "practical feasibility",
+        "risk consideration",
+        "case by case"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,909 @@
+{
+  "doc_id": "2a3e3e8b-74ce-48f0-b797-77dd000448d7",
+  "title": "GUIDELINES ON NUTRITION LABELLING CXG 2-1985",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON NUTRITION LABELLING CXG 2-1985",
+      "summary": "Non‑substantive administrative note listing the Guidelines on Nutrition Labelling (CXG 2‑1985) adoption, revisions and amendments (1985 adoption; multiple revisions 1993–2021) and annex adoption dates.",
+      "categories": [
+        "labelling",
+        "documentation"
+      ],
+      "subcategories": [
+        "guidelines heading",
+        "adoption history",
+        "annex adoption"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 PURPOSE OF THE GUIDELINES",
+      "summary": "The Guidelines aim to ensure nutrition labelling effectively informs consumers to make wise food choices, conveys nutrient content, encourages formulation aligned with public health, allows supplementary nutrition information, prevents false or misleading nutrition information, and prohibits nutrition claims without nutrition labelling.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "PRINCIPLES FOR NUTRITION LABELLING",
+      "summary": "Principles: nutrient declaration should give a suitable profile of nutritionally important components without implying precise individual dietary requirements; supplementary nutrition information content will vary by country and target groups; and nutrition labelling should not imply a labelled food is necessarily nutritionally superior to an unlabelled one.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "A.  Nutrient declaration",
+      "summary": "Nutrient declaration should provide consumers with a suitable profile of nutritionally important substances in the food and must not suggest exact quantitative knowledge of individual dietary requirements.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nutrition declaration heading",
+        "nutrient profile statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "B.  Supplementary nutrition information",
+      "summary": "Supplementary nutrition information content is left to national educational policy and the needs of specific target population groups and may therefore vary between and within countries.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "supplementary info heading",
+        "supplementary info guidance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "C.  Nutrition labelling",
+      "summary": "Nutrition labelling must not deliberately imply that a food carrying such labelling has a nutritional advantage over a food that is not so labelled.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nutrition labelling heading",
+        "nutrition claim guidance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "1. S COPE",
+      "summary": "These Guidelines set out recommended procedures for nutrition labelling and apply to the nutrition labelling of all foods, with more detailed provisions possible for foods for special dietary uses.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2. DEFINITIONS",
+      "summary": "Defines key terms for the Guidelines including 'nutrition labelling' and its two components (nutrient declaration and supplementary information), 'nutrition claim' (with exclusions), 'nutrient', Nutrient Reference Values (NRVs‑R and NRVs‑NCD), and technical definitions for sugars, dietary fibre, polyunsaturated and trans fatty acids and related criteria.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition intro",
+        "nutrition labelling definition",
+        "component definition",
+        "component list item",
+        "nutrient declaration definition",
+        "nutrition claim definition",
+        "claim exclusions",
+        "nutrient definition",
+        "nrv definition",
+        "nrv requirements",
+        "nrv ncd",
+        "sugars definition",
+        "dietary fibre definition",
+        "carbohydrate polymer",
+        "fatty acid definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 3. NUTRIENT DECLARATION",
+      "summary": "Nutrient declaration provisions: declaration is mandatory for prepackaged foods bearing nutrition or health claims and generally for other prepackaged foods except where national circumstances justify exemptions; mandatory listings include energy, protein, available carbohydrate, fat, saturated fat, sodium and total sugars plus any nutrients tied to claims or national requirements, while calculation methods (energy conversion factors and protein formula) and numeric presentation requirements (per 100 g/100 ml and optional per serving) and use of NRVs for presentation are specified.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 3.1 Application of nutrient declaration",
+      "summary": "Nutrient declaration is mandatory for all prepackaged foods with nutrition or health claims and should be mandatory for other prepackaged foods except where national circumstances do not support it, with possible exemptions for nutritionally insignificant foods or small packages.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nutrient declaration",
+        "mandatory declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 3.2 Listing of nutrients",
+      "summary": "Where nutrient declaration applies, mandatory items include energy and amounts of protein, available carbohydrate, fat, saturated fat, sodium and total sugars, plus any nutrient linked to a nutrition/health claim or required by national legislation; vitamins and minerals may be listed per criteria and Codex standard labelling provisions take precedence where applicable.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2 3.2.2 When a voluntary declaration of specific nutrient, in addition to those listed in Section 3.2.1, is applied, national legislation may require the mandatory declaration of the amount of any other nutrients considered relevant for maintaining a good nutritional status.",
+      "summary": "If a voluntary declaration of additional specific nutrients is made, national legislation may require mandatory declaration of those nutrients deemed relevant for maintaining good nutritional status.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "voluntary nutrient"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.3 Where a specific nutrition or health claim is applied, then the declaration of the amount of any other nutrient considered relevant for maintaining a good nutritional status as required by national legislation or national dietary guidelines should be mandatory.",
+      "summary": "When a specific nutrition or health claim is made, the declaration of amounts of any other nutrients considered relevant to maintaining good nutritional status, as required by national legislation or dietary guidelines, must be mandatory.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "claim-related nutrient"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.4 Where a claim is made regarding the amount and/or the type of carbohydrate, the amount of total sugars should  be  listed  in  addition  to  the  requirements  in  Section  3.2.1.  The  amounts  of  starch  and/or  other carbohydrate constituent(s) may also be listed. Where a claim is made regarding the dietary fibre content, the amount of dietary fibre should be declared.",
+      "summary": "If a claim concerns the amount or type of carbohydrate, total sugars must be listed in addition to the core declaration and starch or other carbohydrate constituents may also be listed; if a claim concerns dietary fibre, the amount of dietary fibre must be declared.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "carbohydrate declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.5 Where a claim is made regarding the amount and/or type of fatty acids or the amount of cholesterol, the amounts of saturated fatty acids, monounsaturated fatty acids and polyunsaturated fatty acids and cholesterol should be declared, and the amount of trans fatty acid may be required according to national legislation, in addition to the requirements of Section 3.2.1 and in accordance with Section 3.4.7.",
+      "summary": "If a claim relates to amounts or types of fatty acids or cholesterol, amounts of saturated, monounsaturated and polyunsaturated fatty acids and cholesterol should be declared, and trans fatty acid content may be required according to national legislation in addition to the core nutrient declaration.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fat declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.6 In addition to the mandatory declaration under 3.2.1, 3.2.3 and 3.2.4 vitamins and minerals may be listed in accordance with the following criteria:",
+      "summary": "Vitamins and minerals may be declared in addition to mandatory items only for nutrients with established recommended intakes or of national nutritional importance, and vitamins/minerals present at less than 5% of the NRV (or official guideline) per 100 g/100 ml or per labelled serving should not be declared.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "vitamin mineral list",
+        "vitamin mineral criteria",
+        "vitamin mineral threshold"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.7 In the case where a product is subject to labelling requirements of a Codex standard, the provisions for nutrient declaration  set  out  in  that  standard  should  take  precedence  over  but  not  conflict  with  the  provisions  of Sections 3.2.1 to 3.2.6 of these Guidelines.",
+      "summary": "Where a product is covered by a Codex standard, that standard's nutrient-declaration provisions take precedence over Sections 3.2.1–3.2.6 of these Guidelines, provided they do not conflict with those provisions.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "standard precedence"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "## 3.3 Calculation of nutrients",
+      "summary": "Provides methods to calculate nutrients: specifies energy conversion factors (carbohydrate 4 kcal/g, protein 4 kcal/g, fat 9 kcal/g, alcohol 7 kcal/g, organic acid 3 kcal/g) and prescribes protein = Total Kjeldahl Nitrogen × 6.25 unless a different factor is given by a Codex standard or Codex method of analysis.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## 3.3.1 Calculation of energy",
+      "summary": "Specifies energy conversion factors for labelling: carbohydrates and protein 4 kcal/g (17 kJ/g), fat 9 kcal/g (37 kJ/g), alcohol 7 kcal/g (29 kJ/g), and organic acids 3 kcal/g (13 kJ/g).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "energy calculation",
+        "energy factors"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "## 3.4 Presentation of nutrient content",
+      "summary": "Sets presentation requirements for nutrient content: numerical declaration (tabular preferred), energy in kJ and kcal per 100 g/100 ml or per package (or per serving if portions stated), protein/carbohydrate/fat in g per 100 g/100 ml or package (or per serving if portions stated), vitamins/minerals in metric units and/or %NRV per 100 g/100 ml or package (or per serving if portions stated), allows %NRV for protein/additional nutrients, and provides NRVs-R and NRVs-NCD (including conversion factors and example intake limits such as saturated fat and sodium) for the general population >36 months.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.4 The presence of available carbohydrates should be declared on the label as 'carbohydrates'. Where the type of carbohydrate is declared, this declaration should follow immediately the declaration of the total carbohydrate content in the following format:",
+      "summary": "Requires declaration of available carbohydrates as 'Carbohydrate' and, if types are declared, immediately follow total carbohydrate with the format 'Carbohydrate ... g, of which sugars ... g' and optionally list other specific carbohydrate constituents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "carbohydrate format"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.4.6 The presence of available carbohydrates should be declared on the label as 'carbohydrates'. Where the type of carbohydrate is declared, this declaration should follow immediately the declaration of the total carbohydrate content in the following format:",
+      "summary": "Requires declaration of available carbohydrates as 'Carbohydrate' and, if types are declared, immediately follow total carbohydrate with the format 'Carbohydrate ... g, of which sugars ... g' and optionally list other specific carbohydrate constituents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "carbohydrate format"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "3.4.7 Where the amount and/or type of fatty acids or the amount of cholesterol is declared, this declaration should follow immediately the declaration of the total fat in accordance with Section 3.4.3.",
+      "summary": "Stipulates that when fatty acids types or cholesterol are declared they must immediately follow total fat and provides the recommended format showing total fat and breakdowns for saturated, trans, monounsaturated, polyunsaturated fatty acids (g) and cholesterol (mg).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "3.4 The following format should be used:",
+      "summary": "Prescribes the tabular format for fat declaration to show Total Fat and, beneath it, 'of which' lines for saturated, trans, monounsaturated and polyunsaturated fatty acids in grams, plus cholesterol in milligrams.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fat declaration format"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "## 3.5 Tolerances and compliance",
+      "summary": "Requires tolerance limits for nutrient declarations to be set with regard to public health, shelf-life, analytical accuracy, processing and inherent variability and whether the nutrient is added or naturally occurring, using weighted-average values from representative product analyses, and states that Codex standard tolerance requirements take precedence where applicable.",
+      "categories": [
+        "other",
+        "contaminants",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "tolerances heading",
+        "tolerance criteria",
+        "nutrient analysis values",
+        "standard precedence"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "## 4. PRINCIPLES AND CRITERIA FOR LEGIBILITY OF NUTRITION LABELLING",
+      "summary": "Establishes principles and presentation criteria to improve legibility of nutrition labelling, directing application of relevant General Standard provisions and recommending numeric/tabular formats, consistent nutrient ordering, appropriate font/style/size and contrast, with numerical presentation conforming to Section 3.4 and allowing competent authorities to set additional national measures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "## 4.1 General principles",
+      "summary": "Directs that nutrition labelling (mandatory or voluntary) should apply the principles in Sections 8.1.1–8.1.3 and 8.2 of the General Standard for the Labelling of Prepackaged Foods (CXS 119‑85), including for any supplementary nutrition labels.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general principles",
+        "nutrition labelling principles"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "## 4.2 Specific features of presentation",
+      "summary": "Recommends specific presentation features to enhance legibility: numerical/tabular format (or linear if space insufficient), nutrient order consistency set by competent authorities, consideration of font type/style/size and case, high contrast between text and background, and numerical presentation per Section 3.4.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation features",
+        "legibility guidance",
+        "nutrient format",
+        "nutrient order",
+        "font requirements",
+        "contrast requirements",
+        "numerical presentation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "## 5. SUPPLEMENTARY NUTRITION INFORMATION",
+      "summary": "States that supplementary nutrition information is optional, intended to help interpret the nutrient declaration and must not replace it (except for target populations with high illiteracy where pictorial/food-group symbols may be used without nutrient declaration), and should be accompanied by consumer education programmes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "supplementary info heading",
+        "supplementary nutrition purpose",
+        "front of pack note",
+        "optional supplementary info",
+        "consumer education"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "ANNEX 1: GENERAL PRINCIPLES FOR ESTABLISHING NUTRIENT REFERENCE VALUES FOR THE GENERAL POPULATION",
+      "summary": "Annex 1 sets general principles for establishing Codex Nutrient Reference Values (NRVs) for the general population (>36 months) to aid consumers in comparing products and urges governments to use or adapt NRVs taking into account national/regional factors and population weighting.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "1. PREAMBLE",
+      "summary": "Explains that the Principles apply to establishing Codex NRVs for individuals older than 36 months to help estimate product contributions to a healthful diet and to compare products, and encourages governments to adopt or adapt NRVs using country-specific weighting and factors.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "preamble heading",
+        "application statement",
+        "reference values guidance"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "2. DEFINITIONS",
+      "summary": "Defines key terms used in the Principles, including Daily Intake Reference Values, Individual Nutrient Level 98 (INL98), Upper Level of Intake (UL), Acceptable Macronutrient Distribution Range (AMDR), and Recognized Authoritative Scientific Body (RASB), with notes on transparent advice and primary evaluation.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "daily intake reference",
+        "inl98 definition",
+        "ul definition",
+        "amdr definition",
+        "rasb definition",
+        "transparent advice note",
+        "primary evaluation note"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "3.1 Selection of suitable data sources to establish NRVs",
+      "summary": "Directs that FAO/WHO daily intake reference values based on recent scientific reviews should be primary sources for establishing NRVs, while relevant values from recognized authoritative scientific bodies may also be used, with priority to those based on systematic reviews.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "data source selection",
+        "primary source selection",
+        "evidence prioritization"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "3.2 Selection of Nutrients and Appropriate Basis for NRVs",
+      "summary": "Outlines selection and basis for NRVs: NRVs‑R should be based on INL98 and calculated as means for the general population (>36 months) excluding pregnant/lactating women, while NRVs‑NCD require convincing/generally accepted evidence of nutrient–non‑communicable disease relationships, public health importance, peer‑reviewed quantitative intake values, and a single general‑population NRV usually expressed in g/mg (convertible from % energy using a 2 000 kcal reference), with governments able to adapt values to national conditions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "3.2.1 Selection of Nutrients and Appropriate Basis for NRVs-R",
+      "summary": "States NRVs‑R should be based on Individual Nutrient Level 98 (INL98), or on more recent recognized daily intake values if INL98 is absent or outdated, determined as mean values for a reference population older than 36 months and excluding pregnant and lactating women.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "nrvs selection heading",
+        "nrvs basis",
+        "population mean values",
+        "excluded populations"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "3.2.2 Selection of Nutrients and Appropriate Basis for NRVs-NCD",
+      "summary": "Specifies criteria for NRVs‑NCD: selection based on convincing or generally accepted scientific evidence (or comparable GRADE level) linking a nutrient to NCD risk and public health importance, use of peer‑reviewed quantitative daily intake references (FAO/WHO or RASBs), establishment of a single general‑population NRV per nutrient (expressed in g/mg, converting % energy values using a 2 000 kcal reference), and allowance for governments to use Codex NRVs or derive national values.",
+      "categories": [
+        "risk assessment",
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "ncd nrvs heading",
+        "selection criteria",
+        "evidence criterion",
+        "public health importance",
+        "evidence criteria",
+        "reference values",
+        "nrv establishment",
+        "nrv derivation",
+        "energy conversion",
+        "country reference value"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "3.3 Consideration of Daily Intake Reference Values for Upper Levels",
+      "summary": "When establishing nutrient reference values (NRVs) for the general population, take into account daily intake reference values for upper levels (e.g., Upper Level of Intake, Acceptable Macronutrient Distribution Range) established by FAO/WHO or other recognized authoritative scientific bodies where applicable.",
+      "categories": [
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "upper levels heading",
+        "upper level consideration"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "ANNEX 2: GUIDELINES ON FRONT-OF-PACK NUTRITION LABELLING",
+      "summary": "Annex 2 provides comprehensive guidance on developing front-of-pack nutrition labelling (FOPNL) — covering purpose, scope, definitions, principles, exclusions, exemptions and applicability to prepackaged and certain near-food/online contexts — to help consumers understand nutritional value consistent with national dietary guidance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "1. PURPOSE",
+      "summary": "Provides general guidance to assist development of front-of-pack nutrition labelling (FOPNL) as supplementary nutrition information to help consumers understand the nutritional value of foods and make choices consistent with national dietary guidance or health and nutrition policy.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "guidance purpose"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "2. SCOPE",
+      "summary": "Applies FOPNL to pre-packaged foods as supplementary information that must not replace the nutrient declaration; it excludes certain Codex-standardized foods (see section) and may allow national-level exclusions (e.g., alcoholic beverages), prohibits using FOPNL to promote alcohol, aligns exemptions with nutrient-declaration exemptions, and can guide simplified near-food or online information.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "2.1 These  Guidelines  apply  to  front-of-pack  nutrition  labelling  (FOPNL)  to  be  used  on  pre-packaged  foods",
+      "summary": "States that the Guidelines apply to front-of-pack nutrition labelling on pre-packaged foods and that FOPNL should be provided in addition to, not instead of, the nutrient declaration required by the Guidelines on Nutrition Labelling (CXG 2-1985).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "application scope"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "2.2 Foods covered by the following Codex standards are excluded:",
+      "summary": "Excludes foods covered by specific Codex standards (infant formula, follow-up formula, and foods for special medical purposes) and allows national-level exclusions (e.g., alcoholic beverages, special dietary uses); FOPNL must not be used to promote alcohol.",
+      "categories": [
+        "scope",
+        "labelling"
+      ],
+      "subcategories": [
+        "excluded foods",
+        "excluded standard",
+        "national exclusions",
+        "alcohol promotion"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "2.3 Certain prepackaged foods may be exempted from FOPNL. Exemptions from FOPNL should align with the exemption from the nutrient declaration as described in Section 3.1.2 of the Guidelines on Nutrition Labelling (CXG 2-1985).",
+      "summary": "Permits exemptions for certain prepackaged foods from FOPNL, with such exemptions aligned to those for the nutrient declaration as described in Section 3.1.2 of the Guidelines on Nutrition Labelling (CXG 2-1985).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "exemption provision"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "2.4 These Guidelines can also be used as a guide in the case where simplified nutrition information is displayed near  the  food",
+      "summary": "States that the Guidelines may also guide simplified nutrition information displayed near the food (e.g., shelf-tags, food service), for unpackaged foods, or for foods sold online at the point of purchase.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "alternative use"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "3. DEFINITION OF FRONT-OF-PACK NUTRITION LABELLING (FOPNL)",
+      "summary": "Defines FOPNL as supplementary, simplified nutrition information presented on the front-of-pack of pre-packaged foods (using symbols, graphics, text or combinations to indicate overall nutritional value or specific nutrients) and notes that FOPNL can be voluntary or mandatory under national law.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "3.1 Front-of-pack  nutrition  labelling  (FOPNL) is  a  form  of  supplementary  nutrition  information  that  presents  simplified, nutrition information on the front-of-pack 19  of pre-packaged foods",
+      "summary": "Defines front-of-pack nutrition labelling (FOPNL) as supplementary simplified nutrition information on the front-of-pack of pre-packaged foods that may use symbols, graphics and/or text to convey overall nutritional value or included nutrients.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fopnl definition"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "3.2 FOPNL can be voluntary or mandatory in line with national legislation.",
+      "summary": "States that FOPNL may be voluntary or mandatory in accordance with national legislation.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "voluntary mandatory"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "4. PRINCIPLES FOR THE ESTABLISHMENT OF FOPNL SYSTEMS",
+      "summary": "Sets guiding principles for FOPNL: governments should recommend a single system (coexisting systems must be complementary), FOPNL must be consistent with the nutrient declaration, align with evidence-based dietary/health policies, and present information that is easy for consumers to understand and is supported by valid consumer research.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "4.1 In addition to the general principles in the General Standard for the Labelling of Prepackaged Foods (CXS 11985), a FOPNL should be based on the following principles",
+      "summary": "States that FOPNL should be based on additional principles beyond those in the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "4.2 Only one FOPNL system should be recommended by government in each country. However, if multiple FOPNL systems coexist, these should be complementary, not contradictory to each other.",
+      "summary": "Recommends that governments endorse a single FOPNL system per country, and if multiple systems coexist they must be complementary and not contradictory.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "single system"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "4.3 FOPNL should be applied to the food in a manner consistent with the corresponding nutrient declaration for that food.",
+      "summary": "Requires that FOPNL be applied consistently with the corresponding nutrient declaration for the food.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "consistency requirement"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "4.4 FOPNL should align with evidence-based national or regional dietary guidance or, in its absence, health and nutrition policies. Consideration should be given to the nutrients and/or the food groups which are discouraged and/or encouraged by these documents.",
+      "summary": "Requires alignment of FOPNL with evidence-based national or regional dietary guidance, or if absent, with health and nutrition policies, taking into account which nutrients and food groups are encouraged or discouraged by those documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "dietary guidance"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "4.5 FOPNL should present information in a way that is easy to understand and use by consumers in the country or region of implementation. The format of the FOPNL should be supported by scientifically valid consumer research.",
+      "summary": "Requires FOPNL to present information in a manner that is easy for consumers to understand and use, and for the format to be supported by scientifically valid consumer research.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "consumer understanding"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "7. LABELLING",
+      "summary": "Non-substantive cross-reference/footnote pointing to the definition source for ‘front-of-pack’ in the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Non-substantive cross-reference/footnote repeating the definition reference from the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

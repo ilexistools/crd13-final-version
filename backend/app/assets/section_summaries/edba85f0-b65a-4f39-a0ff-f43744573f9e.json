@@ -1,0 +1,1050 @@
+{
+  "doc_id": "edba85f0-b65a-4f39-a0ff-f43744573f9e",
+  "title": "## SECTION 1 - OBJECTIVES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## SECTION 1 - OBJECTIVES",
+      "summary": "States the primary objective: provide guidance to governments, the food industry, consumers and others to prevent or minimize human enteric viruses in foods—particularly Norovirus and Hepatitis A virus—by offering a control framework to protect public health, ensure fair trade practices, and help address new or emerging foodborne viruses.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## SECTION 2 - SCOPE, USE AND DEFINITION",
+      "summary": "Sets out that the guidelines apply to all foods with emphasis on ready-to-eat foods from primary production to consumption for control of human enteric viruses (notably norovirus and hepatitis A), directs users to apply these guidelines alongside the General Principles of Food Hygiene and relevant Codes of Practice, and includes annexes with additional recommendations for bivalve molluscs and fresh produce while defining key terms (human enteric virus, fresh produce, RTE-food, clean water).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2.1 SCOPE",
+      "summary": "States the scope: guidelines apply to all foods with a focus on ready-to-eat foods from primary production through consumption to control human enteric viruses (particularly NoV and HAV) and are intended to complement controls for other pathogens.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2.1.1 Food chain",
+      "summary": "Specifies applicability to the entire food chain, emphasizing ready-to-eat foods from primary production to consumption for control of human enteric viruses (NoV and HAV) and complementing existing pathogen controls.",
+      "categories": [
+        "food category system",
+        "scope"
+      ],
+      "subcategories": [
+        "food chain heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 USE",
+      "summary": "Directs that these guidelines follow the format of the General Principles of Food Hygiene and should be used with that document and other relevant Codes of Practice, noting that Annex I (bivalve molluscs) and Annex II (fresh produce) provide supplementary recommendations for those virus–commodity combinations.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "use heading",
+        "reference use"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3 DEFINITIONS",
+      "summary": "Defines key terms used in the guidelines: 'human enteric virus' (viruses replicating in the GI tract or liver and excreted in feces/vomitus, transmitted mainly fecal–oral), 'fresh produce' (field- or protected-facility-grown fruits and vegetables), 'ready-to-eat food' (foods normally eaten without further virus-reducing steps), and 'clean water' (water that does not compromise food safety in its intended use).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "virus definition",
+        "produce definition",
+        "ready-to-eat definition",
+        "water definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "SECTION 3 - PRIMARY PRODUCTION/HARVESTING AREA",
+      "summary": "Describes objectives and rationale for primary production/harvesting area controls: identify production settings and control points to reduce viral contamination risks because contamination at primary production (water, soil, containers, handlers) can persist and may not be removed by later steps.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 ENVIRONMENTAL HYGIENE",
+      "summary": "Requires identifying potential environmental sources of viral contamination prior to production (e.g., contaminated water, soil, untreated manures, sludge, proximity to run-off/flooding) and states that primary food production should not occur where viral presence may contaminate food, as downstream controls may be insufficient.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "environmental hygiene heading",
+        "environmental contamination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 HYGIENIC PRODUCTION OF FOOD SOURCES",
+      "summary": "Mandates protecting food sources from fecal and vomit contamination, using water suitable for its intended primary production or harvesting use, properly treating natural fertilizers/biosolids to reduce viral survival, and avoiding aquaculture in areas susceptible to sewage contamination for products intended for consumption without further treatment.",
+      "categories": [
+        "hygiene",
+        "processing"
+      ],
+      "subcategories": [
+        "production hygiene heading",
+        "faecal contamination",
+        "water quality",
+        "fertilizer treatment",
+        "site contamination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.3 HANDLING, STORAGE AND TRANSPORT",
+      "summary": "Requires implementing product-specific control measures during harvesting to minimize viral contamination risk and keeping harvesting equipment, utensils and containers clean and in good working order.",
+      "categories": [
+        "hygiene",
+        "processing",
+        "equipment"
+      ],
+      "subcategories": [
+        "handling storage transport",
+        "harvesting control",
+        "harvest equipment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.4 CLEANING, MAINTENANCE AND PERSONNEL HYGIENE AT PRIMARY PRODUCTION",
+      "summary": "Non-substantive cross-reference: sanitation and personnel hygiene requirements for primary production are covered in Sections 6 and 7.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "primary production hygiene",
+        "sanitation reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "SECTION 4 - ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "States that establishment design, construction and layout should allow equipment and surfaces to be cleaned and disinfected as needed to prevent virus persistence that could contaminate food.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## 4.4 FACILITIES",
+      "summary": "Requires provision of hygienic changing and toilet facilities adequate in number, location and design (no seepage to water/fields, means for washing/drying hands, maintained and cleaned) to meet workforce needs including seasonal influxes, and specifies that handwashing facilities should supply soap, preferably have non‑hand‑operable taps and single‑use towels with visible instructions and be positioned for ready access near toilets so personnel pass them before returning to food areas.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "## 4.4.4.1 Changing facilities and toilets",
+      "summary": "States that hygienic sanitary changing facilities and toilets must be provided, readily accessible, sufficient for personnel (including seasonal workers) and meet appropriate hygiene standards.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "toilet facilities heading",
+        "sanitary facilities",
+        "toilet provision"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.4.4.1 Changing facilities and toilets",
+      "summary": "States that hygienic sanitary changing facilities and toilets must be provided, readily accessible, sufficient for personnel (including seasonal workers) and meet appropriate hygiene standards.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "toilet facilities heading",
+        "sanitary facilities",
+        "toilet provision"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "## 4.4.4.2   Hand washing facilities",
+      "summary": "Specifies handwashing facility requirements: supply hand cleanser (soap), preferably non‑hand‑operable taps and single‑use towels, display handwashing/drying instructions, and locate facilities for ready access in production areas and adjacent to toilets so personnel pass them before returning to food handling areas.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hand washing heading",
+        "hand washing facilities",
+        "facility location"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## SECTION 5 - CONTROL OF OPERATION",
+      "summary": "States the objective that processing operations should be controlled to prevent viral contamination and notes that preventive measures against identified hazards can reduce virus contamination risks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "## 5.1 CONTROL OF FOOD HAZARDS",
+      "summary": "Prescribes that control of human enteric viruses (NoV, HAV) typically requires stringent hygiene control systems (e.g., GHPs, SSOPs) and validated interventions within a HACCP-based framework as prerequisite programs for viral control.",
+      "categories": [
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "food hazard control",
+        "control programs"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## 5.2 KEY ASPECTS OF HYGIENE CONTROL SYSTEMS",
+      "summary": "Requires disposal or evaluation of foods potentially contaminated by vomit or handled by ill persons (with special consideration of timing for NoV and HAV shedding) and, if an outbreak is linked to an establishment, investigation and corrective action; also details process-specific controls noting cooling/freezing do not inactivate viruses, high heat treatments (e.g., 90 °C for 90 s or commercial canning) are generally adequate while other treatments (pasteurization, washing, pH, RAw, HHP, UV) are matrix‑ and virus‑dependent and not universally effective, so processing combinations and new virucidal technologies must be validated (using infectivity assays or suitable surrogates) and may require competent authority approval.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "## 5.2.1 General Control Programs",
+      "summary": "Requires disposal or evaluation of any food possibly contaminated by vomit or handled by an ill person (with NoV risk acute around symptom onset and HAV shedding potentially peaking two weeks before symptoms) and mandates investigation and elimination of sources when outbreaks are traced to an establishment.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "general control programs",
+        "food disposal",
+        "outbreak response"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## 5.2.2 Process-Specific Control Systems",
+      "summary": "States process‑specific controls: cooling/freezing do not reduce virus infectivity to safe levels; heat treatments are highly dependent on virus, matrix and inoculum with 90 °C for 90 s or commercial canning generally effective while pasteurization and HTST have variable efficacy; other measures (washing, pH reduction, reduced water activity, HHP, UV) are virus‑ and matrix‑dependent and not universally reliable, so new technologies or combinations must be validated (preferably with infectivity assays or suitable surrogates) and may need prior approval by the competent authority.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "## 5.2.2.1   Time and temperature control",
+      "summary": "Cooling and freezing are not effective controls for foodborne viruses; heat inactivation depends on virus subtype, matrix and initial load, with treatments reaching ≥90 °C for 90 s or commercial canning considered generally adequate, light cooking potentially inadequate, and pasteurization (conventional better than HTST) producing roughly ≥3 log10 NoV reduction but possibly insufficient given high contamination/low infectious dose.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "time temperature heading",
+        "cooling freezing",
+        "heat treatment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.2.2.2 Specific process steps",
+      "summary": "Various specific processes (washing, pH reduction, reduced water activity, HHP, UV) can reduce viral loads variably depending on virus subtype, food matrix and virus location, so they are generally inadequate alone but may be additive when combined and must be rigorously validated for the specific hazard/food (using infectivity assays where possible, suitable surrogates or molecular assays when not, and may require competent authority approval).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process steps heading",
+        "virus reduction processes",
+        "washing treatment",
+        "ph reduction",
+        "water activity",
+        "high pressure",
+        "uv irradiation",
+        "validation requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.3 INCOMING MATERIAL REQUIREMENTS",
+      "summary": "Raw ingredients contaminated with viruses can contaminate handlers, foods and surfaces, so suppliers or plants with an adequate food safety management system should preferably be used.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "incoming materials heading",
+        "raw ingredient control"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "5.4 PACKAGING",
+      "summary": "Packaging designed to inhibit bacterial or fungal growth is not effective against human viruses because viruses do not multiply in foods.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "virus packaging limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5.6 MANAGEMENT AND SUPERVISION",
+      "summary": "Managers and supervisors must ensure adequate hygiene facilities, compliance with hand-washing, exclusion of persons (including children) with gastroenteritis or hepatitis (or recovering from them), and proper cleaning and disinfection of contaminated surfaces.",
+      "categories": [
+        "training",
+        "hygiene"
+      ],
+      "subcategories": [
+        "management heading",
+        "hygiene supervision",
+        "hygiene facilities",
+        "hand washing",
+        "illness exclusion",
+        "surface cleaning"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5.7 DOCUMENTATION AND RECORDS",
+      "summary": "Control procedures used for viruses should be monitored and documented to ensure their continuing effectiveness.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "records heading",
+        "control monitoring"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5.8 RECALL PROCEDURES",
+      "summary": "Products may be recalled based on the assessed risk from viruses in a food, and the need for public information and warnings should be considered.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "recall heading",
+        "product recall"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "SECTION 6 - ESTABLISHMENT: MAINTENANCE AND SANITATION",
+      "summary": "(Section heading) Provides guidance and rationale for preventive maintenance and sanitation measures to eliminate contamination after vomiting, diarrhoea or notification of hepatitis in food production premises.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "6.1 MAINTENANCE AND CLEANING",
+      "summary": "Establishments must have procedures for responding to vomiting or diarrhoea events to minimize spread and exposure and to ensure appropriate cleaning and disinfection of contaminated areas and surfaces.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "6.1.1 General",
+      "summary": "A food establishment shall have documented procedures for employees to follow when vomitus or faecal matter is discharged onto surfaces to minimize spread and exposure of people, food and surfaces.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "general heading",
+        "vomiting response"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "6.1.2 Cleaning procedures and methods",
+      "summary": "Establishments should have documented cleaning and disinfection procedures (disinfection only after cleaning) to be applied immediately after vomiting events or reported gastroenteritis/hepatitis symptoms, including use of PPE by trained staff, stopping food handling in affected areas, and safe disposal of absorbent materials to prevent further contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Surface disinfection :",
+      "summary": "For surface disinfection, freshly prepared hypochlorite solutions ≥1000 ppm applied 5–10 min (or chlorine dioxide ~200 ppm) are effective (>3 log10) but are corrosive and must be rinsed and used with precautions, with food preparation resuming only after thorough disinfection. Vaporized hydrogen peroxide (>100 ppm for 1 h) and UV (>40 mJ/cm2) can disinfect rooms/surfaces and reduce viral infectivity, but most other common disinfectants lack consistent ≥3 log10 efficacy against enteric viruses and new products should demonstrate >3 log10 virucidal activity in standardized tests before approval; surrogate-virus results require cautious interpretation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "6.4 WASTE MANAGEMENT",
+      "summary": "Food possibly contaminated with virus particles must be discarded so as to prevent any contact between that food and people, other food or food contact surfaces.",
+      "categories": [
+        "waste management",
+        "risk management"
+      ],
+      "subcategories": [
+        "waste heading",
+        "contaminated disposal"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "UV irradiation at > 40 mWs/cm 2 (=mJ/cm 2 ) causes > 3 log10 reduction...",
+      "summary": "UV irradiation at >40 mW·s/cm2 (mJ/cm2) achieves >3 log10 reduction of model viruses (FCV, MNV) and can be used to reduce viral infectivity on surfaces, in aerosols and in water.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "uv dose reduction"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "Most other surface disinfectants lack efficacy...",
+      "summary": "Most common surface disinfectants used in institutional and food-industry settings do not consistently achieve ≥3 log10 reductions of NoV and HAV at manufacturers' recommended conditions. New disinfectants or methods should only be considered if they demonstrate >3 log10 virucidal activity against non-enveloped viruses in standardized carrier tests, are approved for food contact surfaces, and results from surrogate viruses (e.g., FCV, MNV) should be interpreted cautiously.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "disinfectant efficacy"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "6.2 CLEANING PROGRAMMES",
+      "summary": "Cleaning and disinfection programmes should specify agents, concentrations, times, temperatures/pH, equipment and a checklist of surfaces to be disinfected (including manual and automatic washing) able to inactivate enteric viruses, with accurate documentation and monitoring when virus contamination is possible.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning heading",
+        "cleaning disinfection"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "6.4 WASTE MANAGEMENT",
+      "summary": "Food possibly contaminated with virus particles must be discarded so as to prevent any contact between that food and people, other food or food contact surfaces.",
+      "categories": [
+        "waste management",
+        "risk management"
+      ],
+      "subcategories": [
+        "waste heading",
+        "contaminated disposal"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "SECTION 7 - ESTABLISHMENT: PERSONAL HYGIENE",
+      "summary": "(Section heading) Establishes objectives and rationale to prevent food-handler-mediated viral contamination (particularly NoV and HAV) through strict personal hygiene measures because infected handlers can shed virus at low infectious doses.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "7.1 HEALTH STATUS",
+      "summary": "All cases of gastroenteritis should be regarded as infectious unless evidence indicates otherwise, and symptoms indicative of hepatitis (e.g., jaundice) should also be treated as infectious; persons with these symptoms must be excluded from food handling and presence in premises where food is exposed.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "health status heading",
+        "illness exclusion",
+        "incubation periods"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "7.2 ILLNESS AND INJURIES",
+      "summary": "Food handlers with gastroenteritis or acute hepatitis symptoms must be excluded from food handling and areas with exposed food and may only return after symptom resolution (diarrhoea/vomiting-free period or disappearance of jaundice). Because viral shedding can continue for weeks post-symptomatically, staff should receive training on infectivity, transmission and disinfection, close contacts may pose asymptomatic risks, and hepatitis A vaccination or immune-status checks should be recommended where epidemiologically appropriate.",
+      "categories": [
+        "hygiene",
+        "training",
+        "risk management"
+      ],
+      "subcategories": [
+        "illness injuries heading",
+        "return to work",
+        "personnel training",
+        "hand hygiene",
+        "vaccination recommendation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "7.3 PERSONAL CLEANLINESS",
+      "summary": "Specifies personal hygiene requirements for food handlers to prevent enteric virus transmission (NoV, HAV): mandatory hand washing and drying with soap and running water before handling food, use of dedicated hand sinks, disposable towels and non-hand operable taps where possible, training for staff, procedures for safe glove use (gloves must be clean, replaced when torn/soiled and do not replace prior handwashing), and laundering of clothing from infected or suspected staff (household detergents effective at 40 °C).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal cleanliness heading",
+        "personal hygiene guidance",
+        "hand washing practices",
+        "glove hygiene",
+        "clothing hygiene"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "7.4 PERSONAL BEHAVIOUR",
+      "summary": "Prohibits handling money/tickets concurrently with food and requires thorough hand washing after contact with potentially virus-contaminated materials, with new gloves donned before handling or preparing food if gloves are used.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal behaviour heading",
+        "personal behaviour guidance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "7.5 VISITORS",
+      "summary": "States that non-authorized persons and, where possible, children should be excluded from food handling areas during production, harvest, storage or preparation.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "visitors heading",
+        "visitor restriction"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "SECTION 9 - PRODUCT INFORMATION AND CONSUMER AWARENESS",
+      "summary": "This is a section heading for 'Product Information and Consumer Awareness' and contains no substantive provisions by itself.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "9.1 LOT IDENTIFICATION",
+      "summary": "Requires maintenance of lot identity and integrity for bivalve molluscs to facilitate traceback because NoV and HAV can persist in food and distribution complicates traceability.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "lot identification heading",
+        "traceability maintenance"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "9.4 CONSUMER EDUCATION",
+      "summary": "Advises countries to develop consumer education programs warning of viral risks in certain ready-to-eat foods, notably raw bivalve molluscs harvested near human habitation or sewage plants.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "consumer education heading",
+        "consumer awareness"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "SECTION 10 - TRAINING",
+      "summary": "States the objective that food handlers who directly or indirectly contact foods during growing, harvesting or processing should be trained to an appropriate level in enteric virus control, noting that handlers may be less familiar with virus-specific controls.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "10.1 AWARENESS AND RESPONSIBILITIES",
+      "summary": "Assigns responsibilities: food business operators and trade associations must provide virus-control training; managers must educate, implement cleaning/disinfection programs and monitor hygiene (including observing handwashing); personnel must report diarrhoea, vomiting or hepatitis/gastrointestinal symptoms and follow strict hand-washing rules.",
+      "categories": [
+        "training",
+        "official control",
+        "hygiene"
+      ],
+      "subcategories": [
+        "awareness responsibilities heading",
+        "stakeholder awareness",
+        "manager responsibilities",
+        "hygiene monitoring",
+        "illness reporting"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "10.2 TRAINING PROGRAMMES",
+      "summary": "Specifies training programme content, including virus transmission routes and persistence, incubation and shedding periods (NoV, HAV), infectivity of vomit, cleaning/disinfection procedures, documented hand-washing instruction, exclusion from work when symptomatic, risks of household transmission, child exclusion in HAV endemic areas, and disposal of contaminated food items.",
+      "categories": [
+        "training",
+        "hygiene"
+      ],
+      "subcategories": [
+        "training programmes heading",
+        "training content",
+        "virus transmission risk",
+        "transmission routes",
+        "virus persistence",
+        "incubation periods",
+        "virus shedding",
+        "vomit infectivity",
+        "cleaning disinfection",
+        "hand washing documentation",
+        "household infection risk",
+        "illness exclusion",
+        "child exclusion",
+        "contaminated food disposal"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "10.3 INSTRUCTION AND SUPERVISION",
+      "summary": "Requires extensive instruction and supervision for all new personnel on infectivity, transmission and management of foodborne viruses and recommends incorporation of these instructions into national codes of hygienic practice.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "instruction supervision heading",
+        "new personnel instruction"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "2.1 SCOPE",
+      "summary": "Declares the annex applicable to bivalve molluscs and focused on control measures to minimize or prevent HAV and NoV contamination to prevent or reduce human illness.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "## INTRODUCTION",
+      "summary": "Introduces that human enteric viruses, especially NoV and HAV, are major causes of foodborne disease transmitted mainly via faecal-oral routes and contaminated water/food/surfaces, often shed asymptomatically, and differ from bacteria in that they do not replicate in food, have low infectious doses, can persist and resist many control measures, making prevention and molecular detection (which cannot distinguish infectivity) central to management.",
+      "categories": [
+        "other",
+        "risk assessment",
+        "processing",
+        "hygiene",
+        "analysis sampling",
+        "documentation",
+        "risk management"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "introductory overview",
+        "virus overview",
+        "management factors",
+        "viral properties",
+        "infectious dose",
+        "transmission routes",
+        "structure resistance",
+        "environment persistence",
+        "inactivation conditions",
+        "hand hygiene",
+        "zoonotic transmission",
+        "virus testing",
+        "surrogate viruses",
+        "hazard prioritization",
+        "reference note",
+        "public health impact",
+        "norovirus profile",
+        "hepatitis a profile",
+        "contamination sources",
+        "contamination prevention",
+        "molecular detection"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "## SECTION 1- OBJECTIVES",
+      "summary": "States the annex's objective to advise governments on a framework to reduce HAV and NoV in bivalve molluscs to protect consumer health and ensure fair trade, primarily aiming to minimize human illness while informing industry and consumers.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "section heading",
+        "objective statement"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "## SECTION 2 - SCOPE, USE AND DEFINITION",
+      "summary": "Explains that the annex applies to bivalve molluscs, supplements the general Guidelines on Viruses in Food, and should be used alongside Sections 2 and 7 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "## 2.1 SCOPE",
+      "summary": "Repeats that the annex applies to bivalve molluscs and focuses on control measures to minimize or prevent HAV and NoV contamination to reduce human illness.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "## 2.2 USE",
+      "summary": "States the annex is a supplement to the General Principles of Food Hygiene for control of viruses in food and should be used in conjunction with the Code of Practice for Fish and Fishery Products (Sections 2 and 7).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "use heading",
+        "related use"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "## 2.3 DEFINITIONS",
+      "summary": "Non-substantive definition entry directing readers to 'Clean water' as defined in Section 2.1 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "## SECTION 3 - PRIMARY PRODUCTION",
+      "summary": "Identifies microbiological contamination of growing waters as the main hazard for bivalve mollusc production, advises sanitary surveys of growing areas (including potential human faecal sources and shoreline factors), recommends interpreting E. coli/faecal coliform monitoring within the sanitary context since viruses may be present without these indicators, and calls for viral testing or competent-authority–approved approaches (plus satisfying sanitary survey conditions) before reopening areas after outbreak-related closures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "3.1 ENVIRONMENTAL HYGIENE",
+      "summary": "Highlights environmental hygiene controls for growing areas: prevent sewage/ship/harbour contamination and sewage treatment overflows, eliminate untreated sewage discharge, design sewage treatment to reduce viral loads (tertiary treatments like UV/ultrafiltration recommended), consider prohibition zones near treatment plants, minimize storm overflows, and implement spill monitoring and prompt notification to authorities and industry to enable harvesting cessation.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "risk areas",
+        "sewage contamination",
+        "sewage overflow",
+        "sewage network",
+        "sewage control",
+        "sewage treatment"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "3.2 HYGIENIC PRODUCTION OF FOOD SOURCES",
+      "summary": "Advises restricting bivalve harvesting to clean waters and reviewing area contamination histories to identify risk periods and reinforce monitoring; permits long-term relaying or depuration-plus-relaying as control measures only when water quality and conditions are appropriate and verified by competent authorities, notes short-term depuration is inadequate alone for viruses, and recommends closure, destruction, virucidal heat treatment, or approved relaying when contamination is likely or evidenced.",
+      "categories": [
+        "hygiene",
+        "risk management",
+        "documentation",
+        "processing"
+      ],
+      "subcategories": [
+        "production hygiene",
+        "clean water use",
+        "record review",
+        "relaying depuration",
+        "relaying conditions",
+        "area closure"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "doc_id": "4c24cb5d-483d-47df-85e6-28c6968452a3",
+  "title": "STANDARD FOR CREAM CHEESE CXS 275-1973 Formerly CODEX STAN C-31-1973. Adopted in 1973. Revised in 2007. Amended in 2008, 2010, 2016, 2018, 2021, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR CREAM CHEESE CXS 275-1973 Formerly CODEX STAN C-31-1973. Adopted in 1973. Revised in 2007. Amended in 2008, 2010, 2016, 2018, 2021, 2022.",
+      "summary": "Document heading: Standard for Cream Cheese (CXS 275-1973), showing adoption in 1973 with revisions and amendments through 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendment",
+      "summary": "2022 amendment: the labelling of non-retail containers was updated to be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021), replacing the previous detailed provision.",
+      "categories": [
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "table heading",
+        "table separator",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope: this Standard applies to cream cheese intended for direct consumption or further processing as described in Section 2, and does not apply to cheeses called 'cream cheese' in some countries that do not conform to that description.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusion note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Description: Cream Cheese is defined as a soft, spreadable, unripened and rindless cheese consistent with the Group Standard for Unripened Cheese and the General Standard for Cheese, with near white to light yellow colour and a smooth to slightly flaky, spreadable texture.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Essential composition and quality factors: raw materials are milk and/or milk products; permitted ingredients include starter cultures, coagulating enzymes, salt or salt substitutes, potable water, processing aids, gelatine/starches and vinegar; compositional requirements set minimums of milk fat in dry matter (minimum 25%, reference 60–70%), moisture on fat-free basis (minimum 67%) and dry matter (minimum 22%), and modifications beyond the specified minima/maxima are non-compliant with the General Standard for the Use of Dairy Terms.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Raw materials",
+      "summary": "Raw materials: milk and/or products obtained from milk are specified as the raw materials for cream cheese.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Permitted ingredients: starter cultures of harmless lactic/flavour-producing bacteria and other harmless micro-organisms, rennet or suitable coagulating enzymes, sodium or potassium chloride, potable water, safe processing aids, gelatine and starches (used as stabilizers only in functionally necessary amounts under GMP), and vinegar are allowed.",
+      "categories": [
+        "composition",
+        "additives"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "cultures ingredient",
+        "coagulating enzymes",
+        "salt substitute",
+        "potable water",
+        "processing aids",
+        "stabilizer use",
+        "vinegar ingredient"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.3 Composition",
+      "summary": "Specifies compositional minima and reference levels for Cream Cheese: milk fat in dry matter minimum 25% (reference 60–70%, no maximum), moisture on fat‑free basis minimum 67%, and dry matter minimum 22% (subject to MFFB restrictions); states that compositional modifications beyond these specified minima/maxima are non‑compliant with CXS 206-1999 Section 4.3.3 and notes the product is kept rindless (footnote).",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition table",
+        "table separator",
+        "milk fat minimum",
+        "moisture minimum",
+        "dry matter minimum",
+        "compliance note",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits only additive classes justified for unripened cheese per Tables 1–3 of the General Standard for Food Additives (CXS 192‑1995), listing allowable classes for cheese mass (and not surface) such as colours (only to obtain described colour characteristics), acidity regulators, emulsifiers, antioxidants, preservatives, stabilizers and thickeners with conditions that stabilizers/thickeners (including modified starches) are limited to heat‑treated products and used only as functionally necessary, and that foaming agents are limited to whipped products.",
+      "categories": [
+        "additives",
+        "other"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted classes",
+        "additive permissions",
+        "additives table",
+        "table separator",
+        "usage categories",
+        "colour permission",
+        "bleaching prohibition",
+        "acidity regulator",
+        "stabilizer permission",
+        "thickener permission",
+        "emulsifier class",
+        "antioxidant class",
+        "preservative class",
+        "foaming agent class",
+        "anticaking class",
+        "additive note",
+        "stabilizer condition",
+        "whipped product use",
+        "technologically justified",
+        "not justified"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "7.1 Name of the food",
+      "summary": "Allows the name “Cream Cheese” only if the product conforms to this standard (with alternative spelling/translation permitted) and requires prominent qualification of the name or fat‑content declaration when fat in dry matter is outside the reference range or below 40% (but above the absolute minimum), using specified characterizing terms or nutrition claims to avoid misleading the consumer.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food",
+        "food name declaration",
+        "optional name use",
+        "fat content qualifier",
+        "qualifier guidance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "7.2 Country of origin",
+      "summary": "Requires declaration of the country of origin defined as the country of manufacture, and where substantial transformation occurs in a second country that country is to be labeled as the country of origin for labelling purposes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "country of origin",
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "7.3 Declaration of milkfat content",
+      "summary": "Requires milk fat content to be declared in a manner acceptable in the country of retail sale, either as percentage by mass, percentage of fat in dry matter, or grams per serving (with number of servings stated).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "milkfat declaration",
+        "fat content statement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7.4 Labelling of non-retail containers",
+      "summary": "States that labelling of non‑retail containers should follow the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346‑2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail label reference"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "8. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Requires that methods of analysis and sampling in the Recommended Methods (CXS 234‑1999) be used to check compliance with this standard; notes for comparative nutritional claims the reference minimum fat is 60% fat in dry matter and that repackaging, cutting, slicing, shredding and grating are not regarded as substantial transformation.",
+      "categories": [
+        "analysis sampling",
+        "labelling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "compliance methods",
+        "nutritional claim reference",
+        "substantial transformation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

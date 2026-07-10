@@ -1,0 +1,344 @@
+{
+  "doc_id": "98dac4a8-d9c0-4d52-8a90-4a3e99032362",
+  "title": "STANDARD FOR COULOMMIERS CXS 274-1969 Formerly CODEX STAN C-18-1969. Adopted in 1969. Revised in 2007. Amended in 2008, 2010, 2018, 2019, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR COULOMMIERS CXS 274-1969 Formerly CODEX STAN C-18-1969. Adopted in 1969. Revised in 2007. Amended in 2008, 2010, 2018, 2019, 2022.",
+      "summary": "Document title and revision history for the Codex Standard for Coulommiers (CXS 274-1969), noting adoption in 1969 and revisions/amendments up to 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendment",
+      "summary": "Records a 2022 amendment that replaces the prior non-retail container labelling text with a requirement that labelling of non-retail containers follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note",
+        "amendment table",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Applies this Codex standard to Coulommiers intended for direct consumption or for further processing in accordance with the product description in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Describes Coulommiers as a soft, surface/mould-ripened flat-cylinder cheese with near-white to light-yellow body, soft (not crumbly) texture ripened from surface to center, a white-mould-covered rind (may have colored spots), and specifies typical ripening (about 10 days at 10–16 °C) while allowing alternative ripening methods that produce similar physical, biochemical and sensory properties; cheeses for further processing may be less ripened if justified.",
+      "categories": [
+        "composition",
+        "description",
+        "processing"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "ripening conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors including permitted raw materials and ingredients, compositional limits for milkfat and dry matter, essential size/weight requirements, and that rind formation/maturation is predominantly caused by specified Penicillium species.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Raw materials",
+      "summary": "Permits cow's milk, buffalo's milk, or their mixtures and products derived from these milks as raw materials for Coulommiers.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Lists permitted ingredients including harmless lactic/flavour starter cultures and other harmless micro-organisms (e.g., Geotrichum candidum, Brevibacterium linens, yeasts), rennet or other suitable coagulating enzymes, sodium or potassium chloride, potable water, safe processing aids, and enzymes to enhance ripening.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "starter cultures",
+        "coagulating enzymes",
+        "salt substitute",
+        "processing water",
+        "processing aids",
+        "ripening enzymes"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.3 Composition",
+      "summary": "Specifies compositional requirements: milkfat in dry matter at least 40% (no upper limit) and minimum dry matter set by fat-in-dry-matter ranges—42% for 40–<50% fat, 46% for 50–<60% fat, and 52% for ≥60%—and states deviations beyond these specified minima/maxima are non-compliant with the General Standard for the Use of Dairy Terms.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition table",
+        "milkfat content",
+        "dry matter content",
+        "dry matter table",
+        "dry matter minimum",
+        "compositional compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.4 Essential sizes and shapes",
+      "summary": "Specifies essential sizes and shapes with a maximum height of approximately 5 cm and a minimum whole-cheese weight of 300 g for the flat-cylinder form.",
+      "categories": [
+        "presentation",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "size and shape",
+        "height requirement",
+        "weight requirement",
+        "minimum weight"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.5 Essential ripening procedure",
+      "summary": "States that rind formation and maturation (proteolysis) from surface to center are predominantly caused by Penicillium candidum and/or Penicillium camembertii and Penicillium caseicolum.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "ripening procedure",
+        "mould ripening"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits only additive functional classes justified in the accompanying table for ripened cheese, allowing colours in the cheese mass (per the General Standard for Food Additives) and certain acidity regulators, while other additive classes are not justified for this standard's product categories.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "additive table",
+        "additives table"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires products and the milk used in their manufacture to comply with maximum levels for contaminants and toxins in the General Standard for Contaminants and Toxins in Food and Feed and with CAC-established maximum residue limits for veterinary drugs and pesticides in milk.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "milk contaminants"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "6. HYGIENE",
+      "summary": "Recommends that Coulommiers be prepared and handled in accordance with the General Principles of Food Hygiene, the Code of Hygienic Practice for Milk and Milk Products, and other relevant Codex codes, and that the products comply with any applicable microbiological criteria established under Codex principles.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7. LABELLING",
+      "summary": "Adds specific labelling provisions: the name 'Coulommiers' may be used only for cheeses conforming to this standard (with qualifiers required if fat exceeds the reference range), country of origin (country of manufacture) must be declared (with substantial-transformation rules), milkfat content must be declared in an acceptable format, and non-retail container labelling must follow CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.1 Name of the food",
+      "summary": "Specifies that the name “Coulommiers” may be used for a cheese only if it complies with this standard (alternative local spelling allowed), requires a qualifier when fat content exceeds the reference range in Section 3.3 (stating the modification or fat content by an acceptable expression), and permits the designation to be used for cut, sliced, shredded or grated products made from compliant cheese; if the name is not used for a compliant cheese, the General Standard for Cheese (CXS 283-1978) naming rules apply.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name heading",
+        "product name",
+        "qualifying term",
+        "product form designation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.2 Country of origin",
+      "summary": "Requires declaration of the country of origin (defined as country of manufacture) and treats the country where substantial transformation occurs as the country of origin for labelling purposes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin declaration",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.3 Declaration of milkfat content",
+      "summary": "Mandates declaration of milk fat content in a manner acceptable in the retail country, either as percentage by mass, percentage of fat in dry matter, or grams per labeled serving (with number of servings stated).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "milkfat declaration",
+        "milkfat content"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.4 Labelling of non-retail containers",
+      "summary": "Directs that labelling of non-retail containers should follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Requires that methods of analysis and sampling for checking compliance with this standard be those contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard’s provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

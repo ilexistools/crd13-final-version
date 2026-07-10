@@ -1,0 +1,460 @@
+{
+  "doc_id": "ef278315-d0ca-4d1f-991f-64a1ef032180",
+  "title": "GUIDELINES FOR THE CONTROL OF TAENIA SAGINATA",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR THE CONTROL OF TAENIA SAGINATA",
+      "summary": "Document title only — Guidelines for the control of Taenia saginata.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "IN MEAT OF DOMESTIC CATTLE",
+      "summary": "Heading only — indicates the Guidelines focus on control of Taenia saginata in meat of domestic cattle.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "CAC/GL 85-2014",
+      "summary": "Document code only (CAC/GL 85-2014).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. INTRODUCTION",
+      "summary": "Defines bovine cysticercosis as infection of cattle striated muscle with Taenia saginata metacestodes, explains humans acquire taeniasis from eating raw/undercooked beef with live cysticerci, notes limited public health impact but substantial economic effects (inspection costs, carcass downgrading/condemnation, farm controls), highlights low sensitivity of routine post‑mortem inspection, and states the Guidelines adopt a risk management framework (preliminary activities, option selection, implementation, monitoring and review).",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "official control",
+        "risk management",
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "hazard description",
+        "impact overview",
+        "inspection resources",
+        "carcass disposition",
+        "farm controls",
+        "meat hygiene",
+        "inspection sensitivity",
+        "framework overview",
+        "preliminary activities",
+        "option selection",
+        "control implementation",
+        "monitoring review"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 2. OBJECTIVES",
+      "summary": "Primary objective: provide governments and industry with guidance on risk‑based measures to control T. saginata in meat of domestic cattle and to give a consistent technical basis for reviewing national/regional measures and judging equivalence for trade.",
+      "categories": [
+        "scope",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "primary objective",
+        "equivalence basis"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## 3. SCOPE AND USE OF THE GUIDELINES",
+      "summary": "These Guidelines, to be used with FAO/WHO/OIE Taeniasis guidance and the Code of Hygienic Practice for Meat, address control of cysticercosis in domestic cattle meat across the primary production‑to‑consumption chain and provide supplemental, flexible risk‑based guidance including reference to OIE diagnostic techniques for governments, industry and equivalence assessments.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## 3.1. Scope",
+      "summary": "Scope: addresses control of cysticercosis in meat of domestic cattle that may cause human taeniasis and applies across the primary production‑to‑consumption continuum, used with FAO/WHO/OIE Taeniasis Guidelines and CAC/RCP 58‑2005.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "scope applicability",
+        "food chain coverage",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 Use",
+      "summary": "Use: provides specific, risk‑based guidance for selecting post‑harvest control measures for bovine cysticercosis, supplements general food hygiene and meat codes, references OIE diagnostic methods, and is intended to be flexibly applied by competent authorities and industry (including for equivalence judgements).",
+      "categories": [
+        "scope",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "use heading",
+        "guidance use",
+        "diagnostic methods",
+        "application flexibility"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4. DEFINITIONS",
+      "summary": "Defines 'domestic cattle' to include Bos (taurus, indicus, banteng, gayal, yaks) and additionally Bubalus and Bison species, and defines 'herd' as animals of one kind kept together under human control.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "domestic cattle definition",
+        "herd definition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5. PRINCIPLES APPLYING TO CONTROL OF BOVINE CYSTICERCOSIS",
+      "summary": "Principles: meat hygiene programmes should incorporate food safety risk analysis, monitoring of slaughter and human surveillance data should inform hygiene requirements, and competent authorities should recognise equivalent alternative hygiene measures that achieve required safety and suitability outcomes and fair trade practices.",
+      "categories": [
+        "hygiene",
+        "risk assessment",
+        "analysis sampling",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principles heading",
+        "general principles",
+        "risk analysis",
+        "monitoring surveillance",
+        "equivalence recognition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6. PRELIMINARY RISK MANAGEMENT ACTIVITIES",
+      "summary": "Preliminary risk management activities include developing national or regional risk profiles (building on generic Codex profiles) and evaluating epidemiological evidence to guide selection of appropriate, risk‑based control measures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "6.1 Identification of a food safety issue",
+      "summary": "Advises preliminary RM activities of developing a national/regional risk profile and evaluating epidemiological evidence to support a risk‑based approach relative to the local or trade situation.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "food safety issue",
+        "preliminary activities",
+        "risk profile",
+        "epidemiological evidence"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "6.2 Risk Profile",
+      "summary": "Risk profiles collate scientific and epidemiological information (e.g., slaughter records, farm investigations, human surveillance and treatment data) to guide risk managers and industry in designing tailored food control systems; generic profiles are available from FAO/WHO repositories.",
+      "categories": [
+        "risk management",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk profile heading",
+        "risk profile",
+        "evidence sources"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7. IDENTIFICATION, SELECTION AND IMPLEMENTATION OF RISK-BASED CONTROL MEASURES",
+      "summary": "Provides a suite of risk‑based control options: farm‑level measures per FAO/WHO/OIE guidance, post‑slaughter measures (meat inspection, confirmation of suspect cysts, alternative inspections, validated treatments, traceability, movement control), and explains that slaughter populations can be classified as low prevalence using surveillance or public health data so that risk modelling may justify reduced inspection intensity, while noting incursions can still occur from external sources.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.1 Control measures at farm level",
+      "summary": "Advises that farm‑level control measures should be selected and applied in conjunction with the FAO/WHO/OIE Taeniasis Guidelines and cover all steps of the primary production‑to‑consumption continuum.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "farm controls heading",
+        "control measures"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.2 Post-slaughter control measures",
+      "summary": "Post‑slaughter options center on meat inspection (with histopathology confirmation of suspect cysts where practicable), recognition that routine inspection has low sensitivity, availability of alternative inspection procedures, validated meat treatments (heat, freezing, salting, irradiation), traceability between slaughterhouse and farm, and potential for competent authorities to impose movement controls and intensified surveillance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.2.1. Post mortem inspection",
+      "summary": "Post‑mortem inspection: routine control is primarily meat inspection with histopathological confirmation of suspect cysts where practicable, laboratory tests must have known sensitivity/specificity, routine inspection sensitivity for T. saginata is very low (especially in light infections), and inspection range/intensity varies by country.",
+      "categories": [
+        "inspection certification",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "post mortem inspection",
+        "meat inspection",
+        "test performance",
+        "inspection intensity"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.2.2. Alternative inspection procedures",
+      "summary": "Alternative inspection procedures: when a suspect carcass or part is identified, additional inspection of that carcass, its parts and cohorts can increase detection sensitivity, with procedures and intensity varying by country.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "alternative inspection"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7.2.3. Treatment of meat",
+      "summary": "Treatment of meat: validated temperature treatments (heating/freezing) are routine preventative controls and are used for suspect or confirmed carcasses and cohort carcasses, while salting and irradiation may be used if validated and approved by the competent authority.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "meat treatment",
+        "thermal treatment",
+        "preservation treatment"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.2.4. Traceability for slaughtered cattle",
+      "summary": "Traceability: competent systems linking slaughterhouses to places of production should be in place so positive or suspect carcass information can trigger farm‑level control measures and notification of suspect cohorts for intensified inspection.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "traceability heading",
+        "traceability records"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.2.5. Movement control and surveillance",
+      "summary": "The competent authority may impose movement control requirements on herds when monitoring data indicate such risk-based measures are appropriate.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "movement control heading",
+        "movement restrictions"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.3 Selection of risk-based control measures",
+      "summary": "Section heading introducing selection of risk-based control measures, including criteria for regarding slaughter populations as low prevalence and options for adjusting post-mortem inspection intensity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.3.1. Risk-based approach",
+      "summary": "Slaughter populations can be classed as low prevalence when slaughterhouse data, public‑health data or other epidemiological information show absent/very rare infection, and in such cases risk modelling may justify derogations or reduced intensity of routine post‑mortem inspection (e.g. palpation/incision) which the competent authority should apply; intensified inspection of individual carcasses and related groups is recommended when suspect cysts are detected, and the text warns that incursions can occur despite historical data (including from contaminated feed or infected people).",
+      "categories": [
+        "risk assessment",
+        "other",
+        "risk management",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "risk-based approach heading",
+        "low prevalence criteria",
+        "slaughterhouse data",
+        "public health data",
+        "footnote reference",
+        "epidemiological data",
+        "inspection derogation",
+        "consumer protection",
+        "intensified inspection",
+        "incursion note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "8. MONITORING AND REVIEW",
+      "summary": "Requires a robust monitoring system using slaughterhouse organoleptic post‑mortem inspection and laboratory reports (e.g. histopathology) to evaluate control performance, with trace‑back to farms when suspect cysts are found, application of on‑farm controls and intensified inspection as required, notification of intensified inspection results to the competent authority, and involvement of public health authorities.",
+      "categories": [
+        "monitoring"
+      ],
+      "subcategories": [
+        "section heading",
+        "system monitoring",
+        "data collection",
+        "trace back",
+        "result notification",
+        "public health involvement"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "9. RISK COMMUNICATION",
+      "summary": "Obliges communication of best practices for control of Taenia saginata in cattle to all production stakeholders and basic public‑health training on the parasite life cycle for persons involved in cattle production, and directs the competent authority to make monitoring/investigation information public and run education campaigns when there is a public health risk.",
+      "categories": [
+        "risk communication",
+        "training"
+      ],
+      "subcategories": [
+        "communication heading",
+        "stakeholder communication",
+        "public health training",
+        "public information"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

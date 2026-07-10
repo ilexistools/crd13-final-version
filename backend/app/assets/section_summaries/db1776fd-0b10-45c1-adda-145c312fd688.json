@@ -1,0 +1,204 @@
+{
+  "doc_id": "db1776fd-0b10-45c1-adda-145c312fd688",
+  "title": "1. Section I - SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. Section I - SCOPE",
+      "summary": "Applies to wild or cultivated spices and herbs requiring treatment before use as ingredients in processed meat and poultry and lists treatment methods and end-product criteria to ensure their suitability for such use.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "purpose"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. Section II - DEFINITIONS",
+      "summary": "Defines key terms for the Guide including 'spices and herbs', 'suitability for use', 'decontamination', and 'treatment' to frame requirements for making spices and herbs acceptable as ingredients in processed meat and poultry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 Spices and herbs are  the  aromatic parts of the leaves, flowers or other parts of plants used to impart an aroma or taste to foods.",
+      "summary": "Defines 'spices and herbs' as the aromatic parts of plants (leaves, flowers or other parts) used to impart aroma or taste to foods.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 Suitability for use means a condition where the contamination of spices and herbs with microorganisms causing spoilage or public health problems has been reduced to an extent that the spices and herbs are acceptable as ingredients in processed meat and poultry products.",
+      "summary": "Defines 'suitability for use' as reduction of microbial contamination to a level that makes spices and herbs acceptable for use in processed meat and poultry products, addressing spoilage and public health risks.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "suitability definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.3 Decontamination means  the  reduction by physical or chemical means  of  viable microorganisms that would impair the suitability for use of spices and herbs.",
+      "summary": "Defines 'decontamination' as the reduction, by physical or chemical means, of viable microorganisms that would impair suitability for use of spices and herbs.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "decontamination definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.4 Treatment means a decontamination process for spices and herbs.  This includes sorting, irradiation,  exposure  to  chemicals,  extraction,  heat  processing,  extrusion,  and  other  similar physical or chemical methods.",
+      "summary": "Defines 'treatment' as decontamination processes for spices and herbs, including sorting, irradiation, chemical exposure, extraction, heat processing, extrusion and similar methods.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "treatment definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3. Section III - TREATMENT",
+      "summary": "Requires treatment to be supervised by technically competent personnel, performed without undue delay and under conditions minimizing contamination and deterioration, and designed to meet the Guidelines' end-product criteria while minimizing quality loss; extraction agents must be food‑approved, irradiation and chemical treatments must follow relevant Codex/code and approved substances, treated products must be labelled on non-retail containers or accompanying documents, and plants must implement HACCP-based quality control and recognized laboratory methods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Treatment should be supervised by technically competent personnel.",
+      "summary": "States that treatments should be supervised by technically competent personnel.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "personnel supervision"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 All  steps  in  the  treatment  process,  including  packaging  should  be  performed  without undue  delay and under conditions which will minimize contamination, deterioration and development of microorganisms that will impair the suitability for use.",
+      "summary": "Requires all treatment steps, including packaging, to be done without undue delay and under conditions that minimize contamination, deterioration and microbial growth that would impair suitability for use.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process hygiene"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.3 Methods of treatment should be so that the treated spices and herbs will meet the endproduct criteria of these Guidelines.",
+      "summary": "Mandates that treatment methods must ensure the treated spices and herbs meet the end-product criteria set out in these Guidelines.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "end-product criteria"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.4 The  treatments  should  be  performed  in  such  a  way  that  there  is  a  minimum  effect  on quality and composition and a maximum decontamination effect.",
+      "summary": "Specifies that treatments should minimize adverse effects on quality and composition while maximizing decontamination and requires that extraction agents be approved and used per good manufacturing practice, irradiation follow Codex standards and codes of practice, and chemical treatments use approved substances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.4.1 Although  heat  processing  or  extrusion  processes  can  have  a  strong  bactericidal effect,  not  all  spices  and  herbs  can be exposed to such treatments without adversely affecting flavour and colour.",
+      "summary": "Notes that heat processing or extrusion can be strongly bactericidal but may not be suitable for all spices and herbs because they can adversely affect flavour and colour.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "heat treatment limits"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.4.2 Where the  treatment  involves  an  extraction  process,  the  extractant  should  be  approved for use in food and used according to good manufacturing practice.",
+      "summary": "States that extractants used in extraction treatments must be approved for use in food and applied according to good manufacturing practice.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "extraction requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    }
+  ]
+}

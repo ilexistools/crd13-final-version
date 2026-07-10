@@ -1,0 +1,379 @@
+{
+  "doc_id": "01b05470-c4a2-40b2-af00-db5b5059335a",
+  "title": "STANDARD FOR MOZZARELLA CXS 262-2006",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR MOZZARELLA CXS 262-2006",
+      "summary": "Title/header only: the document is the Codex Standard for Mozzarella (CXS 262-2006).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 2006. Amended in 2010, 2013, 2016, 2018, 2019, 2022, 2023.",
+      "summary": "Record of adoption and amendment history: adopted in 2006 and amended in 2010, 2013, 2016, 2018, 2019, 2022 and 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2022 Amendments",
+      "summary": "Amendment note: following the Forty-fifth Session of the Codex Alimentarius Commission (Dec 2022), Section 7.4 on labelling of non-retail containers was amended.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2023 Amendments",
+      "summary": "Amendment note: following the Forty-sixth Session of the Codex Alimentarius Commission (Dec 2023), food additive provisions were amended and aligned by inclusion in the General Standard for Food Additives (GSFA, CXS 192-1995).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1 SCOPE",
+      "summary": "Scope: this standard applies to mozzarella intended for direct consumption or for further processing, in accordance with the product description in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2 DESCRIPTION",
+      "summary": "Describes mozzarella as an unripened, rindless cheese (near white) with a smooth, elastic, long-stranded fibrous protein structure—high-moisture mozzarella is soft with layered pockets of milky liquid and may be packed with or without liquid, while low-moisture mozzarella is firm/semi‑hard suitable for shredding—and specifies production by 'pasta filata' processing (heating curd at suitable pH, kneading/stretching, cutting, molding and cooling) with other techniques permitted if they yield equivalent physical, chemical and organoleptic characteristics.",
+      "categories": [
+        "composition",
+        "presentation",
+        "quality",
+        "processing"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "product forms",
+        "product type",
+        "processing method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1 Raw materials",
+      "summary": "Permitted raw materials are cows' milk, buffaloes' milk, their mixtures and products derived from these milks (i.e., only milk from these species and derived milk products may be used).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Permitted ingredients include harmless lactic/flavour-producing starter cultures and other harmless microorganisms, rennet or other suitable coagulating enzymes, sodium chloride or potassium chloride (as salt substitute), safe processing aids, vinegar, potable water, and rice/corn/potato flours/starches which may be used as anti‑caking agents on the surface of cut/sliced/shredded low‑moisture mozzarella only and only in amounts functionally necessary under good manufacturing practice (notwithstanding provisions in the General Standard for Cheese).",
+      "categories": [
+        "composition",
+        "additives",
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "starter cultures",
+        "coagulating enzymes",
+        "salt substitute",
+        "processing aids",
+        "acid ingredient",
+        "water ingredient",
+        "anti-caking agents",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.3 Composition",
+      "summary": "Specifies compositional requirements: minimum milkfat in dry matter (≥18% for low‑moisture, ≥20% for high‑moisture), dry matter reference ranges (40–50%), and a table linking ranges of fat-in-dry-matter to corresponding minimum dry matter values for low- and high‑moisture categories; compositional modifications beyond the stated minima/maxima are non‑compliant with the General Standard for the Use of Dairy Terms.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition table",
+        "milkfat minimum",
+        "dry matter reference",
+        "milkfat and dry matter",
+        "fat content relation",
+        "dry matter relation",
+        "moisture categories",
+        "low moisture minimum",
+        "high moisture minimum",
+        "moisture minimums",
+        "composition compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Only additive functional classes identified as technologically justified in the provided table may be used (with reference to the General Standard for Food Additives CXS 192‑1995), specifying which classes are allowed in cheese mass versus surface treatment for low‑ and high‑moisture mozzarella and including footnote conditions (e.g., colours only to obtain characteristic colour; anti‑caking agents only for certain surface treatments; specific preservative and surface‑treatment restrictions).",
+      "categories": [
+        "additives",
+        "other"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted classes",
+        "authorized additives",
+        "additives table",
+        "additive classes",
+        "application matrix",
+        "use notes",
+        "legend note",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "5. CONTAMINANTS",
+      "summary": "Products covered by this standard and the milk used in their manufacture must comply with the maximum levels for contaminants and toxins in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995) and with Codex maximum residue limits for veterinary drugs and pesticides in milk.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum levels",
+        "milk contaminants"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "6. HYGIENE",
+      "summary": "Recommends that the product be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57‑2004) and other relevant Codex hygienic texts.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic preparation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2. LABELLING",
+      "summary": "Non‑substantive heading/introductory provision noting that additional specific labelling rules follow and that the General Standard for the Labelling of Pre‑packaged Foods (CXS 1‑1985) and the General Standard for the Use of Dairy Terms (CXS 206‑1999) apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.1 Name of the food",
+      "summary": "The name 'mozzarella' may be used only if the product conforms to this standard (alternative spellings permitted where customary), high‑moisture mozzarella must include a qualifying term describing its nature, cheeses with fat content outside the reference range but above the absolute minimum must be labelled with an appropriate qualifier or fat declaration (as fat in dry matter or percentage) using characterizing terms or permitted nutritional claims, and the name may also be used for cut/sliced/shredded/grated products derived from compliant cheese.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "product name",
+        "qualifying term",
+        "qualification statement",
+        "product designation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.2 Country of origin",
+      "summary": "Requires declaring the country of origin as the country of manufacture (not the country in which the name originated), and where the product undergoes substantial transformation in a second country that country shall be considered the country of origin for labelling.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin heading",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.3 Declaration of milkfat content",
+      "summary": "Obliges declaration of milkfat content in a manner acceptable in the country of retail sale, either (i) as a percentage by mass, (ii) as percentage of fat in dry matter, or (iii) in grams per serving provided the number of servings is stated.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "milkfat heading",
+        "milkfat declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.4 Labelling of non-retail containers",
+      "summary": "States that labelling of non-retail containers should comply with the Codex General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "8. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Mandates using the methods of analysis and sampling in CXS 234-1999 to check compliance with this standard; specifies a method (confocal laser scanning microscopy) for identifying typical structure when determining equivalency of 'pasta filata' processing with other techniques, notes that for comparative nutritional claims 40% fat in dry matter is the reference, and that repackaging/cutting/slicing/shredding/grating are not regarded as substantial transformation.",
+      "categories": [
+        "analysis sampling",
+        "processing",
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "compliance methods",
+        "equivalency method",
+        "page marker",
+        "nutritional claim",
+        "substantial transformation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "APPENDIX - ADDITIONAL INFORMATION",
+      "summary": "Informative appendix (not altering mandatory provisions) providing additional information for high‑moisture mozzarella, including manufacturing notes that principal starter cultures are Streptococcus thermophilus and/or Lactococcus spp. and that products from buffalo milk shall be salted in cold brine, followed by bibliographic notes.",
+      "categories": [
+        "other",
+        "scope",
+        "presentation",
+        "processing",
+        "composition"
+      ],
+      "subcategories": [
+        "appendix heading",
+        "informative appendix",
+        "product subtype",
+        "manufacture method",
+        "starter cultures",
+        "salt brining",
+        "notes heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

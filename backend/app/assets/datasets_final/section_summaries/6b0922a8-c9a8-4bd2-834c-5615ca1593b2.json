@@ -1,0 +1,634 @@
+{
+  "doc_id": "6b0922a8-c9a8-4bd2-834c-5615ca1593b2",
+  "title": "REGIONAL STANDARD FOR LAVER PRODUCTS Asia CXS 323R-2017 Adopted in 2017. Amended in 2023.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL STANDARD FOR LAVER PRODUCTS Asia CXS 323R-2017 Adopted in 2017. Amended in 2023.",
+      "summary": "Document title: Regional Standard for Laver Products (Asia CXS 323R‑2017), adopted 2017 and amended in 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2023 Amendments",
+      "summary": "Amendment notice: following the Codex Alimentarius Commission decisions in December 2023, Section 8.3 on labelling of non‑retail containers was amended.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to dried, roasted and seasoned laver products of the genus Pyropia offered for direct consumption, including for catering or for repackaging and further processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2. DESCRIPTION",
+      "summary": "Describes laver products (genus Pyropia), permitted styles (sheet, shredded, rolled, lump, etc.) and product types—dried (including first and re‑dried), roasted (dried then roasted without seasoning), and seasoned (dried laver seasoned and possibly roasted/stir‑fried or treated with oil), including a specific 'seasoned laver for brewing' type.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Product definition",
+      "summary": "Defines laver products as those prepared mainly from raw laver of the genus Pyropia that are dried and may be subsequently roasted and/or seasoned.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Styles",
+      "summary": "Permits multiple product presentations (e.g., shredded, sheet, rolled, round lump) provided the product meets this standard's requirements and the label adequately describes the presentation so as not to mislead consumers.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "styles heading",
+        "product styles"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Product types",
+      "summary": "Classifies products into dried laver (including re-dried for storage), other dried laver, roasted laver (dried products roasted without seasoning), and seasoned laver (including a 'for brewing' form); seasoned laver may be processed by roasting, frying or oil treatment, and 'for brewing' is broken, roasted/stir-fried and consumed with added boiling water.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.3.1 Dried laver products",
+      "summary": "Defines the category 'dried laver products' to include 'dried laver' produced by washing, chopping/cutting, moulding, dehydrating and drying after harvest (with optional re-drying) and 'other dried laver' as any product other than that definition.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.3.1.1 Dried laver",
+      "summary": "Specifies 'dried laver' as raw laver processed by washing, chopping/cutting, moulding, dehydrating and drying after harvest (first dried products) and notes it may undergo a re-drying process for long-term storage (second dried products).",
+      "categories": [
+        "classification",
+        "processing"
+      ],
+      "subcategories": [
+        "product subtype",
+        "dried laver process"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.3.1.2 Other dried laver",
+      "summary": "'Other dried laver' is defined only as products other than the 'dried laver' described in Section 2.3.1.1.",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "product subtype",
+        "definition statement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.3.2 Roasted laver product",
+      "summary": "Defines 'roasted laver product' as dried laver (Section 2.3.1) that has been roasted without seasoning, with resulting changes to physicochemical characteristics such as colour, moisture and texture.",
+      "categories": [
+        "classification",
+        "processing"
+      ],
+      "subcategories": [
+        "product subtype",
+        "roasting process"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.3.3 Seasoned laver products",
+      "summary": "Defines seasoned laver products: seasoned laver is dried laver seasoned with optional ingredients (Section 3.1.2) and may be roasted, stir/deep-fried or treated with edible oil before or after seasoning; 'seasoned laver for brewing' is broken, roasted/stir-fried dried laver that is seasoned (or has seasoning added when consumed) and is intended to be consumed with boiling water added.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.3.3.1 Seasoned laver",
+      "summary": "Defines 'seasoned laver' as dried laver seasoned with optional ingredients (Section 3.1.2) and permits additional processing such as roasting, stir-/deep-frying or treatment with edible oil before or after seasoning.",
+      "categories": [
+        "classification",
+        "processing"
+      ],
+      "subcategories": [
+        "product subtype",
+        "seasoning process"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.3.3.2 Seasoned laver for brewing",
+      "summary": "Defines 'seasoned laver for brewing' as dried laver (Section 2.3.1.1) that is broken and roasted/stir-fried and is either pre-seasoned or seasoned when consumed, with boiling water added before consumption.",
+      "categories": [
+        "classification",
+        "processing"
+      ],
+      "subcategories": [
+        "product subtype",
+        "brewing preparation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "## 3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies composition and quality requirements: basic ingredient is raw laver (genus Pyropia) with optional ingredients allowed if basic laver exceeds 60% (mixing must be reflected in the product name), seasoned products must be food-grade and meet Codex standards, the final product must retain characteristic flavour and colour and be free from off-flavours; sets moisture and acid-value limits by product type and defines defectives and lot acceptance (sampling with AQL 6.5).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "## 3.1 Composition",
+      "summary": "States basic ingredient is raw laver of genus Pyropia and allows other edible seaweeds in products of Section 2.3.1 provided the basic ingredient is more than 60% of weight, with mixtures reflected in the product name (see Section 8.1).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Specifies the basic ingredient as raw laver belonging to the genus Pyropia.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredient"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.1.2 Optional ingredients",
+      "summary": "Permits other edible seaweeds in products of Section 2.3.1 provided the basic laver (Section 3.1.1) remains over 60% by weight and requires the presence of other seaweeds to be indicated in the product name (see Section 8.1).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients heading",
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.2 Quality factors",
+      "summary": "Requires the final product to retain flavour and colour representative of its raw materials and processing and be free from off-flavours; specifies maximum moisture levels and an acid-value limit for certain seasoned/oil-treated products, defines a container as defective if it fails applicable quality requirements, and sets lot acceptance based on an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.2.1 Moisture content",
+      "summary": "Sets maximum moisture contents by product type: dried laver products 14% (7% for second dried), roasted laver 5%, seasoned laver 5% (10% for seasoned laver for brewing).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "moisture content heading",
+        "table header",
+        "table separator",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.2.2 Acid value",
+      "summary": "Specifies a maximum acid value of 3.0 mg KOH/g for seasoned laver products that are fried or treated with edible oil.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "acid value heading",
+        "table header",
+        "table separator",
+        "acid value limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.3 Classification of defectives",
+      "summary": "Defines a defective container as one that fails to meet one or more applicable quality requirements specified in Section 3.2.",
+      "categories": [
+        "analysis sampling",
+        "quality"
+      ],
+      "subcategories": [
+        "defective classification",
+        "defective container"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "3.4 Lot acceptance",
+      "summary": "States a lot is acceptable when the number of defective containers does not exceed the acceptance number (c) of the applicable sampling plan using an acceptable quality level (AQL) of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Prohibits any food additives in dried and roasted laver products, permits specified acidity regulators, anticaking agents, flavour enhancers, sweeteners, thickeners and antioxidants in seasoned laver only in accordance with the General Standard for Food Additives (CXS 192-1995) and related tables, allows acesulfame potassium (INS 950) up to 300 mg/kg, and requires flavourings to comply with the Guidelines for the Use of Flavourings (CXG 66-2008).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.1 Dried laver products and roasted laver products",
+      "summary": "For dried and roasted laver products, the standard prohibits the use of any food additives.",
+      "categories": [
+        "labelling",
+        "additives"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "additives prohibition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.2 Seasoned laver products",
+      "summary": "Seasoned laver products may contain acidity regulators, anticaking agents, flavour enhancers, sweeteners, thickeners and antioxidants only as authorized by the General Standard for Food Additives (CXS 192-1995) for the specified food categories or Table 3, and additionally lists specific permitted additives (e.g. INS 950 acesulfame potassium up to 300 mg/kg).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "4.2.1 Flavourings",
+      "summary": "Flavourings used in these products must comply with the Guidelines for the Use of Flavourings (CXG 66-2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings heading",
+        "flavourings compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5. CONTAMINANTS",
+      "summary": "Products covered by this standard must meet the maximum levels for contaminants and toxins in CXS 193-1995 and comply with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6. HYGIENE",
+      "summary": "Products should be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1-1969) and relevant Codex texts, and must comply with microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Sets weights-and-measures requirements: net contents must be declared in g/kg or number of sheets (or both), containers failing the net-contents requirement are classified as defectives, and lot acceptance is determined by a sampling plan with an AQL of 6.5 (acceptance number c).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.1 Net contents",
+      "summary": "Net contents must be declared in units of weight ('g' or 'kg'), number of sheets, or a combination of both.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.1.1 Classification of defectives",
+      "summary": "A container that fails to meet the net-contents requirement of Section 7.1 is to be considered a defective.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defectives classification",
+        "defective container"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.1.2 Lot acceptance",
+      "summary": "A lot meets the net-contents requirement when the number of defectives (per Section 7.1.1) does not exceed the sampling plan's acceptance number (c) using an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8. LABELLING",
+      "summary": "In addition to the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), product names must follow Section 2.3 (and reflect optional non-Pyropia seaweeds), net contents declared per Section 7.1 (and importing-country rules for retail weight), non-retail labelling per CXS 346-2021, and edible foreign matter must be identified and declared on the label or accompanying documents.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.1 Name of the products",
+      "summary": "The product name must conform to Section 2.3; other local names may be used if not misleading, and any inclusion of edible seaweeds other than Pyropia must be indicated in the product name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of products",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.2 Labelling of net contents",
+      "summary": "Net contents must be declared in accordance with Section 7.1, and for retail packages weight must comply with the importing country's requirements.",
+      "categories": [
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net contents",
+        "net contents declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.3 Labelling of non-retail containers",
+      "summary": "Labelling of non-retail containers must follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021), and edible foreign matter must be identified and declared on the container label or accompanying documents.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "In addition, edible foreign matters i  shall be identified and appropriately declared on the label of the container or in the accompanying documents.",
+      "summary": "Edible foreign matter must be identified and appropriately declared on the container label or in accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "foreign matter declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "9. PACKAGING",
+      "summary": "Retail packaging must be either completely transparent (except printing areas) or completely opaque, and packaging must protect the products from moisture.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "packaging requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "10. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Compliance with this standard must be checked using the methods of analysis and sampling in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods",
+        "compliance testing"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

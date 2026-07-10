@@ -1,0 +1,820 @@
+{
+  "doc_id": "0beba4d4-e10c-42f2-87f2-6e3c30b28fd6",
+  "title": "GUIDELINES FOR FOOD HYGIENE CONTROL MEASURES IN TRADITIONAL MARKETS FOR FOOD",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR FOOD HYGIENE CONTROL MEASURES IN TRADITIONAL MARKETS FOR FOOD",
+      "summary": "Document title/scope heading only: GUIDELINES FOR FOOD HYGIENE CONTROL MEASURES IN TRADITIONAL MARKETS FOR FOOD (no substantive content provided).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXG 103-2024 Adopted in 2024",
+      "summary": "Document identifier/title only; indicates Codex guideline CXG 103-2024 adopted in 2024 (no substantive content).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. INTRODUCTION",
+      "summary": "Introduction describing traditional markets for food (open-air or enclosed, formal or informal) as important sources of affordable raw and ready-to-eat foods that provide employment, noting common inadequate hygienic practices and stating the guideline's purpose to strengthen food hygiene capacities for competent authorities, FBOs and consumers within a One Health approach.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "background",
+        "purpose"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. OBJECTIVES",
+      "summary": "States the guideline's objective to guide development and implementation of policies and regulations so traditional markets are designed and managed to promote food safety, and to provide FBOs, consumers, market authorities and other stakeholders with advice on food hygiene (handling, personnel health, training, environment) to ensure food safety.",
+      "categories": [
+        "scope",
+        "hygiene"
+      ],
+      "subcategories": [
+        "scope heading",
+        "objective",
+        "hygiene guidance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. SCOPE AND USE",
+      "summary": "Scope and use: the guideline provides guidance on food safety regulation and hygienic handling in traditional markets selling raw, prepared and/or ready-to-eat foods and is intended for competent authorities, FBOs and consumers — competent authorities decide application, FBOs should apply the hygienic practices, consumers should follow instructions, and the guideline should be used with relevant Codex texts (e.g., CXC 1-1969).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Scope",
+      "summary": "Provides guidance on food safety regulation and hygienic handling activities for all stakeholders involved in traditional markets where raw, prepared and/or ready-to-eat foods are sold.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Use",
+      "summary": "Intended use: guidance for competent authorities and stakeholders in developing/implementing food safety control measures in traditional markets — competent authorities decide how to apply the guideline, FBOs must apply the hygienic practices, consumers must follow hygiene instructions, and it should be used alongside relevant Codex texts such as CXC 1-1969.",
+      "categories": [
+        "scope",
+        "official control",
+        "hygiene",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "use guidance",
+        "authority responsibility",
+        "hygienic practices",
+        "consumer hygiene",
+        "related texts"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4. DEFINITIONS",
+      "summary": "Defines key terms used in the guideline relevant to traditional markets, including competent authority, consumer, crockery/cutlery, equipment, food, FBO, food handler, food hygiene, food grade, food safety, food vendors, hazard, market authority, perishable food, potable water, and traditional markets for food.",
+      "categories": [
+        "definition",
+        "equipment",
+        "hygiene",
+        "composition",
+        "risk assessment",
+        "storage"
+      ],
+      "subcategories": [
+        "definition heading",
+        "definition intro",
+        "authority definition",
+        "consumer definition",
+        "utensils definition",
+        "equipment definition",
+        "food definition",
+        "fbo definition",
+        "food handler",
+        "hygiene definition",
+        "food grade",
+        "food safety",
+        "vendor definition",
+        "hazard definition",
+        "perishable food",
+        "water definition",
+        "market definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5. GENERAL REQUIREMENTS",
+      "summary": "General requirements: competent authorities should formulate and implement outcome-based policies and regulations, define roles and responsibilities, approve market operations and types of food sold, ensure market infrastructure supports hygienic practices, set licensing conditions including handler competence, and require pest/animal control and zoonotic-risk measures consistent with a One Health approach.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5.1 Policies and regulations",
+      "summary": "Competent authorities must formulate and implement policies/regulations and translate hygienic requirements to local conditions and risks, assess operational risk by market size/infrastructure/type of food, approve types/locations of sale, implement surveillance and enforcement (permits, licences, sanctions), and clearly define roles and responsibilities while enabling market authorities to assist with day-to-day operations and licensing where appropriate.",
+      "categories": [
+        "scope",
+        "risk management",
+        "official control",
+        "risk assessment",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "policy measures",
+        "authority guidance",
+        "operation risk",
+        "market approval",
+        "authority duties",
+        "food safety controls",
+        "surveillance systems",
+        "regulatory measures",
+        "roles responsibilities",
+        "market operations",
+        "licensing support"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "5.2 Market infrastructure",
+      "summary": "Market infrastructure must be designed and constructed to promote hygienic food handling (smooth, easy-to-clean surfaces), and high-risk activities (live animals, raw meat, poultry, fish) should be physically separated from incompatible activities to prevent cross-contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "market infrastructure",
+        "market design",
+        "sanitary surfaces",
+        "cross contamination"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5.3 Conditions for licensing/registration",
+      "summary": "FBOs must meet minimum requirements set by competent authorities and ensure food handlers are competent in food hygiene before issuing licences/registration, with training frequency and type agreed by stakeholders based on market needs and product types.",
+      "categories": [
+        "inspection certification",
+        "training"
+      ],
+      "subcategories": [
+        "licensing conditions",
+        "minimum requirements",
+        "handler competence",
+        "training frequency"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.4 Pest, animal and zoonotic foodborne agents control",
+      "summary": "Market authorities and FBOs must implement effective control of animals and pests, hygienically dispose of contaminated/infested food, use chemical/physical/biological control methods that do not threaten food or people, apply preventive measures against zoonotic agents (e.g., handwashing, cleaning, disinfection), and raise awareness about hazards from wild animals and wildlife meat per a One Health approach.",
+      "categories": [
+        "pest control",
+        "hygiene",
+        "training"
+      ],
+      "subcategories": [
+        "pest animal control",
+        "pest control measures",
+        "infested food disposal",
+        "safe control agents",
+        "zoonotic prevention",
+        "hazard awareness"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6. FOOD BUSINESS OPERATORS",
+      "summary": "Overview for FBOs covering food handler health, personal hygiene and behaviour, training and competence, formation of FBO associations, and FBO responsibilities for ensuring food safety, hygiene, training, record-keeping, traceability, complaint handling, consumer information, and pest control.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6.1 Health status of food handlers",
+      "summary": "Food handlers must be healthy and, where necessary, undergo regular health checks, medical examinations, immunizations and hold medical certificates; handlers displaying symptoms such as jaundice, diarrhoea, vomiting, fever, sore throat with fever, discharges, or infected skin lesions must stop handling food and seek treatment, and known carriers of foodborne organisms must be excluded from food handling until medically certified fit.",
+      "categories": [
+        "health status",
+        "hygiene"
+      ],
+      "subcategories": [
+        "health status heading",
+        "handler health",
+        "illness exclusion",
+        "carrier exclusion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.2 Personal hygiene and behaviour",
+      "summary": "Food handlers must observe personal hygiene and behaviour requirements including wearing clean clothing and appropriate PPE, washing hands with soap and water (hand sanitizers only as adjunct), keeping nails short and avoiding jewellery, covering hair and wounds, prohibiting smoking/chewing gum during food preparation, avoiding unhygienic acts (spitting, picking), not coughing/sneezing over food, and using stalls only for their intended purpose.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal hygiene",
+        "personal hygiene practices",
+        "protective clothing",
+        "hand washing",
+        "nail jewelry control",
+        "hair covering",
+        "wound protection",
+        "smoking prohibition",
+        "unhygienic behavior",
+        "cough sneeze control",
+        "designated use"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.3 Training and competence",
+      "summary": "Food handlers must receive adequate food hygiene training and demonstrate competence; training should be provided or recognized by competent authorities with stakeholder engagement, use pictorial and locally translated materials (waterproof where useful), employ simple 'dos and don'ts' posters, and be tailored to trainees' knowledge and skill levels.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "food hygiene training",
+        "training provision",
+        "stakeholder engagement",
+        "training materials",
+        "trainee needs"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6.4 FBO associations",
+      "summary": "Encourages formation of FBO associations or cooperatives to liaise with authorities, support implementation of hygiene measures, promote continuous capacity building, and foster self-regulation to improve adherence to food safety requirements.",
+      "categories": [
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "section heading",
+        "hygiene measures",
+        "capacity building"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6.5 FBOs responsibilities",
+      "summary": "FBOs are responsible for the hygiene and safety of the food they handle, including developing/verifying safe processes, maintaining appropriate records, ensuring personnel competence, implementing simple traceability (one-step forward/back), operating a consumer complaint system, promoting a food safety culture, providing clear consumer information (including allergens), and taking measures to prevent and eliminate pests (with precautions for service animals like guide dogs).",
+      "categories": [
+        "other",
+        "hygiene",
+        "documentation",
+        "training",
+        "labelling",
+        "pest control"
+      ],
+      "subcategories": [
+        "section heading",
+        "fbo responsibilities",
+        "process control",
+        "record keeping",
+        "personnel competence",
+        "traceability system",
+        "complaint system",
+        "food safety culture",
+        "consumer information",
+        "animal exclusion",
+        "pest removal"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7. LOCATION, DESIGN, LAYOUT, AND STRUCTURES",
+      "summary": "Location, design, layout and structures: competent authorities set standards for market siting and infrastructure, which should avoid polluted, flood-prone, pest-prone or poorly serviced waste areas; market design/layout must be approved and provide adequate space, drainage, segmentation for high-risk foods, utilities (power, potable water, ventilation, lighting), waste and washing facilities, and structures and surfaces must be food-grade, cleanable and protect against pests and weather, with appropriate storage equipment, monitoring/calibration of devices, and compliant water, wastewater, solid waste and toilet facilities.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.1 Location",
+      "summary": "Competent authorities are responsible for setting standards for market location, infrastructure and utilities, and traditional markets should be sited away from environmentally polluted or flood-prone areas, locations prone to pest infestations, and areas where solid or liquid waste cannot be effectively removed.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "section heading",
+        "authority responsibilities",
+        "location requirements"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.2 Design and layout",
+      "summary": "Sets design and layout obligations for traditional food markets including prior review/approval by competent/market/FBO authorities; adequate space for stalls, preparation and storage; material flow to prevent contamination; graded pathways and drainage; drainage inlet/outlet or hygienic wastewater disposal; market segmentation for high‑/low‑risk foods; proper placement of toilets/handwashing/eating facilities; designated solid waste, washing and disinfecting areas; adequate ventilation, power, potable water supply (pressure and protection), lighting; and unobstructed access to permit cleaning.",
+      "categories": [
+        "other",
+        "scope",
+        "official control",
+        "processing",
+        "classification",
+        "hygiene",
+        "equipment"
+      ],
+      "subcategories": [
+        "section heading",
+        "design requirements",
+        "approval procedure",
+        "space requirements",
+        "material flow",
+        "drainage design",
+        "wastewater disposal",
+        "market segmentation",
+        "facility placement",
+        "waste areas",
+        "ventilation requirements",
+        "power supply",
+        "water supply",
+        "lighting requirements",
+        "clean access"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.3 Structures",
+      "summary": "Requires market structures to be reviewed/approved by competent or market authorities and constructed of impervious, cleanable, maintainable materials with food‑grade, non‑absorbent surfaces in preparation areas, appropriate heights for work surfaces, adequate lighting, weather protection, temperature/humidity controls where needed, pest exclusion, floor drains, smoke hoods/flues above cooking areas, and potable (and where necessary hot) water‑equipped washing facilities draining to approved systems, plus compliance with any other competent authority requirements.",
+      "categories": [
+        "other",
+        "equipment",
+        "storage",
+        "pest control",
+        "hygiene",
+        "official control"
+      ],
+      "subcategories": [
+        "section heading",
+        "facility materials",
+        "prep area materials",
+        "food contact surfaces",
+        "work surface height",
+        "lighting requirements",
+        "weather protection",
+        "temperature humidity control",
+        "pest exclusion",
+        "drainage provision",
+        "ventilation hoods",
+        "washing facilities",
+        "other authority requirements"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.4 Food storage equipment",
+      "summary": "Specifies that food storage equipment must be food‑grade and easy to clean, with refrigerator/freezer temperatures monitored and ice for direct food cooling made from potable water and replenished appropriately; monitoring devices must be used only as intended and devices such as thermometers, controls and scales must be calibrated, with documented calibration frequency, responsibilities, monitoring/verification, corrective actions and records.",
+      "categories": [
+        "equipment",
+        "documentation"
+      ],
+      "subcategories": [
+        "storage equipment heading",
+        "storage equipment design",
+        "temperature monitoring",
+        "intended use restriction",
+        "calibration requirements",
+        "calibration records"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.5 Water and sanitation",
+      "summary": "Section heading only (Water and sanitation) with no substantive provisions in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.5.1 Water supply",
+      "summary": "Obliges traditional food markets to ensure a sufficient supply of potable water.",
+      "categories": [
+        "water",
+        "hygiene"
+      ],
+      "subcategories": [
+        "water supply heading",
+        "potable water supply"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.5.2 Liquid waste disposal",
+      "summary": "Requires an efficient wastewater disposal system compliant with national regulations, maintained in good repair, sized for peak loads and fitted with traps to prevent solid waste discharge to drains/sewers.",
+      "categories": [
+        "waste disposal",
+        "hygiene"
+      ],
+      "subcategories": [
+        "liquid waste heading",
+        "wastewater disposal"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.5.3 Solid waste disposal",
+      "summary": "Sets solid waste obligations: prevent contamination of food/potable water, remove waste from working areas as often as necessary and at least daily, provide receptacles at strategic locations, segregate and securely contain waste (tight‑fitting lids), empty and clean containers as needed, dispose sanitary where collection is absent per competent authority, clean/disinfect waste equipment/storage when required using appropriate disinfectants, and routinely inspect waste areas for pests and eliminate infestations.",
+      "categories": [
+        "waste disposal",
+        "hygiene",
+        "pest control"
+      ],
+      "subcategories": [
+        "solid waste heading",
+        "solid waste requirements",
+        "solid waste handling",
+        "waste removal frequency",
+        "waste receptacles",
+        "waste segregation",
+        "waste container cleaning",
+        "sanitary waste disposal",
+        "waste area sanitation",
+        "disinfectant use",
+        "waste area inspection"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.5.4 Toilets and sanitary facilities",
+      "summary": "Mandates that every traditional food market provide sufficient, easily accessible toilets and sanitary facilities that are kept clean and operational.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitary facilities heading",
+        "toilet facilities"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "8. FOOD PREPARATION",
+      "summary": "Comprehensive food preparation requirements for FBOs covering sourcing (reliable suppliers, freshness), dedicated containers, contamination‑preventing transport and cold chain where needed, permitted additives, traceability/records; equipment hygiene and maintenance; safe handling, thawing, cooking (sufficient time/temperature), reheating limits, potable water/ice use; serving rules to prevent hand contact and cross‑contamination and recommended holding temperatures; unsold food handling and disposal; hygienic transportation and storage (separation of raw/cooked, temperature control, first‑in/first‑out and expiry checks).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8.1 Requirements",
+      "summary": "Requires FBOs to source raw materials and ice from reliable sources, ensure ingredient freshness, use dedicated food containers, prevent contamination during transport (including cold chain where needed), use only permitted additives per applicable standards, and maintain appropriate traceability and records to support food safety.",
+      "categories": [
+        "hygiene",
+        "composition",
+        "quality",
+        "packaging",
+        "transport",
+        "additives",
+        "documentation"
+      ],
+      "subcategories": [
+        "requirements heading",
+        "food preparation requirements",
+        "raw material sourcing",
+        "ingredient freshness",
+        "dedicated containers",
+        "contamination prevention",
+        "cold chain",
+        "permitted additives",
+        "traceability records"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8.2 Equipment maintenance, cleaning and sanitation/disinfection",
+      "summary": "Requires all food‑preparation equipment and potable water containers to be cleaned and disinfected as necessary with food‑safe agents, be food‑grade and corrosion‑resistant, have damaged or unsuitable items removed from use, and ensure cutting surfaces are intact and easy to clean and disinfect.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "cleaning disinfection",
+        "food grade equipment",
+        "equipment maintenance",
+        "food contact surfaces"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "## 9. CONSUMERS",
+      "summary": "Section heading (Consumers) introducing consumer obligations on hygiene, awareness and waste disposal with related subsections; the heading itself contains no separate substantive rules beyond those subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "## 9.1 General requirements",
+      "summary": "Stipulates consumer hygienic duties in traditional markets including preventing food contamination, washing/disinfecting hands before touching food, avoiding unnecessary contact with ready‑to‑eat foods and unsafe behaviours (spitting, smoking, littering), disposing leftovers properly, reporting unhygienic food handler behaviour, and seeking medical attention for foodborne illness symptoms.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "general hygiene",
+        "contamination prevention",
+        "hand hygiene",
+        "food contact avoidance",
+        "unsafe behaviour",
+        "waste handling",
+        "report unhygienic behaviour",
+        "illness reporting"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "## 9.2 Consumer awareness",
+      "summary": "Requires consumers to seek guidance on safe handling/preparation/storage/waste disposal, read product labels, practice hand hygiene, understand intended food use (ready‑to‑eat vs for processing), avoid contaminating vending areas, be informed about allergens, and calls for competent authorities to provide communication and guidance.",
+      "categories": [
+        "consumer awareness",
+        "training",
+        "labelling",
+        "hygiene"
+      ],
+      "subcategories": [
+        "awareness heading",
+        "consumer guidance",
+        "food handling guidance",
+        "label awareness",
+        "hand hygiene",
+        "intended use",
+        "contamination prevention",
+        "allergen declaration",
+        "consumer communication"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "## 9.3 Waste disposal",
+      "summary": "Directs consumers to dispose waste appropriately into designated waste disposal systems and facilities.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste disposal heading",
+        "waste disposal"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "10. MONITORING AND EVALUATION",
+      "summary": "Outlines monitoring and evaluation responsibilities for competent/market authorities and FBOs to assess market hygiene and take corrective actions, requires competent authorities to implement a water safety management plan, recommends regular market assessments to prioritize improvements, and encourages stakeholder committees and incentive programmes to improve practices.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "10.1 Monitoring and evaluation programmes",
+      "summary": "Requires competent and/or market authorities and FBOs to use monitoring and evaluation systems to assess food hygiene and safety and take corrective actions, mandates competent authorities implement a water safety management plan per current regulations, and calls for regular market assessments to identify improvements with market authority support.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "monitoring heading",
+        "monitoring evaluation",
+        "water safety plan",
+        "market assessment"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "10.2 Stakeholder committee",
+      "summary": "Encourages each market to form a stakeholder committee of FBOs, competent authorities, consumer associations and market authorities to advise on market cleaning, repairs and access to services like potable water and waste management.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "committee heading",
+        "stakeholder committee"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "10.3 Incentive programmes",
+      "summary": "States that incentive‑based programmes may be used to facilitate and improve food safety practices among FBOs and consumers.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "incentive programmes"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

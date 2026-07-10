@@ -1,0 +1,567 @@
+{
+  "doc_id": "d9bf1c0a-3ca1-4264-95e1-9eaa0f19bed8",
+  "title": "INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "INTRODUCTION",
+      "summary": "Introduces food irradiation as processing by ionizing radiation (gamma, X‑rays, accelerated electrons) to control pathogens, reduce microbial load and insect infestation, inhibit germination and extend shelf life, and states regulatory control should follow the General Standard for Irradiated Foods (CXS 106-1983) and this Code whose purposes are to ensure safe and correct implementation, establish documentation/traceability for irradiated products, ensure conformity and correct labelling in international trade, and to provide HACCP‑consistent processing guidance (HACCP not required where irradiation is used for non‑safety purposes).",
+      "categories": [
+        "scope",
+        "processing",
+        "official control",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "irradiation purpose",
+        "regulatory reference",
+        "control objectives",
+        "safe implementation",
+        "traceability records",
+        "trade label",
+        "processing principles"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. OBJECTIVES",
+      "summary": "This Code identifies essential practices to implement effective radiation processing that maintain product quality and produce food safe and suitable for consumption.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "objectives statement"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. SCOPE, USE and DEFINITIONS",
+      "summary": "This section sets the Code's scope (food processed by gamma rays, X‑rays or accelerated electrons and related stages from primary production through packaging, irradiation, labelling, storage and training), directs use of relevant Codex standards and the General Principles of Food Hygiene, and provides definitions of key irradiation terms (e.g., food irradiation, irradiated food, dosimetry, absorbed dose, dose uniformity ratio, dose distribution, dose limit).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Scope",
+      "summary": "Scope: the Code covers food products processed by gamma rays, X‑rays or accelerated electrons to control pathogens, reduce microbial load and insect infestation, inhibit root‑crop germination and extend durable life, and it addresses facility irradiation requirements plus related stages (primary production, post‑harvest, storage/shipment, packaging, labelling, post‑irradiation handling and training).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "irradiation scope",
+        "process coverage"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Use",
+      "summary": "Use: this Code should be used together with the General Principles of Food Hygiene (CXC 1-1969) and its HACCP annex and other relevant Codex texts (notably CXS 106-1983 and CXS 1-1985), and it references ICGFI technical guidance and training manuals produced via the IAEA.",
+      "categories": [
+        "scope",
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "use heading",
+        "related standards",
+        "technical references",
+        "publication note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "CODE OF PRACTICE FOR RADIATION PROCESSING OF FOOD (CXC 19-1979)",
+      "summary": "Document title only — non‑substantive (Code of Practice for Radiation Processing of Food, CXC 19-1979).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Definitions",
+      "summary": "Defines key terms for food irradiation including Food Irradiation (processing by ionizing radiation per the Codex standard), Irradiated Food (subject to CXS 106-1983 and other relevant standards), Dosimetry (measurement of absorbed dose), Absorbed Dose, Dose Uniformity Ratio (max/min dose), Dose Distribution (spatial variation of dose) and Dose Limit (regulatory minimum/maximum dose expressions).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "definitions intro",
+        "food irradiation",
+        "irradiated food",
+        "dosimetry",
+        "absorbed dose",
+        "dose uniformity",
+        "dose distribution",
+        "dose limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## 3. PRE-IRRADIATION TREATMENT",
+      "summary": "Section heading only for pre-irradiation treatment; no substantive provisions in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 3.1 Primary production and/or harvesting",
+      "summary": "Requires primary food products intended for irradiation to comply with the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex standards and codes of practice for primary production/harvesting to ensure safety and suitability for consumption.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "primary production",
+        "primary production hygiene"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 3.2 Handling, storage and transport",
+      "summary": "States there are no unique handling, storage or transport requirements solely because of intent to irradiate, but all pre-, during- and post-irradiation stages must follow good manufacturing practices and relevant General Principles of Food Hygiene and product-specific Codex standards to protect quality and package integrity.",
+      "categories": [
+        "transport",
+        "processing"
+      ],
+      "subcategories": [
+        "handling storage transport",
+        "processing conditions",
+        "handling requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 4. PACKAGING",
+      "summary": "Requires packaging that prevents post-irradiation re-contamination and re-infestation and meets importing country requirements, and notes container size and shape are constrained by irradiation facility operating characteristics because these affect dose distribution.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "protective packaging",
+        "container dimensions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. ESTABLISHMENT:  DESIGN, FACILITIES and CONTROL",
+      "summary": "States that authorization/licensing is required for facilities to irradiate food (generally or for specific food classes) and that facilities must meet occupational safety, hygiene and relevant Codex and regulatory standards (e.g., CXC 1-1969, CXS 106-1983).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.1 Design and layout",
+      "summary": "Requires establishment design and layout to prevent contamination and separate irradiated from non‑irradiated products (e.g., unidirectional flow, separated storage), to deliver absorbed dose within regulatory/process limits, and to consider transport means, dose range, throughput, reliability, safety systems, compliance and costs when selecting irradiator design.",
+      "categories": [
+        "equipment",
+        "hygiene",
+        "storage",
+        "processing",
+        "quality",
+        "safety",
+        "official control",
+        "other"
+      ],
+      "subcategories": [
+        "design layout",
+        "contamination prevention",
+        "facility storage",
+        "dose control",
+        "design factors",
+        "transport system design",
+        "dose range",
+        "throughput capacity",
+        "reliability requirement",
+        "operator safety systems",
+        "gmp compliance",
+        "economic considerations"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.2 Radiation sources",
+      "summary": "Specifies permitted ionizing radiation sources for food irradiation: gamma rays from 60Co or 137Cs, X‑rays from machines operated at or below 5 MeV, and electrons from machines operated at or below 10 MeV (per CXS 106-1983).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "radiation sources heading",
+        "radiation source types",
+        "gamma source type",
+        "x-ray source type",
+        "electron source type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.3 Control of operation",
+      "summary": "Sets out operational control requirements including compliance with legislation, adequately trained staff, process control via dose measurement and monitoring with proper record keeping and quantitative dosimetry, control of applied dose to meet technological or public‑health minimums, and product/inventory systems to ensure traceability and prevent mixing of irradiated and non‑irradiated products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5.3.1 Legislation",
+      "summary": "States that food irradiation facilities, like other food processing establishments, must be designed, constructed and operated in compliance with relevant regulatory requirements to protect food safety, worker safety and the environment.",
+      "categories": [
+        "documentation",
+        "official control"
+      ],
+      "subcategories": [
+        "legislation heading",
+        "regulatory compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.3.2 Requirements for staff",
+      "summary": "Requires irradiation facility staff to follow personal hygiene provisions of the General Principles of Food Hygiene (CXC 1-1969) and to be adequate, trained and competent as recommended in the General Standard for Irradiated Foods.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "staff requirements heading",
+        "personnel competence"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.3.3 Requirements for process control",
+      "summary": "Emphasizes process control obligations from the General Standard for Irradiated Foods: measure dose and physical parameters, maintain full and accurate records including quantitative dosimetry, and retain documentation to enable regulatory verification of correct processing and adherence to dose limits.",
+      "categories": [
+        "official control",
+        "documentation"
+      ],
+      "subcategories": [
+        "process control heading",
+        "record keeping"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.3.4 Control of applied dose",
+      "summary": "Requires characterization of dose distribution for each food product and routine monitoring with dosimeters according to internationally accepted procedures, and notes that specific public health or quarantine uses may impose minimum absorbed dose requirements to ensure technological effectiveness.",
+      "categories": [
+        "official control",
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "dose control heading",
+        "dose measurement",
+        "minimum dose"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.3.5 Product and inventory control",
+      "summary": "Mandates systems for traceability of consignments to the irradiation facility and supplier, coding and logging of incoming products and process parameters (date, time, source strength, min/max dose, temperature, etc.), and administrative/physical controls (barriers, color‑change labels where applicable) to prevent mixing irradiated and non‑irradiated products since they are not visually distinguishable.",
+      "categories": [
+        "official control",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "inventory control heading",
+        "traceability records",
+        "product coding",
+        "indicator label"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6. IRRADIATION",
+      "summary": "Covers the irradiation process framework: availability of training materials, the need to document process determination and technological objectives, rigorous dosimetry and calibrated systems, maintenance of irradiation records, and application of HACCP and General Principles of Food Hygiene to control microbiological hazards and verify process effectiveness.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1 General",
+      "summary": "Notes that training manuals for facility operators and control officials have been produced by ICGFI (via IAEA) and that ASTM publishes relevant procedures in its handbooks.",
+      "categories": [
+        "official control",
+        "training",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "general heading",
+        "training materials",
+        "test method reference"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.2 Process determination",
+      "summary": "Requires that all steps of process determination be documented to ensure regulatory compliance, define technological objectives, estimate and confirm dose ranges via test samples under production conditions, verify feasibility, and establish final process parameters.",
+      "categories": [
+        "processing",
+        "documentation",
+        "official control",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "process determination heading",
+        "process documentation",
+        "regulatory compliance",
+        "technological objectives",
+        "dose estimation",
+        "test sample confirmation",
+        "process feasibility",
+        "process parameters"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.3 Dosimetry",
+      "summary": "States that effective radiation processing depends on measuring absorbed dose at points throughout the product and lot, that various ISO/ASTM dosimetry techniques and guides should be consulted, personnel must be competent in dosimetry, and dosimetry calibration must be traceable to national/international standards.",
+      "categories": [
+        "analysis sampling",
+        "training",
+        "processing"
+      ],
+      "subcategories": [
+        "dosimetry heading",
+        "absorbed dose measurement",
+        "dosimetry methods",
+        "dosimetry competence",
+        "dosimetry calibration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.4 Dosimetry systems",
+      "summary": "Defines dosimeters and dosimetry systems (dosimeters, instruments, reference standards and procedures) and states selection should be based on factors like required dose range, cost, availability and ease of use, noting a variety of systems are available.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "dosimetry systems"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.5 Dosimetry and process control",
+      "summary": "Explains absorbed dose is the key process quantity influenced by source type/geometry, conveyor speed/dwell time, product density/loading configuration and carrier size/shape, and that processes must ensure the required minimum absorbed dose for technical effect while avoiding excessive doses that impair food quality (e.g., off‑flavours).",
+      "categories": [
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "dosimetry control",
+        "dose control",
+        "dose effect",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.6 Records of irradiation",
+      "summary": "Radiation processors must keep records identifying the food (or shipping details), packaging marks, bulk density, dosimetry results including dosimeter type and calibration, irradiation date and radiation source, and make documentation available to authorized personnel for the retention period set by food control authorities.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "irradiation records"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.7 Control of hazards",
+      "summary": "Radiation processors should apply HACCP principles per the General Principles of Food Hygiene to control microbiological hazards, with irradiation recognized as a means to reduce parasites and microbial contamination and usable as a control measure.",
+      "categories": [
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "hazard control",
+        "microbiological control",
+        "haccp application"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "## 7. POST-IRRADIATION STORAGE AND HANDLING",
+      "summary": "Non-substantive—refers readers to the General Principles of Food Hygiene (CXC 1-1969) for guidance on post-irradiation storage and handling.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading",
+        "storage handling"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "## 8. LABELLING",
+      "summary": "Labelling of irradiated foods must comply with the General Standard for Irradiated Foods (CXS 106-1983) and the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985) (including the international symbol and shipping-document information) and meet any additional requirements imposed by competent authorities; technical codes by ICGFI are available as reference.",
+      "categories": [
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "irradiated food labelling",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

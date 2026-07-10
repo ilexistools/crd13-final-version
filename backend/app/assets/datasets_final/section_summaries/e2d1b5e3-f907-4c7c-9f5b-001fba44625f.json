@@ -1,0 +1,498 @@
+{
+  "doc_id": "e2d1b5e3-f907-4c7c-9f5b-001fba44625f",
+  "title": "REGIONAL STANDARD FOR TEHENA 1 (Near East) 2",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL STANDARD FOR TEHENA 1 (Near East) 2",
+      "summary": "Document title: Regional Standard for Tehena 1 (Near East).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 259R-2007 Adopted in 2007.",
+      "summary": "Standard identifier and adoption year (CXS 259R‑2007, adopted 2007) with notes that the Methods of Analysis section will be considered later by the Commission and that regional Codex members are listed on the Codex website.",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "standard code",
+        "methods note",
+        "regional note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1 SCOPE",
+      "summary": "Scope: this Standard applies to Tehena (as defined in Section 2) when offered for direct consumption.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2 DESCRIPTION",
+      "summary": "Defines Tehena as the product obtained by grinding mature, roasted and husked sesame seeds of the species Sesame indicum L.",
+      "categories": [
+        "other",
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors: basic ingredient is sesame seeds and general requirements (seeds must comply with their standard and be safe, product must have distinctive natural flavour without rancidity, homogeneous colour/texture, free from extraneous matter and free of artificial flavours/fillers/colouring/bleaching agents); specific compositional limits are also given (max moisture 1.5%, min protein 25%, min fat 45% as sesame oil, max total ash 3.5%, max acid‑insoluble ash 0.3% m/m, max extracted oil acidity 1.8% as oleic acid).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Basic Ingredients",
+      "summary": "Identifies the sole basic ingredient for Tehena as sesame seeds.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "basic ingredient"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Quality factors - General",
+      "summary": "Specifies general quality requirements: seeds must comply with their standard and be safe, the product must have a distinctive natural flavour and be free from rancidity, colour and texture must be homogeneous and free from agglomeration, it must be free from extraneous/foreign matter, and free from artificial flavouring, fillers, colouring and bleaching agents (e.g., titanium dioxide).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2.1 Sesame seeds used in processing 'Tehena' shall comply with its standard and be safe and suitable for human consumption.",
+      "summary": "Requires that sesame seeds used to make Tehena comply with their applicable standard and be safe and suitable for human consumption.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredient suitability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2.2 The product shall have a distinctive natural flavour and be free from rancidity.",
+      "summary": "Requires the product to have a distinctive natural flavour and to be free from rancidity.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality characteristic"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.3 The product colour and texture shall become homogeneous and free from agglomeration.",
+      "summary": "Requires product colour and texture to be homogeneous and free from agglomeration.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality characteristic"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.4 The product shall be free from extraneous and foreign matter.",
+      "summary": "Requires the product to be free from extraneous and foreign matter.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.5 The product shall be free from artificial flavour, filling agent, colouring and bleaching agents (i.e.: titanium dioxide).",
+      "summary": "Prohibits addition of artificial flavours, filling agents, colouring and bleaching agents (e.g., titanium dioxide) in the product.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredient restrictions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.3 Quality factors - Specific",
+      "summary": "Lists specific compositional quality limits for the final product when ready for consumption: maximum moisture 1.5%, minimum protein 25%, minimum fat 45% (as sesame oil), maximum total ash 3.5%, maximum acid‑insoluble ash 0.3% (m/m), and maximum extracted oil acidity 1.8% as oleic acid.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.3.1 The maximum content of moisture is 1.5%.",
+      "summary": "Sets the maximum moisture content for the product covered by this Standard at 1.5%.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.3.2 The minimum content of protein is 25%.",
+      "summary": "Specifies a minimum protein content of 25% for the product covered by this Standard.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "protein minimum"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.3.3 The minimum content of fat is 45%, as sesame oil only",
+      "summary": "Requires a minimum fat content of 45% for the product, with the fat being sesame oil only.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fat minimum"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.3.4 The maximum content of total ash is 3.5%.",
+      "summary": "Limits the total ash content of the product to a maximum of 3.5%.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ash maximum"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.3.5 The maximum content of acid insoluble ash is 0.3% (m/m).",
+      "summary": "Sets the maximum acid‑insoluble ash content at 0.3% (m/m).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "acid insoluble ash"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.3.6 The maximum content of extracted oil acidity is 1.8%, as oleic acid.",
+      "summary": "Limits extracted oil acidity to a maximum of 1.8%, expressed as oleic acid.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "acidity limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4 CONTAMINANTS",
+      "summary": "Requires the product to comply with Codex‑established maximum limits for contaminants and Codex maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5 HYGIENE",
+      "summary": "Recommends that products be prepared and handled according to the General Principles of Food Hygiene (CXC 1‑1969) and relevant Codes of Hygienic Practice, and that they comply with microbiological criteria established under CXG 21‑1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.1 It is recommended that the products covered by the provisions of this Standard be prepared and handled in accordance with the appropriate Sections of the General Principles of Food Hygiene (CXC 1-1969), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+      "summary": "Recommends preparation and handling of the product in accordance with the General Principles of Food Hygiene (CXC 1‑1969) and other relevant Codex hygienic practice texts.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "food hygiene"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.2 The products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "summary": "Advises that the products should comply with microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21‑1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6 PACKAGING AND STORAGE",
+      "summary": "Requires packing in containers that safeguard the hygienic, nutritional and organoleptic quality of the end product and storage in a well‑ventilated place protected against direct heat and contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.1 The product shall be packed in  containers,  which  will safeguard the hygienic, nutritional and organoleptic quality of the end product.",
+      "summary": "Requires the product to be packed in containers that will safeguard its hygienic, nutritional and organoleptic quality.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging requirement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2 The product shall be stored in a well-ventilated store, protected against direct heat and contamination.",
+      "summary": "Requires storage of the product in a well‑ventilated store protected against direct heat and contamination.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage condition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Heading only (Weights and Measures); no substantive provisions contained in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.1 Fill of the Container",
+      "summary": "Heading only (Fill of the Container); no substantive provisions contained in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.1.1 Minimum Fill",
+      "summary": "Requires that the sealed container be well filled so the product occupies not less than 90% of the container's water capacity; defines water capacity as the volume of distilled water at 20°C that the sealed container will hold when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "8. LABELLING",
+      "summary": "Requires labelling of the product in accordance with the General Standard for the Labelling of Prepackaged Foods (CXS 1‑1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8.1 Name of the Food",
+      "summary": "Specifies the name of the food shall be 'Tehena'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING 3",
+      "summary": "Placeholder for Methods of Analysis and Sampling; to be finalized and no methods are provided.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods heading",
+        "to be finalized"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

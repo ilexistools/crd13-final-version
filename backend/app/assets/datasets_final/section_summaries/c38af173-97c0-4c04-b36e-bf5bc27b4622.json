@@ -1,0 +1,335 @@
+{
+  "doc_id": "c38af173-97c0-4c04-b36e-bf5bc27b4622",
+  "title": "1 PREAMBLE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1 PREAMBLE",
+      "summary": "Explains that ochratoxin A (OTA) in grapes is produced by filamentous fungi—principally Aspergillus species (notably A. carbonarius and to a lesser extent A. niger)—and that OTA formation is influenced by environmental/climatic factors, nocturnal dampness, bunch shape, vine variety susceptibility, aeration, grape health and berry injuries which allow fungal entry.",
+      "categories": [
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "scope heading",
+        "hazard overview",
+        "risk factors"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2 CULTIVATION PRACTICES IN THE VINEYARDS",
+      "summary": "Recommends preventive viticultural measures to reduce OTA risk, including regional monitoring and communication of toxigenic fungi and risk factors, producer training, vineyard siting and trellising for aeration, selection of less susceptible rootstocks/varieties/clones, cultural practices to reduce berry damage and excess vigor, and pest and disease control (leaf removal, removal of shriveled berries, targeted treatments) to limit fungal infection and mycotoxin production.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 Regional risk information",
+      "summary": "Requires regional authorities and grower organisations to identify species and strains of toxigenic fungi in their region, combine that data with regional risk factors (meteorological, viticultural) to propose appropriate management measures, and communicate this risk information to growers.",
+      "categories": [
+        "risk management",
+        "risk assessment",
+        "documentation"
+      ],
+      "subcategories": [
+        "regional risk info",
+        "management recommendation",
+        "regional analysis",
+        "information communication"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 Training of producers",
+      "summary": "Requires training of producers on the risks of mould and mycotoxins, including identification of ochratoxigenic fungi (notably black mould) and infection periods, and knowledge of preventive measures to be applied in vineyards and wineries.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "training requirement",
+        "training topic"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF OCHRATOXIN A CONTAMINATION IN WINE",
+      "summary": "Section is a document title heading only: Code of Practice for the Prevention and Reduction of Ochratoxin A contamination in wine (no substantive provisions here).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "CXC 63-2007",
+      "summary": "Identifies the document code CXC 63-2007 and requires identification of ochratoxigenic fungi or mould spoilage (especially black mould) and awareness of preventive measures to be applied in vineyards and wineries.",
+      "categories": [
+        "other",
+        "training"
+      ],
+      "subcategories": [
+        "document code",
+        "training topic",
+        "preventive knowledge"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Vineyard establishment",
+      "summary": "Recommends establishing vineyards in well-aerated, non‑humid sites and designing planting disposition and trellising to facilitate operations, prevent grape contact with soil, ensure pest/disease control, minimise sunburn risk and promote uniform grape ripening.",
+      "categories": [
+        "risk management",
+        "pest control",
+        "quality"
+      ],
+      "subcategories": [
+        "vineyard establishment",
+        "site selection",
+        "planting layout",
+        "planting operations",
+        "soil contact prevention",
+        "disease control",
+        "sunburn prevention",
+        "uniform ripening"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.4 Plant material",
+      "summary": "Recommends selecting vigorous rootstocks and varieties, and clones/biotypes less prone to mould and rot (often with less compact bunches), and laying out homogeneous plots to facilitate operations, disease control and uniform ripening.",
+      "categories": [
+        "composition",
+        "risk management"
+      ],
+      "subcategories": [
+        "plant material",
+        "varietal selection",
+        "clonal selection",
+        "plot homogeneity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.5 Growing techniques",
+      "summary": "Advises growing practices to balance leaf/fruit (avoiding excessive nitrogen), favour soil cover and avoid tillage between ripening and harvest to limit soil transfer, arrange clusters to avoid overcrowding, irrigate regularly to prevent berry splitting, and prohibit use of marc containing toxigenic fungi as vineyard fertilizer.",
+      "categories": [
+        "processing",
+        "risk management",
+        "quality"
+      ],
+      "subcategories": [
+        "growing techniques",
+        "fertilizer management",
+        "soil management",
+        "cluster arrangement",
+        "irrigation control",
+        "fertilizer restriction"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.6 Pest and disease control",
+      "summary": "Prescribes pest and disease control measures including leaf removal in the cluster zone to improve aeration while limiting sunburn, avoiding berry lesions and removing shrivelled berries, applying vine protection plans against key fungal diseases, preventing pests (berry moths, mealybugs, leafhoppers) that favor mould, and conducting pest control according to biological/epidemic risk with preventive treatments and registered protective programmes to avoid fungal resistance.",
+      "categories": [
+        "pest control",
+        "quality",
+        "risk management"
+      ],
+      "subcategories": [
+        "pest disease heading",
+        "leaf removal",
+        "berry damage prevention",
+        "berry removal",
+        "fungal disease control",
+        "preventive treatments",
+        "preventive measures"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2 Production of wine grapes",
+      "summary": "For moderately mould-contaminated harvests destined for wine, require elimination or sorting of damaged/dirty grapes (discarding black‑mouldy fruit), rapid transport of harvests to the winery, and cleaning of containers after each load.",
+      "categories": [
+        "composition",
+        "risk management",
+        "transport",
+        "hygiene"
+      ],
+      "subcategories": [
+        "composition heading",
+        "harvest actions",
+        "harvest sorting",
+        "transport urgency",
+        "container cleaning"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4. TREATMENT AT THE WINERY",
+      "summary": "Under risk of ochratoxin A (OTA) contamination recommend measuring OTA in musts and applying specified winery treatments across pre‑fermentation, fermentation and maturing stages to reduce OTA — for example avoiding prolonged skin maceration and heating, using low‑pressure quick pressing, considering low‑dose oenological charcoal, employing smooth‑walled vessels and OTA‑adsorbing yeasts/bacteria (supplier‑verified), and using maturing on lees and appropriate fining agents, with product trials before use.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1 Pre-fermentation operations and treatments",
+      "summary": "Pre‑fermentation recommendations: avoid or shorten skin maceration for high‑OTA risk harvests, consider rosé winemaking for contaminated red grapes, use small‑volume low‑pressure quick pressing and avoid continuous press, avoid pectolytic enzymes and post‑harvest heating/aggressive macerations, and if treating with oenological charcoal use the lowest effective dose to limit loss of aroma and polyphenols.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing heading",
+        "maceration control",
+        "winemaking option",
+        "pressing control",
+        "clarification treatment",
+        "heat treatment",
+        "charcoal treatment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.2 Fermentation treatments",
+      "summary": "Fermentation recommendations: use smooth‑walled containers to facilitate cleaning and avoid contamination, consider dry active or inactive yeasts to help reduce OTA, use supplier‑verified yeasts or bacteria with OTA‑adsorbent properties (noting only partial reduction), and introduce post‑fermentation treatments promptly.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "fermentation heading",
+        "container hygiene",
+        "yeast treatment",
+        "microbial treatment",
+        "rapid treatment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.3 Maturing and clarification treatments",
+      "summary": "Maturing and clarification: maturing on lees can reduce OTA though organoleptic risks must be evaluated; clarification agents vary in OTA‑removal effectiveness (oenological charcoal most effective; certain cellulose/silica gels with gelatine give only partial reduction). Before use, users must verify product effectiveness and application technology and carry out dosage trials to assess sensory effects.",
+      "categories": [
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "maturing heading",
+        "maturing on lees",
+        "fining agents",
+        "charcoal fining",
+        "fining aids",
+        "usage guidance",
+        "product effectiveness",
+        "dosage trials"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4. GENERAL CONDITIONS FOR FOOD CONTACT MATERIALS",
+      "summary": "States that food contact materials used during harvesting, transport and winery production must not permit contaminant migration or cross‑contamination that could endanger human health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6. CONCLUSION",
+      "summary": "Concludes that the recommendations reflect current knowledge and may be updated by further research, and emphasizes that preventive measures are primarily vineyard‑based while winery treatments are corrective.",
+      "categories": [
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "conclusion heading",
+        "research update",
+        "preventive measures"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "doc_id": "4a45e202-f96c-4d5f-ad27-89f53371f355",
+  "title": "STANDARD FOR DRIED THYME CXS 328-2017",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR DRIED THYME CXS 328-2017",
+      "summary": "Document title and metadata: Standard for Dried Thyme (CXS 328-2017) with adoption and amendment history, noting a 2022 amendment that replaces specific non-retail container labelling text with a requirement to follow the General Standard for Labelling of Non-Retail Containers (CXS 346-2021).",
+      "categories": [
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "document title",
+        "document metadata",
+        "amendment heading",
+        "amendment note",
+        "table header",
+        "table separator",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Scope: the standard applies to dried thyme offered for direct consumption, as an ingredient in food processing, or for repackaging, and explicitly excludes dried thyme intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Section 2 describes dried thyme by providing the product definition, permissible styles (whole, crushed/rubbed, ground), and the varietal types (Thymus species/cultivars/hybrids) suitable for processing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product definition",
+      "summary": "Defines dried thyme as the product prepared from leaves/flowers of Thymus spp. (Lamiaceae) that have reached an appropriate stage for processing and have been suitably cleaned, dried, rubbed and/or milled.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Styles",
+      "summary": "Specifies the allowable presentation styles for dried thyme: whole/intact, crushed/rubbed (coarse to fine), and ground (powder).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "styles heading",
+        "presentation statement",
+        "whole style",
+        "crushed style",
+        "ground style"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3 Varietal types",
+      "summary": "Covers all wild species, varieties, cultivars and hybrids of the genus Thymus that are suitable for processing into dried thyme.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "varietal types heading",
+        "varietal types"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors for dried thyme: refers to Section 2 for product composition, limits moisture to 12% max, requires characteristic odour/flavour and colour, specifies physical tolerances (e.g., extraneous vegetable matter ≤0.5%, foreign matter ≤0.5%, visible mould ≤1.0%, insect-damaged leaves ≤1.0%, dead insects/insect fragments/rodent contaminants ≤1.0%, no live insects, mammalian excreta ≤1 mg/kg) and chemical limits (total ash ≤12.0% d.b., acid-insoluble ash ≤3.5% d.b., volatile oils ≥1.0 ml/100 g); it also defines a 'defective' sample and lot acceptance based on sampling plan and sample averages.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Composition",
+      "summary": "States that the composition of dried thyme is as defined in Section 2.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "product composition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 Quality factors",
+      "summary": "Specifies quality factors for dried thyme including moisture (≤12%), characteristic odour/flavour and colour, physical defect tolerances as given in the physical requirements table, and chemical requirements (total ash, acid‑insoluble ash, volatile oil limits).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.1 Moisture",
+      "summary": "Sets the maximum moisture content for dried thyme at 12%.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "moisture heading",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.2 Odour, flavour and colour",
+      "summary": "Requires dried thyme to have a characteristic odour and flavour determined by volatile oil components (e.g., thymol, carvacrol, linalool), to be free from foreign odours (particularly mustiness), and to exhibit a characteristic colour ranging from green-ash to brownish grey.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "sensory heading",
+        "sensory requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.3 Physical characteristics",
+      "summary": "Lists physical requirements and allowable tolerances for dried thyme: extraneous vegetable matter ≤0.5% (mass fraction), foreign matter ≤0.5%, visible mould ≤1.0%, insect-damaged leaves/flowers ≤1.0%, dead insects/insect fragments/rodent contaminants ≤1.0%, and no live insects allowed.",
+      "categories": [
+        "quality",
+        "other",
+        "contaminants"
+      ],
+      "subcategories": [
+        "physical characteristics heading",
+        "physical requirements",
+        "table caption",
+        "table header",
+        "table separator",
+        "extraneous matter limit",
+        "foreign matter limit",
+        "mould limit",
+        "defect limit",
+        "insect contaminant limit",
+        "live insect limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.4 Chemical characteristics",
+      "summary": "Specifies chemical requirements for dried thyme on a dry basis: total ash maximum 12.0%, acid‑insoluble ash maximum 3.5%, and volatile oils minimum 1.0 ml per 100 g.",
+      "categories": [
+        "quality",
+        "other"
+      ],
+      "subcategories": [
+        "chemical characteristics heading",
+        "chemical requirements",
+        "chemical table caption",
+        "table header",
+        "table separator",
+        "quality factors"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.3 Classification of 'defectives'",
+      "summary": "Defines a 'defective' as any lot sample that fails one or more applicable quality requirements in Section 3.2, excluding criteria based on sample averages.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "defectives definition",
+        "lot defectives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.4 Lot acceptance",
+      "summary": "States that a lot meets quality requirements if the number of 'defectives' does not exceed the acceptance number of the applicable sampling plan, and for factors assessed by sample average a lot is acceptable if the average meets the tolerance and no single sample is excessively out of tolerance.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "lot acceptance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "FOOD ADDITIVES",
+      "summary": "Permits the use of anticaking agents listed in Tables 1 and 2 of food category 12.2.1 (herbs and spices) of the General Standard for Food Additives (CXS 192‑1995) in powdered thyme.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "anticaking agents"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits the use of anticaking agents listed in Tables 1 and 2 of food category 12.2.1 (herbs and spices) of the General Standard for Food Additives (CXS 192‑1995) in powdered thyme.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "anticaking agents"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "CONTAMINANTS",
+      "summary": "Requires compliance with the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995) and with Codex-established maximum residue limits for pesticides for products covered by this standard.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "FOOD HYGIENE",
+      "summary": "Recommends preparing and handling dried thyme in accordance with the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Low Moisture Foods (CXC 75‑2015) Annex III on spices and dried culinary herbs and other relevant Codex texts; it also requires compliance with any microbiological criteria established per CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. FOOD HYGIENE",
+      "summary": "Recommends preparing and handling dried thyme in accordance with the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Low Moisture Foods (CXC 75‑2015) Annex III on spices and dried culinary herbs and other relevant Codex texts; it also requires compliance with any microbiological criteria established per CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "WEIGHTS AND MEASURES",
+      "summary": "Requires containers to be as full as practicable without impairing product quality and to be consistent with a proper declaration of contents.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "weights heading",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "LABELLING",
+      "summary": "Requires labelling in accordance with the General Standard for the Labelling of Pre‑packaged Foods (CXS 1‑1985) and specifies that the product name shall be “dried thyme” (or “thyme” if omission of “dried” is not misleading), may include species/varietal type and style (and for blends may list Thymus species in descending quantity), with country of harvest and inspection mark optional, and that non‑retail containers must be labelled per CXS 346‑2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8. LABELLING",
+      "summary": "Requires dried thyme to be labelled in accordance with the General Standard for the Labelling of Pre‑packaged Foods (CXS 1-1985) with specific provisions including the product name, optional species/varietal/style indication, optional country of harvest and inspection mark, and states non‑retail container labelling should follow CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "8.2 Name of the product",
+      "summary": "Specifies the product name must be “dried thyme” (or “thyme” if omitting “dried” is not misleading), allows indication of Thymus species/varietal/style and, for blends, listing species in descending quantity, and permits optional country of harvest/origin.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8.2.4 Inspection mark (optional)",
+      "summary": "Heading only: indicates an optional inspection mark but contains no substantive provisions.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "inspection mark"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.3 Labelling of non-retail containers",
+      "summary": "States that labelling of non‑retail containers should comply with the General Standard for the Labelling of Non‑Retail Containers in Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "## 9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "For compliance checking, prescribes use of the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to this standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis sampling heading",
+        "methods of analysis"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "## NOTES",
+      "summary": "Non‑substantive section listing bibliographic references to Codex standards and related documents cited in the text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "notes heading",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

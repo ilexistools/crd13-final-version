@@ -1,0 +1,959 @@
+{
+  "doc_id": "9d85067e-a9ee-402f-b7b9-94707cf6ddb0",
+  "title": "## CODE OF HYGIENIC PRACTICE FOR PRECOOKED AND COOKED FOODS IN MASS CATERING",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## CODE OF HYGIENIC PRACTICE FOR PRECOOKED AND COOKED FOODS IN MASS CATERING",
+      "summary": "Document title and table of contents for the Code of Hygienic Practice for Precooked and Cooked Foods in Mass Catering (CXC 39‑1993); non‑substantive listing of sections and page references.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "document title",
+        "document code",
+        "contents heading",
+        "table artifact",
+        "contents entry",
+        "advisory note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## CXC 39-1993",
+      "summary": "Document code/reference: CXC 39‑1993.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## EXPLANATORY PREFACE",
+      "summary": "Explains the Code's rationale and scope: aligns with the General Principles of Food Hygiene, cites epidemiological evidence that mass catering causes many and potentially large outbreaks affecting vulnerable groups, and states the Code applies the HACCP system.",
+      "categories": [
+        "other",
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "preface heading",
+        "preface note",
+        "hazard evidence",
+        "outbreak impact",
+        "vulnerable groups",
+        "haccp application"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "The HACCP System consists of:",
+      "summary": "Summarises the HACCP system as: assessment of hazards across the food chain, determination of critical control points to control identified hazards, and establishment of procedures to monitor those critical control points.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1. An  assessment  of  hazards  associated with  growing, harvesting, processing/manufacturing, marketing, preparation and/or use of a given raw material or food product.",
+      "summary": "HACCP step 1: perform an assessment of hazards associated with growing, harvesting, processing/manufacturing, marketing, preparation and/or use of a given raw material or food product.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard assessment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## SECTION I - SCOPE",
+      "summary": "Scope: the Code addresses hygienic requirements for cooking raw foods and handling cooked and precooked foods intended to feed large groups in institutions and similar mass‑catering settings.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "1. This  Code  deals  with  the  hygienic  requirements  for  cooking  raw  foods  and  handling  cooked  and precooked foods intended for feeding large groups of people, such as children in schools, the elderly either in old  peoples  homes  or  by  means  of  \"meals  on  wheels\",  patients  in  nursing  homes  and  hospitals,  persons  in prisons, schools and similar institutions.  These categories of people are supplied as groups with the same types of foods.  In this social type of mass catering the consumer has limited choice in the food, he or she eats.  This",
+      "summary": "Defines applicability: intended for social‑type mass catering (schools, hospitals, prisons, elder care, meals‑on‑wheels) where consumers have limited choice; it is not intended for industrial production of complete meals and excludes foods served raw to the consumer, though those may still pose hazards.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "applicability",
+        "exclusions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.15 Packaging  Material",
+      "summary": "Defines \"Packaging Material\" as any containers (e.g., cans, bottles, cartons, boxes, cases, sacks) or wrapping/covering materials (e.g., foil, film, metal, paper, wax-paper, cloth).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "packaging material"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.16 Pests",
+      "summary": "Defines \"Pests\" as insects, birds, rodents and any other animal capable of directly or indirectly contaminating food.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "pest definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.17 Meal Assembly",
+      "summary": "Defines \"Meal Assembly\" as composing or placing food for one person in or on a suitable container where it will be kept until delivery to the consumer.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "meal assembly"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.18 Portioning",
+      "summary": "Defines \"Portioning\" as the division of food, before or after cooking, into single or multiple portions.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "portioning"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.19 Potentially Hazardous Food",
+      "summary": "Defines \"Potentially Hazardous Food\" as food capable of supporting rapid and progressive growth of infectious or toxigenic microorganisms.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "potentially hazardous food"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## SECTION III - HYGIENE REQUIREMENTS IN PRODUCTION/HARVESTING AREA",
+      "summary": "States that hygiene requirements in production/harvesting areas are not covered by this Code and directs readers to Section VII for raw material requirements.",
+      "categories": [
+        "hygiene",
+        "scope"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "not covered",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "## SECTION IV -(A) PRODUCTION OR PREPARATION ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "Specifies design and facility requirements for production/preparation establishments where food is prepared, cooked, chilled, frozen and stored, covering site location, roadways, building construction and finishes, segregation to prevent cross-contamination, controlled process flow, potable water supply and treatment, effluent disposal, refrigeration and temperature monitoring, changing and hand-washing facilities, disinfection, lighting and ventilation to ensure hygienic operations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1 Location",
+      "summary": "Requires establishments to be located in areas free from objectionable odours, smoke, dust or other contaminants and not subject to flooding.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "location requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.2 Roadways and areas used by wheeled traffic",
+      "summary": "Requires roadways and areas serving the establishment to have a hard paved surface suitable for wheeled traffic, adequate drainage, and provision for cleaning.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "roadway sanitation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.3 Buildings and facilities",
+      "summary": "Requires buildings and facilities to be soundly constructed and maintained, provide adequate working space, permit easy cleaning and supervision, prevent pest entry and environmental contamination, provide separation to avoid cross-contamination, control access where appropriate, and avoid materials that cannot be adequately cleaned.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.3.1 Buildings  and  facilities  should  be  of  sound  construction",
+      "summary": "Requires buildings and facilities to be of sound construction and maintained in good repair, and that construction materials should not transmit undesirable substances to food.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "building construction"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.3.2 Adequate working space should be provided to allow for satisfactory performance of all operations.",
+      "summary": "Requires that adequate working space be provided to allow satisfactory performance of all operations.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "working space"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.3.3 Buildings  and  facilities  should  be  designed  to  permit  easy  and  adequate  cleaning  and  to  facilitate proper supervision of food hygiene.",
+      "summary": "Requires buildings and facilities to be designed to permit easy and adequate cleaning and to facilitate proper supervision of food hygiene.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning access"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.3.4 Building and facilities  should  be  designed  to  prevent the entrance and harbouring of pests and the entry of environmental contaminants such as smoke, dust, etc.",
+      "summary": "Requires buildings and facilities to be designed to prevent the entrance and harbouring of pests and the entry of environmental contaminants such as smoke and dust.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "pest exclusion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.3.5 Buildings  and  facilities  should  be  designed  to  provide  separation,  by  partition,  location  or  other effective means, between those operations which may cause cross contamination.",
+      "summary": "Requires separation—by partition, location or other effective means—between operations that may cause cross-contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cross contamination"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.3.12 Water Supply",
+      "summary": "Specifies water-supply and related requirements including an ample potable supply compliant with WHO Guidelines, routine sampling and chlorination checks, systems for adequate hot potable water, ice manufacture/handling/storage from potable water, steam used in direct food contact free from hazardous substances, and complete separation of non-potable water lines to prevent cross-connection or back-siphonage.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.3.12.1 An ample supply of water, in compliance with the WHO \"Guidelines for Drinking Water Quality\", under adequate pressure and of suitable temperature should be available with adequate facilities for its storage, where necessary, and distribution, and with adequate protection against contamination.",
+      "summary": "Requires an ample supply of water in compliance with WHO \"Guidelines for Drinking Water Quality\" at adequate pressure and temperature, with suitable storage, distribution and protection against contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "water supply"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.3.12.2 There should be a system to ensure an adequate supply of hot potable water.",
+      "summary": "Requires a system to ensure an adequate supply of hot potable water.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hot water supply"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.3.12.3 Ice shall  be  made  from  potable  water  and  should  be manufactured,  handled  and  stored  so  as  to  protect it from contamination.",
+      "summary": "Requires that ice be made from potable water and be manufactured, handled and stored so as to protect it from contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ice control"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "4.3.12.4 Steam used in direct contact with food or food contact surfaces should contain no substance which may be hazardous to health or may contaminate the food.",
+      "summary": "Requires that steam used in direct contact with food or food-contact surfaces contain no substance that may be hazardous to health or contaminate the food.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "steam safety"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "4.3.12.5 Non-potable water used for steam production, refrigeration, fire control and other similar purposes not connected with food should be carried in completely separate lines, identifiable preferably by colour, and with no cross-connection with or back-siphonage into the system carrying potable water.",
+      "summary": "Non-potable water for steam production, refrigeration, fire control and similar non-food uses must be carried in completely separate, preferably color‑identifiable lines with no cross‑connections or back‑siphonage into the potable water system.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "non potable water"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "4.3.13 Effluent and waste disposal .  Establishments should have an efficient effluent and waste disposal system which should at all times be maintained in good order and repair.  All effluent lines (including sewer systems) should be constructed to avoid contamination of potable water supplies.  All wastepipes should be properly trapped and lead to a drain.",
+      "summary": "Establishments must maintain an efficient effluent and waste disposal system in good repair, construct all effluent lines (including sewers) to avoid contaminating potable water supplies, and ensure all wastepipes are properly trapped and lead to a drain.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste disposal"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "4.3.14 Refrigeration",
+      "summary": "Establishments must provide adequate refrigeration/freezing equipment and storage capacity to safely handle raw materials and prepared foods, prevent cross‑contamination (e.g., separate raw and prepared foods), have suitable chilling/freezing equipment for processing, and equip refrigerated spaces with visible temperature measurement/recording devices (and preferably alarms) with periodic accuracy testing and records.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "4.3.14.1 Establishments should have refrigerating and/or freezing cabinets large enough to accommodate raw materials at adequate temperature in order to comply with the requirements of Section 7.1.4 and 7.1.5.",
+      "summary": "Establishments should have refrigerating and/or freezing cabinets large enough to hold raw materials at temperatures required by Sections 7.1.4 and 7.1.5.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "refrigeration capacity"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "4.3.14.2 Establishments should have refrigerating and/or freezing cabinets or equipment (freeze tunnel) for chilling and/or freezing in order to comply with requirements of Sections 7.7 and 7.8.",
+      "summary": "Establishments should provide refrigerating/freezing cabinets or specialized equipment (e.g., freeze tunnels) for chilling/freezing to meet the requirements of Sections 7.7 and 7.8.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "chilling equipment"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "4.3.14.3 Establishments  should  also  have  refrigerating  and/or  freezing  cabinets  or  equipment  for  chilled and/or frozen storage of prepared food corresponding to thee maximum daily activity of the establishment and in order to comply with requirements of Sections 7.7 and 7.8.",
+      "summary": "Establishments should have refrigerated or freezing storage for prepared foods sized to the establishment's maximum daily activity to comply with Sections 7.7 and 7.8.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "frozen storage"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "4.3.18 Lighting",
+      "summary": "Adequate natural or artificial lighting must be provided with minimum intensities of 540 lux at food preparation/inspection points, 220 lux in work rooms and 110 lux elsewhere, and light bulbs/fixtures suspended over foods must be safety‑type and protected to prevent contamination if broken.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "lighting heading",
+        "lighting levels",
+        "light protection"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "4.3.19.1 Adequate ventilation should be provided to prevent excessive build-up of heat, steam condensation and dust and to remove contaminated air.  The direction of the air flow within the plant should never be from a dirty area to a clean area.  Ventilation openings should be provided with a screen or other protecting enclosure of non-corrodible material.  Screens should be easily removable for cleaning.",
+      "summary": "Adequate ventilation must prevent excessive heat, steam, condensation and dust and remove contaminated air, with air flow never directed from dirty to clean areas, and ventilation openings fitted with non‑corrodible, easily removable protective screens for cleaning.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ventilation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "4.3.20 Facilities for storage of waste and inedible material",
+      "summary": "Facilities must be provided for storage of waste and inedible material prior to removal and be designed to prevent pest access and avoid contamination of food, potable water, equipment, buildings or roadways.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste storage heading",
+        "waste storage"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "4.4 Equipment and Utensils",
+      "summary": "Heading only — introduces the topic of equipment and utensils; substantive requirements are provided in the subsequent sub‑sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "4.4.1 Materials",
+      "summary": "All equipment and utensils that may contact food must be made of materials that do not transmit toxic substances, odour or taste, are non‑absorbent, corrosion‑resistant, smooth and able to withstand repeated cleaning/disinfection (e.g., stainless steel, suitable synthetic materials); avoid materials like untreated wood and dissimilar metal pairings that promote corrosion unless they pose no contamination risk.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "materials heading",
+        "food contact materials"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "4.4.2 Sanitary design, construction and installation",
+      "summary": "Equipment and utensils must be sanitarily designed and constructed to prevent hygienic hazards and allow easy, thorough cleaning, disinfection and inspection, and stationary equipment must be installed to permit full access and cleaning, with capacity appropriate for safe bulk cooking.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "4.4.2.2 Containers for inedible material and waste should be leak proof, constructed of metal or other suitable impervious material which should be easy to clean or disposable and able to be closed securely.",
+      "summary": "Containers for inedible material and waste must be leak‑proof, made of metal or other impervious, easy‑to‑clean or disposable material, and able to be closed securely.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "waste containers"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "4.4.3 Equipment identification",
+      "summary": "Equipment and utensils intended for inedible materials or waste must be clearly identified and must not be used for edible products.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment identification heading",
+        "equipment identification"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "4.4.4 Equipment and utensil storage",
+      "summary": "Portable equipment (e.g., spoons, beaters, pots and pans) must be stored or protected to prevent contamination.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "storage heading",
+        "contamination protection"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "## SECTION IV - (B) SERVING ROOMS: DESIGN AND FACILITIES",
+      "summary": "This section covers serving rooms (which may include reheating and storage) and generally applies the requirements of Section IV‑A, except that for foods defined in paragraph 2‑6 a, paragraphs 4.3.14.2, 4.3.14.3 and 4.3.19.2 do not apply.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "serving rooms section",
+        "section applicability",
+        "section exemption"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "## SECTION V - ESTABLISHMENT: HYGIENE REQUIREMENTS",
+      "summary": "Section V sets establishment hygiene requirements including maintaining buildings/equipment/drains in good repair and dry condition; written cleaning and disinfection procedures with trained staff and a designated hygiene supervisor; frequent cleaning and disinfection of equipment and floors with precautions to prevent contamination by wash water, detergents or aerosols; proper collection, storage and disposal of wastes (including sealed single‑use bags, cleaned reusable containers and separate waste areas); exclusion of uncontrolled animals; continuous pest control with supervised pesticide use and records; secure, labelled storage of hazardous non‑food substances and prohibition of personal effects in food handling areas.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "## 5.1 Maintenance",
+      "summary": "Buildings, equipment, utensils and other physical facilities (including drains) must be maintained in good repair and orderly condition, and rooms kept, as far as practicable, free from steam, vapour and excess water.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "maintenance heading",
+        "maintenance requirements"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "## 5.2 Cleaning and Disinfection - Washing up",
+      "summary": "Cleaning and disinfection must meet the Code's requirements with equipment and utensils cleaned frequently and disinfected as needed, precautions to avoid contaminating food with wash water/detergents (including proper storage of cleaning solutions), avoidance or careful use of high‑pressure hoses to prevent aerosols, thorough cleaning of floors/drains after work, and storage of cleaning tools/chemicals so they do not contaminate food, utensils, equipment or linens.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "## 5.2.1 Cleaning and disinfection should meet the requirements of this Code.",
+      "summary": "Cleaning and disinfection in the establishment must comply with the requirements of this Code.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning heading"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "5.2.3 Adequate  precautions  should  be  taken  during  cleaning  or  disinfection  of  rooms,  equipment  or  utensils  to  prevent  food  from  being  contaminated  by  wash  water,  detergents  and  disinfectants.",
+      "summary": "Requires precautions during cleaning/disinfection to prevent food contamination, including storing cleaning solutions in clearly labeled non-food containers, using detergents/disinfectants suitable and acceptable to the official agency, and thoroughly rinsing potable water to remove residues from food-contact surfaces before reuse.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning precautions"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "5.3 Hygiene Control Programme",
+      "summary": "Requires a permanent written cleaning and disinfection schedule for each establishment with designated critical areas for special attention, appointment of a preferably permanent, production-independent individual responsible for cleanliness, and thorough training for all cleaning personnel.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "control programme heading",
+        "cleaning programme"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "5.4 Storage and Disposal of Wastes",
+      "summary": "Specifies that kitchen/by-product wastes be collected in single-use leak‑proof bags or labeled reusable containers that are sealed/covered and promptly removed from work areas into covered waste bins kept outside kitchens, that reusable containers and waste bins be cleaned and disinfected after use, that waste storage areas be closed, separate from food storage, cool, ventilated and pest‑protected, and that empty cartons/wrappers and waste‑compacting equipment be handled and located away from food areas.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste disposal heading",
+        "waste handling"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "## 5.5 Exclusion of Domestic Animals",
+      "summary": "States that uncontrolled or health‑hazard domestic animals should be excluded from establishments.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "animal exclusion"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "## 5.6 Pest Control",
+      "summary": "Requires an effective, continuous pest control programme with regular inspections and prompt eradication where pests occur; chemical/physical/biological treatments must be supervised by trained personnel, follow official agency recommendations and be recorded, and pesticides may be used only when other measures fail with precautions to protect food/equipment and thorough cleaning afterward to remove residues.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "pest control heading",
+        "pest monitoring",
+        "pest hazard note",
+        "pesticide control",
+        "pesticide use"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "## 5.7 Storage of Hazardous Substances",
+      "summary": "Requires pesticides and other non‑food hazardous substances to be clearly labeled with toxicity warnings, stored in locked dedicated rooms or cabinets and handled/disposed of only by authorized, trained personnel to avoid food contamination (food containers must not be used for such substances), and generally forbids using or storing any substance that could contaminate food in food handling areas except when necessary for hygienic or processing purposes.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hazardous substances"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "5.8 Personnel Effects and Clothing",
+      "summary": "Prohibits depositing personal effects and clothing in food handling areas.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personnel effects"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "SECTION VI - PERSONNEL HYGIENE AND HEALTH REQUIREMENTS",
+      "summary": "Sets personnel hygiene and health requirements including continuing hygiene training for food handlers; medical examinations where required by the official agency; prohibition of working when known or suspected to have communicable disease or be a carrier (or when afflicted with infected wounds, sores or diarrhoea); requirement for waterproof, conspicuous wound dressings and first aid facilities; and mandatory frequent handwashing with suitable preparations under running potable warm water, with notices and supervision to ensure compliance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "6.1 Hygiene Training",
+      "summary": "Requires managers to provide adequate and continuing hygiene training to every food handler on hygienic food handling and personal hygiene, including relevant parts of this Code.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "hygiene training"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "6.2 Medical Examination",
+      "summary": "States that persons who contact food should have a pre‑employment medical examination if the official agency, on medical advice, deems it necessary (based on epidemiology, food type or medical history) and that medical examinations should be carried out at other times when clinically or epidemiologically indicated.",
+      "categories": [
+        "health"
+      ],
+      "subcategories": [
+        "medical examination"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "6.3 Communicable Diseases",
+      "summary": "Requires management to ensure no person known or suspected to have, or to be a carrier of, a disease likely transmissible through food, or who has infected wounds, skin infections, sores or diarrhoea, is permitted to work in any food handling area where they could contaminate food, and requires such persons to report illness to management.",
+      "categories": [
+        "health"
+      ],
+      "subcategories": [
+        "communicable diseases"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "6.4 Injuries",
+      "summary": "Prohibits anyone with a cut or wound from handling food or food‑contact surfaces until the injury is completely protected by a firmly secured, conspicuous waterproof covering and requires adequate first aid facilities for this purpose.",
+      "categories": [
+        "health"
+      ],
+      "subcategories": [
+        "injury control"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "6.5 Washing of Hands",
+      "summary": "Requires all persons in food handling areas to wash hands frequently and thoroughly with a suitable cleaning preparation under running warm potable water (including before work, after toilet use, after handling contaminated material and whenever necessary), to wash and disinfect hands immediately after handling potentially disease‑transmitting material, and to display hand‑washing notices with adequate supervision to ensure compliance.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hand washing"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

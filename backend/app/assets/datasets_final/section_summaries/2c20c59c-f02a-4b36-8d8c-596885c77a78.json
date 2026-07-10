@@ -1,0 +1,559 @@
+{
+  "doc_id": "2c20c59c-f02a-4b36-8d8c-596885c77a78",
+  "title": "REGIONAL GUIDELINES FOR THE DESIGN OF CONTROL MEASURES FOR STREET-VENDED FOODS (AFRICA)",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL GUIDELINES FOR THE DESIGN OF CONTROL MEASURES FOR STREET-VENDED FOODS (AFRICA)",
+      "summary": "Document title and identifier for the Regional Guidelines for the Design of Control Measures for Street‑Vended Foods (Africa), CAC/GL 22R-1997 (title page/header information, not substantive requirements).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Contents",
+      "summary": "Table of contents listing the guideline's sections and subsections (contents listing/truncated), not a substantive regulatory provision.",
+      "categories": [
+        "other",
+        "scope",
+        "definition",
+        "equipment",
+        "hygiene",
+        "pest control",
+        "analysis sampling",
+        "processing",
+        "composition",
+        "transport",
+        "storage",
+        "documentation",
+        "training"
+      ],
+      "subcategories": [
+        "contents heading",
+        "contents entry",
+        "contents separator",
+        "scope heading",
+        "use heading",
+        "definitions heading",
+        "general requirements heading",
+        "section heading",
+        "location heading",
+        "premises heading",
+        "equipment heading",
+        "facilities heading",
+        "maintenance cleaning",
+        "cleaning programmes",
+        "pest control systems",
+        "waste management",
+        "sanitation heading",
+        "monitoring effectiveness",
+        "street food centres",
+        "general requirements",
+        "location design",
+        "waste disposal",
+        "customer facilities",
+        "control of operation",
+        "ingredient requirements",
+        "cooking handling",
+        "serving food",
+        "unsold food",
+        "food transportation",
+        "use maintenance",
+        "food storage",
+        "hygiene control",
+        "incoming materials",
+        "water requirements",
+        "management supervision",
+        "advisory service",
+        "health status",
+        "illness injuries",
+        "separator line",
+        "personal cleanliness",
+        "personal behaviour",
+        "visitors",
+        "training heading",
+        "awareness responsibilities",
+        "training programmes",
+        "instruction supervision",
+        "refresher training",
+        "vendor training",
+        "vendor associations",
+        "consumer education"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION I - OBJECTIVES",
+      "summary": "States the Guidelines' objectives: to provide provisions for designing street food control measures and Codes of Practice in Africa and to assist authorities in upgrading street food operations to ensure availability of wholesome, safe and nutritious foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "objectives"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION II - SCOPE, USE, DEFINITION AND GENERAL REQUIREMENTS",
+      "summary": "Specifies scope and use: recommends general hygienic requirements for Codes of Practice for street food preparation and sale, outlines roles of relevant authorities, vendors and consumers, provides guidance on application where requirements may not be fully applicable, contains definitions of key terms, and recommends that authorities translate requirements into appropriate regulations and licensing modalities for vendors.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1",
+      "summary": "Specifies that the Guidelines set out general hygienic requirements and practices recommended for inclusion in Codes of Practice governing the preparation and sale of street foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2",
+      "summary": "States that each section gives objectives and the rationale in terms of food safety and suitability, and that where specific requirements are not applicable decisions should be based on what is necessary and appropriate to ensure food safety and suitability.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document purpose",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3",
+      "summary": "Provides definitions for terms used throughout the Guidelines (e.g., appliances, clean water, cleaning, contaminant/contamination, crockery, disinfection, disposable articles, establishment, food hygiene/safety/suitability, food handler, hazard, HACCP, impermeable, microorganism, mobile vendor, perishable/readily perishable, ready-to-eat, potable water referencing WHO Guidelines, primary production, relevant authority, sealed container, street food centre/stall, waste water and water container).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition intro",
+        "appliances definition",
+        "clean water definition",
+        "cleaning definition",
+        "contaminant definition",
+        "contamination definition",
+        "crockery definition",
+        "disinfection definition",
+        "disposable articles",
+        "establishment definition",
+        "food hygiene",
+        "food handler",
+        "food safety",
+        "food suitability",
+        "hazard definition",
+        "haccp definition",
+        "impermeable definition",
+        "microorganism definition",
+        "mobile vendor definition",
+        "perishable food definition",
+        "potable water definition",
+        "primary production definition",
+        "readily perishable definition",
+        "ready-to-eat definition",
+        "relevant authority definition",
+        "sealed container definition",
+        "street food centre definition",
+        "street foods definition",
+        "street food stall definition",
+        "waste water definition",
+        "water container definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.4",
+      "summary": "Requires relevant authorities to prepare appropriate regulations (or incorporate into existing food regulations), to translate hygienic requirements into Codes of Practice that account for local conditions and risks, and to establish modalities for issuance and renewal of vendor licences.",
+      "categories": [
+        "scope",
+        "documentation",
+        "hygiene",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "general requirements heading",
+        "regulations heading",
+        "regulatory framework",
+        "code of practice",
+        "licensing heading",
+        "vendor licensing"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "SECTION III - ESTABLISHMENT: DESIGN, FACILITIES, MAINTENANCE AND SANITATION",
+      "summary": "Section III sets objectives and rationale for establishment design, facilities, maintenance and sanitation to minimise contamination, permit effective cleaning/disinfection, ensure food-contact materials are non-toxic and durable, provide necessary environmental controls and pest protection, and it details requirements on location, premises, equipment, facilities, maintenance, cleaning, pest control and monitoring.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1",
+      "summary": "Requires establishments and stalls (including mobile vendors) to be sited away from likely contamination sources—polluted or flood-prone areas without safeguards, pest-prone areas, and places with ineffective waste removal—be located in areas designated by the relevant authority, and keep surrounding spaces free of unnecessary stored or discarded items to permit cleaning.",
+      "categories": [
+        "scope",
+        "hygiene"
+      ],
+      "subcategories": [
+        "location heading",
+        "establishments heading",
+        "site location",
+        "location hazards",
+        "mobile vendor location",
+        "site cleanliness"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2",
+      "summary": "Mandates vendor stalls be of a type approved by the relevant authority and that premises be constructed of durable, easy-to-clean, non-toxic, impervious materials (walls, floors, ceilings, windows, doors and food-contact surfaces), with working surfaces and equipment easy to clean/disinfect and cooking ranges, washing equipment, tables, shelves and cupboards at least 45 cm above ground; temporary/mobile premises must be sited and designed to minimise contamination and pest harbourage.",
+      "categories": [
+        "scope",
+        "inspection certification",
+        "hygiene",
+        "risk management"
+      ],
+      "subcategories": [
+        "premises heading",
+        "design layout heading",
+        "stall approval",
+        "internal structures heading",
+        "structural requirements",
+        "wall floor surfaces",
+        "facility surfaces",
+        "floor drainage",
+        "ceiling surfaces",
+        "window design",
+        "door surfaces",
+        "food contact surfaces",
+        "equipment elevation",
+        "temporary premises",
+        "hazard control"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.3",
+      "summary": "Requires food-contact equipment and containers (except single‑use) to be non-toxic, cleanable, and where necessary disassemblable for cleaning/inspection; mandates separation of cooked and uncooked food utensils and routine cleaning (wash with detergent then either immerse 0.5 minute in boiling water or 2 minutes in potable water at not less than 77°C, with a less-preferred potable-water rinse alternative if hot water unavailable), separate storage of clean and used utensils, clean protection for condiment containers, disposable hand-service items, identifiable impervious waste containers (dangerous substances labelled/lockable), and removal and discard of defective appliances and crockery.",
+      "categories": [
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "general requirements",
+        "equipment design",
+        "utensil separation",
+        "utensil cleaning",
+        "clean utensil storage",
+        "condiment containers",
+        "disposable service items",
+        "waste containers",
+        "equipment disposal"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.4",
+      "summary": "Requires an adequate potable water supply meeting WHO drinking-water guidance (with separate identified non-potable systems where used), adequate drainage and waste disposal to avoid contamination, designated cleaning facilities with hot/cold potable water, maintained washbasins and handwashing facilities (soap), personnel hygiene facilities (lavatories, changing rooms) suitably located, adequate protected lighting, and appropriate storage for food, ingredients and hazardous non-food chemicals (separate secure storage where necessary).",
+      "categories": [
+        "hygiene",
+        "storage"
+      ],
+      "subcategories": [
+        "facilities heading",
+        "water supply heading",
+        "potable water supply",
+        "water quality systems",
+        "drainage heading",
+        "drainage systems",
+        "cleaning heading",
+        "cleaning facilities",
+        "wash basin maintenance",
+        "clean towels",
+        "handwashing facilities",
+        "personnel facilities heading",
+        "personnel hygiene facilities",
+        "lavatory design",
+        "changing facilities",
+        "facility location",
+        "lighting heading",
+        "lighting requirements",
+        "storage heading",
+        "storage facilities"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.5",
+      "summary": "Mandates establishments and equipment be kept in good repair to facilitate sanitation and prevent contamination; cleaning must remove residues and may be followed by disinfection, with cleaning chemicals handled/stored per manufacturers' instructions, and allows physical and chemical cleaning methods with steps including gross debris removal, detergent application, rinsing with compliant water, dry cleaning where appropriate, and disinfection when necessary.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "maintenance cleaning",
+        "general heading",
+        "maintenance condition",
+        "sanitation procedures",
+        "equipment function",
+        "contamination prevention",
+        "cleaning procedures",
+        "cleaning chemicals",
+        "cleaning methods",
+        "cleaning steps",
+        "debris removal",
+        "detergent application",
+        "rinsing step",
+        "dry cleaning",
+        "disinfection step"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.6",
+      "summary": "Requires cleaning and disinfection programmes covering all parts of the establishment (including cleaning equipment) to be continually monitored for suitability and effectiveness and documented where necessary, and specifies that written programmes should list areas/equipment to be cleaned, responsibilities, methods and frequency, and monitoring arrangements, with expert consultation as appropriate.",
+      "categories": [
+        "hygiene",
+        "documentation",
+        "training"
+      ],
+      "subcategories": [
+        "cleaning programmes",
+        "cleaning programme",
+        "programme documentation",
+        "written programme",
+        "scope of cleaning",
+        "task responsibility",
+        "method frequency",
+        "monitoring arrangements",
+        "expert consultation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.7",
+      "summary": "Sets pest-control requirements: employ good hygiene, sanitation and inspection to minimise infestation risk; maintain buildings to prevent pest access and eliminate breeding sites; store potential food sources in pest‑proof ways; monitor for infestation; and promptly eradicate pests using treatments (chemical, physical or biological) that do not compromise food safety or suitability.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "pest control heading",
+        "general heading",
+        "general prevention",
+        "access prevention",
+        "entry prevention",
+        "harbourage infestation",
+        "food source control",
+        "monitoring detection",
+        "infestation inspection",
+        "eradication",
+        "pest treatment"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.8",
+      "summary": "Requires suitable provision for removal and storage of waste so it does not accumulate in food handling, storage or working areas except where unavoidable, and mandates that waste stores be kept appropriately clean.",
+      "categories": [
+        "other",
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste management heading",
+        "waste management"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.9",
+      "summary": "Specifies sanitation duties for vendors: ensure sufficient potable water (stored in clean containers if required), provide efficient waste-water systems with traps, remove solid waste from working areas at least daily into covered containers and clean/disinfect receptacles and storage areas as required, clean working surfaces and surrounding areas at least daily, and ensure access to authority‑approved, clean toilet facilities.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitation heading",
+        "water supply heading",
+        "potable water supply",
+        "waste water heading",
+        "waste water disposal",
+        "solid waste heading",
+        "solid waste handling",
+        "waste area cleaning",
+        "waste disinfection",
+        "cleaning heading",
+        "surface cleaning",
+        "toilet facilities heading",
+        "toilet facilities"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.10",
+      "summary": "Requires sanitation systems to be monitored for effectiveness and periodically verified (e.g., audits, pre-operational inspections or, where appropriate, microbiological sampling of environment and food-contact surfaces) and regularly reviewed and adapted as circumstances change.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "monitoring heading",
+        "sanitation monitoring"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "SECTION VI - STREET FOOD CENTRES",
+      "summary": "Defines street food centres that relevant authorities should provide or approve to give vendors adequate facilities and utilities (potable water, lighting, drainage, waste disposal), safe storage/preparation/serving space, a setting for education and training of managers, vendors and consumers, and support for vendor associations, and states that vendors in such centres must comply with applicable regulations and location/design requirements (per Section 3.1).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.1",
+      "summary": "States that all vendors located in a street food centre must comply with all provisions of the officially recognized regulations applicable to street food vendors.",
+      "categories": [
+        "scope",
+        "official control"
+      ],
+      "subcategories": [
+        "general requirements heading",
+        "regulatory compliance"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.2",
+      "summary": "Requires the location of any street food centre to be pre-approved by the relevant authority in accordance with Section 3.1 (Location) and that the centre's design meet specified hygienic and construction requirements.",
+      "categories": [
+        "equipment",
+        "official control"
+      ],
+      "subcategories": [
+        "design and construction heading",
+        "location approval",
+        "design requirements"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

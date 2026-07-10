@@ -1,0 +1,722 @@
+{
+  "doc_id": "20f95049-f45e-4531-8743-afe9ff88650e",
+  "title": "## GUIDELINE FOR THE CONDUCT OF FOOD SAFETY ASSESSMENT OF FOODS DERIVED FROM RECOMBINANT-DNA PLANTS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## GUIDELINE FOR THE CONDUCT OF FOOD SAFETY ASSESSMENT OF FOODS DERIVED FROM RECOMBINANT-DNA PLANTS",
+      "summary": "Heading only; title of the guideline for the conduct of food safety assessment of foods derived from recombinant-DNA plants.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION 3 - INTRODUCTION TO FOOD SAFETY ASSESSMENT",
+      "summary": "Explains that new plant varieties have not typically undergone extensive toxicological testing and that whole-food animal studies are limited, so safety assessment of foods (including from recombinant-DNA plants) requires a focused, multidisciplinary approach using the concept of substantial equivalence to identify and evaluate differences from conventional counterparts; it also introduces unintended effects as a safety concern to be addressed in subsequent sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "UNINTENDED EFFECTS",
+      "summary": "States that unintended effects from insertion of DNA (e.g., gene disruption, activation, altered expression or metabolite patterns) can be predictable or unexpected, and that safety assessment must use multiple methods and data to detect and evaluate their biological relevance and potential impact on food safety, with breeders' phenotypic observations serving as an initial screen.",
+      "categories": [
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "section heading",
+        "unintended effects",
+        "footnote reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "DESCRIPTION OF THE HOST PLANT AND ITS USE AS FOOD",
+      "summary": "Requires a comprehensive description of the host plant and its use as food, including common and scientific names and taxonomy; breeding and cultivation history (highlighting traits that may affect human health); genotype/phenotype information including known toxicity or allergenicity; history of safe use; relevant phenotypic information for related species or genetic contributors; and details on cultivation, transport, storage, processing requirements and the plant's role in the diet.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "section heading",
+        "host plant description",
+        "host plant use"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "DESCRIPTION OF THE DONOR ORGANISM(S)",
+      "summary": "Requires a detailed description of the donor organism(s) (and related species where appropriate), including common and scientific names, taxonomic classification, natural history relevant to food safety, known toxins/anti-nutrients/allergens and pathogenicity (for microorganisms), and past/present use and exposure routes in the food supply.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "section heading",
+        "donor organism description"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "DESCRIPTION OF THE GENETIC MODIFICATION(S)",
+      "summary": "Requires sufficient information to identify all genetic material delivered to the host plant, including the specific transformation method used, any DNA/helper plasmids and their sources, intermediate host organisms used in DNA production, and detailed characterization of the DNA to be introduced (genetic components such as marker and regulatory elements, size, identity, location/orientation in the construct, and function).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "section heading",
+        "genetic modification description",
+        "transformation process",
+        "introduced dna"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "CHARACTERIZATION OF THE GENETIC MODIFICATION(S)",
+      "summary": "Requires a comprehensive molecular and biochemical characterization of the genetic modification, including detailed information on DNA insertions (insert description, number of insertion sites, organization, copy number, sequence of inserts and flanking regions, and ORFs), identification and characterization of any expressed substances (products, function, phenotype, expression levels/sites, metabolites), and demonstration of integrity/stability of inserts, post‑translational changes, inheritance of traits, effects on host genes, and identity/expression of any fusion proteins.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "31. Information should be provided on the DNA insertions into the plant genome; this should include:",
+      "summary": "Obliges provision of detailed information on DNA insertions into the plant genome: characterization and description of inserted materials, number of insertion sites, organization at each site (including copy number and sequence of inserts and surrounding regions or transcript/expression analyses to detect new substances), and identification of any ORFs that could create fusion proteins.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "inserted dna"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "32. Information should be provided on any expressed substances in the recombinant-DNA plant; this should include:",
+      "summary": "Requires identification and characterization of any expressed substances in the recombinant‑DNA plant, including the gene product(s) (protein or RNA), their function, the phenotypic trait(s), levels and sites of expression (particularly in edible parts) and, where relevant, quantification of target gene products that alter endogenous mRNA or protein accumulation.",
+      "categories": [
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "expressed substances",
+        "gene product",
+        "gene function",
+        "phenotypic trait",
+        "expression level",
+        "target gene product"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "33. In addition, information should be provided:",
+      "summary": "Requires additional information to show whether the inserted genetic arrangement was conserved or rearranged on integration, whether amino acid modifications affect post‑translational modification or function, that intended effects are achieved and stably inherited, that expression occurs in expected tissues/levels per regulatory sequences, whether host genes were affected by transformation, and confirmation of identity and expression patterns of any fusion proteins.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "additional information",
+        "genetic arrangement",
+        "protein modification",
+        "trait stability",
+        "tissue expression",
+        "host gene effect",
+        "fusion protein identity"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## SAFETY ASSESSMENT",
+      "summary": "Sets out safety assessment obligations for recombinant‑DNA plants: assess newly expressed substances for chemical nature, concentration in edible parts and dietary exposure; evaluate potential toxicity (including when conventional toxicology is needed), allergenicity using an integrated stepwise approach, and compositional comparators with replicated trials across representative sites to determine biological significance of differences versus conventional counterparts.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## Expressed Substances (non-nucleic acid substances)",
+      "summary": "Section heading introducing assessment of expressed non‑nucleic acid substances (no substantive provisions in this heading alone).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "expressed substances heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## Assessment of possible toxicity",
+      "summary": "States that new substances from genetic modification may be novel food components or metabolites and requires safety assessment of their chemical nature, concentrations in edible parts and dietary exposure; ensures genes for known toxins/anti‑nutrients are not transferred, and specifies that appropriate toxicology studies (including protein similarity analyses, stability and digestive degradation tests, and conventional toxicology for non‑proteins) may be needed, with test material proven equivalent if produced synthetically or from another source.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "34. In vitro nucleic acid techniques enable the introduction of DNA that can result in the synthesis of new substances in plants.    The  new  substances  can  be  conventional  components  of  plant  foods  such  as  proteins,  fats,  carbohydrates, vitamins  which  are  novel  in the context of that recombinant-DNA  plant.    New  substances  might  also  include  new metabolites resulting from the activity of enzymes generated by the expression of the introduced DNA.",
+      "summary": "States that in vitro nucleic acid techniques can create novel substances in plants, including conventional food components expressed in a new context or new metabolites produced by introduced enzymes.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "expressed substances"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "35. The safety assessment should take into account the chemical nature and function of the newly expressed substance and identify the concentration of the substance in the edible parts of the recombinant-DNA plant, including variations and mean values.  Current dietary exposure and possible effects on population sub-groups should also be considered.",
+      "summary": "Requires safety assessments to consider the chemical nature and function of newly expressed substances and to identify their concentrations (mean and variation) in edible parts while considering current dietary exposure and effects on population subgroups.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "substance concentration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "36. Information should be provided to ensure that genes coding for known toxins or anti-nutrients present in the donor organisms are not transferred to recombinant-DNA plants that do not normally express those toxic or anti-nutritious characteristics.    This  assurance  is  particularly  important  in  cases  where  a  recombinant-DNA  plant  is  processed differently from a donor plant, since conventional food processing techniques associated with the donor organisms may deactivate, degrade or eliminate anti-nutrients or toxicants.",
+      "summary": "Requires information demonstrating that genes coding for known toxins or anti‑nutrients from donor organisms have not been transferred to recombinant‑DNA plants that normally lack those characteristics, with special attention where processing differs and might otherwise mitigate donor toxicants.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "toxin transfer"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## Evaluation of Metabolites",
+      "summary": "Requires evaluation of metabolites when modification could alter metabolite levels, including investigation of residue/metabolite concentrations and nutrient profile changes and using conventional safety procedures to assess any identified altered metabolites that could affect human health.",
+      "categories": [
+        "composition",
+        "contaminants"
+      ],
+      "subcategories": [
+        "metabolite evaluation",
+        "metabolite levels"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "## Food Processing",
+      "summary": "Requires consideration of the effects of food processing (including home preparation) on foods from recombinant‑DNA plants and provision of details of processing conditions used to produce food ingredients (e.g., extraction and refining steps for vegetable oil) because processing may change stability or bioavailability of toxicants or nutrients.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing heading",
+        "processing conditions"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## Nutritional Modification",
+      "summary": "Requires additional nutritional assessment for recombinant‑DNA plants intentionally modified to alter nutritional quality or functionality, including estimating likely intake from known use/consumption patterns, assessing impacts at customary and maximal consumption (with attention to infants, children, pregnant/lactating women, elderly and other vulnerable groups), and considering bioavailability and stability of the modified nutrient; it also requires evaluating overall nutrient‑profile changes, appropriate comparator selection, geographic/cultural consumption impacts and, where data are insufficient or bioavailability/composition concerns exist, additional studies such as animal feeding trials or other toxicological/nutritional testing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "## 49. Information  about  the  known  patterns  of  use  and  consumption  of  a  food,  and  its  derivatives  should  be  used  to estimate the likely intake of the food derived from the recombinant-DNA plant.  The expected intake of the food should be used to assess the nutritional implications of the altered nutrient profile both at customary and maximal levels of consumption.  Basing  the  estimate  on  the  highest  likely  consumption  provides  assurance  that  the  potential  for  any undesirable nutritional effects will be detected. Attention should be paid to the particular physiological characteristics and metabolic requirements of specific population groups such as infants, children, pregnant and lactating women, the elderly and those with chronic diseases or compromised immune systems.  Based on the analysis of nutritional impacts and the dietary needs of specific population subgroups, additional nutritional assessments may be necessary.  It is also important to ascertain to what extent the modified nutrient is bioavailable and remains stable with time, processing and storage.",
+      "summary": "Requires using known patterns of use and consumption to estimate likely intake of food derived from the recombinant‑DNA plant and to assess nutritional implications at customary and maximal consumption levels, paying attention to vulnerable subgroups and the bioavailability and stability of the modified nutrient.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "nutritional assessment",
+        "dietary exposure"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## 50. The use of plant breeding, including in vitro nucleic acid techniques, to change nutrient levels in crops can result in broad changes to the nutrient profile in two ways. The intended modification in plant constituents could change the overall nutrient profile of the plant product and this change could affect the nutritional status of individuals consuming the  food.  Unexpected  alterations  in  nutrients  could  have  the  same  effect.    Although  the  recombinant-DNA  plant components may be individually assessed as safe, the impact of the change on the overall nutrient profile should be determined.",
+      "summary": "States that breeding or in vitro nucleic acid techniques that alter nutrient levels can cause broad, intended or unintended changes to the overall nutrient profile, and that the impact of such changes on consumers' nutritional status must be determined even if individual components appear safe.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "nutrient profile"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "## 51. When the modification results in  a food product,  such  as  vegetable  oil,  with  a  composition  that  is  significantly different  from  its  conventional  counterpart,  it  may  be  appropriate  to  use  additional  conventional  foods  or  food components (i.e. foods or food components whose nutritional composition is closer to that of the food derived from recombinant-DNA plant) as appropriate comparators to assess the nutritional impact of the food.",
+      "summary": "Advises that when a modification yields a food (e.g., vegetable oil) whose composition differs significantly from its conventional counterpart, additional conventional foods or components with closer nutritional composition may be appropriate as comparators to assess nutritional impact.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "comparator selection"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "## 52. Because of geographical and cultural variation in food consumption patterns, nutritional changes to a specific food may have a greater impact in some geographical areas or in some cultural population than in others.  Some food plants serve as the major source of a particular nutrient in some populations.  The nutrient and the populations affected should be identified.",
+      "summary": "States that geographical and cultural differences in consumption can magnify the impact of nutritional changes to a food for some populations, and requires identification of the nutrient(s) and the populations most affected.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "population impact"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "## 53. Some  foods  may  require  additional  testing.  For  example,  animal  feeding  studies  may  be  warranted  for  foods derived from recombinant-DNA plants if changes in the bioavailability of nutrients are expected or if the composition is not  comparable  to  conventional  foods.    Also,  foods  designed  for  health  benefits  may  require  specific  nutritional, toxicological  or  other  appropriate  studies.  If  the  characterization  of  the  food  indicates  that  the  available  data  are insufficient for a thorough safety assessment, properly designed animal studies could be requested on the whole foods.",
+      "summary": "States that some recombinant‑DNA derived foods may require additional testing (e.g., animal feeding studies) when nutrient bioavailability changes are expected or composition is not comparable to conventional foods, and that foods designed for health benefits or those with insufficient characterization data may require specific nutritional, toxicological or whole‑food animal studies.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "additional testing"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "SECTION 5 - OTHER CONSIDERATIONS",
+      "summary": "Heading only: 'SECTION 5 - OTHER CONSIDERATIONS' — no substantive content provided in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "POTENTIAL ACCUMULATION OF SUBSTANCES SIGNIFICANT TO HUMAN HEALTH",
+      "summary": "States that some recombinant‑DNA plants may indirectly cause accumulation of pesticide residues, altered or toxic metabolites, contaminants or other substances significant to human health and requires the safety assessment to consider this potential using conventional chemical safety assessment procedures.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "substances heading",
+        "substance accumulation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "USE OF ANTIBIOTIC RESISTANCE MARKER GENES",
+      "summary": "Recommends avoiding antibiotic resistance marker genes in foods when alternative safe transformation technologies exist, notes horizontal gene transfer from plants to gut microbes or human cells is considered rare but not impossible, lists factors to assess safety of foods containing such markers (clinical importance of the antibiotic, whether the marker gene product in food could compromise orally administered antibiotics, and safety of the gene product), and states marker genes or products posing health risks — especially those conferring resistance to clinically used antibiotics — should not be present in foods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "55. Alternative transformation technologies that do not result in antibiotic resistance marker genes in foods should be used in the future development of recombinant-DNA plants, where such technologies are available and demonstrated to be safe.",
+      "summary": "Recommends using alternative transformation technologies that avoid introducing antibiotic resistance marker genes into foods when those technologies are available and demonstrated to be safe.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "marker gene avoidance"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "56. Gene  transfer  from  plants  and  their  food  products  to  gut  microorganisms  or  human  cells  is  considered  a  rare possibility because of the many complex and unlikely events that would need to occur consecutively. Nevertheless, the possibility of such events cannot be completely discounted 6 .",
+      "summary": "States that gene transfer from plants or their food products to gut microorganisms or human cells is considered a rare possibility but cannot be completely discounted.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "gene transfer risk"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "57. In  assessing  safety  of  foods  containing  antibiotic  resistance  marker  genes,  the  following  factors  should  be considered:",
+      "summary": "Specifies factors for assessing safety of foods with antibiotic resistance marker genes: (A) the clinical/veterinary importance of the antibiotic (marker genes for antibiotics that are sole treatments should not be used); (B) whether the enzyme/protein present in food could degrade or compromise orally administered antibiotics (requiring estimates of enzyme amount and activity under digestive conditions); and (C) the intrinsic safety of the gene product.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "(Certain antibiotics are the only drug available to treat some clinical conditions (e.g. vancomycin for use in treating certain staphylococcal infections). Marker genes encoding resistance to such antibiotics should not be used in recombinant-DNA plants.)",
+      "summary": "States that marker genes encoding resistance to antibiotics that are the only available treatments for certain clinical conditions (e.g., vancomycin) should not be used in recombinant‑DNA plants.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "antibiotic marker restriction"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "58. If evaluation of the data and information suggests that the presence of the antibiotic resistance marker gene or gene product presents risks to human health, the marker gene or gene product should not be present in the food. Antibiotic resistance genes used in food production that encode resistance to clinically used antibiotics should not be present in foods.",
+      "summary": "If data indicate that an antibiotic resistance marker gene or its product presents risks to human health, it must be absent from the food, and marker genes conferring resistance to clinically used antibiotics should not be present in foods.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "marker gene removal"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "59. The  goal  of  the  safety  assessment  is  a  conclusion  as  to  whether  the  new  food  is  as  safe  as  the  conventional counterpart taking into account dietary impact of any changes in nutritional content or value. Nevertheless, the safety assessment should be reviewed in the light of new scientific information that calls into question the conclusions of the original safety assessment.",
+      "summary": "States the goal of the safety assessment is to conclude whether the new food is as safe as its conventional counterpart considering dietary impacts of any nutritional changes, and requires the assessment to be reviewed if new scientific information challenges the original conclusions.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "safety conclusion"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "6 In cases where there are high levels of naturally occurring bacteria which are resistant to the antibiotic, the likelihood of such bacteria  transferring  this  resistance  to  other  bacteria  will  be  orders  of  magnitude  higher  than  the  likelihood  of  transfer between ingested foods and bacteria.",
+      "summary": "Footnote: where high levels of naturally occurring antibiotic‑resistant bacteria exist, transfer of resistance among those bacteria is orders of magnitude more likely than transfer from ingested foods to bacteria.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "ANNEX 1: ASSESSMENT OF POSSIBLE ALLERGENICITY",
+      "summary": "Annex provides a stepwise, integrated, case‑by‑case strategy for assessing possible allergenicity of newly expressed proteins in recombinant‑DNA plants intended for food — covering source identification, sequence and structural comparisons, pepsin resistance, serum testing and other methods — with the endpoint a conclusion on likelihood of being a food allergen, and notes exclusions and limits (e.g., not applicable to gluten‑sensitive enteropathies or hypoallergenic down‑regulated products) and the need to consider exposure and processing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "SECTION 1 - INTRODUCTION",
+      "summary": "Requires that all newly expressed proteins in recombinant‑DNA plants that could be present in the final food be assessed for potential to cause allergic reactions using an integrated, stepwise, case‑by‑case approach because no definitive predictive test exists, with the assessment endpoint being the likelihood that the protein is a food allergen.",
+      "categories": [
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "allergenicity assessment",
+        "assessment approach",
+        "assessment endpoint"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "SECTION 2 - ASSESSMENT STRATEGY",
+      "summary": "Sets the assessment strategy: determine the protein source, any significant amino acid sequence similarity to known allergens, and structural properties (e.g., enzymatic degradation susceptibility, heat stability), compare sequence and physicochemical characteristics to established allergens in a weight‑of‑evidence approach using material equivalent to that produced in the plant, consider expression host effects, and assume genes from known allergenic sources encode allergens unless evidence shows otherwise.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "strategy heading",
+        "allergenicity criteria",
+        "allergenicity assessment",
+        "allergenic source"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "SECTION 3 - INITIAL ASSESSMENT",
+      "summary": "Heading only: 'SECTION 3 - INITIAL ASSESSMENT' — introduces subsequent detailed sub‑sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "SECTION 3.1 - SOURCE OF THE PROTEIN",
+      "summary": "Requires reporting any allergenicity associated with the donor organism, defining allergenic gene sources as organisms with reasonable evidence of IgE‑mediated oral, respiratory or contact allergy, and using this information to identify available sera, documented reaction types/frequency/severity, sequences and physicochemical/immunological properties relevant to assessment.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "source protein heading",
+        "donor organism data"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "SECTION 3.2 - AMINO ACID SEQUENCE HOMOLOGY",
+      "summary": "Requires sequence homology searches (e.g., FASTA, BLASTP, contiguous segment searches) between newly expressed proteins and known allergens using validated procedures, recognizes limitations of database coverage and epitope detection, considers >35% identity over 80+ amino acids (or other justified criteria) as indicative of possible IgE cross‑reactivity prompting serum testing, and states negative results reduce likelihood of known allergenicity but must be considered with other data.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sequence homology heading",
+        "sequence comparison",
+        "cross-reactivity criteria",
+        "search limitations",
+        "homology interpretation"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "SECTION 3.3 - PEPSIN RESISTANCE",
+      "summary": "States that resistance to pepsin digestion correlates with allergenic potential so pepsin‑digestion testing under well‑validated protocols is strongly recommended (though lack of resistance does not exclude allergenicity) and allows alternative enzyme susceptibility protocols with adequate justification.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "pepsin resistance heading",
+        "digestion resistance",
+        "alternative protocols"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "SECTION 4 - SPECIFIC SERUM SCREENING",
+      "summary": "For proteins from known allergenic sources or with sequence homology, perform in vitro IgE binding assays using sera from clinically validated allergic individuals where available and standardized (noting suggested minimum sera numbers that may be impractical), and for such proteins a negative in vitro result should prompt further testing such as skin tests or ex vivo protocols while a positive result indicates potential allergenicity.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "serum screening heading",
+        "immunological assays",
+        "sequence search note",
+        "pepsin method note",
+        "pepsin resistance note",
+        "sera sample size",
+        "follow-up testing"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "SECTION 5 - OTHER CONSIDERATIONS",
+      "summary": "States that the absolute exposure to the newly expressed protein and effects of relevant food processing must be considered in the allergenicity conclusion, and that scientifically sound evolving methods (targeted serum screening, international serum banks, animal models, T‑cell epitope/structural motif analyses) may be used as part of the assessment strategy.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "other considerations heading",
+        "exposure and processing",
+        "additional methods"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "12 Ex  vivo procedure  is  described  as  the  testing  for  allergenicity  using  cells  or  tissue  culture  from  allergic  human  subjects (Report of Joint FAO/WHO Expert Consultation on Allergenicity of Foods derived from Biotechnology).",
+      "summary": "Footnote: defines 'ex vivo' procedure as allergenicity testing using cells or tissue culture from allergic human subjects.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "ex vivo testing"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

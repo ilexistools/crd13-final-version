@@ -1,0 +1,1302 @@
+{
+  "doc_id": "3bb3bafa-c464-42f0-be2a-ab66def81780",
+  "title": "STANDARD FOR CERTAIN CANNED FRUITS CXS 319-2015 Adopted in 2015. Amended in 2017, 2018, 2022, 2023.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR CERTAIN CANNED FRUITS CXS 319-2015 Adopted in 2015. Amended in 2017, 2018, 2022, 2023.",
+      "summary": "Document title presenting the 'Standard for Certain Canned Fruits (CXS 319‑2015)' with its adoption year and subsequent amendment years (2017, 2018, 2022, 2023).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendment",
+      "summary": "Notes a 2022 amendment: Section 8.3 (Labelling of non‑retail containers) was amended following decisions of the Forty‑fifth Session of the Codex Alimentarius Commission (Dec 2022).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2023 Amendment",
+      "summary": "Notes a 2023 amendment: Section 9 (Methods of analysis and sampling) was amended following decisions of the Forty‑sixth Session of the Codex Alimentarius Commission (Dec 2023).",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Supersedes earlier canned mangoes, pears and pineapple standards and applies to specified canned fruits offered for direct consumption (including catering or repackaging) but not when intended for further processing, and excludes canned applesauce, berry fruits, citrus fruits and stone fruits as well as products intended for special dietary uses, reduced/very‑low sugar products, and products where sweetening properties are wholly or partly replaced by additive sweeteners.",
+      "categories": [
+        "scope",
+        "additives"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusions",
+        "exclusions heading",
+        "special diet exclusion",
+        "diet product exclusion",
+        "sweetener exclusion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 2. DESCRIPTION",
+      "summary": "Describes canned fruits generally: they are made from sound fruits (fresh, frozen, thermally or physically processed) packed with or without suitable liquid packing medium (vacuum packaging allowed under specified conditions) and processed to ensure stability at ambient temperature; permits additional styles if they meet the standard's requirements and are adequately labelled, and allows any commercially cultivated variety suitable for canning.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## 2.1 Product definition",
+      "summary": "Defines 'Canned fruits' as products from substantially sound fruits (fresh, frozen, thermally or physically processed) retaining essential characteristics and subjected to operations such as washing, peeling and cutting; permits packing with or without suitable liquid medium or vacuum packing provided the medium does not exceed 20% of net weight and the container is sealed to generate internal pressure per good manufacturing practices; and requires processing to prevent spoilage and ensure ambient‑temperature stability.",
+      "categories": [
+        "definition",
+        "processing",
+        "packaging"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "fruit preparation",
+        "packing medium",
+        "vacuum packaging",
+        "heat processing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## 2.2 Styles",
+      "summary": "States that, in addition to styles defined in annexes, other styles are permitted subject to the conditions set out in Section 2.2.1.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## 2.2.1 Other styles",
+      "summary": "Permits any other product presentation provided it (1) is sufficiently distinctive from forms laid down in the standard; (2) meets all relevant standard requirements (including limits on defects, drained weight and other requirements applicable to the most similar style); and (3) is adequately described on the label to avoid consumer confusion or misleading.",
+      "categories": [
+        "presentation",
+        "quality",
+        "labelling"
+      ],
+      "subcategories": [
+        "other styles heading",
+        "other styles",
+        "other styles criterion",
+        "style requirements",
+        "consumer description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 2.3 Varietal type",
+      "summary": "Allows use of any commercially cultivated variety or type that is suitable for canning.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "varietal type heading",
+        "varietal type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Defines essential composition (fruits and appropriate liquid packing medium), optional ingredients per annexes, and packing media requirements (see Section 3.1.3); sets quality criteria for colour, flavour, odour, texture, uniformity and defects, defines a 'defective' container for non-average failures, and specifies lot acceptance rules including use of the acceptance number (c) from the appropriate sampling plan with an AQL of 6.5 for non-average requirements and compliance for sample-average requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1 Composition",
+      "summary": "Heading only for composition (no substantive provisions in this section itself).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Specifies basic ingredients as the fruits defined in Section 2 and a liquid packing medium appropriate to the product as per Section 3.1.3.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1.2 Optional ingredients",
+      "summary": "States that optional ingredients are allowed in accordance with the relevant provisions in the corresponding annexes.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients heading",
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.1.3 Packing media",
+      "summary": "Requires packing media to follow the Guidelines for packing media for canned fruits (CXG 51-2003), with syrup soluble-solids (‘°Brix’) determined on average but no individual container permitted to have a soluble-solids value beyond the next category of the medium.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "packing media heading",
+        "packing media standard",
+        "brix limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2 Quality criteria",
+      "summary": "Sets quality criteria requiring canned fruits to have normal colour, flavour, odour and characteristic texture for the fruit type and packing medium, requires size uniformity per annexes, and states fruits should be substantially free from defects with limits for common defects specified in the annexes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.1 Colour, flavour, odour and texture",
+      "summary": "Requires canned fruits to have normal colour, flavour and odour appropriate to the fruit type, packing medium and optional ingredients used, and to possess the texture characteristic of the product.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "sensory quality heading",
+        "sensory quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.2 Uniformity of size",
+      "summary": "States that uniformity of size requirements are set out in the relevant provisions of the corresponding annexes (heading with reference to annexes).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "size uniformity heading",
+        "size uniformity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2.3 Defects and allowances",
+      "summary": "States canned fruits should be substantially free from defects and that certain common defects must not exceed the quantitative limitations fixed in the corresponding annexes.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defects heading",
+        "defects allowance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.3 Classification of 'defectives'",
+      "summary": "Defines a 'defective' container as one that fails to meet one or more applicable quality requirements set out in Section 3.2, excluding requirements that are based on sample averages.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "defective container"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.4 Lot acceptance",
+      "summary": "Specifies lot acceptance: for non-average requirements, the number of 'defectives' must not exceed the acceptance number (c) of the appropriate sampling plan with an AQL of 6.5; and requirements based on sample averages must also be complied with.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits only those classes and specific food additives listed in this standard and corresponding annexes for specified functions and limits; additionally, acidity regulators listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for food category 04.1.2.4 or in Table 3 of the General Standard are acceptable for use.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "additive conditions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires products to comply with the maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6. HYGIENE",
+      "summary": "Recommends products be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for canned fruit and vegetable products (CXC 2-1969) and other relevant Codex texts, and states the products should comply with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Requires containers to be well filled so product (including packing medium) occupies not less than 90% (minus necessary headspace per good manufacturing practice) of the container's water capacity (volume of distilled water at 20°C); failure to meet minimum fill is a 'defective' and lot acceptance for minimum fill uses the sampling plan acceptance number (c) with an AQL of 6.5, while minimum drained weight percentages are specified in annexes and are deemed complied with when the average drained weight meets the minimum provided there is no unreasonable shortage in individual containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.1 Fill of container",
+      "summary": "Heading only for 'Fill of container' (no substantive provisions in this section itself).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.1.1 Minimum fill",
+      "summary": "Specifies minimum fill: the sealed container must be filled so the product (including packing medium) occupies at least 90% of the water capacity (volume of distilled water at 20°C) minus any necessary head space per good manufacturing practice, with an exception that this provision does not apply to vacuum packaged fruits.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.1.2 Classification of 'defectives'",
+      "summary": "Defines a 'defective' container as one that fails to meet the minimum fill requirement specified in Section 7.1.1.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defective classification"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "States that a lot meets the minimum-fill requirement of Section 7.1.1 when the number of 'defectives' (per Section 7.1.2) does not exceed the acceptance number (c) of the applicable sampling plan at an AQL of 6.5.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.1.4 Minimum drained weight",
+      "summary": "Requires the product's drained weight to be at least the percentages shown in the relevant annexes, calculated on the basis of the weight of distilled water at 20 °C that the sealed container will hold when completely filled; for non-metallic rigid containers (e.g., glass jars) the basis is that water weight less 20 ml.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.1.4.2 Lot acceptance",
+      "summary": "Specifies that compliance with minimum drained weight is deemed met when the average drained weight of all examined containers is not less than the required minimum, provided there is no unreasonable shortage in individual containers.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "drained weight"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8. LABELLING",
+      "summary": "Requires canned fruits to be labelled in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and adds specific provisions covering product name, sizing, packing medium, style, avoidance of misleading declarations for other styles, flavour declarations for added ingredients, and optional varietal type.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8.1 The products covered by the provisions of this  standard shall be labelled in accordance with the General standard for the labelling of pre-packaged foods (CXS 1-1985).",
+      "summary": "States that products covered by this standard must be labelled per the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), with additional specific provisions applying.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.2 Name of the product",
+      "summary": "Sets specific name-of-product requirements for canned fruits: names as defined in annexes, optional size declaration, mandatory indication of packing medium, style indication, additional wording to avoid misleading for 'other styles', flavour disclosure if added ingredients alter flavour, and optional inclusion of varietal type.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.2.1 The names of the canned fruits shall be those defined in the corresponding annexes.",
+      "summary": "Mandates that the names of canned fruits shall be those defined in the corresponding annexes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.2.2 When the fruits are sized, the size (or sizes when sizes are mixed), as defined in the corresponding annexes, may be declared as part of the name or in close proximity to the name of the product.",
+      "summary": "Permits declaration of the fruit size (or sizes when mixed), as defined in the annexes, as part of or close to the product name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.2.3 The name of the product shall include the indication of the packing medium as set out in Section 2.1.2 (a). For canned fruits packaged in accordance with Section 2.1.2 (b) the words 'vacuum packaged' shall be affixed to the commercial designation of the product or in close proximity.",
+      "summary": "Requires the product name to include the packing medium per Section 2.1.2(a), and if packed per Section 2.1.2(b) the words 'vacuum packaged' must appear in or close to the commercial designation.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.2.4 The name of the product shall the include indication of the style as set out in Section 2.2.",
+      "summary": "Requires the product name to include an indication of the style as specified in Section 2.2.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "8.2.5 Other styles - if the product is produced in accordance with the other styles provision (Section 2.2.1), the label should contain in close proximity to the name of the product such additional words or phrases that will avoid misleading or confusing the consumer.",
+      "summary": "When a product is produced under the 'other styles' provision (Section 2.2.1), the label must include additional words or phrases near the name to avoid misleading or confusing consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "misleading declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "8.2.6 If an added ingredient, as defined in Section 3.1.2, alters the flavour characteristic of the product, the name of the food shall be accompanied by the term 'flavoured with X' or 'X flavoured' as appropriate.",
+      "summary": "If an added ingredient (per Section 3.1.2) alters the product's flavour characteristic, the product name must be accompanied by 'flavoured with X' or 'X flavoured' as appropriate.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "flavour declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "8.2.7 The name of the product may include the varietal type.",
+      "summary": "Permits the product name to include the varietal type.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "varietal type"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "8.3 Labelling of non-retail containers",
+      "summary": "Requires labelling of non-retail containers to follow the General Standard for the Labelling of Non-retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies that methods of analysis and sampling relevant to this standard are those in the Recommended Methods of Analysis and Sampling (CXS 234-1999) and that sampling is to be conducted as described in the standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "9.1 METHODS OF ANALYSIS",
+      "summary": "Directs that compliance checks must use the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) that are relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "9.2 SAMPLING",
+      "summary": "Non-substantive reference: sampling procedures are indicated only as 'as described in the standard' and refer to the standard's sampling provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling methods"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "Sampling plans",
+      "summary": "Outlines selection of the appropriate inspection level (e.g., Inspection level I or II) and distinguishes contexts such as normal sampling and situations for disputes/Codex referee purposes, enforcement, or when a better lot estimate is needed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "SAMPLING PLAN 1 (Inspection level I, AQL = 6.5)",
+      "summary": "Presents Sampling Plan 1 (Inspection level I, AQL = 6.5): tabulated sample sizes (n) and acceptance numbers (c) are specified by lot size (N) across three net-weight categories (≤1 kg, >1 kg–≤4.5 kg, and >4.5 kg).",
+      "categories": [
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "sampling plan",
+        "sampling plan table",
+        "sampling table",
+        "net weight class"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "2.2.4 Allowances for defects",
+      "summary": "Specifies allowable defects for the product (harmless plant material, peel except in peeled styles, core material, blemished/trimmed units, seeds and broken units) and sets maximum limits: blemished/trimmed total 20% by count or 3 units/container (<10 count containers) with sample average ≤20% but blemished limited to 20% or 2 units/container (<10) with sample average ≤10%; broken (whole/halves/quartered) 20% by count or 2 units/container (<10) with sample average ≤10%; core material 2 units/kg (except 'whole-not-cored'); stems/stalks and leaves 3 pieces/3 kg; peel aggregate area 10 cm2/kg (except 'unpeeled'); seeds 8/kg (except 'whole-not-cored').",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defect allowances",
+        "defect criteria",
+        "defect table",
+        "table separator",
+        "defect limits"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "3. FOOD ADDITIVES",
+      "summary": "Permits colours only in special holiday packs used in accordance with specified tables of the General Standard for Food Additives (CXS 192‑1995) for Food Category 04.1.2.4 and/or Table 3 of that Standard, and requires flavourings used in products covered by this annex to comply with the Guidelines for the use of flavourings (CXG 66‑2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted colours",
+        "flavouring compliance"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "4. WEIGHTS AND MEASURES",
+      "summary": "Heading only: '4. WEIGHTS AND MEASURES' (non‑substantive).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "4.1 Minimum drained weight",
+      "summary": "Specifies minimum drained weight percentages by style and container size: Whole — 46% for containers ≤425 ml and 50% for >425 ml; Halves/quarters/slices/pieces — 46% (≤425 ml) and 53% (>425 ml); Diced — 50% (≤425 ml) and 56% (>425 ml).",
+      "categories": [
+        "weights and measures",
+        "classification"
+      ],
+      "subcategories": [
+        "minimum drained weight",
+        "drained weight table",
+        "style table",
+        "style grading"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "1. DESCRIPTION",
+      "summary": "Heading only: '1. DESCRIPTION' (non‑substantive).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "1.1 Product definition",
+      "summary": "Defines canned pineapple as the product conforming to Ananas comosus (syn. Ananas sativus) from which the peel has been removed, whether cored or uncored.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "1.2 Styles",
+      "summary": "Heading only: '1.2 Styles' introducing the permitted cored or uncored packing styles (non‑substantive by itself).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "1.2.1 Cored pineapples",
+      "summary": "Heading only: '1.2.1 Cored pineapples' (non‑substantive).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "1.2.1.1 Whole - cylindrical whole unit with the core removed",
+      "summary": "Whole — a cylindrical whole unit with the core removed.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "1.2.1.2 Slices or spiral slices or whole slice or rings - uniformly cut circular slices or rings cut across the axis of the peeled, cored pineapple cylinders.",
+      "summary": "Slices/spiral slices/whole slice/rings — uniformly cut circular slices or rings cut across the axis of peeled, cored pineapple cylinders.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "1.2.1.3 Half slices - uniformly cut approximately semi-circular halves of slices.",
+      "summary": "Half slices — uniformly cut, approximately semi‑circular halves of slices.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "1.2.1.4 Quarter slices - uniformly cut, one-fourth portions of slices of cored pineapples.",
+      "summary": "Quarter slices — uniformly cut one‑fourth portions of slices of cored pineapples.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "1.2.1.5 Broken slices - arc-shaped portions of cored pineapples which may not be uniform in size and/or shape.",
+      "summary": "Broken slices — arc‑shaped portions of cored pineapples that may not be uniform in size and/or shape.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "1.2.1.6 Spears  or  fingers -long,  slender  pieces  cut  radially  and  lengthwise  of  the  cored  pineapple  cylinder, predominantly 65 mm or longer.",
+      "summary": "Spears or fingers — long, slender pieces cut radially and lengthwise from the cored pineapple cylinder, predominantly 65 mm or longer.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "1.2.1.7 Tidbits -reasonably uniform, wedge-shaped sectors cut from slices or portions thereof, predominantly from 8 mm to 13 mm thick.",
+      "summary": "Tidbits — reasonably uniform, wedge‑shaped sectors cut from slices or portions thereof, predominantly 8–13 mm thick.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "1.2.1.8 Chunks -short, thick pieces cut from thick slices and/or from peeled cored pineapple and predominantly more than 12 mm in both thickness and width, and less than 38 mm in length.",
+      "summary": "Chunks — short, thick pieces cut from thick slices or peeled cored pineapple, predominantly >12 mm thickness and width and <38 mm length.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "1.2.1.9 Dice or cubes -reasonably uniform, cube-shaped pieces, predominantly 14 mm or less in the longest edge dimensions.",
+      "summary": "Dice or cubes — reasonably uniform, cube‑shaped pieces predominantly 14 mm or less on the longest edge.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "1.2.1.10 Pieces -irregular shapes and sizes not identifiable as a specific style and does not include 'chunks' or 'chips' styles.",
+      "summary": "Pieces — irregular shapes and sizes not identifiable as a specific style and excluding 'chunks' or 'chips' styles.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "1.2.1.11 Chips -small, irregular shapes and sizes of pineapple pieces similar to that left over after dicing of pineapple and which may be included in 'crushed' style.",
+      "summary": "Chips — small, irregular pieces similar to dicing leftovers which may be included in the 'crushed' style.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "1.2.1.12 Crushed or crisp cut -finely cut or shredded or grated or diced pieces of pineapple and which may include chips in the crushed mass.",
+      "summary": "Crushed or crisp cut — finely cut, shredded, grated or diced pieces of pineapple that may include chips within the crushed mass.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "1.2.2 Uncored pineapples",
+      "summary": "Heading only: introduces the uncored pineapples section and its subsidiary style definitions; no substantive provisions in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "1.2.2.1 Slice or whole slices - uniformly cut circular slices across the axis of the cylindrical whole unit.",
+      "summary": "Defines the 'Slice or whole slices' style for uncored pineapple as uniformly cut circular slices across the axis of the cylindrical whole unit.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "1.2.2.2 Half slices - uniformly cut approximately semi-circular halves of slices.",
+      "summary": "Defines the 'Half slices' style as uniformly cut, approximately semi‑circular halves of slices.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 70,
+      "order": 69,
+      "section": "1.2.2.3 Quarter slices - uniformly cut, one-fourth portions of slices.",
+      "summary": "Defines the 'Quarter slices' style as uniformly cut one‑fourth portions of slices.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 71,
+      "order": 70,
+      "section": "1.2.2.4 Spears  or  fingers -  long,  slender  pieces  cut  radially  and  lengthwise  of  the  whole  pineapple  cylinder, predominantly 65 mm or longer .",
+      "summary": "Defines 'Spears or fingers' as long, slender pieces cut radially and lengthwise from the whole pineapple cylinder, predominantly 65 mm or longer.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "style definition"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 72,
+      "order": 71,
+      "section": "1.3 Types of pack",
+      "summary": "Introductory heading indicating the following entries list the types of pack permitted for canned pineapple.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 73,
+      "order": 72,
+      "section": "1.3.1 Regular pack : refers to all styles, with a liquid packing medium.",
+      "summary": "Defines 'Regular pack' as any style packed with a liquid packing medium.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "pack style"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 74,
+      "order": 73,
+      "section": "1.3.2 Heavy pack : 'Titbits' or 'dice or cubes' or 'pieces' or 'chips' or 'crushed' styles containing at least 73 percent drained fruit weight.",
+      "summary": "Defines 'Heavy pack' (titbits, dice/cubes, pieces, chips or crushed styles) as containing at least 73 percent drained fruit weight.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "pack style"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 75,
+      "order": 74,
+      "section": "1.3.3 Solid pack : 'Chips' or 'crushed' styles containing at least 78 percent drained fruit weight.",
+      "summary": "Defines 'Solid pack' (chips or crushed styles) as containing at least 78 percent drained fruit weight.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "pack style"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 76,
+      "order": 75,
+      "section": "ANNEX ON CANNED PINEAPPLES",
+      "summary": "Annex statement that, in addition to general provisions for canned fruits, specific additional provisions apply to canned pineapples.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 77,
+      "order": 76,
+      "section": "2. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Heading only: introduces the essential composition and quality factors for canned pineapples.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "section_id": 78,
+      "order": 77,
+      "section": "2.1 Composition",
+      "summary": "Heading only: introduces the composition subsection for canned pineapples.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "section_id": 79,
+      "order": 78,
+      "section": "2.1.1 Optional ingredients",
+      "summary": "Permits optional ingredients in canned pineapple to include spices, culinary herbs and spice oils.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "section_id": 80,
+      "order": 79,
+      "section": "2.1.2 Packing media",
+      "summary": "Permits clarified pineapple juice as an allowed packing medium for canned pineapple in addition to the packing media provisions of Section 3.1.3 of CXS 319-2015.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "packing media"
+      ],
+      "page_range": {
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "section_id": 81,
+      "order": 80,
+      "section": "2.2 Quality criteria",
+      "summary": "Heading only: introduces quality criteria applicable to canned pineapples.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "section_id": 82,
+      "order": 81,
+      "section": "2.2.1 Colour",
+      "summary": "States that canned pineapple with optional ingredients is of characteristic colour when there is no abnormal discolouration for the ingredient used, and that non‑white coloured varieties may exhibit white radiating streaks.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "colour requirement"
+      ],
+      "page_range": {
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "section_id": 83,
+      "order": 82,
+      "section": "2.2.2 Texture",
+      "summary": "Heading only: introduces the texture criterion for canned pineapples.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture heading"
+      ],
+      "page_range": {
+        "start_page": 14,
+        "end_page": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "doc_id": "5b282d02-36fe-4d0c-a2ab-235bab141af4",
+  "title": "CODE OF HYGIENIC PRACTICE FOR EGGS AND EGG PRODUCTS CXC 15 - 1976",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF HYGIENIC PRACTICE FOR EGGS AND EGG PRODUCTS CXC 15 - 1976",
+      "summary": "Document title only: Code of Hygienic Practice for Eggs and Egg Products (CXC 15‑1976).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "TABLE OF CONTENTS",
+      "summary": "Table of contents only (non‑substantive), listing the Code's sections on objectives, scope, production, hygiene, transport, facilities, documentation and related topics.",
+      "categories": [
+        "other",
+        "scope",
+        "definition",
+        "hygiene",
+        "transport",
+        "equipment",
+        "packaging",
+        "documentation",
+        "risk management",
+        "processing",
+        "analysis sampling",
+        "inspection certification",
+        "pest control",
+        "official control",
+        "labelling",
+        "training"
+      ],
+      "subcategories": [
+        "table of contents",
+        "contents entry",
+        "divider line",
+        "scope entry",
+        "definition heading",
+        "environmental hygiene",
+        "egg production",
+        "flock health",
+        "laying systems",
+        "general hygienic practice",
+        "collection handling transport",
+        "collection equipment",
+        "packaging storage",
+        "delivery procedures",
+        "personnel hygiene",
+        "cleaning maintenance",
+        "sanitary facilities",
+        "record keeping",
+        "design facilities",
+        "food hazard control",
+        "section entry",
+        "hygiene control systems",
+        "time temperature",
+        "microbiological specifications",
+        "incoming materials",
+        "packaging requirements",
+        "water requirements",
+        "management supervision",
+        "records requirements",
+        "recall procedures",
+        "maintenance sanitation",
+        "cleaning programs",
+        "pest control systems",
+        "document artifact",
+        "monitoring heading",
+        "personal hygiene",
+        "transport heading",
+        "consumer information",
+        "lot identification",
+        "consumer education",
+        "labelling heading",
+        "training heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "INTRODUCTION",
+      "summary": "Introduces the Code as guidance for safe production of eggs and egg products using a hazard‑analysis approach informed by FAO/WHO Salmonella risk assessments, focusing on domesticated chickens but applicable to other egg‑producing birds, and noting internal and external contamination sources and vulnerable consumer groups.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "contaminants"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "hazard basis",
+        "reference citation",
+        "scope context",
+        "contamination sources",
+        "contamination source",
+        "susceptibility basis"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1 OBJECTIVES",
+      "summary": "The Code's objective is to ensure the safety and suitability of eggs and egg products by applying the General Principles of Food Hygiene to all methods of primary production and processing, including guidance for small‑scale producers and processors.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2 SCOPE AND USE OF THE DOCUMENT",
+      "summary": "Scope: applies to primary production, sorting, grading, storage, transport, processing and distribution of shell eggs and egg products from domesticated birds for human consumption (excluding certain traditional delicacies); Use: supplements the General Principles of Food Hygiene, references other relevant Codex texts, allows flexibility for small‑scale/less‑developed producers, promotes hazard analysis/HACCP where practicable, emphasizes validated control measures and shared responsibilities across producers, processors and transporters, and provides specific definitions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1  SCOPE",
+      "summary": "Applies to primary production, sorting, grading, storing, transport, processing and distribution of eggs in shell and egg products from domesticated birds intended for human consumption, excluding traditional delicacy eggs (e.g., Balut, 1000‑year‑old eggs).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2  USE OF THE DOCUMENT",
+      "summary": "States the Code is supplemental to the General Principles of Food Hygiene, references other relevant Codex standards, describes document formatting (principles/explanatory narratives/guidelines), defines applicability to safety and suitability, and affirms flexibility for different production systems—including small‑scale or less‑developed producers—with the use of 'where practicable' exemptions and referral to HACCP guidance for small businesses while still requiring adequate microbiological or other controls.",
+      "categories": [
+        "scope",
+        "documentation",
+        "definition",
+        "classification",
+        "risk management",
+        "training"
+      ],
+      "subcategories": [
+        "document use",
+        "supplemental use",
+        "cross references",
+        "document structure",
+        "text conventions",
+        "safety suitability",
+        "principles reference",
+        "flexibility statement",
+        "small-scale heading",
+        "small-scale definition",
+        "flexibility applicability",
+        "control measure flexibility",
+        "where practicable",
+        "haccp guidance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.3 PRINCIPLES APPLYING TO THE PRODUCTION, HANDLING AND PROCESSING OF ALL EGGS AND EGG PRODUCTS",
+      "summary": "Sets principles requiring control measures from primary production through consumption to achieve appropriate public health protection, application of good hygienic/agricultural/manufacturing practices and HACCP where appropriate (recognizing limitations at primary production), and that controls should be effective and validated where practicable, with allowances for small/less‑developed businesses to follow national requirements or recognized guidelines when validation is not feasible.",
+      "categories": [
+        "scope",
+        "risk management",
+        "hygiene",
+        "documentation",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "principles heading",
+        "general principles",
+        "principle statement",
+        "control measures",
+        "primary production hygiene",
+        "chain information",
+        "chain control",
+        "haccp context",
+        "hazard analysis",
+        "haccp limitations",
+        "validated controls",
+        "control validation",
+        "alternative controls"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.4 RELATIVE ROLES OF EGG PRODUCERS, PROCESSORS AND TRANSPORTERS",
+      "summary": "Assigns shared responsibility across the egg production chain: producers must apply good hygienic, agricultural and animal‑husbandry practices; processors must implement GMP/GHP and adapt controls as needed; distributors, transporters, retailers and food preparers must handle and store eggs per instructions; and parties must maintain communication and provide consumer advice on safe handling.",
+      "categories": [
+        "other",
+        "hygiene",
+        "labelling"
+      ],
+      "subcategories": [
+        "section heading",
+        "chain responsibilities",
+        "chain communication",
+        "primary production practices",
+        "processing practices",
+        "handling instructions",
+        "storage handling",
+        "consumer advice"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.5 DEFINITIONS",
+      "summary": "Provides specific definitions for egg‑related terms used in the Code (supplementing the General Principles of Food Hygiene), including breaking, breeding flock, broken/leaker egg, candling, cracked egg, dirty egg, domesticated birds, egg laying establishment, egg product, incubator egg, microbiocidal treatment, pasteurization, shelf life and table egg.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition preface",
+        "breaking definition",
+        "breeding flock",
+        "broken egg",
+        "candling definition",
+        "cracked egg",
+        "dirty egg",
+        "domesticated birds",
+        "laying establishment",
+        "egg product",
+        "incubator egg",
+        "microbiocidal treatment",
+        "pasteurization definition",
+        "shelf life",
+        "table egg"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 3   PRIMARY PRODUCTION",
+      "summary": "Introduces primary production principles, noting flexibility for small or traditional holdings, and emphasizes that producers must take reasonable measures to minimize contamination during primary production because flock and environmental sources (including vertical/horizontal Salmonella transmission) critically affect egg safety and the controls required in subsequent processing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1  ENVIRONMENTAL HYGIENE",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2 HYGIENIC PRODUCTION OF EGGS",
+      "summary": "States that the hygienic production provisions that follow apply equally to all egg producers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.1  Flock Management and Animal Health",
+      "summary": "Requires eggs to originate from healthy breeding and laying flocks and mandates good husbandry and biosecurity measures (e.g., parasite control, stress minimization, appropriate vaccines where permitted, flock monitoring—including for Salmonella Enteritidis—removal and safe disposal of dead/diseased birds), prudent veterinary drug use with records and adherence to withdrawal periods/MRLs, testing/sampling to verify controls, disposal or processing of eggs from infected flocks and, where practicable, culling of infected flocks and visitor hygiene controls.",
+      "categories": [
+        "hygiene",
+        "risk assessment",
+        "risk management",
+        "other",
+        "processing",
+        "contaminants",
+        "documentation",
+        "analysis sampling",
+        "storage"
+      ],
+      "subcategories": [
+        "flock management",
+        "flock health",
+        "animal husbandry",
+        "salmonella risk",
+        "disease prevention",
+        "reference note",
+        "animal health",
+        "biosecurity measures",
+        "vaccination use",
+        "flock monitoring",
+        "dead bird disposal",
+        "veterinary treatment",
+        "authorized medicinals",
+        "veterinary drug residues",
+        "treatment records",
+        "sampling verification",
+        "drug storage",
+        "salmonella monitoring",
+        "infected egg disposal",
+        "flock destruction",
+        "visitor hygiene"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.2 Areas and Establishments for Egg Laying Systems",
+      "summary": "Requires egg‑laying areas and establishments to be designed, constructed, maintained and used to minimize hazards and pest exposure—covering appropriate internal design, cleaning and disinfection (preferably all‑in/all‑out where feasible), verification and corrective plans, litter, water, drainage and manure management, pest exclusion and minimizing waste accumulation.",
+      "categories": [
+        "processing",
+        "other",
+        "hygiene",
+        "analysis sampling",
+        "pest control"
+      ],
+      "subcategories": [
+        "establishment heading",
+        "facility design",
+        "reference note",
+        "premises contamination",
+        "system design",
+        "assessment criteria",
+        "housing hygiene",
+        "cleaning disinfection",
+        "verification plan",
+        "litter management",
+        "water system hygiene",
+        "manure management",
+        "animal exclusion",
+        "premises cleanliness"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.3.2 Feeding 7",
+      "summary": "Obliges producers to ensure feed does not introduce microbiological or chemical contaminants to flocks or eggs by employing good purchasing, handling, storage and processing practices (e.g., vendor assurances/certificates, avoiding mold/contamination, considering heat or other treatments) and keeping records of feed composition, origin, processing parameters and analyses.",
+      "categories": [
+        "processing",
+        "composition",
+        "contaminants",
+        "analysis sampling",
+        "hygiene",
+        "documentation"
+      ],
+      "subcategories": [
+        "feeding heading",
+        "feed safety",
+        "feed contamination",
+        "feed handling",
+        "feed analysis",
+        "feed treatment",
+        "feed records"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.3.3  PEST CONTROL",
+      "summary": "Requires a properly designed pest control program to prevent pests as vectors of pathogens while ensuring pest control measures do not leave unacceptable residues in or on eggs, emphasizing prevention, pest‑proof feed storage, use of bait stations, approved chemical use per manufacturer instructions and safe storage of pesticides/rodenticides.",
+      "categories": [
+        "pest control",
+        "contaminants",
+        "other"
+      ],
+      "subcategories": [
+        "pest control heading",
+        "pest control program",
+        "residue limit",
+        "reference note",
+        "hazard vectors",
+        "pest program",
+        "preventive measures",
+        "facility pest prevention",
+        "feed pest control",
+        "bait stations",
+        "chemical control",
+        "chemical storage"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2.3.4 Agricultural and Veterinary Chemicals",
+      "summary": "Mandates that procurement, transport, storage, use and disposal of agricultural and veterinary chemicals be managed to prevent contamination of eggs or flocks—used per manufacturer/competent authority instructions, kept in original labeled containers, applied by trained workers, recorded (date, product, concentration, purpose, location, withdrawal period), and with residues not exceeding Codex or national limits.",
+      "categories": [
+        "processing",
+        "risk management",
+        "contaminants",
+        "training",
+        "labelling",
+        "equipment",
+        "documentation"
+      ],
+      "subcategories": [
+        "chemical management",
+        "chemical handling",
+        "chemical instructions",
+        "chemical hazard management",
+        "residue limits",
+        "chemical application training",
+        "chemical label information",
+        "application equipment",
+        "container disposal",
+        "application records"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## 3.3  COLLECTION, HANDLING, STORAGE AND TRANSPORT OF EGGS",
+      "summary": "Requires eggs to be collected, handled, stored and transported to minimize contamination, shell damage and temperature fluctuations—minimizing time to controlled storage, segregating or diverting cracked/dirty/broken/incubator eggs from the table egg trade to processing or safe disposal, and segregating species/production systems as appropriate, with processors communicating farm‑level requirements.",
+      "categories": [
+        "processing",
+        "risk management",
+        "classification",
+        "hygiene",
+        "documentation"
+      ],
+      "subcategories": [
+        "egg handling heading",
+        "egg handling",
+        "unsafe egg disposal",
+        "egg handling hygiene",
+        "time temperature control",
+        "egg handling methods",
+        "egg sorting",
+        "egg diversion",
+        "moisture control",
+        "egg segregation",
+        "farm requirements",
+        "selection heading",
+        "species segregation"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "doc_id": "17ecbff8-7eac-4ab1-befd-34ed4f2ff52d",
+  "title": "STANDARD FOR DESICCATED COCONUT CXS 177-1991",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR DESICCATED COCONUT CXS 177-1991",
+      "summary": "Heading: Standard for Desiccated Coconut (CXS 177-1991).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "standard heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 1991. Revised in 2011. Amended in 2022, 2023.",
+      "summary": "Adoption and amendment history: adopted 1991, revised 2011, amended in 2022 (changes to Section 9.2 labelling of non‑retail containers) and 2023 (changes to Section 10 methods of analysis and sampling), plus a 2023 editorial correction removing an erroneous currency symbol in Section 3.2.4.",
+      "categories": [
+        "other",
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "adoption history",
+        "amendment heading",
+        "amendment notice",
+        "methods amendment",
+        "correction heading",
+        "editorial correction"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to desiccated coconut as defined in Section 2 and excludes salted, sugared, flavoured or roasted products.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Heading only: Description (no substantive text in this entry).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Product definition",
+      "summary": "Heading only: Product definition (no substantive text in this entry).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1.1 Desiccated coconut is the product:",
+      "summary": "Defines desiccated coconut as product prepared from sound white kernel of coconut (Cocos nucifera L.) that has reached appropriate development and is processed by operations such as de‑husking, hatcheting, paring, washing, comminuting, drying and sifting, and may be without oil extraction or with partial oil extraction by appropriate physical means (see Section 3.2.4(c)).",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "definition heading",
+        "raw material source",
+        "processing operations",
+        "oil extraction"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Sizing (optional)",
+      "summary": "Sizing (optional): defines granulometry classes with sieve criteria — extra‑fine (≥90% through 0.85 mm, ≤25% through 0.50 mm), fine (≥80% through 1.40 mm, ≤20% through 0.71 mm), medium (≥90% through 2.80 mm, ≤20% through 1.40 mm) and other sizes covering special/fancy cuts.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "sizing criteria",
+        "extra-fine size",
+        "fine size",
+        "medium size",
+        "other size"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Heading only: Essential composition and quality factors (introduces content in subsequent subsections).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1 Composition",
+      "summary": "Composition: basic ingredient is coconut as defined in Section 2.1.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "basic ingredients heading",
+        "basic ingredient"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2 Quality factors",
+      "summary": "Quality factors require natural white to light creamy white colour and characteristic texture, flavour without off‑flavours, odour free of mouldy/cheesy/smoky/fermented/rancid taints, and compliance with the chemical and physical characteristics set out in Section 3.2.4.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.4 Chemical and physical characteristics",
+      "summary": "Chemical and physical characteristics: total acidity of extracted oil 0.3% m/m (as lauric acid), moisture 4% m/m, oil content ≥60% for products per Section 2.1.1(a)-(b) and 35% to <60% m/m for partially oil‑extracted product per Section 2.1.1(c), and ash 2.5% m/m; extraneous vegetable material limited to 15 fragments per 100 g and foreign matter must be absent in 100 g.",
+      "categories": [
+        "quality",
+        "analysis sampling",
+        "composition",
+        "contaminants"
+      ],
+      "subcategories": [
+        "chemical physical heading",
+        "table heading",
+        "table divider",
+        "total acidity",
+        "moisture limit",
+        "oil content",
+        "ash limit",
+        "extraneous vegetable",
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.3 Classification of 'defectives'",
+      "summary": "A container failing to meet one or more applicable quality requirements in Section 3.2 is classified as a 'defective'.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "defective definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.4 Lot acceptance",
+      "summary": "Lot acceptance: a lot meets the quality requirements when the number of 'defectives' does not exceed the acceptance number (c) of the applicable sampling plan described in Section 10.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Food additives: antioxidants and preservatives listed in Tables 1 and 2 of the GSFA for Food Category 04.1.2.2 (dried fruits) are acceptable, and citric acid (INS 330) is specifically permitted under good manufacturing practice.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "antioxidants preservatives",
+        "permitted antioxidant",
+        "additive table heading",
+        "additives table",
+        "additives provision"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5. CONTAMINANTS",
+      "summary": "Contaminants: the product must comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995) and with Codex pesticide maximum residue limits.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminants limit",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6. HYGIENE",
+      "summary": "Hygiene: production and handling should follow the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Desiccated Coconut (CXC 4‑1971) and other relevant Codex codes and practices.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygiene practice"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Weights and measures: containers should be as full as practicable without impairing quality and be consistent with a proper declaration of contents.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "weights heading",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "8. PACKAGING, TRANSPORT AND STORAGE",
+      "summary": "Desiccated coconut must be packaged, transported and stored in accordance with the Code of Hygienic Practice for Desiccated Coconut (CXC 4-1971).",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "packaging transport storage"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "9. LABELLING",
+      "summary": "Introductory labelling provision stating that, in addition to the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), additional specific labelling requirements for this commodity apply (details follow).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "9.1 Name of the product",
+      "summary": "Heading only: specifies that product name requirements for desiccated coconut are set out in the following provisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "9.1.1 The name of the product shall be 'desiccated coconut' preceded or followed by the common or ordinary name legally accepted in the country of retail sale.",
+      "summary": "Obligation that the product name shall be 'desiccated coconut' and be preceded or followed by the common or ordinary name legally accepted in the country of retail sale.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "9.1.2 The  name  should  indicate  the  oil  content  of the product  in  accordance  with  the  description  contained  in Section 3.2.4(c).",
+      "summary": "Recommendation that the product name should indicate the oil content in accordance with the description in Section 3.2.4(c).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "9.1.3 When applicable, the name may indicate the sizing of the product in accordance with the descriptions contained in Section 2.2.",
+      "summary": "Optional provision allowing the product name to indicate sizing, when applicable, in accordance with the descriptions in Section 2.2.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product sizing"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "9.2 Labelling of non-retail containers",
+      "summary": "Provision that labelling of non-retail containers should follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "9.2 The labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021). 7",
+      "summary": "States that labelling of non-retail containers should be in accordance with CXS 346-2021 (General Standard for the Labelling of Non-Retail Containers of Foods).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "10 . METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "For compliance checking, analytical methods and sampling shall use the methods contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to this standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

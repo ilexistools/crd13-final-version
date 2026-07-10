@@ -1,0 +1,354 @@
+{
+  "doc_id": "298d3464-c5c9-4a9a-a796-05c9a1aa2762",
+  "title": "1. DEFINITION OF PRODUCE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "Standard applies to fresh market fruit of commercial varieties of prickly pears (Opuntia ficus indica, O. streptacantha, O. lindheimeri) supplied fresh to consumers and excludes fruit intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets minimum quality requirements for prickly pears (must be whole, sound, clean, practically pest-free, firm, fresh in appearance, free of abnormal external moisture, foreign smell/taste, prickles and pronounced blemishes, sufficiently developed and characteristic of the variety) and requires they be able to withstand transport and arrive satisfactorily at destination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 The development and condition of the prickly pears must be such as to enable them:",
+      "summary": "The development and condition of prickly pears must enable them to withstand transport and handling and to arrive in satisfactory condition at the place of destination.",
+      "categories": [
+        "quality",
+        "transport"
+      ],
+      "subcategories": [
+        "minimum condition",
+        "transport suitability",
+        "destination condition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 CLASSIFICATION",
+      "summary": "Heading only: introduces that prickly pears are classified into three classes defined below.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "'Extra' Class requires prickly pears of superior quality characteristic of the variety, free of defects except very slight superficial defects that do not affect appearance, quality, keeping quality or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "extra class",
+        "extra class quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.2 Class I",
+      "summary": "Class I requires good-quality prickly pears characteristic of the variety with only slight defects allowed (minor shape/colour defects and superficial skin defects such as bruising or sunspots not exceeding 4% of area) provided the defects do not affect appearance, quality, keeping quality, presentation or the pulp.",
+      "categories": [
+        "classification",
+        "quality",
+        "other"
+      ],
+      "subcategories": [
+        "class i",
+        "class i quality",
+        "amendment note",
+        "class i defects",
+        "internal defect limit"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.3 Class II",
+      "summary": "Class II covers prickly pears that meet the minimum requirements but not higher classes, permitting defects in shape/colour and skin defects (bruising, scarring, crusting, sunspots) provided affected area does not exceed 8% and defects do not affect the pulp.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class ii",
+        "class ii quality",
+        "class ii defects",
+        "internal defect limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Size is determined by weight with codes A–E defined as: A 90–105 g, B 105–140 g, C 140–190 g, D 190–270 g, and E over 270 g.",
+      "categories": [
+        "weights and measures",
+        "other"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "size determination",
+        "size table",
+        "table separator"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Allows percentage tolerances by number or weight for produce not meeting class or size requirements: quality tolerances — 'Extra' 5% (may meet Class I), Class I 10% (may meet Class II), Class II 10% for produce not meeting class/minimum (excluding rotten/unfit items); size tolerances — 5% for 'Extra' and 10% for Class I and II.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.1 QUALITY TOLERANCES",
+      "summary": "Section sets out quality tolerance percentages for each class: 'Extra' 5% by number/weight not meeting the class but meeting Class I; Class I 10% not meeting the class but meeting Class II; Class II 10% for produce not meeting the class or minimum requirements (excluding rotten/unfit items).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.1.1 'Extra' Class",
+      "summary": "'Extra' Class tolerance: up to 5% by number or weight of prickly pears may fail to meet 'Extra' requirements provided they meet Class I or, exceptionally, fall within that class's tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "extra class tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1.2 Class I",
+      "summary": "Class I tolerance: up to 10% by number or weight of prickly pears may fail to meet Class I requirements provided they meet Class II or, exceptionally, fall within that class's tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class i tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1.3 Class II",
+      "summary": "Class II tolerance: up to 10% by number or weight may fail to meet Class II or the minimum requirements, except for produce affected by rotting, pronounced irregularities, or other deterioration rendering it unfit for consumption.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class ii tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6.2.3 Origin of Produce",
+      "summary": "Labelling should indicate country of origin and may optionally include district where grown or national/regional/local place name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6.2.4 Commercial Identification",
+      "summary": "Commercial identification must show class and size (size code or weight range in grams) and may optionally include number of units and net weight.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial identification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Heading only: indicates an optional official inspection mark (no substantive text provided).",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "official inspection mark"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## 7. CONTAMINANTS",
+      "summary": "Requires the produce covered by this Standard to comply with Codex limits for contaminants and toxins (CODEX STAN 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.1 The produce covered by this Standard shall comply with the maximum levels of the Codex General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193-1995).",
+      "summary": "Obligates the produce covered by this Standard to comply with the maximum levels set in the Codex General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193-1995).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7.2 The produce covered by this Standard shall comply with the maximum residue limits for pesticides established by the Codex Alimentarius Commission.",
+      "summary": "States that the produce covered by this Standard shall comply with the Codex Alimentarius Commission's maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "## 8. HYGIENE",
+      "summary": "Recommends produce be prepared and handled in accordance with relevant Codex hygiene texts (CAC/RCP 1-1969; CAC/RCP 53-2003; other Codes of Hygienic Practice) and states the produce should comply with any microbiological criteria established under CAC/GL 21-1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "8.1 It  is  recommended  that  the  produce  covered  by  the  provisions  of  this  Standard  be  prepared  and  handled in accordance with the appropriate sections of the Recommended International Code of Practice General Principles of Food Hygiene (CAC/RCP 1-1969), Code of Hygienic Practice for Fresh Fruits and Vegetables (CAC/RCP 53-2003), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+      "summary": "Recommends that the produce covered by this Standard be prepared and handled in accordance with the appropriate sections of the Recommended International Code of Practice (CAC/RCP 1-1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CAC/RCP 53-2003) and other relevant Codex texts.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygienic handling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "8.2 The  produce  should  comply  with  any  microbiological  criteria  established  in  accordance  with  the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997).",
+      "summary": "States that the produce should comply with any microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

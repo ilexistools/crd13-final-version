@@ -1,0 +1,93 @@
+{
+  "doc_id": "59feef74-0656-420b-971b-3d903c5ad8e6",
+  "title": "GUIDELINES FOR SETTLING DISPUTES OVER ANALYTICAL (TEST) RESULTS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR SETTLING DISPUTES OVER ANALYTICAL (TEST) RESULTS",
+      "summary": "Document title only: 'Guidelines for Settling Disputes over Analytical (Test) Results' (CAC/GL 70-2009); no substantive provisions in this entry.",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "test dispute heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "3. THE  RESULTS  AND  PROCEDURES  OF  THE  LABORATORY  OF  THE  EXPORTING COUNTRY AND ITS COUNTERPART IN THE IMPORTING COUNTRY ARE COMPARED 7",
+      "summary": "Sets a procedure for comparing the exporting and importing countries’ laboratory results and procedures by sharing specified information (method validation status including sample handling, raw data and spectral data, repeat analyses, internal QA/QC data, proficiency testing/collaborative study performance, and laboratory accreditation); each authority then re‑evaluates and may agree on conformity or non‑conformity to resolve disputes without further analysis, otherwise proceed to the next steps.",
+      "categories": [
+        "analysis sampling",
+        "inspection certification",
+        "other"
+      ],
+      "subcategories": [
+        "laboratory comparison",
+        "information exchange",
+        "method validation",
+        "raw data",
+        "repeat analysis",
+        "quality control data",
+        "proficiency testing",
+        "accreditation status",
+        "dispute resolution",
+        "footnote text",
+        "dispute continuation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "4. ANALYSING RESERVE SAMPLE",
+      "summary": "Describes analysing a reserve sample if chain of custody and integrity are intact, requiring agreement on timeline, availability, analyst/laboratory (either the importing country’s lab in presence of an exporting expert or a lab chosen by the exporter), and methods; states that if results differ by less than the critical difference Δ (derived from measurement uncertainty) the importing country’s original assessment stands, otherwise proceed to arbitration by a third laboratory.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reserve sample analysis",
+        "sample integrity",
+        "analysis timeline",
+        "reserve sample procedure",
+        "observer presence",
+        "laboratory selection",
+        "test method selection",
+        "measurement comparison",
+        "arbitration step"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "5. ANALYSIS OF REMAINING RESERVE SAMPLE",
+      "summary": "Provides that the remaining reserve sample shall be analysed by a suitably qualified laboratory agreed by both countries (or by the importing country if no agreement), that this laboratory’s result forms the final conformity assessment, and that prior results from section 4 are discarded; an independent laboratory is preferred.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "remaining reserve sample",
+        "final assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

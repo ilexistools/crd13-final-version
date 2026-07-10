@@ -1,0 +1,177 @@
+{
+  "doc_id": "6431c0df-adf5-4e56-aaac-22dca90f64aa",
+  "title": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF CADMIUM CONTAMINATION IN COCOA BEANS CXC 81-2022",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF CADMIUM CONTAMINATION IN COCOA BEANS CXC 81-2022",
+      "summary": "Introduces the 2022 Code of Practice to guide countries and the cocoa industry on preventing and reducing cadmium contamination in cocoa beans across production and post-harvest (fermentation, drying, storage, transportation), summarizes Cd sources, persistence and soil factors (pH, organic matter, CEC, chlorinity, metal interactions) affecting Cd bioavailability, and notes mitigation options including soil amendments, grafting and integrated management strategies.",
+      "categories": [
+        "other",
+        "scope",
+        "risk assessment",
+        "risk management",
+        "definition",
+        "processing",
+        "analysis sampling",
+        "official control",
+        "contaminants"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption date",
+        "introduction heading",
+        "objective statement",
+        "cadmium background",
+        "cadmium exposure",
+        "soil chemistry",
+        "soil mobility",
+        "chloride effect",
+        "integrated management",
+        "low uptake strategy",
+        "mitigation measures",
+        "scope heading",
+        "applicability",
+        "definitions heading",
+        "adsorption absorption",
+        "bioavailability definition",
+        "biochar definition",
+        "bagasse definition",
+        "cec definition",
+        "cocoa bean definition",
+        "drying definition",
+        "fermentation definition",
+        "humus definition",
+        "pruning definition",
+        "pulp mucilage",
+        "shading definition",
+        "soil amendments",
+        "vinasse definition",
+        "recommended practices heading",
+        "before planting",
+        "short medium term",
+        "soil analysis",
+        "source directed measures",
+        "cover crops",
+        "soil cadmium levels",
+        "irrigation water",
+        "agroforestry impact",
+        "shade species",
+        "site selection",
+        "field practice"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "4.1.2 Recommended long-term practices",
+      "summary": "Recommends planting new cocoa plantations with varieties less prone to cadmium uptake to reduce long‑term Cd accumulation in beans.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "recommendations heading",
+        "varietal selection"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "4.2 From production to harvesting",
+      "summary": "Emphasizes analyzing any organic or inorganic amendments for Cd before application, using accredited laboratories and validated methods for soil characterization, following representative soil sampling and salinity testing, and monitoring sources and distribution of soil Cd to inform mitigation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "4.2.1 Recommended short- and medium-term practices",
+      "summary": "Recommends pre‑application testing of amendments for Cd, accredited soil analyses (including pH and other nutrients), representative composite soil sampling (at least one composite of ≥20 subsamples per hectare, depth 0–15 cm) and, where bean Cd is elevated, measuring soil and irrigation salinity with electrical conductivity targeted <2 mS/cm in concern situations.",
+      "categories": [
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "recommendations heading",
+        "soil management",
+        "soil-crop correlation",
+        "soil analysis method",
+        "soil sampling protocol",
+        "salinity testing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4.2.2 Strategies to immobilize cadmium in the soil (medium- and long-term practices)",
+      "summary": "Outlines soil immobilization strategies: increase soil Zn where deficient (e.g., zinc sulphate fertilization, noting high rates like ~25 kg Zn/ha may acidify soil), liming to raise pH (target >6) with low incremental doses (e.g., ~3 t/ha/year dolomite) to reduce Cd bioavailability, increase organic matter, use low‑Cd phosphate sources, apply suitable amendments (vinasse, zeolite, biochar, compost) and consider grafting onto low‑Cd rootstocks.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "soil immobilization heading",
+        "zinc amendment",
+        "zinc fertilization",
+        "liming practice",
+        "soil ph management",
+        "lime application",
+        "organic matter",
+        "phosphate fertilization",
+        "fertilizer analysis",
+        "soil amendments",
+        "vinasse effect",
+        "soil amendment options",
+        "biochar use",
+        "biochar compost",
+        "grafting selection"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4.4 Transport phase (recommendations)",
+      "summary": "Recommends transport best practices to prevent contamination: protect loading areas from rain, use clean well‑maintained vehicles and covers, avoid containers previously used for chemicals, minimize humidity (ventilation, lining, condensate absorbers), use sealable liners for bulk cocoa, keep ventilation clear, and avoid exposure to fumes, spills, temperature fluctuations or nearby noxious materials.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport heading",
+        "transport practices",
+        "loading area protection",
+        "vehicle cleanliness",
+        "cover integrity",
+        "container suitability",
+        "humidity control",
+        "bagged cocoa handling",
+        "bulk cocoa lining",
+        "ventilation maintenance",
+        "temperature protection"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

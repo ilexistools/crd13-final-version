@@ -1,0 +1,292 @@
+{
+  "doc_id": "cb2e4b72-c96c-4da0-8207-a0416e4d28c8",
+  "title": "STANDARD FOR COTTAGE CHEESE CXS 273-1968",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR COTTAGE CHEESE CXS 273-1968",
+      "summary": "Title only: Standard for Cottage Cheese (CXS 273-1968).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Formerly CODEX STAN C-16-1968. Adopted in 1968. Revised in 2007, 2010, 2018, 2021. Amended in 2014, 2016, 2022.",
+      "summary": "Revision history noting the standard was adopted in 1968 and subsequently revised in 2007, 2010, 2018, 2021 and amended in 2014, 2016 and 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "revision history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2022 Amendment",
+      "summary": "Amendment adopted in 2022 replaces previous provisions on labelling of non‑retail containers with a requirement that such labelling be in accordance with the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note",
+        "amendment table",
+        "table separator",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "This Standard applies to cottage cheese intended for direct consumption or for further processing as described in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines cottage cheese as a soft, rindless, unripened cheese conforming to relevant Codex cheese standards, with near‑white colour and a granular texture of discrete curd granules approximately 3–12 mm in size, optionally covered with a creamy mixture.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies essential factors: raw materials (cows' or buffaloes' milk or mixtures), permitted ingredients (harmless starter cultures, rennet/coagulating enzymes, gelatin/starches as stabilizers subject to GMP, sodium/potassium chloride, potable water and suitable processing aids) and compositional requirements including minimum fat‑free dry matter of 18% and milkfat reference level 4–5%, with non‑compliance consequences per the General Standard for the Use of Dairy Terms.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1 Raw materials",
+      "summary": "Permits raw materials consisting of cows' milk, buffaloes' milk or mixtures thereof and products derived from these milks.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Permitted ingredients include harmless lactic acid and flavour‑producing starter cultures or other harmless micro‑organisms, rennet or safe coagulating enzymes, gelatin and starches as stabilizers when functionally necessary under GMP, sodium/potassium chloride as salt substitutes, potable water and safe processing aids.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "starter cultures",
+        "coagulating enzymes",
+        "stabilizer use",
+        "salt substitute",
+        "potable water",
+        "processing aids"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.3 Composition",
+      "summary": "Sets compositional table entries with milkfat minimum 0% (no maximum, reference 4–5%) and fat‑free dry matter minimum 18% (maximum/reference as determined by the MFFB), states that departures from the specified ranges for fat‑free dry matter are non‑compliant with CXS 206‑1999, and notes the cheese is rindless.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition table",
+        "table separator",
+        "milkfat content",
+        "fat free dry matter",
+        "compositional compliance",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Specifies that only additive functional classes shown as technologically justified in the accompanying table may be used for the product categories, notes that for unripened cheese (food category 01.6.1) only acidity regulators, preservatives and stabilizers listed in GSFA Tables 1 and 2 (and certain entries in Table 3) are acceptable, indicates that acidity regulators, stabilizers (including modified starches) and preservatives are justified for cheese mass (not for surface/rind), and limits stabilizer use to what is functionally necessary and compliant with the milk products definition (cheese mass includes creaming mixture).",
+      "categories": [
+        "additives",
+        "composition"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "additive classes",
+        "additive table",
+        "table separator",
+        "functional classes",
+        "colour use",
+        "bleaching agents",
+        "acidity regulators",
+        "stabilizers",
+        "thickeners",
+        "emulsifiers",
+        "antioxidants",
+        "preservatives table",
+        "foaming agents table",
+        "anti-caking agents table",
+        "stabilizer conditions",
+        "product composition",
+        "technological justification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "7.1 Name of the food",
+      "summary": "Allows the name \"Cottage Cheese\" only when the product conforms to this Standard and labelling rules in the General Standard for the Labelling of Pre-packaged Foods, permits alternative spellings/translations customary in the retail country, requires an appropriate qualifier or declared fat content when fat is outside the reference range (fat in dry matter, % by mass, or grams per serving with number of servings), and states that if a compliant cheese is not named as such the General Standard for Cheese naming provisions apply; characterizing terms (e.g. 'dry curd', 'creamed') may accompany the name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name",
+        "food name provision",
+        "qualifying statement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "7.2 Country of origin",
+      "summary": "Requires declaration of the country of origin as the country of manufacture, and where the product undergoes substantial transformation in a second country that country shall be considered the country of origin for labelling purposes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "country of origin",
+        "country of origin declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7.3 Declaration of milkfat content",
+      "summary": "Mandates that milk fat content be declared in a manner acceptable in the retail country, either as percentage by mass, percentage of fat in dry matter, or grams per serving with the number of servings stated.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "milkfat declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.4 Labelling of non-retail containers",
+      "summary": "States that labelling of non-retail containers should follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling",
+        "non-retail label standard"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Requires that methods of analysis and sampling for checking compliance be those in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to this Standard, and notes that for comparative nutrition claims a fat content of 4% is the reference and that simple repackaging, cutting, slicing, shredding and grating are not regarded as substantial transformation.",
+      "categories": [
+        "analysis sampling",
+        "labelling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "analysis and sampling",
+        "nutrition claim reference",
+        "substantial transformation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

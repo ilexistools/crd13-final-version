@@ -1,0 +1,670 @@
+{
+  "doc_id": "57be1de3-589b-4b7d-aecc-67a675d0402a",
+  "title": "GUIDELINES ON PERFORMANCE CRITERIA FOR METHODS OF ANALYSIS FOR THE DETERMINATION OF PESTICIDE RESIDUES IN FOOD AND FEED",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON PERFORMANCE CRITERIA FOR METHODS OF ANALYSIS FOR THE DETERMINATION OF PESTICIDE RESIDUES IN FOOD AND FEED",
+      "summary": "Document title and code: 'Guidelines on Performance Criteria for Methods of Analysis for the Determination of Pesticide Residues in Food and Feed' (CXG 90-2017), adopted 2017.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "OBJECTIVE",
+      "summary": "Defines the guidelines' objective to describe performance criteria for methods analysing pesticide residues in food/feed, applicable to single- and multi-residue methods and covering qualitative and quantitative analyses as well as analyte identification and confirmation to ensure fitness-for-purpose for monitoring and trade.",
+      "categories": [
+        "scope",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "objective",
+        "applicability",
+        "method criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "PRINCIPLES FOR THE SELECTION AND VALIDATION OF METHODS",
+      "summary": "Outlines principles for method selection and validation: define purpose and scope (residue definition, matrices, ranges, intended use), ensure fitness-for-purpose and method selection based on analytes and purpose, supplement CAC laboratory guidance and quality systems, and require validation demonstrating fit-for-purpose performance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "A. Defining the Purpose of the Method and Scope",
+      "summary": "States that the method's scope must define analytes, matrices, concentration ranges and intended use (screening, quantification, identification, confirmation), that methods must measure all components of the residue definition for MRLs, and that fitness-for-purpose and method selection are based on analytes, purpose, and acceptable combined uncertainty.",
+      "categories": [
+        "scope",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "method scope",
+        "residue definition",
+        "fitness for purpose",
+        "method selection"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "B. Supplementing other Codex Alimentarius Commission Guidelines",
+      "summary": "Advises laboratories testing foods for import/export to use internal quality control procedures, participate in appropriate proficiency testing schemes, use validated methods when available, and operate within an internationally recognized Quality Management System for QA/QC.",
+      "categories": [
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "guidance heading",
+        "laboratory guidance",
+        "quality control",
+        "proficiency testing",
+        "method validation",
+        "quality management"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "C. Method Validation",
+      "summary": "Defines method validation as demonstrating that a method is fit-for-purpose: a trained analyst following the protocol obtains accurate, reliable, consistent results within statistical limits, showing analyte identity and concentration, accounting for matrix effects, providing recovery statistics, acceptable false positive/negative rates, inter-laboratory reproducibility, and ongoing performance assessment.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "validation heading",
+        "validation requirements",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "11. The general requirements for the individual performance criteria of a method are summarized below 1,5",
+      "summary": "Introductory statement noting that the general requirements for individual method performance criteria are summarized in the following sections.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "performance criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "A. Method Documentation",
+      "summary": "Requires that post-validation method documentation include analyte identities, the validated concentration range, matrices used, a detailed protocol (equipment, reagents, stepwise procedure, permissible variations, calibration and quality procedures, safety precautions), and the calculated expanded measurement uncertainty where required.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "12. After validation, the method documentation should provide, in addition to performance criteria (data quality objectives), the following information:",
+      "summary": "Specifies that after validation the method documentation must provide, in addition to performance criteria, the identity of analytes, concentration range, matrices used, detailed protocol, and calculated expanded measurement uncertainty if required.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2. (a) Identity of the analytes included in the residue definition.",
+      "summary": "Requires documenting the identities of the analytes included in the residue definition.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analyte identity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3. (b) Concentration range covered by the validation;",
+      "summary": "Requires documenting the concentration range covered by the method validation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "concentration range"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4. (c) Matrices used in the validation (representative commodity categories, e.g.,  similar agricultural products based on characteristics including moisture, fat, and sugar content, pH);",
+      "summary": "Requires documenting the matrices used in validation and recommends using representative commodity categories based on characteristics such as moisture, fat, sugar content and pH.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "matrix selection"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5. (d) Protocol describing the equipment, reagents, detailed step-by-step procedure including permissible variations (e.g. 'heat at 100 ± 5 °C for 30 ± 5 min'), calibration and quality procedures, special safety precautions required, and intended application and critical uncertainty requirements;",
+      "summary": "After validation, the method documentation must include a detailed protocol specifying equipment, reagents, step-by-step procedures with permissible variations (e.g., temperature/time tolerances), calibration and quality procedures, safety precautions, intended application, and requirements for critical uncertainty.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "validation protocol"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6. (e) quantitative  result  of  the  expanded  measurement  uncertainty  (MU)  for  the  method  should  be calculated in the validation procedure and reported, if required.",
+      "summary": "The quantitative result of the expanded measurement uncertainty (MU) for the method must be calculated during validation and reported when required.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "measurement uncertainty"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "A. Method Documentation",
+      "summary": "After validation, method documentation must provide performance criteria plus specific information including identity of analytes in the residue definition, validated concentration range, matrices used, a detailed protocol (equipment, reagents, procedures, calibration, safety and uncertainty requirements), and expanded MU results where applicable.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "13. Ideally, selectivity should be evaluated to demonstrate that no interferences occur which significantly affect the analysis. It is impractical to test the method against every potential interferant, but it is required that common interferences are checked by analysing a reagent (process) blank for every batch of reagents. When reagents and/or  solvents  are  changed  between  batches  of  samples,  additional  reagent  blank  evaluations  could  be performed.  Background levels  of  plasticizers,  septa  bleed,  cleaning  agents,  reagent  impurities,  laboratory contamination, carry-over, etc. tend to show up in reagent blanks and must be recognized by the analyst when they occur. Also, analyte-to-analyte interferences must be known by checking individual analytes in mixed standard solutions. Matrix interferences are evaluated by analyses of samples known to be free of the analytes and a matrix blank is required with each batch of samples or a standard addition approach to quantification is adopted (see Section E).",
+      "summary": "Selectivity must be evaluated so common interferences are identified: reagent/process blanks are required with every reagent batch (and when solvents/reagents change), analyte-to-analyte interferences checked with mixed standards, and matrix interferences assessed using known-blank samples or matrix blanks per batch (or by standard addition).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "selectivity assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "14. As a general principle, selectivity should be such that interferences have no impact on method performance. The ultimate test of selectivity involves the rates of false positives and negatives in the analyses. To estimate rates of false positives and negatives during method validation, an adequate number of blanks per matrix [not from the same source] should be analysed along with spiked matrices at the analyte reporting level.",
+      "summary": "Selectivity should prevent interferences from affecting method performance and the ultimate assessment uses false positive/negative rates estimated by analysing an adequate number of blanks per matrix (from different sources) alongside spiked matrices at the reporting level.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "false results"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "C. Calibration",
+      "summary": "During validation, calibration characteristics (e.g., linear vs. quadratic, intercept behavior, matrix effects) must be established because they affect method optimization, and although calibration errors are usually a minor component of total uncertainty, their random and systematic components are assessed within validation and ongoing QC.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "15. With  the  exception  of  errors  in  preparation  of  calibration  materials,  calibration  errors  are  usually  a  minor component of the total uncertainty, and can be safely assigned into other categories. For example, random errors resulting from calibration are part of the uncertainty, while systematic errors cause analytical bias, both of which are assessed as a whole during validation and on-going quality control. Nevertheless, there are some characteristics of calibration that are useful to know at the outset of method validation because they affect optimization of the final protocol. For example, it must be known in advance whether the calibration curve is linear  or  quadratic,  passes through the origin, and is affected by the sample matrix or not. The described guidelines  in  this  document  relate  more  to  validation,  which  may  be  more  detailed  than  the  calibration undertaken during routine analysis.",
+      "summary": "Calibration errors are generally a minor part of total uncertainty (with random errors folded into overall uncertainty and systematic errors causing bias), so validation must determine calibration curve shape (linear/quadratic, origin) and matrix effects since validation may be more detailed than routine calibration.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "calibration principles"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "16. Replicate measurements are needed to provide an empirical estimate of uncertainty. The following calibration procedures are recommended for the initial method validation:",
+      "summary": "Replicate measurements are required to empirically estimate uncertainty, and specific calibration procedures are recommended for initial method validation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "replicate measurements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3. (a) determinations at five or more concentrations should be performed (consider multiple injections per concentration);",
+      "summary": "Perform determinations at five or more concentrations (consider multiple injections per concentration) during calibration for initial validation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "calibration levels"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4. (b) the reference standards should be evenly spaced over the concentration range of interest and the calibration range should encompass the entire concentration range likely to be encountered;",
+      "summary": "Reference standards should be evenly spaced across the concentration range of interest and the calibration range must encompass the full concentration range likely to be encountered.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reference standards"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5 OECD Guidance Document for Single Laboratory Validation of Quantitative Analytical Method-Guidance used in support of pre-and post-registration data requirements for plant protection and biocidal products ENV/JM/MONO(2014)20",
+      "summary": "Bibliographic/reference note citing the OECD Guidance Document for Single Laboratory Validation of Quantitative Analytical Methods (ENV/JM/MONO(2014)20).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "D. Linearity",
+      "summary": "Linearity should be assessed via residual plots from regression and, if nonlinearity appears, test a quadratic function using at least five concentration levels; because R2 can be misleading, use appropriate weighting (e.g., 1/x or 1/x2) and prefer weighted regression for low-ppb determinations, with intercept near zero unless justified.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "linearity heading",
+        "linearity assessment",
+        "weighted regression"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "E. Matrix Effects",
+      "summary": "Matrix-matched calibration is recommended to compensate matrix effects, with alternatives including analyte protectants, standard addition or isotopically labeled internal standards, and if solvent-only calibration is used a measurement comparing matrix-matched and solvent standards must demonstrate equivalence.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "matrix effects heading",
+        "matrix matching"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "F. Trueness and Recovery",
+      "summary": "Trueness (expressed as bias) is the closeness to an accepted reference value and is assessed ideally using certified reference materials (considering their uncertainty), while recovery is the percent of analyte determined relative to amount spiked and routine recovery is monitored by QC spikes in each sample batch.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "trueness recovery heading",
+        "trueness bias",
+        "recovery"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "G. Precision",
+      "summary": "Precision (expressed as SD or RSD) is the closeness of agreement among replicate results and for single-laboratory validation must include repeatability and within-laboratory reproducibility measured under representative variations (e.g., reagents, analysts, instruments), evaluated at the LOQ and at least one higher level since precision often varies with concentration.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "precision heading",
+        "precision definition",
+        "repeatability reproducibility",
+        "precision concentration",
+        "validation range"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "H. Limit of Quantification (LOQ)",
+      "summary": "The LOQ is conventionally the concentration giving S/N ≈10 but is practically estimated via spiking at the Lowest Validated Level (LVL); quantification must not be reported below the LVL, the lowest calibrated level (LCL) should have S/N ≥10 for system suitability, and LOD (S/N ≈3) may be used only to infer presence below quantification limits.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "loq heading",
+        "quantification limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "I. Analytical Range",
+      "summary": "The validated (analytical) range is the concentration interval in which the method is validated, defined by the LVL (lowest validated level) and typically at least one higher level (ideally three to show linearity); for Codex monitoring the LVL must be at or below the Codex MRL (CXL), otherwise use a national MRL or 0.01 mg/kg (or LOQ, whichever is greater), with multi-residue methods typically targeting 0.01 mg/kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analytical range heading",
+        "validated range"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "J. Ruggedness",
+      "summary": "Ruggedness (robustness) is the method's resistance to result changes when experimental conditions deviate within prescribed limits, and factors likely to affect results (e.g., reagent lot, operator, pH, temperature, time) should be identified and tested so permissible deviations do not cause meaningful loss of fitness for purpose.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "ruggedness heading",
+        "ruggedness definition",
+        "ruggedness factors"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "K. Measurement Uncertainty (MU)",
+      "summary": "Measurement uncertainty should be estimated using a mathematical model that accounts for all recognized significant effects, preferably expressed as a function of concentration and compared with agreed fitness-for-purpose criteria, with proficiency test data as one possible MU source.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "measurement uncertainty heading",
+        "uncertainty estimation",
+        "uncertainty concentration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "PERFORMANCE CRITERIA OF SCREENING METHODS",
+      "summary": "Screening methods (qualitative or semi-quantitative) must discriminate negatives from potentially positive samples by establishing a threshold concentration (SDL), validating false positive/negative rates, testing interferences and conditions of use; validation focuses on detectability, selectivity and sensitivity and requires statistically based estimates of false-detect rates.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "screening methods heading",
+        "screening validation",
+        "screening selectivity",
+        "screening detection limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "PERFORMANCE CRITERIA OF METHODS FOR ANALYTE IDENTIFICATION AND CONFIRMATION",
+      "summary": "Sets performance criteria for analyte identification/confirmation in regulatory pesticide residue testing, emphasizing that gross sample-preparation errors are the main source of misidentification and requiring re-extraction and re-analysis of a replicate sample (ideally with different preparation/analysis) for enforcement actions above an MRL or where no MRL exists; stresses selectivity as primary, advocates chromatographic separation plus MS for structural information, and notes that non‑MS techniques can be acceptable if confirmed by alternative chemistries.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "A. MS-Based Identification",
+      "summary": "Provides example MS-based identification criteria for pesticide-residue analysis: use contemporaneous matrix‑matched high‑concentration standards for retention time and ion‑ratio references; require co‑eluting ions with similar peak shapes and use the most intense calibration ion as the ion‑ratio denominator (ion ratio deviations up to 30% acceptable); signal‑to‑noise >3 or exceed a suitable threshold; choose chemically sensible ion transitions; reagent and matrix blanks must show no carry‑over/contamination >20% of LOQ (30% for matrix blanks); prefer monitoring m/z >100; retention time tolerance ±0.2 min or 0.2% (preferably ±0.1 min); library spectra should be from background‑subtracted high‑purity standards run on the same instrument, and high‑resolution MS provides improved mass accuracy—tabled criteria are guidance, not absolute rules.",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "ms identification heading",
+        "identification criteria",
+        "ms identification criteria",
+        "retention time reference",
+        "ion ratio criteria",
+        "signal noise criteria",
+        "ion selection criteria",
+        "blank interference",
+        "mass ratio criterion",
+        "retention time tolerance",
+        "reference note",
+        "high resolution ms"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "B. Confirmation",
+      "summary": "Requires confirmatory analysis when initial results are not unambiguous or do not meet quantitative requirements (and mandates confirmatory analysis of another sample portion when a CXL/MRL is exceeded), and states that if the first method is non‑MS the confirmatory method should be MS‑based and preferably use an independent chemical approach (e.g., LC vs GC), with independent laboratories used where appropriate.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "confirmation heading",
+        "confirmatory analysis",
+        "confirmatory methods"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "DEFINITIONS",
+      "summary": "Defines key analytical terms used in the document (e.g., analyte, analyte protectant, applicability, coefficient of variation/RSD, confirmation and confirmatory method, degradant, false positive/negative, fortification, identification, incurred residue, interference/interferent, internal standard) and operational limits including LOD (commonly S/N ≈ 3), LOQ (commonly S/N ≈ 10), linearity, Lowest Calibrated Level (LCL), Lowest Validated Level (LVL), and matrix.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "analyte definition",
+        "analyte protectant",
+        "method applicability",
+        "precision definition",
+        "confirmation definition",
+        "confirmatory method",
+        "degradant definition",
+        "false positive",
+        "false negative",
+        "fortification definition",
+        "identification definition",
+        "incurred residue",
+        "interference definition",
+        "interferent definition",
+        "internal standard",
+        "lod definition",
+        "loq definition",
+        "linearity definition",
+        "lowest calibrated",
+        "lowest validated",
+        "matrix definition"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "ANNEX",
+      "summary": "Annex listing additional analytical definitions and terms relevant to residue analysis, including matrix blank, matrix effect, matrix‑matched standards, metabolite, multiresidue and single‑residue methods, precision/RSD, repeatability/reproducibility, residue definition, ruggedness, sample preparation, screening detection limit (SDL, 95% confidence), screening method, selectivity/sensitivity, SIM and TOF instrumentation—primarily definitional and methodological clarifications.",
+      "categories": [
+        "other",
+        "definition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "annex heading",
+        "matrix blank",
+        "matrix effect",
+        "matrix-matched standards",
+        "metabolite definition",
+        "multiresidue method",
+        "precision definition",
+        "quantitative method",
+        "recovery definition",
+        "rsd definition",
+        "repeatability definition",
+        "reproducibility definition",
+        "residue definition",
+        "ruggedness definition",
+        "sample preparation",
+        "screening detection",
+        "screening method",
+        "selectivity definition",
+        "sensitivity definition",
+        "sim definition",
+        "single residue method",
+        "analytical method",
+        "instrument term"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "doc_id": "e22be574-3a07-4828-8ad0-30f9c1cab482",
+  "title": "CODE OF PRACTICE FOR THE REDUCTION OF                 3MONOCHLOROPROPANE-1,2-DIOL (3-MCPD)            DURING THE PRODUCTION OF ACID-HVPs                                    AND PRODUCTS THAT CONTAIN ACID-HVPs",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE REDUCTION OF                 3MONOCHLOROPROPANE-1,2-DIOL (3-MCPD)            DURING THE PRODUCTION OF ACID-HVPs                                    AND PRODUCTS THAT CONTAIN ACID-HVPs",
+      "summary": "Title and document identifier: Code of Practice for the reduction of 3‑monochloropropane‑1,2‑diol (3‑MCPD) during production of acid‑HVPs and products that contain acid‑HVPs (CXC 64‑2008).",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Introduces 3‑MCPD as a chloropropanol contaminant formed mainly during hydrochloric acid‑mediated hydrolysis of proteinaceous materials (acid‑HVP) and in some soy sauces, explains formation via reaction of acid with residual lipids/phospholipids, notes fermented sauces generally have trace or non‑quantifiable levels, and that reducing 3‑MCPD can affect organoleptic properties and may require equipment or recipe changes. The section also cites toxicological concern and JECFA’s provisional maximum tolerable daily intake (PMTDI) for 3‑MCPD of 2 µg/kg body weight/day and emphasizes industry measures to reduce levels.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SCOPE",
+      "summary": "Defines the Code’s scope as best‑practice guidance for manufacture of acid‑HVP and soy sauces/condiments produced using acid hydrolysis (excluding ingredients made without acid hydrolysis) and provides GMP‑based recommended practices, detailing process parameters and options to reduce 3‑MCPD—controlled acid hydrolysis (specified temperature/time profiles), secondary alkaline hydrolysis (pH 8–13, heating regimes) and substitution with sulfuric acid—along with filtration, bleaching/activated carbon treatment, storage forms, cross‑contamination control and reported achievable reductions (e.g., <10 mg/kg with controlled hydrolysis, <1 mg/kg with alkaline treatment).",
+      "categories": [
+        "scope",
+        "processing"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "gmp practices",
+        "acid-hvps heading",
+        "manufacturing process",
+        "reduction methods",
+        "reduction measures",
+        "implementation advice",
+        "hydrolysis control",
+        "alkaline treatment",
+        "cross-contamination control",
+        "sulfuric acid process"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "Soy sauces and related products",
+      "summary": "States that multiple manufacturing methods are used for soy sauces and that the chosen method determines whether the product contains 3‑MCPD.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "soy sauces heading",
+        "soy sauce manufacture"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "Soy sauces produced by fermentation",
+      "summary": "Notes that soy sauces produced solely by natural fermentation contain non‑quantifiable or extremely low levels of 3‑MCPD and describes the typical fermentation process (pre‑cooking soy/wheat, inoculation with Aspergillus spp., 1–3 day incubation at 25–30 °C, then brine fermentation/ageing below 40 °C for not less than 90 days; short‑term processes age at/above 40 °C and finish within 90 days).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "fermented soy sauces",
+        "fermentation process"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Soy sauces whose manufacture involves an acid treatment stage",
+      "summary": "Explains that soy sauces made using acid‑HVP or those undergoing acid treatment may contain 3‑MCPD and that the mitigation measures described for acid‑HVP manufacture apply to these products, including semi‑chemical sauces blended from fermented and acid‑HVP sources which may also contain 3‑MCPD.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "acid treatment soy sauces",
+        "acid-hvp soy sauces",
+        "semi-chemical sauces"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "ANNEX MANUFACTURING PROCESS OF ACID-HVP AT COMMERCIAL SCALE",
+      "summary": "Annex placeholder presenting the commercial‑scale manufacturing process flow/diagram for acid‑HVP (image referenced but not provided in this text).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading",
+        "image placeholder"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

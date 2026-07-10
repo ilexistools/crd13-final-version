@@ -1,0 +1,499 @@
+{
+  "doc_id": "652a1cf2-21c5-4585-aa51-11784d8a8081",
+  "title": "STANDARD FOR NAMED VEGETABLE OILS CXS 210-1999",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR NAMED VEGETABLE OILS CXS 210-1999",
+      "summary": "Titles the document as the Codex Standard for Named Vegetable Oils (CXS 210-1999).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 1999. Revised in 2001, 2003, 2009, 2017, 2019. Amended in 2005, 2011, 2013, 2015, 2019, 2021, 2022, 2023, 2024.",
+      "summary": "Provides the standard's adoption and revision history (adopted 1999; revised and amended multiple times through 2024).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "revision history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2022 Amendments",
+      "summary": "Notes 2022 amendments that revised Table 1 and Table 2 values for sunflower seed oil (fatty acids C18:1, C18:2, relative density, refractive index and saponification).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2023 Amendments",
+      "summary": "Notes 2023 amendments that modified Section 4 (Food additives), Section 8 (Methods of analysis and sampling) and the Appendix (Section 5 Methods of analysis and sampling).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 2023 Corrigendum",
+      "summary": "Records a 1 Feb 2023 corrigendum correcting the fatty acid C16:1 value for pistachio oil in Table 1 from ND-0.2 to ND-2.0 to align with a prior Codex decision.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "corrigendum heading",
+        "correction note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## 2024 Amendments",
+      "summary": "States 2024 amendments adding avocado oil, camellia seed oil, sacha inchi oil and high‑oleic soybean oil to Sections 2 and 3 and Tables 1–4, and amending Section 7.2 on labelling of non‑retail containers.",
+      "categories": [
+        "other",
+        "composition"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "description update"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## 2025 Corrigenda",
+      "summary": "Corrigenda noting two corrections in 2025: the relative density for almond oil in Table 2 was corrected to 0.929 (28 Jan 2025), and footnote b in Table 3 was rewritten to clarify that the fatty acid values apply to oils for human consumption and may also be applied to corresponding crude forms (19 Feb 2025).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "corrigenda heading",
+        "correction note",
+        "footnote correction"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to the vegetable oils listed in Section 2.1 when presented in a state for human consumption.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2. DESCRIPTION",
+      "summary": "Description: defines the vegetable oils covered by the standard (including kernels, seeds, mesocarp sources, and oil fractions such as olein/stearin and high‑oleic variants) by specifying the botanical/source origin for each listed oil.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1 Product definitions",
+      "summary": "Product definitions: lists each edible vegetable oil and common synonyms and defines the botanical source or plant part (e.g., kernel, seed, mesocarp) and relevant fractions (olein, stearin, superolein) and high‑oleic or low‑erucic variants.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definitions heading",
+        "synonym note",
+        "oil definition",
+        "fraction definition",
+        "oil source"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2 Other definitions",
+      "summary": "Other definitions: defines ‘edible vegetable oils’ as primarily glycerides from vegetable sources (may contain small amounts of other lipids), defines ‘virgin oils’ as obtained by mechanical procedures ± heat with only water washing/settling/filtering/centrifuging allowed, and defines ‘cold‑pressed oils’ as obtained by mechanical procedures without heat with the same limited purification allowed.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "edible oil definition",
+        "virgin oil definition",
+        "cold pressed definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## 3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Essential composition and quality factors: compliance is based on GLC fatty acid ranges in Table 1 with allowance for national/geographic variation; the section also specifies numerical composition limits for certain oils (e.g., low‑erucic rapeseed ≤2% erucic acid; various high‑oleic minima and palm high‑oleic minimum) and slip‑point temperature limits for specified palm fractions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1 Gas-liquid chromatography (GLC) ranges of fatty acid composition (expressed as percentages)",
+      "summary": "GLC fatty acid ranges and compliance: samples within the ranges in Table 1 comply with the standard; specific limits include low‑erucic rapeseed oil ≤2% erucic acid and minimum oleic acid contents for high‑oleic safflower (≥70%), high‑oleic soybean (≥65%), high‑oleic sunflower (≥75%) and palm oil with higher oleic content (≥48%).",
+      "categories": [
+        "analysis sampling",
+        "composition"
+      ],
+      "subcategories": [
+        "chromatography ranges",
+        "compliance criteria",
+        "erucic acid limit",
+        "oleic acid minimum"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2 Slip point",
+      "summary": "Slip point: specifies temperature limits for palm fractions—palm kernel olein 21–26 °C; palm kernel stearin 31–34 °C; palm olein ≤24 °C; palm stearin ≥44 °C; (table also notes palm superolein elsewhere).",
+      "categories": [
+        "quality",
+        "other"
+      ],
+      "subcategories": [
+        "slip point heading",
+        "slip point limits",
+        "table separator"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Food additives: antifoaming agents, antioxidants and emulsifiers listed in the General Standard for Food Additives (CXS 192‑1995) for category 02.1.2 are acceptable, but no food additives are permitted in virgin or cold‑pressed oils; flavourings must comply with the Guidelines for the use of flavourings (CXG 66‑2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "additive prohibition",
+        "flavouring compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5. CONTAMINANTS",
+      "summary": "Contaminants: products must comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6. HYGIENE",
+      "summary": "Hygiene: recommends preparation and handling per the General Principles of Food Hygiene (CXC 1‑1969) and related Codex codes, and requires compliance with any microbiological criteria established according to CXG 21‑1997.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7. LABELLING",
+      "summary": "Labelling: requires labelling in accordance with the General Standard for the Labelling of Pre‑packaged Foods (CXS 1‑1985) with product names conforming to Section 2 and, where multiple names exist, the inclusion of a name acceptable in the country of use; labelling of non‑retail containers should follow CXS 346‑2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7.1 Name of the food",
+      "summary": "Name of the food: product labelling must follow CXS 1‑1985 and the oil name must conform to the descriptions in Section 2, with one of the Section 2 names used that is acceptable in the country of use.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food heading",
+        "product name",
+        "name declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.2 Labelling of non-retail containers",
+      "summary": "Labelling of non‑retail containers: labelling for non‑retail containers should be in accordance with CXS 346‑2021.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Methods of analysis and sampling: compliance checks must use the methods of analysis and sampling in the Recommended Methods of Analysis and Sampling (CXS 234‑1999) relevant to this standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "1. QUALITY CHARACTERISTICS",
+      "summary": "Quality characteristics: the oil’s colour, odour and taste must be characteristic and free from foreign or rancid off‑notes, and maximum limits are specified for parameters (e.g., volatile matter 0.2% m/m, insoluble impurities 0.05% m/m, soap 0.005% m/m) plus specified metal, acid value, free fatty acid and peroxide value limits that differ for refined versus cold‑pressed/virgin and for particular oils (e.g., virgin palm oil FFA 5.0% as palmitic acid).",
+      "categories": [
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "quality heading",
+        "organoleptic quality",
+        "table header",
+        "volatile matter",
+        "impurities limit",
+        "soap content",
+        "iron limit",
+        "copper limit",
+        "acid value",
+        "free fatty acid",
+        "peroxide value"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "2. COMPOSITION CHARACTERISTICS",
+      "summary": "Composition characteristics: sets compositional limits and identity tests—arachis oil arachidic and higher fatty acids ≤48 g/kg; Reichert and Polenske value ranges for coconut, palm kernel and babassu oils; Halphen test positive for cottonseed oil; grapeseed oil erythrodiol >2% of total sterols; and total carotenoid ranges for unbleached palm oil, olein and stearin.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "fatty acid profile",
+        "reichert value",
+        "polenske value",
+        "identity test",
+        "sterol content",
+        "carotenoid content"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "APPENDIX",
+      "summary": "Appendix: specifies additional identity/composition criteria—Crismer value 67–70 for low‑erucic rapeseed oil, brassicasterol >5% of total sterols in that oil, a positive Baudouin test for sesame oil, and gamma‑oryzanol 0.9–2.1% in crude rice bran oil.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "crismer value",
+        "sterol content",
+        "identity test",
+        "oryzanol content"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "3. CHEMICAL AND PHYSICAL CHARACTERISTICS",
+      "summary": "Chemical and physical characteristics: chemical and physical parameters for the oils are provided in Table 2 (refer to Table 2 for specific values).",
+      "categories": [
+        "quality",
+        "composition"
+      ],
+      "subcategories": [
+        "quality heading",
+        "quality factors"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4. IDENTITY CHARACTERISTICS",
+      "summary": "Identity characteristics: gives levels of desmethylsterols as percentage of total sterols in Table 3 and levels of tocopherols/tocotrienols in Table 4 to support oil identity.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "identity characteristics",
+        "sterol levels",
+        "tocopherol levels"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies a spectrophotometric method for determining gamma oryzanol (%) in crude rice bran oil for compliance (referencing CXS 234-1999), requiring ~0.02 g sample dissolved in n-heptane (25 mL), absorbance measurement near 315 nm in a 1 cm cuvette (acceptable A range 0.3–0.6), and calculation Gamma oryzanol % = 25 × (1/W) × A × (1/E) with E1%1cm = 359.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "compliance methods",
+        "test method title",
+        "method definition",
+        "method principle",
+        "method scope",
+        "applicability",
+        "apparatus heading",
+        "apparatus specification",
+        "reagents heading",
+        "reagent specification",
+        "procedure heading",
+        "procedure step",
+        "calculation heading",
+        "calculation instruction",
+        "calculation formula",
+        "variable definition"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "doc_id": "8686a3e7-95f1-414b-97e5-960d04493fff",
+  "title": "REGIONAL STANDARD FOR LUCUMA Latin America and the Caribbean CXS 305R-2011 Adopted in 2011. Amended in 2023.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL STANDARD FOR LUCUMA Latin America and the Caribbean CXS 305R-2011 Adopted in 2011. Amended in 2023.",
+      "summary": "Regional standard title: CXS 305R-2011 for lucuma (Latin America and the Caribbean), adopted 2011 and amended in 2023 with changes to Section 6.2 (labelling of non‑retail containers) and addition of Section 7 (food additives).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "document title",
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "Defines the scope: applies to fresh fruit of commercial varieties of lucuma (Pouteria lucuma) supplied fresh to consumers after preparation and packaging, and excludes lucuma intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "definition heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets quality provisions including minimum requirements (whole, sound, clean, practically pest‑free, free from abnormal moisture, off‑odours, temperature damage, physical damage and sunburn, and appropriately ripe to withstand transport) and establishes classification into three classes (Extra, Class I, Class II) with class‑specific allowances and tolerances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Minimum requirements",
+      "summary": "Lists minimum requirements for lucuma in all classes: whole (preferably with stalk ≤5 mm), sound, clean, practically free of pests and foreign matter, free of abnormal external moisture, off‑odours/tastes, temperature damage, physical damage and sunburn, and adequately ripe and handled to withstand transport and arrive in satisfactory condition.",
+      "categories": [
+        "quality",
+        "processing",
+        "transport"
+      ],
+      "subcategories": [
+        "minimum requirements heading",
+        "minimum requirements",
+        "product condition",
+        "harvest maturity",
+        "transport suitability",
+        "destination condition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Classification",
+      "summary": "Defines three quality classes—Extra (superior, only very slight superficial defects, max two seeds), Class I (good quality, slight defects up to 1 cm², max three seeds) and Class II (minimum quality, defects up to 2 cm², max three seeds)—and specifies that defects must not affect the pulp, keeping quality or presentation, with firmness and seed count distinctions noted.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 Extra class",
+      "summary": "Defines Extra class lucuma as superior quality fruit characteristic of the variety and district, essentially free of defects except very slight superficial defects that do not affect appearance, quality, keeping or presentation, limits seeds to a maximum of two, specifies firmness differences for 'silk' (soft) and 'stick' (semi-hard) types, and mandates that defects must not affect the pulp (examples of slight defects are listed).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "extra class",
+        "extra class criteria",
+        "defect note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.2 Class I",
+      "summary": "Specifies Class I lucuma as good quality, characteristic of the variety and district, permitting slight defects (e.g., minor shape defects and skin defects up to 1 cm² total) provided they do not affect general appearance, quality, keeping or presentation, limits seeds to a maximum of three, and notes firmness differences for 'silk' (soft) and 'stick' (semi-hard), with defects not affecting the pulp.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class i",
+        "class i criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.3 Class II",
+      "summary": "Defines Class II as lucuma that do not qualify for higher classes but meet the minimum requirements, allowing certain defects (e.g., shape defects and skin defects up to 2 cm² total) provided essential characteristics, keeping quality and presentation are retained, limits seeds to three, and specifies firmness ('silk' semi‑hard; 'stick' hard).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class ii",
+        "class ii criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Size is determined by fruit weight with a table of size codes A–F and corresponding weight ranges (including a +10% weight tolerance), and a separate table classifies Extra/I/II by equatorial diameter and weight bands (e.g., Extra: diameter 6–9 cm and weight 120–300 g; I: over 9 cm or 50–300 g; II: less than 4 cm or <50 g).",
+      "categories": [
+        "weights and measures",
+        "classification"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "size by weight",
+        "size table",
+        "size class table",
+        "size classes heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Allows tolerances by package for quality and size for produce not satisfying the declared class, noting that specified size ranges include a +10% weight tolerance of fruit in each package, and refers to detailed quality and size tolerance percentages in subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.1 Quality tolerances",
+      "summary": "Sets quality tolerances by class: Extra allows 5% (by number or weight) not meeting Extra but meeting Class I or within its tolerances; Class I allows 10% not meeting Class I but meeting Class II or within its tolerances; Class II allows 10% not meeting the class or minimum requirements except produce rendered unfit by rotting or similar deterioration.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1.1 Extra class",
+      "summary": "Permits up to 5% (by number or weight) of lucuma in an Extra class package that do not meet Extra requirements but meet Class I or, exceptionally, fall within Class I tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class extra"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1.2 Class I",
+      "summary": "Allows up to 10% (by number or weight) of lucuma in a Class I package that do not meet Class I requirements but meet Class II or, exceptionally, fall within Class II tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class i"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.3 Class II",
+      "summary": "Allows up to 10% (by number or weight) of lucuma in a Class II package that satisfy neither the class nor the minimum requirements, except for fruit affected by rotting or other deterioration rendering it unfit for consumption.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class ii"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.2 Size tolerances",
+      "summary": "For all classes, permits a 10% (by number or weight) size tolerance corresponding to fruit of the size immediately above and/or below the size indicated on the package.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size tolerances"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Requires package contents to be uniform (same origin, variety, quality, size and similar ripeness) with the visible portion representative, and mandates packaging that protects lucuma using new, clean materials that do not damage produce (non‑toxic inks/glues allowed), compliance with the Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (CXC 44‑1995), and containers meeting quality, hygiene, ventilation and resistance standards and being free of foreign matter and odor.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.1 Uniformity",
+      "summary": "Requires each package to contain uniform lucuma of the same origin, variety, quality, size and appreciably the same degree of ripeness and development, with the visible contents representative of the whole.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "uniformity requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.2 Packaging",
+      "summary": "Obliges packing that protects the lucuma using new, clean internal materials that avoid external or internal damage (printing/labeling allowed if non‑toxic), and requires packaging to comply with the Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (CXC 44‑1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2.1 Description of containers",
+      "summary": "Specifies that containers must meet quality, hygiene, ventilation and resistance characteristics to ensure appropriate handling, shipping and preservation of lucuma, and that packages be free of foreign matter and smell.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "containers heading",
+        "container requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. MARKING OR LABELLING",
+      "summary": "Sets labelling requirements: consumer packages must meet the General Standard for the Labelling of Pre‑packaged Foods (CXS 119‑85) plus specific provisions, non‑retail containers should follow CXS 346‑2021 and additionally must identify the produce (name 'Lucuma' if not visible) with variety optional.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.1 Consumer packages",
+      "summary": "States that consumer packages must comply with the General Standard for the Labelling of Pre‑packaged Foods (CXS 119‑85) in addition to the standard's specific provisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1.1 Nature of produce",
+      "summary": "Requires that if the produce is not visible from the outside, each consumer package be labelled with the name of the produce and optionally with the variety name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "produce name heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.2 Labelling of non-retail containers",
+      "summary": "Advises that labelling of non‑retail containers should follow the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346‑2021) and notes that an additional specific requirement applies (see 6.2.1).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.2.1 Nature of produce",
+      "summary": "Requires non‑retail containers whose contents are not visible to be labelled with the name 'Lucuma' and optionally with the variety name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "produce name heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7. FOOD ADDITIVES",
+      "summary": "Prohibits any food additives in foods conforming to this standard and clarifies that this prohibition includes the use of recycled material only if it is of food‑grade quality.",
+      "categories": [
+        "additives",
+        "packaging"
+      ],
+      "subcategories": [
+        "additives heading",
+        "no additives",
+        "recycled material note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8. CONTAMINANTS",
+      "summary": "Requires produce covered by the standard to comply with the Codex General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum contaminant levels",
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "9. HYGIENE",
+      "summary": "Recommends that produce be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53‑2003) and other relevant Codex texts, and that it comply with any microbiological criteria established under CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "1. DESCRIPTION",
+      "summary": "Describes lucuma fruit (Andean berry/drupe, 4–9 cm, thin skin, variable pulp firmness and seed characteristics), defines terms used (biotype, areola, 'silk lucuma' and 'stick lucuma') and sets pulp firmness classes with thresholds (Soft: 0–6 kgf/0–60 N; Semi‑hard: >6–<11 kgf/>60–<110 N; Hard: ≥11 kgf/≥110 N).",
+      "categories": [
+        "scope",
+        "definition",
+        "classification"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "definitions introduction",
+        "biotype definition",
+        "anatomy definition",
+        "firmness class",
+        "table heading",
+        "table header",
+        "table separator",
+        "measurement units",
+        "firmness scale",
+        "conversion note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "ANNEX",
+      "summary": "Annex containing bibliographic references and sources cited in the standard (Codex documents and a link to regional Codex members); not a substantive regulatory provision itself.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "1  FAO and WHO. 1995. Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables . Codex Alimentarius Code of Practice, No. CXC 44-1995. Codex Alimentarius Commission. Rome.",
+      "summary": "Reference citation for FAO/WHO 1995 Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (Codex CXC 44‑1995).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    }
+  ]
+}

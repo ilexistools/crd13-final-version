@@ -1,0 +1,296 @@
+{
+  "doc_id": "fbe5d468-23c9-4a32-a00e-0566e22b00f6",
+  "title": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF DIOXINS, DIOXIN-LIKE PCBs AND NON-DIOXIN-LIKE PCBs IN FOOD AND FEED",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF DIOXINS, DIOXIN-LIKE PCBs AND NON-DIOXIN-LIKE PCBs IN FOOD AND FEED",
+      "summary": "Section is the document title heading: 'Code of Practice for the prevention and reduction of dioxins, dioxin‑like PCBs and non‑dioxin‑like PCBs in food and feed' (no substantive text in this section).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "11.  The Joint FAO/WHO Expert Committee on Food Additives (JECFA) assessed at its 57th meeting in 2002 the toxicity of dioxins and DL-PCBs.",
+      "summary": "Summarizes JECFA (2002) assessment: because dioxins and DL‑PCBs have long half‑lives, intake should be assessed over months and JECFA established a provisional tolerable monthly intake (PTMI) of 70 pg WHO‑TEQ/kg body weight per month for dioxins and DL‑PCBs, noting that intake estimates suggest many populations may exceed this PTMI.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "toxicity assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "28. Scope",
+      "summary": "Defines the Code's scope: it focuses on preventive/reduction measures (GAP, GMP, GSP, GAFP, GLP) for national authorities, farmers, feed and food manufacturers and consumers across production and use of all materials destined for feed and food at all levels, and excludes broader industrial/environmental source‑reduction measures outside the CCCF's remit.",
+      "categories": [
+        "risk management",
+        "scope"
+      ],
+      "subcategories": [
+        "prevention measures",
+        "applicability",
+        "excluded measures"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "RECOMMENDED PRACTICES BASED ON GOOD AGRICULTURAL PRACTICES (GAPs), GOOD MANUFACTURING PRACTICES (GMPs), GOOD STORAGE PRACTICES (GSPs), GOOD ANIMAL FEEDING PRACTICES (GAFPs), AND GOOD LABORATORY PRACTICES (GLPs)",
+      "summary": "Provides recommended control measures across the food chain: environmental controls (e.g., restrict uncontrolled burning, identify and avoid use of contaminated land, monitor sewage sludge), feed controls (identify contaminated feed origins, monitor compliance with guideline/maximum levels, require supplier certification), processing controls (use fuels unlikely to generate dioxins for drying, monitor smoking and drying processes, manage contaminated milling fractions as waste), ingredient/mineral monitoring and certification, and food‑preparation and harvesting measures (e.g., trimming fat, washing roots, minimizing soil deposition) to reduce dioxin and PCB transfer to feed and food.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## Control measures within the food chain",
+      "summary": "Section heading 'Control measures within the food chain' with substantive recommendations (truncated here) covering air/soil/water controls, feed monitoring and origin verification, processing precautions (drying, smoking, milling), ingredient and mineral monitoring, and harvest/transport/storage practices to minimize dioxin and PCB contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## Air, Soil, Water",
+      "summary": "Recommends measures to reduce dioxin and PCB contamination in air, soil and water including restricting uncontrolled burning and PCP-treated wood for domestic heating, identifying and avoiding or restricting agricultural production on contaminated land, monitoring and treating sewage sludge, controlling access of food-producing animals to contaminated areas, and identifying/controlling fishing in highly contaminated water bodies and species.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "31. To  reduce  dioxin  and  PCB  contamination  in  the  air,  national  food  authorities  should  consider recommending to their national authorities responsible for air pollution measures to restrict uncontrolled burning of wastes, including the burning of landfill sites or backyard burning, and the use of PCP treated wood for domestic heaters.",
+      "summary": "National food authorities should consider recommending that air pollution authorities restrict uncontrolled burning of wastes (including landfill and backyard burning) and the use of PCP‑treated wood for domestic heaters to reduce dioxin and PCB air contamination.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "air pollution measures"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "32. Control  measures  to  prevent  or  reduce  contamination  of  the  environment  by  dioxins  and  PCBs  are  important. To reduce possible contamination of feed or food, agricultural land with unacceptable dioxin and PCB contamination due to local emission, accidents, or illegal disposal of contaminated materials should be identified.",
+      "summary": "Control measures should be implemented to prevent or reduce environmental dioxin and PCB contamination, and agricultural land with unacceptable contamination from local emissions, accidents or illegal disposal should be identified to reduce contamination of feed and food.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "contaminated land"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "33. Agricultural production on contaminated areas should be avoided or should be restricted if a significant transfer of dioxins and PCBs to feed or food produced on these areas is anticipated.",
+      "summary": "Agricultural production on contaminated areas should be avoided or restricted when significant transfer of dioxins and PCBs to feed or food produced there is anticipated.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "restricted production"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Monitoring",
+      "summary": "Farmers and industrial feed/food manufacturers have primary responsibility for feed and food safety and competent authorities should enforce this via surveillance and control systems and establish monitoring programs; because dioxin analyses are costly, periodic testing by industrial operators (incoming materials and final products) and targeted monitoring of at‑risk products or ingredients (e.g. certain fish species) should be performed, with increased intensity where elevated levels are indicated.",
+      "categories": [
+        "official control",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "monitoring heading",
+        "surveillance systems",
+        "periodic testing",
+        "monitoring programs"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Sampling, analytical methods, data reporting and laboratories",
+      "summary": "Guidance on sampling and analytical requirements is available in the literature; GC‑HRMS is the traditional, time‑consuming standard for dioxins and DL‑PCBs, GC‑MS/MS is an alternative, bioassays can be used for high‑throughput screening, and GC‑ECD or various mass spectrometers are commonly used for NDL‑PCB analysis with generally simpler clean‑up requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Sampling",
+      "summary": "Sampling for dioxin and PCB analysis must collect representative samples, avoid cross‑contamination and deterioration (use chemically cleaned/certified containers), and record all relevant sampling and sample description information (e.g. period, origin, species, fat content).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sample collection"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Analytical methods and data reporting",
+      "summary": "Analytical methods must be fit for purpose with LOQs approximately one‑fifth of nationally established maximum levels (and clearly below mean background for trend analyses), and method performance should be demonstrated around the level of interest (e.g. 0.5×, 1×, 2×) with acceptable repeatability and a difference between upper and lower bound not exceeding 20% for ~1 pg WHO‑PCDD/PCDF‑TEQ/g fat.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "75. Except for bioassay techniques, the results of total dioxin and DL-PCB levels in a given sample should be reported as lower bound, medium bound and upper bound concentration by multiplying each congener by  their  respective  WHO  TEF  and  subsequently  summing  them up  to  give  the  total  concentration expressed as TEQ. The three different TEQ values should be generated reflecting assignment of zero (lower bound), half the limit of quantification (medium bound), and limit of quantification (upper bound) values to each non-quantified dioxin and DL-PCB congener. For the analysis of NDL-PCBs the analytical result should also be reported as lower-bound, medium bound and upper-bound and indicate clearly to what the analytical result refers to (sum of six indicator PCBs, total PCBs, etc.)",
+      "summary": "Except for bioassays, total dioxin and DL‑PCB results must be reported as lower‑, medium‑ and upper‑bound TEQ (assigning 0, ½ LOQ, and LOQ to non‑quantified congeners) and NDL‑PCB results should similarly be reported as lower/medium/upper bound with clear indication of what the result represents (e.g. sum of six indicator PCBs).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "result reporting"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "76. Depending on the sample type, the reported information may also include the lipid or dry matter content of the sample as well as the method used for lipid extraction and for the determination of dry matter. This report should also include a specific description of the procedure used to determine the LOQ.",
+      "summary": "Reported analytical results should, where relevant, include lipid or dry matter content, the methods used for lipid extraction and dry matter determination, and a specific description of the procedure used to determine the LOQ.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample reporting"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "77. A high throughput screening method of analysis with proven acceptable validation could be used to screen the samples with significant levels of dioxins and PCBs. Screening methods should have less than 1% false-negative results in the relevant range of interest for a particular matrix. Use of 13C-labelled internal standards for dioxins or PCBs allows for specific control of possible losses of the analytes in each sample. As such,, false-negative results can be avoided thus preventing contaminated food or feed from being used or marketed. For confirmatory methods, use of these internal standards is mandatory. For screening methods without control of losses during the analytical procedure, information on correction of losses of compounds and the possible variability of results should be given. Levels of dioxins and PCBs in positive samples (above the level of interest) should be determined by a confirmatory method.",
+      "summary": "Validated high‑throughput screening methods may be used provided they have <1% false‑negative rates in the relevant range; use of 13C‑labelled internal standards is recommended to control losses and is mandatory for confirmatory methods, screening methods lacking loss control must report correction/variability information, and positive samples must be quantified by confirmatory methods.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "screening methods"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## Laboratories 78.  Laboratories  involved  in  the  analysis  of  dioxins  and  PCBs  using  screening  as  well  as  confirmatory methods of analysis should be accredited by a recognized body operating in accordance with ISO/IEC Guide 58:1993 as revised by ISO/IEC 17011:2004 or have quality assurance programs that address all critical elements of accrediting agencies to ensure that they are applying analytical quality assurance. Accredited  laboratories  should  follow  the  ISO/IEC/17025  standard  'General  requirements  for  the competence of testing and calibration laboratories' or other equivalent standards.",
+      "summary": "Laboratories performing screening or confirmatory analysis of dioxins and PCBs should be accredited by a recognized body per ISO/IEC Guide 58 (as revised by ISO/IEC 17011) or operate QA programs covering accrediting elements, and accredited labs should follow ISO/IEC 17025 or equivalent standards.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "79. Regular participation in interlaboratory studies or proficiency tests for the determination of dioxins and PCBs  in  the  relevant  feed  and  food  matrices  is  highly  recommended  according  to  ISO/IEC/17025 standard.",
+      "summary": "Regular participation in interlaboratory comparisons or proficiency tests for dioxin and PCB determination in relevant feed and food matrices is highly recommended in line with ISO/IEC 17025.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "proficiency testing"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## QUALITY MANAGEMENT AND EDUCATION 80.  Good Agricultural Practices, Good Manufacturing Practices, Good Storage Practices, and Good Animal Feeding Practices are valuable systems for further reduction of dioxin and PCB contamination in the food chain. Farmers as well as feed and food manufacturers should consider informing their emplyees on how to  prevent contamination by the implementation of control measures. Good Laboratory Practices is a valuable system to ensure high quality of the analytical outcome.",
+      "summary": "Good Agricultural, Manufacturing, Storage and Animal Feeding Practices are recommended to reduce dioxin and PCB contamination, employers in farming and feed/food manufacturing should educate employees on prevention measures, and Good Laboratory Practices are recommended to ensure analytical quality.",
+      "categories": [
+        "other",
+        "training"
+      ],
+      "subcategories": [
+        "section heading",
+        "employee education"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    }
+  ]
+}

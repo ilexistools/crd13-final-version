@@ -1,0 +1,414 @@
+{
+  "doc_id": "6ff85d78-3737-4152-8ad3-1e76de35d20e",
+  "title": "REGIONAL STANDARD FOR FRESH LEAVES OF GNETUM spp.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL STANDARD FOR FRESH LEAVES OF GNETUM spp.",
+      "summary": "Title only: Regional Standard for fresh leaves of Gnetum spp.; not substantive text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "(Africa) 1 CXS 335R-2020",
+      "summary": "Identifies the standard as (Africa) CXS 335R-2020, adopted in 2020 and amended in 2022.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "standard code",
+        "adoption amendment"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2022 Amendments",
+      "summary": "Records 2022 amendments to the standard, notably revising Section 6.2 on non‑retail container labelling to reference CXS 346-2021 and to require specific package particulars (identification, nature and origin of produce) be legibly marked or provided with the shipment.",
+      "categories": [
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note",
+        "table heading",
+        "table separator",
+        "non-retail particulars",
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1 SCOPE",
+      "summary": "Scope: applies to fresh whole and sliced leaves of Gnetum spp., specifically Gnetum africanum and Gnetum bucholzianum.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2 DESCRIPTION",
+      "summary": "Describes Gnetum as a perennial wild vine (approx. 10 m) with leaves ~8 cm and notes the common African species G. africanum and G. bucholzianum are morphologically similar with slight leaf‑shape differences.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3 PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets quality provisions for Gnetum leaves including minimum requirements (whole, sound, clean, pest‑free, no abnormal moisture, fresh appearance with ≥60% water, mature picking) and establishes classification into Extra, Class I and Class II with specified conformity percentages and tolerances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1 Minimum requirements",
+      "summary": "Specifies minimum quality criteria for Gnetum spp. leaves: must be whole, sound (no rotting), clean, practically free of pests and pest damage, free of abnormal external moisture, have a fresh appearance with at least 60% water content, free of foreign smell/taste, and carefully picked at sufficient maturity.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "minimum requirements heading",
+        "minimum criteria",
+        "product intact",
+        "soundness requirement",
+        "cleanliness requirement",
+        "pest freedom",
+        "moisture condition",
+        "freshness requirement",
+        "pest damage",
+        "sensory freedom",
+        "maturity requirement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 Classification",
+      "summary": "Establishes classification into Extra, Class I and Class II for Gnetum leaves, with each class defined by quality, development and colour criteria and associated conformity/tolerance levels.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2.1 Extra class",
+      "summary": "Extra class: leaves or sliced leaves of one type, superior quality, well developed and of characteristic colour, with at least 95% by weight conforming to these requirements.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "extra class heading",
+        "extra class criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.2 Class I",
+      "summary": "Class I: leaves that meet Extra class requirements except that up to 10% by weight of young leaves are permissible.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class i heading",
+        "class i criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.3 Class II",
+      "summary": "Class II: leaves that do not qualify for Extra or Class I but meet the minimum requirements in Section 3.1, with up to about 20% by weight allowed to differ in maturity and colour.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class ii heading",
+        "class ii criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4 PROVISIONS CONCERNING TOLERANCE",
+      "summary": "Provides tolerances by class: Extra class allows 5% by weight not meeting the class but meeting Class I, Class I allows 10% by weight not meeting the class but meeting Class II, and Class II allows 20% by weight not meeting the class or minimum requirements (excluding produce unfit for consumption).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1 Quality tolerances",
+      "summary": "Quality tolerances reiterated: Extra class 5% weight allowance (may meet Class I), Class I 10% allowance (may meet Class II), Class II 20% allowance (excluding produce unfit for consumption).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.1 Extra class",
+      "summary": "Extra class tolerance: up to 5% by weight of Gnetum leaves in an Extra class lot may fail to satisfy Extra class requirements provided they meet Class I requirements.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "tolerance heading",
+        "extra class tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1.2 Class I",
+      "summary": "Allows up to 10% by weight of Gnetum spp. leaves in a Class I consignment to consist of leaves that do not meet Class I requirements but do meet Class II requirements.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "class i tolerance",
+        "class ii tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.1.3 Class II",
+      "summary": "Permits up to 20% by weight of Gnetum spp. leaves in a Class II consignment to fail both the class and the minimum requirements, excluding produce rendered unfit for consumption by rotting or other severe deterioration.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "class ii tolerance",
+        "defect tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Heading only; introduces provisions concerning presentation (no substantive text in this entry).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.1 Packaging",
+      "summary": "Requires Gnetum spp. leaves (wrapped in boots or chopped) to be packed in solid, sturdy containers that protect hygienic, nutritional, technological and organoleptic qualities without imparting toxic substances, odour or undesirable flavour, and mandates packaging and transport in accordance with the Code of Practice for the Packaging and Transport of Fresh Fruit and Vegetables (CXC 44-1995).",
+      "categories": [
+        "packaging",
+        "transport"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "packaging requirements",
+        "transport requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2 Uniformity",
+      "summary": "Requires each sales unit to be uniform and contain only Gnetum spp. leaves of the same quality in conformity with the classification requirements.",
+      "categories": [
+        "quality",
+        "classification"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "uniform quality"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. LABELLING",
+      "summary": "Introductory labelling section requiring compliance with the General Standard for Labelling of Pre-packaged Foods (CXS 1-1985) and indicating additional specific labelling provisions (e.g., product name and non‑retail container requirements) set out in subsequent subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.1 Name of the produce",
+      "summary": "Specifies the product name as 'Gnetum spp. leaves' and requires inclusion of the local name where applicable.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.2 Non-retail containers",
+      "summary": "Requires labelling of non‑retail containers to follow the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346-2021) and mandates that each package bear legible, indelible particulars grouped on the same side and visible from the outside or in accompanying documents, with further specifics in subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.2.1 Origin of produce",
+      "summary": "Requires the country of origin to be declared and allows optional specification of district or national/regional/local place name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7. CONTAMINANTS",
+      "summary": "Mandates compliance with Codex maximum levels for contaminants and toxins (CXS 193-1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with Codex hygiene documents (CXC 1-1969, CXC 53-2003 and related texts) and requires the product to meet microbiological criteria established under CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

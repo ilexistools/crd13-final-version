@@ -1,0 +1,786 @@
+{
+  "doc_id": "1981402e-5713-46ab-ae05-136d5d4fcf5d",
+  "title": "1. REFERENCE GUIDELINES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. REFERENCE GUIDELINES",
+      "summary": "These reference guidelines are intended for Codex commodity committees and governments to design and evaluate acceptance sampling plans for international food trade, explaining sampling's role in verifying compliance with Codex provisions (composition, chemical/microbiological contaminants, pesticide residues), protecting consumer health and fair trade, and noting that Codex standards may specify particular plans or required outcomes and that plans are primarily aimed at inspection on receipt (e.g., by importing authorities).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1.1 Introduction",
+      "summary": "These guidelines are intended for Codex commodity committees and government inspection authorities to develop acceptance sampling plans for international food trade, describe sampling's role throughout the supply chain in verifying compliance with composition and contaminants provisions, and note that Codex standards may prescribe specific plans or desired outcomes while plans are primarily for inspection on receipt by importing regulators.",
+      "categories": [
+        "scope",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "guideline purpose",
+        "sampling context",
+        "sampling verification",
+        "consumer protection",
+        "sampling importance",
+        "quality objectives",
+        "sampling plan outcome",
+        "inspection applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1.2 Scope",
+      "summary": "The scope focuses on acceptance sampling plans for inspection of isolated homogeneous lots (with some guidance for inhomogeneous lots), covering attribute and variable plans (including normally distributed characteristics), adjustments for measurement uncertainty, control of average content, and issues for bulk materials, and points to appendices with selection guidance and ISO tables while noting the guidance is not exhaustive and other plans remain acceptable if endorsed by CCMAS.",
+      "categories": [
+        "scope",
+        "definition",
+        "analysis sampling",
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "homogeneous lots",
+        "isolated lot",
+        "situations covered",
+        "attributes sampling",
+        "variables sampling",
+        "measurement uncertainty",
+        "average content",
+        "bulk materials",
+        "document structure",
+        "appendix references",
+        "empty artifact",
+        "iso note",
+        "noncomprehensive scope"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1.3 Definitions",
+      "summary": "Provides definitions of key terms used in the guidelines (e.g., acceptance criterion, acceptance sampling by attributes/variables, acceptance sampling plan, conformity assessment, consignment, consumer/producer, consumer's and producer's risk, quality level, sample, lot), and notes the focus on lot-level quantities (lot standard deviation and lot quality level) rather than process parameters.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "Acceptance criterion",
+      "summary": "Defines 'acceptance criterion' to cover acceptance/rejection numbers for attributes plans and acceptability constants for variables plans, and states it is the rule applied to test results to decide whether to accept a lot.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "acceptance criterion",
+        "acceptance criterion note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Acceptance sampling",
+      "summary": "Defines 'acceptance sampling' as sampling followed by a decision to accept or reject a lot (or other grouping) based on the sample results.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "acceptance sampling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Acceptance sampling by attributes",
+      "summary": "Defines acceptance sampling by attributes as inspection where the presence or absence of specified characteristics per item is observed to statistically determine lot or process acceptability.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "attributes sampling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Acceptance  sampling  by variables",
+      "summary": "Defines acceptance sampling by variables as inspection where measurements of specified quality characteristics on sampled items are used statistically to determine acceptability of a lot or process.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "variables sampling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Acceptance  sampling  plan",
+      "summary": "Defines an acceptance sampling plan as the plan stating sample sizes and the associated criteria for lot acceptance.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Conformity assessment",
+      "summary": "Defines conformity assessment as the activity to determine whether specified requirements relating to a product, process, system, person or body are fulfilled.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "conformity assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Consignment",
+      "summary": "Defines consignment as a quantity of commodity delivered at one time and states that for statistical inspection a consignment is to be treated as a new lot—if it is a portion of a lot it is treated as that lot for inspection, and if it comprises several lots homogeneity must be checked and stratified sampling used if not homogeneous.",
+      "categories": [
+        "definition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "definition heading",
+        "consignment",
+        "consignment interpretation",
+        "lot interpretation",
+        "sampling homogeneity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Consumer and producer",
+      "summary": "Explains that 'consumer' and 'producer' are conventional terms that can refer to various operators across the food chain, with 'producer' generally meaning a supplier/seller and 'consumer' an importing regulator, purchaser, or end consumer.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "risk definitions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Consumer's risk (CR)",
+      "summary": "Defines consumer's risk (CR) as the probability of accepting a lot when its quality level is at a value deemed unsatisfactory by the acceptance sampling plan.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "consumer risk"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "Consumer's risk quality (CRQ)",
+      "summary": "Defines consumer's risk quality (CRQ) as the quality level of a lot or process that corresponds to a specified consumer's risk in the sampling plan and notes this corresponds to the limiting quality level (LQL) in ISO 2859 and ISO 3951.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "consumer risk quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Indifference quality level",
+      "summary": "Defines the indifference quality level as the quality level at which an acceptance sampling plan gives a probability of acceptance of 0.5 in a continuing series of lots.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "indifference quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Laboratory sample",
+      "summary": "Defines a laboratory sample as the sample prepared from a lot for sending to the laboratory for inspection or testing.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratory sample"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "Lot",
+      "summary": "Defines a lot as a quantity of product produced under conditions presumed to be uniform.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "Operating characteristic curve",
+      "summary": "Defines an operating characteristic curve as the curve relating the probability of acceptance of product to the incoming quality level for a given acceptance sampling plan.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "operating characteristic"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Plan",
+      "summary": "This entry is a cross-reference to 'acceptance sampling plan' (see the defined term) and contains no substantive content beyond that referral.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Producer's risk (PR)",
+      "summary": "Producer's risk (PR) is the probability that a lot or process will be rejected (non-accepted) even though its quality equals the level the sampling plan designates as acceptable.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "producer risk"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Producer's risk quality (PRQ)",
+      "summary": "Producer's risk quality (PRQ) is the quality level of a lot or process that corresponds in an acceptance sampling plan to a specified producer's risk (PR) and corresponds to the Acceptance Quality Limit (AQL) in ISO 2859 and ISO 3951.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "producer risk quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Quality level",
+      "summary": "Quality level is expressed as a rate of nonconforming units or number of nonconformities and in these guidelines is often given as the percentage of nonconforming items in a lot.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "quality level"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "Sample",
+      "summary": "A sample is one or more items taken from a population intended to provide information about that population and to serve as the basis for a decision about the population or the process that produced it.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Sampling plan",
+      "summary": "Non-substantive cross-reference pointing to the term 'acceptance sampling plan' (no definition provided in this entry).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "2. ACCEPTANCE SAMPLING - GENERAL PRINCIPLES",
+      "summary": "Acceptance sampling provides unambiguous rules for releasing product after inspection of a limited sample when goods are transferred between parties and plans should include provisions for disputes and handling non-conforming items; an acceptance sampling plan specifies how many and how items are taken, the acceptance criterion, and how to account for non-negligible measurement uncertainty and is used to reduce costs, allow destructive testing, and enable faster decisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "2.1 Reasons for sampling",
+      "summary": "Consumers often rely on acceptance sampling to verify incoming product quality despite producers using HACCP, GMP and process control, and an acceptance sampling plan specifies sample size and method, acceptance criteria, and how to account for measurement uncertainty while being used to reduce costs, permit destructive testing and enable faster decision-making (references ISO 2859 and ISO 3951).",
+      "categories": [
+        "analysis sampling",
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "sampling reasons",
+        "artifact",
+        "iso reference",
+        "cross reference",
+        "sampling purpose",
+        "sampling plan",
+        "sampling purposes",
+        "sampling benefits",
+        "destructive testing",
+        "faster decisions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "2.2 Approaches to acceptance sampling",
+      "summary": "Three approaches to inspection are described—(a) 100% inspection, (b) statistically based sampling, and (c) ad hoc inspection—with statistical sampling recommended as it allows calculable control of risks while being practicable and lower cost, whereas ad hoc plans are not recommended because they may give inadequate assurance or impose undue costs; lot inspections involve two risks: consumer's risk (accepting poor quality) and producer's risk (rejecting acceptable quality).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "2.2.1 Acceptance sampling versus conformity assessment",
+      "summary": "Distinguishes acceptance sampling (taking a sample from a lot with defined sample size and acceptance criteria to decide lot acceptance/rejection) from conformity assessment (using a single measurement result to decide whether a single item conforms), noting they have different contexts and objectives.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "acceptance sampling heading",
+        "sampling vs assessment",
+        "conformity assessment",
+        "different contexts"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "Conformity assessment",
+      "summary": "Conformity assessment applies a decision rule that accounts for measurement uncertainty (which may or may not include sampling uncertainty) and, depending on the rule and measurand, can yield inconclusive results.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "conformity assessment",
+        "decision rule uncertainty"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Acceptance sampling",
+      "summary": "Acceptance sampling uses multiple measurement results and a defined sampling procedure and acceptance criterion to make a definitive accept/reject decision on a lot, accounts for variation of the characteristic within the lot and includes analytical measurement uncertainty only if non-negligible, and is typically applied in commercial agreements.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "acceptance sampling",
+        "lot acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "2.3.1 Operating characteristic curve",
+      "summary": "An operating characteristic (OC) curve illustrates the probability of accepting a lot as a function of its quality level (percent nonconforming) and does not indicate the actual quality of any given lot.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "operating characteristic",
+        "oc curve description",
+        "illustrative diagram",
+        "oc curve note"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "3. DESIGN OF SAMPLING PLANS",
+      "summary": "Non-substantive heading introducing the topic of design of sampling plans.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "3.1 Sampling plan design process",
+      "summary": "Non-substantive entry containing an illustrative diagram of the sampling plan design process without textual detail.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "Sampling Plan Design Process",
+      "summary": "Non-substantive leaf presenting an illustrative diagram titled 'Sampling Plan Design Process' (no substantive text).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plan design",
+        "illustrative diagram"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "3.2 Inputs to sampling plans",
+      "summary": "Non-substantive heading introducing inputs to sampling plans.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "3.2.1 Stringency",
+      "summary": "Stringency is defined as a sampling plan's ability to control producer's and consumer's risks by specifying four parameters (PRQ, CRQ, PR and CR) which determine acceptance probabilities; typical example values are PR = 5% and CR = 10%, and plans may be designed to control both risks or only the consumer's risk in some situations.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "stringency heading",
+        "risk of misclassification",
+        "risk parameters",
+        "stringency definition",
+        "risk levels",
+        "risk specification options",
+        "both risk control",
+        "risk specification",
+        "consumer risk only",
+        "discrete items"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "3.2.2 Fitness for purpose",
+      "summary": "Codex sampling methods must ensure fair and valid procedures for testing compliance with commodity standards (sampling plans in standards should be referred to CCMAS for endorsement), and a sampling and testing procedure is 'fit for purpose' if, with appropriate acceptance criteria, it yields acceptable probabilities of wrongly accepting or rejecting a lot.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "## Fairness",
+      "summary": "Fairness requires consideration of both consumer and producer risks so sampling plans are neither inappropriately stringent nor expose producers to high risks or unreasonable costs, and plans should be statistically valid and account for measures producers must take to ensure compliance.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "fairness heading",
+        "fairness considerations",
+        "stringency examples",
+        "risk examples",
+        "statistical validity",
+        "producer considerations",
+        "reasonable costs"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "## Practicality",
+      "summary": "Practicality requires sampling plans to be economical and easy to apply, and suggests strategies such as managing average non-compliance over time, using 'indifference' plans based on the indifference quality level to reduce sample sizes, and using offsets or guard-bands between acceptance criteria and specification limits to reduce consumer risk while applying offsets cautiously to protect producers.",
+      "categories": [
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "practicality heading",
+        "practical application",
+        "economical strategies",
+        "average noncompliance",
+        "indifference plans",
+        "offsets use"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "3.2.3 Specification limits",
+      "summary": "Specification limits (minimum and/or maximum) may apply to individual items or lot averages and should refer to the 'true' values of the characteristic rather than raw measurements; built‑in offsets (guard‑bands) reflecting measurement uncertainty are common for contaminants and can reduce required sample sizes when present.",
+      "categories": [
+        "analysis sampling",
+        "contaminants"
+      ],
+      "subcategories": [
+        "specification limits heading",
+        "specification limits",
+        "true values",
+        "offsets heading",
+        "guard-band offset",
+        "offsets and limits",
+        "sample size reduction"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "3.2.4 Lot homogeneity",
+      "summary": "Acceptance sampling assumes lot homogeneity defined as describable by a single standard deviation for variables plans; random sampling is recommended unless prior knowledge shows the spatial distribution is random, and inhomogeneous bulk lots may require sampling from multiple segments.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot homogeneity heading",
+        "lot homogeneity",
+        "homogeneity definition",
+        "homogeneity distinction",
+        "distribution shape",
+        "spatial distribution",
+        "homogeneity limitation",
+        "random sampling",
+        "spatial randomness",
+        "homogeneity dependence",
+        "bulk material sampling",
+        "inhomogeneous lot guidance"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "3.2.5 Distribution of the characteristic",
+      "summary": "Sampling plan options depend on whether results are variables (measurements) or attributes (nominal); variables plans require an assumed distribution (commonly normal) while attributes plans use the binomial default, and if no distribution can be assumed results may be treated as attributes (if measurement uncertainty is negligible) or handled by fractional nonconformance methods (if not negligible).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "distribution heading",
+        "attributes and variables",
+        "distribution assumption",
+        "distribution fit",
+        "normal assumption",
+        "binomial assumption",
+        "inhomogeneous lot guidance"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "3.2.7 Measurement uncertainty",
+      "summary": "For lot inspection the analytical component of measurement uncertainty (including subsampling) should be evaluated relative to the lot standard deviation and, if not negligible, incorporated into the acceptance criterion, noting that the lot SD already includes within‑lot and sampling variation and the term 'measurement error' is deprecated.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "measurement uncertainty heading",
+        "measurement uncertainty",
+        "uncertainty adjustment",
+        "analytical uncertainty",
+        "measurement terminology"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "3.2.8 Lot size",
+      "summary": "Lot size is generally not required to design sampling plans that control producer's and consumer's risks, but must be specified for attributes plans on small lots and is an input for ISO 2859/3951 type plans.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot size heading",
+        "lot size"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    }
+  ]
+}

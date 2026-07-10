@@ -1,0 +1,501 @@
+{
+  "doc_id": "102187f0-8776-4194-a5b5-4e3d37f61d4a",
+  "title": "CODE OF PRACTICE FOR THE STORAGE AND TRANSPORT OF EDIBLE FATS AND OILS IN BULK CXC 36-1987",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE STORAGE AND TRANSPORT OF EDIBLE FATS AND OILS IN BULK CXC 36-1987",
+      "summary": "Editorial/revision history noting adoption in 1987 and subsequent revisions (1999–2024) and specific editorial corrections and revisions made to sections and appendices (not substantive technical provisions).",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "revision note",
+        "editorial corrections",
+        "correction details",
+        "revision heading",
+        "revision summary"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "This code of practice applies to the handling, storage and transport of all crude or processed edible oils and fats in bulk.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2. INTRODUCTION",
+      "summary": "Describes three types of deterioration in oils and fats during handling (oxidation, hydrolysis, contamination), identifies factors increasing susceptibility (e.g., temperature, metal catalysts like copper), requires clean dry tanks and good system design/cleaning/inspection to avoid contamination, and states that previous cargoes must be considered using Appendices 2 and 3 with competence‑authority agreement for cargoes not listed and with specified criteria for acceptable previous cargoes including effective cleaning, ADI/TDI ≥ 0.3 mg/kg bw/day (or case‑by‑case evaluation), allergen removal, and compliance of any reaction products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2.1 General",
+      "summary": "Explains that oils and fats are susceptible to oxidation (accelerated by air, temperature and copper/copper alloys), hydrolysis (promoted by water and microorganisms) and contamination (from previous cargoes, dirt, seawater, etc.), requires tanks be clean/dry and designed/cleaned to prevent contamination, and states previous cargo acceptability must follow Appendices 2 and 3 with competent authority agreement and assessment against criteria including cleaning verification, ADI/TDI ≥ 0.3 mg/kg bw/day, allergen considerations, and evaluation of reaction products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.1.3 Road and rail tankers and bulk liquid containers (ISO tank containers)",
+      "summary": "Road and rail tankers and ISO tank containers used for overland transport of oils and fats are normally stainless steel (or mild steel coated with epoxy resin) when carrying fully refined, deodorized oils for direct human consumption.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "tankers heading",
+        "tankers requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1.4 Materials",
+      "summary": "Materials for tanks and ancillary equipment must be inert and suitable for food contact with stainless steel preferred; mild steel may be coated (with specified surface preparation), copper and copper alloys (and mercury thermometers) must not be used where they contact oils/fats, and glass should be avoided where breakage risks contamination.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "materials heading",
+        "construction materials",
+        "tank materials",
+        "surface preparation",
+        "prohibited metals",
+        "glass avoidance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.5 Heating facilities - tanks",
+      "summary": "Tanks for solid, semi-solid and high‑viscosity oils/fats should have stainless‑steel heating facilities to make the product liquid and homogeneous; acceptable heating methods include circulating hot water (~80 °C) or low‑pressure steam (up to 150 kPa/127 °C) with specified coil design and drainage, external heat exchangers are an alternative, and any other heating media require safety/risk evaluation and may require evidence for competent authorities, with procedures to detect leaks.",
+      "categories": [
+        "equipment",
+        "processing",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "heating facilities heading",
+        "tank heating",
+        "heating procedures",
+        "hot water pipes",
+        "hot water heating",
+        "steam pipes",
+        "steam heating",
+        "coil design",
+        "heat exchangers",
+        "heat exchanger use",
+        "leak detection",
+        "heating media evaluation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.6 Heating facilities - road and rail tankers and ISO tank containers",
+      "summary": "Road and rail tankers and ISO tank containers carrying solid/semi‑solid or high‑viscosity fats, if fitted with internal heating coils, should use stainless steel coils coupled to hot water or low‑pressure steam (up to 150 kPa gauge).",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "heating facilities heading",
+        "tanker heating"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.7 Storage tank and road/rail tanker insulation",
+      "summary": "Storage tanks, tankers and containers should preferably be externally insulated—especially in temperate and cold climates—with insulation designed to avoid absorption of oil or water and made impervious to oils and fats.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "insulation heading",
+        "tank insulation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.8 Control of temperature",
+      "summary": "Ships and storage tanks with heating facilities must have temperature sensors and control devices to prevent overheating, with thermometers sited away from heating coils and automatic recording thermometers recommended for record‑keeping.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "temperature control heading",
+        "temperature monitoring"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.9 Protection from aeration",
+      "summary": "Pipelines and connections must be designed to avoid admixture with air—filling from near the bottom, pipeline pigging or inert gas use is preferred—to prevent aeration, and if air is used measures must prevent it being blown into the oil.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "aeration protection",
+        "aeration prevention"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.10 Inert gas protection",
+      "summary": "Ships and storage tanks used for high‑quality products or long storage periods should preferably have facilities for sparging and blanketing with inert gas of appropriate purity.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "inert gas heading",
+        "inert gas protection"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2 Pipelines",
+      "summary": "For pipelines, mild steel is acceptable for crude and semi‑refined oils while stainless steel is preferable (required for fully refined products), flexible hoses must be inert, reinforced, easy to clean and capped when not in use with stainless‑steel or inert couplings, and in cold climates pipelines should be lagged/heated (e.g., steam tracing) to prevent solidification.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.1 Materials",
+      "summary": "Mild steel is acceptable for pipelines handling crude and semi‑refined oils/fats though stainless steel is preferable and should be used for fully refined products.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "materials heading",
+        "steel suitability"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.2 Flexible hoses",
+      "summary": "Requires flexible hoses used for loading/unloading pipelines to be made of inert, suitably reinforced material of a length that facilitates cleaning, to have exposed ends capped when not in use, and to use stainless steel or other inert couplings.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "flexible hoses",
+        "hose requirements"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.3 Insulation and heating",
+      "summary": "Recommends that pipelines for oils and fats that may solidify be lagged and provided with heating (e.g., steam tracing or electrical tape) in temperate/cold climates, and permits use of steam when clearing such pipelines.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "insulation heating",
+        "pipeline heating"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4. OPERATIONS",
+      "summary": "Sets operational requirements for loading/unloading, cleaning and maintenance of oil/fat storage and transfer systems, including: slow heating to homogenize products (see 4.1.1), maintaining temperatures per Table 1 to minimize crystallization, clearing segregated pipelines and ordering transfers to avoid adulteration, thorough cleaning/draining/drying and provision of pigging systems after non‑edible cargoes, and regular maintenance checks of steam controls, thermometers, pumps, tank coatings, hoses and ancillary equipment; it also requires marking/identification of pipelines and tanks and documentation such as heating logs, sealed loading samples and declaration of the three previous cargoes for ship tanks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.1 Loading and unloading",
+      "summary": "Specifies loading/unloading practices: heat solid/semi‑solid/high‑viscosity oils slowly to a homogeneous pumping temperature without exceeding 5 °C increase in 24 hours and with steam pressure ≤150 kPa if used; maintain transfer and storage temperatures per Table 1 with averaged top/middle/bottom readings (taken ≥30 cm from coils), clear pipelines between products and follow a specified sequence of product types to minimize adulteration, collecting first pumpings for quality checks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.1.1 Heating up",
+      "summary": "Requires slow heating of solid, semi‑solid and high‑viscosity oils before transfer so they become liquid and homogeneous, limiting heating to a maximum rate of 5 °C over 24 hours, restricting steam pressure to ≤150 kPa gauge to avoid localized overheating, and ensuring coils are completely covered before heating.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "heating up",
+        "heating procedure"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.1.2 Temperatures during storage and transport",
+      "summary": "Mandates that oil in bulk tanks be kept within the temperature ranges in Table 1 during short‑term storage and shipping to prevent excessive crystallization (applies to crude and refined oils), advises long‑term storage of soft oils at ambient temperature with heating off, and cautions about careful initial heating to avoid localized overheating.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "temperature control",
+        "storage temperatures",
+        "temperature applicability",
+        "storage temperature guidance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.1.3 Temperature during loading and discharge",
+      "summary": "Requires oils be heated to the temperatures shown in Table 1 before transfer (lower for low‑melting grades, higher for high‑melting grades), specifies that loading/unloading temperature be the average of top, middle and bottom readings taken at least 30 cm from heating coils, and directs use of the maximum table temperatures in cold weather to prevent pipeline blockage.",
+      "categories": [
+        "transport",
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "loading discharge temperature",
+        "transfer heating",
+        "temperature applicability",
+        "temperature measurement",
+        "cold weather discharge"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.1.4 Loading and unloading sequence",
+      "summary": "Mandates separation of different oils/grades and complete clearing of common pipeline systems between products, prefers segregated lines, prohibits pumping 'new' into 'old' for oxidative quality reasons, prescribes a loading order (fully refined → partly refined → crude; edible before technical; fatty acids last; avoid lauric/non‑lauric cross‑contamination) and recommends collecting first pumpings for quality checks.",
+      "categories": [
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "loading unloading sequence",
+        "product segregation",
+        "pipeline clearing",
+        "loading principles",
+        "loading order",
+        "adulteration prevention",
+        "quality check samples"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.2 Cleaning",
+      "summary": "Requires thorough cleaning and inspection to remove all residues from tanks previously used for non‑edible materials, mandates draining and complete drying if steam or water are used, recommends provision of pipeline 'pigging' systems, and requires thorough fresh‑water rinsing after use of detergents or alkali.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning heading",
+        "residue removal",
+        "cleaning and drying"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.3 Maintenance",
+      "summary": "Requires regular maintenance checks as part of a planned programme, including verification of steam pressure regulation valves, steam supply valves and traps for leakage, thermometers/thermostats/recorders/weighing and gauge meters for function and accuracy, thermostatically regulated pumps for leakage, integrity of tank coatings, hoses and condition of tanks and ancillary equipment.",
+      "categories": [
+        "processing",
+        "equipment"
+      ],
+      "subcategories": [
+        "maintenance heading",
+        "maintenance checks"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.4 Others",
+      "summary": "Requires clear marking/identification of pipelines and storage tanks, inspection of cleanliness and condition of tanks/road/ship tanks and pipelines by a suitably qualified superintendent with written reports for every loading/unloading, allows receiver to keep tank sediments separate, requires ship heating logs and properly marked/sealed loading samples as per contract, and mandates declaration and record availability of the three previous cargoes carried in a ship's tank.",
+      "categories": [
+        "other",
+        "labelling",
+        "inspection certification",
+        "processing",
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "other heading",
+        "pipeline marking",
+        "condition inspection",
+        "sediment separation",
+        "heating logs",
+        "sealed samples"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "APPENDIX 1",
+      "summary": "Appendix contains Table 1, which prescribes temperatures for storage, transport, loading and discharge for various oils and fats and includes notes addressing warmer climates, hydrogenated oils' declared slip‑melting points, variability of palm stearin grades, and ambient temperature exceptions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "TABLE 1 TEMPERATURES DURING STORAGE, TRANSPORT, LOADING AND DISCHARGE",
+      "summary": "Provides Table 1 listing minimum and maximum temperatures for storage/bulk shipments and loading/discharge for a range of oils and fats (e.g., castor, coconut, palm, tallow), including special entries for hydrogenated oils and tallow with voyage‑length distinctions.",
+      "categories": [
+        "analysis sampling",
+        "storage"
+      ],
+      "subcategories": [
+        "temperature table"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Notes",
+      "summary": "Notes that in warmer climates coconut and palm kernel loading/discharge temperatures may be adjusted (min 30 °C, max 39 °C or ambient), that hydrogenated oils should have declared slip‑melting points with voyage temperature maintained near that point and raised 10–15 °C before discharge, that palm stearin grades may require temperature adjustments, and that ambient temperatures may sometimes exceed table maxima.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "notes heading",
+        "climate note",
+        "hydrogenated oils note",
+        "palm stearin note",
+        "ambient temperature note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    }
+  ]
+}

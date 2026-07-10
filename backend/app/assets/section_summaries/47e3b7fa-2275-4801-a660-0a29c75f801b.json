@@ -1,0 +1,233 @@
+{
+  "doc_id": "47e3b7fa-2275-4801-a660-0a29c75f801b",
+  "title": "1. BACKGROUND",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. BACKGROUND",
+      "summary": "Describes aflatoxin B1 as a serious contaminant of animal feedingstuffs arising from preharvest and inadequate storage conditions, recommends preventive measures (good cropping practices, resistant varieties, approved pesticides, proper drying and storage), notes AFB1 is metabolized to AFM1 in milk (transfer ~0.17–3.3%) so feed residues should be minimized, and states there is no widespread government acceptance of decontamination treatments though ammoniation has limited regional authorization.",
+      "categories": [
+        "scope",
+        "risk management",
+        "storage",
+        "contaminants",
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "preharvest prevention",
+        "drying storage",
+        "residue limit",
+        "feed residue control",
+        "decontamination treatment",
+        "document note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "AFLATOXIN B1 IN RAW MATERIALS AND SUPPLEMENTAL FEEDINGSTUFFS FOR MILK PRODUCING ANIMALS",
+      "summary": "Identifies the Code CXC45-1997 on AFB1 in raw materials and supplemental feeds for milk-producing animals and notes limited/regional authorization of ammoniation for decontamination and that adding hydrated sodium calcium aluminosilicate (HSCAS) to contaminated feeds may reduce AFM1 in milk depending on initial AFB1 levels.",
+      "categories": [
+        "scope",
+        "other",
+        "processing"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code",
+        "detoxifying additives"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. RECOMMENDED PRACTICES",
+      "summary": "Presents recommended practices across crop production, harvest, storage, transport and feed production to prevent AFB1 (e.g., seedbed sanitation, resistant varieties, pest control, rapid drying, dry/ventilated storage, clean transport), requires appropriate sampling/testing (referencing FAO plans and adjusted frequency), and when AFB1 is detected recommends options such as restricting contaminated feed to a percentage of the daily ration to limit AFM1 residues or diverting highly contaminated feed to non-lactating animals.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Crop production",
+      "summary": "Recommends crop production measures to reduce AFB1 risk, including removing infected seed heads, soil testing and appropriate fertilization, use of fungal‑resistant seed varieties, sowing/harvesting to avoid heat/drought stress, integrated pest management with approved pesticides, good agronomic practices to reduce plant stress, minimizing mechanical damage, and even irrigation where appropriate.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1.1   Prepare seed bed for new crop by destroying or removing the seed heads or fruits (e.g. corn ears, peanuts, etc.) of aflatoxin susceptible crops.",
+      "summary": "Advocates preparing seed beds by destroying or removing seed heads or fruits of crops susceptible to aflatoxin.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "crop preparation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1.2   Utilize soil tests if possible to determine fertilizer needs and apply fertilizer and soil conditioners  to  assure  adequate  soil  pH  and  plant  nutrition  to  avoid  plant  stress, especially during seed development.",
+      "summary": "Recommends using soil tests to determine fertilizer and soil conditioner needs to ensure adequate pH and plant nutrition and thus avoid plant stress during seed development.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "soil management"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1.3   When  feasible,  use  seed  varieties  bred  for  fungal  resistance  and  field  tested  for resistance to Aspergillus flavus .",
+      "summary": "Advises using, when feasible, seed varieties bred and field-tested for resistance to Aspergillus flavus to reduce aflatoxin risk.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "seed selection"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1.4   As far  as  practicable,  sow  and  harvest  crops  at  times  which  will  avoid  high temperature and drought stress during the period of seed development/maturation.",
+      "summary": "Recommends sowing and harvesting crops, as far as practicable, to avoid periods of high temperature and drought stress during seed development and maturation.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "timing practices"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.1.5   Minimize  insect  damage  and  fungal  infection  by  the  proper  use  of  appropriate approved  insecticides  and  fungicides  and  other  appropriate  practices  within  an integrated pest management program.",
+      "summary": "Requires minimizing insect damage and fungal infection through proper use of appropriate approved insecticides and fungicides and other integrated pest management practices.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "pest management"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1.6   Use good agronomic practice, including measures which will reduce plant stress. Such measures  may  include:  avoidance  of  overcrowding  of  plants  by  sowing  at  the recommended row and intra-plant spacings for the species/varieties grown; maintenance  of  a  weed  free  environment  in  the  growing  crop  by  the  use  of appropriate approved herbicides and other suitable cultural practices; elimination of fungal vectors in the vicinity of the crop; and crop rotation.",
+      "summary": "Calls for good agronomic practices to reduce plant stress, including recommended spacing to avoid overcrowding, weed control using appropriate approved herbicides and cultural practices, elimination of nearby fungal vectors, and crop rotation.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "agronomic practices"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.1.7   Minimize  mechanical damage to crops during cultivation.",
+      "summary": "Advises minimizing mechanical damage to crops during cultivation to reduce susceptibility to contamination.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "mechanical damage"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.1.8   Irrigation is a valuable method of reducing plant stress in some growing situations. If irrigation  is  used  ensure  that  it  is  applied  evenly  and  individual  plants  have  an adequate supply of water.",
+      "summary": "States irrigation can reduce plant stress where appropriate and, if used, should be applied evenly to ensure each plant has an adequate water supply.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "irrigation practice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.2 Harvest",
+      "summary": "Recommends harvesting at full maturity unless doing so would expose the crop to extreme heat, rainfall or drought, avoiding mechanical damage, drying crops quickly to safe moisture levels (and immediately if harvested wet), avoiding prolonged piling of wet harvests, and protecting sun‑dried crops from rain to reduce fungal growth.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.2 Harvest crops at full maturity unless allowing the crop to continue to full maturity would subject it to extreme heat, rainfall or drought conditions.",
+      "summary": "States crops should be harvested at full maturity unless delaying maturity would subject them to extreme heat, rainfall or drought conditions.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "harvest maturity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

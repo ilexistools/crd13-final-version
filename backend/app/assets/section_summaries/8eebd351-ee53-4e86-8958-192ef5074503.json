@@ -1,0 +1,2033 @@
+{
+  "doc_id": "8eebd351-ee53-4e86-8958-192ef5074503",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "Heading only: introduces the Scope of the standard; no substantive provisions appear in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1.1 Food Additives Included in this Standard",
+      "summary": "Only food additives listed in this Standard are recognized as suitable for use in foods in conformance with the Standard, and inclusion requires a JECFA-assigned ADI or a JECFA determination of safety and an INS designation, with use in conformance considered technologically justified.",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "additives included heading",
+        "additives inclusion"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1.2 Foods in Which Additives May Be Used",
+      "summary": "This Standard sets conditions for the use of additives in all foods, makes the General Standard for Food Additives (GSFA) the single authoritative reference, and assigns commodity committees responsibility to appraise and justify technological need (with CCFA appraising non-standardized foods or cases lacking a commodity committee).",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "foods permitted heading",
+        "use conditions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1.3 Foods in Which Additives May Not Be Used",
+      "summary": "This Standard defines food categories or individual food items in which the use of food additives is unacceptable or should be restricted.",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "foods prohibited heading",
+        "restricted foods"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1.4 Maximum Use Levels for Food Additives",
+      "summary": "Maximum use levels for food additives are established to ensure additive intake from all uses does not exceed the ADI; levels are based on prior Codex provisions or government requests subject to methods verifying ADI compatibility, with Annex A and actual food consumption data suggested as evaluation tools.",
+      "categories": [
+        "additives",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "maximum levels heading",
+        "max level purpose",
+        "maximum level basis",
+        "assessment guidance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. DEFINITIONS",
+      "summary": "Provides definitions and related notes: 'food additive' is any intentionally added non-food substance that becomes a component of or affects food characteristics (excluding contaminants and substances added for nutrition), 'Acceptable Daily Intake (ADI)' is JECFA’s lifetime daily intake estimate without appreciable risk, and 'ADI Not Specified' applies to substances of very low toxicity judged by JECFA not to represent a health hazard at use/background levels, with references to JECFA databases and procedural footnotes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2. DEFINITIONS - a) Food additive means any substance not normally consumed as a food by itself and not normally used as a typical ingredient of the food, whether or not it has nutritive value, the intentional addition of which to food for a technological (including organoleptic) purpose in the manufacture, processing, preparation, treatment, packing, packaging, transport or holding of such food results, or may be reasonably expected to result (directly or indirectly), in it or its by-products becoming a component of or otherwise affecting the characteristics of such foods. The term does not include contaminants or substances added to food for maintaining or improving nutritional qualities.",
+      "summary": "Defines 'food additive' as any non‑typical food substance intentionally added for a technological (including organoleptic) purpose during manufacture, processing, preparation, treatment, packing, packaging, transport or holding that becomes a component of or affects the characteristics of the food, excluding contaminants and substances added solely to maintain or improve nutritional qualities.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "food additive definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## 3.3 Good Manufacturing Practice (GMP) 8",
+      "summary": "Requires that food additives be used under Good Manufacturing Practice (GMP): quantities limited to the lowest level necessary to achieve the effect; unintended additive components from manufacture/packaging reduced as far as reasonably possible; and additives must be appropriate food‑grade quality and handled like food ingredients.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "gmp heading",
+        "good manufacturing practice",
+        "minimum quantity",
+        "carryover reduction",
+        "food grade quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 3.4 Specifications for the Identity and Purity of Food Additives",
+      "summary": "States that food additives should conform to Codex/JECFA Specifications of Identity and Purity or, if absent, appropriate national/international specifications, and that safety requires conformity to complete specifications plus GMP in production, storage, transport and handling.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "specifications heading",
+        "identity purity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 4. CARRY-OVER OF FOOD ADDITIVES INTO FOODS",
+      "summary": "Introduces Section 4 on carry‑over of food additives into foods and indicates subsequent conditions and special conditions (Sections 4.1 and 4.2) that govern when additives may be present in a food other than by direct addition.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 4.1 Conditions Applying to Carry-Over of Food Additives from ingredients and raw materials into foods",
+      "summary": "Permits an additive to be present by carry‑over from an ingredient or raw material only if the additive is acceptable for use in those materials under this Standard, the amount in the ingredient does not exceed the Standard's maximum use level, and the final food does not contain the additive in greater quantity than would be introduced under proper technological conditions or manufacturing practice.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "carryover heading",
+        "carryover conditions",
+        "raw material acceptance",
+        "carryover limit",
+        "carryover restriction"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.2 Special conditions applying to the use of food additives not directly authorised in food ingredients and raw materials",
+      "summary": "Allows an additive to be used in or added to a raw material or ingredient only if that raw material/ingredient is used exclusively to prepare a food conforming to this Standard, including not exceeding any maximum level applicable to the food.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "special use heading",
+        "ingredient use condition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.3 Foods for Which the Carry-over of Food Additives is Unacceptable",
+      "summary": "Declares carry‑over of food additives unacceptable for certain infant and young child foods—specifically category 13.1 (infant formulae, follow‑up formulae, formulae for special medical purposes for infants) and 13.2 (complementary foods for infants and young children)—unless the additive is explicitly listed for those categories in Tables 1 and 2 of the Standard.",
+      "categories": [
+        "additives",
+        "food category system"
+      ],
+      "subcategories": [
+        "carryover prohibition heading",
+        "carryover prohibition",
+        "infant formula category",
+        "infant foods category"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5. FOOD CATEGORY SYSTEM 10",
+      "summary": "Explains the food category system as the hierarchical tool for assigning additive uses across all foodstuffs, based on marketed product descriptors, taking carry‑over into account so compound foods inherit uses from components, and serving to simplify reporting and construction of the Standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "GUIDELINES FOR THE DEVELOPMENT OF MAXIMUM LEVELS FOR THE USE OF FOOD ADDITIVES WITH NUMERICAL ACCEPTABLE DAILY INTAKES",
+      "summary": "Annex provides guidance to screen proposals for maximum additive use levels relative to physiological upper limits of daily food and drink consumption, and is not intended for allocating additive provisions or calculating precise additive intakes.",
+      "categories": [
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "annex guideline heading",
+        "screening guidance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "I. FOOD ADDITIVES - BASIC PRINCIPLES FOR CALCULATION OF USE LEVELS",
+      "summary": "Heading only: introduces 'I. FOOD ADDITIVES - BASIC PRINCIPLES FOR CALCULATION OF USE LEVELS' and the start of Guideline 1 without substantive text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "principles heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "Guideline 1",
+      "summary": "States that levels used in the Budget Method should be expressed on the same chemical basis as the substance on which the ADI was allocated (e.g. acid or its salts), and that for concentrates/powders intended for reconstitution the Budget calculation should be performed on the ready‑to‑eat product.",
+      "categories": [
+        "other",
+        "additives"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "budget method"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "II. ESTIMATION OF THE SAFETY ASPECTS OF USE LEVELS - FOOD ADDITIVES WITH NO NUMERICAL ADI",
+      "summary": "Heading only: introduces 'II. ESTIMATION OF THE SAFETY ASPECTS OF USE LEVELS - FOOD ADDITIVES WITH NO NUMERICAL ADI' and the topic 'Food Additives with an ADI of \"Not Specified\"' without further substantive detail in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "safety estimation heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Guideline 2",
+      "summary": "Explains that an additive allocated an ADI of 'not specified' could in principle be allowed for general use subject only to GMP, but clarifies that 'not specified' does not imply that unlimited intake is acceptable and reflects JECFA's judgment that total daily intake at necessary use levels and background does not represent a health hazard.",
+      "categories": [
+        "other",
+        "additives"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "adi status heading",
+        "adi not specified"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Guideline 3",
+      "summary": "Says that when JECFA finds a specific use acceptable despite not allocating an ADI, that additive should be authorized only under the specified conditions and that CCFA should request JECFA re‑evaluation if other uses are reported.",
+      "categories": [
+        "other",
+        "additives",
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "acceptable purpose",
+        "additive authorization"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "III. ESTIMATION OF THE SAFETY ASPECTS OF USE LEVELS - FOOD ADDITIVES WITH NUMERICAL ADI",
+      "summary": "Heading only: introduces 'III. ESTIMATION OF THE SAFETY ASPECTS OF USE LEVELS - FOOD ADDITIVES WITH NUMERICAL ADI' and the forthcoming Guideline 4 without substantive detail in this item.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "safety estimation heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Guideline 4",
+      "summary": "Requires allocation of fractions of the ADI between solid foods (FS) and beverages (FB) when an additive is proposed for both, suggests one‑half each as a starting approach but allows other fractions provided FS+FB does not exceed the ADI, and defines FS=1/FB=0 for solids only and FS=0/FB=1 for beverages only.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "adi fractions",
+        "adi allocation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "III(a)  FOOD ADDITIVE USES IN SOLID FOOD (FS)",
+      "summary": "Heading only: introduces 'III(a) FOOD ADDITIVE USES IN SOLID FOOD (FS)' and the following Guideline 5 without substantive text in this item.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "solid food use"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Guideline 5",
+      "summary": "States that proposed additive use levels below FS × ADI × 40 could be suitable for authorization in food in general.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "solid use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "Guideline 6",
+      "summary": "Allows proposed use levels below FS × ADI × 80 provided that daily consumption of foods containing the additive will usually not exceed half of the assumed maximum total solid food intake (i.e. 12.5 g/kg body weight/day).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "solid use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "Guideline 7",
+      "summary": "Allows proposed use levels below FS × ADI × 160 provided that daily consumption of foods containing the additive will usually not exceed one fourth of the assumed maximum total solid food intake (i.e. 6.25 g/kg body weight/day).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "solid use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "Guideline 8",
+      "summary": "Guideline for food additives: proposed use levels below FS × ADI × 320 may be accepted provided foods containing the additive will usually not be consumed at more than one eighth of the assumed maximum total food intake (i.e., 3.13 g/kg bw/day).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "solid use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Guideline 9",
+      "summary": "Guideline stating proposed additive levels above FS × ADI × 320 should only be accepted when calculations of potential intake from all uses (or more exact intake estimates, e.g., food consumption surveys) indicate that exceeding the ADI is unlikely.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "solid use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "III(b)  FOOD ADDITIVE USES IN BEVERAGES (FL)",
+      "summary": "Section heading for the beverage-specific food additive uses (III(b) FL) and introduction to Guideline 10; non-substantive by itself.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "beverage use"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Guideline 10",
+      "summary": "Guideline for beverages: proposed additive use levels below FL × ADI × 10 could be accepted for use in all beverages in general.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "beverage use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "Guideline 11",
+      "summary": "Guideline for beverages: proposed levels below FL × ADI × 20 could be accepted provided beverages containing the additive will usually not be consumed at more than half of the assumed maximum total beverage intake (i.e., 50 ml/kg bw/day).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "beverage use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "Guideline 12",
+      "summary": "Guideline for beverages: proposed levels below FL × ADI × 40 could be accepted provided beverages containing the additive will usually not be consumed at more than one fourth of the assumed maximum total beverage intake (i.e., 25 ml/kg bw/day).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "beverage use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Guideline 13",
+      "summary": "Guideline for beverages: proposed levels below FL × ADI × 80 could be accepted provided beverages containing the additive will usually not be consumed at more than one eighth of the assumed maximum total beverage intake (i.e., 12.5 ml/kg bw/day).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading",
+        "beverage use threshold"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "Guideline 14",
+      "summary": "Guideline stating additive levels above FL × ADI × 80 should only be accepted for products where calculations of potential intake show that exceeding the ADI is unlikely (example: strong alcoholic beverages).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline heading"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "Use Levels Above FL x ADI x 80",
+      "summary": "Same provision as Guideline 14: levels above FL × ADI × 80 should only be accepted where intake calculations indicate exceeding the ADI is unlikely (e.g., strong alcoholic beverages).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "beverage use threshold"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "PART I: Food Category System",
+      "summary": "Part I lists the Food Category System and enumerates dairy product categories and subcategories (01.0 series), including Fluid Milk and specific fluid milk types and flavoured fluid milk drinks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "05.0 Confectionery",
+      "summary": "Section heading for food category 05.0 Confectionery; non-substantive by itself.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "05.1 Cocoa products and chocolate products including imitations and chocolate substitutes",
+      "summary": "Category 05.1 lists cocoa and chocolate product subcategories (05.1.1–05.1.5), covering cocoa mixes (powders and syrups), cocoa-based spreads and fillings, cocoa/chocolate products, and imitation chocolate/substitutes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "05.1.1 Cocoa mixes (powders) and cocoa mass/cake",
+      "summary": "Food category label 05.1.1 identifying 'Cocoa mixes (powders) and cocoa mass/cake' as a specific subcategory.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "cocoa category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "05.1.2 Cocoa mixes (syrups)",
+      "summary": "Food category label 05.1.2 identifying 'Cocoa mixes (syrups)' as a specific subcategory.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "cocoa category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "05.1.3 Cocoa-based spreads, incl. fillings",
+      "summary": "Food category label 05.1.3 identifying 'Cocoa-based spreads, including fillings' as a specific subcategory.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "cocoa category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "05.1.4 Cocoa and chocolate products",
+      "summary": "Food category label 05.1.4 identifying 'Cocoa and chocolate products' as a specific subcategory.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "cocoa chocolate category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "05.1.5 Imitation chocolate, chocolate substitute products",
+      "summary": "Food category label 05.1.5 identifying 'Imitation chocolate, chocolate substitute products' as a specific subcategory.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "cocoa chocolate category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "05.2 Confectionery including hard and soft candy, nougats, etc. other than food categories 05.1, 05.3, and 05.4",
+      "summary": "Category 05.2 defines confectionery (excluding categories 05.1, 05.3, 05.4) and lists subcategories including hard candy, soft candy, and nougats/marzipans.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "05.2.1 Hard candy",
+      "summary": "Food category label 05.2.1 identifying 'Hard candy' as a specific confectionery subcategory.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "confectionery category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "05.2.2 Soft candy",
+      "summary": "Food category label 05.2.2 identifying 'Soft candy' as a specific confectionery subcategory.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "confectionery category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "05.2.3 Nougats and marzipans",
+      "summary": "Category heading only: food category 05.2.3 for nougats and marzipans (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "confectionery category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "05.3 Chewing gum",
+      "summary": "Category heading only: food category 05.3 for chewing gum (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chewing gum category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "05.4 Decorations (e.g. for fine bakery wares), toppings (non-fruit), and sweet sauces",
+      "summary": "Category heading only: food category 05.4 covering decorations (e.g., for fine bakery wares), non-fruit toppings, and sweet sauces (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "decorations toppings"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "06.0 Cereals and cereal products, derived from cereal grains, from roots and tubers, pulses, legumes and pith or soft core of palm tree, excluding bakery wares of food category 07.0",
+      "summary": "Heading listing food category 06.0 covering cereals and cereal products derived from cereal grains, roots and tubers, pulses, legumes and palm pith/soft core, explicitly excluding bakery wares of food category 07.0 and noting subcategories 06.1 and 06.2 with further subdivisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "06.1 Whole, broken, or flaked grain, including rice",
+      "summary": "Category heading only: food category 06.1 for whole, broken, or flaked grain, including rice (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "grain category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "06.2 Flours and starches (including soybean powder)",
+      "summary": "Heading for food category 06.2 (flours and starches, including soybean powder) which is subdivided into 06.2.1 Flours and 06.2.2 Starches (no substantive requirements provided).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "06.2.1 Flours",
+      "summary": "Category heading only: food category 06.2.1 for flours (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "flour category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "06.2.2 Starches",
+      "summary": "Category heading only: food category 06.2.2 for starches (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "starch category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "04.2.1.3 Peeled, cut or shredded fresh vegetables, (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds and nuts and seeds",
+      "summary": "Category heading only: food category 04.2.1.3 for peeled, cut or shredded fresh vegetables (including mushrooms, fungi, roots, tubers, pulses, legumes, aloe vera), seaweeds, and nuts and seeds (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "04.2.2.1 Frozen vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds and nuts and seeds",
+      "summary": "Category heading only: food category 04.2.2.1 for frozen vegetables (including mushrooms, fungi, roots, tubers, pulses, legumes, aloe vera), seaweeds, and nuts and seeds (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "04.2.2.2 Dried vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+      "summary": "Category heading only: food category 04.2.2.2 for dried vegetables (including mushrooms, fungi, roots, tubers, pulses, legumes, aloe vera), seaweeds, and nuts and seeds (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "04.2.2.3 Vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), and seaweeds in vinegar, oil, brine, or soybean sauce",
+      "summary": "Category heading only: food category 04.2.2.3 for vegetables (including mushrooms, fungi, roots, tubers, pulses, legumes, aloe vera) and seaweeds preserved in vinegar, oil, brine, or soybean sauce (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "04.2.2.4 Canned  or  bottled  (pasteurized)  or  retort  pouch  vegetables  (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), and seaweeds",
+      "summary": "Category heading only: food category 04.2.2.4 for canned, bottled (pasteurized), or retort pouch vegetables (including mushrooms, fungi, roots, tubers, pulses, legumes, aloe vera) and seaweeds (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "04.2.2.5 Vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweed, and nut and seed purees and spreads (e.g. peanut butter)",
+      "summary": "Category heading only: food category 04.2.2.5 for vegetable, seaweed, and nut/seed purees and spreads (e.g., peanut butter) (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "04.2.2.6 Vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweed, and nut and seed pulps and preparations (e.g. vegetable desserts and sauces, candied vegetables) other than food category 04.2.2.5",
+      "summary": "Category heading only: food category 04.2.2.6 for vegetable, seaweed, and nut/seed pulps and preparations (e.g., vegetable desserts, sauces, candied vegetables) other than category 04.2.2.5 (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "04.2.2.7 Fermented  vegetable  (including  mushrooms  and  fungi,  roots  and  tubers,  pulses  and  legumes,  and  aloe  vera)  and  seaweed  products,  excluding fermented  soybean  products  of  food  categories  06.8.6,  06.8.7,  12.9.1, 12.9.2.1 and 12.9.2.3",
+      "summary": "Category heading only: food category 04.2.2.7 for fermented vegetable and seaweed products (including mushrooms, fungi, roots, tubers, pulses, legumes, aloe vera) with an explicit exclusion of fermented soybean products covered by food categories 06.8.6, 06.8.7, 12.9.1, 12.9.2.1 and 12.9.2.3 (no additional requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "04.2.2.8 Cooked  or  fried  vegetables  (including  mushrooms and fungi,  roots  and  tubers,  pulses and  legumes,  and  aloe vera), and seaweeds",
+      "summary": "Category heading only: food category 04.2.2.8 for cooked or fried vegetables (including mushrooms, fungi, roots, tubers, pulses, legumes, aloe vera) and seaweeds (no substantive requirements provided).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "vegetable category"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "## ERYTHROSINE",
+      "summary": "Additive specification for Erythrosine (INS 127) as a colour: lists maximum permitted levels by food category including candied fruit (04.1.2.7) 200 mg/kg, fermented vegetable/seaweed products (04.2.2.7, with specified exclusions) 30 mg/kg, chewing gum (05.3) 50 mg/kg, and decorations/toppings/sweet sauces (05.4) 100 mg/kg, with adoption years and notes shown in the table.",
+      "categories": [
+        "additives",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "additive heading",
+        "ins number",
+        "functional class",
+        "additive name",
+        "food category table",
+        "maximum level"
+      ],
+      "page_range": {
+        "start_page": 154,
+        "end_page": 154
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "## ETHYL HYDROXYETHYL CELLULOSE",
+      "summary": "Additive specification for Ethyl hydroxyethyl cellulose (INS 467) as an emulsifier/stabilizer/thickener: permitted at GMP in fermented milks not heat‑treated after fermentation (01.2.1.1) and in fermented milks heat‑treated after fermentation (01.2.1.2), with associated notes and adoption year 2024.",
+      "categories": [
+        "additives",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "additive heading",
+        "functional class",
+        "food category table",
+        "maximum level"
+      ],
+      "page_range": {
+        "start_page": 154,
+        "end_page": 154
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "## ETHYL MALTOL",
+      "summary": "Additive specification for Ethyl maltol (INS 637) as a flavour enhancer: lists permitted uses and limits including flavoured fluid milk drinks (01.1.4) at GMP, dairy‑based desserts (01.7) 200 mg/kg, edible ices (03.0) 200 mg/kg, confectionery (05.2) 1000 mg/kg, and chewing gum (05.3) 1000 mg/kg, with notes and adoption years shown in the table.",
+      "categories": [
+        "additives",
+        "food category system"
+      ],
+      "subcategories": [
+        "additive heading",
+        "ins number",
+        "functional class",
+        "additive name",
+        "food category table",
+        "table separator",
+        "food category entry"
+      ],
+      "page_range": {
+        "start_page": 154,
+        "end_page": 154
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "## ETHYLENE DIAMINE TETRA ACETATES",
+      "summary": "Table and heading identifying ethylene diamine tetraacetates (INS 385 calcium disodium EDTA and INS 386 disodium EDTA) as antioxidants/colour retention agents/preservatives/sequestrants with a Codex Stan 192-1995 reference and a food-by-food table of maximum permitted levels (mg/kg) with notes and year of adoption (examples include fat spreads 100 mg/kg, dried fruit 265 mg/kg, jams 130 mg/kg).",
+      "categories": [
+        "additives",
+        "other",
+        "documentation",
+        "food category system"
+      ],
+      "subcategories": [
+        "additive group heading",
+        "additive listing",
+        "table separator",
+        "standard reference",
+        "table title",
+        "food category table",
+        "food category entry",
+        "page number",
+        "additives heading",
+        "max level"
+      ],
+      "page_range": {
+        "start_page": 154,
+        "end_page": 156
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "ETHYLENE DIAMINE TETRA ACETATES",
+      "summary": "Heading and initial identification table for ethylene diamine tetraacetates (INS 385 and 386) showing their functional classes and citing Codex Stan 192-1995; this section contains identification/reference material but no detailed food-specific maximums.",
+      "categories": [
+        "additives",
+        "other"
+      ],
+      "subcategories": [
+        "additives heading",
+        "additive identity",
+        "table separator",
+        "document code",
+        "table title"
+      ],
+      "page_range": {
+        "start_page": 154,
+        "end_page": 155
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "ETHYLENE DIAMINE TETRA ACETATES",
+      "summary": "Continued table for ethylene diamine tetraacetates listing specific food categories with their maximum permitted levels (mg/kg), notes and year adopted under Codex Stan 192-1995 (e.g., cooked fish 50 mg/kg; fully preserved fish 340 mg/kg; table is long and truncated in the source).",
+      "categories": [
+        "additives",
+        "other",
+        "food category system"
+      ],
+      "subcategories": [
+        "additives heading",
+        "additive identity",
+        "table separator",
+        "document code",
+        "table title",
+        "food category table",
+        "max level",
+        "food category entry",
+        "page number",
+        "additive heading",
+        "table header"
+      ],
+      "page_range": {
+        "start_page": 154,
+        "end_page": 156
+      }
+    },
+    {
+      "section_id": 70,
+      "order": 69,
+      "section": "FAST GREEN FCF",
+      "summary": "Table specifying maximum permitted levels (mg/kg or GMP) for the colour Fast Green FCF across numerous food categories (examples: flavoured fluid milk drinks 100 mg/kg, jams 400 mg/kg, chewing gum 300 mg/kg), with notes and year adopted under Codex Stan 192-1995.",
+      "categories": [
+        "food category system",
+        "other"
+      ],
+      "subcategories": [
+        "additive heading",
+        "page number",
+        "functional class",
+        "additive name",
+        "table header",
+        "table separator",
+        "food category entry",
+        "table heading"
+      ],
+      "page_range": {
+        "start_page": 156,
+        "end_page": 157
+      }
+    },
+    {
+      "section_id": 71,
+      "order": 70,
+      "section": "POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID",
+      "summary": "Table listing polyglycerol esters of interesterified ricinoleic acid as an emulsifier and giving maximum permitted levels by food category (e.g., milk and cream powder analogues 5000 mg/kg, processed cheese 500 mg/kg, fat emulsions 10000 mg/kg) with notes and adoption years.",
+      "categories": [
+        "other",
+        "food category system"
+      ],
+      "subcategories": [
+        "additive heading",
+        "page number",
+        "ins code",
+        "functional class",
+        "additive name",
+        "table heading",
+        "table separator",
+        "food category entry"
+      ],
+      "page_range": {
+        "start_page": 214,
+        "end_page": 214
+      }
+    },
+    {
+      "section_id": 72,
+      "order": 71,
+      "section": "POLYOXYETHYLENE STEARATES",
+      "summary": "Identifies polyoxyethylene stearates (INS 430 and 431) as emulsifiers and provides maximum permitted levels by food category (e.g., chewing gum 200 mg/kg, pre-cooked pastas 5000 mg/kg, bread and fine bakery wares 3000 mg/kg) with notes and year adopted.",
+      "categories": [
+        "other",
+        "food category system"
+      ],
+      "subcategories": [
+        "additive heading",
+        "additive entry",
+        "table separator",
+        "table heading",
+        "food category entry"
+      ],
+      "page_range": {
+        "start_page": 214,
+        "end_page": 215
+      }
+    },
+    {
+      "section_id": 73,
+      "order": 72,
+      "section": "01.1.4 Flavoured fluid milk drinks",
+      "summary": "Non‑substantive: a food category heading entry for 01.1.4 Flavoured Fluid Milk Drinks (no regulatory limits or obligations in this line).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category entry"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 74,
+      "order": 73,
+      "section": "01.3.2 Beverage whiteners",
+      "summary": "Non‑substantive: a food category heading entry for 01.3.2 Beverage whiteners (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 75,
+      "order": 74,
+      "section": "01.4.1 Pasteurized cream (plain)",
+      "summary": "Non‑substantive: a food category heading entry for 01.4.1 Pasteurized cream (plain) (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 76,
+      "order": 75,
+      "section": "01.4.2 Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
+      "summary": "Non‑substantive: a food category heading entry for 01.4.2 Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain) (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 77,
+      "order": 76,
+      "section": "01.4.3 Clotted cream (plain)",
+      "summary": "Non‑substantive: a food category heading entry for 01.4.3 Clotted cream (plain) (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 78,
+      "order": 77,
+      "section": "01.4.4 Cream analogues",
+      "summary": "Non‑substantive: a food category heading entry for 01.4.4 Cream analogues (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 79,
+      "order": 78,
+      "section": "01.5.2 Milk and cream powder analogues",
+      "summary": "Non‑substantive: a food category heading entry (labelled 01.5.2) for milk and cream powder analogues; the actual listed text references 01.5.1 milk powder and cream powder (plain) rather than substantive limits.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 80,
+      "order": 79,
+      "section": "01.6.1 Unripened cheese",
+      "summary": "Non‑substantive: a food category heading entry for 01.6.1 Unripened cheese (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 81,
+      "order": 80,
+      "section": "01.7 Dairy-based desserts (e.g. pudding, fruit or flavoured yoghurt)",
+      "summary": "Non‑substantive: a food category heading entry for 01.7 Dairy-based desserts (e.g. pudding, fruit or flavoured yoghurt) (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 82,
+      "order": 81,
+      "section": "02.1.2 Vegetable oils and fats",
+      "summary": "Non‑substantive: a food category heading entry indicating 02.1.2 Vegetable oils and fats under the broader 02.1 fats and oils category (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 83,
+      "order": 82,
+      "section": "02.1.3 Lard, tallow, fish oil, and other animal fats",
+      "summary": "Non‑substantive: a food category heading entry for 02.1.3 Lard, tallow, fish oil, and other animal fats (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 84,
+      "order": 83,
+      "section": "02.2.2 Fat spreads, dairy fat spreads and blended spreads",
+      "summary": "Non‑substantive: a food category heading entry for 02.2.2 Fat spreads, dairy fat spreads and blended spreads (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 85,
+      "order": 84,
+      "section": "02.3 Fat emulsions mainly of type oil-in-water, including mixed and/or flavoured products based on fat emulsions",
+      "summary": "Non‑substantive: a food category heading entry for 02.3 Fat emulsions mainly of type oil‑in‑water, including mixed and/or flavoured products based on fat emulsions (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 86,
+      "order": 85,
+      "section": "02.4 Fat-based desserts excluding dairy-based dessert products of food category 01.7",
+      "summary": "Non‑substantive: a food category heading entry for 02.4 Fat‑based desserts excluding dairy‑based dessert products of food category 01.7 (no substantive regulatory detail).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 87,
+      "order": 86,
+      "section": "03.0 Edible ices, including sherbet and sorbet",
+      "summary": "Heading only: food category 03.0 for edible ices (including sherbet and sorbet); no substantive limits or requirements provided in this section.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 88,
+      "order": 87,
+      "section": "04.1.2.8 Fruit preparations, including pulp, purees, fruit toppings and coconut milk",
+      "summary": "Heading only: food category 04.1.2.8 for fruit preparations (including pulp, purees, fruit toppings and coconut milk); no substantive limits or requirements provided in this section.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 89,
+      "order": 88,
+      "section": "04.1.2.9 Fruit-based desserts, including fruit-flavoured water-based",
+      "summary": "Heading only: food category 04.1.2.9 for fruit-based desserts (including fruit‑flavoured water‑based desserts); no substantive limits or requirements provided in this section.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 90,
+      "order": 89,
+      "section": "PONCEAU 4R (COCHINEAL RED A)",
+      "summary": "Table of maximum permitted levels for the colour additive Ponceau 4R (Cochineal Red A, INS 124) across numerous food categories, listing specific mg/kg limits, notes and year of adoption (examples include 150 mg/kg for flavoured fluid milk drinks, 50 mg/kg for edible ices and many fruit preparations, with limits ranging by category).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 218,
+        "end_page": 218
+      }
+    },
+    {
+      "section_id": 91,
+      "order": 90,
+      "section": "124 INS Colour Functional Class: Ponceau 4R (Cochineal red A)",
+      "summary": "Duplicate table showing Ponceau 4R (INS 124) as a colour additive with specified maximum levels by food category, including limits (e.g., 150 mg/kg for certain dairy desserts, 50 mg/kg for edible ices and many fruit products) plus notes and adoption years.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 218,
+        "end_page": 218
+      }
+    },
+    {
+      "section_id": 92,
+      "order": 91,
+      "section": "F\u0000e9d\u0000e9ration",
+      "summary": "Contains a single table row listing food category 06.5 (cereal and starch based desserts, e.g. rice pudding, tapioca pudding) with a limit of 50 mg/kg and year adopted 2008; no heading or additive name is given in this row.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "food category"
+      ],
+      "page_range": {
+        "start_page": 218,
+        "end_page": 218
+      }
+    },
+    {
+      "section_id": 93,
+      "order": 92,
+      "section": "POTASSIUM 5'-INOSINATE",
+      "summary": "Defines Potassium 5'-inosinate (INS 632) as a flavour enhancer and permits its use at GMP in salt substitutes (food category 12.1.2), with adoption year 2015.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additive heading",
+        "additive id",
+        "additive code",
+        "additive name",
+        "functional class",
+        "food category table",
+        "table separator",
+        "permitted levels"
+      ],
+      "page_range": {
+        "start_page": 220,
+        "end_page": 220
+      }
+    },
+    {
+      "section_id": 94,
+      "order": 93,
+      "section": "POTASSIUM ACETATE",
+      "summary": "Lists Potassium acetate (INS 261(i)) as an acidity regulator and preservative and permits its use at GMP in specified fermented milks (01.2.1.2) and in complementary foods for infants and young children (13.2), with adoption years 2024 and 2023 respectively.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additive heading",
+        "additive code",
+        "functional class",
+        "additive name",
+        "food category table",
+        "table separator",
+        "permitted levels"
+      ],
+      "page_range": {
+        "start_page": 220,
+        "end_page": 220
+      }
+    },
+    {
+      "section_id": 95,
+      "order": 94,
+      "section": "POTASSIUM ALGINATE",
+      "summary": "Specifies potassium alginate (INS 402) with multiple functional classes (bulking agent, emulsifier, gelling agent, stabilizer, etc.) and permits its use at GMP across numerous food categories (e.g., fermented milks, creams, dried pastas, various frozen fish products, sugars and syrups) with accompanying notes and adoption years.",
+      "categories": [
+        "additives",
+        "food category system"
+      ],
+      "subcategories": [
+        "additive heading",
+        "additive code",
+        "functional class",
+        "additive name",
+        "food category table",
+        "table separator",
+        "food category reference"
+      ],
+      "page_range": {
+        "start_page": 220,
+        "end_page": 220
+      }
+    },
+    {
+      "section_id": 96,
+      "order": 95,
+      "section": "POTASSIUM CARBONATE",
+      "summary": "Additive heading for Potassium carbonate (INS 501(i)) identified as an acidity regulator and stabilizer, but the table of permitted food categories and levels is not populated in this section.",
+      "categories": [
+        "additives",
+        "food category system"
+      ],
+      "subcategories": [
+        "additive heading",
+        "additive identity",
+        "functional class",
+        "food category table"
+      ],
+      "page_range": {
+        "start_page": 220,
+        "end_page": 220
+      }
+    },
+    {
+      "section_id": 97,
+      "order": 96,
+      "section": "12.9.1 Fermented soybean paste (e.g., miso)",
+      "summary": "For food category 12.9.1 (fermented soybean paste, e.g., miso) this table permits sorbates (INS 200, 202, 203) up to 1000 mg/kg, adopted 2010 (note 42).",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "food category heading",
+        "food category table",
+        "additive limit"
+      ],
+      "page_range": {
+        "start_page": 473,
+        "end_page": 473
+      }
+    },
+    {
+      "section_id": 98,
+      "order": 97,
+      "section": "12.9.2 Soybean sauce",
+      "summary": "For food category 12.9.2 (soybean sauce) this table permits benzoates (INS 210–213) up to 1000 mg/kg, adopted 2024 (note 13).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 473,
+        "end_page": 473
+      }
+    },
+    {
+      "section_id": 99,
+      "order": 98,
+      "section": "12.9.2.1 Fermented soybean sauce",
+      "summary": "For fermented soybean sauce (12.9.2.1) lists permitted additives with specific maximum levels: Caramel III (150c) 20,000 mg/kg, Caramel IV (150d) 60,000 mg/kg, saccharins 500 mg/kg, sorbates 1000 mg/kg, and steviol glycosides 30 mg/kg, with adoption years and notes given.",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "food category heading",
+        "food category table",
+        "additive limit"
+      ],
+      "page_range": {
+        "start_page": 473,
+        "end_page": 473
+      }
+    },
+    {
+      "section_id": 100,
+      "order": 99,
+      "section": "12.9.2.2 Non-fermented soybean sauce",
+      "summary": "For non‑fermented soybean sauce (12.9.2.2) permits Caramel III (150c) up to 1500 mg/kg and steviol glycosides up to 165 mg/kg, with adoption years and notes referenced.",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "food category heading",
+        "food category table",
+        "additive limit"
+      ],
+      "page_range": {
+        "start_page": 473,
+        "end_page": 473
+      }
+    },
+    {
+      "section_id": 101,
+      "order": 100,
+      "section": "12.9.2.3 Other soybean sauces",
+      "summary": "For other soybean sauces (12.9.2.3) lists permitted additives and limits including Caramel III 20,000 mg/kg, sorbates 1000 mg/kg, and steviol glycosides 165 mg/kg, with adoption years and notes.",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "food category heading",
+        "food category table",
+        "additive limit"
+      ],
+      "page_range": {
+        "start_page": 473,
+        "end_page": 473
+      }
+    },
+    {
+      "section_id": 102,
+      "order": 101,
+      "section": "Food Category No.",
+      "summary": "Heading only: introduces food category 13.1.1 for infant formulae; no additive specifics are provided in this short section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 473,
+        "end_page": 473
+      }
+    },
+    {
+      "section_id": 103,
+      "order": 102,
+      "section": "13.1.1 Infant formulae",
+      "summary": "Lists permitted additives and maximum levels for infant formulae (food category 13.1.1), including examples such as acetylated distarch phosphate 5000 mg/kg, ascorbyl esters 10 mg/kg, calcium hydroxide 2000 mg/kg, carob bean gum 1000 mg/kg, carrageenan 300 mg/kg, and other gums and acids, with adoption years and notes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 473,
+        "end_page": 474
+      }
+    },
+    {
+      "section_id": 104,
+      "order": 103,
+      "section": "13.1.1 Infant formulae",
+      "summary": "Continues the infant formulae (13.1.1) additives table, listing additional permitted substances and limits such as hydroxypropyl starch 5000 mg/kg, lactic acid (GMP), lecithin 5000 mg/kg, mono‑ and di‑glycerides 4000 mg/kg, nitrogen (GMP), phosphated distarch phosphate 5000 mg/kg, and phosphates (450 mg/kg), with adoption years and notes.",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "food category heading",
+        "additives table",
+        "table separator",
+        "permitted additive"
+      ],
+      "page_range": {
+        "start_page": 474,
+        "end_page": 474
+      }
+    },
+    {
+      "section_id": 105,
+      "order": 104,
+      "section": "13.1.2 Food Category No. 13.1.2",
+      "summary": "Introduces food category 13.1.2 (follow‑up formulae) and lists permitted additives and maximum levels, for example acetylated distarch adipate and acetylated distarch phosphate 5000 mg/kg, ascorbic acid 50 mg/kg, ascorbyl esters 50 mg/kg, and calcium ascorbate 50 mg/kg, with notes and adoption years.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 474,
+        "end_page": 474
+      }
+    },
+    {
+      "section_id": 106,
+      "order": 105,
+      "section": "Follow-up formulae",
+      "summary": "Table for follow‑up formulae (food category 13.1.2) listing permitted additives and limits (e.g., acetylated distarch adipate 5000 mg/kg, acetylated distarch phosphate 5000 mg/kg, ascorbic acid 50 mg/kg, ascorbyl esters 50 mg/kg, calcium ascorbate 50 mg/kg) with adoption years and notes.",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "food category heading",
+        "additives table",
+        "table separator",
+        "permitted additive"
+      ],
+      "page_range": {
+        "start_page": 474,
+        "end_page": 474
+      }
+    },
+    {
+      "section_id": 107,
+      "order": 106,
+      "section": "13.2 Complementary foods for infants and young children",
+      "summary": "Table of permitted food additives for Food Category No. 13.2 (complementary foods for infants and young children) listing additive names, INS numbers, year adopted, maximum levels (mg/kg or GMP) and associated notes/footnotes.",
+      "categories": [
+        "food category system",
+        "additives"
+      ],
+      "subcategories": [
+        "food category heading",
+        "additives table",
+        "table separator",
+        "permitted additive",
+        "additive listing",
+        "additive heading"
+      ],
+      "page_range": {
+        "start_page": 477,
+        "end_page": 478
+      }
+    },
+    {
+      "section_id": 108,
+      "order": 107,
+      "section": "Note   610",
+      "summary": "Non‑substantive table heading labelled 'Table Two'.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "table heading"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 109,
+      "order": 108,
+      "section": "Note   611",
+      "summary": "Use‑restriction note: excepted for use as a stabilizer in products conforming to the Standard for Cream and Prepared Creams (CXS 288‑1976).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 110,
+      "order": 109,
+      "section": "Note   612",
+      "summary": "Use‑restriction note: excepted for use of sodium thiosulfate (INS 539) as a sequestrant in French fried potatoes conforming to the Standard for Quick Frozen Vegetables (CXS 320‑2015).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 111,
+      "order": 110,
+      "section": "Note   613",
+      "summary": "Use‑restriction note: excepted for use only in Seasoned Laver Products conforming to the Regional Standard for Laver Products (CXS 323R‑2017).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 112,
+      "order": 111,
+      "section": "Note   614",
+      "summary": "Use‑exception: permits use in products conforming to the Standard for Cream and Prepared Creams (CXS 288‑1976) as a stabilizer at 5000 mg/kg.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 113,
+      "order": 112,
+      "section": "Note   615",
+      "summary": "Use‑exception listing numerous phosphate additives (INS 339–345, 450–452, 451, 542, etc.) for use in products conforming to the Standard for Creams and Prepared Creams (CXS 288‑1976) as stabilizers or thickeners.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 114,
+      "order": 113,
+      "section": "Note   616",
+      "summary": "Use‑restriction: for use only in products conforming to the Standard for Fermented Milks (CXS 243‑2003) as an emulsifier in flavoured fermented milks and flavoured drinks based on fermented milks, whether heat treated after fermentation or not.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 115,
+      "order": 114,
+      "section": "Note   617",
+      "summary": "Use‑restriction: for use only in products conforming to the Standard for Cream and Prepared Creams (CXS 288‑1976) as a stabilizer or thickener.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 116,
+      "order": 115,
+      "section": "Note   618",
+      "summary": "Use‑exception: excepted for use in products conforming to the Standard for Fermented Milks (CXS 243‑2003) at 1000 mg/kg, and indicates that combination rules apply for acesulfame potassium (INS 950) and aspartame‑acesulfame (INS 962).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 117,
+      "order": 116,
+      "section": "Note   619",
+      "summary": "Use‑restriction: for use only in products conforming to the Standard for Cream and Prepared Creams (CXS 288‑1976) as an emulsifier.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 118,
+      "order": 117,
+      "section": "Note   620",
+      "summary": "Use‑restriction: for use only in flavoured products conforming to the Standard for Fermented Milks (CXS 243‑2003) as a stabilizer or thickener.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 119,
+      "order": 118,
+      "section": "Note   621",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 120,
+      "order": 119,
+      "section": "Note   622",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 529,
+        "end_page": 529
+      }
+    },
+    {
+      "section_id": 121,
+      "order": 120,
+      "section": "Note   623",
+      "summary": "Use‑exception: excepted for use in products conforming to the Standard for Fermented Milks (CXS 243‑2003) as a stabilizer or thickener.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "use note"
+      ],
+      "page_range": {
+        "start_page": 530,
+        "end_page": 530
+      }
+    }
+  ]
+}

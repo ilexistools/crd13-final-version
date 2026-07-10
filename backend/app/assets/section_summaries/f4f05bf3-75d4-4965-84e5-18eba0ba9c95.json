@@ -1,0 +1,347 @@
+{
+  "doc_id": "f4f05bf3-75d4-4965-84e5-18eba0ba9c95",
+  "title": "STANDARD FOR COOKED CURED HAM CXS 96-1981 Adopted in 1981. Revised in 1991, 2014, 2015. Amended in 2019, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR COOKED CURED HAM CXS 96-1981 Adopted in 1981. Revised in 1991, 2014, 2015. Amended in 2019, 2022.",
+      "summary": "Document title with adoption, revision and amendment dates for the Standard for Cooked Cured Ham; not a substantive regulatory provision.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "standard heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2022 Amendment",
+      "summary": "Records a 2022 amendment replacing previous text on labelling of non-retail containers and directs that such labelling should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "amendment table",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1 SCOPE",
+      "summary": "Applies to products designated \"Cooked Ham\" packaged in any suitable packaging material and excludes cooked ham products with compositional characteristics different from those specified, which must carry a qualifying statement describing their true nature so as not to mislead or cause confusion with products covered by this Standard.",
+      "categories": [
+        "scope",
+        "labelling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "qualifying statement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2 DESCRIPTION",
+      "summary": "Specifies the product is made from the pig hind leg (bones, detached cartilage, tendons and ligaments removed; skin and fat optional), cured and optionally smoked, spiced and/or flavoured; the heat treatment, cure and packaging must be sufficient to prevent public health hazards and keep the product wholesome under storage, transport and sale.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "description heading",
+        "raw material description",
+        "curing and smoking",
+        "heat treatment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies essential ingredients (uncured ham and brine with water, food-grade salt and sodium or potassium nitrite), lists permitted optional ingredients, requires raw materials be suitable for human consumption and free from objectionable odours/flavours, and requires the final product to be clean, substantially free from staining/ container contamination, uniformly and thoroughly cured and capable of being sliced.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Essential Ingredients",
+      "summary": "Specifies essential ingredients as uncured ham and a brine consisting of water, food-grade salt and sodium or potassium nitrite.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "essential ingredient",
+        "brine composition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Optional Ingredients",
+      "summary": "Permits optional ingredients including sucrose, invert sugar, dextrose, lactose, maltose, glucose syrup (including corn syrup), honey, spices/seasonings/condiments, water-soluble aromatic hydrolyzed protein and food-grade gelatine.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients",
+        "sweeteners list",
+        "seasonings list",
+        "protein ingredient",
+        "gelatine ingredient"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.3 Essential Quality Factors",
+      "summary": "Requires ingredients suitable for human consumption and free from objectionable odours/flavours, and requires the final product to be clean, substantially free from staining and container contamination, uniformly and thoroughly cured and capable of being sliced.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.3.1 Raw material",
+      "summary": "Requires that ingredients (raw materials) be of a quality suitable for human consumption and free from objectionable odours and flavours.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "raw material heading",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.3.2 Final product",
+      "summary": "Requires the final product to be clean, substantially free from staining and contamination from the container, uniformly and thoroughly cured, and capable of being sliced.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "final product heading",
+        "final product quality"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.4 Meat Content",
+      "summary": "Specifies meat-protein content targets: an average percentage meat-protein on a fat-free basis > 18.0% with an absolute minimum of 16.5%, and for canned products the meat-protein is calculated on the total content of the can and corrected for gelatine if added.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "meat content heading",
+        "meat protein minimum",
+        "absolute minimum",
+        "meat protein calculation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4 FOOD ADDITIVES",
+      "summary": "Permits preservatives and humectants in accordance with Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for food category 08.2.2 and only certain Table 3 additives as indicated, requires flavourings be used consistently with the Guidelines for the Use of Flavourings (CXG 66-2008), and applies the GSFA Section 4.1 conditions on carry-over of additives.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "flavouring use",
+        "carry-over conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5. CONTAMINANTS",
+      "summary": "Products must comply with the Maximum Levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex maximum residue limits for pesticides and/or veterinary drugs.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum levels",
+        "residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with relevant Codex hygiene texts (General Principles of Food Hygiene, Code of Hygienic Practice for Meat, etc.) and requires compliance with any microbiological criteria established under the Codex Principles and Guidelines for Microbiological Criteria (CXG 21-1997).",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7. LABELLING",
+      "summary": "Sets specific labelling rules supplementing the General Standard for Pre-packaged Foods: requires the name \"Cooked Ham\" with specified designations (e.g. \"with skin\", \"in/with natural juice\", hydrocolloid additions, \"smoked\"), requires a truthful preparation/processing declaration if omission would mislead, prescribes date-marking/storage instructions (see 7.2) and directs non-retail container labelling to CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.1 The Name of the Food",
+      "summary": "Requires the product name on the label to be \"Cooked Ham\" and, as appropriate, to include qualifiers such as \"with skin\", \"in/with natural juice\", \"X added\" for gelatine/agar/alginates/carrageenan, \"smoked\" or \"smoking agent added\", and mandates that any descriptive declaration of method of preparation/processing/presentation that would otherwise mislead must appear simultaneously and visibly with the product name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food",
+        "product name declaration",
+        "product designation",
+        "misleading description"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.2 Date Marking and Storage Instructions",
+      "summary": "Date-marking rules: shelf-stable products must declare the date of minimum durability by year; products not shelf-stable (expected to keep less than 18 months) packaged ready for retail or catering must show day, month and year; non-shelf-stable products packaged for non-retail distribution must include adequate storage and distribution instructions.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking",
+        "minimum durability",
+        "storage instructions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.3 Labelling of Non-Retail Containers",
+      "summary": "States that labelling of non-retail containers should comply with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8. METHODS OF ANALYSIS",
+      "summary": "Requires use of the Recommended Methods of Analysis and Sampling (CXS 234-1999) for checking compliance with this Standard, and includes a specific analytical correction (see 8.1) for added gelatine.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "8.1 Correction for Added Gelatine",
+      "summary": "Where the amount of added gelatine is unknown, instructs that 0.5% protein shall be deducted from the percentage protein expressed on a fat‑free basis.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "protein correction"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

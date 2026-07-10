@@ -1,0 +1,1124 @@
+{
+  "doc_id": "11240002-001e-4508-b281-4223bf6903af",
+  "title": "STANDARD FOR LIVE AND RAW BIVALVE MOLLUSCS CXS 292-2008",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR LIVE AND RAW BIVALVE MOLLUSCS CXS 292-2008",
+      "summary": "Document title/scope heading only: Standard for Live and Raw Bivalve Molluscs (CXS 292-2008).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 2008. Amendment: 2013. Revision: 2014 and 2015.",
+      "summary": "Document history note listing adoption in 2008, amendment in 2013 and revisions in 2014 and 2015.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Defines scope applying to live and raw bivalve molluscs (including shucked, frozen and/or processed products that retain the sensory characteristics of live bivalves) marketed chilled or frozen and intended for direct consumption or further processing, excludes scallops when only the adductor muscle is the final product, and states Part I covers live bivalves while Part II covers raw bivalves.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "PART I - LIVE BIVALVE MOLLUSCS",
+      "summary": "Introduces Part I for live bivalve molluscs and contains provisions on product and process definitions, presentation, essential composition and quality factors, food additives, contaminants, hygiene, labelling, sampling, examination and analytical methods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1.2. Description",
+      "summary": "Section 1.2 describes live bivalve molluscs (alive immediately prior to consumption), process definitions for harvesting from approved or classified areas permitting relaying/depuration under official controls, and presentation requirements including adequate labelling and permitted packing by weight, count, volume or per package.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "1.2.1  Product Definition",
+      "summary": "Defines live bivalve molluscs as products that are alive immediately prior to consumption, with presentation including the shell.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "1.2.2  Process Definition",
+      "summary": "Requires harvesting from areas approved for direct human consumption or classified to permit approved purification methods (e.g., relaying or depuration), with such purification subject to appropriate controls by the official competent authority.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "process definition heading",
+        "harvesting controls"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "1.2.3  Presentation",
+      "summary": "Permits any presentation provided it meets all standard requirements and is adequately described on the label to avoid misleading consumers, and allows packing by weight, count, count per unit weight, volume or per package.",
+      "categories": [
+        "presentation",
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation conditions",
+        "consumer description",
+        "packaging by measure"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "1.3. Essential composition and quality factors",
+      "summary": "Specifies essential composition and quality factors for live bivalve molluscs, addressing organoleptic freshness, percussion response and freedom from extraneous matter, and states that lots must meet requirements via examination and methods referenced elsewhere in the standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "1.3.1  Bivalve Molluscs",
+      "summary": "Requires live bivalve molluscs to exhibit organoleptic characteristics of freshness, an adequate percussion response (closing when tapped), and freedom from extraneous matter as determined by specialists familiar with the species.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "organoleptic quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "1.3.2  Final Product",
+      "summary": "States that lots of live bivalve molluscs comply with the standard only if sampling per Section 1.10 shows compliance with the provisions of Section 1.9 and that examinations must follow the methods in Section 1.8.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "final product heading",
+        "compliance testing"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "1.4. Food Additives",
+      "summary": "Prohibits the use of food additives in live bivalve molluscs.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "additive prohibition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "1.5. Contaminants",
+      "summary": "Products must comply with the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and Codex MRLs for pesticides/veterinary drugs, with these provisions applying to the edible parts; maximum biotoxin limits specified include Saxitoxin (STX) ≤ 0.8 mg saxitoxin equivalent/kg, Okadaic acid (OA) ≤ 0.16 mg okadaic equivalent/kg, Domoic acid (DA) ≤ 20 mg/kg, and Brevetoxin (BTX) ≤ 200 mouse units/kg.",
+      "categories": [
+        "contaminants",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "edible parts",
+        "biotoxin limits table",
+        "biotoxin limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "1.6. Hygiene",
+      "summary": "Recommends that bivalve mollusc products follow Codex hygiene Codes (CXC 1, CXC 52 and others), comply with microbiological criteria per CXG 21‑1997, and requires growing‑area monitoring to ensure live bivalves meet an E. coli MPN 5‑sample class plan (n=5, c=1, m=230, M=700) using ISO 16649‑3 or equivalent; non‑compliance triggers competent‑authority actions (e.g., detention, recall, further processing, and assessment of harvesting areas/controls).",
+      "categories": [
+        "hygiene",
+        "analysis sampling",
+        "official control"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria",
+        "e coli sampling",
+        "sample plan",
+        "class plan",
+        "sample plan definition",
+        "noncompliance actions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "1.7. Labelling",
+      "summary": "Sets specific labelling provisions for bivalve molluscs in addition to the General Standard (CXS 1‑1985), covering name/presentation, content declaration, storage instructions and non‑retail container information such as lot/harvest details and durability requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "1.7.1 The Name of the Food",
+      "summary": "Requires the label to declare the common or usual species name according to national law/custom, to state the product presentation in close proximity to the name so as not to mislead consumers, and permits usual trade names if not misleading.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food heading",
+        "food name",
+        "presentation declaration",
+        "trade name"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "1.7.2  Content Declaration",
+      "summary": "Live bivalve molluscs must be labelled by weight, count, count per unit weight, or volume as appropriate to the product.",
+      "categories": [
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "content declaration heading",
+        "content declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "1.7.3  Storage Instructions",
+      "summary": "Labels must specify storage conditions and/or temperatures required to maintain product safety and viability during transport, storage and distribution.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "storage instructions heading",
+        "storage conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "1.7.4 Labelling of Non-retail Containers",
+      "summary": "Non‑retail labels for live bivalve molluscs must identify the product by common and/or scientific name, provide lot identification and harvest/purification/relay details and despatch centre, and state durability or shelf life (which may be replaced by 'Bivalves must be alive when sold').",
+      "categories": [
+        "labelling",
+        "documentation"
+      ],
+      "subcategories": [
+        "nonretail heading",
+        "nonretail requirements",
+        "product identification",
+        "lot identification",
+        "durability declaration",
+        "durability statement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "1.8 Sampling, examination and analyses",
+      "summary": "Outlines sampling, sensory/physical examination, count‑per‑unit determination, ISO/TS 16649‑3 (or equivalent) E. coli analysis, and biotoxin determination methods/criteria (including numerical performance criteria and TEF‑based toxicity estimation) for bivalve molluscs, with procedures and validation requirements referenced in subsequent subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "1.8.1 Sampling",
+      "summary": "Each analytical sample must contain a sufficient number of bivalves to be representative and the analysed portion should be the edible tissue (or the most contaminated tissue converted to an edible‑tissue basis using a data‑supported conversion factor).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "representative sample",
+        "analytical portion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "1.8.2 Sensory and Physical Examination",
+      "summary": "Sensory and physical examinations must be carried out by trained personnel following the procedures in Sections 1.8.3–1.8.5 and the Guidelines for the Sensory Evaluation of Fish and Shellfish in Laboratories (CXG 31‑1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination heading",
+        "trained examiner"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "1.8.3 Determinat ion of Count per Unit Weight or Volume",
+      "summary": "When count per unit is declared on the label, it must be determined by counting bivalves in the container or a representative sample and dividing by the actual weight or volume to obtain count per unit weight/volume.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "count determination heading",
+        "count determination"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "1.8.4 Method of Analysis of Escherichia coli in bivalve molluscs",
+      "summary": "Specifies ISO/TS 16649‑3 (MPN technique for β‑glucuronidase‑positive E. coli) or other validated methods in accordance with ISO 16140 (or equivalent) as the method for enumerating E. coli in bivalve molluscs.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method analysis heading",
+        "ecoli method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "1.8.5 Determination of Biotoxins",
+      "summary": "States that biotoxin methods should be practicable and suitable for routine use and refers to numerical performance criteria (Table 1) and additional method requirements specified in subsections for chemical and biological/functional assays.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "1.8.5.1 Criteria for Determination of Toxin Analogues by Chemical Methods",
+      "summary": "Chemical methods for toxin analogues must meet the numerical criteria in Table 1 (minimum ranges, LOD/LOQ, precision, recoveries for listed analogues); total toxicity is calculated as the molar sum of analogues multiplied by internationally validated TEFs, methods must be validated for relevant analogues, and competent authorities must assess contributions from analogues not listed.",
+      "categories": [
+        "analysis sampling",
+        "contaminants"
+      ],
+      "subcategories": [
+        "criteria heading",
+        "method criteria",
+        "table heading",
+        "performance criteria table",
+        "toxicity table",
+        "toxicity calculation",
+        "method validation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "## 1.8.5.2  Biological and Functional Methods to Determine Paralytic Shellfish Toxicity",
+      "summary": "Lists approved biological/functional methods for paralytic shellfish toxicity testing, specifically AOAC 959.08 and AOAC 2011.27.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "method table"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "## 1.9 Definition of defectives",
+      "summary": "Heading stating that a sample unit is defective if it exhibits any of the defined properties (e.g., foreign matter, dead/damaged product) detailed in following subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "## 1.9.1 Foreign Matter",
+      "summary": "Defines foreign matter as material not derived from bivalve molluscs that does not pose a health threat but is readily recognized (or detectable by magnification) at levels indicating non‑compliance with good manufacturing and sanitation practices.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter",
+        "foreign matter definition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "## 1.9.2 Dead or Damaged Product",
+      "summary": "Defines dead product (no response to percussion) and damaged product (biologically non‑functional) and states a sample unit is defective if dead or damaged bivalves exceed 5% by count.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "dead damage",
+        "defect limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "1.10   Lot acceptance",
+      "summary": "A lot meets the standard when defectives (per Section 1.9) and units not meeting declared count do not exceed acceptance numbers from the appropriate CXG 50‑2004 sampling plan, the average net weight is not less than declared without unreasonable shortages, and Sections 1.4–1.7 (additives, contaminants, hygiene, labelling) are complied with.",
+      "categories": [
+        "official control",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria",
+        "sampling compliance",
+        "declared weight",
+        "compliance requirements"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "PART II - RAW BIVALVE MOLLUSCS",
+      "summary": "Section heading introducing Part II (Raw Bivalve Molluscs) which covers definitions, composition, additives, contaminants, hygiene, labelling, sampling/examination methods, defectives and lot acceptance for raw bivalve mollusc products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "2.2 Description",
+      "summary": "Describes raw bivalve molluscs processed for direct consumption or further processing as products that were alive immediately prior to processing, comply with harvesting/purification/relaying requirements, may be shucked/frozen/processed to reduce target organisms while retaining sensory characteristics, and are marketed chilled or frozen.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "2.2.1 Product Definition",
+      "summary": "Defines raw bivalve mollusc products as those alive immediately before processing, compliant with Section 1.2.2 (harvesting, purification, relaying), possibly shucked/frozen/processed to reduce target organisms while retaining live sensory characteristics, and marketed chilled or frozen.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "2.2.2 Process Definition",
+      "summary": "Requires raw bivalve molluscs to meet the process definition in Section 1.2.2 before processing and states processed products must reduce or limit target organisms to the satisfaction of the official agency having jurisdiction.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "process definition"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "2.2.3 Presentation",
+      "summary": "Permits any product presentation provided it meets the standard and is adequately described on the label to avoid consumer confusion, and allows packing by weight, count, count per unit weight, volume or per package.",
+      "categories": [
+        "presentation",
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation conditions",
+        "consumer description",
+        "pack fill"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "2.3 Essential composition and quality factors",
+      "summary": "States that raw bivalve molluscs must be fit for human consumption, that packing media and ingredients must be food grade and meet Codex standards, and that final products must comply with Section 2.9 and be examined per Section 2.8.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "2.3.1 Raw Bivalve Molluscs",
+      "summary": "Declares that raw bivalve molluscs shall be of a quality fit for human consumption.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "raw product quality",
+        "fitness for consumption"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "2.3.2  Ingredients",
+      "summary": "Requires that the packing medium and all other ingredients be food‑grade and conform to applicable Codex standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "ingredient quality"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "2.3.3  Final Product",
+      "summary": "States that raw bivalve mollusc lots must meet the standard when they comply with Section 2.9 defect definitions after examination by methods in Section 2.8.",
+      "categories": [
+        "composition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "final product heading",
+        "examination requirements"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "2.4 Food Additives",
+      "summary": "Permits only certain food additives in raw bivalve molluscs, specifically antioxidants listed in food category 09.1.2 for chilled shucked molluscs and those in 09.2.1 for raw frozen molluscs per the General Standard for Food Additives (CXS 192‑1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "Antioxidants",
+      "summary": "Specifies that permitted antioxidants are those listed in Codex food category 09.1.2 for chilled shucked molluscs and 09.2.1 for raw frozen molluscs (CXS 192‑1995).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "antioxidants heading",
+        "antioxidant permissions"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "2.5 Contaminants",
+      "summary": "States that raw bivalve molluscs should meet the contaminant requirements set out in Section 1.5.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant requirements"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "2.6 Hygiene",
+      "summary": "States that raw bivalve molluscs should meet the hygiene requirements set out in Section 1.6.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygiene requirements"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "2.7 Labelling",
+      "summary": "Provides specific labelling requirements for raw bivalve molluscs (in addition to CXS 1‑1985) including product name/presentation, content declaration, storage instructions with durability/shucking dates, non‑retail labelling reference to 1.7.4, and a requirement for process‑certification labels when molluscs have been treated to reduce target organisms.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "2.7.1 The Name of the Food",
+      "summary": "Requires the food name on labels to be the common/usual species name per national law/custom, to show the presentation (per Section 2.2.3) near the name, and allows usual trade names if not misleading to consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name heading",
+        "food name declaration",
+        "presentation declaration",
+        "trade name declaration"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "2.7.2 Content Declaration",
+      "summary": "Raw bivalve molluscs must be labelled by weight, count, count per unit weight, or volume as appropriate to the product.",
+      "categories": [
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "content declaration heading",
+        "content declaration"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "2.7.3 Storage Instructions",
+      "summary": "Labels must specify storage conditions and/or temperatures to maintain food safety and product characteristics during transport, storage and distribution and must include date of minimum durability and date of shucking.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "storage instructions heading",
+        "storage instructions"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "2.7.4 Labelling of Non-retail Containers",
+      "summary": "Refers to Section 1.7.4 for non‑retail labelling and requires every package of molluscs processed to reduce target organisms to carry a label certifying processing reduced those organisms to levels acceptable to the official agency.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers heading",
+        "non-retail containers reference",
+        "process certification label"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "2.8 Sampling, examination and analysis",
+      "summary": "Section heading covering sampling/examination/analysis for raw bivalves, specifying CAC‑aligned sampling plans for net weight, trained sensory examiners, net/drained weight procedures, thawing/sample prep, E. coli and biotoxin methods referenced in earlier sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "2.8.1 Sampling",
+      "summary": "Sampling of lots for net weight examination must follow an appropriate sampling plan that meets criteria established by the Codex Alimentarius Commission (CAC).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "2.8.2 Sensory and Physical Examination",
+      "summary": "Sensory and physical examinations of samples must be performed by trained personnel according to procedures in Sections 2.8.3–2.8.7 and the CXG 31‑1999 Guidelines for Sensory Evaluation of Fish and Shellfish.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination heading",
+        "trained examiner procedure"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "2.8.3 Determination of Net Weight and Drained Weight",
+      "summary": "States that net weight and drained weight of all sample units shall be determined by the procedures described in Sections 2.8.3.1–2.8.3.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "2.8.3.1  Determination of Net Weight",
+      "summary": "Prescribes the net weight determination procedure: weigh the unopened container, remove contents, weigh empty container after removing excess liquid/adhering meat, subtract to obtain total net content.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "net weight determination heading",
+        "net weight procedure"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "2.8.3.2  Determination of Net Weight of Frozen Products not Covered by Glaze",
+      "summary": "Requires net weight of frozen products not covered by glaze to be determined in the frozen state (exclusive of packaging material).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "frozen net weight heading",
+        "frozen net weight"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "2.8.3.3  Determination of Net Weight of Products Covered by Glaze",
+      "summary": "Specifies AOAC official method 963.18 for net contents of frozen seafoods and AOAC 963.26 for block‑frozen products with added water to determine net weight of glazed/blocked frozen products.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "glazed weight heading",
+        "official method reference"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "2.8.3.4  Determination of Drained Weight",
+      "summary": "Requires drained weight for shucked bivalve molluscs to be determined according to AOAC official method 953.11.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "drained weight heading",
+        "drained weight method"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "2.8.4  Determination of Count per Unit Weight or Volume",
+      "summary": "When count per unit is declared on the label, determine it by counting bivalves in the container or a representative sample and dividing by actual weight/volume to obtain count per unit.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "count per unit heading",
+        "count per unit determination"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "2.8.5  Sample Preparation",
+      "summary": "Provides sample preparation instructions for frozen product, with thawing procedures described in 2.8.5.1.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "2.8.5.1  Procedures for Thawing",
+      "summary": "For frozen samples, thaw by enclosing the unit in a film bag and immersing in water at room temperature (≤35°C), gently squeezing occasionally until no hard core or ice crystals remain to avoid texture damage.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "thawing procedures heading",
+        "thawing procedure"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "2.8.6  Methods of Analysis of Escherichia coli",
+      "summary": "States that methods of analysis for Escherichia coli are those referenced in Section 1.8.4 (ISO/TS 16649‑3 or equivalent validated methods).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods heading",
+        "analysis methods reference"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "2.8.7 Determination of Biotoxins",
+      "summary": "Refers determination of biotoxins to Section 1.8.5, which sets method selection, performance criteria and validation requirements.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "biotoxin determination heading",
+        "biotoxin determination reference"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "2.9 Definition of defectives",
+      "summary": "Defines defectives for raw products, including deep dehydration (greater than 10% weight or surface area with irreversible surface damage), foreign matter, persistent objectionable odour/flavour indicative of decomposition, and textural breakdown (mushy/paste‑like muscle structure).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "2.9.1 Deep Dehydration (Frozen Products)",
+      "summary": "Deep dehydration in frozen bivalve molluscs is defined as excessive moisture loss shown as white/abnormal surface coloration that affects >10% of sample weight or surface area, penetrates below the surface, and cannot be removed by scraping without unduly affecting appearance.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defect heading",
+        "moisture loss defect"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "2.9.2 Foreign Matter",
+      "summary": "Foreign matter defect: any material in the sample unit not derived from bivalve molluscs that does not pose a health threat and is either readily recognisable without magnification or present at a level (including when detected by magnification) indicating non‑compliance with good manufacturing and sanitation practices.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter heading",
+        "foreign matter defect"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "2.9.3 Odour/Flavour",
+      "summary": "Odour/flavour defect: persistent, distinct objectionable odours or flavours indicative of decomposition or rancidity.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour flavour heading",
+        "odour flavour defect"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "2.9.4 Texture",
+      "summary": "Texture defect: breakdown of flesh indicative of decomposition, characterized by muscle structure that is mushy or paste‑like.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture heading",
+        "texture defect"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "2.10   Lot acceptance",
+      "summary": "Lot acceptance: a lot meets the standard when (i) defectives per Section 2.9 do not exceed the acceptance number (c) of the applicable CXG 50‑2004 sampling plan, (ii) units not meeting count designation per II2.3 do not exceed that acceptance number, (iii) average net weight of sample units is at least the declared weight with no unreasonable shortage in any container, and (iv) Food Additives, Contaminants, Hygiene and Labelling requirements of Sections 2.4–2.7 are met.",
+      "categories": [
+        "inspection certification",
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "acceptance criteria",
+        "sampling acceptance number",
+        "net weight requirement",
+        "compliance conditions"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    }
+  ]
+}

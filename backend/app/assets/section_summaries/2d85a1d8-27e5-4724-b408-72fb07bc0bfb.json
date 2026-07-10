@@ -1,0 +1,600 @@
+{
+  "doc_id": "2d85a1d8-27e5-4724-b408-72fb07bc0bfb",
+  "title": "STANDARD FOR PROCESSED TOMATO CONCENTRATES CXS 57-1981 Adopted in 1981. Revised in 2007, 2017. Amended in 2013, 2022, 2023.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR PROCESSED TOMATO CONCENTRATES CXS 57-1981 Adopted in 1981. Revised in 2007, 2017. Amended in 2013, 2022, 2023.",
+      "summary": "Title and bibliographic information for the Standard for Processed Tomato Concentrates (CXS 57-1981) with adoption, revision and amendment years; not a substantive provision.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "title heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2022 Amendments",
+      "summary": "Amendment notice stating that, following the 2022 Codex Commission session, changes were made to Section 8.4 (Labelling of non-retail containers).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2023 Amendments",
+      "summary": "Amendment notice stating that, following the 2023 Codex Commission session, changes were made to Section 9 (Methods of analysis and sampling).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Defines the standard's applicability to processed tomato concentrate offered for direct consumption, catering, repacking or indicated for further processing, and expressly excludes products containing seeds/skins (e.g., pizza toppings and 'homestyle' products) and highly seasoned sauces (e.g., tomato sauce, chilli sauce, ketchup) that materially alter the tomato's flavour.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines processed tomato concentrate and sets concentration thresholds: the product is concentrated juice or pulp from sound mature red tomatoes, strained to exclude most skins/seeds, preserved by physical means and containing at least 7% natural total soluble solids (not dehydrated to powder/flake); designations are given in Section 2.2 (see below).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Product definition:",
+      "summary": "Defines 'Processed tomato concentrate' as juice or pulp concentrated from sound, mature red tomatoes, prepared to exclude the majority of skins, seeds and coarse substances, preserved by physical means, and containing seven percent or more natural total soluble solids (not dehydrated to dry powder/flake).",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "processing method",
+        "soluble solids minimum"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Product designation:",
+      "summary": "Defines product designations by soluble solids: 'Tomato Puree' contains ≥7% but <24% natural total soluble solids, while 'Tomato Paste' contains at least 24% natural total soluble solids.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.1 'Tomato Puree' - Tomato concentrate that contains no less than seven percent but less than 24 percent of natural total soluble solids.",
+      "summary": "Defines 'Tomato Puree' as tomato concentrate containing ≥7% but <24% natural total soluble solids.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "product class"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.2 'Tomato Paste' - Tomato concentrate that contains at least 24 percent of natural total soluble solids.",
+      "summary": "Defines 'Tomato Paste' as tomato concentrate containing at least 24% natural total soluble solids.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "product class"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition (processed tomato concentrate per Section 2.1; permitted ingredients include salt, spices/herbs and extracts, lemon juice as acidulant, and water), quality attributes (good flavour/odour, fairly good red colour, homogeneous texture) and defect/allowance rules; specifies limits and criteria including mineral impurities ≤0.1% of natural TSS, lactic acid ≤1% of natural TSS, mould count per national retail legislation, pH <4.6, classification of defectives for nonconforming TSS or quality, and lot acceptance using an AQL 6.5 sampling plan with an exclusion for non-retail containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1 Composition",
+      "summary": "Composition: basic ingredient is processed tomato concentrate (Section 2.1) and permitted ingredients are salt (per CXS 150-1985), spices/aromatic herbs and extracts, lemon juice (single strength or concentrate) as an acidulant, and water.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "States the basic ingredient is processed tomato concentrate as defined in Section 2.1.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1.2 Other permitted ingredients",
+      "summary": "Permits as ingredients: salt (sodium chloride) per the Standard for Food Grade Salt (CXS 150-1985), spices and aromatic herbs and their natural extracts, lemon juice (single strength or concentrated) as an acidulant, and water.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "permitted ingredient"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2 Quality criteria",
+      "summary": "Requires processed tomato concentrates to have good flavour and odour, fairly good red colour and homogeneous texture; mandates GMP preparation to be substantially free of extraneous plant materials and mineral impurities and sets limits including mineral impurities ≤0.1% of natural TSS, lactic acid ≤1% of natural TSS, mould count per national retail law, and pH <4.6.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.1 Definition of defects",
+      "summary": "Requires GMP preparation so product is substantially free of extraneous plant material and mineral impurities, and specifies that it must be practically free of objectionable tomato peel and seeds, have any other extraneous plant material detectable only microscopically, and be practically free of dark specks; notes concentrations are measured without added salt and that 'juice' is not intended as fruit juice per CXS 247-2005.",
+      "categories": [
+        "quality",
+        "other"
+      ],
+      "subcategories": [
+        "defects heading",
+        "defect criteria",
+        "editorial note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.2  Defects and allowances",
+      "summary": "Lists defect allowances and limits: mineral impurities ≤0.1% of natural TSS, total lactic acid ≤1% of natural TSS, mould count to be set by the legislation of the country of retail sale, and pH must be below 4.6.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.2.1 Mineral impurities iii",
+      "summary": "Limits mineral impurity content to no more than 0.1% of the natural total soluble solids.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "mineral impurities"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2.2.2 Lactic acid",
+      "summary": "Limits total lactic acid content to no more than 1% of the natural total soluble solids.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "lactic acid limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.2.2.3 Mould count",
+      "summary": "States mould count for processed tomato concentrates shall be established according to the legislation of the country of retail sale.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "mould count"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.2.2.4 pH",
+      "summary": "Requires the pH of processed tomato concentrates to be below 4.6.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "ph limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.3 Classification of 'defectives''",
+      "summary": "Defines a 'defective' container as one that fails to meet the natural total soluble solids requirements of Section 2.2 and/or one or more applicable quality requirements of Section 3.2.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defective definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.4 Lot acceptance",
+      "summary": "Specifies lot acceptance: a lot meets quality requirements when the number of 'defectives' does not exceed the acceptance number of the applicable sampling plan with an AQL of 6.5 and the maximum mould count allowance is not exceeded; these acceptance criteria do not apply to non‑retail containers.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling criteria",
+        "non-retail exclusion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits only certain acidity regulators listed in Table 3 of the General Standard for Food Additives (CXS 192-1995) for foods conforming to this standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires compliance with the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and states that maximum contaminant levels must be adjusted to account for product concentration using natural total soluble solids with a reference value of 4.5 for fresh fruit; similarly requires compliance with Codex pesticide maximum residue limits and that pesticide limits be adjusted for concentration using the same natural TSS reference value.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "contaminant adjustment",
+        "pesticide limits",
+        "pesticide adjustment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex hygiene texts, notes sand/soil and insoluble impurities in a footnote, and requires compliance with any microbiological criteria established per CXG 21-1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2 The products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997). 5",
+      "summary": "States that the products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7. WEIGHTS AND MEASURES iv",
+      "summary": "Sets minimum fill: containers should be filled to at least 90% of water capacity (allowing necessary GMP headspace); a container failing this is a 'defective' and a lot meets the fill requirement when defectives do not exceed the acceptance number of the appropriate sampling plan with an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.1 Fill of container",
+      "summary": "Sets container fill requirements: product must occupy at least 90% of the container's water capacity (minus necessary GMP headspace), defines water capacity, classifies containers failing this requirement as 'defectives', and requires lot acceptance per the appropriate sampling plan with an AQL of 6.5 (acceptance number c).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.1.1 Minimum fill",
+      "summary": "Requires containers be filled so the product occupies not less than 90% of the container's water capacity (allowing necessary GMP head space) and defines water capacity as the volume of distilled water at 20°C the sealed container holds when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill heading",
+        "minimum fill requirement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.1.2 Classification of 'defectives'",
+      "summary": "Defines a 'defective' as any container that fails to meet the minimum fill requirement of Section 7.1.1.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defective classification"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "Specifies that a lot meets the minimum fill requirement when the number of 'defectives' does not exceed the acceptance number c of the applicable sampling plan with an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8. LABELLING",
+      "summary": "Requires labelling in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and indicates additional, product-specific labelling provisions follow in subsequent sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.1 The  product  covered  by  the  provisions  of  this  standard  shall  be  labelled  in  accordance  with  the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985). 6  In addition, the following specific provisions apply:",
+      "summary": "States that the product must be labelled per the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), with the specific provisions in the standard applying in addition.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.2 Name of the product",
+      "summary": "Specifies product naming by natural total soluble solids: call the food 'Tomato Puree' if solids are ≥7% and <24%, 'Tomato Paste' if solids are ≥24%, or another customary denomination accompanied by the percentage of natural total soluble solids, and require the name to indicate when added ingredients alter the characteristic flavour (e.g., 'flavoured with X').",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.3 Declaration of the percentage of natural total soluble solids",
+      "summary": "Permits declaration of natural total soluble solids on the label either as a minimum percentage (e.g., 'Minimum Solids - 20%') or as a two-percent range (e.g., 'Solids - 20% to 22%').",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "solids declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.4 Labelling of non-retail containers",
+      "summary": "Requires labelling of non-retail containers to comply with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "States that methods of analysis and sampling for checking compliance are those in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods and sampling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "NOTES",
+      "summary": "Bibliographic notes listing Codex Alimentarius references and related standards; this section is a list of reference citations rather than substantive regulatory provisions.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "notes heading",
+        "reference note",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+{
+  "doc_id": "2e8611e9-da91-41c9-a542-c5b70835fbfd",
+  "title": "1 introduction",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1 introduction",
+      "summary": "States that this document should be read in conjunction with the Guidelines for the Design, Production, Issuance and Use of Generic Official Certificates (CAC/GL 38-2001).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "reference guidance"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2 scope",
+      "summary": "Defines the Model Export Certificate for Milk and Milk Products as applying to milk, milk products and composite milk products (per CODEX STAN 206-1999) presented for international trade that meet food safety and suitability requirements, and excludes animal and plant health matters unless directly related to food safety or suitability (referring to the OIE Code when animal health attestations are needed).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3 explanatorY notes on tHe model export certificate for milk and milk products",
+      "summary": "Heading only: introductory/explanatory notes on the model export certificate for milk and milk products (no substantive text in this section).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "notes heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "4 general",
+      "summary": "Provides general completion and presentation instructions for the certificate, requiring legible completion and page numbering to show all pages form a single certificate; it also states that changes to destination, consignee, point of entry or transport after issuance must be advised to the importing country's competent authority and should not require issuance of a replacement certificate.",
+      "categories": [
+        "other",
+        "documentation",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "general heading",
+        "completion instructions",
+        "page numbering",
+        "certificate amendment",
+        "reference numbering"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "5 MODEL EXPORT CERTIFICATE FOR MILK AND MILK PRODUCTS",
+      "summary": "Specifies the fields, definitions and information required on the Model Export Certificate for Milk and Milk Products—such as certificate type and unique number, consignor/consignee, competent authority, country of dispatch/origin/destination, transport and entry points, quantities, container and package identification, product identification (including nature of food, HS code, intended purpose, lot identifier, production dates, approval numbers, region of origin), and an attestation confirming regulatory standing, processing under HACCP where appropriate, and hygiene compliance—plus certifying officer name, position, signature and date.",
+      "categories": [
+        "inspection certification",
+        "documentation",
+        "other",
+        "transport",
+        "weights and measures",
+        "packaging",
+        "composition",
+        "labelling"
+      ],
+      "subcategories": [
+        "certificate heading",
+        "document code",
+        "specific heading",
+        "certificate type",
+        "dispatch country",
+        "consignor details",
+        "certificate number",
+        "competent authority",
+        "certifying body",
+        "consignee details",
+        "country of origin",
+        "country of destination",
+        "place of loading",
+        "means of transport",
+        "point of entry",
+        "iso code",
+        "transport storage conditions",
+        "total quantity",
+        "container seal",
+        "package count",
+        "product identification",
+        "certificate particulars",
+        "nature of food",
+        "intended purpose",
+        "trade samples",
+        "establishment approval",
+        "labelling reference",
+        "origin region",
+        "product name",
+        "lot identifier",
+        "packaging type",
+        "attestation statement",
+        "certifying officer"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "logo/letterhead",
+      "summary": "Heading only: 'logo/letterhead' (no substantive provisions provided).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "letterhead"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "model export certificate for milk and milk products",
+      "summary": "Heading only: 'model export certificate for milk and milk products' (serves as document title rather than substantive content).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "export certificate heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "country of dispatch:",
+      "summary": "Heading only: 'country of dispatch:' field label for the certificate (no substantive text).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "dispatch country"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "certificate type",
+      "summary": "Heading only: 'certificate type' field label for the certificate (no substantive text).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "certificate type"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "1. Consignor/exporter:",
+      "summary": "Form field heading requesting consignor/exporter information; no substantive regulatory text provided.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "consignor exporter"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2. Certificate number:",
+      "summary": "Form field heading for the certificate number; no substantive regulatory content present.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "certificate number"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3. Competent authority:",
+      "summary": "Form field heading identifying the competent authority; no substantive provisions or obligations are included.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "competent authority"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4. Certifying body:",
+      "summary": "Form field heading for the certifying body information; contains no substantive regulatory detail.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "certifying body"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5. Consignee/importer:",
+      "summary": "Form field heading requesting consignee/importer details; no substantive regulatory text provided.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "consignee importer"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6. Country of origin:",
+      "summary": "Form field heading for country of origin information; no substantive requirements or definitions are given.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "ISO code:",
+      "summary": "Form field heading for the ISO code of the country of origin; no substantive regulatory content present.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "iso code"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7. Country of destination:",
+      "summary": "Form field heading requesting country of destination; contains no substantive regulatory obligations or criteria.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "country of destination"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "ISO code:",
+      "summary": "Form field heading for the ISO code of the country of destination; no substantive regulatory content provided.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "iso code"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8. Place of loading:",
+      "summary": "Form field heading for place of loading information; no substantive regulatory provisions are included.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "loading place"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "9. Means of transport:",
+      "summary": "Form field heading for means of transport; no substantive transport requirements or conditions are specified.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport means"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "10. Declared point of entry:",
+      "summary": "Form field heading for the declared point of entry; contains no substantive regulatory criteria or obligations.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "entry point"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "11. Conditions for transport/storage:",
+      "summary": "Form field heading for conditions for transport/storage; no specific conditions, limits, or obligations are stated in the text.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport storage"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "12. Total quantity:*",
+      "summary": "Form field heading for total quantity (with an asterisk); no substantive definition or measurement requirement is provided.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "total quantity"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "13. Identification of container(s)/seal number(s):",
+      "summary": "Form field heading for identification of container(s)/seal number(s); no substantive inspection or certification rules are included.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container seal"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "14. Total number of packages:",
+      "summary": "Form field heading for total number of packages; contains no substantive regulatory provisions.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "package count"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "15. Identification of food products as described below (multiple lines may be used for multiple products):",
+      "summary": "Form section heading instructing identification of food products with allowance for multiple lines for multiple products; no substantive regulatory requirements are specified.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "product identification"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "No.",
+      "summary": "Table/line-heading reading 'No.' indicating a line number column for product entries; not substantive on its own.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "line number"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Nature of the food:",
+      "summary": "Table/column heading 'Nature of the food' for describing the product type; contains no substantive regulatory text.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "food nature"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "Intended purpose",
+      "summary": "Table/column heading 'Intended purpose' for specifying the intended use of the food item; no substantive requirements or definitions are included.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "intended purpose"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "No.",
+      "summary": "Non-substantive form heading/line-number label ('No.').",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "line number"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "Producer/",
+      "summary": "Form field heading requesting the producer's name.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "producer name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "manufacturer:",
+      "summary": "Form field heading requesting the manufacturer's name.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "manufacturer name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Approval number of",
+      "summary": "Form field label requesting the approval number (approval number of ...).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "approval number"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "establishment*:",
+      "summary": "Form field heading requesting the establishment approval/identifier ('establishment*').",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "establishment approval"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "Region or compartment of origin:",
+      "summary": "Form field heading requesting the region or compartment of origin.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "origin region"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "No.",
+      "summary": "Non-substantive form heading/line-number label ('No.').",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "line number"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "Name of the",
+      "summary": "Non-substantive label fragment ('Name of the') as part of a product name field.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "product",
+      "summary": "Non-substantive label ('product') used as part of the product name field.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "Lot identifier*",
+      "summary": "Form field requesting the lot identifier ('Lot identifier*').",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "lot identifier"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "Type of",
+      "summary": "Non-substantive label fragment ('Type of') as part of a packaging-type field.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "package type"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "packaging",
+      "summary": "Form label ('packaging') as part of the packaging type field.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "package type"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "Number of",
+      "summary": "Non-substantive label fragment ('Number of') used in the package count field.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "package count"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "packages:",
+      "summary": "Form field label ('packages:') requesting the number of packages.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "package marking"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "Net weight:",
+      "summary": "Form field label requesting the net weight ('Net weight:').",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net weight"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "No.",
+      "summary": "Non-substantive abbreviation/label ('No.').",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "abbreviation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "Date of",
+      "summary": "Non-substantive fragment ('Date of') as part of a date-marking field.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "manufacture*:",
+      "summary": "Form field requesting the date of manufacture ('Date of manufacture*:').",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "Date of minimum",
+      "summary": "Form field fragment ('Date of minimum') referring to the minimum durability/date marking.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "16. Attestations:",
+      "summary": "Requires attestation that the products were manufactured at establishment(s) approved by, or in good regulatory standing with, the exporting country's competent authority. It also requires ticking applicable attestations that products were prepared, packed, held and transported under good hygienic practice and an effective food safety control system (within HACCP context where appropriate and in accordance with CAC/RCP 57-2004), and/or that they were produced in accordance with the public health requirements of a specified country, with non-selected options deletable.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "attestations heading",
+        "establishment approval",
+        "product attestations",
+        "hygiene attestation",
+        "public health compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "doc_id": "83e9a210-2af6-461c-a4fd-d915cec1c0ff",
+  "title": "STANDARD FOR INSTANT NOODLES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR INSTANT NOODLES",
+      "summary": "Heading/title only: identifies the document as the Standard for Instant Noodles.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 249-2006",
+      "summary": "Document identifier: Codex Standard number CXS 249‑2006.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 2006. Amended in 2016, 2018, 2019, 2023.",
+      "summary": "Adoption and amendment history noting the standard was adopted in 2006 and amended in 2016, 2018, 2019 and 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2023 Amendments",
+      "summary": "Notice that 2023 amendments, following the Forty‑sixth Session of the Codex Alimentarius Commission, updated Section 9 on Methods of Analysis and Sampling.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendment history",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1 SCOPE",
+      "summary": "Scope applies to various kinds of instant noodles, which may be packaged with seasonings or garnishes (in separate pouches or sprayed) and are ready after dehydration; the standard does not apply to pasta.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2 DESCRIPTION",
+      "summary": "Defines instant noodle as a product made mainly from wheat and/or rice and/or other flours/starches with water, possibly treated with alkaline agents, using pre-gelatinization and dehydration (frying or other methods), presented as fried or non-fried.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1 Fried noodles",
+      "summary": "Heading only: identifies 'Fried noodles' as one presentation style of the product.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2 Non-fried noodles",
+      "summary": "Heading only: identifies 'Non-fried noodles' as one presentation style of the product.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Covers essential composition and quality factors for instant noodles, including essential and optional ingredients, organoleptic acceptability, freedom from foreign matter, and analytical requirements for the noodle block (moisture and acid value limits).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1 Composition",
+      "summary": "Specifies composition: essential ingredients (flours/starches and water) and optional ingredients which are those commonly used.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.1 Essential ingredients",
+      "summary": "Essential ingredients are (a) wheat flour and/or rice flour and/or other flours and/or starches and (b) water.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredient heading",
+        "essential ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.2 Optional ingredients",
+      "summary": "Optional ingredients are limited to ingredients which are commonly used.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2 Quality criteria",
+      "summary": "Sets quality criteria covering organoleptic acceptability, absence of foreign matter, and analytical requirements for the noodle block (moisture and acid value limits).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.1 Organoleptic",
+      "summary": "Product shall be acceptable in appearance, texture, aroma, taste and colour.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "organoleptic quality",
+        "sensory acceptability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.2 Foreign matter",
+      "summary": "The product shall be free from foreign matter.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.3 Analytical requirement for noodle block (noodle excluding seasonings)",
+      "summary": "Analytical requirements for the noodle block specify moisture content maxima of 10% for fried noodles and 14% for non-fried noodles, and an acid value maximum of 2 mg KOH/g oil (applicable only to fried noodles).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "analytical requirements",
+        "moisture limit",
+        "acid value"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4 FOOD ADDITIVES",
+      "summary": "Permits specified classes of food additives (acidity regulators, anticaking agents, antioxidants, colours, emulsifiers, flour treatment agents, humectants, preservatives, stabilizers) in accordance with Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for category 06.4.3, and only certain Table 3 substances as indicated in that standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5 CONTAMINANTS",
+      "summary": "Products must comply with the maximum levels for contaminants and toxins set out in the General Standard for Contaminants and Toxins in Foods and Feed (CXS 193-1995).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6 CONTAINERS OR PACKING CONDITION",
+      "summary": "Instant noodles shall be packaged in containers that safeguard the hygienic, nutritional, technological and organoleptic qualities of the product.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "protective packaging"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7. FOOD HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex texts, and requires compliance with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic preparation",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "8. LABELLING",
+      "summary": "Labelling must follow the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985); the food name and halal claims are further specified in subsections (name rules and CXG 24-1997 for 'Halal').",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "8.1 Name of the food",
+      "summary": "The name of the food shall be 'instant noodle(s)' or optionally 'fried noodle(s)' or 'non-fried noodle(s)' in accordance with the product style, with other names allowed only if permitted by national legislation.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8.2 Labelling for 'Halal'",
+      "summary": "Claims of 'Halal' for instant noodles must follow the General Guidelines for Use of the Term 'Halal' (CXG 24-1997).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "halal claim"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "For compliance checks use methods of analysis and sampling in CXS 234-1999 relevant to this standard, and conduct sampling in accordance with the General Guidelines on Sampling (CXG 50-2004).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "9.1 METHODS OF ANALYSIS",
+      "summary": "Requires that methods of analysis and sampling relevant to this standard follow the Recommended methods of analysis and sampling (CXS 234-1999) for checking compliance.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "9.2 SAMPLING",
+      "summary": "Mandates that sampling be conducted in accordance with the General guidelines on sampling (CXG 50-2004).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling procedure"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "doc_id": "444151c5-7b47-4c9d-aa86-cbd1f47dd7ef",
+  "title": "STANDARD FOR CANNED SARDINES AND SARDINE-TYPE PRODUCTS CXS 94-1981",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR CANNED SARDINES AND SARDINE-TYPE PRODUCTS CXS 94-1981",
+      "summary": "Title and adoption/revision history for the Standard for Canned Sardines and Sardine‑Type Products (CXS 94‑1981), noting adoption in 1981, revisions in 1995 and 2007, and multiple subsequent amendments through 2024.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard title",
+        "adoption history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2024 Amendments/Revision",
+      "summary": "Summarizes the 2024 amendments: updates to the product definition (including Sardinella lemuru and editorial name changes), addition of Section 6.2 on labelling of non‑retail containers, and amendment of Section 7 to reference CXS 234‑1999 for methods of analysis/numeric criteria.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "revision note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope: the standard applies to canned sardines and sardine‑type products packed in water, oil or other suitable packing media and excludes speciality products where fish content is less than 50% m/m of the net contents.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Non‑substantive heading for the Description section (no substantive requirements provided in this entry).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Product definition",
+      "summary": "Defines canned sardines/sardine-type products listing permitted fish species and requires head and gills to be completely removed (scales/tail optional); fish may be eviscerated but if so must be practically free from visceral parts except roe, milt or kidney, and if ungutted must be practically free from undigested or used feed.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "species list",
+        "fish preparation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Process definition",
+      "summary": "Requires products to be packed in hermetically sealed containers and to receive a processing treatment sufficient to ensure commercial sterility.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process definition heading",
+        "commercial sterility"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Presentation",
+      "summary": "Permits any presentation provided each can contains at least two fish, meets the standard's requirements, is adequately described on the label to avoid misleading consumers, and contains only one fish species.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation requirements",
+        "label description",
+        "single species"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section heading only (3. ESSENTIAL COMPOSITION AND QUALITY FACTORS) and does not contain substantive provisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1 Raw material",
+      "summary": "Requires products to be prepared from sound fish of the species listed in Section 2.1 and of a quality fit to be sold fresh for human consumption.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw material",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2 Other ingredients",
+      "summary": "States that the packing medium and all other ingredients must be food-grade and conform to all applicable Codex standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients",
+        "ingredient quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.3 Decomposition",
+      "summary": "Limits histamine in the products to a maximum of 10 mg per 100 g based on the average of the sample unit tested.",
+      "categories": [
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "decomposition heading",
+        "histamine limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.4 Final product",
+      "summary": "States products shall meet this standard when lots examined according to Section 9 comply with the provisions in Section 8, and that examinations shall be carried out by the methods given in Section 7.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "final product heading",
+        "final product compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits only certain Table 3 acidity regulators, emulsifiers, gelling agents, stabilizers and thickeners listed in the GSFA (CXS 192-1995), and requires flavourings to comply with CXG 66-2008, allowing only natural flavouring substances, natural flavouring complexes and smoke flavourings.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "flavouring restrictions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5. HYGIENE AND HANDLING",
+      "summary": "Recommends preparation and handling in accordance with relevant Codex hygiene and fishery codes and compliance with any Codex microbiological criteria; when tested by appropriate Codex sampling/examination methods the product must (i) be free from microorganisms capable of development under normal storage, (ii) have no sample unit with histamine exceeding 20 mg/100 g, (iii) not contain other substances from microorganisms in amounts hazardous to health per CAC standards, and (iv) be free from container integrity defects compromising the hermetic seal.",
+      "categories": [
+        "hygiene",
+        "analysis sampling",
+        "contaminants",
+        "packaging"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic preparation",
+        "microbiological criteria",
+        "sampling examination",
+        "microbial absence",
+        "histamine limit",
+        "hazardous substances",
+        "container integrity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6. LABELLING",
+      "summary": "Introductory labelling provision stating that, in addition to the General standard for the labelling of pre-packaged foods (CXS 1-1985), specific provisions apply (substantive requirements follow in subsequent clauses).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.1 Name of the food",
+      "summary": "Specifies the product name: \"Sardines\" is reserved exclusively for Sardina pilchardus, otherwise use \"X sardines\" where X may be country, area, species or common name in a non-misleading way; the packing medium must be part of the name, smoking or smoke-flavouring must be declared near the name, and other descriptive terms must avoid misleading consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food",
+        "product name",
+        "product name specification",
+        "product name designation",
+        "packing medium name",
+        "smoking declaration",
+        "descriptive terms"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.2 Labelling of non-retail containers",
+      "summary": "Advises that labelling of non-retail containers should comply with the General standard for the labelling of non-retail containers of foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail label"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7. SAMPLING, EXAMINATION AND ANALYSES",
+      "summary": "Section heading only (7. SAMPLING, EXAMINATION AND ANALYSES) and does not contain substantive provisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7.1 Sampling",
+      "summary": "Requires sampling of lots for final product examination (per Section 3.4) using an appropriate sampling plan with an AQL of 6.5, and sampling for net weight and drained weight where applicable using plans meeting CAC criteria.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling plan",
+        "weight sampling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.2 Examination",
+      "summary": "Section heading only (7.2 Examination) and does not contain substantive provisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.2.1  Sensory and physical Examination",
+      "summary": "Requires sensory and physical examinations to be performed by trained assessors in accordance with the Recommended methods of analysis and sampling (CXS 234-1999) and the Guidelines for the sensory evaluation of fish and shellfish in laboratories (CXG 31-1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "trained assessors"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.3 Analysis",
+      "summary": "Specifies that methods of analysis and sampling in the Recommended methods (CXS 234-1999) relevant to this standard shall be used to check compliance.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8. DEFINITION OF DEFECTIVES",
+      "summary": "Introductory statement only: a sample unit is considered defective when it exhibits any of the properties defined in the following clauses (section heading, not substantive by itself).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "8.1 Foreign matter",
+      "summary": "Defines foreign matter as any material not derived from the fish or packing media that does not threaten health and is either readily recognizable without magnification or present at a level (including when detected by magnification) indicating non-compliance with good manufacturing and sanitation practices.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter heading",
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8.2 Odour or Flavour",
+      "summary": "Sample unit exhibiting persistent, distinct objectionable odours or flavours indicative of decomposition or rancidity is a quality defect.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour flavour heading",
+        "odour flavour defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.3 Texture",
+      "summary": "Texture defects are defined as flesh that is either excessively mushy or excessively tough/fibrous in a manner uncharacteristic of the species in the presentation.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture heading",
+        "texture defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8.4 Discolouration",
+      "summary": "Distinct discolouration indicative of decomposition or rancidity, or sulphide staining exceeding 5% of the fish by weight in the sample unit, is a quality defect.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "discolouration",
+        "discolouration defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.5 Objectionable matter",
+      "summary": "A sample unit containing objectionable struvite crystals is defective when any struvite crystal is greater than 5 mm in length.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "objectionable matter",
+        "objectionable matter defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "A lot meets the standard only if: (i) total defectives per Section 8 do not exceed the sampling-plan acceptance number (c) at AQL 6.5; (ii) units not meeting presentation (Section 2.3) do not exceed c at AQL 6.5; (iii) average net or drained weight of sampled units is at least the declared weight with no unreasonable shortage in any individual container; and (iv) food additive, hygiene and labelling requirements of Sections 4, 5 and 6 are satisfied.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria",
+        "sampling acceptance",
+        "net weight check",
+        "compliance check"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "NOTES",
+      "summary": "Non-substantive notes listing referenced FAO/WHO/Codex standards, guidelines and codes of practice cited as sources.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "notes heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

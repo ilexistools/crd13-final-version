@@ -1,0 +1,123 @@
+{
+  "doc_id": "b1643aec-f4d1-4852-9d8c-5c4edae5e7da",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "Applies this standard to the labelling of and claims for foods for special medical purposes as defined in Section 2 and presented as such.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines foods for special medical purposes as specially processed or formulated foods presented for the dietary management of patients and to be used only under medical supervision for exclusive or partial feeding of persons with limited or impaired capacity to take, digest, absorb or metabolize ordinary foods or with other medically determined nutrient requirements not manageable by normal diet modification or other special dietary foods.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3. GENERAL PRINCIPLES",
+      "summary": "States that formulation must be based on sound medical and nutritional principles and proven safe and beneficial, that labels/leaflets must provide sufficient information, instructions and precautions, that advertising to the general public should be prohibited, and that the information format should be appropriate for the intended recipient.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "general principles heading",
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "4. LABELLING",
+      "summary": "Requires Foods for Special Medical Purposes to be labelled in accordance with the Codex General Standard for Labelling of Prepackaged Foods for Special Dietary Uses (CODEX STAN 146-1985) with specified exceptions (Sections 4.3, 5.1, 5.2.2, 5.2.3 and 6 of the General Standard do not apply) and subjects them to additional detailed provisions on nutrition labelling, date marking, prominent medical supervision statements, preparation/storage/warning statements, prohibition of parenteral use, and indication of whether the product is intended as a sole source of nutrition.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4.2 Nutrition Labelling",
+      "summary": "Requires complete, primarily numerical nutrition labelling: energy in kJ and kcal per 100 g/100 ml and per suggested quantity; protein, carbohydrate and fat in g per 100 g/100 ml and per specified quantity; vitamins and minerals in metric units; optional expression as % of recognized RDAs; osmolality/acid‑base data when appropriate; allowance to label per serving where customary; disclosure of animal/plant protein sources or hydrolysates; and description of any specific modification to proteins, fats or carbohydrates including profiles when necessary.",
+      "categories": [
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "nutrition labelling heading",
+        "nutrition labelling",
+        "nutrient declaration",
+        "footnote",
+        "document title",
+        "continuation text",
+        "energy declaration",
+        "macronutrient declaration",
+        "vitamin mineral declaration",
+        "daily allowance",
+        "osmolality statement",
+        "serving basis",
+        "protein source statement",
+        "composition modification"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4.5 Information to be Included in the Labelling 2",
+      "summary": "Requires labelling to include a statement 'For the dietary management of ...' naming the specific condition, comprehensive precautions/known side effects/contraindications/product‑drug interactions where applicable, the rationale and product characteristics, prominent age‑group indication if formulated for a specific age, specification of any nutrient reductions/increases/modifications with rationale, and feeding instructions including method of administration and serving size; this information may be provided separately from the package.",
+      "categories": [
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "labelling information heading",
+        "dietary management statement",
+        "precaution statement",
+        "rationale statement",
+        "age group statement",
+        "nutrient modification statement",
+        "feeding instructions",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

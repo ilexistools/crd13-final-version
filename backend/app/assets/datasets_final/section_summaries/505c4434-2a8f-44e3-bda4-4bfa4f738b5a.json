@@ -1,0 +1,774 @@
+{
+  "doc_id": "505c4434-2a8f-44e3-bda4-4bfa4f738b5a",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to salt used as a food ingredient for direct consumer sale and food manufacture and to salt used as a carrier of food additives or nutrients, excluding salts from origins other than those in Section 2 (e.g., chemical industry by‑products); specific additional requirements may apply.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DESCRIPTION",
+      "summary": "Description: food grade salt is a crystalline product consisting predominantly of sodium chloride obtained from the sea, underground rock salt deposits, or natural brine.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Essential composition and quality factors: NaCl content shall be at least 97% on a dry matter basis (excluding additives); the remainder comprises naturally present secondary salts and contaminants (e.g., calcium, potassium, magnesium salts), copper must not exceed 2 mg/kg, food grade salt may be used as a carrier for additives/nutrients, and in iodine‑deficient areas salt shall be iodised with sodium or potassium iodide/iodate at levels (mg/kg as iodine) set by national health authorities and produced under quality assurance by competent manufacturers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3.1 MINIMUM NACL CONTENT",
+      "summary": "Minimum NaCl content requirement: NaCl content shall not be less than 97% on a dry matter basis, exclusive of additives.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "minimum content"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.2 NATURALLY PRESENT SECONDARY PRODUCTS AND CONTAMINANTS",
+      "summary": "Naturally present secondary products and contaminants: remaining constituents vary by origin/method and include mainly calcium, potassium, magnesium and sodium sulphates, carbonates, bromides and chlorides, and natural contaminants may occur; copper shall not exceed 2 mg/kg (expressed as Cu).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant heading",
+        "natural contaminants"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.3 USE AS A CARRIER",
+      "summary": "Use as a carrier: food grade salt shall be used when salt is intended as a carrier for food additives or nutrients (e.g., curing salt with nitrate/nitrite, or salt mixed with fluoride, iodide/iodate, iron, vitamins, or stabilizing additives).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "carrier use",
+        "carrier formulation"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.4 IODISATION OF FOOD GRADE SALT",
+      "summary": "Iodisation: in iodine‑deficient areas food grade salt shall be iodised to prevent IDD; acceptable iodine compounds include sodium or potassium iodide/iodate, maximum and minimum iodine levels (mg/kg) are to be set by national health authorities based on local needs, and iodised salt production must be carried out by reliable manufacturers with appropriate knowledge and equipment to ensure correct dosage and even mixing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.4.1 Iodine compounds",
+      "summary": "Iodine compounds for fortification: sodium and potassium iodides or iodates may be used to fortify food grade salt with iodine.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "iodine compounds",
+        "fortification substance"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.4.2 Maximum and minimum levels",
+      "summary": "Iodisation levels: maximum and minimum iodisation levels are to be calculated as iodine (mg/kg) and established by national health authorities according to the local iodine deficiency situation.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "iodisation levels",
+        "iodine levels"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.4.3 Quality assurance",
+      "summary": "Quality assurance for iodised salt: production of iodised food grade salt shall only be performed by reliable manufacturers possessing the knowledge and equipment necessary for correct dosing and even intermixing.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality assurance",
+        "production competence"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits use in foods covered by this standard of the food additives listed for Food Category 12.1.1 (Salt) in Tables 1 and 2 of the Codex General Standard for Food Additives (CODEX STAN 192-1995).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires products covered by this Standard to comply with the Maximum Levels in the Codex General Standard for Contaminants and Toxins in Foods and Feeds (CODEX/STAN 193-1995).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum levels"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "6. FOOD HYGIENE",
+      "summary": "Recommends that products covered by this Standard be prepared and handled in accordance with the Codex General Principles of Food Hygiene (CAC/RCP 119-1969) and other relevant Codex Codes of Hygienic Practice and Codes of Practice.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7. LABELLING",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.1 THE NAME OF THE PRODUCT",
+      "summary": "Requires the label name to be \"salt\" with a close-proximity declaration of \"Food Grade\", \"Cooking Salt\" or \"Table Salt\"; allows the term \"dendritic\" only where ferrocyanide salts were added during crystallization; mandates explicit nutrient declarations (e.g., \"salt iodized\", \"salt fortified with iron\") when salt is sold as a nutrient carrier for public health reasons; and permits origin or production-method statements provided they are not misleading.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name",
+        "product designation",
+        "optional designation",
+        "fortified name",
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.2 LABELLING OF NON-RETAIL CONTAINERS",
+      "summary": "Requires non-retail containers to bear either on the container or accompanying documents the product name, lot identification and manufacturer/packer name and address, though lot ID and manufacturer/packer details may be replaced by an identification mark if it is clearly traceable to the accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail information"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "8. PACKAGING, TRANSPORTATION AND STORAGE",
+      "summary": "In iodisation programs, advises measures to preserve iodine until consumption including use of airtight HDPE/PP or LDPE‑lined jute packaging where necessary, avoiding reuse of bags previously holding chemicals, limiting bulk bags to 50 kg, streamlining distribution to reduce time to consumption, preventing exposure to rain, humidity or sunlight, and storing bags in covered, ventilated rooms, with similar consumer storage advice; notes the cost trade-off of switching to more protective packaging.",
+      "categories": [
+        "packaging",
+        "transport",
+        "storage"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "iodine retention",
+        "protective packaging",
+        "bulk pack limit",
+        "reused bags",
+        "distribution timing",
+        "storage conditions",
+        "covered storage",
+        "consumer storage"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Heading only: \"Methods of Analysis and Sampling\" with no substantive text in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "9.1 SAMPLING (SEE APPENDIX)",
+      "summary": "Heading only: \"Sampling (see Appendix)\" with no procedural text in this section.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "9.2 DETERMINATION OF SODIUM CHLORIDE CONTENT",
+      "summary": "Describes a calculation method for sodium chloride content based on determinations of sulphate, calcium and magnesium, potassium and loss on drying, provides rules for converting sulphates, calcium, magnesium, potassium and unused halogens to their chloride or sulfate equivalents, and requires reporting NaCl on a dry‑matter basis by adjusting for loss on drying using the factor 100/(100–P).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "sodium chloride determination"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "9.3 DETERMINATION OF INSOLUBLE MATTER",
+      "summary": "Specifies determination of matter insoluble in water or in acid and preparation of solutions according to ISO 2479-1972.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "insoluble matter method"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "9.4 DETERMINATION OF SULPHATE CONTENT",
+      "summary": "Specifies sulphate determination by ISO 2480-1972 (barium sulphate gravimetric method) with alternatives of ICP‑OES (EuSalt/AS 015-2007) or high‑performance ion chromatography (EuSalt/AS 018-2005).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "sulphate method"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "9.5 DETERMINATION OF CALCIUM AND MAGNESIUM CONTENTS",
+      "summary": "Section heading only for determination of calcium and magnesium contents; no method text provided in this section.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "9.6 DETERMINATION OF POTASSIUM CONTENT",
+      "summary": "Specifies potassium determination by flame atomic absorption spectrophotometry (EuSalt/AS 008-2005) with ICP‑OES (EuSalt/AS 015-2007) as an alternative.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "potassium method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "9.7 DETERMINATION OF THE LOSS ON DRYING (CONVENTIONAL MOISTURE)",
+      "summary": "Specifies determination of loss on drying (moisture) by ISO 2483-1973, measuring mass loss at 110 °C.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "loss on drying"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "9.8 DETERMINATION OF COPPER CONTENT",
+      "summary": "Specifies copper determination by Elements Emission Spectrometric Method (ICP‑OES) per EuSalt/AS 015-2007.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "copper method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "9.9 DETERMINATION OF ARSENIC CONTENT",
+      "summary": "Allows arsenic determination using EuSalt/AS 015-2007 (ICP‑OES).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "arsenic method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "9.10 DETERMINATION OF MERCURY CONTENT",
+      "summary": "Specifies total mercury determination by cold vapour atomic absorption spectrometry (EuSalt/AS 012-2005) or alternatively by ICP‑OES (EuSalt/AS 015-2007).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "mercury method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "9.11 DETERMINATION OF LEAD CONTENT",
+      "summary": "Specifies total lead determination by flame atomic absorption spectrometry (EuSalt/AS 013-2005) with ICP‑OES (EuSalt/AS 015-2007) as an alternative.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "lead method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9.12 DETERMINATION OF CADMIUM CONTENT",
+      "summary": "Specifies total cadmium determination by flame atomic absorption spectrometry (EuSalt/AS 014-2005) with ICP‑OES (EuSalt/AS 015-2007) as an alternative.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "cadmium method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "9.13 DETERMINATION OF IODINE CONTENT",
+      "summary": "Specifies total iodine determination by titration with sodium thiosulfate (EuSalt/AS 002-2005) and allows alternative methods including the WHO/UNICEF/ICCIDD titration guide or ICP‑OES (EuSalt/AS 019-2009) for total bromine and iodine.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "iodine method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "APPENDIX",
+      "summary": "Non-substantive appendix heading; no substantive requirements provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "METHOD FOR THE SAMPLING OF FOOD GRADE SALT FOR THE DETERMINATION OF SODIUM CHLORIDE",
+      "summary": "Heading only indicating a method for sampling food‑grade salt for determination of sodium chloride; no procedural text in this item.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "1. SCOPE",
+      "summary": "Specifies the sampling procedure to determine NaCl as the main component for assessing food‑grade salt quality per the Codex Standard (Section 3) and provides the acceptance/rejection criterion for lots/consignments based on the sample.",
+      "categories": [
+        "scope",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "acceptance criterion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "2. FIELD OF APPLICATION",
+      "summary": "Applies to sampling of any type of salt intended for food use, whether prepacked or in bulk.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "3. PRINCIPLE",
+      "summary": "Defines a variables sampling approach using blended bulk samples representative of the lot to estimate mean NaCl content, with lot acceptance conditioned on the mean meeting the Standard's specified provision.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "principle heading",
+        "sampling principle",
+        "blended sample",
+        "acceptance criterion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "4. DEFINITIONS",
+      "summary": "States that terms used follow the General Guidelines on Sampling (CAC/GL 50-2004) unless otherwise specified.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "reference terms"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "5. EQUIPMENT",
+      "summary": "Requires use of sampling equipment appropriate to the tests (e.g., borers, chemically inert materials) and chemically inert, air‑tight containers for collecting samples.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "sampling equipment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "6. PROCEDURE",
+      "summary": "Describes overall sampling procedures covering prepacked (random or systematic) and bulk (stratified) salt, and instructions for composing blended laboratory samples including minimum sizes and mixing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "6.1 PREPACKED SALT",
+      "summary": "For prepacked salt, sampling may be by random or systematic methods depending on lot characteristics (e.g., numbered packages may suit systematic sampling).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "6.1.1 Random sampling",
+      "summary": "Random sampling: draw n items so that each item in the lot has an equal chance of selection.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "random sampling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "6.1.2 Systematic sampling",
+      "summary": "Systematic sampling: number units 1..N, compute k = N/n (round if necessary), randomly select one of the first k units, then take every k‑th unit thereafter.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "systematic sampling",
+        "sampling procedure"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "6.2 SALT IN BULK",
+      "summary": "For bulk salt, treat the lot as m/100 fictitious items (strata) and perform stratified sampling with samples drawn from all strata in proportion to stratum sizes.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "bulk sampling",
+        "stratified sampling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "6.3 CONSTITUTION OF THE SAMPLE",
+      "summary": "Specifies minimum sample size and number depend on salt type and lot magnitude, gives minimums (e.g., 250 g for bulk or >1 kg packages; one package for 500 g or 1 kg prepacked), and requires combining and mixing items to form blended laboratory sample(s), with sample counts determined per CAC/GL 50-2004.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "6.3.1 The  size  and  the  number  of  the  items  forming  the  sample",
+      "summary": "States minimum sample size rules: 250 g for bulk or prepacked >1 kg, and one full package for prepacked 500 g or 1 kg, with the number of items depending on salt type and lot size.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample size"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "7. ACCEPTANCE CRITERION",
+      "summary": "Requires determining NaCl (%) on at least two test portions, calculating the mean of test results, and accepting the lot if the mean meets or exceeds the minimum NaCl level specified in the Standard.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "acceptance criterion",
+        "naCl test",
+        "result calculation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "8. SAMPLING REPORT",
+      "summary": "Mandates a sampling report recording salt type and origin, condition, sampling date, lot/consignment number, packing method, total mass, package counts/masses (net/gross), number/items sampled and their positions, bulk sample composition/mass and preservation method, and names/signatures of samplers.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "sampling report",
+        "sampling report details"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

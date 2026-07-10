@@ -1,0 +1,608 @@
+{
+  "doc_id": "ea31c249-80d2-46c1-889c-3a8b37dafe91",
+  "title": "STANDARD FOR JAMS, JELLIES AND MARMALADES CXS 296-2009",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR JAMS, JELLIES AND MARMALADES CXS 296-2009",
+      "summary": "Title of the Codex standard: Standard for Jams, Jellies and Marmalades (CXS 296-2009).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 2009. Amended in 2017, 2020, 2022, 2023.",
+      "summary": "Record of adoption and amendment history: standard adopted in 2009 and amended in 2017, 2020, 2022 and 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendment history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2022 Amendment",
+      "summary": "2022 amendment notice stating that amendments were made to Section 8.4 (labelling of non-retail containers) following the 2022 Codex Commission decisions.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2023 Amendment",
+      "summary": "2023 amendment notice stating that amendments were made to Section 9 (Methods of analysis and sampling) following the 2023 Codex Commission decisions.",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "methods amendment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1. SCOPE",
+      "summary": "Scope: standard applies to jams, jellies and marmalades offered for direct consumption (including catering and repacking) and supersedes earlier individual standards, and excludes products intended for further processing, special dietary uses, reduced/very low sugar products, and products wholly or partly sweetened by non-sugar additives; use of terms 'preserve' or 'conserve' must comply with the jam/extra jam requirements.",
+      "categories": [
+        "scope",
+        "labelling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusion",
+        "reserved terms"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. DESCRIPTION",
+      "summary": "Description: defines product types covered—jam, jelly, citrus and non-citrus marmalades and jelly marmalade—by raw-material form and processing, and provides additional definitions for terms used (fruit, fruit pulp, puree, aqueous extracts, citrus fruit, and permitted sweetening substances).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definitions heading",
+        "table header",
+        "table separator",
+        "jam definition",
+        "jelly definition",
+        "citrus marmalade definition",
+        "non-citrus marmalade",
+        "jelly marmalade",
+        "other definitions heading",
+        "introductory statement",
+        "fruit definition",
+        "fruit pulp",
+        "fruit puree",
+        "aqueous extracts",
+        "aqueous extracts continuation",
+        "fruit juices reference",
+        "citrus fruit",
+        "sweetening properties"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section sets out essential composition and quality framework for the standard, covering required ingredients and fruit content, soluble solids, quality criteria and defect classification and referring to sampling/lot acceptance provisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Composition",
+      "summary": "Composition: identifies the basic required ingredients as fruit (per Section 2.2) in quantities specified in 3.1.2 and foodstuffs with sweetening properties, and instructs that jelly fruit quantities be calculated after deducting water used in aqueous extracts.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Basic ingredients: requires fruit ingredient in quantities set out in 3.1.2 and sweetening foodstuffs per Section 2.2, and specifies that for jellies quantities should be calculated net of water used for aqueous extracts.",
+      "categories": [
+        "composition",
+        "other",
+        "classification"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "bullet marker",
+        "fruit ingredient requirement",
+        "jelly quantity basis",
+        "product class"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.2 Fruit content",
+      "summary": "Fruit content: prescribes minimum fruit-content requirements—generally 45% (or alternatively 35%) of finished product with specified lower minima for many listed fruits, reductions proportional when fruits are mixed, special provisions allowing certain grape products to count toward fruit content, and specific citrus (see 3.1.2(c)) and non-citrus marmalade minima.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "(c) Citrus marmalade",
+      "summary": "Citrus marmalade: requires at least 200 g of citrus fruit ingredients per 1000 g finished product, of which at least 75 g must come from the endocarp, and permits the term 'jelly marmalade' when no insoluble matter is present (small thin peel allowed).",
+      "categories": [
+        "classification",
+        "composition"
+      ],
+      "subcategories": [
+        "citrus marmalade",
+        "fruit content",
+        "jelly marmalade"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "(d) Non-citrus marmalade",
+      "summary": "Non-citrus marmalade: requires a minimum of 30% fruit ingredient in the finished product in general, with an exception allowing 11% for ginger.",
+      "categories": [
+        "classification",
+        "composition"
+      ],
+      "subcategories": [
+        "non-citrus marmalade",
+        "fruit content"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1.3 Other permitted ingredients",
+      "summary": "Other permitted ingredients: allows any appropriate plant-origin food ingredient (e.g., fruits, herbs, spices, nuts, alcoholic drinks, essential oils, edible oils/fats as antifoaming agents) provided they do not mask poor quality or mislead consumers, with examples of restricted colouring additions to certain jams.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2 Soluble solids",
+      "summary": "Soluble solids: specifies soluble-solids content for finished products—60–65% or greater for the products defined in 3.1.2(a)–(c), and 40–65% (or less) for the product defined in 3.1.2(d).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "soluble solids"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.3 Quality criteria",
+      "summary": "Quality criteria: requires finished products to have appropriate gelled consistency, normal colour and flavour for the fruit type, be free from defective fruit-associated materials, and that jelly/extra jelly be reasonably clear or transparent.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.3.1 General requirements",
+      "summary": "General requirements: end product must have appropriate gelled consistency, normal colour and flavour appropriate to the fruit ingredient (accounting for optional ingredients/colouring) and be free from defective fruit materials, with jelly/extra jelly reasonably clear or transparent.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "general requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.3.2 Defects and allowances for jams",
+      "summary": "Defects and allowances for jams: products must be largely free of defects such as retained plant material, stones/pieces of stones and mineral matter, and seeds are not defects for berry, dragon fruit and passion fruit unless the product is labelled 'seedless'.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defects allowances"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.4 Classification of 'defectives'",
+      "summary": "Classification of 'defectives': any container failing one or more quality requirements of 3.3.1 is a 'defective'; the section also defines 'endocarp' for citrus fruit as the pulp (flesh) containing juice vesicles and seeds.",
+      "categories": [
+        "analysis sampling",
+        "definition"
+      ],
+      "subcategories": [
+        "defective classification",
+        "endocarp definition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.5 Lot acceptance",
+      "summary": "Lot acceptance: a lot meets the quality requirements when the number of 'defectives' does not exceed the acceptance number (c) of the applicable sampling plan using an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "States that only the listed food additive classes and specific additives may be used in products covered by the standard, only for the functions and within the limits specified, referencing Table 3 of the General Standard for Food Additives (CXS 192-1995) and providing specific tables/limits for acidity regulators, antifoaming agents, colours, preservatives and permitted flavourings.",
+      "categories": [
+        "additives",
+        "other"
+      ],
+      "subcategories": [
+        "additives heading",
+        "general provisions",
+        "additive classes",
+        "acidity regulators",
+        "acidity regulators table",
+        "antifoaming agents",
+        "antifoaming agents table",
+        "colours",
+        "colours table",
+        "colour additive levels",
+        "table header",
+        "table separator",
+        "preservatives heading",
+        "preservative limits",
+        "flavourings heading",
+        "permitted flavourings"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "Specifies that a lot complies with Section 7.1.1 if the number of defectives (per Section 7.1.2) does not exceed the acceptance number c from the applicable sampling plan at an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "8. LABELLING",
+      "summary": "Requires products to be labelled in accordance with the General Standard for the Labelling of Pre‑packaged Foods (CXS 1-1985) and adds specific provisions on product names, fruit and sugar declarations and non‑retail container labelling.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8.1 The products covered by the provisions of this  standard shall be labelled in accordance with the General standard for the labelling of pre-packaged foods (CXS 1-1985). 9  In addition, the following specific provisions apply:",
+      "summary": "Mandates labelling per the General Standard for the Labelling of Pre‑packaged Foods (CXS 1-1985) and notes that additional specific provisions in this standard also apply.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling requirements"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "8.2 Name of the product",
+      "summary": "Specifies acceptable product names by product category (e.g., jam, extra jam, high fruit jam, jelly, marmalade) and requires the name used to conform with the legislation of the country of retail sale.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8.2.1 The names of the products shall be:",
+      "summary": "Lists permitted product name variants for the different product cases (e.g., jam, jelly, marmalade, 'X' marmalade) and reiterates that the name must comply with national retail‑sale legislation.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product names",
+        "product name examples",
+        "product name variants",
+        "legal name"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.2.2 The name of the product shall provide an indication of the fruit(s) used in descending order of weight of the raw material used. In the case of products made with three of more different fruits, the alternative phrase 'mixed fruit' or similar wording or by the number of fruits may be used.",
+      "summary": "Requires the product name to indicate the fruit(s) used in descending order by weight of raw material, with 'mixed fruit' or a number of fruits allowed as an alternative for products containing three or more fruits.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fruit content declaration"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8.2.3 The name of the product may provide an indication of the variety of fruit e.g. 'Victoria' plum and/or may include an adjective describing the character e.g. 'seedless', 'shredless'.",
+      "summary": "Permits the product name to indicate fruit variety (e.g., 'Victoria' plum) and to include descriptive adjectives about character (e.g., 'seedless', 'shredless').",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name description"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.2.4 The name of the product shall be accompanied by the term 'prepared with added alcohol' in accordance with the legislation of the country of retail sale.",
+      "summary": "Requires the product name to be accompanied by the phrase 'prepared with added alcohol' in accordance with the legislation of the country of retail sale.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "added alcohol statement"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8.3 Fruit quantity and sugar declaration",
+      "summary": "Allows, depending on national legislation, voluntary declaration of fruit ingredient content ('prepared with X g of fruit per 100 g') and total sugar content ('total sugar content X g per 100 g'), and requires any fruit content indication to reflect the quantity/type of fruit used in the product as sold minus water used in aqueous extracts.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "quantity declaration heading",
+        "sugar content declaration"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "8.4 Labelling of non-retail containers",
+      "summary": "States that labelling of non‑retail containers should comply with the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Establishes that methods of analysis and sampling in the Recommended Methods of Analysis and Sampling (CXS 234-1999) shall be used to check compliance and that the standard includes sampling plans and inspection levels for lot assessment.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "9.1 METHODS OF ANALYSIS",
+      "summary": "Mandates using the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) that are relevant to the provisions of this standard for compliance checks.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "9.2 SAMPLING",
+      "summary": "Refers to sampling as described in the standard and provides detailed sampling plans, including two inspection levels (I for normal sampling; II for disputes/enforcement/referee use) with sample sizes and acceptance numbers at AQL = 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "Sampling plans",
+      "summary": "Explains selection of inspection level: Inspection level I for normal sampling and Inspection level II for disputes, Codex referee purposes, enforcement or when a better lot estimate is needed.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plans heading",
+        "inspection level selection",
+        "inspection level",
+        "sampling table marker",
+        "sampling type",
+        "inspection purpose"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "SAMPLING PLAN 1",
+      "summary": "Provides Sampling Plan 1 (Inspection level I, AQL = 6.5) tables specifying lot size ranges, corresponding sample sizes and acceptance numbers for different net weight categories.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plan heading",
+        "inspection level heading",
+        "sampling table heading",
+        "sampling table separator",
+        "sampling table columns",
+        "sampling table values",
+        "sampling table",
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    }
+  ]
+}

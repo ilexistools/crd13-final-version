@@ -1,0 +1,371 @@
+{
+  "doc_id": "d6410f49-eab4-406e-b2cf-2c16d2aea87f",
+  "title": "STANDARD FOR DRIED FLORAL PARTS: CLOVES CXS 344-2021",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR DRIED FLORAL PARTS: CLOVES CXS 344-2021",
+      "summary": "Standard title: 'Standard for Dried Floral Parts: Cloves (CXS 344‑2021)', adopted 2021 and amended in 2022, with an example amendment updating non‑retail container labelling to reference the General Standard for Labelling of Non‑Retail Containers (CXS 346‑2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption note",
+        "amendment note",
+        "table header",
+        "table divider",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to dried or dehydrated plant products used as spices offered for direct consumption, as food ingredients, or for repackaging, and excludes products intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Description heading introducing the product definition and permitted styles for dried cloves.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product definition",
+      "summary": "Defines dried cloves as the dried floral part (clove nail) of Syzygium aromaticum and provides the common and scientific name in Table 1.",
+      "categories": [
+        "definition",
+        "other"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "table title",
+        "table header",
+        "table divider",
+        "table entry"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Styles",
+      "summary": "Specifies permitted styles of dried cloves as whole and ground/powdered forms, with the ground form containing no added matter.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "styles heading",
+        "style variants",
+        "whole form",
+        "ground form"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Composition",
+      "summary": "Product described in Section 2 must conform to the compositional requirements set out in Annexes I and II of this standard.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Quality factors",
+      "summary": "The product must have characteristic odour, flavour and colour free from foreign odours/flavours/colours (notably rancidity and mustiness); it must meet the chemical and physical requirements in Annex I (Table 2) and Annex II (Table 3), and allowed defects must not impair appearance, keeping quality or package presentation, with Annexes I and II applying as minimum requirements if the product is traded as classified.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2.1 Odour, flavour, and colour",
+      "summary": "The product shall exhibit a characteristic odour, flavour and colour (which may vary with geo‑climatic conditions) and must be free from any foreign odour, flavour or colour, particularly rancidity and mustiness.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "sensory characteristics",
+        "sensory quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2.2 Chemical and physical characteristics",
+      "summary": "The generic product must comply with the chemical and physical requirements specified in Annex I (Table 2) and Annex II (Table 3), and any allowed defects must not affect the product’s general appearance, keeping quality or presentation in the package.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "physical characteristics",
+        "quality requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.3 Classification (optional)",
+      "summary": "If the product is traded as classified, the provisions of Annexes I and II apply as minimum requirements.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "classification heading",
+        "optional classification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Anticaking agents listed in Table 3 of the General Standard for Food Additives (CXS 192-1995) are acceptable for use in powdered forms of foods conforming to this standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "anticaking agents"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. CONTAMINANTS",
+      "summary": "Products covered by this standard must comply with Codex maximum levels for contaminants and toxins (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum levels",
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "6. HYGIENE",
+      "summary": "It is recommended that products be prepared and handled in accordance with relevant Codex hygiene texts (including CXC 1-1969, CXC 75-2015 and Annex III on spices/dried culinary herbs), and that they comply with any microbiological criteria established under CXG 21-1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6.1 It is recommended that the products covered by the provisions of this standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), 3  the Code of Hygienic Practice for Low-Moisture Foods (CXC 75-2015), 4  Annex III on Spices and dried culinary herbs, and other relevant Codex Alimentarius texts.",
+      "summary": "Recommendation that products covered by this standard be prepared and handled according to the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Low‑Moisture Foods (CXC 75-2015), Annex III on spices and dried culinary herbs, and other relevant Codex texts.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene practices"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6.2 The products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997). 5",
+      "summary": "Products should comply with microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Containers shall be filled as practicable without impairing product quality and must be consistent with a proper declaration of contents.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "weights heading",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "8. LABELLING",
+      "summary": "Products must be labelled in accordance with the General Standard for the Labelling of Pre‑packaged Foods (CXS 1-1985) with specific provisions: the product name as in Section 2.1, optional style indication per Section 2.2, optional trade name/variety/cultivar, mandatory declaration of country of origin (country of harvest, region and year of harvest optional), and non‑retail container labelling per CXS 346-2021.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "general labelling",
+        "product name heading",
+        "product name",
+        "style declaration",
+        "trade name",
+        "origin harvest",
+        "country origin",
+        "country harvest",
+        "harvest region year",
+        "non-retail containers",
+        "non-retail reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Methods of analysis for checking compliance shall be those in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to this standard; a sampling plan is to be developed.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis sampling heading",
+        "methods heading",
+        "compliance methods",
+        "sampling plan",
+        "to be developed"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Annex II",
+      "summary": "Annex II contains Table 3 setting physical requirements for dried floral parts (cloves), specifying numeric maximums for whole and ground cloves across attributes such as mammalian/other excreta, live insects, visible mould, insect‑defiled/infested, extraneous and foreign matter, and defect percentages.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Table 3. Physical requirements of dried floral parts - cloves",
+      "summary": "Table 3 lists physical maximum limits for dried clove (whole and ground), including mammalian/other excreta (10 mg/kg max for whole), live insects (0/100 g), visible mould (1% max for whole), insect‑defiled 1%, extraneous matter 1%, foreign matter 1%, and defect limits for headless/mother/khoker (5/6/5 % w/w for whole), with some items marked N/A for ground spice.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "physical requirements",
+        "quality table",
+        "table separator",
+        "clove limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Annex I",
+      "summary": "Annex I provides bibliographic references to cited Codex documents and standards (e.g., CXS 192-1995, CXS 193-1995, CXC 1-1969, CXC 75-2015, CXG 21-1997, CXS 1-1985, CXS 346-2021, CXS 234-1999).",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "annex heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "doc_id": "a61aa2b2-8763-45e5-9b61-37bae935bc59",
+  "title": "CODE OF PRACTICE FOR THE REDUCTION OF ACRYLAMIDE IN FOODS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE REDUCTION OF ACRYLAMIDE IN FOODS",
+      "summary": "Code of Practice CXC 67-2009 provides guidance for national/local authorities and industry to prevent and reduce acrylamide formation in foods, explains that acrylamide forms mainly from asparagine reacting with reducing sugars at high temperature/low moisture and that major dietary contributors include fried and baked potato and cereal products and coffee, and outlines approaches and practical constraints for mitigation (raw materials, ingredient control, processing) with examples and cautions to avoid compromising safety, nutrition or organoleptic quality.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Introduces the acrylamide concern arising in 2002, states acrylamide primarily forms from asparagine plus reducing sugars during high‑temperature/low‑moisture cooking, and reports JECFA findings that major dietary sources include French fries, potato crisps, coffee, biscuits/pastries and bread while noting total dietary extent remains unclear.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "processing",
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "hazard background",
+        "formation conditions",
+        "occurrence summary",
+        "database note",
+        "footnote note",
+        "dietary sources"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SCOPE",
+      "summary": "Scope: the Code provides guidance to authorities, manufacturers and other bodies to prevent and reduce acrylamide formation specifically in potato and cereal products, addressing three strategies—raw materials, control/addition of ingredients, and food processing/heating.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "control strategies"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "RECOMMENDED PRACTICES TO INDUSTRY FOR THE MANUFACTURE OF POTATO PRODUCTS (E.G. FRENCH FRIES, POTATO CRISPS, POTATO SNACKS)",
+      "summary": "Section heading only for recommended practices to industry on potato product manufacture; substantive measures are provided in subsequent sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "RAW MATERIALS",
+      "summary": "For potato raw materials the Code recommends selecting cultivars with low reducing sugars, controlling storage (good practice >6 °C), reconditioning potatoes stored at low temperature (e.g. 12–15 °C) based on fry tests, avoiding immature tubers, using sprout suppressants where permitted, and screening incoming lots by reducing sugar measurement or fry colour assessment.",
+      "categories": [
+        "composition",
+        "storage",
+        "processing",
+        "classification",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "composition factors",
+        "agronomic factors",
+        "cultivar selection",
+        "storage conditions",
+        "reconditioning treatment",
+        "sorting grading",
+        "sprout suppression",
+        "screening testing"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "CONTROL/ADDITION OF OTHER INGREDIENTS",
+      "summary": "Ingredient controls include partial replacement of potato in reconstituted products (e.g. rice flour), use of asparaginase in suitable products to reduce asparagine (noting large amounts may be required), and pre‑frying treatments with reagents (e.g. sodium pyrophosphate, calcium salts) to reduce acrylamide, all used in accordance with applicable legislation, while avoiding use of reducing sugars as coatings or browning agents.",
+      "categories": [
+        "composition",
+        "processing",
+        "additives"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "ingredient substitution",
+        "enzyme treatment",
+        "additive use",
+        "ingredient avoidance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "FOOD PROCESSING AND HEATING",
+      "summary": "Section heading only for food processing and heating; substantive guidance appears in following paragraphs.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "16. Decrease of the surface area can be employed; for example in French fries, by cutting potatoes into thicker slices; 14x14mm strips have been shown to have lower acrylamide levels than fine cut strips (8x8mm) or removal of fines (fine pieces of potato) before or after frying to reduce levels of acrylamide in fried or roasted potatoes.",
+      "summary": "Reducing surface area (e.g. using thicker French‑fry strips such as 14×14 mm rather than finer cuts) or removing fines can lower acrylamide formation in fried or roasted potatoes.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "surface area reduction"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "COFFEE",
+      "summary": "For coffee, no commercial mitigation measures are currently available, although acrylamide levels in roasted coffee powder decline during extended storage in closed containers and research is ongoing to identify mechanisms and potential mitigation approaches, noting changes to roasting or storage would likely affect organoleptic properties.",
+      "categories": [
+        "composition",
+        "other",
+        "storage"
+      ],
+      "subcategories": [
+        "coffee heading",
+        "no measures",
+        "storage effects"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "CONSUMER PRACTICES",
+      "summary": "Consumer practices: authorities should advise consumers to avoid overheating potato and cereal foods (e.g. aim for golden‑yellow fries and light brown toast), discourage cold/refrigerated storage of potatoes intended for high‑temperature cooking, and industry should provide appropriate cooking and handling instructions to mitigate acrylamide formation.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "consumer practices heading",
+        "consumer advice",
+        "storage advice",
+        "industry advice"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

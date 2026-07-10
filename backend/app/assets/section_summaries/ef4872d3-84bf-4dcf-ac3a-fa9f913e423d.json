@@ -1,0 +1,682 @@
+{
+  "doc_id": "ef4872d3-84bf-4dcf-ac3a-fa9f913e423d",
+  "title": "STANDARD FOR PICKLED CUCUMBERS (CUCUMBER PICKLES) CXS 115-1981 Adopted in 1981. Amended in 2017, 2020, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR PICKLED CUCUMBERS (CUCUMBER PICKLES) CXS 115-1981 Adopted in 1981. Amended in 2017, 2020, 2022.",
+      "summary": "Title of the Codex standard for pickled cucumbers (CXS 115‑1981) with a note that amendments (including to Section 8.2 on labelling of non‑retail containers) were adopted through 2017–2022.",
+      "categories": [
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "standard title",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 SCOPE",
+      "summary": "Applies to pickled cucumbers for direct consumption prepared mainly from cucumbers (fresh, desalted cured or fermented, or acidulated), preserved to pH ≤4.6 by fermentation or acidulants and optionally pasteurized, cooled or chemically preserved, and excludes finely chopped relishes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "product scope",
+        "processing scope",
+        "included products",
+        "excluded products"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "DESCRIPTION",
+      "summary": "Section heading introducing the product description, including the product definition, pack types/subtypes, presentation styles and provisions for other styles.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product definition",
+      "summary": "Defines pickled cucumbers as products from clean, sound Cucumis sativus L. cucumbers that may be peeled or de‑seeded, packed with or without a liquid packing medium and seasonings, and preserved (before or after packing) by acidulation to pH ≤4.6 or by heat pasteurization, refrigeration or chemical preservatives.",
+      "categories": [
+        "classification",
+        "definition",
+        "composition",
+        "presentation",
+        "packaging",
+        "processing"
+      ],
+      "subcategories": [
+        "definition heading",
+        "product definition",
+        "raw material",
+        "presentation options",
+        "packing medium",
+        "preservation method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Types and kinds of pack",
+      "summary": "Defines pack types (fresh pack from uncured/unfermented cucumbers; cured type from cucumbers cured in brine with or without fermentation) and introduces subtypes whose analytical characteristics are determined on the packing medium after equalization.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 Fresh pack type",
+      "summary": "Fresh pack type: prepared from fresh, uncured and unfermented cucumbers.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "type heading",
+        "fresh pack type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.2 Cured type",
+      "summary": "Cured type: prepared from cucumbers cured in salt brine or other suitable curing solution, with or without natural or controlled fermentation, and the salt stock may be desalted during processing if necessary.",
+      "categories": [
+        "classification",
+        "processing"
+      ],
+      "subcategories": [
+        "type heading",
+        "cured preparation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.3 Subtypes",
+      "summary": "Lists subtypes (e.g. dill, herb, sour, sweet‑sour, sweet, mustard, salt sour, mild, hot) and specifies analytical criteria for the packing medium after equalization, including ranges for total acidity (as acetic acid), salt (NaCl) and salt‑free soluble solids for each subtype.",
+      "categories": [
+        "classification",
+        "analysis sampling",
+        "quality"
+      ],
+      "subcategories": [
+        "subtypes heading",
+        "analytical basis",
+        "subtype table",
+        "table separator",
+        "dill subtype",
+        "herb subtype",
+        "sour subtype",
+        "sweet-sour subtype",
+        "sweet subtype",
+        "mustard subtype",
+        "salt sour subtype",
+        "mild subtype",
+        "hot subtype",
+        "analytical criteria",
+        "dill criteria",
+        "herb criteria",
+        "sour criteria",
+        "sweet-sour criteria",
+        "sweet criteria",
+        "mustard criteria",
+        "style classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.3 Styles",
+      "summary": "Specifies allowed presentation styles (whole, whole curved, halves, finger cut/spears, ring cut/chunks, slices/chips, strips) and size/shape limits (e.g. whole maximum diameter 54 mm or 65 mm in containers >4 L; 'gherkin' designation ≤27 mm; curved defined by a minimum curvature of 35°).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "style heading",
+        "style introduction",
+        "whole style",
+        "curved style",
+        "halves style",
+        "cut style",
+        "ring cut style",
+        "slice style"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.4 Other styles",
+      "summary": "Permits other presentations provided they are sufficiently distinctive from listed styles, comply with all relevant standard requirements (defects, drained weight, etc.), and are adequately described on the label to avoid consumer confusion.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "other styles heading",
+        "other style provision",
+        "distinctive form",
+        "style compliance",
+        "style description"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section heading introducing essential composition and quality factors, covering permitted ingredients and detailed quality criteria (colour, texture, flavour, size uniformity, defect definitions and allowances, mineral impurities, classification and acceptance of defectives).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1 Permitted ingredients",
+      "summary": "Permits ingredients including cucumbers, water, vinegar, salt (NaCl), vegetable oils, nutritive carbohydrate sweeteners, paprika, herbs, spices, condiments and vegetables (vegetables limited to ≤5% of total weight except the 'mustard' subtype where they may be ≤30%).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "cucumber ingredient",
+        "water ingredient",
+        "vinegar ingredient",
+        "salt ingredient",
+        "vegetable oil ingredient",
+        "sweetener ingredient",
+        "paprika ingredient",
+        "herbs ingredient",
+        "spices ingredient",
+        "condiments ingredient",
+        "vegetable limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2 Quality criteria",
+      "summary": "Sets quality criteria: normal colour typical of variety/type/style; reasonably firm, crisp texture; good flavour; size uniformity requirements (80% by count/weight within specified length/diameter variation); definitions of defects; allowances for defects by style; and a mineral impurity limit (except peeled cucumbers ≤0.08% m/m).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.5 Definition of defects",
+      "summary": "Defines defects: 'curved' (whole cucumbers curved ≥35°), 'misshaped' (deformed units), 'blemished' (disfiguring discoloration/scars), 'mechanical damage' (crushed/broken), 'stem' (>15 mm), 'poor texture' (shrivelled/soft/very large seeds), 'off colour', 'hollow centres' and 'grit/sand/silt' (mineral impurities affecting edibility).",
+      "categories": [
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "defects definition",
+        "curved defect",
+        "misshaped defect",
+        "blemished defect",
+        "mechanical damage",
+        "stem definition",
+        "poor texture",
+        "off colour",
+        "hollow centres",
+        "mineral impurities"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.6 Allowances for defects",
+      "summary": "Specifies sample units and maximum allowable defect limits by style: for whole/curved/halves/spears (standard sample 20 whole or 40 halves with per‑defect numeric limits and total defect limits of 7 or 11), and for ring cuts/slices/strips (standard sample 300 g drained with gram limits per defect and a maximum total of 75 g for listed defects).",
+      "categories": [
+        "quality",
+        "presentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defect allowances heading",
+        "style group heading",
+        "sample unit",
+        "limit table",
+        "table separator",
+        "defect criteria",
+        "curved defect",
+        "misshapen defect",
+        "blemish defect",
+        "mechanical damage",
+        "stem defect",
+        "texture defect",
+        "colour defect",
+        "hollow centre",
+        "total defect limit",
+        "ring cuts slices"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.7 Mineral impurities",
+      "summary": "Sets a mineral-impurities limit of 0.08 percent m/m for all styles and types, with an exception noted for peeled cucumbers.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "mineral impurities",
+        "mineral impurity limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.3 Classification of 'defectives'",
+      "summary": "Defines a 'defective' as any container that fails to meet the applicable quality requirements specified in Section 3.2.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defective classification",
+        "defective definition"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.4 Acceptance",
+      "summary": "Accepts a lot for quality when the number of 'defectives' (per Section 3.3) does not exceed the acceptance number (c) from an appropriate sampling plan with an AQL of 6.5, referencing Codex methods of analysis and sampling.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "acceptance heading",
+        "acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Provides a table of permitted food additives and maximum levels for pickled cucumbers across categories (solubilizing/dispersing agents, firming agents, preservatives, colourings, thickening agents, acidifiers, flavourings) and lists contaminant limits (e.g., tin 250 mg/kg as Sn; lead 1 mg/kg), with several substances limited by good manufacturing practice or specific mg/kg limits such as gum arabic 500 mg/kg, firming agents 250 mg/kg, sulphur dioxide 50 mg/kg, benzoic acid salts up to 1 000 mg/kg combination, and chlorophyll copper complex 300 mg/kg.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.1 Solubilizing and dispersing agents",
+      "summary": "Lists permitted solubilizing and dispersing agents for the product—including Polysorbate 80, xanthan gum, gum arabic (500 mg/kg singly or in combination), alginates (Ca, NH4, Na, K), propylene glycol alginate and carrageenan.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "emulsifier stabilizer",
+        "additive table",
+        "permitted additive",
+        "additive limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.2 Firming Agents",
+      "summary": "Permits calcium chloride, calcium lactate and calcium gluconate as firming agents at up to 250 mg/kg singly or in combination.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "firming agents",
+        "firming agent limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.3 Preservatives",
+      "summary": "Permits preservatives including sulphur dioxide (as carryover) up to 50 mg/kg and benzoic acid with its sodium and potassium salts up to 1 000 mg/kg combined, and lists potassium sorbate as an allowed preservative.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "preservatives heading",
+        "preservative limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.4 Colouring matters",
+      "summary": "Lists permitted colouring matters (riboflavin, Fast Green FCF, tartrazine, annatto, turmeric, etc.) and permits chlorophyll copper complex up to 300 mg/kg singly or in combination, with a note on thickening agents allowed in mustard-type only.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "colouring matters",
+        "colouring matter list",
+        "colouring matter limit",
+        "thickening agents"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.5 Guar gum",
+      "summary": "Permits guar gum as a thickening agent and allows gum arabic subject to limits defined by good manufacturing practice (GMP) in manufacturing.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "thickening agent list",
+        "thickening agent limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.6 Acidifiers",
+      "summary": "Permits acidifiers including acetic, lactic (limited by GMP), malic and citric acids for the product, with lactic acid explicitly limited by good manufacturing practice.",
+      "categories": [
+        "additives",
+        "other"
+      ],
+      "subcategories": [
+        "acidifiers",
+        "acidifier list",
+        "table artifact",
+        "acidifier limit"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.7 Flavourings Natural and synthetic",
+      "summary": "Permits natural and synthetic flavourings for the product, limited by good manufacturing practice (GMP).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings limit"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5. CONTAMINANTS",
+      "summary": "Specifies contaminant maximum levels for the product, notably tin (Sn) 250 mg/kg (calculated as Sn) and lead (Pb) 1 mg/kg.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "tin limit",
+        "lead limit"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling per the Codex General Principles of Food Hygiene and related codes, requires the product to be free from objectionable matter to the extent possible under GMP, and mandates that when tested it be free from microorganisms, parasites, and microbial-origin substances at levels that may represent a hazard to health.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "general hygiene",
+        "objectionable matter",
+        "sampling examination",
+        "microbial hazard",
+        "parasite hazard",
+        "microbial toxin"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Sets container fill requirements and acceptance criteria: the product including packing medium must occupy at least 90% of the container's water capacity; specified minimum volume percentages of cucumber/vegetable ingredient apply by style (see Sections 7.1.2 and 7.1.3); and compliance is judged on the average across containers provided there is no unreasonable shortage in individual containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.1 Fill of container",
+      "summary": "Requires minimum fills: containers must be well filled so product plus packing medium occupy at least 90% of the container's water capacity, and sets minimum volume percentages of cucumber ingredient by pack style (detailed in subsections 7.1.2 and 7.1.3).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.1.2 Minimum volume fill for whole and whole curved styles",
+      "summary": "Requires that whole and whole curved cucumber ingredients occupy not less than 55% of container volume for cured type and not less than 53% for fresh pack type.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.1.3 Minimum volume fill for all styles except whole",
+      "summary": "Requires that styles other than whole have the vegetable/fruit ingredient occupy at least 55% of container volume for fresh pack and at least 57% for cured pack.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "fill of container",
+        "fill requirements",
+        "minimum fill"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.2 Acceptance",
+      "summary": "Declares that fill-of-container requirements are met when the average fill across all containers is not less than the specified minimum, provided individual containers do not show an unreasonable shortage.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "acceptance heading",
+        "average fill"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8. LABELLING",
+      "summary": "Adds product-specific labelling provisions to the General Standard for the Labelling of Pre-packaged Foods, requiring the name and additional declarations set out in Section 8.1 and directing non-retail container labelling to follow the General Standard for Non-Retail Containers (CXS 346-2021).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.1 Name of the food",
+      "summary": "Permits the names 'Pickled cucumbers', 'Cucumber pickles', 'Pickles' or 'Gherkins' and requires, in close proximity to the name, the pack type, style and subtype (including herb name); additionally, the 'dill' subtype may be labeled 'natural dill' or 'genuine dill' when fermented naturally in low-salt brine, whole-style containers over four litres must show approximate count range, and labels for products made under 'other styles' must include words to avoid misleading consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "product name",
+        "name proximity",
+        "pack type declaration",
+        "style declaration",
+        "subtype declaration",
+        "count range declaration",
+        "misleading prevention"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "VISUAL AID ILLUSTRATING CURVED AND MISSHAPEN CUCUMBERS",
+      "summary": "Illustrative aid defining a \"curved cucumber\" as one bent at an angle of 35 degrees or more (measured as illustrated) and defining \"misshapen\" cucumbers to include crooked types and nubbins (short, non‑cylindrical, poorly developed fruits), with example images indicated.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "illustration heading",
+        "shape illustration",
+        "shape description",
+        "image placeholder",
+        "page artifact"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    }
+  ]
+}

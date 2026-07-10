@@ -1,0 +1,778 @@
+{
+  "doc_id": "40169dca-b531-464c-b185-9709d695c809",
+  "title": "REGIONAL STANDARD FOR CHANTERELLES (Europe) i CXS 40R-1981",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL STANDARD FOR CHANTERELLES (Europe) i CXS 40R-1981",
+      "summary": "Header and administrative info: Regional Standard for Chanterelles (Europe) CXS 40R-1981 with adoption/revision/amendment history (1981, revised 2012, amended 2022) and reference to Codex website for regional members.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "adoption history",
+        "website note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "8.1.2 Origin of produce",
+      "summary": "Requires that for mixtures of distinctly different chanterelle species the common name of each species be indicated and, where country of origin or size differs, that origin/size be shown near the relevant species name; also requires country of origin and optionally district/place name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "mixture declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "8.2 Non-retail containers",
+      "summary": "Labelling requirement for non‑retail containers: each package must bear specified particulars legibly and indelibly grouped on the same side and visible from outside (or such particulars may appear in accompanying shipment documents), in addition to CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "8.2.1 Identification",
+      "summary": "Requires name and address of exporter, packer and/or dispatcher (identification code optional) and notes botanical name of species as optional.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "exporter identification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "8.2.2 Nature of produce",
+      "summary": "States that the common name is required if contents are not visible and the botanical name is optional, and indicates commercial identification should include class and, if sized, minimum and maximum cap diameters in cm.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "produce identification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "8.2.3 Mixtures",
+      "summary": "For mixtures of distinct species, common names of each species must be indicated and differing country of origin or size shown near the relevant species name; an official inspection mark is optional.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "official mark"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "8.2.4 Origin of Produce",
+      "summary": "Requires indication of country of origin and, optionally, district/region or national/regional/local place name of the species presented.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "8.2.5 Commercial Identification",
+      "summary": "Commercial identification must include class, size (if sized) expressed as minimum and maximum cap diameters in cm, and may include net weight (optional).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial identification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "8.2.6 Official Inspection Mark",
+      "summary": "States that an Official Inspection Mark is optional for non‑retail containers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "official mark"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "1. DEFINITION ii",
+      "summary": "Defines scope: standard applies to fresh carpophores (fruiting bodies) of edible Cantharellus and Craterellus species supplied fresh to the consumer (excluding chanterelles for industrial processing) and provides a non‑exhaustive list of commercialized species.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "1.1 Genus Cantharellus",
+      "summary": "Lists species of the genus Cantharellus with their common names and commercial type (chanterelle).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "genus heading",
+        "species table",
+        "table separator",
+        "species listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "1.2 Genus Craterellus",
+      "summary": "Lists species of the genus Craterellus with their common names and commercial type (chanterelle).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "genus heading",
+        "species table",
+        "table separator",
+        "species listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "States the standard's purpose is to define quality requirements for chanterelles at the export‑control stage, notes that products assessed post‑export may show slight lack of freshness or slight deterioration, and requires holders/sellers to market only in conformity with the standard and to be responsible for observing conformity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.1 Minimum requirements",
+      "summary": "Specifies minimum requirements applicable to all classes: chanterelles must be intact (stalk attached), sound (no rotting), clean, positively identifiable, firm, fresh in appearance, practically free from pests and pest damage, free of abnormal external moisture and foreign smell/taste, and fit to withstand transportation to arrive in satisfactory condition at destination.",
+      "categories": [
+        "quality",
+        "transport"
+      ],
+      "subcategories": [
+        "minimum requirements heading",
+        "general requirements",
+        "product condition",
+        "soundness requirement",
+        "cleanliness requirement",
+        "identifiability requirement",
+        "firmness requirement",
+        "freshness requirement",
+        "pest freedom",
+        "pest damage",
+        "moisture requirement",
+        "odor taste",
+        "transport suitability",
+        "destination condition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.2 Classification",
+      "summary": "Classifies chanterelles into three classes—Extra (superior quality, characteristic of species, free from defects except very slight superficial defects), Class I (good quality, allowing slight superficial/color/pest defects that do not affect appearance/quality/keeping/presentation) and Class II (products that meet minimum requirements but may show superficial defects, colouring defects, pest damage or damage including removal of blemished parts).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "2.2.1 Extra class",
+      "summary": "Defines Extra class: chanterelles must be of superior quality, characteristic of the species and free from defects except very slight superficial defects that do not affect general appearance, quality, keeping quality or presentation in the package.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "extra class",
+        "extra class quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.2.2 Class I",
+      "summary": "Class I chanterelles must be of good quality and characteristic of the species, but slight superficial defects, slight colouring defects, and slight pest damage are allowed provided they do not affect general appearance, quality, keeping quality or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class i",
+        "class i quality",
+        "class i defects"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2.2.3 Class II",
+      "summary": "Class II covers chanterelles that do not qualify for higher classes but meet the minimum requirements, and may exhibit superficial defects, defects in colouring, pest damage, or damage including removal of blemished parts provided they retain essential characteristics for quality, keeping quality and presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class ii",
+        "class ii requirements",
+        "class ii defects"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Size is determined by cap maximum diameter and height, with a minimum height of 1 cm; uniformity is optional, but if sized the size range between caps in the same package must not exceed 5 cm.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "sizing provisions",
+        "size determination",
+        "minimum size",
+        "size uniformity"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "At all marketing stages tolerances by weight are allowed for produce not satisfying the class indicated; quality tolerances specify numeric allowances (Extra class: 5% not meeting Extra but meeting Class I with ≤0.5% Class II within that; Class I: 10% not meeting Class I but meeting Class II with ≤1% neither Class II nor minimum/decay, plus 5% trimmed allowed; Class II: 10% not meeting the class or minimum with ≤2% decay) and size tolerances (if sized) allow 10% by weight not satisfying sizing requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.1 Extra class",
+      "summary": "Quality tolerances at marketing specify numeric allowances: Extra class permits 5% by weight not meeting Extra but meeting Class I (≤0.5% may be Class II), Class I permits 10% by weight not meeting Class I but meeting Class II (≤1% may be neither Class II nor minimum or be decayed) plus 5% trimmed allowance, and Class II permits 10% by weight not meeting the class or minimum (≤2% may be decayed).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.1.1 Extra class",
+      "summary": "For Extra class, up to 5% by weight of chanterelles not satisfying Extra but meeting Class I are allowed, of which no more than 0.5% may consist of produce satisfying only Class II quality.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "extra class tolerance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.1.2 Class I",
+      "summary": "For Class I, up to 10% by weight of chanterelles not satisfying Class I but meeting Class II are allowed, within which up to 1% may be produce failing Class II or the minimum requirements or affected by decay, and an additional allowance of 5% by weight is permitted for trimmed chanterelles.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "class i tolerance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.1.2 Class I",
+      "summary": "For Class I, up to 10% by weight of chanterelles not satisfying Class I but meeting Class II are allowed, within which up to 1% may be produce failing Class II or the minimum requirements or affected by decay, and an additional allowance of 5% by weight is permitted for trimmed chanterelles.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "class i tolerance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.1.3 Class II",
+      "summary": "For Class II, a total tolerance of 10% by weight is allowed for chanterelles satisfying neither the class nor the minimum requirements, within which up to 2% by weight may consist of produce affected by decay.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "class ii tolerance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.2 Size tolerances",
+      "summary": "For all classes when sized, a size tolerance of 10% by weight is allowed for chanterelles not meeting the sizing requirements.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "size tolerances",
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Each package must be uniform (same origin, quality, species and size if sized) though distinctly different chanterelle species may be packed together in consumer packages if separated and uniform per species, and the visible portion must represent the whole; packaging must protect the produce, use new/clean materials of suitable quality (non-toxic inks/glues allowed), comply with CXC 44-1995, and containers must meet required quality, hygiene, ventilation and resistance characteristics and be free of foreign matter and smell.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5.1 Uniformity",
+      "summary": "Packages must be uniform containing only chanterelles of the same origin, quality, species and size (if sized), though mixtures of distinctly different species may be packed together in consumer packages if separated and uniform, and the visible part of the contents must represent the entire contents.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "package uniformity",
+        "mixed species",
+        "visible contents"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "5.2 Packaging",
+      "summary": "Chanterelles must be packed to protect the produce, using new, clean materials of suitable quality that avoid damage (non-toxic inks/glues allowed), and packaging must comply with the Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (CXC 44-1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "5.2.1 Description of containers",
+      "summary": "Containers must meet quality, hygiene, ventilation and resistance characteristics to ensure suitable handling, shipping and preserving of chanterelles and packages must be free of all foreign matter and smell; recycled material of food-grade quality is acceptable.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container requirements",
+        "container characteristics",
+        "food grade material"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "6. CONTAMINANTS",
+      "summary": "The produce must comply with the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex maximum residue limits for pesticides established for this commodity.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7. HYGIENE",
+      "summary": "It is recommended that chanterelles be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53-2003) and other relevant Codex texts, and that they comply with any microbiological criteria established under CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8. MARKING OR LABELLING",
+      "summary": "Labelling rules: for consumer packages, if produce is not visible the common name must be shown, country of origin (and optionally district/place) must be indicated, and mixtures of distinct species should list common names and, where differing, origin or size per species; for non-retail containers (per CXS 346-2021) packages must bear particulars including nature of produce (botanical name optional), commercial identification (class and size as minimum/maximum cap diameters in cm), and optionally an official inspection mark.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.1 Consumer packages",
+      "summary": "Consumer package labelling must follow the General Standard for the Labelling of Pre-packaged Foods plus specific provisions: label the common name if produce is not visible, indicate country of origin (optionally district/place), and for mixtures list each species' common name and, where applicable, their country of origin or size.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.1.1 Nature of produce",
+      "summary": "If the produce is not visible from outside the consumer package, the package must be labelled with the common name of the produce.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature declaration",
+        "common name label"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.1.2 Origin of produce",
+      "summary": "Packages must indicate the country of origin and may optionally indicate the district where grown or national, regional or local place name of the species presented.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.1.3 Mixtures",
+      "summary": "For mixtures of chanterelles of distinctly different species, labels should indicate the common name of each species and, where the country of origin or size differs between species, the origin or size must be indicated next to the name of the relevant species.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "mixture declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "8.2 Non-retail containers",
+      "summary": "Non-retail containers must comply with the General Standard for the Labelling of Non-Retail Containers (CXS 346-2021) and additionally bear specified particulars legibly and indelibly on the same side or in accompanying documents, including the nature of produce, commercial identification (class and size) and optionally an official inspection mark.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "8.2.1 Nature of produce",
+      "summary": "Indicating the botanical name of the species on non-retail containers is optional.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature declaration",
+        "botanical name"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "8.2.2 Commercial identification",
+      "summary": "Commercial identification on non-retail containers must show the class and, if the produce is sized, the size expressed as minimum and maximum cap diameters in centimetres.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial identification",
+        "class declaration",
+        "size declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "8.2.3 Official inspection mark (optional)",
+      "summary": "Heading only: an official inspection mark may be included on the package optionally.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "official inspection mark"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "1  FAO and WHO. 1995. Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables. Codex Alimentarius Code of Practice, No. CXC 44-1995. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic reference to FAO and WHO (1995), Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (CXC 44-1995).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "2  FAO and WHO. 1995. General Standard for Contaminants and Toxins in Food and Feed. Codex Alimentarius Standard, No. CXS 193-1995. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic reference to FAO and WHO (1995), General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "3   FAO and WHO. 1969. General Principles of Food Hygiene. Codex Alimentarius Code of Practice, No. CXC 1-1969. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic reference to FAO and WHO (1969), General Principles of Food Hygiene (CXC 1-1969).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "4  FAO and WHO. 2003. Code of Hygienic Practice for Fresh Fruits and Vegetables. Codex Alimentarius Code of Practice, No CXC 53-2003. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic reference to FAO and WHO (2003), Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53-2003).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "5  FAO and WHO. 1997. Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods. Codex Alimentarius Guideline, No. CXG 21-1997. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic reference to FAO and WHO (1997), Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "6   FAO  and  WHO.  1985. General  Standard  for  the  Labelling  of  Pre-packaged  Foods. Codex  Alimentarius  Standard, No. CXS 1-1985. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic reference to FAO and WHO (1985), General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "7   FAO  and  WHO.  2021. General  Standard  for  the  Labelling  of  Non-Retail  Containers  of  Foods .  Codex  Alimentarius Standard, No. CXS 346-2021. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic reference to FAO and WHO (2021), General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

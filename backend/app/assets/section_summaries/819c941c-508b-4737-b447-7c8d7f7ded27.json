@@ -1,0 +1,621 @@
+{
+  "doc_id": "819c941c-508b-4737-b447-7c8d7f7ded27",
+  "title": "GUIDELINES ON THE APPLICATION OF GENERAL PRINCIPLES OF FOOD HYGIENE TO THE CONTROL OF FOODBORNE PARASITES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON THE APPLICATION OF GENERAL PRINCIPLES OF FOOD HYGIENE TO THE CONTROL OF FOODBORNE PARASITES",
+      "summary": "Document title and identifier: Guidelines on the Application of General Principles of Food Hygiene to the Control of Foodborne Parasites (CAC/GL 88‑2016), adopted 2016 (header information).",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION 2 - SCOPE, USE AND DEFINITION",
+      "summary": "These guidelines apply to control of foodborne parasites for all foods from primary production through consumption, with emphasis on meat, milk, fish and fresh produce and with control measures proportionate to public health risk; they should be used alongside the General Principles of Food Hygiene and relevant Codes (including OIE texts) and include definitions for terms such as cyst, foodborne parasite, host, larvae and oocyst.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 Scope",
+      "summary": "Scope: the guidelines apply to all foods from primary production through consumption, especially the four food categories (meat, milk, fish, fresh fruits and vegetables) referenced to corresponding Codex codes, and recommend control measures be applied in proportion to identified public health risk.",
+      "categories": [
+        "scope",
+        "risk management",
+        "food category system"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "control measures",
+        "food categories",
+        "meat category",
+        "milk category",
+        "fish category",
+        "produce category",
+        "food chain coverage"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 Use",
+      "summary": "States that these guidelines follow the format of the General Principles of Food Hygiene (CAC/RCP 1-1969) and must be used alongside relevant Codes of Practice for meat, milk, fish and fresh fruits and vegetables and with OIE standards on animal health; they are flexible and intended primarily for government risk managers and industry in designing and implementing food control systems.",
+      "categories": [
+        "scope",
+        "food category system",
+        "risk management"
+      ],
+      "subcategories": [
+        "use heading",
+        "guideline use",
+        "meat category",
+        "milk category",
+        "fish category",
+        "produce category",
+        "related standards",
+        "flexible application"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.3 Definitions",
+      "summary": "Provides definitions relevant to the guidelines, including fish, aquaculture, feed, fish farm, cyst (environmental and tissue), foodborne parasite, host, larvae, and oocyst, with cross-references to Codes of Practice for specific terms.",
+      "categories": [
+        "definition",
+        "other"
+      ],
+      "subcategories": [
+        "definition heading",
+        "introductory definitions",
+        "fish definition",
+        "aquaculture definition",
+        "feed definition",
+        "fish farm definition",
+        "cyst definition",
+        "footnote reference",
+        "foodborne parasite definition",
+        "host definition",
+        "larvae definition",
+        "oocyst definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "SECTION 3 - PRIMARY PRODUCTION",
+      "summary": "Requires a hazard analysis at primary production to identify parasite hazards from feed, water, soil, workers, manure, wildlife and other sources and to determine feasibility of controls where later processing may not eliminate hazards; discusses the need for on‑farm sanitation, water quality management and surveillance, and includes commodity‑specific considerations for meat, milk, fish and produce with references to relevant Codes and OIE guidance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1 Environmental hygiene",
+      "summary": "Refers to General Principles and the Code of Hygienic Practice for Meat and OIE chapters, noting faeces from humans, domestic and wild animals can carry parasites infective to food animals and that the feasibility of controlling environmental introduction of parasites should be assessed before primary production, while mitigation later in the chain is needed for uncontrolled wild/game environments.",
+      "categories": [
+        "hygiene",
+        "risk management"
+      ],
+      "subcategories": [
+        "environmental hygiene heading",
+        "reference guidance",
+        "environmental contamination",
+        "later mitigation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 Hygienic production of food sources",
+      "summary": "Refers to Codes on animal feeding and meat hygiene and requires that, where indicated by hazard analysis, hygienic practices and control measures be implemented (e.g., enclosed housing, feed protection, removal of carcasses, water source control); control measures should be documented and verified and surveillance used as a tool while acknowledging testing cannot assure absence of parasites.",
+      "categories": [
+        "hygiene",
+        "pest control",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "production hygiene heading",
+        "reference guidance",
+        "hygienic practices",
+        "animal housing",
+        "animal exclusion",
+        "water source control",
+        "control verification"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.3 Cleaning, maintenance and personnel hygiene at primary production",
+      "summary": "Refers users to the relevant OIE Terrestrial Animal Health Code chapters for recommendations on cleaning, disinfection and personnel hygiene at primary production.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "primary production hygiene",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.5 Monitoring and surveillance at primary production",
+      "summary": "Refers to OIE chapters and states that surveillance and monitoring of foodborne parasites should begin at primary production to support risk management and to verify control effectiveness; assurance may be supported by documented controls and a series of negative tests under a risk‑based surveillance programme, and information on herd parasite status should be exchanged between producers and slaughterhouses to target monitoring and control.",
+      "categories": [
+        "analysis sampling",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "monitoring surveillance",
+        "surveillance programme",
+        "information exchange",
+        "status communication",
+        "postmortem reporting"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "B. Milk and milk products",
+      "summary": "Notes that consumption of unpasteurized milk has been associated with cryptosporidiosis and toxoplasmosis, that unsanitary milking (e.g., unclean udders) can contaminate milk with Cryptosporidium, and that infective Toxoplasma stages may be excreted in milk from recently infected animals, with a reference to FAO/WHO risk‑ranking information.",
+      "categories": [
+        "food category system",
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "milk products",
+        "milk parasite risk",
+        "reference link"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.3 Handling, storage and transport",
+      "summary": "Refers users to Section 3.3 of the Code of Hygienic Practice for Milk and Milk Products (CAC/RCP 57-2004) for handling, storage and transport requirements.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "handling storage transport",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.4 Cleaning, maintenance and personnel hygiene at primary production",
+      "summary": "Refers users to Section 6 of the Code of Hygienic Practice for Milk and Milk Products (CAC/RCP 57-2004) for cleaning, maintenance and personnel hygiene at primary production.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "primary production hygiene",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.5 Monitoring and surveillance at primary production",
+      "summary": "States that examining fish for live fishborne parasites and conducting monitoring and surveillance can help assess the effectiveness of preventive controls and inform risk management, and that assurance may be supported by documented controls and negative test series within a risk‑based surveillance programme.",
+      "categories": [
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "monitoring surveillance",
+        "surveillance programme"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "D. Fresh fruits and vegetables",
+      "summary": "Lists key parasites that can be transmitted by fresh fruits and vegetables (e.g., Taenia, Echinococcus, Toxoplasma, Cryptosporidium, Giardia, Cyclospora, Ascaris, Trichuris) and states that because some produce is eaten raw without parasite‑killing steps, primary production controls are particularly important.",
+      "categories": [
+        "food category system",
+        "risk management"
+      ],
+      "subcategories": [
+        "fresh produce",
+        "produce parasite risk",
+        "primary production control"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.1 Environmental hygiene",
+      "summary": "Refers to the Code of Hygienic Practice for Fresh Fruits and Vegetables and requires assessment of cultivation sites for susceptibility to direct or indirect faecal contamination via run‑off, flooding, irrigation or natural fertilizers and determination whether adequate control measures can be implemented prior to site selection.",
+      "categories": [
+        "hygiene",
+        "risk assessment",
+        "definition"
+      ],
+      "subcategories": [
+        "environmental hygiene",
+        "reference citation",
+        "site contamination risk",
+        "larval host definition"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.2 Key aspects of hygiene control systems",
+      "summary": "Identifies key hygiene control approaches for parasites including validated time‑temperature treatments and specific processing steps (freezing, heating, irradiation) and notes that methods like salting, smoking and washing are generally insufficient alone and must be validated or combined (hurdle concept) to ensure parasite control.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.2.1 Time and temperature contro l",
+      "summary": "States that time‑and‑temperature control (freezing and heating) are the most commonly used preventive measures to reduce or eliminate viable parasites and must be applied according to validated parameters from reliable guidance or literature.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "time temperature control",
+        "validated treatments"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2.2 Specific process steps",
+      "summary": "Section heading only introducing ‘Specific process steps’ for parasite control; no substantive requirements are provided in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.2.2.1 Freezing",
+      "summary": "Explains that many parasites are susceptible to freezing but require specific time/temperature combinations that depend on food type and portion size, notes some parasites (e.g., Trichinella nativa, T. britovi, and Echinococcus multilocularis eggs) are resistant, and refers to Annex 1 of the Code of Practice for Fish and relevant smoked‑fish standards for freezing controls.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "freezing treatment",
+        "freezing parameters",
+        "freezing reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.2.2.2 Heat treatment",
+      "summary": "States that parasites can be inactivated by adequate heat treatment of foods and water and that other validated treatments may also be used.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "heat treatment",
+        "heat inactivation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.2.2.3 Salting, curing, marinating, pickling, smoking",
+      "summary": "Indicates that salting, curing, marinating, pickling, smoking and some food additives are generally insufficient alone to control foodborne parasites, though combinations of treatments (hurdle approach) can be effective provided they are rigorously validated.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "salting curing",
+        "combined treatments"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.2.2.4 Irradiation",
+      "summary": "States that irradiation is a possible measure for parasite control and refers users to the General Standard for Irradiated Foods (CODEX STAN 106-1983).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "irradiation treatment",
+        "irradiation reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.2.2.5 Washing",
+      "summary": "Requires washing fruits and vegetables with water in accordance with CAC/RCP 53-2003 Section 5.2.2.1 to reduce parasites, while noting parasite eggs/oocysts are sticky and often difficult to remove—especially from produce with crevices or folds.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "washing treatment"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "5.4 Packaging",
+      "summary": "States that vacuum packaging does not change the infectivity of parasites in food.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "vacuum packaging"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5.7 Documentation and records",
+      "summary": "Requires retention of documentation on validation, monitoring and verification of parasite control measures and states that monitoring and review within a risk management framework are essential to verify process control, validate outcomes, monitor compliance with public health goals, and prioritize regulatory efforts.",
+      "categories": [
+        "documentation",
+        "risk management",
+        "official control"
+      ],
+      "subcategories": [
+        "documentation heading",
+        "record retention",
+        "monitoring review",
+        "compliance monitoring"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "SECTION 6 - ESTABLISHMENT: MAINTENANCE AND SANITATION",
+      "summary": "Heading on establishment maintenance and sanitation that states insects (e.g., flies, cockroaches) and animals (e.g., rodents, birds) can transport parasite stages from faeces to food and should be controlled.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.3 Pest control systems",
+      "summary": "Requires control of insects (flies, cockroaches) and animals (rodents, birds) because they can transport parasite stages from faeces to food.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "pest control heading",
+        "pest exclusion"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "SECTION 7 - ESTABLISHMENT: PERSONAL HYGIENE",
+      "summary": "Requires proper personal hygiene, notably hand‑washing, to prevent faecal–oral transmission of parasites and warns that infected workers (e.g., Taenia solium carriers) with poor hand hygiene can spread eggs that cause neurocysticercosis.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal hygiene heading",
+        "hand washing"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "SECTION 9 - PRODUCT INFORMATION AND CONSUMER AWARENESS",
+      "summary": "Says labels may differentiate products intended for raw consumption from those intended to be cooked but emphasizes parasite hazards must be reduced to acceptable levels before marketing products likely to be eaten raw or undercooked; additionally, consumer education is an important risk‑management tool providing advice on risks of raw/undercooked or lightly processed meats, fish and some produce, on cooking times/temperatures and hygiene (e.g., hand‑washing, separation) to prevent infection, with special emphasis for endemic areas and high‑risk groups and advising Anisakis‑allergic individuals to avoid marine fish.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "9.2 Product information",
+      "summary": "Permits labels to distinguish products intended for raw consumption from those intended to be cooked but requires that parasite hazards be reduced to acceptable levels before marketing products likely to be consumed raw or undercooked.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product information heading",
+        "consumer use labelling"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "9.4 Consumer education",
+      "summary": "States consumer education is an important risk‑management measure advising on the risks of consuming raw, undercooked or lightly processed meat, fish and certain produce, on appropriate cooking times/temperatures and hygiene (e.g., hand‑washing, separating raw and ready‑to‑eat foods) to prevent infection, with priority education for endemic areas and high‑risk groups and advice that people with Anisakis allergy avoid marine fish.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "consumer education heading",
+        "consumer advice",
+        "high risk advice"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "SECTION 10 - TRAINING",
+      "summary": "Requires training for workers across primary production, processing, retail and food service on control of foodborne parasites to a level appropriate to their tasks (with particular attention to abattoir inspectors and ready‑to‑eat food handlers), and calls for inspector training and periodic retraining to maintain competence.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "10.2 Training programmes",
+      "summary": "Specifies training programme content on foodborne parasite transmission, sources and routes, persistence in foods/production settings, good animal husbandry (including animals' roles, on‑farm sanitation and feed management), strict hand‑washing, adequate processing/preparation to eliminate parasite risks, and task‑specific practices, with a WHO Five Keys reference.",
+      "categories": [
+        "training",
+        "other"
+      ],
+      "subcategories": [
+        "training heading",
+        "training content",
+        "transmission awareness",
+        "transmission routes",
+        "persistence awareness",
+        "husbandry compliance",
+        "animal role",
+        "sanitation hygiene",
+        "feed management",
+        "reference note",
+        "hand washing",
+        "processing preparation",
+        "task practices"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    }
+  ]
+}

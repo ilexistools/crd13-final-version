@@ -1,0 +1,833 @@
+{
+  "doc_id": "780d96c8-c12c-4e10-947d-9cb8cb7ed0c4",
+  "title": "CODE OF HYGIENIC PRACTICE FOR POWDERED FORMULAE FOR INFANTS AND YOUNG CHILDREN",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF HYGIENIC PRACTICE FOR POWDERED FORMULAE FOR INFANTS AND YOUNG CHILDREN",
+      "summary": "Title of the document: Code of Hygienic Practice for Powdered Formulae for Infants and Young Children.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXC 66 - 2008",
+      "summary": "Document identifier: CXC 66-2008.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "INTRODUCTION",
+      "summary": "Defines ‘powdered formulae’ (infant formulae, follow-up formulae, special medical-purpose formulae and human milk fortifiers), notes that PF cannot be produced sterile so require strict hygienic manufacture and use, identifies Salmonella and Enterobacter sakazakii (Cronobacter species) as microorganisms with clear evidence of causality for infant illness and categorizes other microbial hazards, highlights that neonates and other vulnerable infants are at greatest risk, describes four contamination routes for PF, and calls for multi‑faceted prevention measures including use of commercially sterile liquid formula in high‑risk settings, point‑of‑use decontamination when needed, and improved labelling, education and training for caregivers and health‑care staff.",
+      "categories": [
+        "other",
+        "scope",
+        "definition",
+        "hygiene",
+        "risk assessment",
+        "risk management",
+        "labelling"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background context",
+        "scope definition",
+        "product types",
+        "product distinction",
+        "microbiological safety",
+        "microbial hazard categories",
+        "footnote reference",
+        "footnote note",
+        "salmonella risk",
+        "outbreak evidence",
+        "cronobacter risk",
+        "clinical impact",
+        "fatality outcomes",
+        "source attribution",
+        "pf association",
+        "use precaution",
+        "contamination pathways",
+        "prevention approach",
+        "consumer information"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION I.  - OBJECTIVES",
+      "summary": "Objective: provide practical guidance to governments, industry and health‑care professionals/caregivers on hygienic manufacture, preparation, handling and use of powdered formulae, supplementing Codex general hygiene and milk codes with emphasis on controlling microbiological hazards (notably Salmonella and E. sakazakii/Cronobacter) and identifying control measures across the food chain.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "code objectives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "SECTION II.  - SCOPE, USE AND DEFINITIONS",
+      "summary": "Scope and roles: the Code covers production, preparation and use of powdered formulae for infants and young children (including infant formula, follow‑up formula, special medical formulas and human milk fortifiers) but not nutritional specifications, and sets out the responsibilities of producers, ingredient and packaging manufacturers, PF manufacturers (including HACCP-based hazard analysis), distributors, hospitals, health professionals, caregivers and competent authorities to communicate, implement hygienic controls, provide information and training, and ensure appropriate legislative and inspection frameworks to minimize risks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 SCOPE",
+      "summary": "Scope (2.1): covers powdered formulae manufactured for infants and young children (infant formulae, follow‑up formulae, special medical-purpose formulae, and human milk fortifiers); manufacturers are primarily responsible for safety via hazard analysis and HACCP, but ingredient suppliers, distributors, hospitals, health professionals and caregivers also share responsibilities for good practices, communication, training and compliance with manufacturers' instructions and regulatory oversight.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1.2 ROLES OF GOVERNMENTS, INDUSTRY, AND CONSUMERS 9",
+      "summary": "Identifies intended users (national governments, manufacturers, health care professionals and caregivers) and assigns primary responsibility to manufacturers to ensure powdered formulas (PF) are safe and suitable via HACCP-based hazard analysis, while outlining obligations across the supply chain — producers, ingredient and packaging manufacturers, PF manufacturers, distributors/retailers, hospitals/institutions, health professionals and caregivers — for good agricultural/manufacturing/hygienic practices, communication of additional control measures, proper handling/storage, training, and for competent authorities to provide legislative frameworks, inspection/audit programs and consumer guidance to maintain a continuum of control.",
+      "categories": [
+        "scope",
+        "risk management",
+        "hygiene",
+        "processing",
+        "labelling",
+        "storage",
+        "definition",
+        "training",
+        "official control",
+        "other"
+      ],
+      "subcategories": [
+        "roles heading",
+        "intended users",
+        "manufacturer responsibility",
+        "haccp responsibilities",
+        "responsibility summary",
+        "raw material hygiene",
+        "supplier hygiene",
+        "hygiene practices",
+        "consumer information",
+        "storage handling",
+        "hygienic preparation",
+        "consumer definition",
+        "hygienic training",
+        "caregiver practices",
+        "control framework",
+        "communication coordination"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2 USE",
+      "summary": "States that this Code supplements and should be used in conjunction with the Codex General Principles of Food Hygiene (CXC 1-1969) and related HACCP and milk/milk products texts, and where applicable with the International Code of Marketing of Breast‑Milk Substitutes and relevant WHO/WH A documents.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "use reference",
+        "related use"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.3 DEFINITIONS",
+      "summary": "Provides key definitions for the Code including age-based definitions for infant (≤12 months) and young child (>12–36 months), and definitions/scope for human milk fortifier, powdered formulae (listing included types), infant formula, follow-up formula, formulas for special medical purposes (sole‑source and supplementing), and manufacturing process types (wet‑mix, dry‑mix, combined).",
+      "categories": [
+        "definition",
+        "other",
+        "processing"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "infant definition",
+        "young child definition",
+        "human milk fortifier",
+        "powdered formulae",
+        "infant formula",
+        "bibliographic note",
+        "follow-up formula",
+        "special medical formula",
+        "wet-mix process",
+        "dry-mix process",
+        "combined process"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.1 LOCATION",
+      "summary": "Non‑substantive reference directing users to the General Principles of Food Hygiene (CXC 1-1969) for location requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.1.1 Establishments",
+      "summary": "Non‑substantive reference to the General Principles of Food Hygiene (CXC 1-1969) for establishment requirements.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "establishments heading",
+        "establishment reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1.2 Equipment",
+      "summary": "References CXC 1-1969 and requires equipment to be designed, placed, installed and maintained to facilitate effective cleaning and disinfection to prevent residue accumulation which, in the presence of water, could lead to microbial growth and contamination.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "equipment reference",
+        "equipment sanitation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.2 PREMISES AND ROOMS",
+      "summary": "Non‑substantive reference directing users to the General Principles of Food Hygiene (CXC 1-1969) for premises and room requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.2.1 Design and layout",
+      "summary": "Requires dry processing areas (from drying to filling/sealing) be maintained as high‑hygiene zones with strict physical separation from wet areas, supported by zoning measures such as positive air pressure, controlled access interfaces, air/ingredient filtration and condensation prevention to minimize post‑process contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "design layout",
+        "design reference",
+        "high hygiene zoning",
+        "air pressure zoning",
+        "access control",
+        "condensation prevention"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.2.2 Internal structures and fittings",
+      "summary": "Requires internal structures and fittings to be durable, easy to clean and where appropriate disinfect, with special attention in dry high‑hygiene areas to avoid inaccessible hollow sites that trap dust/residues; warns that construction activities can dislodge Salmonella and Cronobacter (E. sakazakii) from harbourage sites and mandates isolation of such works and reinforced cleaning and environmental monitoring (see Annex III).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "internal structures",
+        "structure reference",
+        "durable structures",
+        "construction controls"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.2.3 Temporary/mobile premises and vending machines",
+      "summary": "Section heading only; no substantive provisions provided for temporary/mobile premises and vending machines.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "temporary premises"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "Not applicable for the products considered in this Code.",
+      "summary": "States that temporary/mobile premises and vending machines are not applicable to the products covered by this Code.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "not applicable"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.3 EQUIPMENT",
+      "summary": "Heading only for the equipment chapter; substantive equipment requirements are provided in subsequent sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.3.1 General",
+      "summary": "Refers to CXC 1-1969 and requires processing equipment to be designed, constructed and maintained to avoid cracks, crevices, rough welds, hollow structures and other harbourage sites where Salmonella and Cronobacter can persist, and specifies that equipment in high‑hygiene areas must be amenable to dry‑cleaning and avoid conditions that cause condensation.",
+      "categories": [
+        "hygiene",
+        "equipment"
+      ],
+      "subcategories": [
+        "general hygiene",
+        "general principles",
+        "equipment design",
+        "high hygiene area",
+        "cleanable equipment"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.3.2 Food control and monitoring equipment",
+      "summary": "Non‑substantive reference to the General Principles of Food Hygiene (CXC 1-1969) for food control and monitoring equipment.",
+      "categories": [
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "monitoring equipment",
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.3.3 Containers for waste and inedible substances",
+      "summary": "Non‑substantive reference to the General Principles of Food Hygiene (CXC 1-1969) for containers for waste and inedible substances.",
+      "categories": [
+        "packaging",
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste containers",
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.4 FACILITIES",
+      "summary": "Heading only for the facilities chapter; substantive facility requirements are provided in subsequent sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.4.1 Water supply",
+      "summary": "Refers to CXC 1-1969 and requires limitation of water availability and distribution systems in high‑hygiene areas to keep those areas as dry as possible.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "water supply",
+        "general principles",
+        "water limitation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.4.2 Drainage and waste disposal",
+      "summary": "Refers to CXC 1-1969 and recommends dry drains in high‑hygiene areas to prevent water residues and microbial growth, and appropriately designed hygienic drains in wet areas.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "drainage waste",
+        "general principles",
+        "dry drains",
+        "hygienic drains"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.4.3 Cleaning",
+      "summary": "Refers to CXC 1-1969 and recommends dry‑cleaning methods to keep high‑hygiene areas dry, allowing controlled wet cleaning only where necessary provided prompt thorough drying and management procedures are in place to eliminate water residues.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning",
+        "general principles",
+        "dry cleaning",
+        "wet cleaning",
+        "cleaning procedures"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.4.4 Personnel hygiene facilities and toilets",
+      "summary": "Non‑substantive reference to the General Principles of Food Hygiene (CXC 1-1969) for personnel hygiene facilities and toilets.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personnel facilities",
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "4.4.5 Temperature control",
+      "summary": "Section only directs readers to the Recommended International Code of Practice—General Principles of Food Hygiene (CXC 1-1969) for temperature control and contains no substantive temperature requirements.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "temperature control",
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "4.4.6 Air quality and ventilation",
+      "summary": "Requires air handling and ventilation units to be installed and maintained to preserve zoning integrity and prevent contamination—for example, filters must be designed to avoid bypass of unfiltered air and drainage must prevent condensate accumulation.",
+      "categories": [
+        "hygiene",
+        "equipment"
+      ],
+      "subcategories": [
+        "air quality",
+        "general principles",
+        "ventilation units"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "4.4.7 Lighting",
+      "summary": "Section refers users to the Recommended International Code of Practice—General Principles of Food Hygiene (CXC 1-1969) for lighting and provides no additional substantive requirements.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "lighting",
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "4.4.8 Storage",
+      "summary": "Section refers readers to the Recommended International Code of Practice—General Principles of Food Hygiene (CXC 1-1969) for storage and contains no further substantive storage requirements.",
+      "categories": [
+        "storage",
+        "hygiene"
+      ],
+      "subcategories": [
+        "storage heading",
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "SECTION V - CONTROL OF OPERATION",
+      "summary": "This is a section heading (“CONTROL OF OPERATION”) with no substantive text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "5.1 CONTROL OF FOOD HAZARDS",
+      "summary": "Refers to the general food hygiene and milk codes, states the Code focuses on microbiological hazards—specifically Salmonella and E. sakazakii (Cronobacter spp.)—and requires a combination of control measures to control these hazards, with milk/milk products used in manufacture meeting CXC 57-2004.",
+      "categories": [
+        "risk management",
+        "hygiene",
+        "composition"
+      ],
+      "subcategories": [
+        "food hazards",
+        "general principles",
+        "microbial hazards",
+        "raw material requirements"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "5.2 KEY ASPECTS OF HYGIENE CONTROL SYSTEMS",
+      "summary": "This is a heading for key aspects of hygiene control systems and contains no substantive requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "5.2.1 Time and temperature control",
+      "summary": "Requires time/temperature recording devices at control points to be regularly checked and accuracy-tested against a calibrated probe, and mandates maintenance of processing time/temperature records where heat treatments are critical control points (CCPs).",
+      "categories": [
+        "processing",
+        "hygiene",
+        "documentation"
+      ],
+      "subcategories": [
+        "time temperature",
+        "general principles",
+        "process records"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "5.2.2 Specific process steps",
+      "summary": "Identifies wet‑mix, dry‑mix and combined processes for powdered formula (PF) and requires measures to prevent contamination during dry product handling after thermal processing that eliminates Salmonella and Cronobacter, noting listed steps contribute to good manufacturing practice.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "5.2.2.1 Thermal processing",
+      "summary": "Section heading only for thermal processing with no substantive provisions in this entry.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "thermal processing"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "For wet-mix process:",
+      "summary": "Heading indicating discussion pertains to the wet‑mix process; no substantive content in this line.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "wet-mix process"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "The heat treatment is a key step in ensuring the safety of PF and is therefore considered a CCP.",
+      "summary": "Declares heat treatment a key CCP and requires microbiocidal heat treatments at least equivalent to pasteurization—adjusted for product properties (e.g., fat, solids)—with procedures to detect deviations (e.g., temperature drops) and corrective actions such as reprocessing or disposal.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "heat treatment ccp",
+        "pasteurization control"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "5.2.2.2 Intermediate storage",
+      "summary": "Raw materials and intermediate liquids can support microbial growth and must be stored at temperatures (or alternative high temperatures that prevent growth) appropriate to storage time; three liquid storage points are identified (raw milk—see CXC 57, intermediates before heat, and post‑heat before drying) and growth at these stages can compromise heat treatments or lead to non‑compliant products because drying is not a killing step.",
+      "categories": [
+        "storage",
+        "processing"
+      ],
+      "subcategories": [
+        "intermediate storage",
+        "wet-mix process",
+        "temperature control",
+        "raw materials",
+        "intermediate products",
+        "growth control",
+        "post-heat storage"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "5.2.2.3 Steps from the Heat Process to the Drying",
+      "summary": "Requires enclosed systems and high‑hygiene controls from the heat‑processed intermediate up to the spray dryer nozzle to prevent contamination, noting the drying step (e.g., spray drying) is usually not microbiocidal and must be performed under strict hygienic conditions.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "drying transition",
+        "high hygiene control",
+        "wet-mix process",
+        "drying process"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "5.2.2.4 Cooling",
+      "summary": "After drying, powder cooling (e.g., in a fluidized cooling bed) must be performed using air that is appropriately filtered to prevent microbial contamination of the product.",
+      "categories": [
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "cooling",
+        "pasteurization control",
+        "reference note",
+        "wet-mix process",
+        "cooling step"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "5.2.2.5 Blending",
+      "summary": "For dry‑mix and combined processes, blending must be conducted under strict hygienic conditions to avoid product contamination and incoming material requirements are referenced to CXC 1-1969 Section 5.3.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "blending",
+        "dry-mix process",
+        "blending hygiene"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "5.2.2.6 Storage",
+      "summary": "Finished powdered products must be stored under strict hygienic conditions to prevent contamination, with storage requirements referenced to CXC 1-1969 Section 4.4.8.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "finished storage",
+        "storage hygiene"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "5.2.2.7 Filling and Primary Packaging 13",
+      "summary": "Sets packaging controls: limit access to essential personnel via ante rooms for handwashing and garment changes, supply the packaging area with suitably filtered (ideally positively pressured) air to prevent airborne contamination, and require protection, inspection and cleanliness measures for packaging materials (e.g., can inverters, air jets, anti‑static devices).",
+      "categories": [
+        "packaging",
+        "hygiene"
+      ],
+      "subcategories": [
+        "filling packaging",
+        "packaging requirements",
+        "personnel access",
+        "air filtration",
+        "container cleanliness"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "5.2.3 Microbiological and other specifications",
+      "summary": "Refers to CXG 21 and Annexes for microbiological criteria and states manufacturers are responsible for finished‑product compliance, advising reliance on designed food safety control systems and verification (audits, monitoring record review, deviation follow‑up and CCP/GHP confirmation) rather than on end‑product testing alone.",
+      "categories": [
+        "analysis sampling",
+        "official control",
+        "other"
+      ],
+      "subcategories": [
+        "microbiological specifications",
+        "criteria reference",
+        "verification auditing",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

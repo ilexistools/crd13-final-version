@@ -1,0 +1,293 @@
+{
+  "doc_id": "babbad67-1000-44c2-be8b-f23b77cfbe0a",
+  "title": "GUIDELINES FOR THE PRESERVATION OF RAW MILK BY USE OF THE LACTOPEROXIDASE SYSTEM",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR THE PRESERVATION OF RAW MILK BY USE OF THE LACTOPEROXIDASE SYSTEM",
+      "summary": "Heading only: title of the guidelines for preserving raw milk by the lactoperoxidase system; no substantive provisions in this section.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CAC/GL 13-1991",
+      "summary": "Document identification: CAC/GL 13-1991; no substantive content in this section.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "IntroduCtIon",
+      "summary": "Introduces milk perishability and limitations of refrigeration, notes past hydrogen peroxide preservation had control and toxicological drawbacks, and states that research has shown the lactoperoxidase/thiocyanate/hydrogen peroxide (LP) system can be used to retard bacterial growth in raw milk.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background purpose",
+        "background rationale",
+        "scientific basis"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCope",
+      "summary": "Scope: the Code describes use of the LP-system to prevent bacterial spoilage of bovine and buffalo raw milk during collection and transport to a dairy processing plant, covering principles, suitable situations, practical application and control, and specifies use when refrigeration is not feasible.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1.1  This Code of Practice describes the use of the lactoperoxidase system for preventing bacterial spoilage of raw milk (bovine and buffalo) during collection and transportation to a dairy processing plant. It describes the principles of the method, in what situations it can be used, its practical application and control of the method. It should be stressed that this method should be utilized when refrigeration of the raw milk is not feasible.",
+      "summary": "States the Code covers use of the LP-system to prevent bacterial spoilage of bovine and buffalo raw milk during collection and transport to a dairy processing plant and should be used when refrigeration is not feasible.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "application scope"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. prInCIpLeS of the Method",
+      "summary": "Explains LP-system principles: lactoperoxidase oxidises thiocyanate with hydrogen peroxide to produce hypothiocyanite (OSCN-) that inactivates bacterial sulphydryl-containing enzymes yielding mainly bacteriostatic (species/strain‑dependent) effects with some bactericidal action against certain gram‑negative bacteria; oxidation products are unstable at neutral pH and decompose faster at higher temperatures, pasteurisation removes residues, effective use requires adding thiocyanate to reach necessary levels, and resulting thiocyanate levels are within physiological ranges and do not affect thyroid iodine uptake.",
+      "categories": [
+        "processing",
+        "scope",
+        "contaminants",
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "method principles",
+        "antibacterial mechanism",
+        "mechanism details",
+        "purpose heading",
+        "gluten limit",
+        "labelling heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3. Intended utILIzAtIon of Method",
+      "summary": "Intended use and controls: the LP-method is only for situations where refrigeration is impractical, should be applied at suitably equipped collection centres by trained personnel, and the receiving dairy must monitor and control usage and milk quality (pasteurisation remains necessary); the inhibitory effect depends on storage temperature and lasts approximately 7–8 h at 30°C, 11–12 h at 25°C, 16–17 h at 20°C and 24–26 h at 15°C.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4. prACtICAL AppLICAtIon of the Method",
+      "summary": "Specifies the practical activation procedure: add 14 mg sodium thiocyanate per litre and mix (~1 minute), then add 30 mg sodium percarbonate per litre and stir 2–3 minutes (order is essential), the enzymatic reaction completes within ~5 minutes, activation should occur within 2–3 hours of milking, and chemicals should be supplied prepacked with specifications in the Appendices.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5. ControL of uSAGe",
+      "summary": "Assigns control responsibility to the dairy processing plant which must perform random acceptance and bacteriological tests (e.g. titratable acidity, methylene blue, resazurin, total viable count) and analyse thiocyanate (treated milk expected to contain ~10 mg/L above natural levels), investigate off‑specification results, and control the chemicals used at collection centres.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "AppendIx I teChnICAL SpeCIfICAtIon of SodIuM thIoCyAnAte",
+      "summary": "Provides technical specifications for sodium thiocyanate (NaSCN): chemical identity and formula, molecular weight 81.1, assay 98–99%, humidity 1–2%, and purity limits per JECFA (heavy metals <2 ppm, sulfates <50 ppm, sulfide <10 ppm).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "definition",
+      "summary": "Defines sodium thiocyanate (NaSCN) with molecular weight 81.1, assay content 98–99% and humidity 1–2%.",
+      "categories": [
+        "other",
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "chemical name",
+        "chemical formula",
+        "formula value",
+        "molecular weight",
+        "molecular weight value",
+        "assay content",
+        "assay value",
+        "humidity",
+        "humidity value"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "AppendIx II teChnICAL SpeCIfICAtIon of SodIuM perCArbonAte",
+      "summary": "Provides technical specifications for sodium percarbonate: chemical identity and formula (2Na2CO3·3H2O2), molecular weight 314.0, assay ~85% (commercial sodium carbonate peroxyhydrate >85%), and impurity limits (heavy metals <10 ppm, arsenic <3 ppm), with a supplier contact note.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "definition",
+      "summary": "Defines sodium percarbonate by chemical name, formula 2Na2CO3·3H2O2, molecular weight 314.0 and assay content 85%.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "chemical name",
+        "chemical name value",
+        "chemical formula",
+        "formula value",
+        "molecular weight",
+        "molecular weight value",
+        "assay content",
+        "assay value"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "AppendIx III AnALySIS of thIoCyAnAte In MILk",
+      "summary": "Describes the analytical method for thiocyanate in milk: after deproteinisation with trichloroacetic acid, thiocyanate is measured as a ferric complex by absorbance at 460 nm (detection limit 1–2 ppm), with reagent formulations and a timed colourimetric procedure using standards.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "principle",
+      "summary": "States the principle that thiocyanate in milk is determined after deproteinisation with TCA as a ferric complex measured at 460 nm, with a detection limit of about 1–2 ppm.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "principle heading",
+        "test principle"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "reagent solutions",
+      "summary": "Specifies reagent preparations for the assay: 20% (w/v) trichloroacetic acid and a ferric nitrate reagent (16.0 g Fe(NO3)3·9H2O in 50 ml 2M HNO3 diluted to 100 ml), and notes preparation of 2M HNO3; the ferric reagent should be stored cold and dark.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reagent solutions",
+        "reagent preparation",
+        "solution dilution"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "determination",
+      "summary": "Gives the stepwise determination: mix 4.0 ml milk with 2.0 ml 20% TCA, stand 30 min, filter, mix 1.5 ml filtrate with 1.5 ml ferric nitrate reagent, measure absorbance at 460 nm within 10 minutes, and quantify against known thiocyanate standards.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "determination heading",
+        "analytical procedure"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

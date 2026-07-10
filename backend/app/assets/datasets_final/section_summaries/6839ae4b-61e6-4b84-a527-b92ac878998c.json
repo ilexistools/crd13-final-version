@@ -1,0 +1,736 @@
+{
+  "doc_id": "6839ae4b-61e6-4b84-a527-b92ac878998c",
+  "title": "CAC/GL 71-2009",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CAC/GL 71-2009",
+      "summary": "Document identifier and history: CAC/GL 71-2009 adopted in 2009 with revisions recorded in 2012 and 2014.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code",
+        "document metadata"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Table of Contents",
+      "summary": "Table of contents listing the guideline's sections and subsections (intro, scope, principles, risk approach, definitions, regulatory framework, verification programmes, sampling/statistics, regulatory action, analytical methods, etc.) — non‑substantive navigation aid.",
+      "categories": [
+        "other",
+        "scope",
+        "risk management",
+        "definition",
+        "inspection certification",
+        "documentation",
+        "analysis sampling",
+        "risk assessment",
+        "official control"
+      ],
+      "subcategories": [
+        "table of contents",
+        "toc entry",
+        "toc separator",
+        "scope heading",
+        "risk approach",
+        "definitions heading",
+        "toc section",
+        "toc subsection",
+        "approval requirement",
+        "veterinary drug info",
+        "sale and use",
+        "operator responsibilities",
+        "sampling heading",
+        "verification purpose",
+        "design principles",
+        "programme design",
+        "risk profiling",
+        "choice heading",
+        "system verification",
+        "targeted verification",
+        "surveys",
+        "review",
+        "sampling principles",
+        "traceability sampling",
+        "statistics heading",
+        "general statistics",
+        "consignment retention",
+        "result interpretation",
+        "regulatory action heading",
+        "noncompliance investigation",
+        "conduct measures",
+        "product measures",
+        "corrective action",
+        "authority interaction",
+        "analytical methods",
+        "method considerations"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "INTRODUCTION",
+      "summary": "Introduces the guideline's purpose: to ensure food production limits veterinary drug exposure posing human health risk, assigns primary responsibility to commercial operators while competent authorities verify and apply risk‑based control and verification programmes, and notes that developing countries may need transition support.",
+      "categories": [
+        "scope",
+        "risk management",
+        "inspection certification",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement",
+        "responsibilities statement",
+        "risk based control",
+        "certification basis",
+        "implementation note"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. SCOPE",
+      "summary": "Scope statement: provides overarching principles and guidance for governments to design and implement national and trade‑related food safety assurance programmes for residues of veterinary drugs, with annexes to refine species‑specific matters.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "guidance scope"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. GENERAL PRINCIPLES",
+      "summary": "Sets general principles that residue control programmes must be risk‑based and prevention‑focused, proportionate to human health risk, assign accountability to all parties, prioritize pre‑harvest controls, use audits/sampling to verify effectiveness, focus on system/population assurance, be cost‑effective, and rely on validated laboratory methods and quality management (e.g. ISO 17025) to support trade confidence.",
+      "categories": [
+        "risk management",
+        "processing",
+        "analysis sampling",
+        "other",
+        "official control",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principles heading",
+        "control programme principles",
+        "risk based control",
+        "prevention focus",
+        "proportional measures",
+        "accountability principle",
+        "pre harvest control",
+        "audit sampling role",
+        "population assurance",
+        "cost effectiveness",
+        "mandate note",
+        "sampling procedures",
+        "verification role",
+        "method validation",
+        "certified consignments"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4. APPROACH BASED ON RISK",
+      "summary": "Explains the rationale for a risk‑based approach applied across the production chain to prioritize controls because residues can cause chronic, acute pharmacological or allergic effects, and that detections of non‑compliance justify regulatory follow‑up and underpin export assurance.",
+      "categories": [
+        "risk management",
+        "processing",
+        "risk assessment",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "risk approach heading",
+        "risk based focus",
+        "good practices",
+        "adverse effects",
+        "chronic effects",
+        "acute effects",
+        "allergic reactions",
+        "regulatory follow up",
+        "exposure variability",
+        "risk determination",
+        "export certification",
+        "export assurance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5. DEFINITIONS (FOR THE PURPOSE OF THESE GUIDELINES)",
+      "summary": "Provides key definitions for the guidelines, including 'Competent Authority', 'approved', 'based on risk', 'risk profiles', 'system verification', 'risk‑targeted verification', sampling types (non‑biased, survey), withdrawal/withholding time, production system, and laboratory quality control/assurance and management (e.g. ISO 17025).",
+      "categories": [
+        "definition",
+        "risk assessment",
+        "official control",
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "competent authority",
+        "approval meaning",
+        "risk based definition",
+        "risk profiles",
+        "system verification",
+        "targeted verification",
+        "cross reference note",
+        "non biased sampling",
+        "survey data collection",
+        "withdrawal time",
+        "production system",
+        "quality control",
+        "quality assurance",
+        "quality management"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "6. REGULATORY FRAMEWORK",
+      "summary": "Regulatory framework overview: establishes roles and responsibilities, approval mechanisms and registers for veterinary drugs, information/education, sale and use conditions, and business operator obligations for ensuring residue controls.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "6.1 Roles",
+      "summary": "Clarifies roles: business operators have primary responsibility for food safety while Competent Authorities regulate veterinary drug use, verify appropriate practices and must maintain sufficient knowledge and control over drugs used in production systems.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "roles heading",
+        "operator responsibility",
+        "competent authority role",
+        "authority responsibility"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "6.2 Approval by competent authority",
+      "summary": "Approval requirements: competent authorities should set approval criteria (including accepting other authorities' assessments where appropriate), require human safety evaluation and MRLs as needed, consider producers' needs, impose use restrictions (formulation, species/time/route, indications, withdrawal times) and record approved formulations in a national register.",
+      "categories": [
+        "inspection certification",
+        "risk assessment",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "approval heading",
+        "criteria heading",
+        "approval criteria",
+        "approval system",
+        "human safety evaluation",
+        "use restrictions",
+        "regional variation",
+        "approval restrictions",
+        "approval conditions",
+        "risk mitigation",
+        "formulation limits",
+        "use criteria",
+        "use indications",
+        "withdrawal restrictions",
+        "national register",
+        "approved register"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6.3 Information on veterinary drugs",
+      "summary": "States that information and education programmes on appropriate use of each approved veterinary product formulation should be provided to ensure effective treatment while protecting consumers.",
+      "categories": [
+        "documentation",
+        "training"
+      ],
+      "subcategories": [
+        "information heading",
+        "use education"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "6.4 Sale and use",
+      "summary": "Sale and use obligations: national/regional rules should specify which veterinary drugs may be sold and how, prohibit use of unregistered formulations, allow risk‑based additional sale/use conditions (e.g. prescription, competency restrictions, identification, record‑keeping), and permit controlled off‑label use under veterinary oversight with special provisions for lactating animals, layers and bees.",
+      "categories": [
+        "inspection certification",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "sale and use",
+        "domestic use rules",
+        "use restrictions",
+        "prescription requirement",
+        "competency restriction",
+        "animal identification",
+        "record notification",
+        "periodic review",
+        "off-label exception",
+        "species approval"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "6.5 Responsibilities of business operators (best practice guidance)",
+      "summary": "Business operator responsibilities (best practice): use only approved drugs per label or authorized veterinary advice, keep treatment and withdrawal records, identify and segregate treated animals/products until withdrawal times elapse, communicate harvest restrictions on sale, and ensure processors only accept suppliers who can credibly attest to product suitability.",
+      "categories": [
+        "scope",
+        "risk management",
+        "documentation",
+        "hygiene"
+      ],
+      "subcategories": [
+        "responsibilities heading",
+        "approved drug use",
+        "withdrawal advice",
+        "treatment records",
+        "harvest restriction notice",
+        "supplier assurance",
+        "on-farm assurance",
+        "animal traceability",
+        "harvest records",
+        "separation control",
+        "contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7. VERIFICATION PROGRAMMES",
+      "summary": "Verification programmes overview: recommends a combined approach of audits/inspections and point‑of‑harvest testing to reduce reliance on chemical analyses and provide confidence that controls protect consumers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.1 Purpose",
+      "summary": "Purpose of verification programmes: to combine audits/inspections with harvest testing to ensure controls are adequate so exposures above the ADI rarely occur, and to verify registration assumptions, identify unacceptable practices, evaluate label/education/QMS effectiveness and confirm corrective actions.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "verification programme",
+        "verification objective",
+        "programme functions",
+        "registration verification",
+        "noncompliance detection",
+        "label effectiveness",
+        "education evaluation",
+        "system evaluation",
+        "corrective action"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.2 General design principles",
+      "summary": "General design principles: verification should cover the food chain using combined inspection/audit and sampling/analysis activities selected by risk, with programmes classed as system verification, risk‑targeted, surveys or port‑of‑entry testing, and focused on system effectiveness or compliance.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "design principles heading",
+        "programme design",
+        "programme classification",
+        "system verification",
+        "risk targeted",
+        "survey programmes",
+        "port testing",
+        "programme focus",
+        "system effectiveness",
+        "compliance assessment"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.3 System and targeted verification programme design",
+      "summary": "System and targeted verification design requirements: programmes must define purpose and population, specify whether sampling is non‑biased or targeted, base non‑biased sample numbers on statistics, pre‑determine targeting and result criteria, and establish sampling/identification procedures enabling traceability and independent confirmation.",
+      "categories": [
+        "official control",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "verification design",
+        "verification procedures",
+        "population sampling",
+        "sampling bias",
+        "statistical sampling",
+        "targeting criteria",
+        "result criteria",
+        "traceability procedures"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.4 Risk profiling",
+      "summary": "Risk profiling guidance: Competent Authorities must determine national/production‑system risk profiles and set verification frequency/intensity by drug/use, considering hazard type and severity, likelihood and dietary exposure pathways, sources (authorized or misused drugs), exposure routes (direct, indirect, contamination) and potential pre‑harvest audit points (sellers, users, distributors, assurance systems).",
+      "categories": [
+        "risk assessment",
+        "official control"
+      ],
+      "subcategories": [
+        "risk profiling heading",
+        "risk profiles",
+        "verification frequency",
+        "risk considerations",
+        "hazard type",
+        "health effect severity",
+        "exposure likelihood",
+        "dietary exposure",
+        "drug estimates",
+        "further considerations",
+        "adverse impact",
+        "likelihood assessment",
+        "source and pathway",
+        "source considerations",
+        "authorised drugs",
+        "misuse drugs",
+        "exposure pathways",
+        "direct administration",
+        "indirect administration",
+        "unintended contamination",
+        "pre-harvest controls",
+        "market surveillance",
+        "use verification",
+        "distribution communication",
+        "assurance systems"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8. CHOICE OF VERIFICATION PROGRAMME",
+      "summary": "Outlines choices for verification programmes—system verification (control-point examination and non-biased sampling to derive statistical confidence), risk-targeted verification (focused on past performance and risk factors), surveys (baseline, evaluation, monitoring), and regular review procedures including escalation of verification and rotation of lower-risk veterinary drugs when significant non-compliance is found.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "8.1 System verification programmes",
+      "summary": "Defines system verification programmes: examine relevant control points and apply non-biased sampling of a comparable population to derive statistical confidence, use such sampling to assess need for control adjustments (not for product evaluation), regularly verify appropriateness of drug use conditions imposed by the Competent Authority, and note that non-biased sampling is inefficient for detecting low-incidence non-compliance so other assurance programmes may be needed.",
+      "categories": [
+        "official control",
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "system verification heading",
+        "verification considerations",
+        "control point examination",
+        "non-biased sampling",
+        "control monitoring",
+        "sampling purpose",
+        "verification programmes",
+        "sampling bias"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "8.2 Risk targeted verification programmes",
+      "summary": "Sets up risk-targeted verification programmes by considering prior non-compliance, relied-on quality management components, risk factors correlated with increased veterinary drug use (e.g. high somatic cell counts, ante-/post-mortem lesions) and other information linked to non-compliance, and permits Competent Authorities to complement pre-harvest risk-targeted checks with post-harvest programmes.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "verification programmes",
+        "programme considerations",
+        "noncompliance history",
+        "quality management",
+        "risk factors",
+        "postharvest verification"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "8.3 Surveys",
+      "summary": "Permits surveys to establish baseline conditions before a programme, evaluate the efficiency and appropriateness of control measures, and monitor how variables (location, season, age) affect residue presence, absence or concentration.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "surveys heading",
+        "survey purposes"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8.4 Review",
+      "summary": "Requires regular review of control and verification programmes for continued efficacy and relevance to changing risk profiles, and mandates increased verification after significant annual non-compliance until corrective actions are shown effective, with rotation of some lower-risk veterinary drugs based on compliance history to broaden scope.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "review heading",
+        "programme review"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "9. SAMPLE TAKING",
+      "summary": "Requires sampling procedures that prevent selection and taking bias and, where possible, sampling before commingling, and mandates traceability of samples throughout handling with clear identification and retention of sub-units to allow independent confirmation of findings.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "9.1 General principles",
+      "summary": "Mandates mechanisms to prevent bias in both selection and taking of samples and advises, where practicable, taking samples before animals or products are commingled with others.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "general principles",
+        "sampling bias",
+        "sampling timing"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "9.2 Traceability/product tracing",
+      "summary": "Requires Competent Authorities to ensure full traceability of samples from sampling through storage, shipping, analysis and reporting, to clearly identify sampled sub-units, and to take sufficient sample to retain unprocessed sub-units for possible independent confirmation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "traceability heading",
+        "sample traceability",
+        "sample identification"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "10. STATISTICAL CONSIDERATIONS",
+      "summary": "Provides statistical considerations for verification programme design: sample numbers can be statistically pre-determined and must define purpose and population (including standardised production units), allow on-farm or composite sampling depending on objectives, treat port-of-entry/secondary verification differently, and requires interpretation, consignment-retention policies, and reporting/trace-back procedures for port-of-entry testing including method validation and distribution of laboratory reports and corrective-action summaries.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "10.1 General",
+      "summary": "Advises that sample sizes for system verification can be pre-determined statistically and that sampling protocol design must define purpose and population (seller, producer, supplier, processor or standardised production unit), allow stratification by risk factors (season, region), choose sampling point to match objectives (point of sale/harvest or on-farm), permit composite or commingled sampling for population exposure checks, and treat port-of-entry secondary verification with different design considerations.",
+      "categories": [
+        "analysis sampling",
+        "official control"
+      ],
+      "subcategories": [
+        "general heading",
+        "sample size",
+        "sampling protocol",
+        "population of interest",
+        "sampling unit",
+        "sampling period",
+        "co-variable targeting",
+        "sampling point",
+        "on-farm sampling",
+        "composite sampling",
+        "secondary verification"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "10.2 Retention of consignments during laboratory analysis",
+      "summary": "States Competent Authorities should not routinely retain production lots associated with randomly selected samples pending analytical results, but may retain lots routinely where risk-targeted testing is likely to yield non-compliant results that pose a consumer health risk.",
+      "categories": [
+        "analysis sampling",
+        "official control"
+      ],
+      "subcategories": [
+        "consignment retention"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "10.3 Result interpretation",
+      "summary": "Says that operating statistically based non-biased sampling and risk-targeted verification in parallel gives greater assurance, that risk-targeted results alone cannot be used to infer general population exposure, and that combining results from both programme types permits conclusions about population exposure.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "result interpretation",
+        "verification programmes",
+        "exposure interpretation",
+        "result combination",
+        "non-biased sampling",
+        "risk targeted sampling"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 124,
+      "order": 30,
+      "section": "10.4 Port of entry testing programmes (specific requirements)",
+      "summary": "Sets port-of-entry testing as a secondary verification tool with potentially different matrices, recommends non-biased sampling and release regimes based on exporting-country compliance records, warns results from heterogeneous commingled consignments should not be over-extrapolated, allows targeted sampling only when shared risk profiles exist, permits increased testing after detected non-compliance, requires confirmation with fully validated methods before communicating results, mandates laboratory reports to include method description and performance (confidence interval) and distribution to affected parties, and requires exporting countries to trace back, apply corrective actions and report summaries.",
+      "categories": [
+        "analysis sampling",
+        "official control",
+        "documentation"
+      ],
+      "subcategories": [
+        "port testing heading",
+        "secondary testing",
+        "matrix differences",
+        "release programmes",
+        "targeted sampling",
+        "follow-up testing",
+        "heterogeneity interpretation",
+        "validated methods",
+        "report contents",
+        "method description",
+        "method performance",
+        "report distribution",
+        "traceability reporting",
+        "corrective action"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "doc_id": "3c6278b0-da9c-46f9-b043-a088587a2310",
+  "title": "REGIONAL STANDARD FOR COOKED RICE WRAPPED IN PLANT LEAVES Asia CXS 355R-2023",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL STANDARD FOR COOKED RICE WRAPPED IN PLANT LEAVES Asia CXS 355R-2023",
+      "summary": "Document title only: Regional Standard for Cooked Rice Wrapped in Plant Leaves (Asia) CXS 355R-2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 2023",
+      "summary": "Adoption note only: indicates the standard was adopted in 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1 SCOPE",
+      "summary": "Specifies the standard applies to the products defined in Section 2 that are intended for direct consumption.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2 DESCRIPTION",
+      "summary": "Describes the product 'cooked rice wrapped in plant leaves', its types (quick-frozen, commercial sterilized, refrigerated) and process requirements including leaf selection/cleaning (no chemical reagents to alter colour; strings must not impart toxins), cooking, quick-freezing (see CXC 8-1976) with completion defined by reaching −18 °C at the thermal centre, sterilization to achieve commercial sterility per CXC 23-1979 (no leakage or swelling), and refrigeration per CXC 46-1999.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Product definition",
+      "summary": "Defines 'cooked rice wrapped in plant leaves' as rice with optional fillings (meat, poultry, eggs, fruits/vegetables, beans, nuts, derived products, etc.) completely wrapped in plant leaves (e.g., indocalamus, reed, banana, lotus) used as food contact materials for flavour not consumption, and notes the product may be bundled before steaming/boiling and packaging.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Product types",
+      "summary": "Classifies the product into three types: quick-frozen (steamed/cooked then quickly frozen), commercial sterilized (sterilized to meet commercial sterility), and refrigerated (steamed/cooked then stored at refrigeration temperature).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.1 Quick-frozen product",
+      "summary": "Specifies the quick-frozen product is steamed or cooked before being quickly frozen and stored at freezing temperatures.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.2 Commercial sterilized product",
+      "summary": "Defines the commercial sterilized product as one sterilized to meet the requirements of commercial sterility.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.3 Refrigerated product",
+      "summary": "Defines the refrigerated product as one steamed or cooked before being refrigerated and stored at refrigeration temperature.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.3 Process definition",
+      "summary": "Outlines process definitions including plant leaf preparation (selection, soaking, cleaning, draining; leaves shall not be soaked in chemical reagents and strings must not impart toxins), cooking under appropriate pressure/temperature/time, quick-freezing per CXC 8-1976 to rapidly pass the crystallization range and reach −18 °C at the thermal centre, sterilization per CXC 23-1979 to ensure stability and no leakage/swelling, and refrigeration per CXC 46-1999.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.3.1 Plant leaves",
+      "summary": "Requires plant leaves to be carefully selected, soaked, cleaned and drained before use, prohibits soaking leaves in chemical reagents to change colour, and requires any securing strings not to impart toxic substances to the food.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "plant leaf treatment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.3.2 Cooking",
+      "summary": "States the product may be cooked using steam or other appropriate methods under specified pressure, temperature and time before being quickly frozen or refrigerated.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "cooking process"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.3.3 Quick-freezing process",
+      "summary": "Requires quick-freezing to follow the Code of Practice for Quick Frozen Foods (CXC 8-1976), passing the temperature range of maximum crystallization quickly and not being considered complete until the product temperature at the thermal centre has reached −18 °C or colder; repacking quick-frozen products under temperature-controlled conditions is permitted.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "freezing process"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.3.4 Sterilization process",
+      "summary": "States commercial sterilized products shall be processed before or after sealing in accordance with the Code of Hygienic Practice for Low-Acid and Acidified Low-Acid Canned Foods (CXC 23-1979) to prevent spoilage and ensure stability at ambient temperature, and the product shall not leak or swell after sterilization.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "sterilization process"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.3.5 Refrigeration",
+      "summary": "Specifies refrigerated products are those subject to refrigeration in accordance with the Code of Hygienic Practice for Refrigerated Packaged Foods with Extended Shelf Life (CXC 46-1999).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "refrigeration process"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Lists essential composition and quality factors including permitted basic and optional ingredients, a peroxide value limit ≤ 19.7 mEq/kg for products with edible fats/oils or nut/animal-derived ingredients, general quality attributes (shape, uniform size, proper wrapping, characteristic smell/taste), defects to be substantially absent (broken wrapper/leakage, foreign taste, visible foreign matter), and that lots are acceptable if defectives do not exceed the acceptance number for an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.1 Ingredients",
+      "summary": "Enumerates ingredients: basic grains (e.g., glutinous rice, rice, millet, oat, barley) and optional ingredients including fruits/vegetables, nuts/seeds, preserved fruits, edible fungi, meat, poultry, aquatic products, eggs, edible fats/oils, beans, derived products, sugar, salt, spices, seasonings and other appropriate ingredients.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Lists basic ingredients as glutinous rice, rice, millet, oat, barley, etc.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.1.2 Optional ingredients",
+      "summary": "Lists optional ingredients including fruits and vegetables (including pulses/legumes), nuts and seeds, preserved fruits, edible fungi, meat, poultry, aquatic products, eggs, edible fats and oils, beans, derived products of these, sugar, edible salt, spices and culinary herbs, seasonings and other appropriate ingredients.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients",
+        "ingredient list"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5 CONTAMINANTS",
+      "summary": "Requires the product to comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6 HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex codes, requires compliance with microbiological criteria established per CXG 21-1997, and specifies that quick-frozen, commercial sterilized and refrigerated products must comply with their respective Codes of Practice (CXC 8-1976, CXC 23-1979, CXC 46-1999).",
+      "categories": [
+        "hygiene",
+        "analysis sampling",
+        "processing"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene",
+        "microbiological criteria",
+        "quick frozen processing",
+        "commercial sterility",
+        "refrigerated hygiene"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7 WEIGHTS AND MEASURES",
+      "summary": "Requires net weight to be declared in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and states lot net weight requirements are met when the average net weight of examined containers is not less than the declared weight provided there is no unreasonable shortage in individual containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.1 Net weight",
+      "summary": "Requires the product's net weight to be indicated in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985).",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net weight heading",
+        "net weight declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.2 Lot acceptance",
+      "summary": "Net weight requirements are met when the average net weight of all containers examined is at least the declared weight provided there is no unreasonable shortage in individual containers.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "average net weight"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8 LABELLING",
+      "summary": "Products covered by this standard must be labelled in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), with further name and non-retail container labelling provisions set out in subsequent sections (including CXS 346-2021).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.1 Name of the product",
+      "summary": "The product must be labelled as 'Cooked rice wrapped in plant leaves' (or with the corresponding name in Section 2.2), though other names may be used under national law and custom provided they do not mislead consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Labelling of non-retail containers should follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers heading",
+        "non-retail container labelling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "9 PACKAGING",
+      "summary": "Packaging for cooked rice wrapped in plant leaves must comply with the applicable provisions of the cited Codex Codes of Practice (CXC 8-1976, CXC 23-1979, or CXC 46-1999).",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "packaging requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "10 METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Methods of analysis and sampling for checking compliance with this standard shall use the relevant procedures in the Recommended Methods of Analysis and Sampling (CXS 234-1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods heading",
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "NOTES",
+      "summary": "Non-substantive notes listing cited Codex publications and a reference to the Codex website for Regional membership; this section is a bibliography/reference note.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "notes heading",
+        "reference note",
+        "website note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

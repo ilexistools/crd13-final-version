@@ -1,0 +1,364 @@
+{
+  "doc_id": "366c294b-c8af-4694-af94-47b5adfcfcff",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "Provides guidance for all parties producing and handling peanuts for entry into international trade for human consumption and requires preparation and handling in accordance with the Recommended International Code of Practice — General Principles of Food Hygiene to ensure food safety and suitability.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DEFINITIONS",
+      "summary": "Heading introducing definitions used in the document, covering terms such as 'Blows', 'Curing', 'Farmers stock', 'Safe water activity' and water activity (aw) including its safety implications.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. 'Blows' (Pops) means in-shell nuts which are unusually light in weight due to extensive damage from physiological, mould, insect, or other causes and which can be removed, for example, by an air-separation process.",
+      "summary": "Defines 'Blows' (Pops) as in‑shell peanuts unusually light from extensive damage (physiological, mould, insect or other causes) that can be removed, for example, by air separation.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product defect"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. 'Curing' means drying of the in-shell peanuts to a safe moisture level.",
+      "summary": "Defines 'Curing' as the drying of in‑shell peanuts to a safe moisture level.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "drying definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4. 'Farmers  stock' peanuts  means  in-shell  peanuts  as  they  come  from  farms,  after separation from the vines by hand and/or mechanical means.",
+      "summary": "Defines 'Farmers stock' peanuts as in‑shell peanuts as they come from farms after separation from vines by hand and/or mechanical means.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product form"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "5. 'Safe water activity' means a water activity of in-shell peanuts and shelled peanuts that will prevent growth of micro-organisms normally present in the harvesting, processing, and storage environment.",
+      "summary": "Defines 'Safe water activity' as the water activity of in‑shell and shelled peanuts that will prevent growth of microorganisms normally present during harvesting, processing and storage.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "water activity"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "6. Water activity (aw), is a measure of free moisture in a product and is the water vapour pressure  of  the  substance  divided  by  the  vapour  pressure  of  pure  water  at  the  same temperature.  Water  activities  above  0.70  at  25  degrees  Celsius  (77  °  Fahrenheit)  are 'unsafe'  as  far  as  growth  of Aspergillus  flavus and Aspergillus parasiticus and  possible aflatoxin production are concerned.",
+      "summary": "Defines water activity (aw) as the ratio of a product's vapour pressure to that of pure water at the same temperature and states that aw above 0.70 at 25°C (77°F) is 'unsafe' regarding growth of Aspergillus flavus and Aspergillus parasiticus and possible aflatoxin production.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "water activity"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 3. RECOMMENDED PRACTICES BASED ON GOOD AGRICULTURAL PRACTICES (GAP)",
+      "summary": "Section heading introducing recommended Good Agricultural Practices (GAP) for aflatoxin control in peanuts and cites relevant Codex documents (CXC 1 and CXC 55-2004).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "1  Recommended International Code of Practice - General Principles of Food Hygiene (CXC 1- 1969, Rev. 42003).",
+      "summary": "Reference to the Recommended International Code of Practice — General Principles of Food Hygiene (CXC 1-1969, Rev. 4-2003).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "AFLATOXIN CONTAMINATION IN PEANUTS",
+      "summary": "Section heading only: Aflatoxin contamination in peanuts.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "section heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "CXC 55-2004",
+      "summary": "Document code identifying the Codex text: CXC 55-2004 (Aflatoxin contamination in peanuts).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1 Pre-harvest",
+      "summary": "Pre-harvest GAPs to reduce aflatoxin: consider local environmental and agronomic factors (soil type, crop rotation, erosion), use soil tests to manage pH and nutrition, select regionally adapted/resistant varieties that mature to allow safe field drying, apply irrigation (especially during last 4–6 weeks) using suitable water, maintain recommended plant spacing, control weeds and pests via integrated pest management and registered products, and notes that fungicides have not proven effective for pre-harvest control.",
+      "categories": [
+        "processing",
+        "risk management",
+        "composition",
+        "pest control"
+      ],
+      "subcategories": [
+        "pre-harvest heading",
+        "aflatoxin prevention",
+        "pre-harvest practices",
+        "soil conservation",
+        "soil management",
+        "variety selection",
+        "irrigation control",
+        "water quality",
+        "plant spacing",
+        "weed control",
+        "integrated pest management",
+        "chemical treatment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.3 Transport",
+      "summary": "Transport recommendations: move peanuts to drying, storage or processing promptly; use clean, dry, pest‑free containers cleaned/disinfected as needed; protect consignments from moisture and condensation; segregate loads by aflatoxin status using screening; and prevent insect, bird and rodent infestation during transit.",
+      "categories": [
+        "transport",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "transport heading",
+        "postharvest movement",
+        "container cleanliness",
+        "container sanitation",
+        "moisture protection",
+        "lot segregation",
+        "pest protection"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.4 Segregation of aflatoxin contaminated lots",
+      "summary": "States that aflatoxin distribution in peanut lots is highly heterogeneous, that sorting removes a large proportion of aflatoxin present at harvest, and that an appropriate sampling plan is therefore critical.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "segregation heading",
+        "aflatoxin distribution",
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.5 Storage",
+      "summary": "Specifies storage GAPs to prevent post-harvest aflatoxin development — use dry, well‑ventilated warehouses with good roofs/floors, protection from rain and pests, uniform loading and aeration, appropriate bagging and palletization, prompt removal of mouldy lots, pest control and recordkeeping of temperature/moisture/humidity. It sets control targets and monitoring obligations: A. flavus/A. parasiticus cannot grow at water activity <0.7, relative humidity should be kept below 70%, temperatures of 0–10 °C are optimal for long‑term storage, and aflatoxin and temperature should be monitored with corrective action on detection of mould or temperature rise.",
+      "categories": [
+        "storage",
+        "analysis sampling",
+        "pest control",
+        "documentation"
+      ],
+      "subcategories": [
+        "storage heading",
+        "mould prevention",
+        "warehouse conditions",
+        "water activity control",
+        "warehouse loading",
+        "storage conditions",
+        "aflatoxin monitoring",
+        "storage handling",
+        "temperature control",
+        "storage monitoring",
+        "storage pest control",
+        "storage records"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.2 Sorting",
+      "summary": "Sorting is the final step to remove defective and mould‑contaminated kernels: operate well‑lit, single‑layer sorting belts at appropriate speed, adjust and check machines frequently, sort before and after blanching/roasting, verify effectiveness with regular aflatoxin analyses, and bag/tag or destroy rejected kernels or divert them to non‑food uses.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "sorting heading",
+        "sorting operations",
+        "sorting validation",
+        "defective kernel removal",
+        "rejected product handling"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.3 Blanching",
+      "summary": "Notes that blanching combined with gravity tables and manual or electronic sorting—and colour sorting combined with blanching—are highly effective at removing aflatoxin‑contaminated kernels, with reported reductions up to about 90%.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "blanching heading",
+        "blanching treatment"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.4 Packaging and storage of end product",
+      "summary": "Packaging and end‑product storage/transport requirements: pack in suitable materials (clear jute, cartons, polypropylene) not treated with mineral hydrocarbon oils, lot‑identify for traceability, and store/transport in clean, dry, weatherproof, pest‑free, sealed carriers (insulated or refrigerated when needed) while avoiding condensation and not using spilled peanuts for edible products.",
+      "categories": [
+        "packaging",
+        "transport"
+      ],
+      "subcategories": [
+        "packaging storage heading",
+        "packaging materials",
+        "transport conditions"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5. A COMPLEMENTARY MANAGEMENT SYSTEM TO CONSIDER IN THE FUTURE",
+      "summary": "Recommends considering HACCP as an integrated food‑safety management system to identify and control hazards and reduce aflatoxin levels, noting CCPs are often not present pre‑harvest but can be identified post‑harvest (e.g. drying water content), and advises building HACCP on sound GAPs and GMPs while incorporating HACCP principles into integrated mycotoxin control programs.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "management system heading",
+        "haccp system",
+        "critical control points",
+        "gmp gap guidance",
+        "preventive controls"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    }
+  ]
+}

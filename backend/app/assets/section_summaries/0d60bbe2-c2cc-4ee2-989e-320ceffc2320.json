@@ -1,0 +1,717 @@
+{
+  "doc_id": "0d60bbe2-c2cc-4ee2-989e-320ceffc2320",
+  "title": "STANDARD FOR FISH SAUCE CXS 302-2011 Adopted in 2011. Amended in 2012, 2013, 2018.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR FISH SAUCE CXS 302-2011 Adopted in 2011. Amended in 2012, 2013, 2018.",
+      "summary": "Document title: Standard for Fish Sauce (CXS 302-2011), adopted 2011 and amended in 2012, 2013 and 2018.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 SCOPE",
+      "summary": "Applies to fish sauce made by fermentation of mixed fish and salt (other ingredients allowed to assist fermentation) intended as a seasoning/condiment/ingredient, and explicitly excludes fish sauce produced by acid hydrolysis.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2 DESCRIPTION",
+      "summary": "Defines fish sauce as a translucent, non-turbid salty liquid from fermentation of fish and salt, describes fermentation in covered containers generally taking at least six months with possible subsequent brine extractions and permitted supporting ingredients, and allows any presentation provided it meets the Standard and is labelled to avoid misleading consumers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product definition",
+      "summary": "Product definition: fish sauce is a translucent, not turbid liquid with a salty taste and fish flavour obtained from fermentation of a mixture of fish and salt.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition",
+        "product characteristics"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Process definition",
+      "summary": "Process definition: prepared by mixing fish with salt and fermenting in covered containers or tanks generally for not less than six months, with possible succeeding brine extractions and use of other ingredients to assist fermentation.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "process definition",
+        "fermentation process",
+        "processing aids"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3 Presentation",
+      "summary": "Any product presentation is permitted provided it meets all requirements of this Standard and is adequately labelled to avoid confusing or misleading the consumer.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors: raw materials (sound wholesome fish, food-grade salt conforming to CXS 150-1985, potable water), other ingredients of food-grade quality, organoleptic requirements (translucent, characteristic odour/taste, free from foreign matter), and chemical limits (see Section 3.4) with final product and packaging meeting inspection and method requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Raw material",
+      "summary": "Raw material requirements: fish must be sound and wholesome and fit for sale as fresh food; salt must be food-grade and conform to CXS 150-1985; water for brine must be potable.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.1 Fish",
+      "summary": "Fish requirement: fish sauce shall be prepared from sound and wholesome fish or parts of fish in a condition fit to be sold fresh for human consumption.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw material fish",
+        "fish quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.2 Salt",
+      "summary": "Salt requirement: salt used must be of food grade quality and conform to the Codex Standard for Food Grade Salt (CXS 150-1985).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "salt ingredient",
+        "salt quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.3 Water",
+      "summary": "Water requirement: water used to prepare brine shall be potable.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "water ingredient",
+        "water quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2 Other ingredients",
+      "summary": "Other ingredients must be of food-grade quality and conform to all applicable Codex standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients",
+        "ingredient quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.3 Quality criteria",
+      "summary": "Quality criteria require acceptable organoleptic properties: translucent, not turbid (only salt crystals allowed as sediment), characteristic odour and taste, and absence of foreign matter.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.3.1 Appearance",
+      "summary": "Appearance and sensory requirement: fish sauce must be translucent, not turbid and free from sediments except salt crystals, and shall have a characteristic odour and taste.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "appearance heading",
+        "appearance requirements",
+        "odour taste",
+        "sensory characteristics"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.3.2 Foreign matter",
+      "summary": "Foreign matter requirement: the product shall be free from foreign matter.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter heading",
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.4 Chemical properties",
+      "summary": "Chemical property limits: total nitrogen not less than 10 g/L (competent authorities may set a lower level), amino acid nitrogen at least 40% of total nitrogen, pH typically 5.0–6.5 but not below 4.5 if fermentation-assisting ingredients are used, and salt not less than 200 g/L expressed as NaCl.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "chemical properties heading",
+        "total nitrogen",
+        "amino nitrogen",
+        "ph range",
+        "salt content"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.5 Final product",
+      "summary": "Final product inspection: the product must meet the Standard when lots examined per Section 11 comply with provisions in Section 10 and be tested by methods in Section 9; packaging must be free from integrity defects such as cracks, leakage or loose pieces.",
+      "categories": [
+        "quality",
+        "packaging"
+      ],
+      "subcategories": [
+        "final product heading",
+        "package integrity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permitted food additives are those listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for food category 12.6.4 (clear sauces like fish sauce), plus certain Table 3 acidity regulators, emulsifiers, flavour enhancers and stabilizers as indicated.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5. CONTAMINANTS",
+      "summary": "Contaminant requirements: comply with the General Standard for Contaminants and Toxins (CXS 193-1995); raw fish must not contain marine biotoxins (e.g., ciguatoxin, tetrodotoxin, PSP) at levels posing a health risk; fish from aquaculture must comply with Codex maximum residue limits for veterinary drugs.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "general contaminant limits",
+        "marine biotoxins",
+        "veterinary drug residues"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. HYGIENE AND HANDLING",
+      "summary": "Hygiene and handling: final product must be free from foreign material that threatens health and should be prepared and handled per Codex hygiene and fishery codes and microbiological criteria; additionally, histamine must not exceed 40 mg per 100 g in any sample unit.",
+      "categories": [
+        "hygiene",
+        "analysis sampling",
+        "contaminants"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "foreign material",
+        "hygienic handling",
+        "microbiological criteria",
+        "histamine limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Section 7 sets weights and measures rules for fish sauce containers, including fill requirements, defective classification and lot acceptance criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.1 Fill of containers",
+      "summary": "Specifies fill requirements for fish sauce containers: minimum fill, classification of defective containers, and lot acceptance criteria based on AQL sampling and average net content.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.1.1 Minimum Fill",
+      "summary": "Requires fish sauce containers to be filled to at least 90% of their water capacity (allowing necessary headspace per GMP) and that flexible containers be filled as full as commercially practicable.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill heading",
+        "minimum fill requirement",
+        "flexible fill"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.1.2 Classification of 'Defectives'",
+      "summary": "Defines a 'defective' container as any container that fails to meet the minimum fill requirement of Section 7.1.1.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "defective definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "A lot meets the minimum fill requirement when the number of 'defectives' does not exceed the sampling-plan acceptance number at AQL 6.5 and the lot's average net weight/volume is equal to or greater than the declared amount.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8. LABELLING",
+      "summary": "Introduces specific labelling provisions for fish sauce that supplement the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8.1 Name of the product",
+      "summary": "Requires the product name to be 'fish sauce' or an equivalent name permitted by local law/custom, not misleading the consumer, and allows indicating the common/usual name of the fish.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name designation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Non-retail containers must include the product name, lot identification, manufacturer/packer name and address, and storage instructions on the container, though lot ID and manufacturer details may be replaced by an identifiable mark linked to accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling heading",
+        "non-retail label information"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8.3 Labelling of nitrogen content",
+      "summary": "Competent authorities may require declaration of total nitrogen (g/l) on fish sauce labels and may require descriptors reflecting total nitrogen as an indicator of product quality.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nitrogen content heading",
+        "nitrogen declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9. SAMPLING, EXAMINATION AND ANALYSIS",
+      "summary": "Sets sampling, sensory/physical examination procedures and prescribed AOAC/FAO methods for chemical analyses of fish sauce (total nitrogen, amino-acid nitrogen, pH with 1:10 dilution, sodium chloride, histamine), referencing CXG 50-2004 and CXG 31-1999.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "9.1 Sampling of lots for examination of the final product shall be in accordance with the General Guidelines on Sampling (CXG 50-2004). A sample unit is the individually packed product (bottle) or a 1l portion from bulk containers.",
+      "summary": "Sampling of lots for final product examination must follow the General Guidelines on Sampling (CXG 50-2004), with a sample unit defined as an individually packed product (bottle) or a 1 L portion from bulk containers.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot sampling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "9.2 Sensory and Physical Examination Samples taken for sensory and physical examination shall be assessed by persons trained in such examination in accordance with the Guidelines for the Sensory Evaluation of Fish and Shellfish in Laboratories (CXG 31-1999) as follows:",
+      "summary": "Sensory and physical examination samples must be evaluated by trained personnel per CXG 31-1999, including packaging integrity checks, inspection for translucence/foreign matter, and odour and taste evaluation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "package integrity check",
+        "foreign matter check",
+        "odour taste evaluation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "9.3 Test methods for chemical properties",
+      "summary": "Specifies test methods for fish sauce chemical properties: AOAC 940.25 for total nitrogen, AOAC methods for amino-acid and ammoniacal nitrogen, AOAC 981.12 for pH (1:10 dilution), FAO/AOAC methods for sodium chloride, and AOAC 977.13 for histamine.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "9.3.1 Determination of total nitrogen: AOAC 940.25",
+      "summary": "Prescribes AOAC 940.25 as the method for determining total nitrogen in fish sauce.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "nitrogen method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "9.3.2 Determination of amino acid nitrogen by determining formaldehyde nitrogen (AOAC 2.066) and subtracting by ammoniacal nitrogen (AOAC 2.065)",
+      "summary": "Specifies determination of amino-acid nitrogen by measuring formaldehyde nitrogen (AOAC 2.066) minus ammoniacal nitrogen (AOAC 2.065).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "amino nitrogen method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "9.3.3 Determination of pH: AOAC 981.12 (Codex general method). The pH shall be measured in a sample of fish sauce diluted with water to 1:10 using a pH meter. The dilution of fish sauce is necessary because of the high ionic strength in the undiluted sauce.",
+      "summary": "Requires pH measurement of fish sauce using AOAC 981.12 with the sample diluted 1:10 in water and measured by pH meter due to high ionic strength of undiluted sauce.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "ph method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "9.3.4 Determination of sodium chloride: FAO 1981, Technical Paper 219 AOAC 937.13 or 976.18 or 976.19",
+      "summary": "Specifies methods for sodium chloride determination in fish sauce: FAO 1981 Technical Paper 219 or AOAC 937.13, 976.18, or 976.19.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "salt method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "9.3.5 Determination of histamine: See AOAC 977.13",
+      "summary": "Refers to AOAC 977.13 as the method for determining histamine in fish sauce.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "histamine method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "10. DEFINITION OF DEFECTIVES",
+      "summary": "Defines that a sample unit shall be classified as a defective if it exhibits any of the properties listed in Section 10 (detailed defect criteria follow).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "10.1 Foreign matter",
+      "summary": "Defines 'foreign matter' as any non-salt-and-fish material that does not pose a health threat and is readily recognized without magnification or detected by methods indicating non-compliance with GMP and sanitation.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "foreign matter heading",
+        "foreign matter criterion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "10.2 Appearance",
+      "summary": "Classifies a sample unit as defective if it shows sediments (except NaCl crystals) and/or cloudiness affecting appearance.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "appearance heading",
+        "appearance defects"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "10.3 Odour",
+      "summary": "Considers a sample unit defective if it has a distinct objectionable odour (e.g., rotten, putrid, rancid, gamey, pungent).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour heading",
+        "odour defects"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "10.4 TASTE",
+      "summary": "Considers a sample unit defective if it exhibits a distinct objectionable taste (e.g., bitter, sour, metallic, taint).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "taste heading",
+        "taste defects"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "11. LOT ACCEPTANCE",
+      "summary": "A lot meets the Standard when defective units (per Section 10) do not exceed the sampling-plan acceptance number at AQL‑6.5 and when essential composition, additives, contaminants, hygiene, handling and labelling requirements of Sections 3–6 and 8 are satisfied.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "acceptance conditions",
+        "defective count",
+        "standard compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

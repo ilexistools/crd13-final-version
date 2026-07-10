@@ -1,0 +1,448 @@
+{
+  "doc_id": "72688f40-63f2-4195-83d3-d90a53ac5f13",
+  "title": "STANDARD FOR NATURAL MINERAL WATERS CXS 108-1981 Adopted in 1981. Revised in 1997, 2008. Amended in 2001, 2011, 2019.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR NATURAL MINERAL WATERS CXS 108-1981 Adopted in 1981. Revised in 1997, 2008. Amended in 2001, 2011, 2019.",
+      "summary": "Document title and history for the Standard for Natural Mineral Waters (CXS 108‑1981) showing adoption, revisions and amendments (1981; revised 1997, 2008; amended 2001, 2011, 2019).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Scope: this Standard applies to all packaged natural mineral waters offered for sale as food and does not apply to natural mineral waters sold or used for other purposes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Provides the definition of natural mineral water and supplementary definitions (carbonation classes) and states that natural mineral water should be recognized as such by the responsible authority of the state where it emerges.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Definition of natural mineral water",
+      "summary": "Defines natural mineral water as distinct from ordinary drinking water based on mineral salt content and trace constituents, protected underground source and hygienic collection/packaging near the emergence, constancy of composition/discharge/temperature, preserved microbiological purity and allowance only of treatments permitted by the Standard.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "water definition",
+        "composition traits",
+        "source requirements",
+        "composition stability",
+        "microbiological purity",
+        "source packaging",
+        "permitted treatment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Supplementary definitions",
+      "summary": "Supplementary definitions section introducing specific carbonation-related categories (naturally carbonated, non‑carbonated, decarbonated, source‑fortified and carbonated natural mineral waters) that reference permitted treatments and packaging considerations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 Naturally carbonated natural mineral water",
+      "summary": "Defines 'naturally carbonated natural mineral water' as a water which, after permitted treatment and re‑incorporation of gas from the same source and packaging tolerances, has the same content of carbon dioxide and visibly gives off CO2 spontaneously under normal conditions.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "classification heading",
+        "carbonated class"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.2 Non-carbonated natural mineral water",
+      "summary": "Defines 'non‑carbonated natural mineral water' as a water which, by nature and after permitted treatment and packaging tolerances, does not contain free carbon dioxide in excess of the amount necessary to keep hydrogen carbonate salts dissolved.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "classification heading",
+        "non-carbonated class"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.3 Decarbonated natural mineral water",
+      "summary": "Defines 'decarbonated natural mineral water' as a water which, after permitted treatment and packaging, has less carbon dioxide than at emergence and does not visibly and spontaneously give off carbon dioxide under normal conditions.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "classification heading",
+        "decarbonated class"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.4 Natural mineral water fortified with carbon dioxide from the source",
+      "summary": "Defines \"natural mineral water fortified with carbon dioxide from the source\" as a natural mineral water which, after any permitted treatment (Section 3.1.1) and after packaging, contains more carbon dioxide than at emergence.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "classification heading",
+        "source-fortified class"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.5 Carbonated natural mineral water",
+      "summary": "Defines \"carbonated natural mineral water\" as a natural mineral water which, after any permitted treatment (Section 3.1.1) and after packaging, has been made effervescent by adding carbon dioxide from another origin.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "classification heading",
+        "carbonated class"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.3 Authorization",
+      "summary": "Requires natural mineral water to be recognized as such by the responsible (competent) authority of the state where the water emerges.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "authorization heading",
+        "official recognition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3. COMPOSITION AND QUALITY FACTORS",
+      "summary": "Permits treatments to remove unstable constituents (e.g., iron, manganese, sulphur, arsenic) by decantation/filtration, possibly accelerated by aeration, only if the water's essential mineral constituents and properties are not modified and prohibits transport in bulk containers before packaging; it also sets health-based maximum concentrations for many contaminants in packaged natural mineral water (e.g., antimony 0.005 mg/L, arsenic 0.01 mg/L, barium 0.7 mg/L, cadmium 0.003 mg/L, chromium 0.05 mg/L, lead 0.01 mg/L, nitrate 50 mg/L, nitrite 0.1 mg/L, etc.) and requires certain substances (surface active agents, pesticides/PCBs, mineral oil, polynuclear aromatic hydrocarbons) to be below the limit of quantification when tested in accordance with the prescribed methods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1 Treatment and handling",
+      "summary": "Permits separation of unstable constituents (iron, manganese, sulphur, arsenic) by decantation and/or filtration, possibly after aeration, allows the treatments listed only if they do not alter the essential mineral content that gives the water its properties, and prohibits transporting natural mineral waters in bulk containers prior to packaging.",
+      "categories": [
+        "processing",
+        "transport"
+      ],
+      "subcategories": [
+        "treatment heading",
+        "permitted treatment",
+        "treatment conditions",
+        "bulk transport"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.3 The  installations  intended  for  the  production  of  natural  mineral  waters  shall  be  such  as  to  exclude  any possibility of contamination. For this purpose, and in particular:",
+      "summary": "Requires production installations to prevent contamination by using collection pipes/reservoirs of materials suited to the water, maintaining hygienic production/ washing/packaging equipment, mandating that producers stop operations if pollution is detected until the cause is eliminated, and subjecting these provisions to periodic checks per the country of origin.",
+      "categories": [
+        "hygiene",
+        "equipment",
+        "official control"
+      ],
+      "subcategories": [
+        "facility hygiene",
+        "collection equipment",
+        "production equipment",
+        "production stop",
+        "periodic checks"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.4 Microbiological requirements",
+      "summary": "During marketing, natural mineral water must meet the microbiological criteria set out in Annex I of the Code of Hygienic Practice for Collecting, Processing and Marketing of Natural Mineral Waters (CXC 33-1985).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbiological requirements",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6. PACKAGING",
+      "summary": "Requires natural mineral water to be packed in hermetically sealed retail containers that prevent adulteration or contamination.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "sealed containers"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7. LABELLING",
+      "summary": "Adds labelling rules to the general Codex standard: the product name must be \"natural mineral water\" (with permitted designations per Section 2.2), the source location and name must be declared, the analytical composition that characterizes the product must be shown, fluoride thresholds trigger specific label statements (>1 mg/L: \"contains fluoride\"; >1.5 mg/L: include that product is not suitable for infants/children under seven), any treatment under Section 3.1.1 must be declared, and prohibits medicinal claims, misleading statements or pictorial devices and improper use of locality names in trade names.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.1 The name of the product",
+      "summary": "Mandates the product name be \"natural mineral water\" and allows the enumerated designations (e.g., naturally carbonated, non-carbonated, decarbonated, fortified with carbon dioxide from the source, carbonated) in accordance with Section 2.2 and with suitable descriptive terms.",
+      "categories": [
+        "labelling",
+        "presentation"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name",
+        "designation use",
+        "designation list",
+        "presentation types"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7.2 Name and address",
+      "summary": "Requires the label to declare the location of the source and the name of the source.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name and address",
+        "source declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.3 Additional labelling requirements",
+      "summary": "Requires declaration of the analytical composition that characterizes the product, mandates a \"contains fluoride\" statement if fluoride >1 mg/L (and an additional warning if >1.5 mg/L), and requires that any treatment performed under Section 3.1.1 be declared on the label.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.3.1 Chemical composition",
+      "summary": "Requires the analytical composition that gives the product its characteristics to be declared on the labelling.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "chemical composition",
+        "composition declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.3.2 If the product contains more than 1 mg/l of fluoride, the following term shall appear on the label as part of, or in close proximity to, the name of the product or in an otherwise prominent position: ' contains fluoride '.  In addition, the following sentence should be included on the label: ' The product is not suitable for infants and children under the age of seven years ' where the product contains more than 1.5 mg/l fluorides.",
+      "summary": "If fluoride exceeds 1 mg/L the label must state \"contains fluoride,\" and if fluoride exceeds 1.5 mg/L the label should also state that the product is not suitable for infants and children under seven years.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fluoride warning"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.3.3 If a natural mineral water has been submitted to a treatment in accordance with sub-section 3.1.1, the result of the treatment shall be declared on the label.",
+      "summary": "Requires that if a natural mineral water has been treated in accordance with Section 3.1.1, the result of that treatment must be declared on the label.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "treatment declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.4 Labelling prohibitions",
+      "summary": "Prohibits labelling claims of medicinal effects for the product, restricts health-related claims to those that are true and not misleading, forbids using a locality name in the trade name unless the water is collected there, and bans any statements or pictorial devices that could mislead consumers about the nature, origin, composition or properties of the water.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.4.1 No claims concerning medicinal (preventative, alleviative or curative) effects shall be made in respect of the properties of the product covered by the Standard. Claims of other beneficial effects related to the health of the consumer shall not be made unless true and not misleading.",
+      "summary": "Prohibits any medicinal claims (preventative, alleviative or curative) about the product and allows other beneficial health claims only if they are true and not misleading.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "health claims"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.4.2 The name of the locality, hamlet or specified place may not form part of the trade name unless it refers to a natural mineral water collected at the place designated by that trade name.",
+      "summary": "Prohibits using the name of a locality, hamlet or specified place in the trade name unless the natural mineral water is actually collected at the place designated by that name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "trade name use"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "## 8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Non-substantive reference directing readers to the relevant Codex texts for methods of analysis and sampling; no methods are specified here.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "referenced methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

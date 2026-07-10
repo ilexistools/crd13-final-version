@@ -1,0 +1,424 @@
+{
+  "doc_id": "ce072e9f-1ce8-46b2-b0fb-261e546c972e",
+  "title": "STANDARD FOR DURIAN CODEX STAN 317-2014",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR DURIAN CODEX STAN 317-2014",
+      "summary": "Document heading for the Codex Standard for Durian (Codex Stan 317-2014) — non-substantive title.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "Applies to commercial varieties of durians (Durio spp., Bombacaceae) supplied fresh to consumers after preparation and packaging and explicitly excludes durians intended for industrial processing.",
+      "categories": [
+        "definition",
+        "scope"
+      ],
+      "subcategories": [
+        "produce definition",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets out quality provisions for durian including minimum requirements (integrity, soundness, cleanliness, freedom from pests, abnormal moisture, foreign smell/taste, temperature damage and cracking, and appropriate maturity/transportability) and classifies durians into three classes (Extra, I, II) with specified tolerances and criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Minimum Requirements",
+      "summary": "Specifies minimum requirements applicable to all classes: fruit must be whole with peduncle intact (may be trimmed), sound, clean, practically free of pests and visible foreign matter, free of abnormal external moisture, foreign smell/taste, temperature damage and cracking, and sufficiently developed/mature to withstand transport and arrive in satisfactory condition.",
+      "categories": [
+        "classification",
+        "quality",
+        "transport"
+      ],
+      "subcategories": [
+        "minimum requirements",
+        "minimum quality",
+        "maturity requirement",
+        "transportability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Classification",
+      "summary": "Defines three quality classes (Extra, Class I, Class II) and the tolerances for each, with the unifying condition that any allowed defects must not affect the pulp; classes differ by quality level, permitted defects, minimum number of fertile locules and maximum healed-defect areas.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "'Extra' Class requires durians of superior quality characteristic of the variety, each with at least 4 fertile locules, well-developed thorns with no splitting of thorn ends, and no defects except very slight ones that do not affect appearance, quality, keeping quality, presentation or the pulp.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "extra class",
+        "extra class quality",
+        "pulp integrity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.2 Class I",
+      "summary": "Class I requires durians of good quality characteristic of the variety, with well-developed thorns and at least 3 fertile locules; slight defects in shape and slight healed defects are permitted provided they do not affect appearance, quality, keeping quality or presentation, and total healed-defect area does not exceed 10%, with no defects affecting the pulp.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class i",
+        "class i quality",
+        "class i defects",
+        "pulp integrity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.3 Class II",
+      "summary": "Class II durians meet the minimum requirements of Section 2.1 but not higher classes; allowed defects (provided they do not affect general appearance, quality, keeping quality or presentation) include the product's pungent smell (not considered foreign), healed defects with total area ≤15%, and shape defects provided the fruit carries at least two fertile locules, and none of these may affect the pulp.",
+      "categories": [
+        "classification",
+        "quality",
+        "definition"
+      ],
+      "subcategories": [
+        "class ii",
+        "class ii quality",
+        "foreign smell",
+        "fertile locule",
+        "class ii defects",
+        "pulp integrity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Durian may be sized by weight or count; when sized by weight size codes 1–5 correspond to >4.0 kg (1), >3.0–4.0 kg (2), >2.0–3.0 kg (3), >1.0–2.0 kg (4) and 0.5–1.0 kg (5).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sizing provisions",
+        "size basis",
+        "weight sizing",
+        "size classes"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Quality tolerances per lot: 'Extra' class allows 5% by number/weight not satisfying the class but meeting Class I (or within its tolerances); Class I allows 10% not meeting the class but meeting Class II (or within its tolerances); Class II allows 10% neither meeting the class nor the minimum requirements except produce unfit for consumption; size tolerance for all classes is 20% by number or weight of durians of the size immediately above and/or below that indicated on the package.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.2 Size Tolerances",
+      "summary": "For all classes, up to 20% by number or weight of durians may be of the size immediately above and/or below the size indicated on the package.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size tolerances",
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Packages must be uniform and contain only durians of the same variety and quality with visible contents representative of the whole, and durians must be packed to protect the produce using new, clean food‑grade materials in compliance with CAC/RCP 44‑1995 while containers meet hygiene, ventilation and resistance requirements and be free of foreign matter and smell.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.1 Uniformity",
+      "summary": "Each package must be uniform and contain only durians of the same variety and quality, and the visible part must be representative of the entire contents.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "uniformity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.2 Packaging",
+      "summary": "Durians must be packed to protect the produce using new, clean food‑grade materials (including recycled food‑grade material), with any printing done in non‑toxic ink or glue, in compliance with CAC/RCP 44‑1995, and containers must ensure suitable handling, shipping and preservation and be free of foreign matter and smell.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.2.1 Description of Containers",
+      "summary": "Containers must meet quality, hygiene, ventilation and resistance characteristics to ensure suitable handling, shipping and preservation of durians, and packages must be free of foreign matter and smell.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container description",
+        "container requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6. MARKING OR LABELLING",
+      "summary": "Labelling must comply with the General Standard for the Labelling of Prepackaged Foods (CODEX STAN 1‑1985) plus additional specific provisions; non‑retail packages must bear legible exporter/packer identification, nature and origin of produce, commercial identification (class, size or weight/count, net weight optional) and may carry an official inspection mark.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.1 Consumer Packages",
+      "summary": "Introductory heading noting that consumer package labelling must follow CODEX STAN 1‑1985 and is subject to additional specific provisions set out below.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6.1.1 Nature of Produce",
+      "summary": "If the produce is not visible from the outside, each consumer package must be labelled with the name of the produce and may be labelled with the variety name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6.2 Non-retail Container s",
+      "summary": "Non‑retail containers must bear legible, indelible particulars visible from the outside or in accompanying documents, including identification, nature and origin of the produce, commercial identification and an optional official inspection mark.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.2.1 Identification",
+      "summary": "Identification on non‑retail containers must include the name and address of the exporter, packer and/or dispatcher, with an optional identification code.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "identification heading",
+        "packer details"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.2.2 Nature of Produce",
+      "summary": "If contents are not visible, non‑retail containers must show the name of the produce and may indicate the variety.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.2.3 Origin of Produce",
+      "summary": "Non‑retail containers must declare the country of origin and may optionally state the district or national/regional/local place name where grown.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.2.4 Commercial Identification",
+      "summary": "Commercial identification must indicate class and size (size code, weight range or count) and may indicate net weight.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial identification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Heading only: an official inspection mark may be applied optionally to the package.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "inspection mark"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7. CONTAMINANTS",
+      "summary": "Durians covered by this Standard must comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193‑1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8. HYGIENE",
+      "summary": "Preparation and handling of the produce are recommended to follow the General Principles of Food Hygiene (CAC/RCP 1‑1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CAC/RCP 53‑2003) and other relevant Codex texts, and the produce should comply with any microbiological criteria established in accordance with CAC/GL 21‑1997.",
+      "categories": [
+        "hygiene",
+        "labelling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic preparation",
+        "microbiological criteria",
+        "packer details"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

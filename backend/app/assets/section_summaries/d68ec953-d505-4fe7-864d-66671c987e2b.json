@@ -1,0 +1,591 @@
+{
+  "doc_id": "d68ec953-d505-4fe7-864d-66671c987e2b",
+  "title": "GUIDELINE FOR THE CONDUCT OF FOOD SAFETY ASSESSMENT OF FOODS DERIVED FROM RECOMBINANT-DNA ANIMALS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINE FOR THE CONDUCT OF FOOD SAFETY ASSESSMENT OF FOODS DERIVED FROM RECOMBINANT-DNA ANIMALS",
+      "summary": "Document title: Guideline for the Conduct of Food Safety Assessment of Foods Derived from Recombinant‑DNA Animals.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CAC/GL 68-2008",
+      "summary": "Document code/designation: CAC/GL 68-2008.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION 1 - SCOPE",
+      "summary": "This Guideline supports the Principles for the Risk Analysis of Foods Derived from Modern Biotechnology and addresses safety and nutritional assessment of foods from animals modified by modern biotechnology that have a history of safe use, excluding animal welfare, ethical/socio‑economic issues, environmental release risks and feed‑safety issues; assessment is case‑by‑case, comparing the recombinant‑DNA animal to a conventional counterpart and considering the nature of the recombinant‑DNA construct and expression products, the animal’s health status, and food composition (including key nutrients), with risk management (including possible post‑market monitoring) applied if new or altered hazards are identified.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "risk management",
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope exclusions",
+        "risk principles",
+        "safety approach",
+        "distribution decision",
+        "post-market monitoring",
+        "assessment approach",
+        "trait nature",
+        "animal health status",
+        "nutrient composition",
+        "footnote",
+        "case by case"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION 2 - DEFINITIONS",
+      "summary": "Defines 'Recombinant‑DNA animal' as an animal whose genetic material has been altered by in vitro nucleic acid techniques (including recombinant DNA and direct nucleic acid injection), and 'Conventional counterpart' as the breed with a known history of safe use as food from which the recombinant‑DNA line was derived and the breeding partners used to produce the food animals.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition intro",
+        "animal definition",
+        "counterpart definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "SECTION 3 - INTRODUCTION TO FOOD SAFETY ASSESSMENT",
+      "summary": "Introduces that conventional animal-derived foods historically lacked extensive toxicological/nutritional testing, explains the limits of applying traditional animal toxicology to whole foods, and establishes the concept of substantial equivalence as the starting point for focused safety assessment of foods from recombinant‑DNA animals by identifying similarities and differences relative to a conventional counterpart.",
+      "categories": [
+        "scope",
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "intro heading",
+        "safety testing",
+        "toxicological testing",
+        "whole food testing",
+        "substantial equivalence",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "UNINTENDED EFFECTS",
+      "summary": "States that unintended effects (loss, gain or modification of traits) can arise from recombinant‑DNA techniques or conventional breeding, may be predictable or unexpected, and that safety assessment must use multiple methods and data (including breeder phenotypic screening and molecular analyses) to detect, evaluate biological relevance, and reduce the likelihood of unexpected adverse effects in foods derived from recombinant‑DNA animals.",
+      "categories": [
+        "other",
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "section heading",
+        "unintended effects",
+        "metabolic changes",
+        "predictable effects",
+        "unintended effect assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "FRAMEWORK OF FOOD SAFETY ASSESSMENT",
+      "summary": "Sets out a stepwise safety‑assessment framework (A–H) covering description of the recombinant‑DNA animal, recipient and donor, genetic modifications and production methods, genetic characterization, health status, expressed substances, composition, storage/processing, intended nutritional changes and other considerations; and requires experiments to follow sound scientific principles (and GLP where appropriate) with primary data available to authorities, with the goal of concluding whether the new food is as safe as its conventional counterpart for all population subgroups.",
+      "categories": [
+        "scope",
+        "analysis sampling",
+        "other",
+        "processing",
+        "risk assessment",
+        "composition"
+      ],
+      "subcategories": [
+        "framework heading",
+        "stepwise process",
+        "animal description",
+        "recipient animal",
+        "donor source",
+        "genetic modification",
+        "production methods",
+        "substantial equivalence",
+        "footnote",
+        "genetic characterization",
+        "safety assessment",
+        "health status",
+        "expressed substances",
+        "component analysis",
+        "storage processing",
+        "nutritional modification",
+        "other considerations",
+        "additional data",
+        "study design",
+        "safety conclusion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## SECTION 4 - GENERAL CONSIDERATIONS",
+      "summary": "Requires a comprehensive descriptive dossier for the recombinant‑DNA animal and its context, including identification of introduced DNA and methods, assessment of risks from biological source materials (e.g. transmissible agents), detailed description of the recipient animal and its history of use, full information on donor sources (including toxins/allergens/pathogenicity), a detailed account of the genetic construct and transformation methods, production and heritability processes, and molecular/biochemical characterization and health evaluations sufficient to understand hazards and the nature of food being submitted for safety assessment.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "DESCRIPTION OF THE DONOR ORGANISM OR OTHER SOURCE(S) OF THE INTRODUCED RECOMBINANTDNA",
+      "summary": "Requires disclosure of whether the recombinant‑DNA was synthesized or derived from another organism, and if derived, the donor's common and scientific names, taxonomy, natural history relevant to food safety, known toxins/allergens, pathogenicity for microbes, source material origins for animal/viral donors, and past/present use and exposure routes, with particular emphasis on whether the introduced sequences could impart pathogenicity, toxin production or allergenicity.",
+      "categories": [
+        "other",
+        "documentation",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "section heading",
+        "information requirements",
+        "synthetic origin",
+        "derived organism",
+        "common name",
+        "scientific name",
+        "taxonomic classification",
+        "natural history",
+        "toxins allergens",
+        "pathogenicity info",
+        "source material",
+        "food supply exposure",
+        "pathogenicity traits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "DESCRIPTION OF THE GENETIC MODIFICATION(S) INCLUDING THE CONSTRUCT(S) USED TO INTRODUCE THE RECOMBINANT-DNA",
+      "summary": "Requires sufficient information to identify all genetic material delivered to the recipient animal and to analyse the inserted DNA, including the specific transformation methodology, source/identity and expected function of DNA elements (with details and risk information for viral vectors or zoonotic organisms and any intermediate hosts), and particulars of the DNA to be introduced (primary sequence if synthetic, component characterization, size, location/orientation in the construct, and function).",
+      "categories": [
+        "other",
+        "documentation",
+        "risk assessment",
+        "composition"
+      ],
+      "subcategories": [
+        "section heading",
+        "genetic information",
+        "process description",
+        "transformation method",
+        "vector dna info",
+        "viral vector risk",
+        "intermediate host",
+        "dna introduction",
+        "genetic sequence details",
+        "genetic component characterization",
+        "insert size identity",
+        "vector location orientation",
+        "gene function"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "DESCRIPTION OF THE METHODS USED TO PRODUCE INITIAL RECOMBINANT-DNA ANIMAL AND THE PROCESSES TO PRODUCE THE RECOMBINANT DNA ANIMAL ULTIMATELY USED AS FOOD OR FOR FOOD PRODUCTION",
+      "summary": "Requires documentation of the techniques used to produce initial recombinant‑DNA animals (e.g. gamete transformation, embryo microinjection, nuclear transfer), methods to demonstrate heritability, and information on how initial animals lead to production animals (including breeding partners, surrogate dams, husbandry and history of use) because generation methods may inform hazard identification.",
+      "categories": [
+        "processing",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "production methods heading",
+        "production techniques",
+        "heritability methods",
+        "hazard identification",
+        "breeding history",
+        "food product history"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "CHARACTERIZATION OF THE GENETIC MODIFICATION(S) IN THE RECOMBINANT-DNA ANIMAL ULTIMATELY USED AS FOOD OR FOR FOOD PRODUCTION",
+      "summary": "Calls for comprehensive molecular and biochemical characterization of genetic modifications in food‑use recombinant‑DNA animals, including detailed description and analysis of inserted materials (mobilization/recombination potential, insertion site number and organization, copy number and surrounding sequence), identification of ORFs and any fusion proteins, characterization of newly expressed substances (identity, function, levels, sites of expression and metabolites), and demonstrations of sequence integrity, post‑translational effects, trait stability/inheritance, tissue‑specific expression, and evidence of any genes affected by transformation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "36. In  order  to  provide  clear  understanding  of  the  impact  on  the  composition  and  safety  of  foods  derived  from recombinant-DNA animals, a comprehensive molecular and biochemical characterization of the genetic modification should be carried out.",
+      "summary": "Requires a comprehensive molecular and biochemical characterization of the genetic modification to understand impacts on the composition and safety of foods from recombinant‑DNA animals.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "molecular characterization"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "37. Information should be provided on the DNA insertions into the animal genome; this should include:",
+      "summary": "Specifies that information on DNA insertions must include characterization/description of inserted genetic materials (including mobilization/recombination potential), the number of insertion sites, organization and copy number with sequence data of inserted and flanking regions to identify expressed substances, and identification of any ORFs including those creating potential fusion proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "dna insertions",
+        "inserted material characterization",
+        "insertion site count",
+        "insert organization",
+        "open reading frames"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "38. Information should be provided on any newly expressed substances in the recombinant-DNA animal; this should include:",
+      "summary": "Requires characterization of any newly expressed substances in the recombinant‑DNA animal, including the gene product(s) or transcript analyses, their function, phenotypic description of new traits, level and site of expression in the animal and levels of metabolites in food, and where possible quantitative amounts when the target alters endogenous mRNA or protein accumulation.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "newly expressed substances",
+        "gene product identity",
+        "gene product function",
+        "phenotypic description",
+        "expression levels",
+        "target product amount"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "39. In addition, information should be provided to:",
+      "summary": "Requires additional information demonstrating whether the inserted genetic arrangement is conserved or rearranged, whether amino acid modifications alter post‑translational modification or critical sites, that intended effects are achieved and traits are stable (including inheritance or RNA expression where phenotype cannot be directly measured), that expression patterns match regulatory sequences and tissues, whether transformation affected other genes, and confirmation of identity/expression of any fusion proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "additional characterization",
+        "genetic rearrangement",
+        "protein modification effects",
+        "trait stability",
+        "tissue expression pattern",
+        "transformation effects",
+        "fusion protein identity"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## SAFETY ASSESSMENT OF THE RECOMBINANT-DNA ANIMAL ULTIMATELY USED AS FOOD OR FOR FOOD PRODUCTION",
+      "summary": "States that safety assessment must compare the health status of the recombinant‑DNA animal to an appropriate conventional counterpart (including general health, physiological and species‑specific measures) and evaluate expressed non‑nucleic acid substances for toxicity/bioactivity (including concentration in edible tissues, exposure and need for toxicology studies where not previously consumed), allergenicity for proteins, compositional analyses against matched conventional comparators, effects of storage and processing, and any intended nutritional modifications, with additional studies requested where characterization is insufficient or composition differs materially.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "Assessment of possible allergenicity (proteins)",
+      "summary": "Requires that any protein(s) produced by an inserted gene and present in the food be assessed for potential allergenicity using an integrated, stepwise, case‑by‑case approach relying on multiple criteria, and advises avoiding transfer of genes from commonly allergenic foods unless documented not to code for an allergen.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "allergenicity heading",
+        "allergenicity assessment",
+        "allergenic gene transfer"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Compositional Analysis of Key Components",
+      "summary": "Requires compositional analyses of key components in the recombinant‑DNA animal to be compared with equivalent analyses of conventional counterparts raised under the same husbandry (or as close as feasible), with statistical differences assessed against natural variation to determine biological significance and using suitably matched comparators where possible.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "compositional analysis heading",
+        "key component analysis"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Food Storage and Processing",
+      "summary": "Requires consideration of the effects of food processing (including home preparation) on foods from recombinant‑DNA animals—such as changes in toxicant heat stability or nutrient bioavailability—and provision of the processing conditions used to produce food ingredients; if the modification alters storage or shelf‑life, its impact on safety and nutritional quality must be evaluated.",
+      "categories": [
+        "storage",
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "storage processing heading",
+        "processing conditions"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Intended Nutritional Modification",
+      "summary": "Mandates additional nutritional assessment for recombinant‑DNA animals intentionally modified to alter nutritional quality or functionality, using consumption patterns to estimate likely and maximal intakes (paying attention to vulnerable subgroups and bioavailability/stability), and recommends alternative comparators or animal feeding studies where composition differs significantly or available data are insufficient.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk heading",
+        "nutritional assessment",
+        "consumption estimate",
+        "nutritional profile",
+        "comparator foods",
+        "population impact",
+        "additional testing"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "SECTION 5 - OTHER CONSIDERATIONS",
+      "summary": "Covers other considerations including that safety assessments must address potential altered accumulation or distribution of xenobiotics or microorganisms affecting food safety, that antibiotic‑resistance marker genes should be avoided where safe alternatives exist and must be assessed for risks (with marker genes conferring resistance to clinically important antibiotics not acceptable in foods), and that safety assessments should be revisited in light of new scientific information.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "POTENTIAL ALTERED ACCUMULATION OR DISTRIBUTION OF SUBSTANCES OR MICROORGANISMS SIGNIFICANT TO HUMAN HEALTH",
+      "summary": "States that recombinant‑DNA animals may show altered accumulation or distribution of xenobiotics (e.g. veterinary drug residues, metals) or altered colonization/shedding by human pathogens or new toxin‑producing symbioses, and that safety assessments should consider these changes and their potential human health impacts using conventional procedures.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "distribution heading",
+        "substance accumulation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "USE OF ANTIBIOTIC RESISTANCE MARKER GENES",
+      "summary": "Advises using transformation technologies that avoid antibiotic‑resistance marker genes where available, acknowledges horizontal gene transfer from foods to gut microbes or human cells as a rare but non‑zero possibility, mandates assessment of the clinical/veterinary importance of the antibiotic, potential for food‑borne enzyme to compromise oral antibiotic efficacy, and safety of the gene product, and requires exclusion of marker genes or products from food if they pose a human health risk or encode resistance to clinically important antibiotics.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "marker gene heading",
+        "alternative technologies",
+        "gene transfer",
+        "marker gene assessment",
+        "antibiotic importance",
+        "clinically important antibiotics",
+        "therapeutic efficacy",
+        "enzyme degradation",
+        "gene product safety",
+        "marker gene exclusion"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "ANNEX: ASSESSMENT OF POSSIBLE ALLERGENICITY",
+      "summary": "Annex sets a stepwise, integrated, case-by-case framework for assessing potential allergenicity of newly expressed proteins in recombinant‑DNA animals intended for food, requiring evaluation of source, sequence similarity to known allergens, structural/physicochemical properties (e.g., pepsin resistance, heat stability), serum/ immunoassay testing where appropriate, and consideration of exposure and food processing to conclude the likelihood of the protein being a food allergen.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "SECTION 1 - INTRODUCTION",
+      "summary": "All newly expressed proteins in recombinant‑DNA animals that may be present in the final food must be assessed for potential to cause allergic reactions using an integrated, stepwise, case‑by‑case approach because no single definitive predictive test exists, with the assessment endpoint being the likelihood the protein is a food allergen.",
+      "categories": [
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "introductory heading",
+        "allergenicity assessment",
+        "stepwise approach",
+        "allergenicity endpoint"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "SECTION 3.3 - PEPSIN RESISTANCE",
+      "summary": "Resistance to pepsin digestion correlates with allergenic potential and pepsin‑resistance testing under well‑validated conditions is strongly recommended to trigger further analysis, but absence of pepsin resistance does not exclude allergenicity; alternative enzyme susceptibility protocols may be used if adequately justified.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "testing heading",
+        "pepsin resistance",
+        "alternative protocols"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "SECTION 4 - SPECIFIC SERUM SCREENING",
+      "summary": "For proteins from known allergenic sources or those with sequence homology to known allergens, perform immunological assays using sera from clinically validated allergic individuals (with attention to sera availability and assay standardization); a negative in‑vitro result for proteins from known allergenic sources should prompt additional testing (e.g., skin tests, ex‑vivo), while targeted screening may be considered for other proteins where tests and sera are available.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "screening heading",
+        "serum screening",
+        "follow-up testing"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "SECTION 5 - OTHER CONSIDERATIONS",
+      "summary": "Assessment must consider absolute human exposure to the newly expressed protein and effects of relevant food processing, taking into account the nature of the intended food product and processing steps that affect the protein's presence in the final food.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "other"
+      ],
+      "subcategories": [
+        "other considerations",
+        "processing exposure",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "doc_id": "26237a22-804d-42d8-9743-99ce5606ae61",
+  "title": "STANDARD FOR CANNED BAMBOO SHOOTS CXS 241-2003 Adopted in 2003. Revised in 2011. Amended in 2015, 2020, 2022, 2023.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR CANNED BAMBOO SHOOTS CXS 241-2003 Adopted in 2003. Revised in 2011. Amended in 2015, 2020, 2022, 2023.",
+      "summary": "Document title and revision history noting the Codex Standard for Canned Bamboo Shoots (CXS 241‑2003) and its adoption/revision/amendments — not a substantive regulatory provision.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendments",
+      "summary": "Notes that amendments were made to Section 8.2 (Labelling of non‑retail containers) following Codex decisions at the Forty‑fifth Session in December 2022.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendments notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2023 Amendments",
+      "summary": "Notes that amendments were made to Section 9 (Methods of analysis and sampling) following Codex decisions at the Forty‑sixth Session in December 2023.",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "methods amendment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Applies the standard to canned bamboo shoots made from edible varieties (see Section 2), offered for direct consumption, catering, repacking or further processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Heading introducing the product description section, which includes the product definition, species, and styles (see subsections for details).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Product definition",
+      "summary": "Defines canned bamboo shoots as products prepared from edible bamboo shoots in packing media with or without fermentation, heat‑processed before or after hermetic sealing to prevent spoilage, and classifies products by pH: natural fermented (pH < 4.0), acidified (pH 4.0–4.6), and non‑fermented/non‑acidified (pH > 4.6).",
+      "categories": [
+        "definition",
+        "composition",
+        "processing",
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "product ingredients",
+        "heat treatment",
+        "ph value classes",
+        "fermented product",
+        "acidified product",
+        "nonfermented product"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Species",
+      "summary": "Lists permitted bamboo species for the product: Bambusa spp., Dendrocalamus spp., Gigantochloa spp., Phyllostachys spp., Melocanda humilis, Thyrsostachys siamensis, and Nastus elatus.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "species heading",
+        "species list"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.3 Styles",
+      "summary": "Defines permitted product styles (whole, half, slice, strip, dice) and provides for other styles if they meet standard requirements and are adequately described on the label.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.3.6 Other styles",
+      "summary": "Permits other presentations of canned bamboo shoots provided they are sufficiently distinctive, comply with all relevant standard requirements (including defect limits and drained weight), and are adequately labelled to avoid consumer confusion.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "other styles heading",
+        "other styles",
+        "distinctive style",
+        "style requirements",
+        "consumer description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies essential composition and quality factors: basic ingredients and packing media, quality criteria for normal colour/flavour/odour/texture, defect allowances by style, classification of a 'defective' container, and lot acceptance rules using sampling plans with an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1 Composition",
+      "summary": "States that composition comprises bamboo shoots (per Section 2) and an appropriate liquid packing medium, and that packing media details (basic and other permitted ingredients) are in Section 3.1.2.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Specifies the basic ingredients as bamboo shoots (see Section 2) and an appropriate liquid packing medium.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1.2 Packing media",
+      "summary": "Specifies packing media basics (water and, if necessary, salt) and states that other permitted ingredients may be included subject to labelling requirements in Section 8.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.1.2.1 Basic ingredients",
+      "summary": "Specifies that the basic packing media ingredients are water and, if necessary, salt.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.1.2.2 Other permitted ingredients",
+      "summary": "Lists permitted packing media additives — including sugars or honey, aromatic plants/spices/seasonings, vinegar, regular or concentrated fruit juice, oil, and tomato puree — and notes these are subject to Section 8 labelling requirements.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other permitted ingredients heading",
+        "permitted ingredients",
+        "sweetening ingredients",
+        "seasoning ingredients",
+        "vinegar ingredient",
+        "fruit juice ingredient",
+        "oil ingredient",
+        "tomato ingredient"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2 Quality criteria",
+      "summary": "Requires canned bamboo shoots to have normal colour, flavour, odour and characteristic texture and sets defect allowances shown in Table 1 (e.g., limits for whole/half items per can and 20% by drained weight for slice/strip/dice).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.1 Defects and allowances",
+      "summary": "Sets maximum permissible irregularities/shape defects: for whole or half style, allowances per can based on counts (none if <3; 1 if 3–5; 2 if 6–9; 3 per each 10 if >10), and for slice/strip/dice style the limit is 20% by drained weight.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defects allowances",
+        "permissible limits",
+        "table reference",
+        "table data",
+        "table separator",
+        "style tolerances"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.3 Classification of 'defectives'",
+      "summary": "Defines a 'defective' as any container that fails to meet one or more applicable quality requirements in Section 3.2, except requirements based on sample averages.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defectives classification",
+        "defective definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.4 Lot acceptance",
+      "summary": "A lot meets Section 3.2 when (a) for non-average requirements the number of 'defectives' does not exceed the acceptance number (c) of the appropriate sampling plan at an AQL of 6.5, and (b) the requirements based on sample averages are complied with.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits acidity regulators in accordance with the General Standard for Food Additives (CXS 192-1995) and additionally allows tartrates (INS 334; 335 ii; 337) at a maximum of 1,300 mg/kg expressed as tartaric acid.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.1 Acidity regulators",
+      "summary": "Acidity regulators are acceptable per Table 3 of CXS 192-1995, and specifically authorizes tartrates (INS 334; 335 ii; 337) up to 1,300 mg/kg as tartaric acid.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "acidity regulators",
+        "additive permission",
+        "additive table",
+        "table separator",
+        "maximum level"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires products to comply with the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.1 The products covered by this standard shall comply with the maximum levels of the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+      "summary": "Requires products covered by this standard to comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.2 The products covered by this standard shall comply with the maximum residue limits for pesticides established by the Codex Alimentarius Commission.",
+      "summary": "Requires the products covered by this standard to comply with Codex Alimentarius Commission maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling per the General Principles of Food Hygiene (CXC 1-1969), the Code for Low and Acidified Low Acid Canned Foods (CXC 23-1979) and other relevant Codex texts, and requires compliance with microbiological criteria established under CXG 21-1997, noting such criteria are not recommended for commercially sterile low/acidified low-acid canned foods.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Sets weights-and-measures requirements including fill and drained weight rules: container fill must be at least 90% of water capacity (minus necessary head space) and drained weight not less than 50% of net weight (both defined by volume/weight of distilled water at 20°C); containers failing minimum fill are 'defectives' and lot acceptance uses sampling plans with an AQL of 6.5, while drained-weight compliance may be judged on average provided no unreasonable shortages.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.1 Fill of container",
+      "summary": "Details fill-of-container provisions: minimum fill 90% of water capacity (less necessary head space), definition of water capacity, classification of containers failing minimum fill as 'defectives', lot acceptance using sampling plans at AQL 6.5, and minimum drained weight and its average-based lot acceptance rule.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.1.1 Minimum fill",
+      "summary": "Requires the container (product plus packing medium) to occupy not less than 90% of the container's water capacity (minus necessary head space per good manufacturing practices), where water capacity is the volume of distilled water at 20°C the sealed container will hold when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill",
+        "fill requirement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.1.2 Classification of 'defectives'",
+      "summary": "States that any container failing the minimum fill requirement of Section 7.1.1 shall be considered a 'defective'.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defectives classification",
+        "minimum fill defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "A lot meets the minimum fill requirement when the number of 'defectives' (per Section 7.1.2) does not exceed the acceptance number (c) of the appropriate sampling plan at an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.1.4 Minimum drained weight",
+      "summary": "Requires drained weight to be at least 50% of net weight calculated on the basis of distilled water at 20°C corresponding to the container's water capacity, and deems drained-weight requirements complied with when the average drained weight of examined containers meets the minimum provided there is no unreasonable shortage in individual containers.",
+      "categories": [
+        "weights and measures",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "minimum drained weight",
+        "drained weight requirement",
+        "lot acceptance",
+        "acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8. LABELLING",
+      "summary": "Labelling must follow the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and specifies that the product name be 'Bamboo Shoots' (or 'Boiled Bamboo Shoots' or 'Fermented Bamboo Shoots') with the style declared, that other permitted styles include qualifying words to avoid misleading consumers, that added ingredients which alter flavour must be declared as 'flavoured with X' or 'X flavoured', and that non-retail containers be labelled per CXS 346-2021.",
+      "categories": [
+        "labelling",
+        "hygiene",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "general labelling",
+        "product name",
+        "product name declaration",
+        "misleading statement",
+        "flavour declaration",
+        "non-retail labelling",
+        "non-retail container",
+        "microbiological criteria",
+        "container fill basis"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies that methods of analysis and sampling for checking compliance shall be those in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis sampling heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "NOTES",
+      "summary": "Non-substantive section containing bibliographic notes listing cited Codex standards, codes and guidelines (references).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "1   FAO  and  WHO.  1999. Standard  for  Sugars .  Codex  Alimentarius Standard,  No.  CXS  212-1999.  Codex  Alimentarius Commission. Rome.",
+      "summary": "Reference citation: FAO and WHO (1999), Standard for Sugars, Codex Alimentarius Standard No. CXS 212-1999.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "2   FAO  and  WHO.  1981. Standard  for  Honey .  Codex Alimentarius Standard,  No.  CXS  12-1981.  Codex Alimentarius Commission. Rome.",
+      "summary": "Reference citation: FAO and WHO (1981), Standard for Honey, Codex Alimentarius Standard No. CXS 12-1981.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "3  FAO and WHO. 2005. General Standard for Fruit Juices and Nectars . Codex Alimentarius Standard, No. CXS 247-2005. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius General Standard for Fruit Juices and Nectars (CXS 247-2005).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "4   FAO and WHO. 1981. Standard for Processed Tomato Concentrates . Codex Alimentarius Standard, No. CXS 57-1981. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius Standard for Processed Tomato Concentrates (CXS 57-1981).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "5  FAO and WHO. 1995. General Standard for Food Additives . Codex Alimentarius Standard, No. CXS 192-1995 Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius General Standard for Food Additives (CXS 192-1995).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "6  FAO and WHO. 1995. General Standard for Contaminants and Toxins in Food and Feed . Codex Alimentarius Standard, No. CXS 193-1995. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "7  FAO and WHO. 1969. General Principles of Food Hygiene . Codex Alimentarius Code of Practice, No. CXC 1-1969. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius Code of Practice on General Principles of Food Hygiene (CXC 1-1969).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "8  FAO and WHO. 1979. Code of Hygienic Practice for Low and Acidified Low Acid Canned Foods . Codex Alimentarius Code of Practice, No. CXC 23-1979. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius Code of Hygienic Practice for Low and Acidified Low Acid Canned Foods (CXC 23-1979).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "9  FAO and WHO. 1997. Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods . Codex Alimentarius Guideline, No. CXG 21-1997. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "10  FAO and WHO. 1985. General Standard for the Labelling of Pre-packaged Foods . Codex Alimentarius Standard, No.  CXS 1-1985. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "11   FAO  and  WHO.  2021. General  Standard  for  the  Labelling  of  Non-Retail  Containers  of  Foods. Codex  Alimentarius Standard, No. CXS 346-2021. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "12  FAO and WHO. 1999. Recommended Methods of Analysis and Sampling. Codex Alimentarius Standard, No. CXS 2341999. Codex Alimentarius Commission. Rome.",
+      "summary": "Bibliographic citation to the Codex Alimentarius Recommended Methods of Analysis and Sampling (CXS 234-1999).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

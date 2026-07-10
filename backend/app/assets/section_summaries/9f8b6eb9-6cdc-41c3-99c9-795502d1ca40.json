@@ -1,0 +1,1131 @@
+{
+  "doc_id": "9f8b6eb9-6cdc-41c3-99c9-795502d1ca40",
+  "title": "STANDARD FOR LIVE ABALONE AND FOR RAW FRESH CHILLED OR FROZEN ABALONE FOR DIRECT CONSUMPTION OR FOR FURTHER PROCESSING",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR LIVE ABALONE AND FOR RAW FRESH CHILLED OR FROZEN ABALONE FOR DIRECT CONSUMPTION OR FOR FURTHER PROCESSING",
+      "summary": "Document title/headline indicating this is the standard for live and raw fresh chilled or frozen abalone for direct consumption or further processing (not substantive text).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CODEX STAN 312-2013",
+      "summary": "Document identifier heading (CODEX STAN 312‑2013) — non‑substantive.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SCOPE",
+      "summary": "Scope: applies to live and raw fresh chilled or frozen abalone (genus Haliotis), whole or shucked with viscera removed and optional removal of epithelium/mucous/radula, with chilling/freezing that retain live characteristics; covers products for direct consumption or further processing and assigns Part I to live abalone and Part II to raw fresh chilled/frozen abalone.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "PART I - LIVE ABALONE",
+      "summary": "Part I (Live abalone) — establishes definitions, composition/quality requirements, prohibition of additives, contaminant/residue compliance (including marine biotoxin risk assessment by Competent Authorities), hygiene/handling recommendations, labelling requirements, sampling/examination methods, defect definitions, and lot acceptance criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "I-2 DESCRIPTION",
+      "summary": "Describes live abalone as alive immediately prior to consumption, notes they may be wild‑caught or farmed and purged/drained before packaging, and permits any presentation provided it meets the Standard and is adequately labelled, with packing by weight, count or volume.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "I-2.1 Product Definition",
+      "summary": "Defines 'live abalone' as products that are alive immediately prior to consumption and notes presentation includes the shell.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "I-2.2 Process Definition",
+      "summary": "States live abalone may be wild caught or farmed and may be purged in clean seawater and/or drained prior to packaging for direct consumption or further processing.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "process definition heading",
+        "prepackaging treatment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "I-2.3 Presentation",
+      "summary": "Permits any product presentation provided it meets the Standard and is clearly described on the label to avoid misleading consumers, and allows packing by weight, count, count per unit weight or volume per package.",
+      "categories": [
+        "presentation",
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation conditions",
+        "consumer warning",
+        "count and weight"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "I-3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Requires abalone to be alive with organoleptic characteristics of freshness and freedom from taint or extraneous matter as judged by specialists, and states lots must meet Section I‑10 and be examined per Sections I‑8 and I‑9.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "I-3.1 Abalone",
+      "summary": "Live abalone must be alive and exhibit organoleptic characteristics of freshness and be free from taint or extraneous matter as judged by specialists familiar with the species.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "freshness criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "I-3.2 Final Product",
+      "summary": "Live abalone lots shall meet this Standard when complying with Section I-10 and must be examined by the methods specified in Sections I-8 and I-9.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "final product heading",
+        "compliance verification"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "I-4 FOOD ADDITIVES",
+      "summary": "Food additives are not permitted in live abalone.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "prohibited additives"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "I-5 CONTAMINANTS",
+      "summary": "Products must comply with the Codex General Standard for Contaminants and Toxins (CODEX/STAN 193-1995) and Codex MRLs for veterinary drugs, and Competent Authorities must perform risk assessments to manage marine biotoxin risks so that the edible parts meet levels in CODEX STAN 292-2008 using CAC/GL 62-2007 principles.",
+      "categories": [
+        "contaminants",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "biotoxin risk"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "I-6 HYGIENE AND HANDLING",
+      "summary": "Preparation and handling should follow Codex hygiene and fishery codes, products must meet any established microbiological criteria per CAC/GL 21-1997, and the final product shall be free from any foreign material that poses a threat to human health.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria",
+        "foreign material"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "I-7 LABELLING",
+      "summary": "In addition to the General Standard for Labelling, specific labelling requirements for live abalone cover the name of the food and its presentation, content declaration (weight/count/volume), storage/temperature instructions, mandatory container markings for non-retail consignments, and possible durability/shelf‑life rules including allowing the statement that abalone must be alive when sold to the final consumer.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "I-7.1 The Name of the Food",
+      "summary": "The label must declare the common or usual name of the abalone species (not misleading), include reference to the product presentation near the name, may add trade variety names if not misleading, and a country may require the scientific name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "product name",
+        "presentation declaration",
+        "trade name",
+        "scientific name"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "I-7.2 Content Declaration",
+      "summary": "Live abalone shall be labelled by weight, count, volume per package, or count per unit weight as appropriate.",
+      "categories": [
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "content declaration heading",
+        "content declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "I-7.3 Storage Instructions",
+      "summary": "Labels must specify storage conditions and/or temperatures necessary to maintain product quality and viability during transport, storage and distribution.",
+      "categories": [
+        "labelling",
+        "storage"
+      ],
+      "subcategories": [
+        "storage instructions heading",
+        "storage instructions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "I-7.4 Labelling of Non-Retail Containers",
+      "summary": "For non-retail containers, required labelling information may appear on the container or accompanying documents, but the food name, lot identification, manufacturer/packer name and address, and storage instructions must always appear on the container; lot and name/address may be replaced by an identifiable mark linked to accompanying documents.",
+      "categories": [
+        "labelling",
+        "documentation"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail marking",
+        "accompanying documents"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "I-7.5 The durability  or  shelf  life",
+      "summary": "A country may require durability/shelf‑life information, and the minimum durability date may be replaced by a statement that abalone must be alive when sold to the final consumer.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "durability statement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "I-8 SAMPLING, EXAMINATION AND ANALYSIS",
+      "summary": "Sampling, examination and analysis requirements include attribute sampling for sensory/physical checks using CAC/GL 50 (AQL 6.5%), s-method plans for net weight, sensory assessment by trained personnel per CAC/GL 31-1999, procedures for determining count per unit, and provision for biotoxin determination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "I-8.1 Sampling",
+      "summary": "Sampling provisions reference CAC/GL 50: attribute sampling for sensory/physical examination using AQL 6.5% (Section 4.2, Table 10) and variable sampling (s-method) for net weight (Section 4.3, Table 14).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "I-8.1.1 Sensory and Physical Examination and Determination of Count per Unit Weight or Volume",
+      "summary": "Sensory and physical examination and count-per-unit determinations shall follow an attribute sampling plan per CAC/GL 50 (Section 4.2, Table 10) using AQL 6.5%.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "sampling plan reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "I-8.1.2 Determination of Net Weight",
+      "summary": "Net weight shall be sampled using variable sampling plans for unknown standard deviation (s-method) as set out in CAC/GL 50 Section 4.3, Table 14.",
+      "categories": [
+        "weights and measures",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "net weight heading",
+        "variables sampling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "I-8.2 Sensory and Physical Examination",
+      "summary": "Samples for sensory and physical examination must be assessed by persons trained in those examinations and in accordance with procedures in Sections I-8.3–I-9 and CAC/GL 31-1999.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "trained assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "I-8.3 Determination of Count per Unit Weight or Volume",
+      "summary": "When declared on the label, count per unit weight or volume is determined by counting abalone in the container or representative sample and dividing by the actual weight/volume to obtain count per unit.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "count determination",
+        "count per unit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "I-8.4 Determination of Biotoxins",
+      "summary": "Heading only — determination of biotoxins is referenced but no substantive method or requirement is provided in this section.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "biotoxin determination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "I-9 DEFINITION OF DEFECTIVES",
+      "summary": "A sample unit is defective if it exhibits defined properties: foreign matter as defined, or dead/damaged product where a dead abalone is identified by lack of muscle movement or rigor mortis and the unit is defective if more than 5% of abalones by count are dead or damaged.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "I-9.1 Foreign Matter",
+      "summary": "Foreign matter is defined as any non-abalone material in the sample unit that (even if not a health threat) is readily recognizable or detectable and indicates non-compliance with good manufacturing and sanitation practices.",
+      "categories": [
+        "analysis sampling",
+        "contaminants"
+      ],
+      "subcategories": [
+        "foreign matter",
+        "foreign matter defect"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "I-9.2 Dead or Damaged Product",
+      "summary": "Defines a dead abalone (no muscle movement or stiffness from rigor mortis) and a damaged abalone (integrity affected) and states a sample unit is defective if more than 5% of abalones by count are dead or damaged.",
+      "categories": [
+        "analysis sampling",
+        "quality"
+      ],
+      "subcategories": [
+        "defect classification",
+        "defective product"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "I-10 LOT ACCEPTANCE",
+      "summary": "Specifies lot acceptance criteria: (i) total defectives per I‑9 must not exceed the sampling-plan acceptance number c (AQL 6.5); (ii) average count designation must be within the declared count with nonconforming samples ≤ c (AQL 6.5); (iii) average net weight of sample units must be at least the declared weight with no unreasonable shortage in any container; and (iv) essential composition/quality, additives, contaminants, hygiene/handling and labelling provisions of Sections I‑3 to I‑7 must be met.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria",
+        "sampling acceptance",
+        "count acceptance",
+        "average net weight",
+        "compliance criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "PART II - RAW FRESH CHILLED OR FROZEN ABALONE",
+      "summary": "Part II sets standards for raw fresh chilled or frozen abalone, covering product and process definitions, chilling/freezing conditions, presentation, composition and quality factors (including glazing and ingredient requirements), prohibition of additives, reference to contaminants and hygiene, labelling rules, sampling/examination methods, defect definitions, and lot acceptance criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "II-2 DESCRIPTION",
+      "summary": "Section heading only (Description) with no substantive requirements in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "II-2.1 Product Definition",
+      "summary": "Defines raw fresh chilled or frozen whole abalone as products that were alive immediately before freezing/processing, chilled or frozen whole or shucked with viscera removed, with epithelium, mucus or radula optionally removed.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "II-2.2 Process Definition",
+      "summary": "Requires chilling to rapidly bring product to melting-ice temperature (tolerance −2°C to +4°C) and maintain that temperature, and requires quick freezing that passes the ice-crystallization range rapidly with the thermal centre reaching −18°C or colder after stabilization and storage kept at −18°C or colder.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process definition",
+        "chilling conditions",
+        "freezing conditions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "II-2.3 Presentation",
+      "summary": "Non‑substantive cross-reference: refers to Section I‑2.3 for presentation requirements.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation reference"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "II-3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality requirements: raw abalone must be fit for human consumption; if glazed, glazing water must be potable or clean seawater meeting WHO microbiological standards; packing medium and ingredients must be food grade and comply with Codex; and final product compliance is determined by sampling/examination per II‑8/II‑9 and II‑10.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "II-3.1 Raw Fresh Chilled or Frozen Abalone",
+      "summary": "States that raw abalone shall be of a quality fit for human consumption.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "raw product quality",
+        "fitness for consumption"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "II-3.2 Glazing (for Frozen Abalone only)",
+      "summary": "If frozen abalone are glazed, the water or glazing solutions must be potable or clean seawater that meets the same microbiological standards as potable water and is free from objectionable substances (per WHO guidance).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "glazing treatment",
+        "glazing water"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "II-3.3 Other Ingredients",
+      "summary": "Requires that packing medium and all other ingredients be food‑grade quality and conform to applicable Codex standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients",
+        "food grade ingredients"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "II-3.4 Final Product",
+      "summary": "States that raw fresh chilled or frozen abalone meet the standard when lots examined per Sections II‑8 and II‑9 comply with the provisions of Section II‑10.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "final product",
+        "lot compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "II-4 FOOD ADDITIVES",
+      "summary": "Prohibits use of food additives in raw fresh chilled or frozen abalone.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "additives prohibition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "II-5 CONTAMINANTS",
+      "summary": "Non‑substantive cross-reference: directs the reader to Section I‑5 for contaminant requirements.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminants reference"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "II-6 HYGIENE",
+      "summary": "Requires abalone to meet hygiene requirements of I‑6 before chilling/freezing and to retain visual characteristics of freshness after processing, including shells free of dirt where relevant.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "freshness requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "II-7 LABELLING",
+      "summary": "Adds specific labelling obligations to CODEX STAN 1‑1985: the product name must be the common/usual species name and reference the presentation near the name; optional trade names may be used if not misleading; countries may require the scientific name; declare weight/count or count per unit (net weight of glazed frozen food exclusive of glaze); specify storage/temperature and durability/shucking dates; and non‑retail containers must show name, lot ID, manufacturer/packer and storage instructions (which may be replaced by an identifiable mark linked to accompanying documents).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "II-7.1 The Name of the Food",
+      "summary": "Requires the food name on the label to be the common or usual species name not misleading to consumers and applies the additional provisions on presentation reference, optional trade names, and possible country-specific requirement for the scientific name (II‑7.1.1–II‑7.1.3).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "II-7.1.1 There shall appear on the label, reference to the presentation (provided for in Section II-2.3- Presentation) in close proximity to the name of the product in such descriptive terms that will adequately and fully describe the nature of the presentation of the product to avoid misleading or confusing the consumer.",
+      "summary": "Mandates that the label include a clear reference to the product presentation (per II‑2.3) in close proximity to the product name using descriptive terms that fully describe the presentation to avoid misleading consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "II-7.1.2 In addition to the specified labelling designations above, the usual or common trade names of the variety may be added so long as it is not misleading to the consumer in the country in which the product will be distributed.",
+      "summary": "Permits adding usual or common trade names of the variety on the label provided they are not misleading to consumers in the country of distribution.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "II-7.1.3 The country where the product is sold can determine if the scientific name must be indicated on the label.",
+      "summary": "Allows the country where the product is sold to decide whether the scientific name must be indicated on the label.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "scientific name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "II-7.2 Content Declaration",
+      "summary": "Raw fresh chilled or frozen abalone must be labelled by weight, count, count per unit weight, or volume as appropriate, and for glazed frozen products the declared net weight must exclude the glaze.",
+      "categories": [
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "content declaration",
+        "weight count declaration",
+        "net weight glaze"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "II-7.3 Storage Instructions",
+      "summary": "The label must state storage conditions and/or temperatures needed to maintain product safety and quality during transport, storage and distribution, and include the date of minimum durability and date of shucking where required by the country of sale.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "storage instructions heading",
+        "storage instructions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "II-7.4 Labelling of Non-retail Containers",
+      "summary": "Required label information may appear on the container or accompanying documents, except the name of the food, lot identification, manufacturer/packer name and address, and storage instructions must always appear on the container, although lot identification and name/address may be replaced by an identification mark if it is clearly identifiable with accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "container marking",
+        "identification mark"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "II-8 SAMPLING, EXAMINATION AND ANALYSIS",
+      "summary": "This section sets out sampling, sensory/physical examination and analysis procedures for abalone, referencing I‑8.1, requiring trained assessors per CAC/GL 31‑1999, specifying net weight determination methods (II‑8.3.1–.3), count-per-unit procedures, thawing/sample preparation, and biotoxin testing per CODEX STAN 292‑2008 where a risk exists.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "II-8.1 Sampling",
+      "summary": "Non‑substantive cross-reference: sampling procedures are referred to section I‑8.1.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling reference"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "II-8.2 Sensory and Physical Examination",
+      "summary": "Samples for sensory and physical examination must be assessed by trained personnel following the procedures in Sections II‑8.3–II‑8.5 and II‑9 and the Guidelines for the Sensory Evaluation of Fish and Shellfish in Laboratories (CAC/GL 31‑1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination heading",
+        "trained sensory assessment"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "II-8.3 Determination of Net Weight",
+      "summary": "The net weight of all sample units shall be determined using the procedures set out in sections II‑8.3.1 through II‑8.3.3.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "II-8.3.1 Determination of Net Weight of Product Exclusive of Packaging",
+      "summary": "To determine net weight exclusive of packaging: remove external frost/ice, weigh the unopened container, open and remove contents, dry and weigh the empty container, and subtract the empty container weight from the unopened container weight to obtain total net weight.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "net weight method heading",
+        "net weight procedure",
+        "net weight result"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "II-8.3.2 Determination of Net Weight of Frozen Products not Covered by Glaze",
+      "summary": "For frozen products not covered by glaze, the net weight (exclusive of packaging) of each sample unit representing a lot shall be determined in the frozen state.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "frozen weight heading",
+        "frozen net weight"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "II-8.3.3 Determination of Net Weight of Frozen Products Covered by Glaze",
+      "summary": "For frozen products covered by glaze, the net weight (exclusive of packaging) of each sample unit shall be determined using AOAC official method 963.18 (Net Contents of Frozen Seafoods).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "glazed weight heading",
+        "glazed net weight"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "II-8.4 Determination of Count per Unit Weight or Volume",
+      "summary": "When count is declared on the label, determine count per unit by counting abalones in the container or a representative sample and dividing that count by the actual weight or volume to obtain count per unit weight or volume.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "count determination heading",
+        "count per unit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "II-8.5 Sample Preparation",
+      "summary": "Covers sample preparation procedures, including thawing of frozen product as specified in II‑8.5.1 (bagged thaw at room temperature or refrigerated conditions until no ice remains).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "II-8.5.1 Procedures for Thawing",
+      "summary": "For frozen samples thaw in a film bag at room temperature or in a refrigerator at 2–6 °C and determine complete thawing by gently squeezing the bag until no hard core or ice crystals remain, taking care not to damage abalone texture.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "thawing procedure heading",
+        "thawing procedure"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "II-8.6 Determination of Biotoxins",
+      "summary": "Where a risk exists, marine biotoxins of concern shall be determined using the methods specified in the Standard for Live and Raw Bivalve Molluscs (CODEX STAN 292‑2008).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "biotoxin method heading",
+        "biotoxin determination"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "II-9 DEFINITION OF DEFECTIVES",
+      "summary": "Defines a 'defective' sample unit and lists defect types that render a unit defective, including deep dehydration, foreign matter, persistent objectionable odour/flavour indicating decomposition or rancidity, and textural breakdown (mushy or paste‑like muscle structure).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "II-9.1 Deep Dehydration",
+      "summary": "Deep dehydration is defined where more than 10% of the surface area of abalones shows excessive moisture loss (white or abnormal colour penetrating below the surface) that cannot be removed by scraping without unduly affecting appearance and which affects more than 10% of the weight of abalones in the sample unit.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "deep dehydration heading",
+        "deep dehydration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "II-9.2 Foreign Matter",
+      "summary": "Foreign matter is any material not derived from abalone that does not pose a human‑health threat but is readily recognizable (without magnification) or present at a level detected by any method that indicates non‑compliance with good manufacturing and sanitation practices.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter heading",
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "II-9.3 Odour/Flavour",
+      "summary": "Defective odour/flavour is defined as persistent and distinct objectionable odours or flavours indicative of decomposition, rancidity, or other odours/flavours unfit for food.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour flavour heading",
+        "odour flavour"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "II-9.4 Texture",
+      "summary": "Texture defects are defined as textural breakdown of the flesh indicative of decomposition, characterized by a muscle structure that is mushy or paste‑like.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture heading",
+        "texture defect"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "II-10 LOT ACCEPTANCE",
+      "summary": "A lot meets this standard when (i) the total number of defectives per II‑9 does not exceed the acceptance number (c) of the applicable sampling plan with an AQL of 6.5, (ii) the average count designation matches the declared count with count non‑conformances not exceeding the acceptance number (c) at AQL 6.5, and (iii) the average net weight of sample units is not less than declared without unreasonable shortage in any individual container; additionally, (iv) essential composition and quality factors, food additives, contaminants, hygiene and handling, and labelling requirements of Sections II‑3 through II‑7 must be met.",
+      "categories": [
+        "inspection certification",
+        "official control",
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "compliance criteria",
+        "acceptance plan",
+        "count compliance",
+        "net weight check",
+        "standard compliance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

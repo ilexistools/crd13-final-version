@@ -1,0 +1,847 @@
+{
+  "doc_id": "6961d423-be19-4a32-81e9-4f50832a2d9c",
+  "title": "GUIDELINES ON THE APPLICATION OF GENERAL PRINCIPLES OF FOOD HYGIENE TO THE CONTROL OF LISTERIA MONOCYTOGENES IN FOODS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON THE APPLICATION OF GENERAL PRINCIPLES OF FOOD HYGIENE TO THE CONTROL OF LISTERIA MONOCYTOGENES IN FOODS",
+      "summary": "Document title/heading only: guidelines on applying general food hygiene principles to control Listeria monocytogenes in foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CAC/GL 61 - 2007",
+      "summary": "Document identifier only: CAC/GL 61-2007 (the codex guideline code).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Table of Content",
+      "summary": "Table of contents listing document sections and page references; not a substantive regulatory provision.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION I - Objectives SECTION II - SCOPE....................................................................................................................................",
+      "summary": "TOC/heading indicating SECTION I (Objectives) and SECTION II (Scope); no substantive text provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 SCOPE",
+      "summary": "Section heading only (Scope); no substantive content in this entry.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 DEFINITIONS",
+      "summary": "Section heading only (Definitions); no substantive definitions provided in this entry.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "SECTION III - PRIMARY PRODUCTION",
+      "summary": "Section header for PRIMARY PRODUCTION; no substantive requirements in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 ENVIRONMENTAL HYGIENE",
+      "summary": "For environmental hygiene at primary production this section refers users to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969); no additional measures are specified here.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "environmental hygiene",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 HYGIENIC PRODUCTION OF FOOD SOURCES",
+      "summary": "This section directs readers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for hygienic production of food sources and contains no further specifics.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygienic production",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.3 HANDLING, STORAGE AND TRANSPORT",
+      "summary": "This section refers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for handling, storage and transport and provides no additional requirements.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "handling storage transport",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.4.CLEANING, MAINTENANCE AND PERSONNEL HYGIENE AT PRIMARY PRODUCTION",
+      "summary": "This section refers users to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for cleaning, maintenance and personnel hygiene at primary production; no specific measures are listed here.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personnel hygiene",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "SECTION IV - ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "Equipment and facilities must be designed, constructed and laid out to ensure cleanability and to minimise Listeria monocytogenes harbourage, cross-contamination and recontamination, with controls such as separation of raw and finished ready‑to‑eat areas (linear flow or physical partitions and appropriate airflow/positive pressure), separate washing areas, condensate/ventilation control, hygienic equipment design to avoid cracks and crevices, isolation and enhanced monitoring during construction/renovation, and routine management of condensate and insulation to prevent harbourage. Where products or ingredients support growth of L. monocytogenes, storage rooms should be designed so product temperature does not exceed 6°C (preferably 2–4°C) and raw materials must be stored separately from finished products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1 LOCATION",
+      "summary": "Section heading for LOCATION; no substantive requirements provided in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.1 Establishments",
+      "summary": "Refers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for establishment location guidance; no additional details here.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "establishments",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1.2 Equipment",
+      "summary": "Equipment should be designed and located to facilitate access for effective cleaning and disinfection to prevent formation of biofilms and L. monocytogenes harbourage sites.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "cleanability design"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.2 PREMISES AND ROOMS",
+      "summary": "Section heading for PREMISES AND ROOMS; no substantive requirements provided in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.2.1 Design and Layout",
+      "summary": "Premises and rooms should, where feasible, be designed to separate raw and finished ready‑to‑eat product areas (e.g., linear product flow, filtered airflow opposite to product flow, physical partitions and higher air pressure on the finished side), provide separate washing areas apart from finished processing and raw ingredient areas, and be maintained as dry as possible because wet operations promote growth and spread of L. monocytogenes.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "design layout",
+        "separation of areas",
+        "wet dry operations"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.2.2 New construction/renovations",
+      "summary": "Because L. monocytogenes can persist in harbourage sites, construction or renovation can reintroduce the organism to the environment, so construction areas should be isolated, hygienic operations reinforced, and environmental monitoring for Listeria spp. increased during works.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "new construction",
+        "construction controls"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.2.3 Temporary/mobile premises and vending machines",
+      "summary": "This section refers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for temporary/mobile premises and vending machines and contains no additional specifics.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "temporary premises",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.3 EQUIPMENT",
+      "summary": "Section heading for EQUIPMENT; no substantive text in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.3.1 General",
+      "summary": "Processing equipment must be designed, constructed and maintained to avoid cracks, crevices, rough welds, hollow supports, inaccessible seals or other harbourage sites for L. monocytogenes; transport racks should have easily cleaned wheel guards, condensate from refrigeration must be directed to drains or drip pans cleaned regularly, and insulation must be installed to avoid becoming harbourage sites.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "general equipment",
+        "equipment design",
+        "transport equipment",
+        "refrigeration equipment",
+        "insulation design"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.3.2 Food control and monitoring equipment",
+      "summary": "Refers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for food control and monitoring equipment; no further specifics are provided here.",
+      "categories": [
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "monitoring equipment",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.3.3 Containers for waste and inedible substances",
+      "summary": "Non-substantive; directs reader to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for requirements on containers for waste and inedible substances.",
+      "categories": [
+        "packaging",
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste containers",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.4 FACILITIES",
+      "summary": "Most facility topics (water, drainage, cleaning, personnel facilities, temperature control, lighting, packaging) refer to CAC/RCP 1-1969, while specific provisions require controlling ventilation to minimise condensate/aerosol formation to prevent L. monocytogenes contamination and designing storage rooms (where products support L. monocytogenes growth) so product temperature does not exceed 6°C (preferably 2–4°C) and raw materials are stored separately from finished products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.4.1 Water supply",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for water supply requirements.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "water supply",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.4.2 Drainage and waste disposal",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for drainage and waste disposal requirements.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "drainage waste",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "4.4.3 Cleaning",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for cleaning requirements.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "4.4.4 Personnel hygiene facilities and toilets",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for personnel hygiene facilities and toilets.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personnel facilities",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "4.4.5 Temperature control",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for temperature control guidance.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "temperature control",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "4.4.6 Air quality and ventilation",
+      "summary": "Requires control of ventilation to minimise condensate formation because condensate-associated droplets and aerosols have been implicated in L. monocytogenes contamination, and facilities should be designed to prevent such condensate-derived droplets/aerosols from directly or indirectly contaminating food and food-contact surfaces.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "air quality",
+        "condensate control"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "4.4.7 Lighting",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for lighting requirements.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "lighting",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "4.4.8 Storage",
+      "summary": "Where products or ingredients support L. monocytogenes growth, storage rooms should be designed so product temperature does not exceed 6°C (preferably 2–4°C) and raw materials should be stored separately from finished, processed products.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading",
+        "temperature storage"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "SECTION V - CONTROL OF OPERATION",
+      "summary": "Processing operations for ready-to-eat products must be controlled to reduce initial contamination and subsequent growth or recontamination by L. monocytogenes throughout production, distribution and consumer handling, using listericidal processes where applicable and complementary measures such as preventing cross-contamination, strict time-temperature control and formulation hurdles where needed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "5.1 CONTROL OF THE FOOD HAZARD",
+      "summary": "Control of L. monocytogenes in many ready-to-eat products requires stringent application of Good Hygienic Practice and supportive prerequisite programs together with HACCP, with components of these programs potentially identified as critical control points when L. monocytogenes is a hazard.",
+      "categories": [
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "hazard control heading",
+        "prerequisite programs",
+        "haccp support"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "5.2 KEY ASPECTS OF HYGIENE CONTROL SYSTEMS",
+      "summary": "Key hygiene aspects include strict time/temperature control to limit L. monocytogenes growth (with product temperatures not to exceed 6°C preferably 2–4°C and shelf-life based on growth studies) and validation of specific process steps, including listericidal treatments and combinations of intrinsic parameters (e.g., pH, water activity, freezing), plus additional controls or post-packaging listericidal treatments where recontamination before final packaging can occur.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "5.2.1 Time and temperature control",
+      "summary": "Storage time/temperature must be controlled because refrigerated temperature strongly affects listeriosis risk; product temperature should not exceed 6°C (preferably 2–4°C) and shelf-life for foods that support L. monocytogenes growth must be based on studies that account for possible temperature abuses along the food chain.",
+      "categories": [
+        "processing",
+        "risk assessment",
+        "storage"
+      ],
+      "subcategories": [
+        "time temperature",
+        "storage risk",
+        "refrigerated storage",
+        "shelf life"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "5.2.2 Specific process steps",
+      "summary": "Listericidal processes must be validated to ensure consistent effectiveness, and where growth prevention relies on single parameters (e.g., pH <4.4, water activity <0.92, freezing) or combinations of parameters, validation is required; if products that support L. monocytogenes growth can be recontaminated after listericidal treatment, additional measures (e.g., freezing, shorter shelf life, reformulation) or post-packaging listericidal treatments (e.g., heating, high pressure, irradiation where accepted) should be applied as necessary.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "specific process",
+        "validation treatment",
+        "process parameters",
+        "post-packaging treatment",
+        "lethality treatment",
+        "post-process control"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "5.2.3 Microbiological and other specifications",
+      "summary": "Non-substantive; refers to CAC/RCP 1-1969 and CAC/GL 21-1979 for microbiological criteria and specifications for foods.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbiological specifications",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "5.2.4 Microbiological cross-contamination",
+      "summary": "Microbiological cross-contamination is a major risk for L. monocytogenes and can occur via raw materials, personnel, aerosols, utensils and equipment at any exposed step, so traffic flow should be controlled, equipment and utensils should be dedicated or cleaned/disinfected before entering finished areas, and reusable brines or recycled process water in contact with finished product must be discarded or effectively decontaminated; additionally, consideration should be given to the differing cross-contamination risks of various ready-to-eat foods based on handling and formulation.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cross contamination",
+        "traffic control",
+        "equipment segregation",
+        "water treatment"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "5.2.5 Physical and chemical contamination",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for physical and chemical contamination controls.",
+      "categories": [
+        "contaminants",
+        "hygiene"
+      ],
+      "subcategories": [
+        "physical chemical",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "5.3 INCOMING MATERIAL REQUIREMENTS",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for incoming material requirements.",
+      "categories": [
+        "documentation",
+        "hygiene"
+      ],
+      "subcategories": [
+        "incoming materials",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "5.4 PACKAGING",
+      "summary": "Non-substantive; refers to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for packaging requirements.",
+      "categories": [
+        "packaging",
+        "hygiene"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "5.5 WATER",
+      "summary": "Non‑substantive section heading that directs readers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for water-related hygiene guidance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "5.5.1 In contact with food",
+      "summary": "Refers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for requirements and guidance on water in contact with food; no specific measures are provided here.",
+      "categories": [
+        "packaging",
+        "hygiene"
+      ],
+      "subcategories": [
+        "food contact",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "5.5.2 As an ingredient",
+      "summary": "Refers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for use of water as an ingredient; no specific limits or procedures are set in this text.",
+      "categories": [
+        "packaging",
+        "hygiene"
+      ],
+      "subcategories": [
+        "ingredient use",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "5.5.3 Ice and steam",
+      "summary": "Directs readers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for hygiene and control measures relating to ice and steam; no substantive requirements are given here.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "ice steam",
+        "hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "5.6 MANAGEMENT AND SUPERVISION",
+      "summary": "Refers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for management and supervision requirements; this section contains no standalone obligations.",
+      "categories": [
+        "documentation",
+        "hygiene"
+      ],
+      "subcategories": [
+        "management supervision",
+        "hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "5.7 DOCUMENTATION AND RECORDS",
+      "summary": "Refers to the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for documentation and record‑keeping requirements; no specific record formats or retention periods are specified here.",
+      "categories": [
+        "documentation",
+        "hygiene"
+      ],
+      "subcategories": [
+        "documentation heading",
+        "hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "5.8 RECALL PROCEDURES",
+      "summary": "States that, based on the assessed risk of Listeria monocytogenes in a food product, a decision may be made to recall contaminated product from the market and that public warnings should be considered in some instances.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "recall procedures",
+        "product recall"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "5.9 MONITORING OF EFFECTIVENESS OF CONTROL MEASURES FOR L. MONOCYTOGENES",
+      "summary": "Requires an effective environmental monitoring program as an essential component of Listeria control in establishments producing ready‑to‑eat foods, notes that food testing can verify control measures, and refers to Annex 1 for recommendations on environmental monitoring program design.",
+      "categories": [
+        "risk management",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "monitoring effectiveness",
+        "environmental monitoring",
+        "monitoring design"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "SECTION VI - ESTABLISHMENT: MAINTENANCE AND SANITATION",
+      "summary": "Sets objectives and rationale for preventive maintenance, targeted cleaning and disinfection, and an environmental monitoring program to reduce contamination and levels of Listeria monocytogenes in ready‑to‑eat foods and to lower the likelihood of post‑processing contamination.",
+      "categories": [
+        "hygiene",
+        "scope"
+      ],
+      "subcategories": [
+        "maintenance sanitation",
+        "objectives heading",
+        "objectives statement",
+        "cleaning disinfection",
+        "contamination reduction",
+        "rationale heading"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

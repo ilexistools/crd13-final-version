@@ -1,0 +1,348 @@
+{
+  "doc_id": "e66dffa5-633c-45d7-bd35-337c348f69ce",
+  "title": "STANDARD FOR A BLEND OF SKIMMED MILK AND VEGETABLE FAT IN POWDERED FORM",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR A BLEND OF SKIMMED MILK AND VEGETABLE FAT IN POWDERED FORM",
+      "summary": "Title of the Codex standard: 'Standard for a Blend of Skimmed Milk and Vegetable Fat in Powdered Form' (document heading only).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 251-2006",
+      "summary": "Identifies the standard as CXS 251‑2006 with adoption and amendment years (2006; amended 2010, 2013, 2014, 2016, 2018, 2021, 2022) and records a 2022 amendment requiring labelling of non‑retail containers to follow the General Standard for the Labelling of Non‑Retail Containers (CXS 346‑2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "standard code",
+        "amendment history",
+        "punctuation artifact",
+        "amendment heading",
+        "amendment note",
+        "amendment table",
+        "table separator",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "States the scope: the Standard applies to blends of skimmed milk and vegetable fat in powdered form intended for direct consumption or further processing as described in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines the product as a powder made by partial removal of water from milk constituents with the addition of edible vegetable oil/fat (or mixtures) to meet the compositional requirements of Section 3.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies permitted raw materials (skimmed milk, skimmed milk powders, other non‑fat milk solids, edible vegetable oils/fats and permitted protein‑adjusting products such as milk retentate, milk permeate, lactose), allows nutrient additions per CXG 9‑1987 subject to national legislation, and sets compositional limits: for the standard blend minimum total fat 26% m/m, max water 5% m/m, minimum milk protein in milk solids‑not‑fat 34% m/m; for reduced‑fat blends fat >1.5% and <26% m/m with the same water and protein limits.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Raw materials",
+      "summary": "Specifies allowed raw materials: skimmed milk, skimmed milk powders, other non‑fat milk solids and edible vegetable oils/fats, and permits milk retentate, milk permeate and lactose to be used for protein adjustment.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials",
+        "protein adjustment",
+        "milk retentate",
+        "milk permeate",
+        "lactose allowance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Permitted nutrients",
+      "summary": "Permits addition of essential nutrients in accordance with CXG 9-1987 and requires national legislation to set appropriate maximum and minimum levels for vitamins (e.g., A and D) and other nutrients, including possible prohibition of particular nutrients.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "permitted nutrients heading",
+        "nutrient addition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.3 Composition",
+      "summary": "Defines composition limits for powdered blends: for a Blend of skimmed milk and vegetable fat, minimum total fat 26% m/m, maximum water 5% m/m, and minimum milk protein in milk solids‑not‑fat 34% m/m; for a Reduced Fat blend, total fat >1.5% and <26% m/m with the same water and milk protein limits (milk solids‑not‑fat includes lactose water of crystallization).",
+      "categories": [
+        "composition",
+        "documentation"
+      ],
+      "subcategories": [
+        "composition heading",
+        "product composition",
+        "fat content",
+        "fat minimum",
+        "water content",
+        "water maximum",
+        "protein content",
+        "protein minimum",
+        "reduced fat product",
+        "fat range",
+        "note footnote",
+        "specification note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Only additive functional classes shown as technologically justified in the table may be used; acidity regulators, anticaking agents and antioxidants are allowed per Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for food category 01.5.2, and only certain acidity regulators, anticaking agents, emulsifiers and stabilizers from Table 3 are acceptable for this Standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted classes",
+        "additive provisions",
+        "additive table",
+        "additive legend"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 5. CONTAMINANTS",
+      "summary": "Requires products, the milk used, and the vegetable oils/fats used in manufacture to comply with Maximum Levels for contaminants and toxins in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with CAC-established maximum residue limits for veterinary drugs and pesticides where applicable.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "raw material limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 6. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts, and requires compliance with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## 7. LABELLING",
+      "summary": "Heading: introduces specific labelling provisions that supplement the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7.1 Name of the food",
+      "summary": "Prescribes the food name as either 'Blend of Skimmed Milk and Vegetable Fat in Powdered Form' or 'Reduced Fat Blend of Skimmed Milk and Vegetable Fat in Powdered Form', with allowance for other names if permitted by national legislation in the retail sale country.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "name of food",
+        "product name",
+        "alternate name"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.2 Declaration of total fat content",
+      "summary": "Requires total fat to be declared to consumers either as a percentage by mass/volume or in grams per serving (with number of servings stated), and mandates a label statement of the presence of edible vegetable fat/oil and, where required by the retail country, the common vegetable source name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fat declaration",
+        "vegetable fat statement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.3 Declaration of milk protein",
+      "summary": "Requires milk protein content to be declared to consumers either as a percentage by mass/volume or in grams per serving, provided the number of servings is stated, in a manner acceptable in the country of sale.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "milk protein declaration",
+        "protein declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.4 List of ingredients",
+      "summary": "States that milk products used solely for protein adjustment need not be declared on the ingredients list, notwithstanding Section 4.2.1 of the General Standard for the Labelling of Pre‑packaged Foods (CXS 1-1985).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "ingredients list",
+        "ingredient exemption"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.5 Advisory statement",
+      "summary": "Requires an advisory statement on the label indicating the product should not be used as a substitute for infant formula (e.g., 'NOT SUITABLE FOR INFANTS').",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "advisory statement",
+        "infant warning"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.6 Labelling of non-retail containers.",
+      "summary": "Directs that labelling of non‑retail containers should comply with the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "States that methods of analysis and sampling for compliance checking shall be those in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to this Standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

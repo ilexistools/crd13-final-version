@@ -1,0 +1,534 @@
+{
+  "doc_id": "a48f0797-082d-4863-b08e-dae4d07114f3",
+  "title": "STANDARD FOR CANNED FINFISH CXS 119 - 1981 Adopted in 1981.  Revised in 1995. Amended in 2011, 2013, 2016, 2018.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR CANNED FINFISH CXS 119 - 1981 Adopted in 1981.  Revised in 1995. Amended in 2011, 2013, 2016, 2018.",
+      "summary": "Document title only: Standard for Canned Finfish (CXS 119) with adoption (1981), revision (1995) and amendment dates (2011, 2013, 2016, 2018).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to canned finfish packed in water, oil or other suitable packing media, excluding specialty products where canned finfish is <50% m/m of net contents or products covered by other Codex product standards.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines canned finfish as product from the flesh of finfish suitable for human consumption (may include mixtures of same-genus species), requires hermetic packing and processing to ensure commercial sterility, and permits any presentation provided it meets the standard and is adequately described on the label.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product Definition",
+      "summary": "Product definition: canned finfish produced from the flesh of any finfish species (excluding those covered by other Codex standards) suitable for human consumption, possibly including mixtures of species within the same genus.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Process Definition",
+      "summary": "Process definition: canned finfish must be packed in hermetically sealed containers and receive processing sufficient to ensure commercial sterility.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "process definition heading",
+        "commercial sterility"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3 Presentation",
+      "summary": "Presentation: any product presentation is permitted provided it meets all requirements of this Standard and is adequately described on the label to avoid misleading consumers.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation allowance",
+        "presentation requirements",
+        "consumer clarity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "This section sets requirements for raw material and product quality, including use of sound finfish, food-grade packing media, a 10 mg/100 g average histamine limit for specified families, and that lots must comply with Section 8 when examined per Section 9 using methods in Section 7.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Fish",
+      "summary": "Fish ingredient requirement: product must be prepared from sound finfish with heads, tails and viscera removed and raw material fit to be sold fresh for human consumption.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "fish ingredient",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 Other Ingredients",
+      "summary": "Other ingredients: the packing medium and all other ingredients must be food-grade and conform to applicable Codex standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients heading",
+        "packing medium quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.3. Decomposition",
+      "summary": "Decomposition limit: canned finfish of the families Scombridae, Scombresocidae, Clupeidae, Coryphaenidae and Pomatomidae shall not contain more than 10 mg/100 g histamine based on the average of sampled units.",
+      "categories": [
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "decomposition heading",
+        "histamine limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.4 Final Product",
+      "summary": "Final product compliance: products shall meet this Standard when lots examined per Section 9 comply with provisions of Section 8, using the examination methods given in Section 7.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "final product heading",
+        "compliance testing"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Food additives permitted are limited to certain Table 3 acidity regulators, emulsifiers, gelling agents, stabilizers and thickeners per the General Standard for Food Additives (CXS 192-1995), and flavourings must comply with CXG 66-2008 with only natural flavouring substances, natural flavouring complexes and smoke flavourings allowed.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "flavouring permissions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Food additives permitted are limited to certain Table 3 acidity regulators, emulsifiers, gelling agents, stabilizers and thickeners per the General Standard for Food Additives (CXS 192-1995), and flavourings must comply with CXG 66-2008 with only natural flavouring substances, natural flavouring complexes and smoke flavourings allowed.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "flavouring permissions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5. HYGIENE",
+      "summary": "Hygiene: products should be prepared and handled per relevant Codex hygiene and fishery codes and comply with microbiological criteria; final product must be free from health‑hazard foreign material, free from microorganisms capable of development during normal storage, have no sample unit exceed 20 mg/100 g histamine for listed families, contain no other hazardous substances, and be free from container integrity defects compromising the hermetic seal.",
+      "categories": [
+        "hygiene",
+        "contaminants",
+        "analysis sampling",
+        "packaging"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "microbiological criteria",
+        "foreign material",
+        "sampling examination",
+        "microbial absence",
+        "histamine limit",
+        "health hazard substances",
+        "container integrity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6. LABELLING",
+      "summary": "Labelling: introduces additional specific labelling provisions that supplement the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.1 Name of the Food",
+      "summary": "Name of the food: the label must use the common/usual name per local law and custom, qualify the name by presentation, include the packing medium in the name, indicate mixtures of same‑genus species, and include other descriptive terms to avoid misleading consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name heading",
+        "product name declaration",
+        "presentation description",
+        "packing medium declaration",
+        "species declaration",
+        "consumer clarity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7. SAMPLING, EXAMINATION AND ANALYSES",
+      "summary": "Sampling, examination and analyses: requires lot sampling with an AQL of 6.5 for final product and CAC‑compliant plans for net/drained weight, trained sensory/physical examination per Sections 7.3–7.5 and Annex A, defined procedures for net weight, drained weight and washed drained weight determinations, and validated histamine methods meeting specified performance criteria with MLs of 10 mg/100 g (average) and 20 mg/100 g (each unit) and referenced methods (e.g., AOAC 977.13, NMKL 99/196).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.1 Sampling",
+      "summary": "Sampling: lot sampling for final product examination per Section 3.4 must use an appropriate sampling plan with an AQL of 6.5, and sampling for net weight and drained weight must meet CAC-established criteria.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7.2 Sensory and Physical Examination",
+      "summary": "Samples for sensory and physical examination must be assessed by personnel trained in such examinations and conducted in accordance with Sections 7.3–7.5, Annex A and the Codex Guidelines for the Sensory Evaluation of Fish and Shellfish in Laboratories (CXG 31-1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "sensory assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.3 Determination of Net Weight",
+      "summary": "Net weight of each sample unit is determined by weighing the unopened container, opening and removing the contents, then weighing the empty container (including the end) after removing excess liquid and adhering meat.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net weight determination",
+        "net weight procedure",
+        "weigh unopened container",
+        "remove contents",
+        "weigh empty container"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.4 Determination of Drained Weight",
+      "summary": "Drained weight is determined by conditioning the container 12+ hours at 20–30°C, pouring contents onto a pre‑weighed circular sieve (2.8 mm × 2.8 mm mesh) inclined ~17–20°, allowing the fish to drain for two minutes, weighing the sieve with drained fish and subtracting the sieve weight.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "drained weight determination",
+        "drained weight procedure",
+        "temperature conditioning",
+        "sieve draining method",
+        "draining time",
+        "weigh sieve contents",
+        "drained weight calculation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.5 Determination of Washed Drained Weight (for packs with sauces)",
+      "summary": "For packs with sauces, washed drained weight is determined after conditioning 12+ hours at 20–30°C by washing contents on a tared circular sieve with hot tap water (~40°C) until sauce is removed, separating optional ingredients if necessary, inclining the sieve ~17–20° to drain for two minutes from end of washing, removing adhering water with paper towel, weighing the sieve with washed drained fish and subtracting the sieve weight.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "washed drained weight",
+        "temperature conditioning",
+        "washing procedure",
+        "washed draining method",
+        "weigh washed contents",
+        "washed weight calculation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.6. Determination of Histamine",
+      "summary": "Histamine may be determined using methods that meet specified performance criteria (e.g., MLs of 10 mg/100g average and 20 mg/100g per unit with corresponding applicable ranges, LODs ~1–2 mg/100g, LOQs ~2–4 mg/100g, specified RSDR and recoveries 90–107%); listed applicable methods include AOAC 977.13 and NMKL methods (e.g., NMKL 99, NMKL 196).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "histamine determination",
+        "method criteria",
+        "performance criteria table",
+        "method performance data"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "8. DEFINITION OF DEFECTIVES",
+      "summary": "States that a sample unit is considered defective if it exhibits any of the properties defined in the following subsections (foreign matter, odour/flavour, texture, discolouration, objectionable matter).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8.1 Foreign Matter",
+      "summary": "Defines foreign matter as any material not derived from fish or the packing medium that does not pose a health threat and is either readily recognized without magnification or present at a level (including as determined by magnification) indicating non‑compliance with good manufacturing and sanitation practices.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter",
+        "foreign matter criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.2 Odour/Flavour",
+      "summary": "Defines odour/flavour defect as a sample unit affected by persistent and distinct objectionable odours or flavours indicative of decomposition or rancidity.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour flavour",
+        "decomposition signs"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8.3 Texture",
+      "summary": "Texture defects include excessive mushy flesh or excessively tough flesh uncharacteristic of the species, or honeycombed flesh exceeding 5% of the drained contents.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture",
+        "mushy flesh",
+        "tough flesh",
+        "honeycombed flesh"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.4 Discolouration",
+      "summary": "Discolouration defect is distinct flesh discolouration indicative of decomposition or rancidity, or sulphide staining affecting more than 5% of the drained contents.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "discolouration",
+        "sulphide staining"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8.5 Objectionable Matter",
+      "summary": "Objectionable matter is defined as the presence of any struvite crystal greater than 5 mm in length.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "objectionable matter",
+        "defect definition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "A lot is acceptable when: (i) defectives (per Section 8) do not exceed the acceptance number (c) of a sampling plan with AQL 6.5; (ii) units not meeting presentation (Section 2.3) do not exceed that acceptance number; (iii) average net and, where appropriate, drained weights of examined units are not less than declared with no unreasonable shortage in any container; and (iv) Food Additives, Hygiene and Handling and Labelling requirements of Sections 4–6 are met.",
+      "categories": [
+        "inspection certification",
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance criteria",
+        "sampling acceptance",
+        "net weight check",
+        "compliance check"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

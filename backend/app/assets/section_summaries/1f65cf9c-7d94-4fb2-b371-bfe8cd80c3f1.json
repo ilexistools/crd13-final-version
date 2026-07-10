@@ -1,0 +1,527 @@
+{
+  "doc_id": "1f65cf9c-7d94-4fb2-b371-bfe8cd80c3f1",
+  "title": "## GUIDELINES FOR THE DESIGN, OPERATION, ASSESSMENT AND ACCREDITATION OF FOOD IMPORT AND EXPORT INSPECTION AND CERTIFICATION SYSTEMS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## GUIDELINES FOR THE DESIGN, OPERATION, ASSESSMENT AND ACCREDITATION OF FOOD IMPORT AND EXPORT INSPECTION AND CERTIFICATION SYSTEMS",
+      "summary": "Document title and Codex reference (Guidelines for the design, operation, assessment and accreditation of food import and export inspection and certification systems; CAC/GL 26-1997) — heading and document code, not substantive text.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION 3 - RISK ANALYSIS",
+      "summary": "Consistent, transparent application of risk analysis facilitates international trade and enables effective targeting of inspection resources, and governments should recognize the HACCP principles as a systematic basis for identifying and controlling food hazards.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk analysis heading",
+        "risk analysis",
+        "haccp principles"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION 4 - QUALITY ASSURANCE",
+      "summary": "Governments should encourage voluntary industry quality-assurance measures and adapt official inspection and certification methodologies to take them into account, while retaining ultimate responsibility for ensuring conformity of foodstuffs through official inspection and certification.",
+      "categories": [
+        "quality",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "quality assurance heading",
+        "quality assurance",
+        "official responsibility"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION 5 - EQUIVALENCE",
+      "summary": "Recognition of equivalence of inspection and certification should be facilitated where an exporting country can objectively demonstrate an appropriate system in accordance with these guidelines, noting that different control methodologies may achieve equivalent results and controls should be organized for the risk involved.",
+      "categories": [
+        "inspection certification",
+        "other"
+      ],
+      "subcategories": [
+        "equivalence heading",
+        "equivalence recognition",
+        "footnote reference",
+        "definition note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "10. For the determination of equivalence, governments should recognize that:",
+      "summary": "For determining equivalence, governments should accept risk‑based organization and that different control methods can achieve equivalent protection, avoid unnecessary repetition of controls already validly carried out by exporters, allow exporting countries to provide access for examination and evaluation of their systems, and ensure importing-country evaluations consider all relevant information.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "equivalence determination",
+        "risk-based controls",
+        "equivalent control methods",
+        "equivalent protection",
+        "system evaluation access",
+        "equivalence evaluation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## Equivalency agreements",
+      "summary": "Equivalence may be formalized by agreements or letters between governments covering specific sectors or comprehensive trade, and such agreements should address legislative frameworks, contact points, demonstration of enforcement and laboratory adequacy, lists of covered products/establishments and mechanisms for continued recognition, information exchange, periodic review and dispute resolution.",
+      "categories": [
+        "inspection certification",
+        "documentation"
+      ],
+      "subcategories": [
+        "equivalency agreements heading",
+        "equivalency agreements",
+        "agreement provisions",
+        "legal framework",
+        "contact points",
+        "enforcement evidence",
+        "accredited lists",
+        "information exchange",
+        "agreement review"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "SECTION 6 - INSPECTION AND CERTIFICATION SYSTEM INFRASTRUCTURE",
+      "summary": "Countries should identify inspection and certification objectives and establish supporting infrastructure (legislation, facilities, equipment, laboratories, transport, communications, trained personnel) while avoiding conflicting sub-national requirements; control programmes should be risk‑based, documented, encourage HACCP, use validated sampling and analytical methods, include inspection, sampling, audits and verification, and be targeted and proportionate to risk.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "23. The national competent authority in the exporting or importing country should have the ability to enforce and take action based on adequate legislation. It should take all necessary steps  to  insure  the  integrity  of official inspection systems and officially recognized inspection systems and to ensure that the inspection  programme  contained  in  national  legislation  is  delivered  to  a  prescribed standard.",
+      "summary": "The national competent authority in exporting or importing countries must have enforceable legislation and take necessary steps to ensure the integrity, impartiality and independence of official and officially recognized inspection systems and that inspection programmes are delivered to prescribed standards.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "competent authority powers"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "28. Controls should cover, as appropriate:",
+      "summary": "Controls should, as appropriate, cover establishments, transport, equipment and materials, raw materials and ingredients, semi-finished and finished products, food-contact materials, cleaning products and pesticides, manufacturing processes, integrity of health/grading/certification marks, preserving methods, and labelling, and the elements of the control programme should be formally documented.",
+      "categories": [
+        "official control",
+        "processing",
+        "labelling",
+        "documentation"
+      ],
+      "subcategories": [
+        "control coverage",
+        "control targets",
+        "mark integrity",
+        "preserving methods",
+        "claims integrity",
+        "control documentation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## Decision criteria and action",
+      "summary": "Control programmes should be targeted to appropriate stages and operations with frequencies and intensity based on risk and the reliability of existing controls; physical import checks and sampling plans should be risk‑based and proportionate, and measures for non-conforming imports should consider repeated non-conformity, history of the handlers, and reliability of origin checks.",
+      "categories": [
+        "official control",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "decision criteria heading",
+        "control procedures",
+        "risk based controls",
+        "import checks",
+        "import sampling",
+        "nonconformity measures"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "35. The specific measures applied may be cumulative if necessary and may include:",
+      "summary": "Measures for products not in conformity may include requiring importers to restore conformity, rejection of consignments or destruction in serious cases, and to prevent recurrence may include importer/exporter control programmes, increased checks, requests for information/cooperation, on-site visits and suspension of imports from establishments or countries in the most serious or persistent cases.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "corrective measures heading",
+        "product measures heading",
+        "restore conformity",
+        "consignment rejection",
+        "product destruction",
+        "future imports heading",
+        "prevent recurrence",
+        "increased future checks",
+        "information request",
+        "site visits",
+        "import suspension"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "36. Where possible, and upon request, the importer or their representative should be given access by the relevant food control authority of the importing country to a rejected or  detained  consignment  and  in  the  latter  case,  the  opportunity  to  contribute  any relevant information to assist the control authorities of the importing country to make their final decision.",
+      "summary": "Where possible and upon request, importers or their representatives should be given access to rejected or detained consignments and the opportunity to provide relevant information to assist the importing country's control authorities in making final decisions.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "detained consignment access"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "37. Where product is rejected, information should be exchanged in accordance with the Codex Guidelines for the Exchange of Information between Countries on Rejections of Imported Food. 8",
+      "summary": "When a product is rejected, information about the rejection must be exchanged between countries in accordance with the Codex Guidelines for the Exchange of Information between Countries on Rejections of Imported Food.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "rejection information exchange"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "38.  Inspection  staff  should  have  access  to  adequate  facilities  and  equipment  to undertake inspection procedures and methodologies.",
+      "summary": "Inspection staff should be provided access to adequate facilities and equipment necessary to carry out inspection procedures and methodologies.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "inspection facilities"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Facilities, equipment, transportation and communications",
+      "summary": "Heading establishing that inspection staff must have access to adequate facilities and equipment to undertake inspection procedures, with a reference to CAC/GL 25-1997.",
+      "categories": [
+        "equipment",
+        "other"
+      ],
+      "subcategories": [
+        "facilities heading",
+        "inspection facilities",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "39. Reliable transportation and communication systems are essential to ensure delivery of inspection and certification services when and where they are needed and for the transmission of samples to laboratories.",
+      "summary": "Reliable transportation and communication systems are required to ensure delivery of inspection and certification services where needed and to enable timely transmission of samples to laboratories.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport communications"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "40.  Communications  facilities  should  be  provided  to  ensure  adequate  compliance action and to address potential recalls. Consideration should be given to developing electronic  information  exchange  systems,  in  particular  to  facilitate  trade,  protect consumer health, and to combat fraud.",
+      "summary": "Communications facilities should be provided to support compliance actions and potential recalls, and authorities should consider developing electronic information exchange systems to facilitate trade, protect consumer health, and combat fraud.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "electronic exchange"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "## Laboratories\n41. Inspection services should utilize laboratories that are evaluated and/or accredited under officially recognized programmes to ensure that adequate quality controls are in place to provide for the reliability of test results. Validated analytical methods should be used wherever available.",
+      "summary": "Heading and provisions requiring inspection services to use laboratories evaluated and/or accredited under officially recognized programmes, to apply validated analytical methods, and to employ internationally accepted quality assurance techniques to ensure reliable test results.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratories heading",
+        "laboratory accreditation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "42.  Inspection  systems'  laboratories  should  apply  the  principles  of  internationally accepted quality assurance techniques to ensure the reliability of analytical results. 9",
+      "summary": "Inspection systems' laboratories must apply internationally accepted quality assurance principles to ensure the reliability of analytical results.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "quality assurance"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "## Personnel\n43. Official inspection services should have, or have access to, a sufficient number of qualified  personnel  as  appropriate  in  areas  such  as:  food  science  and  technology, chemistry, biochemistry, microbiology, veterinary science, human medicine, epidemiology,  agro-nomic  engineering,  quality  assurance,  audit  and  law.  Personnel should  be  capable  and  appropriately  trained  in  the  operation  of  food  inspection  and control systems. They should have a status which ensures their impartiality and have no  direct  commercial  interest  in  the  products  or  establishments  being  inspected  or certified.",
+      "summary": "Official inspection services should have or have access to a sufficient number of qualified and appropriately trained personnel in relevant disciplines (e.g., food science, chemistry, microbiology, veterinary science, epidemiology, engineering, QA, audit, law) who are impartial and have no direct commercial interest in the products or establishments inspected or certified.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "personnel heading",
+        "qualified personnel"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## SECTION 7 - CERTIFICATION SYSTEMS\n",
+      "summary": "Section heading and substantive provisions stating that certification systems rely on effective inspection systems, certification demand should be risk-justified with alternatives considered, certification should assure product or system conformity based on inspections, analytical results and QA evaluations, and competent authorities must ensure integrity, impartiality and proper training of personnel and implement procedures to authenticate certificates and prevent fraud (including prohibiting certification without personal knowledge, signing blank/incomplete certificates, or certifying products produced outside appropriate control programmes).",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "certification systems heading"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "44. An effective certification system depends on the existence of an effective inspection system as described above in Section 6.",
+      "summary": "An effective certification system is dependent on an effective inspection system as described in Section 6.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "certification basis"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "45.  Demand  for  certification  should  be  justified  by  risk  to  health  or  risk  of  fraud  or deception.  Alternatives  to  certification  should  be  considered  wherever  possible,  in particular where the inspection system and requirements of an exporting country are assessed as being equivalent to those of the importing country. Bilateral or multilateral agreements, such as mutual recognition agreements or pre-certification agreements, may provide for dispensing with certification and/or the issuance of certificates which were previously required in certain cases.",
+      "summary": "Demand for certification should be justified by risks to health or of fraud/deception, with alternatives considered where exporting countries' inspection systems are assessed as equivalent, and bilateral/multilateral agreements may allow dispensing with previously required certificates.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "certification justification"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "SECTION 8 - OFFICIAL ACCREDITATION",
+      "summary": "Section heading and provisions allowing countries to officially accredit inspection or certification bodies and stating that accreditation requires assessment against objective criteria and compliance with the guidelines' standards, especially concerning personnel competence, independence and impartiality.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "accreditation heading"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "49.  Countries  may  officially  accredit  inspection  or  certification  bodies  to  provide services on behalf of official agencies.",
+      "summary": "Countries may officially accredit inspection or certification bodies to provide services on behalf of official agencies.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "official accreditation"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "50.  To  be  officially  accredited,  an  inspection  or  certification  body  must  be  assessed against objective criteria and must comply at least with the standards set out in these guidelines, particularly in relation to the competence, independence and impartiality of personnel.",
+      "summary": "To obtain official accreditation, an inspection or certification body must be assessed against objective criteria and comply with the guidelines' standards, particularly regarding personnel competence, independence and impartiality.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "accreditation criteria"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "51. The performance of officially accredited inspection or certification bodies should be regularly  assessed  by  the  competent  authority.  Procedures  should  be  initiated  to  correct deficiencies and, as appropriate, enable withdrawal of official accreditation.",
+      "summary": "Competent authorities should regularly assess the performance of officially accredited inspection or certification bodies and initiate corrective procedures or withdraw accreditation as appropriate.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "accreditation review"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "SECTION 9 - ASSESSMENT AND VERIFICATION OF INSPECTION AND CERTIFICATION SYSTEMS",
+      "summary": "Section heading and provisions requiring national inspection and certification systems to be audited separately from routine inspection, encouraging periodic self-assessment or third-party audits using internationally recognized procedures; importing countries may review exporting countries' systems as part of risk analysis, importing authorities should provide information to assist equivalence demonstrations, exporters should demonstrate adequate resources, capabilities and legal support, and guidelines for assessments are provided in the Annex.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "section heading",
+        "system audit",
+        "periodic assessment",
+        "import review",
+        "system information",
+        "resource requirements",
+        "assessment guidelines"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "SECTION 10 - TRANSPARENCY",
+      "summary": "Governments should make inspection and certification system operations as transparent as possible to promote consumer confidence while respecting legitimate professional and commercial confidentiality and avoiding creation of misleading trade barriers.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "section heading",
+        "system transparency"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

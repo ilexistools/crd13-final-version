@@ -1,0 +1,195 @@
+{
+  "doc_id": "4624ce8b-bd64-455d-8a5b-2640c4a6f9ac",
+  "title": "PRINCIPLES FOR FOOD IMPORT AND EXPORT INSPECTION AND CERTIFICATION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "PRINCIPLES FOR FOOD IMPORT AND EXPORT INSPECTION AND CERTIFICATION",
+      "summary": "Introductory principles state that official and officially recognized inspection and certification systems are essential for consumer confidence and trade, inspection may occur at any stage of production/distribution focusing on products, processes, facilities or contaminants, and such systems should be designed and used according to overarching principles to achieve optimal consumer protection and trade facilitation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION 3 - PRINCIPLES",
+      "summary": "This section sets out guiding principles for inspection and certification systems—fitness for purpose, risk assessment, non-discrimination, efficiency, harmonization, equivalence, transparency, special and differential treatment for developing countries, timely control procedures, and measures to assure certification validity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## Risk assessment",
+      "summary": "Inspection systems for food safety must be designed and operated on objective, science-based risk assessment consistent with international approaches, and applied to commodities and processes in proportion to assessed risks while considering exporting countries' declarations of freedom from food-related disease.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk assessment heading",
+        "risk assessment method",
+        "risk based application"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## Non-discrimination",
+      "summary": "Countries should avoid arbitrary or unjustifiable distinctions in acceptable risk levels across circumstances to prevent discrimination or disguised restrictions on trade.",
+      "categories": [
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "section heading",
+        "non discrimination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## Efficiency",
+      "summary": "Inspection and certification systems should have adequate resources and be chosen with regard to costs to consumers and industry, and should not be more trade-restrictive than necessary to achieve the required level of protection.",
+      "categories": [
+        "other",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "section heading",
+        "efficiency"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## Harmonization",
+      "summary": "Member countries should use Codex and other appropriate international standards and actively participate in international bodies to promote harmonization in inspection and certification systems.",
+      "categories": [
+        "other",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "section heading",
+        "harmonization"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## Equivalence",
+      "summary": "Countries should recognize that different inspection/certification systems can be equivalent in meeting the same objectives, with the exporting country carrying the obligation to demonstrate equivalence.",
+      "categories": [
+        "inspection certification",
+        "other"
+      ],
+      "subcategories": [
+        "equivalence",
+        "section heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Transparency",
+      "summary": "Sets transparency obligations for food inspection and certification systems: they should be open to scrutiny (while protecting legitimate confidentiality); importing countries must publish existing requirements and proposed changes, allow comment and reasonable lead time except in emergencies, consider exporters' (especially developing countries') views, and on request provide the basis for compliance decisions; exporting countries should, on request from importing competent authorities, allow access to view and assess the operation of their inspection and certification systems.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "transparency",
+        "public scrutiny",
+        "publication notice",
+        "decision basis",
+        "system access"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Special and differential treatment",
+      "summary": "Requires importing countries to consider the capabilities of developing countries when designing and applying food inspection and certification systems (special and differential treatment).",
+      "categories": [
+        "other",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "section heading",
+        "special treatment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Control and inspection procedures",
+      "summary": "Obliges importing countries to complete compliance assessment procedures without undue delay and to limit information requirements and any fees to what is reasonable and necessary.",
+      "categories": [
+        "other",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "section heading",
+        "control procedures"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Certification validity",
+      "summary": "Requires exporting countries that certify food exports and importing countries that rely on export certificates to take measures assuring certificate validity; exporters may validate via official or officially recognised inspection systems, while importers may use point-of-entry inspection, audits of exporting inspection systems, and checks that certificates are authentic and accurate.",
+      "categories": [
+        "other",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "section heading",
+        "certification validity",
+        "entry verification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    }
+  ]
+}

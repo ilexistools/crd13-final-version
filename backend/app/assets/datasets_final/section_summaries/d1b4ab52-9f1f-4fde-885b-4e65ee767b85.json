@@ -1,0 +1,179 @@
+{
+  "doc_id": "d1b4ab52-9f1f-4fde-885b-4e65ee767b85",
+  "title": "## GUIDELINES FOR VITAMIN AND MINERAL FOOD SUPPLEMENTS CAC/GL 55 - 2005",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## GUIDELINES FOR VITAMIN AND MINERAL FOOD SUPPLEMENTS CAC/GL 55 - 2005",
+      "summary": "Document title only: Guidelines for Vitamin and Mineral Food Supplements (CAC/GL 55-2005).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## PREAMBLE",
+      "summary": "Preamble stating that a balanced diet is the primary source of nutrients and should be encouraged, with vitamin and mineral food supplements intended to supplement the daily diet when dietary intake is insufficient.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "preamble heading",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 1. 1.  SCOPE",
+      "summary": "Scope: these Guidelines apply to vitamin and mineral food supplements intended to supplement the daily diet (including products with other ingredients which must also conform to these rules) only in jurisdictions where such products are regulated as foods, and exclude foods for special dietary uses as defined in Codex STAN 146-1985.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "mixed ingredients",
+        "jurisdiction limit",
+        "exclusion clause"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2. DEFINITIONS",
+      "summary": "Definition: vitamin and mineral food supplements are concentrated sources of vitamins and/or minerals (natural or synthetic), marketed in measured small‑unit forms (e.g., capsules, tablets, powders) not considered conventional foods, intended to supplement dietary intake.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "supplement definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 3. COMPOSITION",
+      "summary": "Composition overview: the Guidelines set criteria for selection of vitamins/minerals and specify content requirements including minimum levels and the basis for setting maximum levels to ensure safety and appropriate nutritional contribution.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## 3.1   SELECTION OF VITAMINS AND MINERALS",
+      "summary": "Selection of vitamins and minerals: supplements should contain vitamins/provitamins and minerals with demonstrated nutritional value recognized by FAO/WHO; sources may be natural or synthetic chosen for safety and bioavailability with purity per FAO/WHO standards or pharmacopoeias or national law, and products may include single nutrients or appropriate combinations meeting these criteria.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "selection heading",
+        "permitted nutrients",
+        "source and purity",
+        "footnote",
+        "nutrient combinations"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Contents of vitamins and minerals",
+      "summary": "Contents: each vitamin/mineral should provide at least 15% of the FAO/WHO recommended daily intake per suggested daily portion, and maximum amounts per daily portion shall be set based on scientific risk assessment of upper safe levels and intake from other dietary sources rather than solely on recommended nutrient intakes.",
+      "categories": [
+        "composition",
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "content levels",
+        "minimum content",
+        "maximum content",
+        "safe upper levels",
+        "dietary sources",
+        "maximum level basis"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4. PACKAGING",
+      "summary": "Packaging: products must be packed in containers that protect hygienic and other qualities, and packaging materials must be safe and comply with any applicable Codex packaging standards.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "protective container",
+        "safe materials"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5. LABELLING",
+      "summary": "Labelling requirements: vitamin and mineral supplements must comply with Codex labelling and claims guidelines, bear the name 'food supplement' with nutrient category or specific vitamins/minerals, declare amounts numerically per recommended daily portion (and per unit if different) and as a percentage of nutrient reference values, indicate usage instructions and a warning not to exceed the maximum one‑day amount, not imply replacement of meals, and state storage out of reach of young children.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5.5 Information  on  vitamins  and  minerals  should  also  be  expressed  as  a  percentage  of  the  nutrient  reference  values  mentioned,  as  the  case  may  be,  in  the  Codex  Guidelines  on  Nutrition Labelling.",
+      "summary": "Labelling detail: information on vitamins and minerals should also be expressed as a percentage of the nutrient reference values specified in the Codex Guidelines on Nutrition Labelling.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nutrient value declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

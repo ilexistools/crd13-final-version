@@ -1,0 +1,586 @@
+{
+  "doc_id": "e96711c6-d7a7-4068-b483-63e53e07d361",
+  "title": "1. DEFINITION OF PRODUCE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "This standard applies to commercial varieties of fresh tomatoes (Lycopersicon esculentum Mill) supplied to the consumer (excluding tomatoes for industrial processing) and classifies tomatoes into four commercial types: 'Round', 'Ribbed', 'Oblong/Elongated', and 'Cherry'/'Cocktail'.",
+      "categories": [
+        "definition",
+        "scope",
+        "classification"
+      ],
+      "subcategories": [
+        "definition heading",
+        "applicability",
+        "commercial types"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets quality provisions including minimum requirements (e.g., whole, sound, clean, practically free of pests, free from abnormal moisture, foreign odour/taste, and fresh appearance), maturity requirements, and a three‑class classification system (Extra, Class I, Class II) with specified tolerances and allowed defects for each class.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 MINIMUM REQUIREMENTS",
+      "summary": "Minimum requirements for all classes: tomatoes must be whole, sound (no rotting or deterioration), clean (practically free of visible foreign matter), practically free of pests/damage, free of abnormal external moisture, free of foreign smell/taste, and fresh in appearance; truss stalks must be fresh, healthy, clean and leaf‑free.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1.1  The development and condition of the tomatoes must be such as to enable them:",
+      "summary": "Tomato development and condition must enable them to withstand transport and handling and to arrive in satisfactory condition at the place of destination.",
+      "categories": [
+        "quality",
+        "transport"
+      ],
+      "subcategories": [
+        "minimum condition",
+        "transport suitability",
+        "destination condition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1.2 Maturity Requirements",
+      "summary": "Tomatoes must be sufficiently developed and display satisfactory ripeness, with a state of maturity that allows them to continue ripening to the appropriate degree.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "maturity heading",
+        "ripeness requirement",
+        "maturity requirement"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 CLASSIFICATION",
+      "summary": "Tomatoes are classified into three classes (Extra, Class I, Class II) with detailed quality criteria and permitted defects for each class, ranging from superior, uniform fruit in Extra to fruit meeting minimum requirements but with more pronounced allowable defects in Class II.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "'Extra' Class tomatoes must be of superior quality with firm flesh, characteristic of the variety in shape and development, uniform in size, properly coloured for ripeness, and free of greenbacks and other defects except very slight superficial defects that do not affect appearance, quality, keeping quality or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "extra class heading",
+        "extra class quality",
+        "uniformity requirement",
+        "defect allowance"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.2 Class I",
+      "summary": "Class I tomatoes must be of good quality with reasonably firm flesh, characteristic of the variety, uniform in size, free of cracks and visible greenback, though slight defects (shape, colouring, slight skin defects, very slight bruises) are permitted; 'ribbed' tomatoes in this class may have specified minor healed cracks and limited suberization or linear scars within defined limits.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class i heading",
+        "class i quality",
+        "class i defects",
+        "defect allowance",
+        "ribbed allowance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.3 Class II",
+      "summary": "Class II includes tomatoes that meet the minimum requirements but not higher classes; they must have reasonably firm flesh (may be slightly less firm than Class I) and no unhealed cracks, while allowing defects in shape, development, colouring, skin defects or bruises (if not serious), shallow healed cracks up to 3 cm, and specific additional allowances for 'ribbed' tomatoes (e.g., one umbilicus, suberization up to 2 cm²).",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class ii heading",
+        "class ii requirements",
+        "class ii quality",
+        "defect allowance",
+        "ribbed allowance",
+        "defect characteristics"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3 PROVISIONS CONCERNING SIZING",
+      "summary": "Defines sizing for tomatoes as maximum equatorial diameter, states sizing does not apply to trusses and is not compulsory for Class II, and permits three sizing options: (a) a numerical diameter table (size codes 0–10 with specified mm ranges), (b) a uniformity rule limiting maximum diameter differences within a package by thresholds based on the smallest fruit (<50 mm: 10 mm; 50–<70 mm: 15 mm; 70–<100 mm: 20 mm; no limit ≥100 mm), or (c) sizing by count, diameter or weight according to the importing country's legislation.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sizing provisions",
+        "size determination",
+        "size applicability",
+        "size options",
+        "size table",
+        "size uniformity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Allows specified tolerances for quality and size in each package: quality tolerances set percentage allowances by class (Extra 5%, Class I 10% with 5% detached for trusses, Class II 10% including produce below minimum except items unfit for consumption with 10% detached for trusses) and a size tolerance of 10% by number or weight for fruit differing by more than 10 mm from the marked size.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1 QUALITY TOLERANCES",
+      "summary": "Sets quality tolerances by class: Extra allows 5% by number/weight of tomatoes not meeting Extra but meeting Class I (or within its tolerances), Class I allows 10% not meeting Class I but meeting Class II (with trusses allowing 5% detached), and Class II allows 10% not meeting the class or minimum requirements except for produce unfit for consumption (trusses allow 10% detached).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1.1 'Extra' Class",
+      "summary": "Extra class permits up to 5% by number or weight of tomatoes that do not meet Extra class requirements but meet Class I requirements or, exceptionally, fall within Class I tolerances.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "extra class",
+        "class tolerances"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.2 Class I",
+      "summary": "Class I permits up to 10% by number or weight of tomatoes that do not meet Class I requirements but meet Class II requirements or, exceptionally, are within Class II tolerances; for trusses, 5% by number or weight may be tomatoes detached from the stalk.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class i",
+        "class tolerances"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1.3 Class II",
+      "summary": "Class II permits up to 10% by number or weight of tomatoes that satisfy neither the class requirements nor the minimum requirements, excluding produce affected by rotting, marked bruising or other deterioration rendering it unfit for consumption, and for trusses allows 10% by number or weight of tomatoes detached from the stalk.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class ii",
+        "class tolerances"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.2 SIZE TOLERANCES",
+      "summary": "For all classes, allows 10% by number or weight of tomatoes in a package that do not meet the marked sizing provided their diameter differs by up to 10 mm (greater or less) from the size indicated.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "size tolerances"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Requires package contents to be uniform by origin, variety/commercial type, quality and size (if sized), with practically uniform ripeness/colouring in Extra and Class I and representative visible contents; mandates protective packaging using new, clean, food-grade materials (non-toxic inks/glues allowed), compliance with CAC/RCP 44-1995 and container hygiene/ventilation/resistance standards, and allows presentation as individual tomatoes or trusses with minimum counts (3 [2 if prepackaged], or cherry trusses 6 [4 if prepackaged]).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.1 UNIFORMITY",
+      "summary": "Mandates uniformity within each package: tomatoes must be of the same origin, variety/commercial type, quality and size (if sized), with practically uniform ripeness and colouring in Extra and Class I and the visible contents representative of the whole.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "package uniformity",
+        "ripeness uniformity",
+        "representative contents"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2 PACKAGING",
+      "summary": "Requires packaging that properly protects tomatoes using new, clean materials of suitable quality (including recycled food-grade material), permits labeling/printing only with non-toxic ink or glue, and mandates packing in compliance with the Recommended International Code of Practice for Packaging and Transport of Fresh Fruit and Vegetables (CAC/RCP 44-1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.2.1 Description of Containers",
+      "summary": "Specifies that containers must meet quality, hygiene, ventilation and resistance criteria to ensure suitable handling, shipping and preservation of tomatoes, and that packages must be free of foreign matter and odour.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container description",
+        "container requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.3 PRESENTATION",
+      "summary": "Permits presentation as individual tomatoes (with or without calyx and short stalk) or as trusses (whole or part inflorescences) with minimum numbers per inflorescence of 3 (2 if prepackaged) or, for 'cherry' trusses, 6 (4 if prepackaged).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation forms",
+        "individual tomatoes",
+        "truss presentation",
+        "truss minimum count",
+        "cherry truss count"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6. MARKING OR LABELLING",
+      "summary": "Prescribes labelling requirements in addition to CODEX STAN 1-1985: consumer packages not externally visible must be labeled with the produce name (and may include variety/commercial type), while non-retail containers must bear legible identification, nature of produce, origin, commercial identification (class and size if sized) and may carry an official inspection mark, all visible on the same side or in accompanying documents.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.1 CONSUMER PACKAGES",
+      "summary": "Adds to CODEX STAN 1-1985 that consumer packages whose contents are not visible must be labelled with the name of the produce and may indicate the variety or commercial type (note: recycled material of food-grade quality is acceptable for packaging interiors).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.1.1 Nature of Produce",
+      "summary": "If the produce is not visible from outside the package, the package must be labelled with the name of the produce and may be labelled with the variety and/or commercial type.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature heading",
+        "package content label"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.2 NON-RETAIL CONTAINERS",
+      "summary": "Requires non-retail containers to bear legible, indelible particulars grouped on the same side or in accompanying documents, including identification, nature of produce, origin, commercial identification and optionally an official inspection mark.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2.1 Identification",
+      "summary": "Mandates that identification on non-retail containers include the name and address of the exporter, packer and/or dispatcher and may include an optional identification code.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "identification heading",
+        "packer identification"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.2.2 Nature of Produce",
+      "summary": "Requires the nature of produce on non-retail containers to state 'tomatoes' or 'trusses of tomatoes' and the commercial type if contents are not visible, with these details always required for 'cherry' and 'cocktail' tomatoes, and allows the name of the variety to be optional.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature heading",
+        "produce name declaration",
+        "variety declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.2.3 Origin of Produce",
+      "summary": "Requires declaration of country of origin and optionally the district, national, regional or local place name where the tomatoes were grown.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin heading",
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6.2.4 Commercial Identification",
+      "summary": "Requires commercial identification on non-retail containers to state the class and, if sized, the size expressed as minimum and maximum diameters.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial heading",
+        "class declaration",
+        "size declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Heading only: indicates an optional official inspection mark but contains no substantive provisions.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "inspection mark"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7. CONTAMINANTS",
+      "summary": "Requires the produce covered by this Standard to comply with Codex limits for contaminants and toxins (CODEX STAN 193-1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.1 The produce covered by this Standard shall comply with the maximum levels of the Codex General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193-1995).",
+      "summary": "Requires produce covered by this Standard to comply with the maximum levels set out in the Codex General Standard for Contaminants and Toxins in Food and Feed (CODEX STAN 193-1995).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.2 The produce covered by this Standard shall comply with the maximum residue limits for pesticides established by the Codex Alimentarius Commission.",
+      "summary": "Requires produce covered by this Standard to comply with pesticide maximum residue limits established by the Codex Alimentarius Commission.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8. HYGIENE",
+      "summary": "Recommends that produce be prepared and handled according to relevant Codex Codes of Practice (e.g., CAC/RCP 1-1969; CAC/RCP 53-2003) and comply with microbiological criteria established per CAC/GL 21-1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.1 It is recommended that the produce covered by the provisions of this Standard be prepared and handled in accordance  with  the  appropriate  sections  of the  Recommended  International  Code  of  Practice  -  General Principles  of  Food  Hygiene  (CAC/RCP 1-1969), Code of Hygienic Practice for Fresh Fruits and Vegetables (CAC/RCP 53-2003), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+      "summary": "Recommendation that produce be prepared and handled in accordance with the Codex Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CAC/RCP 53-2003), and other relevant Codex texts.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene recommendation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.2 The  produce  should  comply  with  any  microbiological  criteria  established  in  accordance  with  the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997).",
+      "summary": "Stipulates that the produce should comply with any microbiological criteria established in accordance with the Principles for the Establishment and Application of Microbiological Criteria for Foods (CAC/GL 21-1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

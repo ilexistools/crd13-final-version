@@ -1,0 +1,861 @@
+{
+  "doc_id": "15819be0-0377-4ff1-acce-17800be09d41",
+  "title": "## STANDARD FOR CANNED STONE FRUITS CXS 242-2003 Adopted in 2003. Amended in 2017, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## STANDARD FOR CANNED STONE FRUITS CXS 242-2003 Adopted in 2003. Amended in 2017, 2022.",
+      "summary": "Document title: Codex Standard for Canned Stone Fruits (CXS 242‑2003), adopted 2003 and amended in 2017 and 2022 (title/identification only).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendment",
+      "summary": "Notice that amendments adopted in 2022 (per the 45th Codex Alimentarius Commission) modified Section 8.2 on labelling of non‑retail containers.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2023 editorial correction",
+      "summary": "Editorial correction made in 2023 to Table (c) (Section 3.2.1.6) for canned plums/cherries, correcting the maximum drained weight value to 30% m/m.",
+      "categories": [
+        "other",
+        "quality"
+      ],
+      "subcategories": [
+        "correction heading",
+        "editorial correction"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to canned stone fruits of the genus Prunus offered for direct consumption (including catering and repacking) and does not apply when the product is indicated as intended for further processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Describes canned stone fruits as products made from fresh, frozen or previously canned mature Prunus fruits, stemmed/pitted or unpitted, packed with or without suitable liquid packing media, sugars or other permitted ingredients, and heat‑processed before or after hermetic sealing to prevent spoilage; lists permitted species, varietal types and permitted styles (e.g., whole, halves, quarters, slices, dices, pieces; peaches shall be peeled).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Product definition",
+      "summary": "Product definition: canned stone fruits are prepared from fresh, frozen or previously canned mature commercial Prunus fruits, packed with or without suitable liquid/sweeteners and other permitted ingredients, and heat‑processed before or after hermetic sealing to prevent spoilage.",
+      "categories": [
+        "definition",
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "raw material",
+        "packing medium",
+        "heat processing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Species",
+      "summary": "Enumerates permitted species for canned stone fruits, including apricot, peach, several plum species, and cherries (see subsections for specific taxa).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.1 Apricot -Prunus armeniaca L.",
+      "summary": "Heading only: names Apricot (Prunus armeniaca L.) as a permitted species.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit variety heading"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.2 Peach -Prunus persica L.",
+      "summary": "Heading/list item only: names Peach (Prunus persica L.) as a permitted species.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit variety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.3 Plum",
+      "summary": "Lists permitted plum species: Prunus cerasifera (cherry plum), Prunus domestica, Prunus insititia (mirabelle/damson), and Prunus italica (greengage).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.3 Plum",
+      "summary": "List item only: Prunus cerasifera Ehrb. (cherry plum) is a permitted species.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit variety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.2.3 Plum",
+      "summary": "List item only: Prunus domestica L. (plum) is a permitted species.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit variety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.2.3 Plum",
+      "summary": "List item only: Prunus insititia L. (mirabelle or damson) is a permitted species.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit variety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.2.3 Plum",
+      "summary": "List item only: Prunus italica L. (greengage) is a permitted species.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit variety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.2.4 Cherry",
+      "summary": "Lists permitted cherries: Prunus avium L. (sweet cherry, incl. Bigarreaux) and Prunus cerasus L. var. austera L. (sour cherry, incl. griottes).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "2.2.4 Cherry",
+      "summary": "Classifies cherries to include Prunus avium L. (sweet cherry, including Bigarreaux).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit variety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.2.4 Cherry",
+      "summary": "Classifies cherries to include Prunus cerasus L., var. austera L. (sour cherry, including griottes).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit variety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2.3 Varietal type",
+      "summary": "Requires designation of distinct varietal types for peaches, plums and cherries and lists peach types by pit separation (clingstone, freestone) and flesh colour (green, red, white, yellow), several plum classes (cherry plums, greengages, mirabelles, purple, quetsches, red, yellow) and cherry types (sour/griottes, sweet dark, sweet light/Bigarreaux).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "2.3 Varietal type",
+      "summary": "States that distinct varietal types should be designated for peaches, plums and cherries (heading-level requirement).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "2.3.1.1 Type by the ease of separation of pit",
+      "summary": "Defines peach types by ease of pit separation: clingstone (pit adheres to the flesh) and freestone (pit separates readily from the flesh).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "pit separation type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "2.3.1.2 Type by colour",
+      "summary": "Defines varietal types by flesh colour for stone fruits of genus Prunus, specifying 'green', 'red', 'white' and 'yellow' categories with their respective predominant ripe-flesh colour ranges and noting applicability only to Prunus.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "2.3.1.2 Type by colour",
+      "summary": "Defines the 'green' varietal type as fruits whose predominant ripe-flesh colour ranges from pale green to green.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "flesh colour"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "2.3.1.2 Type by colour",
+      "summary": "Defines the 'red' varietal type as fruits whose predominant ripe-flesh colour ranges from pale yellow to orange-red and may include variegated red colouring other than that associated with the pit cavity.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "flesh colour"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "2.3.1.2 Type by colour",
+      "summary": "Defines the 'white' varietal type as fruits whose predominant ripe-flesh colour ranges from white to yellow-white.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "flesh colour"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "2.3.2 Plum",
+      "summary": "Lists recognised plum varietal classes: cherry plums, greengages, mirabelles, purple plums, quetsches, red plums and yellow plums.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "plum classes"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "3.2.1 Other quality criteria",
+      "summary": "Section heading only for 'Other quality criteria' without substantive provisions in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "3.2.1.1 Colour",
+      "summary": "Requires the product colour (except artificially coloured canned plums/cherries) to be normal for the varietal type, considers canned stone-fruit portions near the pit cavity that may be slightly discoloured as normal, and allows characteristic colour for products with special ingredients when no abnormal discoloration is present.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "colour requirement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "3.2.1.2 Flavour",
+      "summary": "Requires the product to have a normal flavour and odor free from foreign flavors/odors, with products containing special ingredients exhibiting flavours characteristic of the fruit and added substances.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "flavour requirement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "3.2.1.3 Texture",
+      "summary": "Specifies that canned fruit should be reasonably fleshy with uniform texture, may vary in tenderness, but must not be mushy or excessively firm.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture heading",
+        "texture quality"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "3.2.1.4 Uniformity of size",
+      "summary": "Requires the fruit to be reasonably uniform in size.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "size uniformity"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "3.2.1.5 Definition of defects",
+      "summary": "Defines defects—blemishes, crushed/broken, harmless extraneous material, peel, pit material, splits (cherries/plums) and trim—and specifies when each is considered a defect, including exceptions such as certain splits or partially split halves not being classed as 'broken' and peel not being a defect in 'unpeeled' styles.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defect definition",
+        "blemish definition",
+        "broken fruit definition",
+        "extraneous material",
+        "peel defect",
+        "pit material",
+        "split defect",
+        "trim defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "3.2.1.6 Defects and allowances",
+      "summary": "Requires products to be substantially free from defects and prescribes numeric defect allowances for canned apricots, peaches, and plums/cherries (e.g., maximum percentages for blemish/trim and broken units, total defect limits, extraneous material counts per weight, aggregate peel-area limits, and permitted pit counts per specified weights) as detailed in separate tables.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defect limits",
+        "apricot limits",
+        "table header",
+        "table separator",
+        "apricot defect limits",
+        "peach limits",
+        "peach defect limits",
+        "plum cherry limits",
+        "plum cherry defect limits",
+        "quality defect limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "3.4 Lot acceptance",
+      "summary": "Specifies lot acceptance: non-average requirements pass when defectives do not exceed the sampling-plan acceptance number (c) at an AQL of 6.5, and requirements based on sample averages must be complied with.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "lot acceptance criteria",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Lists permitted food additives for canned stone fruits, including acidifying agents (several INS numbers, mostly limited by GMP with tartaric acid at 1300 mg/kg), antioxidant L-ascorbic acid (GMP), colours (erythrosine 200 mg/kg for sweet cherries; Allura Red AC 200 mg/kg for red/purple plums), and natural/synthetic flavourings limited by GMP except those that reproduce the fruit's own flavour.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "4.1 Acidifying agents",
+      "summary": "Tabulates acidifying agents permitted (INS 260 acetic, 270 lactic, 296 malic, 330 citric limited by GMP; INS 334 tartaric acid limited to 1300 mg/kg).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "acidifying agents",
+        "additive table",
+        "acidifying agent limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "4.2 Antioxidants",
+      "summary": "Lists antioxidant INS 300 (L-ascorbic acid) and specifies its maximum level is 'Limited by GMP' for the covered products.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "antioxidants",
+        "additive table",
+        "antioxidant limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "4.3 Colours",
+      "summary": "Specifies permitted colourants and their maximum levels for particular products: Erythrosine (INS 127) up to 200 mg/kg for sweet cherries only, and Allura Red AC (INS 129) up to 200 mg/kg for canned 'red' or 'purple' plums only.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "colours",
+        "additive table",
+        "colour limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "4.4 Flavourings",
+      "summary": "Permits natural and synthetic flavourings limited by GMP except those that reproduce the flavour of the respective stone fruit (which are excluded).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings",
+        "flavouring limit",
+        "flavouring table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires compliance with Codex maximum levels for contaminants and toxins (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residue"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with the General Principles of Food Hygiene (CXC 1-1969) and requires compliance with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Covers weights and measures including fill requirements (containers must be at least 90% of water capacity), classification of defectives, lot acceptance by sampling (AQL 6.5), and detailed minimum drained weight percentages for various canned stone fruits with compliance assessed by average and special provisions for non-metallic containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "7.1 Fill of container",
+      "summary": "Specifies the fill-of-container rules: minimum fill of 90% of container water capacity, definition of 'defective' for underfill, lot acceptance criteria (AQL 6.5), and detailed minimum drained weight percentages for canned apricots, peaches, plums and cherries with provisions for compliance and non-metallic containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "7.1.1 Minimum fill",
+      "summary": "Requires that the sealed container be filled to at least 90% of its water capacity (volume of distilled water at 20°C) including product and packing medium.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill",
+        "minimum fill requirement"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "7.1.2  Classification of 'defectives'",
+      "summary": "Defines a 'defective' container as one that fails to meet the minimum fill requirement of 90% container capacity.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defective definition"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "States a lot meets the minimum fill requirement when the number of 'defectives' does not exceed the acceptance number (c) of an appropriate sampling plan with an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "7.1.4 Minimum drained weight",
+      "summary": "Sets minimum drained weight percentages for canned products by commodity and style (e.g., apricots 54–82% depending on syrup/pack, peaches 52–84% depending on type and pack, plums 50–55%, cherries 53%) and states compliance is met when the average drained weight of containers is not less than the minimum required, with a special basis for non-metallic containers.",
+      "categories": [
+        "weights and measures",
+        "classification"
+      ],
+      "subcategories": [
+        "minimum drained weight",
+        "drained weight requirement",
+        "product category",
+        "drained weight",
+        "table separator",
+        "drained weight heading"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "8. LABELLING",
+      "summary": "Requires labelling in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and adds specific provisions on product name content (varietal type, flavouring, style, peeled/unpeeled) while directing non-retail container labelling to CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "8.1 Name of the product",
+      "summary": "Specifies that the product name must be the fruit name (per Section 2.2) and should include varietal type (with detailed requirements and permitted omissions for certain peach, plum and cherry names), any characterizing flavouring, and where appropriate the style and whether fruits are peeled or unpeeled.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "8.1.1 The name of the product shall be the name of the fruit used as defined in Section 2.2.",
+      "summary": "States that the product name shall be the name of the fruit used as defined in Section 2.2.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "8.1.2 The name of the product should include:",
+      "summary": "Requires the product name to include varietal type as appropriate (e.g., peach: 'freestone' or 'clingstone' and colour descriptors; plum: colour or specific cultivar names with certain allowed omissions; cherry: varietal or cultivar names with permitted omissions) and to declare any flavouring that characterizes the product.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name",
+        "varietal declaration",
+        "flavour declaration"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "8.1.3 The following, as appropriate, should be declared as part of the name or in close proximity to the name:",
+      "summary": "Requires that the product style (per Section 2.4) and whether fruits are 'peeled' or 'unpeeled' be declared as part of or close to the product name when appropriate.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name proximity",
+        "style declaration",
+        "peeling declaration"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Mandates that labelling of non-retail containers comply with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies that methods of analysis and sampling for checking compliance with this standard shall be those contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions being checked.",
+      "categories": [
+        "analysis sampling",
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "compliance methods",
+        "reference note",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "doc_id": "c62112de-b3f8-41be-bc18-96bae1ec6d63",
+  "title": "GENERAL PRINCIPLES OF FOOD HYGIENE CXC 1-1969 Adopted in 1969. Amended in 1999. Revised in 1997, 2003, 2020, 2022*. Editorial corrections in 2011.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL PRINCIPLES OF FOOD HYGIENE CXC 1-1969 Adopted in 1969. Amended in 1999. Revised in 1997, 2003, 2020, 2022*. Editorial corrections in 2011.",
+      "summary": "Title and adoption history for 'General Principles of Food Hygiene (CXC 1-1969)' noting adoption, revisions and editorial corrections (1969; revisions 1997, 2003, 2020, 2022; corrections 2011) and that this edition adds Annex IV (Figure 1 and Table 1) introducing tools to determine critical control points in HACCP.",
+      "categories": [
+        "scope",
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "adoption history",
+        "haccp tools",
+        "organization name",
+        "document series"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 INTRODUCTION",
+      "summary": "Introduces the right to safe and suitable food, outlines risks from foodborne illness and spoilage, assigns responsibility across all food business operators (FBOs) to understand hazards and implement good hygiene practices (GHPs) as a foundation, and states that HACCP should be used where GHPs alone are insufficient, with the document divided into GHPs and HACCP guidance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "This document outlines the general principles that should be understood and followed by FBOs at all stages of the food chain and that provide a basis for competent authorities to oversee food safety and suitability.",
+      "summary": "States the document provides general principles for FBOs at all stages of the food chain and a basis for competent authorities to oversee food safety and suitability, advising FBOs to consider stage, product, and contaminants and noting the WHO five keys to safer food as basic measures.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "Taking into account the stage in the food chain, the nature of the product, the relevant contaminants, and whether the relevant contaminants adversely affect safety, suitability or both, these principles will enable food businesses to develop their own food hygiene practices and necessary food safety control measures, while complying with requirements set by competent authorities.",
+      "summary": "Explains the document enables food businesses to develop appropriate food hygiene practices and safety controls in line with competent authority requirements, taking into account stage in the chain, product nature and contaminants, and refers to the WHO five keys to safer food.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "general principles"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. OBJECTIVES",
+      "summary": "Sets the objectives: provide principles and guidance on applying GHPs across the food chain to ensure safe and suitable food, provide guidance on HACCP application, clarify the relationship between GHPs and HACCP, and provide a basis for sector- and product-specific codes of practice.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives statement",
+        "hygiene principles",
+        "haccp guidance",
+        "relationship clarification",
+        "practice basis"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. SCOPE",
+      "summary": "Provides a framework of general principles and required hygiene and food safety controls applicable throughout production (including primary production), processing, manufacturing, preparation, packaging, storage, distribution, retail, food service and transport, and where appropriate specific measures at certain steps in the food chain.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4. USE",
+      "summary": "Intended for use by FBOs and competent authorities, the document offers general, adaptable guidance and stresses evaluating whether measures are 'necessary and appropriate' based on likelihood and severity of hazards and available scientific and operational knowledge.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.1 Roles of competent authorities, food business operators, and consumers",
+      "summary": "Defines roles: competent authorities must apply the principles via legislation, regulation or guidance to protect consumers, ensure FBOs implement effective control systems and maintain trade confidence and communication; FBOs must develop, implement and verify processes, ensure personnel competence, build food safety culture and provide clear allergen and handling information; and consumers should follow handling, preparation and storage guidance.",
+      "categories": [
+        "scope",
+        "official control",
+        "labelling",
+        "hygiene",
+        "training"
+      ],
+      "subcategories": [
+        "roles heading",
+        "competent authority roles",
+        "consumer protection",
+        "trade confidence",
+        "consumer information",
+        "fbo responsibilities",
+        "process verification",
+        "personnel competence",
+        "food safety culture",
+        "allergen information",
+        "consumer handling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5. GENERAL PRINCIPLES",
+      "summary": "Sets general principles requiring a science-based preventive approach (GHPs) as the foundation for HACCP, that FBOs identify hazards and apply GHPs and CCPs as needed, validate essential control measures, monitor/verify/document controls, periodically review systems or upon significant change, and maintain appropriate communication across the food chain.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5.1 Management commitment to food safety",
+      "summary": "Requires management commitment and leadership to establish a positive food safety culture by allocating resources, ensuring roles/responsibilities and training, maintaining system integrity during change, verifying controls and documentation, ensuring regulatory compliance, and encouraging continual improvement.",
+      "categories": [
+        "hygiene",
+        "training",
+        "documentation",
+        "official control",
+        "risk management"
+      ],
+      "subcategories": [
+        "management commitment heading",
+        "food safety culture",
+        "management commitment",
+        "leadership engagement",
+        "hygiene awareness",
+        "communication procedures",
+        "resource provision",
+        "system effectiveness",
+        "roles responsibilities",
+        "system change control",
+        "control verification",
+        "personnel training",
+        "regulatory compliance",
+        "continual improvement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6. DEFINITIONS",
+      "summary": "Provides definitions of key terms used in the document, including acceptable level, allergen cross-contact, cleaning, competent authority, contaminant/contamination, control/control measure, corrective action, CCP, critical limit, deviation, disinfection, flow diagram, FBO, food handler, food hygiene/system, food safety/suitability, GHPs, HACCP plan/system, hazard/hazard analysis, monitoring, primary production, prerequisite programme, significant hazard, step, validation and verification.",
+      "categories": [
+        "definition",
+        "risk management",
+        "contaminants",
+        "hygiene",
+        "official control",
+        "processing",
+        "other",
+        "scope",
+        "documentation",
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition preamble",
+        "acceptable level",
+        "allergen cross-contact",
+        "cleaning definition",
+        "competent authority",
+        "contaminant definition",
+        "contamination definition",
+        "definition heading",
+        "control definition noun",
+        "control definition verb",
+        "control measure",
+        "corrective action",
+        "critical control point",
+        "critical limit",
+        "deviation definition",
+        "disinfection definition",
+        "flow diagram",
+        "fbo definition",
+        "food handler",
+        "food hygiene",
+        "hygiene system",
+        "food safety",
+        "food suitability",
+        "good hygiene",
+        "haccp plan",
+        "haccp system",
+        "hazard definition",
+        "hazard analysis",
+        "monitoring definition",
+        "primary production",
+        "prerequisite programme",
+        "significant hazard",
+        "step definition",
+        "validation of measures",
+        "verification definition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "GOOD HYGIENE PRACTICES",
+      "summary": "Heading only: 'GOOD HYGIENE PRACTICES' with no substantive text in this section.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "good hygiene heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7. INTRODUCTION AND CONTROL OF FOOD HAZARDS",
+      "summary": "Explains that GHPs provide the conditions and activities necessary to control food hazards throughout the chain, emphasizes knowing the food and processes, lists key GHP controls (water quality, faecal contamination, handler hygiene, cleaning of food-contact surfaces) and states that hazards not controlled by GHPs should be managed by additional control measures and a HACCP system.",
+      "categories": [
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "hazards control heading",
+        "ghp control",
+        "premises guidance",
+        "hazard sources",
+        "hazard awareness",
+        "water quality control",
+        "faecal contamination",
+        "food handler hygiene",
+        "surface cleaning",
+        "enhanced ghp",
+        "haccp escalation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "8. PRIMARY PRODUCTION",
+      "summary": "Sets objectives and guidance for primary production to ensure food is safe and suitable, including assessing water suitability, avoiding contaminated sites, controlling contaminants/pests/veterinary drugs, applying hygienic production practices, and implementing appropriate handling, storage, transport, cleaning, maintenance and personnel hygiene measures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "OBJECTIVES:",
+      "summary": "States primary production objectives: manage production to ensure food safety and suitability by assessing water used, avoiding contaminated areas, controlling contaminants, pests and diseases (including appropriate use of pesticides and veterinary drugs), and adopting hygienic practices (e.g. clean harvest equipment, hygienic milking).",
+      "categories": [
+        "scope",
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "primary production objectives",
+        "water suitability",
+        "site suitability",
+        "pest and disease control",
+        "hygienic production"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "RATIONALE:",
+      "summary": "Explains the rationale: to reduce the likelihood of introducing contaminants that affect food safety or suitability and that applying prerequisite programmes such as good agricultural practices (GAPs) and GHPs can minimize hazards, noting not all provisions apply to every primary production situation.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "rationale heading",
+        "contaminant reduction",
+        "prerequisite programmes"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "8.1 Environmental control",
+      "summary": "Requires identification of potential environmental contamination sources and states that primary production should not be conducted in areas where contaminants would cause unacceptable levels in food (e.g., polluted sites, odour-emitting facilities, contaminated water) unless effective measures exist to prevent contamination.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "environmental control heading",
+        "environmental contamination"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "8.2 Hygienic production",
+      "summary": "Requires producers to identify contamination-prone points in primary production and, as far as practicable, implement measures to control contamination from soil, water, feed, fertilizers, pesticides and veterinary drugs, protect food from faecal contamination, control plant and animal health (including observing withdrawal periods and record-keeping), and manage waste and harmful substances.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygienic production heading",
+        "contamination prevention",
+        "production measures",
+        "production contamination",
+        "faecal protection",
+        "health and records",
+        "waste handling"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8.3 Handling, storage and transport",
+      "summary": "Requires procedures to sort and hygienically dispose of material unfit for human consumption and to protect food during handling, storage and transport from pests and chemical, physical or microbiological contaminants and to prevent deterioration through controls such as temperature and humidity management.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "handling storage transport",
+        "procedures requirement",
+        "sorting rejection",
+        "rejected material",
+        "contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "8.4 Cleaning, maintenance and personnel hygiene",
+      "summary": "Requires appropriate facilities and procedures to ensure cleaning and maintenance are effective and do not contaminate food, and that personnel maintain an appropriate degree of personal hygiene to prevent contamination (e.g., from human faeces).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning hygiene",
+        "facilities procedures",
+        "maintenance hygiene",
+        "personal hygiene"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "9. ESTABLISHMENT - DESIGN OF FACILITIES AND EQUIPMENT",
+      "summary": "Heading only: introduces the section on design of establishment facilities and equipment and contains no substantive provisions itself.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "OBJECTIVES:",
+      "summary": "States that premises, equipment and facilities must be located, designed and constructed to minimize contamination, permit appropriate maintenance, cleaning and disinfection, use non‑toxic food‑contact materials, provide temperature/humidity controls where needed, prevent pest access and provide sufficient washroom facilities.",
+      "categories": [
+        "scope",
+        "equipment",
+        "hygiene",
+        "pest control"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "location design",
+        "contamination control",
+        "facility design",
+        "food contact surfaces",
+        "environmental controls",
+        "pest exclusion",
+        "personnel facilities"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "9.1 Location and structure",
+      "summary": "Heading only: introduces subsection on location and structure and contains no substantive provisions itself.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "9.1.1 Location of establishment",
+      "summary": "Requires food establishments, including temporary/mobile ones, not to be sited where environmental hazards cannot be controlled and normally to be located away from environmentally polluted or industrial areas, flood‑prone zones, pest‑prone areas and sites where waste cannot be removed effectively unless sufficient safeguards are provided.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "location establishment",
+        "location hazards"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "9.1.2 Design and layout of food establishment",
+      "summary": "Requires the design and layout of premises and operational flow to allow adequate maintenance and cleaning and to minimize or prevent cross‑contamination by means such as physical separation, spatial separation, traffic flow control, airflow management or temporal separation with suitable cleaning between uses.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "design layout",
+        "cross contamination",
+        "hygiene separation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "9.1.3 Internal structures and fittings",
+      "summary": "Specifies that internal structures and fittings must be durable, easy to clean and where necessary disinfect, made of non‑toxic inert materials, with impervious, smooth walls/floors, adequate drainage, ceilings and fixtures that minimize dirt and shedding, cleanable windows (with insect screens if needed), smooth non‑absorbent doors, and work surfaces that are sound, durable, easy to clean and inert to food and cleaning agents.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "internal structures",
+        "structural materials",
+        "impervious surfaces",
+        "smooth surfaces",
+        "drainage cleaning",
+        "ceiling fixtures",
+        "windows screens",
+        "door surfaces",
+        "work surfaces"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "9.1.4 Temporary/Mobile food establishments and vending machines",
+      "summary": "Requires temporary and mobile food premises and vending machines (e.g., market stalls, street vending vehicles, tents) to be located, designed and constructed to avoid food contamination and pest harbourage as far as reasonably practicable and to provide adequate toileting and hand‑washing facilities where appropriate.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "temporary establishments"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "9.2 Facilities",
+      "summary": "Heading only: introduces the subsection on facilities and contains no substantive provisions itself.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "9.2.1 Drainage and waste disposal facilities",
+      "summary": "Requires adequate, well‑maintained drainage and waste disposal systems designed to avoid contaminating food or water (including preventing backflow and sewer gas backup), with waste collected and disposed by trained personnel, disposal records where appropriate, waste sites located away from establishments to prevent pests, identifiable and suitable containers for waste and hazardous substances, and lockable containers for hazardous materials where appropriate.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "drainage waste",
+        "waste disposal",
+        "hazardous containers"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9.2.2 Cleaning facilities",
+      "summary": "Requires adequate, designated facilities for cleaning utensils and equipment with sufficient hot and/or cold water, separation of cleaning areas from highly contaminated areas (e.g., toilets, drainage), and separation of sinks for hand‑washing, food washing and utensil cleaning where appropriate.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning facilities"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "9.2.3 Personnel hygiene facilities and toilets",
+      "summary": "Requires provision of adequate, suitably located washing and toilet facilities (not to be used for food or food‑contact item storage) including appropriate hand‑washing and drying means (preferably liquid soap and hygienic basins with non‑hand‑operated taps where possible), and suitable changing facilities where needed, and states hand‑washing basins must not be used for washing food or utensils.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personnel facilities",
+        "personnel hygiene",
+        "handwashing facilities",
+        "changing facilities",
+        "handwashing use"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "9.2.4 Temperature",
+      "summary": "Requires availability of adequate facilities for heating, cooling, cooking, refrigerating and freezing and for controlling ambient temperatures where necessary to ensure the safety and suitability of food operations.",
+      "categories": [
+        "hygiene",
+        "processing"
+      ],
+      "subcategories": [
+        "temperature control"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "9.2.5 Air quality and ventilation",
+      "summary": "Requires adequate natural or mechanical ventilation to minimize airborne contamination, control ambient temperature, odours and humidity (to prevent microbial growth or product deterioration), with systems designed so air does not flow from contaminated to clean areas and so they are easy to clean and maintain.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "air quality heading",
+        "ventilation requirements",
+        "air contamination",
+        "ambient control",
+        "odour control",
+        "humidity control",
+        "ventilation design"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "9.2.6 Lighting",
+      "summary": "Requires adequate natural or artificial lighting to enable hygienic operation and detection of defects/contaminants and adequate examination of cleanliness, with appropriate intensity for the operation and protection of light fittings to prevent contamination from breakages.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "lighting heading",
+        "lighting requirements"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "9.2.7 Storage",
+      "summary": "Requires adequate, and where necessary separate, storage facilities for foods, ingredients, packaging and non‑food chemicals that allow segregation of raw/cooked foods and allergens, facilitate cleaning, prevent pest access, protect against contamination (including allergen cross‑contact), provide environmental controls to minimize deterioration, and provide secure storage for cleaning materials and hazardous substances.",
+      "categories": [
+        "hygiene",
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading",
+        "food storage facilities",
+        "storage design",
+        "cleaning access",
+        "pest prevention",
+        "contamination protection",
+        "environment control",
+        "storage facility types"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "9.3 Equipment",
+      "summary": "Heading only: introduces the subsection on equipment and contains no substantive provisions itself.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "9.3.1 General",
+      "summary": "Requires equipment and containers contacting food to be suitable for food contact, made of non‑toxic materials, designed and located to be cleanable, disinfectable where necessary, maintainable or disposable, and where appropriate durable, movable or disassemblable to allow maintenance, cleaning, disinfection and pest inspection.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "food contact design"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "9.3.2 Food control and monitoring equipment",
+      "summary": "Requires equipment used to cook, heat, cool, store or freeze food to achieve and maintain required temperatures, to allow temperature monitoring and control (with calibration where appropriate), and where necessary to control and monitor humidity, airflow and other characteristics affecting food safety or suitability.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "monitoring equipment heading",
+        "temperature control equipment",
+        "monitoring calibration",
+        "humidity monitoring"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "10. TRAINING AND COMPETENCE",
+      "summary": "States that all personnel who contact food must have sufficient understanding and competence in food hygiene appropriate to their duties, and requires training programmes, instruction and supervision tailored to the hazards, processing, storage and handling conditions (covering principles of hygiene, contamination prevention, personal hygiene, GHPs and corrective actions), with periodic assessment and verification of training effectiveness and appropriate supervision to ensure procedures are followed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "OBJECTIVE:",
+      "summary": "Objective: persons who come directly or indirectly into contact with food must have sufficient understanding of food hygiene to be competent for the operations they perform.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "objective heading",
+        "food hygiene competence"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "RATIONALE:",
+      "summary": "Rationale: training is fundamental to food hygiene systems, and adequate training, instruction and supervision of all personnel involved in food activities are needed to ensure food safety and suitability.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "rationale heading",
+        "training importance",
+        "hygiene instruction"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "10.1 Awareness and responsibilities",
+      "summary": "All food business personnel should be aware of their roles and responsibilities to protect food from contamination or deterioration and possess the knowledge and skills for hygienic handling; those who handle cleaning or hazardous chemicals must be instructed in proper use to prevent food contamination.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "awareness heading",
+        "responsibility awareness"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "10.2 Training programmes",
+      "summary": "Determination of training extent should consider hazards associated with the food (microbial, physical, allergen), how the food is produced/processed/handled/packed, further preparation before consumption, storage conditions, time before consumption, equipment use/maintenance and trainee skill levels; appropriate training topics include food hygiene principles, contaminant prevention, personal hygiene (hand washing, clothing), GHPs and corrective actions, with retail/food-service staff who interact with customers trained to convey product information such as allergens.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "programmes heading",
+        "training factors",
+        "hazard awareness",
+        "process awareness",
+        "preparation awareness",
+        "storage awareness",
+        "time awareness",
+        "equipment awareness",
+        "training topics",
+        "food hygiene principles",
+        "contaminant prevention",
+        "personal hygiene",
+        "ghp training",
+        "corrective actions",
+        "customer information"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "10.3 Instruction and supervision",
+      "summary": "Instruction and supervision should be commensurate with business size, activities and food types, with managers/supervisors/operators having sufficient food hygiene knowledge to identify deviations and take action; periodic assessment of training effectiveness, routine supervision and verification are required to ensure personnel are competent for tasks affecting food safety and suitability.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "instruction heading",
+        "supervision requirements",
+        "training evaluation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

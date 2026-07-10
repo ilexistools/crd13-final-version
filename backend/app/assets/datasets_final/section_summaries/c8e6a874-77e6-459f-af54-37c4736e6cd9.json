@@ -1,0 +1,122 @@
+{
+  "doc_id": "c8e6a874-77e6-459f-af54-37c4736e6cd9",
+  "title": "SECTION 3 - PRINCIPLES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "SECTION 3 - PRINCIPLES",
+      "summary": "Sets out Codex principles for risk analysis of foods from modern biotechnology: risk assessment (case‑by‑case safety assessment comparing biotech foods to conventional counterparts using sound science), risk management proportional to assessed risk (including options like labelling and post‑market monitoring and use of appropriate tools), transparent risk communication and consultation, consistency and a transparent regulatory framework, capacity building and information exchange, and regular review of assessments when new scientific information emerges.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "RISK ASSESSMENT",
+      "summary": "Risk assessment for foods from modern biotechnology requires a safety assessment that compares the biotech food (whole or component) with an appropriate conventional counterpart to identify intended/unintended effects, new/altered hazards and nutrient changes, and a pre‑market assessment performed case‑by‑case using sound, peer‑reviewable data and appropriate statistical methods drawn from multiple credible sources with comparable test procedures.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk assessment heading",
+        "safety assessment",
+        "assessment factors",
+        "hazard identification",
+        "nutrient change",
+        "pre-market assessment",
+        "risk scope",
+        "data sources",
+        "scientific evidence"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "RISK COMMUNICATION",
+      "summary": "Risk communication must be interactive and involve all interested parties, with safety assessments and risk management decisions fully documented and transparently available while protecting legitimate commercial confidentiality, and must include responsive, interactive consultation processes that address stakeholders' food safety and nutritional concerns.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "risk communication heading",
+        "risk communication",
+        "decision documentation",
+        "consultation process"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "CONSISTENCY",
+      "summary": "A consistent approach and transparent regulatory framework are required to characterise and manage safety and nutritional risks of biotech foods, avoiding unjustified differences from conventional foods and ensuring consistency in data requirements, assessment frameworks, acceptable risk levels, communication and timely decisions.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "consistency heading",
+        "consistent approach",
+        "regulatory framework"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "CAPACITY BUILDING AND INFORMATION EXCHANGE",
+      "summary": "Calls for capacity building to strengthen regulatory authorities—especially in developing countries—to assess, manage, communicate and enforce biotech food safety (including access to analytical technology), and for facilitation of information exchange (e.g., via Codex Contact Points) including analytical methods.",
+      "categories": [
+        "risk management",
+        "training",
+        "documentation"
+      ],
+      "subcategories": [
+        "capacity building heading",
+        "capacity building",
+        "information exchange"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "REVIEW PROCESSES",
+      "summary": "Risk analysis methodology and its application should be kept consistent with new scientific knowledge and reviewed as necessary so safety assessments for foods from modern biotechnology incorporate emerging information and, where appropriate, lead to adaptation of risk management measures.",
+      "categories": [
+        "risk management",
+        "risk assessment",
+        "other"
+      ],
+      "subcategories": [
+        "review processes heading",
+        "methodology consistency",
+        "review of assessment",
+        "footnote reference",
+        "technical reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

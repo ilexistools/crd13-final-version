@@ -1,0 +1,447 @@
+{
+  "doc_id": "20ec7d79-59b1-406f-8e29-389ce67ea956",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "States the scope: this standard applies to canned salmon.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines canned salmon as product from headed and eviscerated fish of specified species, to which salt, water and/or edible oils may be added, and states it must be packed in hermetically sealed containers and processed to ensure commercial sterility; presentation rules require transverse sections filled vertically but permit other presentations if distinctive, compliant with the standard, and adequately described on the label.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 PRODUCT DEFINITION",
+      "summary": "Defines 'Canned Salmon' as product prepared from headed and eviscerated fish of the listed species (Salmo salar and specified Oncorhynchus spp.) with fins and tails removed, to which salt, water, salmon oil and/or other edible oils may be added.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "species list"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 PROCESS DEFINITION",
+      "summary": "States that canned salmon must be packed in hermetically sealed containers and receive processing sufficient to ensure commercial sterility.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "Canned  salmon  is  packed  in  hermetically  sealed  containers  and  shall  have  received  a  processing treatment sufficient to ensure commercial sterility.",
+      "summary": "Specifies that canned salmon shall be packed in hermetically sealed containers and have received a processing treatment sufficient to ensure commercial sterility.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "commercial sterility"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3 PRESENTATION",
+      "summary": "Specifies presentation: canned salmon shall consist of transverse sections filled vertically so cut surfaces are approximately parallel to container ends, and allows other presentations only if they are clearly distinctive, meet all standard requirements, and are adequately described on the label to avoid consumer confusion.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "container fill arrangement",
+        "alternative presentation",
+        "presentation requirements",
+        "presentation declaration"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Introduces essential composition and quality factors requiring the product be prepared from sound fish of the species listed in Section 2.1 and of a quality fit to be sold fresh for human consumption.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 SALMON",
+      "summary": "Requires that the product be prepared from sound fish of the species listed in Section 2.1 and of a quality fit to be sold fresh for human consumption.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "salmon heading",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "STANDARD FOR CANNED SALMON",
+      "summary": "Non‑substantive document title: 'Standard for Canned Salmon' (CXS 3-1981).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "CXS 3-1981",
+      "summary": "Non‑substantive reference identifier for the standard: CXS 3-1981.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2 OTHER INGREDIENTS",
+      "summary": "Requires that all other ingredients used in canned salmon be of food‑grade quality and conform to applicable Codex standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients heading",
+        "ingredient quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.3 FINAL PRODUCT",
+      "summary": "Specifies that final products must meet the standard when lots examined per Section 9 comply with the provisions of Section 8, and that products shall be examined using the methods given in Section 7.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "final product heading",
+        "compliance testing"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Prohibits the use of any additives in this product.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "no additives"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5. HYGIENE",
+      "summary": "Recommends preparing and handling products in accordance with relevant Codex hygienic Codes (e.g. CXC 1-1969, CXC 52-2003, CXC 23-1979) and states products should comply with microbiological criteria established under CXG 21-1979.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.1 It  is  recommended  that  the  products  covered  by  the  provisions  of  this  Standard  be  prepared  and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), the Code of Practice for Fish and Fishery Products (CXC 52-2003), the Code of Hygienic Practice for LowAcid  and  Acidified  Low-Acid  Canned  Foods (CXC  23-1979)  and  other  relevant  Codex  Codes  of  Hygienic Practice and Codes of Practice.",
+      "summary": "Recommends that covered products be prepared and handled according to the appropriate Codex Codes of Hygienic Practice (CXC 1-1969, CXC 52-2003, CXC 23-1979 and other relevant codes).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene recommendation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5.2 The  products  should  comply  with  any  microbiological  criteria  established  in  accordance  with  the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1979).",
+      "summary": "States that the products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for Microbiological Criteria Related to Foods (CXG 21-1979).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6. LABELLING",
+      "summary": "Heading only; indicates that the following specific provisions supplement the General Standard for Labelling of Prepackaged Foods (CXS 11985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6.1 NAME OF THE FOOD",
+      "summary": "Requires the product name to be the species-appropriate designation as recognised by law, custom or practice in the country of distribution.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6.2 PACKING MEDIUM",
+      "summary": "Requires that the packing medium be stated as part of the food name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium",
+        "packing medium declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.3 PRESENTATION",
+      "summary": "Requires the presentation specified in Section 2.3.2 to be declared in close proximity to the common name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7. SAMPLING, EXAMINATION AND ANALYSES",
+      "summary": "Heading only; introduces the subject of sampling, examination and analyses without substantive provisions in this text block.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.1 SAMPLING",
+      "summary": "Specifies sampling for final product examination shall follow an appropriate sampling plan with an AQL of 6.5, and sampling for net weight shall follow an appropriate sampling plan meeting criteria established by the CAC.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling plan",
+        "weight sampling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.2 SENSORY EVALUATION AND PHYSICAL EXAMINATION",
+      "summary": "Requires sensory and physical sample assessments to be conducted by trained personnel in accordance with Section 7.3, Annex A and the Guidelines for the Sensory Evaluation of Fish and Shellfish in Laboratories (CXG 31-1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.3 DETERMINATION OF NET WEIGHT",
+      "summary": "Prescribes a net-contents determination procedure: weigh the unopened container, remove contents, weigh the empty container (including end) after removing excess liquid and adhering meat, then subtract the empty-container weight from the unopened-container weight to obtain net content.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net weight determination",
+        "net contents procedure",
+        "weigh unopened container",
+        "open container procedure",
+        "empty container weighing",
+        "net content calculation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8.5 OBJECTIONABLE MATTER",
+      "summary": "Defines objectionable matter to include the presence of any struvite crystal greater than 5 mm in length in a sample unit.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "objectionable matter",
+        "struvite criterion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "States a lot meets the standard when (i) total defectives per Section 8 do not exceed the acceptance number (c) of an appropriate sampling plan with AQL 6.5; (ii) sample units not meeting the form of presentation per Section 2.3 do not exceed the acceptance number (c) of such a plan; and (iii) the average net weight and average drained weight are not less than declared, provided there is no unreasonable shortage in any individual container.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance conditions",
+        "defectives acceptance",
+        "presentation acceptance",
+        "weight compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "ANNEX \"A\": SENSORY AND PHYSICAL EXAMINATION",
+      "summary": "Annex A lists sensory and physical examination procedures: complete external can inspection for container integrity or distorted ends; weight determination per Sections 7.3/7.4; product examination for discolouration, foreign and objectionable matter (noting hard bone indicates underprocessing and requires sterility evaluation); and assessment of odour, flavour and texture per CXG 31-1999.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "annex sensory examination",
+        "container integrity check",
+        "weight determination",
+        "product examination",
+        "sensory assessment"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

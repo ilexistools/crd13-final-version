@@ -1,0 +1,422 @@
+{
+  "doc_id": "68bc9835-8529-441f-8d0b-a1ad2eab3c06",
+  "title": "GUIDELINES FOR RAPID RISK ANALYSIS FOLLOWING INSTANCES OF DETECTION OF CONTAMINANTS IN FOOD WHERE THERE IS NO REGULATORY LEVEL",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR RAPID RISK ANALYSIS FOLLOWING INSTANCES OF DETECTION OF CONTAMINANTS IN FOOD WHERE THERE IS NO REGULATORY LEVEL",
+      "summary": "Title and identification of the guidance: 'Guidelines for Rapid Risk Analysis following Instances of Detection of Contaminants in Food Where There Is No Regulatory Level' (CXG 92-2019), adopted 2019.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. INTRODUCTION",
+      "summary": "Explains that detections of chemical contaminants with no regulatory level are increasing and that risk managers should apply a pragmatic, rapid risk‑based approach that can accommodate limited toxicological data, be applied within the competence of the importing country, and be executable within a restricted timeframe; the guidelines incorporate a rapid risk analysis using a cut‑off value and the Threshold of Toxicological Concern (TTC) to assess low‑level exposures and identify need for further data.",
+      "categories": [
+        "scope",
+        "risk management",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "risk response context",
+        "rapid response approach",
+        "limited data",
+        "country competence",
+        "rapid timeframe",
+        "rapid analysis method"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2. PURPOSE",
+      "summary": "Provides an approach to assist governments in rapid risk analysis of detected chemical contaminants in food where there is no regulatory level and directs users to consult multiple related Codex, WTO and guidance documents listed in the section.",
+      "categories": [
+        "scope",
+        "documentation",
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "purpose statement",
+        "related texts",
+        "reference citation",
+        "cut-off value",
+        "reference note",
+        "scope note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. SCOPE",
+      "summary": "Applies to contaminants detected in food where no regulatory level exists, meeting CXS 193-1995 definitions, that are unexpected and confined to a specific lot or consignment, excludes cases involving suspected intentional adulteration, and gives examples such as incidental processing residues or novel mitigation chemicals.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "scope criteria",
+        "scope exclusion",
+        "scope examples"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4. PRINCIPLES",
+      "summary": "Sets principles: the guidelines apply to traded food, contaminant detection information should meet official sampling and analysis requirements, exporting competent authorities can be notified, decisions and supporting data should be transparently documented, and targeted surveillance is recommended for continuing or frequent detections.",
+      "categories": [
+        "risk management",
+        "scope",
+        "official control",
+        "documentation"
+      ],
+      "subcategories": [
+        "principles heading",
+        "general principles",
+        "applicability",
+        "sampling analysis",
+        "notification procedure",
+        "risk records",
+        "targeted surveillance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "5. ROLES",
+      "summary": "States roles without prejudice to national provisions: the risk manager is typically the competent authority conducting official controls/import checks and must notify stakeholders promptly and ensure timely risk assessment, while non‑regulatory monitoring results can be considered only after confirmation by an accredited or equivalent laboratory.",
+      "categories": [
+        "risk management",
+        "other",
+        "official control"
+      ],
+      "subcategories": [
+        "roles heading",
+        "legal disclaimer",
+        "import controls",
+        "stakeholder notification",
+        "preliminary assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "6. REPORTING OF DETECTION(S)",
+      "summary": "Accredited (or equivalent) laboratories should report all detections from official monitoring/surveillance programs, ensure confirmation and QA of results, and provide detailed information to the risk manager including sampling program type, sample preparation, test method and performance, sample counts and detections, occurrence statistics if available, chemical identification and assessment of contaminant homogeneity in the lot.",
+      "categories": [
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reporting heading",
+        "laboratory reporting",
+        "data requirements",
+        "sampling program",
+        "sample preparation",
+        "test method",
+        "sample counts",
+        "occurrence statistics",
+        "analyte identification",
+        "homogeneity assessment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## 7. APPLICATION OF THE DECISION TREE FOR RAPID RISK ANALYSIS",
+      "summary": "On confirmed detection, the risk manager should apply the decision‑tree rapid risk analysis to prioritize instances for further investigation; contaminants with established HBGVs/PODs/BMDLs progress to rapid exposure assessment, while certain contaminant categories excluded by the TTC approach should not be assessed via the decision tree and require follow‑up under existing regulatory frameworks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 7.1. Contaminants with established HBGVs, PODs or BMDLs (Step 1 of the Decision Tree for Rapid Risk Analysis)",
+      "summary": "Contaminants for which established health‑based guidance values (HBGVs), toxicological points of departure (PODs) or benchmark dose levels (BMDLs) exist may proceed directly to a rapid exposure assessment (Step 9) because these values enable risk characterization.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "decision tree step",
+        "exposure assessment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 7.2. Exclusionary contaminant categories (Step 2 of the Decision Tree for Rapid Risk Analysis)",
+      "summary": "Identifies contaminant categories unsuitable for the decision tree (e.g., high‑potency carcinogens like aflatoxin‑type compounds, chemicals of unknown or unique structure, inorganics, metals/organometallics, proteins, steroids, nanomaterials, radioactive substances, organo‑silicons, and chemicals known or predicted to be persistent and bioaccumulative) and directs risk managers to follow existing regulatory frameworks for such detections.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "decision tree step",
+        "exclusion criteria",
+        "hazard categories",
+        "regulatory framework"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "7.3. Application of the cut-off value (Step 3 of the Decision Tree for Rapid Risk Analysis)",
+      "summary": "If measured contaminant levels in a food with no regulatory level exceed the cut-off of 1 µg/kg the risk manager must notify stakeholders and request all available information for rapid risk assessment; the cut-off assumes the consignment represents at most one-tenth of an adult's daily diet (exceptions for infants/sole-source nutrition require case-by-case handling and possible full assessment), and measured levels below 1 µg/kg permit a decision that no specific risk management response is required without demanding an analytical LOD of 1 µg/kg.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "decision tree step",
+        "cutoff procedure",
+        "dietary assumption",
+        "cutoff decision"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "7.4. Information sharing from the competent authorities of exporting country (Step 4 of the Decision Tree for Rapid Risk Analysis)",
+      "summary": "The risk manager should request relevant food safety information from the exporting country's competent authorities (e.g., toxicological datasets, prior occurrence, processing information, history of use) in addition to notifying stakeholders of a detection where no regulatory level exists.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "information sharing",
+        "information request"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7.5. Request for rapid risk assessment (Step 5 of the Decision Tree for Rapid Risk Analysis)",
+      "summary": "The risk manager should promptly request completion of a rapid risk assessment for the detected contaminant and provide any toxicological and occurrence data obtained from the exporting country to the risk assessor.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "rapid assessment request"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.6. Toxicological data collection (Step 6 of the Decision Tree for Rapid Risk Analysis)",
+      "summary": "The risk assessor should obtain additional toxicological data on the contaminant and chemically/structurally related compounds to inform whether to use the TTC approach or to establish an HBGV/POD/BMDL for the rapid risk assessment.",
+      "categories": [
+        "risk management",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "toxicology data collection",
+        "toxicology review"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.7. Selection of the TTC value  / Establishment of a  HBGV/POD/BMDL, exposure assessment and risk characterization (Steps 7-10 of the Decision Tree for Rapid Risk Analysis)",
+      "summary": "If sufficient toxicological data exist the assessor should determine if an ad-hoc HBGV/POD/BMDL can be established in time and use it for risk characterization; if not, select an appropriate TTC or reference value based on structural properties, perform an exposure assessment (including other foods if data permit), and record assumptions and uncertainties.",
+      "categories": [
+        "risk assessment",
+        "other"
+      ],
+      "subcategories": [
+        "threshold selection",
+        "hbgv establishment",
+        "ttc selection",
+        "exposure characterization",
+        "hbgv definition",
+        "reference note",
+        "exposure assessment"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.8. Reporting (Steps 11 and 12 of the Decision Tree for Rapid Risk Analysis)",
+      "summary": "The risk assessor must report the rapid risk assessment results, including assumptions and uncertainties, to the risk manager in a clear, consistent, standardized format within an agreed timeframe.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "reporting heading",
+        "assessment reporting"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.9. Decision by the risk manager",
+      "summary": "The risk manager should use the rapid risk assessment to decide whether a consignment is fit for consumption, unfit, or should be put on hold pending further information, communicate the decision promptly (using guidance such as CXG 89-2016 for information exchange), and implement appropriate risk management measures if dietary exposure versus an HBGV or other value indicates public health concern.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "decision heading",
+        "risk decision",
+        "consignment fit",
+        "consignment unfit",
+        "hold consignment",
+        "decision communication",
+        "mitigation measures"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "8. FURTHER RISK MANAGEMENT ACTIVITIES",
+      "summary": "Further risk management may include targeted surveillance to monitor recurrence; if detections remain below toxicological concern further surveillance or toxicological studies are unlikely, but repeated occurrences or new toxicity/exposure indications should prompt toxicological studies and/or a full risk assessment, and data sharing via WHO GEMS/Food can support international standard development.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "further activities heading",
+        "targeted surveillance",
+        "no further action",
+        "full assessment trigger",
+        "data sharing"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "9. RISK COMMUNICATION",
+      "summary": "When risk management measures are implemented for contaminants lacking regulatory levels, appropriate risk communication to consumers and stakeholders is recommended, and the risk assessor should provide a scientific opinion detailing assumptions and uncertainties.",
+      "categories": [
+        "risk management",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk communication heading",
+        "risk communication",
+        "uncertainty statement"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "DECISION TREE FOR RAPID RISK ANALYSIS",
+      "summary": "Non‑substantive heading/legend for the Decision Tree figure indicating color coding for risk manager (black) and risk assessor (blue) actions; contains an embedded image.",
+      "categories": [
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "decision tree heading",
+        "figure legend",
+        "image"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "ANNEX",
+      "summary": "Non‑substantive annex heading with no substantive regulatory content.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

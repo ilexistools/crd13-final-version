@@ -1,0 +1,808 @@
+{
+  "doc_id": "86b8ec6e-5906-46a0-ac50-65d60b8e9121",
+  "title": "STANDARD FOR CANNED FRUIT COCKTAIL CXS 78-1981 Adopted in 1981. Amended in 2017.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR CANNED FRUIT COCKTAIL CXS 78-1981 Adopted in 1981. Amended in 2017.",
+      "summary": "Document title: Standard for Canned Fruit Cocktail (CXS 78‑1981), adopted 1981 and amended in 2017.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. DESCRIPTION",
+      "summary": "Defines canned fruit cocktail as a heat‑processed mix of specified small fruits (peaches, pears, pineapple, cherries, grapes) in particular styles, packed in water or suitable liquid packing media with optional seasonings, and describes presentation forms and permitted packing media (water; water plus fruit juice; fruit juice).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1.1 Product definition",
+      "summary": "Specifies the product composition: a mixture of the listed fruits in defined styles (peeled/diced peaches and pears; sectors or diced pineapple; whole or halved cherries; seedless whole grapes), packed in water or other suitable liquid (may contain seasonings) and heat‑processed to prevent spoilage.",
+      "categories": [
+        "definition",
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "product definition",
+        "product composition",
+        "fruit kinds",
+        "fruit kind style",
+        "packing medium",
+        "heat processing"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1.2 Presentation",
+      "summary": "Describes presentation options including forms of packing (5‑fruit and 4‑fruit cocktails) and packing media choices (water; water+fruit juice; fruit juice), with or without sugars and optional ingredients.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1.2.1 Forms of packing",
+      "summary": "Specifies forms of packing as either a 5‑fruit cocktail containing all five specified fruits or a 4‑fruit cocktail in which either cherries or grapes may be omitted.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "1.2.1.1 5 Fruits - Fruit cocktail",
+      "summary": "Defines the '5 Fruits' fruit cocktail as a mixture containing the five specified fruits in the styles described in the standard.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit cocktail class"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "1.2.1.2 4 Fruits - Fruit cocktail",
+      "summary": "Defines the '4 Fruits' fruit cocktail as a mixture of four of the specified fruits, permitting omission of either cherries or grapes.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "fruit cocktail class",
+        "omitted fruits"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "1.2.2 Forms of packing media",
+      "summary": "Permits packing media of water, water plus one or more specified fruit juices (strained/filtered), or fruit juice alone, with or without sugars/optional ingredients, and notes the standard supersedes the earlier CAC/RS 78‑1976.",
+      "categories": [
+        "presentation",
+        "other"
+      ],
+      "subcategories": [
+        "packing media",
+        "water medium",
+        "water fruit juice",
+        "footnote",
+        "fruit juice medium"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality requirements: permissible ingredients (fruit, water, fruit juice, listed sugars, spices, mint), mandatory fruit proportion ranges and lot acceptance criteria (sample averages and AQL 6.5), packing‑media Brix classifications with minimum °Brix thresholds (light ≥14, heavy ≥18, extra heavy ≥22) and container minimum rules, size/shape specifications for diced fruits and pineapple sectors, and sensory and defect limits with sampling‑based lot acceptance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1 Composition",
+      "summary": "Lists composition elements: basic ingredients are the defined fruit, water, and fruit juice, and permitted other ingredients include specified sugars, spices and mint.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.1.1 Basic ingredients",
+      "summary": "Specifies the basic ingredients required: fruit as defined in 1.1(a), water, and fruit juice.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.1.2 Other ingredients",
+      "summary": "Permits one or more listed sugars (sucrose, invert sugar syrup, dextrose, glucose syrup, dried glucose syrup), as well as spices and mint, as other ingredients.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients",
+        "sugars list"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.2 Formulation",
+      "summary": "Prescribes formulation rules: fruit proportion ranges and lot compliance based on sample averages and AQL 6.5, and classifies sweetened packing media by cut‑out strength (°Brix) with minimum thresholds (light ≥14 °Brix, heavy ≥18 °Brix, extra heavy ≥22 °Brix) and an average‑based compliance rule that no container may fall below the minimum of the next lower category.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.2.1 Fruit content",
+      "summary": "Specifies fruit content requirements and compliance: gives percentage ranges for fruits in 5‑ and 4‑fruit cocktails and states lot compliance is determined by sample averages falling within those ranges and by limiting the number of individual containers outside ranges per a sampling plan with AQL 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.2.1.1 Proportions of fruits",
+      "summary": "Specifies the required fruit proportion ranges (based on drained weight) for 5‑ and 4‑fruit cocktails: Peaches 30–50%; Pears 25–45%; Pineapple 6–16% (or 6–25% in 4‑fruit); Grapes 6–20%; Cherries 2–6% (or 2–15% in 4‑fruit).",
+      "categories": [
+        "composition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "fruit proportions",
+        "proportion table",
+        "fruit proportion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "2.2.1.2 Compliance with fruit content requirements",
+      "summary": "A lot meets the fruit proportion requirements when the average of individual fruit proportions from all containers in the sample falls within the required range for the individual fruits.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "compliance criteria",
+        "sample average"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.2.2 Packing media",
+      "summary": "Sets out classification of liquid packing media when sugars are added (defining basic and optional syrup strengths and minimum Brix for sweetened juices) and requires cut‑out strength to be determined on the sample average with no container having a Brix below the minimum of the next lower category.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2.2.2.1 Classification of packing media when sugars are added",
+      "summary": "Classifies packing media by cut‑out strength when sugars are added: basic syrups (light ≥14°Brix, heavy ≥18°Brix), optional media (slightly sweetened water 10–<14°Brix, extra heavy ≥22°Brix), and when sugars are added to juices the liquid must be ≥14°Brix with light/heavy juice categories.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "packing media classification",
+        "syrup strengths",
+        "syrup strength",
+        "optional media"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "2.2.2.2 Compliance with packing media classification",
+      "summary": "Requires cut‑out strength (Brix) of sweetened juice or syrup to be determined on the sample average, and no container may have a Brix value lower than the minimum of the next lower category where applicable.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "compliance criteria",
+        "brix determination"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "2.3 Sizes and shapes of fruits",
+      "summary": "Specifies size and shape requirements for drained fruits by product form: diced peaches/pears/pineapple (≥75% approx. cubes ≤20 mm and not pass 8 mm mesh), pineapple sectors (≥80% wedges with specified arc/thickness/radius ranges), whole grapes/cherries (≥90% normal shape, not broken or seriously damaged), and halved cherries (≥80% approximate halves).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "2.3.1 Diced peaches, pears or pineapple",
+      "summary": "For diced peaches, pears or pineapple, at least 75% of drained pieces must be approximately cube‑shaped, not over 20 mm in greatest edge dimension, and unable to pass through 8 mm square meshes.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "product form",
+        "shape requirement",
+        "size limit",
+        "mesh limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "2.3.2 Sectors of pineapple",
+      "summary": "At least 80% of drained pineapple sectors must approximate wedge shapes with an outside arc of 10–25 mm, thickness 10–15 mm, and radius (inside to outside arc) 20–40 mm.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "product form",
+        "shape requirement",
+        "shape dimension"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "2.4.5 Classification of 'defectives'",
+      "summary": "A container is considered a 'defective' if it fails one or more applicable requirements in 2.3.1–2.3.4 (except style/shape criteria for grapes and cherries which are assessed by averages) or the applicable quality requirements in 2.4.1–2.4.4 (except peel, pit material and stems which are assessed by averages).",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defective criteria",
+        "sampling requirements"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "2.4.6 Lot acceptance",
+      "summary": "A lot is acceptable when the number of 'defectives' for non‑average requirements does not exceed the acceptance number (c) of an appropriate sampling plan at an AQL of 6.5, and when requirements that are assessed on sample average are complied with.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "lot compliance",
+        "acceptance sampling",
+        "sample average"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "3. FOOD ADDITIVES",
+      "summary": "Lists permitted food additives and their maximum levels for the product: erythrosine for colouring cherries (GMP), flavourings (natural fruit essence and other flavours limited by GMP; cherry laurel oil 10 mg/kg and bitter almond oil 40 mg/kg for artificially coloured cherries), and the antioxidant L‑ascorbic acid at 500 mg/kg.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "Additives",
+      "summary": "Provides the same additives list and maximum levels: erythrosine for cherries (GMP), flavourings limited by GMP with cherry laurel oil 10 mg/kg and bitter almond oil 40 mg/kg for artificially coloured cherries, and L‑ascorbic acid 500 mg/kg as antioxidant.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "3.1 Colours",
+      "summary": "Erythrosine is permitted to colour cherries only when artificially coloured, and its use is limited by good manufacturing practice.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "colour additives",
+        "colour additive",
+        "gmp limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "3.2 Flavourings",
+      "summary": "Defines flavouring permissions and limits: natural fruit essence and other natural/synthetic flavourings limited by GMP, and specific limits of 10 mg/kg for cherry laurel oil and 40 mg/kg for bitter almond oil when used with artificially coloured cherries.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "3.2.1 Natural fruit essence",
+      "summary": "Natural fruit essence as a flavouring is permitted but its use is limited by good manufacturing practice.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "fruit essence",
+        "gmp limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "3.2.2 Natural flavours and synthetic flavourings",
+      "summary": "Natural flavours and synthetic flavourings are permitted and their use is limited by good manufacturing practice.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings",
+        "gmp limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "3.2.3 Cherry laurel oil (artificially coloured cherries only)",
+      "summary": "Cherry laurel oil is allowed only for artificially coloured cherries and is limited to 10 mg/kg in the total product.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavouring restriction",
+        "additive limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "3.2.4 Bitter almond oil (artificially coloured cherries only)",
+      "summary": "Bitter almond oil is allowed only for artificially coloured cherries and is limited to 40 mg/kg in the total product.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavouring restriction",
+        "additive limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "3.3 Antioxidant",
+      "summary": "The antioxidant L‑ascorbic acid is permitted at a maximum level of 500 mg/kg.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "antioxidant",
+        "antioxidant name",
+        "additive limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "4. CONTAMINANTS",
+      "summary": "Specifies contaminant limits of lead (Pb) at 1 mg/kg and tin (Sn) at 250 mg/kg (calculated as Sn).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "lead limit",
+        "tin limit"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "5. HYGIENE",
+      "summary": "Recommends the product be prepared and handled in accordance with the Codex General Principles of Food Hygiene and relevant codes of practice and states the product should be free from objectionable matter; when tested it must be free from microorganisms, parasites, and microbial substances in amounts that may represent a hazard to health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "5.1 It  is  recommended  that  the  product  covered  by the  provisions  of this  standard  be  prepared  and  handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), 1  and other codes of practice recommended by the Codex Alimentarius Commission which are relevant to this product.",
+      "summary": "Recommends that the product covered by this standard be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex codes of practice.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene recommendation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "5.2 To the extent possible in good manufacturing practice, the product shall be free from objectionable matter.",
+      "summary": "Requires that, to the extent possible under good manufacturing practice, the product be free from objectionable matter.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "objectionable matter"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "5.3 When tested by appropriate methods of sampling and examination, the product:",
+      "summary": "When tested by appropriate sampling and examination methods, the product must be free from microorganisms and parasites in amounts that may represent a hazard to health and must not contain microbial-origin substances (e.g., toxins) in hazardous amounts.",
+      "categories": [
+        "analysis sampling",
+        "hygiene"
+      ],
+      "subcategories": [
+        "testing requirement",
+        "microbiological safety",
+        "parasitic safety",
+        "microbial toxins"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "6. WEIGHTS AND MEASURES",
+      "summary": "Sets weights-and-measures rules for containers: minimum fill of 90% of the container's water capacity (defined at 20°C), classification of containers failing this as 'defective' and lot acceptance using a sampling plan with AQL 6.5, and a minimum drained weight requirement (see 6.1.4) with conditions for average compliance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "6.1 Fill of container",
+      "summary": "Specifies fill-of-container requirements including a minimum fill of 90% of water capacity, the designation of underfilled containers as 'defective', lot acceptance by sampling with AQL 6.5, and a minimum drained-weight requirement with provisions for determining compliance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "6.1.1 Minimum fill",
+      "summary": "Requires that the sealed container be filled with fruit and packing medium occupying at least 90% of the container's water capacity, where water capacity is the volume of distilled water at 20°C the sealed container will hold.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "6.1.2 Classification of 'defective'",
+      "summary": "States that any container failing to meet the 90% minimum fill requirement is classified as a 'defective'.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defective container"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "6.1.3 Lot acceptance",
+      "summary": "Provides that a lot meets the minimum-fill requirement when the number of 'defectives' does not exceed the acceptance number (c) of an appropriate sampling plan using an AQL of 6.5, referencing Codex methods of analysis and sampling.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "6.1.4 Minimum drained weight",
+      "summary": "Requires drained weight to be at least 60% of the weight of distilled water at 20°C that the sealed container holds, and permits compliance to be based on the average drained weight of examined containers provided there is no unreasonable shortage in individual containers.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum drained weight",
+        "average drained weight"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "7. LABELLING",
+      "summary": "Sets specific labelling rules supplementary to the General Standard: the product name must be 'Fruit Cocktail' and include applicable fruit-count descriptors and packing-medium declarations near the name, and it prescribes detailed packing-medium and sugar-descriptor options, requirements to declare characteristic flavouring, and ingredient-list provisions (including permitted shorthand for artificially coloured cherries and mandatory declaration of added L-ascorbic acid as an antioxidant).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "7.1 The name of the food",
+      "summary": "Requires the product name 'Fruit Cocktail' and details numerous name-proximity declarations depending on fruit count, packing-medium composition, sugar addition and flavouring, with exceptions where a true pictorial representation plus a complete ingredient list suffices under national law.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "7.1.1 The name of the product shall be 'Fruit Cocktail'.",
+      "summary": "Mandates that the name of the product shall be 'Fruit Cocktail'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "7.1.2 The following, as applicable, shall be included as part of the name or in close proximity to the name, unless in the country where the product is sold a true pictorial representation of the product accompanied by a complete list of the fruits in the statement of ingredients would suffice in accordance with its national legislation:",
+      "summary": "Requires inclusion, as part of or close to the product name, of a fruit-count descriptor such as '5 Fruits'/'With Five Fruits' or '4 Fruits'/'With Four Fruits', unless a true pictorial representation with a complete ingredient list is acceptable under national legislation.",
+      "categories": [
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "name qualifiers",
+        "fragment"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "7.1.3 When the packing medium is composed of water, or water and one or more fruit juices in which water predominates, the packing medium shall be declared as part of the name or in close proximity thereto as:",
+      "summary": "Requires that when the packing medium is water or water with predominant fruit juice, the packing medium be declared near the name as 'In water' or 'Packed in water'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium declaration"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "7.1 When the packing medium is composed solely of a single fruit juice, the packing medium shall be declared as part of the name or in close proximity thereto as:",
+      "summary": "Requires that when the packing medium consists solely of a single fruit juice the packing medium be declared near the name as 'In (name of fruit) juice'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium declaration"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies that methods of analysis and sampling for checking compliance shall be those in the Recommended Methods of Analysis and Sampling (CXS 234-999) relevant to this standard.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "doc_id": "16195a79-7c8e-4f71-b33a-e6939b9c6847",
+  "title": "GUIDELINES FOR USE OF NUTRITION AND HEALTH CLAIMS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR USE OF NUTRITION AND HEALTH CLAIMS",
+      "summary": "High‑level guideline: nutrition claims must be consistent with and support national nutrition policy, and health claims must be consistent with national health (including nutrition) policy, be supported by sound scientific evidence, provide truthful non‑misleading information with consumer education, and competent authorities should monitor claim impacts; claims of the type described in section 3.4 of the General Guidelines on Claims are prohibited.",
+      "categories": [
+        "scope",
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code",
+        "policy alignment",
+        "claim substantiation"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Scope: these guidelines cover use of nutrition and health claims in food labelling and, where required, advertising; they apply to all foods unless specific Codex provisions apply, supplement the General Guidelines on Claims, and generally prohibit such claims for infants and young children except where specifically provided.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "reference relation",
+        "restricted applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DEFINITIONS",
+      "summary": "Provides definitions: 'nutrition claim' and exclusions, subtypes (nutrient content, comparative, non‑addition), 'health claim' and its subcategories (nutrient function, other function, reduction of disease risk), plus examples and definition of advertising.",
+      "categories": [
+        "definition",
+        "risk management"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "nutrition claim",
+        "ingredient mention",
+        "mandatory nutrition label",
+        "mandatory declaration",
+        "nutrient content claim",
+        "comparative claim",
+        "comparison examples",
+        "non-addition claim",
+        "health claim",
+        "advertising definition",
+        "nutrient function claim",
+        "examples heading",
+        "function claim example",
+        "other function claim",
+        "disease risk claim",
+        "risk reduction presentation",
+        "risk reduction example"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "6. COMPARATIVE CLAIMS",
+      "summary": "Comparative claims are permitted when comparing different versions of the same or similar foods with clear identification and a statement of the amount of difference placed near the claim; required thresholds include at least a 25% relative difference (and a minimum absolute difference equivalent to 'low' or 'source') for energy/macronutrients/sodium, at least 10% of the NRV for other micronutrients, trans fats must not increase when saturated fat is reduced, and 'light' claims must meet these criteria and specify the characteristics that make the food 'light'.",
+      "categories": [
+        "classification",
+        "definition",
+        "labelling"
+      ],
+      "subcategories": [
+        "comparative claims heading",
+        "comparative claim conditions",
+        "comparison criteria",
+        "comparison declaration",
+        "comparison details",
+        "comparison identification",
+        "comparison threshold",
+        "comparative claim",
+        "fat comparison claim",
+        "light claim"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 7. NON-ADDITION CLAIMS",
+      "summary": "Non‑addition claims are permitted only under specified conditions: for sugars no sugars (or sugar‑containing ingredients or substitutes) may be added or released by processing, and for sodium salts no added sodium salts or sodium‑containing ingredients/substitutes are permitted, subject to limited technological exceptions by competent authorities; additional conditions or disclaimers may be required to aid consumer understanding.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## 7.1 Non-Addition of Sugars",
+      "summary": "Non‑addition of sugars claims may be made only if no sugars have been added, the food contains no ingredients that contain sugars, it contains no ingredients that substitute for added sugars, and the sugar content has not been increased by other means (e.g., enzymatic hydrolysis).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "sugar claim heading",
+        "no added sugar"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## 7.2 Non-Addition of Sodium Salts",
+      "summary": "Non‑addition of sodium salts claims (including 'no added salt') may be made only if no sodium salts have been added, no ingredients containing added sodium salts are used, and no ingredients that substitute for added salt are present; competent authorities may permit certain sodium salts for technological purposes if final food still meets 'low in sodium' conditions.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "salt claim heading",
+        "no added salt"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "7.3 Additional Conditions",
+      "summary": "Additional conditions and/or disclaimer statements may be used with non‑addition claims to improve consumer understanding, and such disclaimers must appear in close proximity, on the same side and with the same prominence as the claim.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "additional conditions",
+        "disclaimer statement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "8. HEALTH CLAIMS",
+      "summary": "Health claims are permitted only if they meet conditions including robust current scientific substantiation and a two‑part claim (physiological/diet‑health information plus product composition), acceptance by competent authorities, benefit from reasonable consumption, NRV‑based 'source/high' or 'low/reduced/free' requirements where applicable, a regulatory framework for eligibility, validated methods to quantify constituents, and specified labelling elements (quantity of constituent, target group, use instructions, vulnerable group advice, maximum safe intake, diet context, and a statement on maintaining a healthy diet).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "8.1 Health claims should be permitted provided that all of the following conditions are met",
+      "summary": "Details the requirements for health claims: they must be backed by current relevant scientific evidence, comprise two parts (physiological/diet‑health role and product composition), be acceptable to competent authorities, be achievable with reasonable consumption, meet NRV‑based content criteria, be limited to NRV nutrients for nutrient function claims, be subject to a regulatory framework and validated quantification methods, and carry specific label information (quantity, target group, usage, vulnerable group advice, maximum safe intake, dietary context, and healthy diet statement).",
+      "categories": [
+        "labelling",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "health claim conditions",
+        "scientific substantiation",
+        "health claim components",
+        "competent authority approval",
+        "reasonable quantity",
+        "health claim eligibility",
+        "source or high",
+        "low reduced free",
+        "nutrient function claim",
+        "health claim restrictions",
+        "validated method",
+        "health claim label info",
+        "claim nutrient quantity",
+        "target group",
+        "use instructions",
+        "vulnerable group advice",
+        "maximum safe intake",
+        "diet context",
+        "healthy diet statement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "9. CLAIMS RELATED TO DIETARY GUIDELINES OR HEALTHY DIETS",
+      "summary": "Claims related to dietary guidelines or 'healthy diets' are permitted only if they reflect officially recognized dietary guidelines, may have flexible wording if faithful to those guidelines, must not be based on selective aspects of a food, should meet minimum criteria for other major nutrients, must not imply a single food will impart health, and should carry a statement relating the food to the dietary pattern described in the guidelines.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "dietary guidelines heading",
+        "table separator",
+        "dietary guideline claims",
+        "diet pattern claim",
+        "claim wording",
+        "healthy diet claim",
+        "healthy diet criteria",
+        "health claim restriction",
+        "healthy diet statement"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "1. SCOPE",
+      "summary": "Scope of these Recommendations: to assist competent national authorities in evaluating health claims by focusing on criteria for substantiation and principles for systematic review of scientific evidence, with consideration of safety but not serving as a full safety or quality evaluation of foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope limitation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## 2. DEFINITIONS",
+      "summary": "Annex definitions: 'food or food constituent' includes energy, nutrients, related substances, ingredients, whole foods or food categories on which a health claim is based, and 'health effect' refers to a health outcome as defined in the Guidelines.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "introductory phrase",
+        "food constituent",
+        "health effect"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "## 3.1. Process for the substantiation of health claims",
+      "summary": "Describes a systematic review process for substantiating health claims by competent national authorities, requiring identification of the proposed food–health relationship, valid measurements, categorization of all relevant data, assessment of individual study quality, and evaluation/weighting of the totality of evidence to determine if and under what circumstances the claim is substantiated.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "substantiation process",
+        "evidence review process",
+        "relationship identification",
+        "measurement identification",
+        "data categorization",
+        "study assessment",
+        "evidence weighing"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "## 3.2. Criteria for the substantiation of health claims",
+      "summary": "Sets criteria for substantiating three types of health claims, prioritizing evidence from well-designed human intervention studies while allowing observational, animal, ex vivo or in vitro data only as supportive; requires review of the totality of evidence (including unpublished data) and consistent human associations, and permits alternate substantiation routes (e.g., nutrient function claims supported by authoritative expert statements or some food-category claims substantiated by consistent epidemiological evidence and validated authoritative statements).",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "criteria heading",
+        "criteria applicability",
+        "evidence standards",
+        "totality of evidence",
+        "consistent association",
+        "alternate substantiation",
+        "authoritative statements",
+        "observational evidence",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "## ANNEX: RECOMMENDATIONS ON THE SCIENTIFIC SUBSTANTIATION OF HEALTH CLAIMS 1",
+      "summary": "Annex provides recommendations on scientific substantiation of health claims, advising that competent authoritative statements may be used and giving guidance on evaluating relevant studies, validated biomarkers, food/constituent characterization and bioavailability, methodological quality, exclusion criteria, weighing the totality of evidence (benefit, causality, dose‑response, feasibility, representativeness), consideration of safety/exposure, and the need for re‑evaluation by competent authorities when new evidence arises.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.3. Consideration of the evidence",
+      "summary": "Defines relevant evidence for health claims as studies addressing the food/constituent–health effect relationship (or validated biomarkers), requires adequate characterization of the food/constituent and data on availability/absorption where applicable, mandates assessment of methodological quality (study design and appropriate statistical analysis), exclusion of studies with major flaws or inappropriate measurements, and weighing the totality of evidence to assess benefit, causality (strength, consistency, specificity, dose–response, biological plausibility), feasibility of required intake, and representativeness for the target population so competent authorities can decide substantiation.",
+      "categories": [
+        "analysis sampling",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "evidence consideration",
+        "relevant studies",
+        "food characterization",
+        "bioavailability data",
+        "methodological quality",
+        "study design",
+        "statistical analysis",
+        "study exclusion",
+        "evidence evaluation",
+        "beneficial effect",
+        "causality criteria",
+        "diet feasibility",
+        "evidence representativeness",
+        "claim substantiation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4. SPECIFIC SAFETY CONCERNS",
+      "summary": "Specifies safety considerations: amounts of a food or constituent asserted in claims must not expose consumers to health risks and interactions among constituents must be considered, expected consumption should not exceed relevant upper intake levels, and exposure assessment should evaluate usual total daily intakes (including vulnerable groups), cumulative intake from all sources, and potential nutritional imbalance from dietary changes prompted by consumer information.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "safety concerns heading",
+        "consumer health risk",
+        "upper intake level",
+        "exposure assessment"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5. RE-EVALUATION",
+      "summary": "Requires periodic or event‑driven re‑evaluation of health claims by competent national authorities, either on a scheduled basis or when significant new evidence emerges that could alter prior conclusions about the food/constituent–health relationship.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "reevaluation heading",
+        "claim reevaluation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    }
+  ]
+}

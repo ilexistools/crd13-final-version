@@ -1,0 +1,398 @@
+{
+  "doc_id": "d32d0c3d-a106-47ba-b5b5-a526cbffaed3",
+  "title": "GUIDELINES ON THE MANAGEMENT OF BIOLOGICAL FOODBORNE OUTBREAKS CXG 96-2022",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON THE MANAGEMENT OF BIOLOGICAL FOODBORNE OUTBREAKS CXG 96-2022",
+      "summary": "Document title only: heading for the 'Guidelines on the Management of Biological Foodborne Outbreaks (CXG 96-2022)' with no substantive content in this section.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 INTRODUCTION",
+      "summary": "Introduction describing biological and chemical foodborne illnesses, their health and socioeconomic impacts, common contamination routes across the food chain, the need for multiagency preparedness networks and transparent information exchange (including confidentiality considerations), the value of molecular methods (e.g., PFGE, WGS) for detecting and linking cases, and criteria that competent authorities may use to categorize outbreaks (incident, emergency, crisis).",
+      "categories": [
+        "scope",
+        "hygiene",
+        "risk management",
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background information",
+        "health impacts",
+        "economic impacts",
+        "hygiene guidance",
+        "preparedness networks",
+        "confidentiality procedures",
+        "risk framework",
+        "molecular methods",
+        "outbreak categorization",
+        "categorization criteria",
+        "severity criteria",
+        "vulnerable groups",
+        "pathogenicity criteria",
+        "source history",
+        "distribution criteria",
+        "consumer perception",
+        "recall communication",
+        "exposure criteria",
+        "intentional outbreak",
+        "hazard knowledge",
+        "response capacity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "5. FOODBORNE OUTBREAKS - PREPAREDNESS SYSTEM",
+      "summary": "Overview: advises establishing and maintaining preparedness structures that enable cooperation between competent authorities (local to national) and describes that these structures should include official networks, good practices and standard tools to manage foodborne outbreaks effectively.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "5.1 Creation of official networks between human health sector and food and veterinary sectors at local and national levels",
+      "summary": "Establish defined local networks of contact points (food control, veterinary, clinical labs, health authorities, etc.) with a designated local contact to coordinate information exchange and stakeholder engagement, and a recognized national network led by the authority legally responsible for public health to ensure communication, coordination, surveillance assessment, support for local networks, international liaison and the use of pre-developed templates and tools (e.g., questionnaires, reporting templates, rapid risk assessment requests); communication channels, points of contact and information-sharing limitations must be documented and tested.",
+      "categories": [
+        "official control",
+        "risk management",
+        "documentation",
+        "analysis sampling",
+        "risk assessment",
+        "other"
+      ],
+      "subcategories": [
+        "network creation heading",
+        "network composition",
+        "local network",
+        "contact point tasks",
+        "information exchange",
+        "national network",
+        "communication channels",
+        "coordination efforts",
+        "local support",
+        "surveillance assessment",
+        "risk decision basis",
+        "international communication",
+        "network structure",
+        "participant readiness",
+        "standard tools",
+        "epidemiology template",
+        "questionnaire tools",
+        "questionnaire templates",
+        "outbreak reporting",
+        "risk request template",
+        "tool development",
+        "communication procedures",
+        "information compilation",
+        "information distribution",
+        "contact point designation",
+        "formal channels",
+        "continuity measures",
+        "expert consensus"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "5.2 International alert networks and exchange of information with them",
+      "summary": "The national network should maintain permanent links with international and regional alert networks (e.g., INFOSAN) and involve national emergency contact points to gather, compile and share coordinated information, with sharing encouraged even when an outbreak does not directly concern that country.",
+      "categories": [
+        "documentation",
+        "scope"
+      ],
+      "subcategories": [
+        "international networks heading",
+        "outbreak scope",
+        "international contact points",
+        "cross-border sharing"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "5.3 Surveillance and monitoring systems (e.g. human, animal, feed, food, establishment environment) and their use in foodborne outbreak situations",
+      "summary": "Surveillance and monitoring systems (human, animal, feed, food, environment) are essential for outbreak detection and source identification and require routine centralization, timely analysis (e.g., weekly), access to non-notified case data, harmonized laboratory methods and tools for data sharing and presentation to integrate with epidemiological investigations and prioritize tracing efforts.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "surveillance heading",
+        "outbreak detection",
+        "human surveillance",
+        "illness threshold",
+        "early warning",
+        "data analysis",
+        "integrated surveillance",
+        "source prioritization",
+        "data exchange",
+        "new signals",
+        "laboratory harmonization",
+        "data sharing tools",
+        "data presentation",
+        "trace back data"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5.4 Analytical methods",
+      "summary": "Validated analytical methods, including traditional culture and molecular typing (PFGE, MLVA, WGS), should be used for isolation, identification and characterization of causative agents; when using WGS, competent laboratory capability, bioinformatics expertise, secure storage, appropriate sequence and metadata sharing (with attention to legal/confidentiality requirements) and consideration of regional collaboration or hubs are required.",
+      "categories": [
+        "analysis sampling",
+        "equipment",
+        "documentation"
+      ],
+      "subcategories": [
+        "analytical methods heading",
+        "validated methods",
+        "molecular typing",
+        "wgs considerations",
+        "laboratory capability",
+        "data storage",
+        "sequence sharing",
+        "data confidentiality",
+        "sequence repositories",
+        "laboratory collaboration"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5.5 Rapid risk assessment - structures for assessing risk",
+      "summary": "Rapid risk assessment structures should be pre-established and include rosters of risk assessors with defined competencies and instructions/templates, mechanisms for immediate information flow from outbreak investigations to assessors, up-to-date consumption data, and procedures for rapid contact with food business operators to enable timely, if possibly lower-certainty, risk assessments.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "risk assessment heading",
+        "outbreak assessment",
+        "rapid assessment",
+        "preparedness framework",
+        "expert roster",
+        "assessment instructions",
+        "information flow",
+        "consumption data",
+        "contact procedures"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5.6 Risk communication system/strategy",
+      "summary": "Risk communication must objectively convey known information and uncertainties, involve exchange with all stakeholders (including industry experts), establish public communication strategies and spokespersons at appropriate jurisdictional levels, pre-draft and culturally test messages, form alliances to coordinate messaging, and regularly test the communication strategy.",
+      "categories": [
+        "risk communication"
+      ],
+      "subcategories": [
+        "communication strategy",
+        "outbreak communication",
+        "stakeholder exchange",
+        "preparedness objectives",
+        "public messaging",
+        "local communication",
+        "coordinated message",
+        "message drafting",
+        "strategy testing"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "6. FOODBORNE OUTBREAK - MANAGEMENT",
+      "summary": "Management principle: when an outbreak occurs use established integrated networks and procedures to coordinate multidisciplinary investigation and control (clinical, epidemiology, laboratory, food safety, risk communication), combine epidemiological, tracing and laboratory evidence to identify sources, and document all actions for post-outbreak evaluation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6.1 Identifying and investigating a foodborne outbreak - human health",
+      "summary": "Outbreak identification and investigation guidance: outbreaks may be detected via surveillance, product–patient matches, or complaints; public health authorities should define and iteratively update case definitions, collect structured case interviews with detailed food histories and personal information using standardized questionnaires for hypothesis generation, and conduct analytic epidemiological studies (cohort or case–control) as needed without delaying other investigations.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "outbreak investigation heading",
+        "outbreak identification",
+        "surveillance detection",
+        "product match",
+        "complaint detection",
+        "descriptive epidemiology",
+        "case definition",
+        "exposure interview",
+        "case information",
+        "questionnaire use",
+        "hypothesis generation",
+        "analytic study"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "6.2 Substantiate hypothesis and/or handling of a foodborne outbreak - food safety (from primary production to consumption)",
+      "summary": "Food-safety investigations should follow epidemiological hypotheses with on-site inspections, environmental and food sampling (with detailed product and sampling metadata), traceback and trace-forward procedures to identify affected lots, suppliers and distribution paths, and—when evidence identifies implicated lots—implement risk management actions including rapid recalls by food business operators monitored by competent authorities, separation of affected lots to prevent cross-contamination, and consumer/business notifications and handling advice.",
+      "categories": [
+        "analysis sampling",
+        "risk management",
+        "risk communication"
+      ],
+      "subcategories": [
+        "food safety heading",
+        "on-site investigation",
+        "environmental sampling",
+        "supporting evidence",
+        "traceback tracing",
+        "lot identification",
+        "root cause data",
+        "supplier list",
+        "distribution records",
+        "trace data handling",
+        "recall actions",
+        "lot separation",
+        "recall notification"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "6.3 Combining epidemiological and laboratory data",
+      "summary": "Combine epidemiological and laboratory data by sharing surveillance results across public health, food control and veterinary sectors; molecular methods may be needed beyond serotyping, and the degree of relatedness among strains should be defined within the case definition (noting WGS lacks universal SNP/allele cut-offs), while recognizing laboratory confirmation can be limited by sampling, low contamination levels, lack of validated methods or absence of retained product, so analytical findings must be supported by epidemiology and traceback.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "epidemiology lab heading",
+        "data sharing",
+        "molecular comparison",
+        "strain relation",
+        "wgs interpretation",
+        "databases integrity",
+        "laboratory confirmation",
+        "sampling limitations",
+        "method validation",
+        "sample availability",
+        "epidemiological support",
+        "molecular databases"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6.4 Rapid risk assessment and outbreak analysis - during a foodborne outbreak",
+      "summary": "During an outbreak, rapid risk assessments should be used and updated to answer specific questions and guide risk management, with continuous communication between assessors and managers to identify information gaps; outbreak analysis compiles historical prevalence, epidemiological and lab results, tracing, hotspot and consumer-behaviour analyses, and facility condition to forecast case expectations and inform communications and recommendations.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling",
+        "risk management",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "rapid assessment heading",
+        "rapid assessment",
+        "assessment update",
+        "information availability",
+        "targeted questions",
+        "information gaps",
+        "outbreak analysis",
+        "historical prevalence",
+        "case investigation results",
+        "investigation results",
+        "hazard characterization",
+        "hot spot analysis",
+        "consumer behaviour",
+        "risk recommendations",
+        "facility condition",
+        "assessment support"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6.5 Risk communication",
+      "summary": "Risk communication guidance: provide stakeholders and consumers with timely information to make informed decisions, and initiate public communication early in an outbreak (even if the source is unknown) including updates on investigations and general food hygiene advice.",
+      "categories": [
+        "risk communication"
+      ],
+      "subcategories": [
+        "communication heading",
+        "early outbreak communication"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

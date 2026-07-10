@@ -1,0 +1,529 @@
+{
+  "doc_id": "932076c5-ac1d-42d2-a355-970126d44235",
+  "title": "CODE OF HYGIENIC PRACTICE FOR THE TRANSPORT OF FOOD IN BULK AND SEMI-PACKED FOOD",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF HYGIENIC PRACTICE FOR THE TRANSPORT OF FOOD IN BULK AND SEMI-PACKED FOOD",
+      "summary": "Document heading and table of contents for the Codex Code of Hygienic Practice for the Transport of Food in Bulk and Semi-Packed Food (CXC 47-2001); this entry is essentially a contents listing rather than substantive provisions.",
+      "categories": [
+        "scope",
+        "other",
+        "definition",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code",
+        "table contents",
+        "table divider",
+        "contents entry",
+        "definitions heading",
+        "advisory note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Introduction: explains that food can become contaminated or unsuitable during transport so adequate transport systems and controls are needed, responsibility for food safety during transport is shared between shipper/manufacturer, transporter and receiver, and the code is formatted to be used with the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969, Rev.3) while not overriding existing commodity-specific Codex codes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "transport hygiene",
+        "responsibility sharing",
+        "code reference",
+        "exclusion note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION I OBJECTIVES",
+      "summary": "Objectives: the code identifies additional hygiene requirements for transport of bulk and semi-packed foods beyond the General Principles, indicates how to implement those controls, and provides ways to verify that the controls have been applied.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives lead",
+        "objective statement",
+        "implementation guidance",
+        "verification guidance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION II SCOPE, USE AND DEFINITIONS",
+      "summary": "Scope, use and definitions: covers condition of food transportation units and loading, transport, in-transit storage and unloading of bulk, semi-packed foods and fresh produce from shipment to receipt, excludes pre-loading farm/fishing operations and in-plant conveyance after unloading, and defines 'food transportation unit', 'bulk' and 'semi-packed'.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 SCOPE AND USE",
+      "summary": "Scope and use (detail): applies to transport from packaging/processing facilities to distribution/retail or between facilities and from collection points to processors/markets, excludes on-farm and certain pre-loading movements, and is to be applied in addition to the General Principles including Section 8 on transportation.",
+      "categories": [
+        "scope",
+        "transport"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "examples",
+        "transport scope",
+        "applicability exclusion",
+        "related provisions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 DEFINITIONS",
+      "summary": "Definitions: defines 'food transportation unit' to include vehicles and contact receptacles (containers, tanks, railcars, ships, etc.), 'bulk' as unpacked food in direct contact with transport surfaces/atmosphere, and 'semi-packed' as foods that may contact the transport unit or atmosphere (e.g., crates, bags).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "transport unit",
+        "bulk food",
+        "semi-packed food"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## SECTION III PRIMARY PRODUCTION",
+      "summary": "Primary production: states that all relevant subsections of the General Principles of Food Hygiene (CAC/RCP 1-1969, Rev.3) and applicable Codex hygienic practice codes shall be applied to primary production.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "primary production",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## SECTION IV ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "Establishment design and facilities: requires that all relevant provisions of the General Principles of Food Hygiene and applicable Codex codes be applied to the design and facilities of establishments involved in transport.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "design facilities",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## SECTION V CONTROL OF OPERATION",
+      "summary": "Control of operation: requires application of the General Principles and includes hazard identification (useful HACCP-style questions), maintenance of records of prior cargoes and cleaning (three most recent at unit; complete records for six months), consideration of hazard sources related to the transport unit, loading/unloading and transport itself, documentation of controls (e.g., temperature logs, cleaning certificates) for verification, and where appropriate designation of dedicated transport for single-food use.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 5.1 CONTROL OF FOOD HAZARDS",
+      "summary": "Control of food hazards (section 5.1): reiterates that General Principles apply, advises using HACCP and specific diagnostic questions to identify hazards during transport, requires maintenance of records of the three most recent prior cargoes and cleaning (and six-month full records), and notes sources of hazards related to the transport unit, loading/unloading and transport conditions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 5.1.1 IDENTIFICATION OF POTENTIAL HAZARDS",
+      "summary": "Identification of potential hazards (5.1.1): recommends using the listed Table 1 questions and the HACCP approach to identify and manage hazards during transport, asking whether the food is ready-to-eat and whether hazards may be introduced or increase during loading, in-transit storage/transport, or unloading.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hazard identification",
+        "hazard evaluation",
+        "table heading",
+        "hazard questions",
+        "table separator"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5.1.2 RECORDS OF PRIOR CARGOES AND PRIOR CLEANING",
+      "summary": "Transporter must maintain readily available records of the three most recent prior cargoes and any cleaning/disinfection methods used (including volumes transported) and provide this on request to shippers, competent authorities, or receivers; a complete record of previous cargoes must be retained for six months.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "records",
+        "cargo records"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.1.3 SOURCES OF HAZARDS",
+      "summary": "Non‑substantive heading indicating that hazards should be considered from several sources (examples provided in sub‑sections: transportation unit, loading/unloading, and transport conditions).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.1.3.1 Hazards related to the food transportation unit",
+      "summary": "Hazards related to the food transportation unit include unsuitable construction materials or coatings, lack of seals/locks, residues from previous cargoes or cleaning agents, and it advises considering dedicated units for single‑commodity use where appropriate.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "transport hazards",
+        "dedicated transport"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.1.3.2 Hazards related to loading and unloading",
+      "summary": "Loading and unloading can cause temperature changes and introduce microbial, dust, moisture or other physical contamination to the food.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "loading hazards"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5.1.3.3 Hazards related to transport",
+      "summary": "Transport‑related hazards include leakage of heating/cooling fluids and failure of temperature control.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "transport hazards"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.2 KEY ASPECTS OF HYGIENE CONTROL SYSTEMS",
+      "summary": "Non‑substantive cross‑reference requiring application of the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) and other relevant Codex hygienic codes for hygiene control systems.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene control systems",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.3 INCOMING MATERIAL  REQUIREMENTS",
+      "summary": "Non‑substantive cross‑reference requiring application of the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) to incoming material requirements.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "incoming materials",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.4 PACKAGING",
+      "summary": "Non‑substantive cross‑reference requiring application of the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) to packaging.",
+      "categories": [
+        "packaging",
+        "hygiene"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.5 WATER",
+      "summary": "Non‑substantive cross‑reference requiring application of the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) to water used in food transport and related activities.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "water heading",
+        "general hygiene"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.6 MANAGEMENT AND SUPERVISION",
+      "summary": "Non‑substantive cross‑reference requiring application of the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) to management and supervision of hygiene systems.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "management supervision",
+        "general hygiene"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.7 DOCUMENTATION  AND  RECORDS",
+      "summary": "Shippers or receivers should define and communicate in writing controls to ensure food safety during transport and maintain documentation (e.g., transport unit number, previous loads, temperature/time records, cleaning certificates) for validation/verification and make it available to competent authorities; some transport units may be single‑use.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "records heading",
+        "transport records"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.8 RECALL PROCEDURES",
+      "summary": "Non‑substantive cross‑reference requiring application of the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) to recall procedures.",
+      "categories": [
+        "inspection certification",
+        "hygiene"
+      ],
+      "subcategories": [
+        "recall procedures",
+        "general hygiene"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.9 DEDICATED  TRANSPORT",
+      "summary": "Containers, conveyances and especially bulk receptacles should be designated, marked and used only for food transport; bulk liquids, granules and powders must be transported in food‑reserved receptacles unless HACCP demonstrates that non‑dedicated transport provides equivalent food safety.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "dedicated transport",
+        "dedicated use"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "SECTION VI ESTABLISHMENT: MAINTENANCE AND SANITATION",
+      "summary": "Apply Codex General Principles; food transportation units, accessories and connections must be cleaned, disinfected where appropriate and maintained with commodity‑specific cleaning procedures recorded, and disinfection should normally be followed by rinsing unless scientific manufacturer instructions indicate rinsing is unnecessary.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitation heading",
+        "general hygiene",
+        "cleaning sanitation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "SECTION VII ESTABLISHMENT: PERSONAL HYGIENE",
+      "summary": "Non‑substantive cross‑reference requiring application of the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) to personal hygiene in establishments.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal hygiene heading",
+        "general hygiene"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "SECTION VIII TRANSPORTATION",
+      "summary": "Non‑substantive heading instructing that the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) and related Codex codes apply to transportation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.4 FOOD  TRANSPORTATION  UNITS",
+      "summary": "Food transportation units must be designed and constructed for cleanability and to prevent cross‑contamination, facilitate inspection, cleaning/disinfection and temperature control; heating/cooling media must be selected and used safely (competent authorities may request evidence), interior surfaces must be suitable for food contact (e.g., stainless steel or food‑grade coatings) and free of hard‑to‑clean areas, and provisions are required to prevent pest entry, provide insulation/locking where needed, supply cleaning/disinfection facilities, treat auxiliary equipment similarly, and store hoses/pipes to maintain sanitary conditions.",
+      "categories": [
+        "equipment",
+        "storage"
+      ],
+      "subcategories": [
+        "transport units",
+        "design requirements",
+        "inspection cleaning",
+        "heating media",
+        "food contact surfaces",
+        "design protection",
+        "cleaning facilities",
+        "auxiliary equipment",
+        "equipment storage"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "SECTION IX PRODUCTION INFORMATION AND CONSUMER AWARENESS",
+      "summary": "Non‑substantive cross‑reference requiring application of the Codex General Principles of Food Hygiene (CAC/RCP 1‑1969 Rev.3 (1997)) to production information and consumer awareness.",
+      "categories": [
+        "labelling",
+        "hygiene"
+      ],
+      "subcategories": [
+        "consumer awareness heading",
+        "general hygiene"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "SECTION X TRAINING",
+      "summary": "Apply Codex General Principles; personnel responsible for transport must be aware of the nature of foods handled, any extra precautions required, and be trained in food transportation unit inspection procedures for food safety.",
+      "categories": [
+        "training",
+        "hygiene"
+      ],
+      "subcategories": [
+        "training heading",
+        "general hygiene",
+        "transport training"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

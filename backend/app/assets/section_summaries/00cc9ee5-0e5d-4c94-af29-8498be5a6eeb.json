@@ -1,0 +1,491 @@
+{
+  "doc_id": "00cc9ee5-0e5d-4c94-af29-8498be5a6eeb",
+  "title": "STANDARD FOR QUINOA CXS 333-2019 Adopted in 2019. Amended in 2020.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR QUINOA CXS 333-2019 Adopted in 2019. Amended in 2020.",
+      "summary": "Document title with adoption and amendment dates (Standard for Quinoa CXS 333-2019; adopted 2019, amended 2020) and not a substantive regulatory provision.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Applies to processed quinoa (per Section 2.2) suitable for human consumption, packaged or in bulk, and explicitly excludes quinoa for propagation (seed) and derived products such as flour or flakes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines 'quinoa' as the grain from Chenopodium quinoa Willd. and 'processed quinoa' as quinoa grain that has been cleaned, had the saponin-containing pericarp removed, and been sorted by color and size.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Quinoa",
+      "summary": "Defines quinoa as the grain obtained from the plant species Chenopodium quinoa Willd.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Processed quinoa",
+      "summary": "Defines processed quinoa as quinoa grain (Chenopodium quinoa Willd.) that has been cleaned, had the saponin-containing pericarp removed, and been sorted by color and size.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "processed product",
+        "processing description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors: general requirements that quinoa be safe, free of abnormal flavours/odours and living insects/mites, and that processed quinoa have characteristic color; and specific limits including maximum moisture 13.0% m/m, extraneous matter (organic and inorganic) 0.1% each, defect definitions with maximums (broken 3.0%, damaged 2.5%, germinated 0.5%, coated 0.3%, immature 0.9%), minimum protein 10.0% (dry basis), and maximum saponin 0.12%.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1 Quality factors - general",
+      "summary": "Lists general quality requirements for quinoa: it must be safe and suitable for human consumption, free from abnormal flavours and odours, free from living insects and mites, and processed quinoa should have a characteristic color (commonly white, black or red).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.1 Quinoa shall be safe and suitable for human consumption.",
+      "summary": "Requirement that quinoa be safe and suitable for human consumption.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "safety requirement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.2 Quinoa shall be free from abnormal flavours and odours.",
+      "summary": "Requirement that quinoa be free from abnormal flavours and odours.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "sensory quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.3 Quinoa shall be free from living insects and mites.",
+      "summary": "Requirement that quinoa be free from living insects and mites.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "pest freedom"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.4 Processed Quinoa color should be characteristic, where the most common are white (pearly, pale, grayish), black and red, among others.",
+      "summary": "Stipulates that processed quinoa colour should be characteristic, with the most common colours being white (pearly, pale, grayish), black and red.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "color requirement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2 Quality factors - specific",
+      "summary": "Specifies specific quality factors for quinoa, setting a maximum moisture (13.0% m/m), limits for extraneous matter (organic and inorganic each 0.1%), definitions and maximums for defective grains (broken, damaged, germinated, coated, immature), a minimum protein content (10.0% on a dry matter basis) and a maximum saponin content (0.12%).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.1 Moisture content 13.0% m/m maximum.",
+      "summary": "Sets a maximum moisture content for quinoa of 13.0% m/m and notes that lower moisture limits may be required for specific destinations depending on climate, transport duration and storage conditions.",
+      "categories": [
+        "quality",
+        "storage"
+      ],
+      "subcategories": [
+        "moisture limit",
+        "moisture guidance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.2 Extraneous matter",
+      "summary": "Defines extraneous matter for quinoa as all organic and inorganic materials other than quinoa and sets maximum limits of 0.1% for organic extraneous matter (e.g., husks, stem parts, animal-origin impurities, other seeds, leaves) and 0.1% for inorganic extraneous matter (e.g., stones).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.2.1 Organic extraneous matter includes husks, stem parts, impurities of animal origin, other seed species, and leaves.",
+      "summary": "States that extraneous matter is any material other than quinoa and specifies organic (husks, stem parts, animal-origin impurities, other seed species, leaves) and inorganic (stones) categories, each with a 0.1% maximum.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.2.1.1 Organic extraneous matter includes husks, stem parts, impurities of animal origin, other seed species, and leaves. 0.1% maximum.",
+      "summary": "Lists organic extraneous matter in quinoa (husks, stem parts, impurities of animal origin, other seed species, leaves) and limits it to a maximum of 0.1%.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "organic extraneous matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.2.1.2 Inorganic extraneous matter includes stones. 0.1% maximum.",
+      "summary": "Identifies inorganic extraneous matter in quinoa as stones and sets a maximum limit of 0.1%.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "inorganic extraneous matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2.3 Defect",
+      "summary": "Defines defect categories for quinoa—Broken, Damaged, Germinated, Coated and Immature grains—by their distinguishing characteristics (size reduction from mechanical action; alteration by physical/chemical/biological agents; radicle development; retained shell or flower parts; and lack of physiological maturity with small greenish appearance, respectively).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.2.3.1 Definition of defect",
+      "summary": "Provides definitions for quinoa defects: Broken Grains (pieces < three quarters of whole grain from mechanical action), Damaged Grains (altered in form/structure by physical, chemical or biological agents), Germinated Grains (radicle/embryo development), Coated Grains (retain perigone or part of flower), and Immature Grains (not physiologically mature, small and greenish).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "defect definition",
+        "broken grains",
+        "damaged grains",
+        "germinated grains",
+        "coated grains",
+        "immature grains"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.2.4 Defective grain",
+      "summary": "Specifies maximum allowable defective grain percentages for the product: Broken grains 3.0%, Damaged grains 2.5%, Germinated grains 0.5%, Coated grains 0.3%, and Immature grains 0.9%.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "defective grain",
+        "defect limits",
+        "table separator",
+        "broken grain limit",
+        "damaged grain limit",
+        "germinated grain limit",
+        "coated grain limit",
+        "immature grain limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.2.5 Protein content",
+      "summary": "Requires a minimum protein content of 10.0% on a dry matter basis for the product.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "protein content",
+        "content table heading",
+        "table separator",
+        "protein minimum"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.2.6 Saponin content",
+      "summary": "Limits saponin content in the product to a maximum of 0.12%.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "saponin content",
+        "content table heading",
+        "table separator",
+        "saponin maximum"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Prohibits the use of any food additives in the product.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "no additives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires the product to comply with the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticide residues.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum levels",
+        "pesticide residues",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6. HYGIENE",
+      "summary": "Recommends that the product be prepared and handled according to the General Principles of Food Hygiene (CXC1-1969) and states it should comply with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7. PACKAGING",
+      "summary": "States that quinoa shall be packaged in containers that safeguard its hygienic, nutritional, technological and organoleptic qualities, and that packaging must be safe, suitable, not transfer toxic materials/odours/flavours, and use food-grade, clean, new materials of adequate quality.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "protective packaging",
+        "packaging safety"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8. LABELLING",
+      "summary": "States the product must be labelled in accordance with the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.1 Name of the product",
+      "summary": "Labeling requirement: the product name on the label must be either 'quinoa' or 'processed quinoa' as defined in Section 2, with optional additional information (e.g., origin, quality, color) permitted.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8.2 Non-retail containers",
+      "summary": "For non-retail containers, information may appear on the container or in accompanying documents, but the product name, lot identification, and manufacturer/packer name and address must appear on the container, and lot identification and manufacturer/packer details may be replaced by an identification mark if that mark is clearly identifiable with the accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "container information"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Compliance with this Standard must be checked using the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) that are relevant to the Standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

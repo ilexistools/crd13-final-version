@@ -1,0 +1,282 @@
+{
+  "doc_id": "7d0b2f07-c0a0-43ad-9322-cb2d62fd2fa5",
+  "title": "STANDARD FOR WHEY POWDERS CXS 289-1995 Formerly CODEX STAN A-15-1995. Adopted in 1995. Revised in 2003. Amended in 2006, 2010, 2018, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR WHEY POWDERS CXS 289-1995 Formerly CODEX STAN A-15-1995. Adopted in 1995. Revised in 2003. Amended in 2006, 2010, 2018, 2022.",
+      "summary": "Title and adoption/revision history for the Codex Standard for Whey Powders (CXS 289-1995), noting adoption in 1995 and subsequent revisions/amendments through 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2022 Amendment",
+      "summary": "Notes a 2022 amendment adopted at the 45th CAC that replaces the previous non‑retail container labelling provision with a requirement to follow the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "amendment table",
+        "table separator",
+        "non-retail containers",
+        "punctuation artifact"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "This standard applies to Whey Powder and Acid Whey Powder intended for direct consumption or further processing as described in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines whey powders as milk products obtained by drying whey or acid whey, with 'whey' produced by rennet-type coagulation during cheese/casein manufacture and 'acid whey' produced principally by acidification.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "whey definition",
+        "acid whey definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors including raw material (whey/acid whey), permitted ingredient (seed lactose for pre‑crystallized powder), and specific compositional criteria and limits for whey powder and acid whey powder (e.g., reference lactose, minimum protein, maximum water and ash, pH/titratable acidity) with calculation notes and allowance for compositional modifications per the General Standard for the Use of Dairy Terms (CXS 206-1999).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Raw materials",
+      "summary": "Specifies the raw material for the standard as whey or acid whey.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Permits the use of seed lactose in the manufacture of pre‑crystallized whey powder.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "permitted ingredient"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.3 Composition",
+      "summary": "Provides detailed compositional tables for whey powder and acid whey powder (including lactose reference value, minimum protein levels, maximum water and ash, and pH/titratable acidity criteria) plus notes on expression of lactose, protein calculation, water exclusions, acidity equivalence and allowance for compositional modification to meet end‑product composition under CXS 206-1999.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## Acid whey powder:",
+      "summary": "Specifies composition criteria particular to acid whey powder (reference lactose 61.0% m/m, minimum protein 7.0% m/m, maximum water 4.5% m/m, maximum ash 15.0% m/m, and pH/titratable acidity limits) with accompanying calculation and modification notes.",
+      "categories": [
+        "classification",
+        "composition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "product subtype heading",
+        "composition table",
+        "table separator",
+        "composition criterion",
+        "test note",
+        "compositional modification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 4. FOOD ADDITIVES",
+      "summary": "Permits use of food additives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for Food Category 01.8.2 (dried whey and whey products, excluding whey cheese).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 5. CONTAMINANTS",
+      "summary": "Requires the products and the milk used in their manufacture to comply with maximum levels for contaminants and toxins in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with CAC-established maximum residue limits for veterinary drugs and pesticides in milk.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "milk residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## 6. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts, and compliance with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## 7. LABELLING",
+      "summary": "Sets specific labelling provisions requiring the name 'Whey powder' or 'Acid whey powder', obliges a prominent qualification when fat or lactose contents differ from reference levels, allows the term 'sweet' only if specified compositional criteria are met (see Section 7.1), and requires non‑retail container labelling to follow CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.1 Name of the food",
+      "summary": "Declares the names 'Whey powder' and 'Acid whey powder', requires that products with fat and/or lactose contents outside the reference levels be accompanied by a clear qualification, and permits the qualifying term 'sweet' only when compositional thresholds are met (minimum lactose 65%, minimum protein 11%, maximum ash 8.5%, and pH > 6 or titratable acidity ≤ 0.16%).",
+      "categories": [
+        "labelling",
+        "composition"
+      ],
+      "subcategories": [
+        "name of food",
+        "name declaration",
+        "product name",
+        "composition reference",
+        "product qualification",
+        "qualifying term",
+        "composition criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.2 Labelling of non-retail containers",
+      "summary": "Requires labelling of non-retail food containers to comply with the Codex General Standard for the Labelling of Non-Retail Containers (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "8. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Specifies that methods of sampling and analysis for checking compliance with this standard must use the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

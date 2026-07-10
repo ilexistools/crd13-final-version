@@ -1,0 +1,1065 @@
+{
+  "doc_id": "b2aaaf3c-0cac-4891-ad82-0a0bd003a39a",
+  "title": "STANDARD FOR GINSENG PRODUCTS CXS 321-2015",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR GINSENG PRODUCTS CXS 321-2015",
+      "summary": "Document title: Standard for Ginseng Products (CXS 321-2015).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 2015. Amended in 2022",
+      "summary": "Adopted 2015 and amended 2022; this Standard supersedes the regional standard CODEX STAN 295R-2009.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption date",
+        "supersession note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2022 Amendment",
+      "summary": "2022 amendment: replaces the previous detailed Section 7.4 provisions for non‑retail container labelling with a requirement that such labelling be in accordance with the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346‑2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note",
+        "amendment table",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to ginseng products (defined in Section 2) offered for direct consumption, including catering and repacking, when used as food or a food ingredient, and explicitly excludes products used for medicinal purposes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Section heading introducing the product description and definition provisions for ginseng products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Product definition",
+      "summary": "Defines 'ginseng product' as items prepared from all parts of fresh, sound ginseng roots of Panax ginseng C.A. Meyer or P. quinquefolius L. for food use, packaged to safeguard safety/nutritional/quality characteristics, and processed by methods such as drying, steaming, cutting, powdering, extraction and concentration in conformity with Section 2.2.",
+      "categories": [
+        "definition",
+        "composition",
+        "packaging",
+        "processing"
+      ],
+      "subcategories": [
+        "product definition",
+        "definition lead-in",
+        "raw material",
+        "packaging requirement",
+        "processing methods"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Types of Ginseng Products",
+      "summary": "Section heading introducing the types of ginseng products covered by the Standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.1 Dried Ginseng",
+      "summary": "Dried Ginseng: manufactured by drying ginseng roots (e.g., sun or hot‑air drying) and may be presented as whole main and/or lateral roots, powdered or sliced.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "product style",
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.2 Dried Steamed Ginseng",
+      "summary": "Dried Steamed Ginseng: produced by steaming ginseng roots followed by drying (per Section 2.2.1) and may be presented as main and/or lateral roots, powdered or sliced.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "product style",
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.3 Ginseng Extract",
+      "summary": "Ginseng Extract: made by extracting soluble components from ginseng roots or dried ginseng using water, ethanol or mixtures, then filtering and concentrating; typically dark brown, viscous, and may be spray‑ or freeze‑dried to a powder.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "product style",
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.4 Steamed Ginseng Extract",
+      "summary": "Steamed Ginseng Extract: produced by extracting soluble components from dried steamed ginseng using water, ethanol or mixtures, then filtering and concentrating; typically dark brown, viscous, and may be spray‑ or freeze‑dried to a powder.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "product style",
+        "product type"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.3 Styles",
+      "summary": "Permits product styles provided the product meets all Standard requirements and the label adequately describes the style to avoid consumer confusion or misleading information.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "style conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section heading introducing essential composition and quality factor requirements for ginseng products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.1 Composition",
+      "summary": "Section heading introducing composition requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.1.1 Basic Ingredients",
+      "summary": "Basic ingredient: the only basic ingredient specified is ginseng roots as defined in Section 2.1(a).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients",
+        "ingredient list"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Food additives: no additives are permitted in products covered by this Standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "no additives"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. CONTAMINANTS",
+      "summary": "Contaminants: products must comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995) and with Codex pesticide maximum residue limits.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6. HYGIENE",
+      "summary": "Hygiene: recommends preparation and handling in accordance with the General Principles of Food Hygiene (CXC 1‑1969) and requires compliance with any microbiological criteria established per CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7. LABELLING",
+      "summary": "Labelling: products must be labelled in accordance with the General Standard for the Labelling of Pre‑packaged Foods (CXS 1‑1985), health claims must comply with CXG 23‑1997, and additional specific labelling provisions follow.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.1 Name of the Product",
+      "summary": "Name of the Product: prescribes names for product types—Dried Ginseng, Dried Steamed Ginseng, Ginseng Extract, Steamed Ginseng Extract (and when from P. ginseng may be called White/Red Ginseng or White/Red Ginseng Extract)—and requires the style to appear on the label in conjunction with or close to the product name to avoid misleading consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name",
+        "product name declaration",
+        "style declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.2 Name of the Ginseng Species",
+      "summary": "Requires ginseng products to be labelled with the scientific or common name of the ginseng raw material, and mandates that common names be declared according to the law and custom of the country of consumption in a manner not misleading to the consumer.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "species name",
+        "species declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.3 Country of Origin",
+      "summary": "Requires declaration of the product and/or raw material country of origin when omission of that information is likely to mislead or deceive the consumer.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.4 Labelling of Non-retail Containers",
+      "summary": "States that labelling of non-retail containers should comply with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.5 Optional Labelling",
+      "summary": "Permits optional clear marking that products are not intended for medicinal purposes and allows other labelling requirements as stipulated by the country where ginseng products are distributed.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "optional labelling",
+        "medicinal warning"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Provides the methods of analysis and sampling for ginseng (moisture, solids, ash, water‑insoluble solids, water‑saturated n‑butanol extracts, and identification of ginsenosides Rb1 and Rf), specifying AOAC methods, gravimetry/calculation/TLC or HPLC principles and referencing Annex I–III for certain tests.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.1 Methods of Analysis",
+      "summary": "Tabulates required analytical methods for ginseng (moisture, solids, ash, water‑insoluble solids, water‑saturated n‑butanol extracts, and identification of ginsenosides Rb1 and Rf) including sample quantities, analytical principle (gravimetry, calculation, TLC/HPLC) and method references (e.g., AOAC, Annexes).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods",
+        "analysis table"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "References",
+      "summary": "Lists referenced Standard Operating Procedures attached to the Standard for determination of moisture and ash.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "references heading",
+        "sop reference"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "1. SCOPE OF APPLICATION",
+      "summary": "States the analytical method applies to ginseng extract in both liquid and powder forms.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "analytical scope"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "2. PRINCIPLES",
+      "summary": "Describes the test principle for water‑insoluble solids: dissolve sample in distilled water, centrifuge and remove supernatant, precipitate and dry the remaining solid, and determine its weight as the water‑insoluble solid content.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "principles heading",
+        "test principle"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "3. EQUIPMENT & APPARATUS",
+      "summary": "Lists required equipment and apparatus for the analysis, including a temperature‑controllable centrifuge, centrifuge tubes, serum separation tube or micropipette, drying oven (±1 ℃), electronic balance (0.1 mg resolution), desiccator and tongs.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "apparatus list"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "4. EXPERIMENTAL PROCEDURES",
+      "summary": "Provides a stepwise experimental procedure to determine water‑insoluble solids (dry and obtain constant weight of tubes, weigh ~1 g sample, add 15 ml water, centrifuge at 1,000×g for 15 min and remove supernatant, repeat washes, dry residue at 105 ℃ and obtain constant weight); the water‑insoluble solid content is then calculated from tube and sample weights with defined variables and a specification of 'constant weight' (weight difference <2 mg).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure heading",
+        "test procedure",
+        "calculation method",
+        "formula placeholder",
+        "variable definition",
+        "constant weight",
+        "equation note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "## ANNEX I",
+      "summary": "Non‑substantive heading for Annex I (no test details provided in this item).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "annex heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "ANNEX I\n\nDetermination of water-insoluble solid content",
+      "summary": "Annex I title indicating it covers determination of water‑insoluble solid content (annex heading without procedural detail in this entry).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "test method heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "ANNEX II",
+      "summary": "Annex II title indicating it covers determination of water‑saturated n‑butanol extracts (annex heading without procedural detail in this entry).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "annex heading",
+        "test method heading"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "7.3 Repeat procedures step 7.1 and 7.2 two more times for the solid remains in the round flat flask (A).",
+      "summary": "Procedure step directing that steps 7.1 and 7.2 be repeated two additional times for the solid remaining in the round flat flask (A).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "7.4 Add 50 ml of distilled water to the mixed solution obtained in step 7.2-7.3 and then shake the solution using a funnel shaker (approximately 15 minutes). Let it stand until the upper layer (water-saturated n-butanol layer) and the lower layer (water layer) are completely separated.",
+      "summary": "Procedure step to add 50 ml distilled water to the mixture from previous steps, shake ~15 minutes, then allow phase separation into an upper water‑saturated n‑butanol layer and a lower water layer.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "7.5 Transfer the upper layer (water-saturated n-butanol layer) into a previously weighed flat bottom flask (B) and vacuum-concentrate and dry (60 ℃ ) the sample until the liquid is completely removed.",
+      "summary": "Procedure step to transfer the upper water‑saturated n‑butanol layer into a pre‑weighed flat bottom flask (B) and vacuum‑concentrate and dry at 60 ℃ until all liquid is removed.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "7.6 Add 50 ml of diethyl ether to the round flat flask (B) containing the precipitates and reflux the sample again in a constant-temperature water bath at 46 ℃ for 30 minutes.",
+      "summary": "Procedure step to add 50 ml diethyl ether to flask (B) containing precipitates and reflux in a constant‑temperature water bath at 46 ℃ for 30 minutes.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "7.7 Discard the diethyl ether in the flat bottom flask (B) by filtering the sample through filter paper and then collect the precipitates on the filter paper in a flat bottom flask (B) by dissolving them with methanol.",
+      "summary": "Procedure step to discard diethyl ether by filtering through filter paper and to collect precipitates on the filter paper, then dissolve them with methanol into flask (B).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "7.8 Concentrate the contents in the round flat flask (B) until the odors of diethyl ether and methanol disappear.",
+      "summary": "Procedure step to concentrate the contents in flask (B) until odors of diethyl ether and methanol disappear.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "7.9 After  drying  the  round flat  flask  (B)  in  a  drying  oven  at  105 ℃ for  1  hour,  place  it  in  a  desiccator  at  room temperature, let it stand for 1 hour, and then measure its weight.",
+      "summary": "Procedure step requiring drying the round flat flask (B) at 105 °C for 1 hour, cooling in a desiccator at room temperature for 1 hour, then measuring its weight.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "7.10 The water-saturated n-butanol content of dried ginseng is calculated as follows:",
+      "summary": "Introductory statement indicating the section specifies the formula/method to calculate the water-saturated n-butanol content of dried ginseng (calculation step).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "calculation method"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "8.1 Precisely weigh out approximately 2 g of sample in an Erlenmeyer flask, add 60 ml of distilled water to dissolve the sample, and then transfer it to a separatory funnel (A).",
+      "summary": "Procedure step to weigh ~2 g of sample into an Erlenmeyer flask, add 60 ml distilled water to dissolve it, then transfer the solution to separatory funnel (A).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "8.2 Add 60 ml of diethyl ether, shake the funnel several times, and then remove  the gas by opening the cork. Repeat the above procedure step 8.2, 2-3 times.",
+      "summary": "Procedure step to add 60 ml diethyl ether to the separatory funnel, shake and vent repeatedly, and repeat this extraction 2–3 times.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "8.3 Shake the separatory funnel sufficiently in a funnel shaker (approximately 15 minutes) and then let it stand until the upper layer (diethyl ether layer) and the lower layer (water layer) are completely separated.",
+      "summary": "Procedure step instructing vigorous shaking of the separatory funnel in a shaker for ~15 minutes and allowing complete separation of the diethyl ether (upper) and water (lower) layers.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "8.4 Transfer the lower portion (water layer) to a different separatory funnel (B), add 60 ml of the water-saturated n-butanol solution, shake the funnel under the same conditions as described in step 8.3, and let it stand until the layers are completely separated. The supernatant (water-saturated n-butanol layer) is collected (collected from above of the boundary surface) and transferred to another flask.",
+      "summary": "Procedure step to transfer the lower (water) layer to separatory funnel (B), extract it with 60 ml water-saturated n-butanol under the same shaking/separation conditions, and collect the n-butanol supernatant (from above the boundary) into another flask.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "8.5 Repeat procedure step 8.4 two more times on the lower layer (water layer) left in the separatory funnel (B). At the final separation stage, the supernatant including the emulsion is slowly removed, leaving only the upper layer, by opening the spout of the separatory funnel.",
+      "summary": "Procedure step to repeat the water-saturated n-butanol extraction (step 8.4) two more times on the remaining water layer and, at the final separation, slowly remove the supernatant including emulsions leaving only the upper layer via the separatory funnel spout.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "8.6 Collect the solution (supernatants from each separation stage) obtained from procedures step 8.4-8.6 into the separatory  funnel  (B),  add  50  ml  of  distilled  water,  and  shake  the funnel  under  the  same  conditions  as described in (c). Then, let it stand until the upper layer (n-butanol layer) and the lower layer (water layer) are completely separated.",
+      "summary": "Procedure step to combine the collected supernatants into separatory funnel (B), add 50 ml distilled water, shake as previously described, and allow complete separation of the n-butanol (upper) and water (lower) layers.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "8.7 Transfer  the  supernatant  (n-butanol  layer)  into  the  previously  weighed  flat  bottom  flask  and  vacuumconcentrate ( 60 ℃ ) it until the liquid is completely removed.",
+      "summary": "Procedure step to transfer the n-butanol layer into a previously weighed flat-bottom flask and vacuum-concentrate at 60 °C until all liquid is removed.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "8.8 Dry  the  flat-bottomed  flask  in  a  drying  oven  at  105 ℃ for  1  hour  and  then  place  in  a desiccator  at  room temperature. Let it stand for 1 hour and then measure its weight.",
+      "summary": "Procedure step to dry the flat-bottom flask at 105 °C for 1 hour, place it in a desiccator at room temperature for 1 hour, then measure its weight.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure step"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "8.9 Calculate the water-saturated n-butanol content in the ginseng extract using the same method as described in step 7.10.",
+      "summary": "Instruction to calculate the water-saturated n-butanol content of the ginseng extract using the same calculation method referenced in step 7.10.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "calculation method"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "ANNEX III Identification of ginsenosides Rb1, and Rf",
+      "summary": "Annex III states that ginsenosides Rb1 and Rf in ginseng products can be identified by thin-layer chromatography (TLC) or high-performance liquid chromatography (HPLC).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "1. SAMPLE SOLUTION PREPARATION",
+      "summary": "Sample preparation: dissolve the dried 1-butanol extract (prepared per Annex II) in 10 ml methanol and filter through a 0.45 µm membrane filter.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample preparation heading",
+        "sample solution prep"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "2. STANDARD SOLUTION PREPARATION",
+      "summary": "Standard solution preparation: dissolve reference ginsenoside Rb1 and Rf in methanol to 0.2% and filter the solutions through a 0.45 µm membrane filter.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "standard solution heading",
+        "standard solution prep"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "3. IDENTIFICATION",
+      "summary": "Section heading introducing the identification procedures for ginsenosides (non-substantive heading itself).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "3.1 Thin-Layer Chromatography (TLC)",
+      "summary": "Subsection heading indicating procedures for thin-layer chromatography (TLC) identification of ginsenosides (non-substantive heading itself).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "3.1.1 Preparation of the developing solvent",
+      "summary": "Developing solvent preparation: two solvent systems are specified—(A) n-butanol:ethyl acetate:water 50:10:40 and (B) chloroform:methanol:water 65:35:10—each shaken, allowed to separate, and the appropriate phase collected (upper for A, lower for B) with collection from the specified side to improve purity.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "solvent prep heading",
+        "solvent preparation",
+        "solvent separation",
+        "solvent collection"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "3.1.2 Developing chamber",
+      "summary": "Developing chamber setup: use a sealed chamber with filter paper on the sides soaked in developing solvent, add solvent to about halfway up to the TLC plate starting line, cover and equilibrate the chamber for ~30 minutes.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "chamber heading",
+        "chamber setup",
+        "developing solvent",
+        "tlc preparation"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "3.1.3 TLC preparation",
+      "summary": "TLC plate preparation: cut plates to suitable size (>10 cm), dry at 110 °C for 10–15 minutes, mark a starting line 1 cm from the bottom and an ending line 8 cm from the start, and mark sample application positions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "tlc preparation"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "3.1.4 TLC identification",
+      "summary": "TLC identification: apply 5 µL of standards and samples in divided drops without scraping the silica, dry, develop to the ending line, dry, spray with 10% sulfuric acid, heat at 110 °C for 5–10 minutes to develop colors, then compare Rf values and colors with references to identify the ginsenosides.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "tlc identification"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "1. SCOPE OF APPLICATION",
+      "summary": "States the method applies to analysis of dried ginseng and ginseng extract.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scope of application",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "2. PRINCIPLES",
+      "summary": "Defines the moisture determination principle: assume moisture is the only volatile component and can be completely evaporated by heating at 105°C without chemical change, with moisture driven off by increasing water vapor pressure in the sample.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "principles",
+        "moisture principle"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "3. EQUIPMENT & APPARATUS",
+      "summary": "Lists required equipment for the moisture determination procedure, including a lid-capable weighing bottle, glass rod, drying oven (±1°C), 0.1 mg balance, 20–35 mesh sea sand, desiccator, grinder, and tongs.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "equipment list"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "4. PRE-TREATMENT OF SAMPLES",
+      "summary": "Specifies sample pretreatment: pulverize dried ginseng to ~3 mm particles and use ginseng extract (powder form) as-is for the test.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample pretreatment"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "5. EXPERIMENTAL PROCEDURES - DRIED GINSENG AND GINSENG EXTRACT (POWDER FORM)",
+      "summary": "Provides the moisture-analysis procedure for dried ginseng and powder extract: dry and equilibrate the empty weighing bottle at 105°C to constant weight, add ~2 g sample, dry at 105°C (lid ajar) for 3 h, cool in a desiccator and weigh, repeat drying/weighing to constant weight, and calculate moisture using the specified W0, W1 and S variables.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "experimental procedure",
+        "drying procedure",
+        "constant weight",
+        "sample weighing",
+        "moisture calculation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

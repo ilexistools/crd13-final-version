@@ -1,0 +1,777 @@
+{
+  "doc_id": "b9127cf8-03fd-48b9-a8ee-99f3123b2bff",
+  "title": "CODE OF PRACTICE ON FOOD ALLERGEN MANAGEMENT FOR FOOD BUSINESS OPERATORS CXC 80-2020",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE ON FOOD ALLERGEN MANAGEMENT FOR FOOD BUSINESS OPERATORS CXC 80-2020",
+      "summary": "Document title: 'Code of Practice on Food Allergen Management for Food Business Operators (CXC 80-2020)' with adoption year 2020.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Introduces food allergies as an increasing global food safety and public health burden, states that FBOs and competent authorities must manage allergens across the supply chain, and notes that common pathogen-control processes generally do not destroy allergenic proteins so allergen controls should be integrated into GHPs and, where appropriate, HACCP.",
+      "categories": [
+        "other",
+        "scope",
+        "risk management",
+        "hygiene",
+        "processing"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "introduction context",
+        "hazard context",
+        "responsibility measures",
+        "allergen hygiene",
+        "cross-contact control"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Hazard characterisation",
+      "summary": "Characterizes allergens as immune-mediated hazards (IgE-mediated, non-IgE-mediated, mixed), lists major global allergen groups (cereals with gluten, crustaceans, eggs, fish, milk, peanuts, soybeans, tree nuts) and other country-specific allergens, describes symptoms including anaphylaxis, identifies factors and points across harvesting, manufacturing and retail that contribute to unintended allergen exposure (e.g., inadequate cleaning, labelling errors, poor segregation, rework, scheduling, training deficits), and requires FBOs to implement documented allergen management policies to prevent/minimize cross-contact, ensure correct labelling and provide accurate consumer information.",
+      "categories": [
+        "risk assessment",
+        "labelling",
+        "risk management",
+        "transport",
+        "storage",
+        "training",
+        "processing",
+        "hygiene",
+        "documentation",
+        "definition",
+        "procurement",
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "hazard characterisation heading",
+        "allergy hazard",
+        "allergy mechanism",
+        "symptom description",
+        "major allergens",
+        "gluten cereals",
+        "declaration note",
+        "oats cross-contact",
+        "additional allergens",
+        "allergen controls",
+        "allergen exposure",
+        "cross-contact controls",
+        "ingredient management",
+        "exposure factors heading",
+        "exposure factors",
+        "handling heading",
+        "container cleaning",
+        "foreign particulates",
+        "commodity separation",
+        "employee awareness",
+        "manufacturing heading",
+        "labelling errors",
+        "in-process cross-contact",
+        "facility layout",
+        "rework handling",
+        "production scheduling",
+        "equipment sanitation",
+        "change management",
+        "ingredient handling",
+        "coeliac disease",
+        "supplier ingredient",
+        "allergen training",
+        "retail food service",
+        "supply chain info",
+        "ingredient change notice",
+        "allergen labelling",
+        "allergen storage",
+        "operation flow",
+        "preparation procedures",
+        "consumer communication",
+        "delivery allergen info",
+        "consumer disclosure",
+        "cross-contact risk",
+        "responsibilities heading",
+        "allergen policy",
+        "allergen control",
+        "ingredient declaration",
+        "allergen competence",
+        "consumer protection",
+        "objectives heading",
+        "objectives text",
+        "cross-contact prevention",
+        "supply chain control",
+        "label accuracy",
+        "point of sale",
+        "proactive controls",
+        "labelling reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION II - SCOPE, USE AND DEFINITIONS",
+      "summary": "Section II states the Code's scope, use and definitions: it covers allergen management throughout the supply chain (primary production, manufacturing, retail and food service), applies to IgE and non-IgE allergies including Coeliac disease (but excludes non‑immunological intolerances), follows the General Principles of Food Hygiene for application, and defines key terms such as allergen, allergen cross-contact, allergen profile, food service, retail, rework and 'visibly clean'.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Scope",
+      "summary": "Defines the Code's scope as applying to allergen management across the supply chain (primary production, manufacturing, retail and food service), covering IgE- and non-IgE-mediated allergies and Coeliac disease, identifies eight major allergen groups commonly implicated globally, and excludes non‑immunological intolerances (while noting controls may also help those with intolerances).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "supply chain scope",
+        "allergen scope",
+        "scope exclusions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Use",
+      "summary": "States that this Code should be used together with the General Principles of Food Hygiene (CXC 1-1969) and other applicable Codex standards, and that its provisions on food allergen management apply as appropriate across food businesses (manufacturing, retail, food service) with special sections for retail and food service.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "use heading",
+        "applicability",
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Definitions",
+      "summary": "Provides definitions specific to this Code—including allergen, allergen cross-contact, allergen profile, food service, retail, rework and 'visibly clean'—and refers to definitions in the General Principles of Food Hygiene (CXC 1-1969).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition intro",
+        "allergen definition",
+        "cross-contact definition",
+        "allergen profile",
+        "food service",
+        "retail definition",
+        "rework definition",
+        "visibly clean"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "SECTION III - PRIMARY PRODUCTION",
+      "summary": "Sets the principle that primary production of cultivated commodities should be managed to reduce introduction of allergens and gives operational guidance for primary production including assessing growing-area history, inspecting and cleaning harvest equipment, cleaning harvested commodities, segregating and labelling storage and bags, cleaning transport vehicles/containers, and maintaining clean drying areas with physical barriers to prevent allergen cross-contact.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1 Environmental hygiene",
+      "summary": "Requires growers to consider potential allergen cross-contact from the growing environment by knowing field history and nearby crops and, where necessary to protect the final food's allergen profile (e.g. gluten-free), remove physical remains of previous crops prior to replanting.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "environmental hygiene heading",
+        "environmental control"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2 Hygienic production of food sources",
+      "summary": "Advises preventing or minimising allergen cross-contact during growing by ensuring maintenance machinery does not contain other plant material that could contaminate crops.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "primary production heading",
+        "equipment contamination"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.3 Handling, storage and transport",
+      "summary": "Requires inspection and cleaning of harvest equipment, cleaning of harvested commodities where feasible, visual inspection and cleaning of storage facilities, physical segregation and labelling/color-coding of allergenic commodity storage and bags, and use of clean, dry transport vehicles and cleaned containers (or single-use packaging) to prevent allergen cross-contact during handling, storage and transport.",
+      "categories": [
+        "storage",
+        "analysis sampling",
+        "processing",
+        "labelling",
+        "transport"
+      ],
+      "subcategories": [
+        "handling storage transport heading",
+        "equipment inspection",
+        "commodity cleaning",
+        "storage segregation",
+        "bag storage",
+        "storage identification",
+        "vehicle cleanliness"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.4 Cleaning, maintenance and personnel hygiene at primary production",
+      "summary": "Refers to the General Principles of Food Hygiene (CXC 1-1969) for cleaning, maintenance and personnel hygiene and additionally requires drying areas to be kept clean with physical barriers and that materials/containers used to handle commodities be cleaned to remove allergenic residue.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning hygiene heading",
+        "general reference",
+        "drying area cleanliness"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "SECTION IV - ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "States the principle that establishment design (delimitation/isolation, equipment location, process flow, personnel movement, ventilation) should prevent or minimise allergen cross-contact and introduces subsequent guidance on location, equipment, premises, and facilities to achieve that.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "PRINCIPLE:",
+      "summary": "Declares the design principle that establishments should be configured to prevent or minimise allergen cross-contact with respect to area isolation, equipment placement, process flow, personnel movement and ventilation.",
+      "categories": [
+        "other",
+        "hygiene"
+      ],
+      "subcategories": [
+        "principle heading",
+        "establishment design"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1 Location",
+      "summary": "Advises FBOs to consider consolidating production of allergen-containing products at a single site or, if not feasible, separate production by time or space and design linear flow, and recommends that equipment and production lines be dedicated where possible or managed by sequencing and process analysis to determine the need for dedicated lines, redesign or other controls to minimise cross-contact.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.1.1 Establishments",
+      "summary": "Recommends that multi-site FBOs consider consolidating production, processing and storage of products with specific allergens at one location or else separate production by time or space, design linear flow, and apply effective cleaning procedures to limit allergen cross-contact.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "establishments heading",
+        "facility separation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.1.2.1  Manufacturing",
+      "summary": "Notes manufacturers commonly handle multiple allergens and advises, where feasible, use of dedicated processing lines or production sequencing, and requires process and equipment analysis to assess allergen cross-contact risk and implement physical separation, containment (e.g. closed pipes, covered conveyors) or other controls to eliminate cross-over points.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "manufacturing heading",
+        "dedicated lines",
+        "line separation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.1.2.2  Retail and food service",
+      "summary": "Recommends retail and food service operators use dedicated equipment for specific allergens where feasible (e.g. separate slicers) or otherwise perform effective cleaning when switching between foods with different allergen profiles.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "retail service heading",
+        "dedicated equipment"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.2 Premises and rooms",
+      "summary": "Advises FBOs to provide, where feasible and based on risk, dedicated or temporarily segregated production areas and separate storage for allergenic ingredients, and instructs manufacturers to consider barriers, spacing and dust-control measures to prevent airborne allergen cross-contact, especially with powdered allergens.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.2.1 Manufacturing",
+      "summary": "Requires manufacturers, when risk to consumers with food allergies warrants it, to provide physical barriers or adequate separation between lines and design premises with allergen dust removal or hood systems for powdered allergens, or where such systems are absent to apply compensating cleaning and containment measures.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "manufacturing heading",
+        "physical barriers",
+        "dust control"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.3 Equipment",
+      "summary": "Section heading only; no substantive requirements provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.3.1 Manufacturing",
+      "summary": "Requires equipment, tools, utensils and containers contacting allergen-containing foods to be designed and constructed to facilitate effective allergen removal during cleaning (avoid crevices, smooth welds, no cracked seals or dead-ends) or, where elimination of pockets is not possible, ensure they can be adequately cleaned.",
+      "categories": [
+        "hygiene",
+        "equipment"
+      ],
+      "subcategories": [
+        "manufacturing heading",
+        "equipment design"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.3.2 Retail and Food Service",
+      "summary": "Requires retail and food service operators to use equipment, tools and utensils designed and constructed so that allergens can be easily and effectively removed during cleaning (excluding single-use containers/packaging).",
+      "categories": [
+        "other",
+        "equipment"
+      ],
+      "subcategories": [
+        "retail food service",
+        "cleanable equipment"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.4 Facilities",
+      "summary": "Requires FBOs, including retail and food service, to provide conveniently located hand-wash basins to minimise allergen cross-contact via personnel, encourage washing between handling foods with different allergen profiles, and consider facilities for changing protective clothing when moving between areas (e.g. those handling powdered allergens).",
+      "categories": [
+        "other",
+        "hygiene"
+      ],
+      "subcategories": [
+        "facilities heading",
+        "handwashing facilities"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "SECTION V - CONTROL OF OPERATION",
+      "summary": "States the principle that unintended presence of allergens must be prevented or minimised using GHPs and HACCP-based controls and directs FBOs to identify allergens present, assess cross-contact risks, implement and monitor risk-based allergen management procedures (including supplier verification, labelling accuracy, personnel training and periodic review), and conduct verification such as audits and occasional product testing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5.1 Control of food hazards",
+      "summary": "Section 5.1 requires FBOs to control allergens by preventing or minimising cross-contact, ensuring clear and correct allergen information for retail/food service, using risk-based controls and staff training, and to identify, assess and manage critical steps, implement and monitor allergen-management procedures, review them after operational changes, ensure supplier compliance and timely customer notification of allergen-profile changes.",
+      "categories": [
+        "risk management",
+        "risk assessment",
+        "training",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "hazard control",
+        "allergen controls",
+        "allergen presence",
+        "processing line risk",
+        "allergen nature",
+        "supplier notification",
+        "allergen form",
+        "process step risk",
+        "cross-contact likelihood",
+        "cleaning ease",
+        "cross-contact amount",
+        "allergen awareness",
+        "control measures",
+        "critical step assessment",
+        "management procedures",
+        "procedure monitoring",
+        "procedure review",
+        "supplier compliance",
+        "change notification",
+        "personnel awareness"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5.2.1.2 Rework and Work-in-Process",
+      "summary": "Rework and WIP containing allergens must be stored in sturdy, covered containers in designated, clearly marked areas, labelled with allergens highlighted, inventoried to prevent wrong-product incorporation, and manufacturers should, where feasible, add rework only back to the same product.",
+      "categories": [
+        "storage",
+        "risk management"
+      ],
+      "subcategories": [
+        "rework heading",
+        "wip storage",
+        "rework policy"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5.2.1.3 Application of Product Labels",
+      "summary": "Manufacturers should have procedures to ensure allergen information and labels are accurate and verify correct product labels on the production line (e.g. manual checks or barcode/vision systems), and store/remove labels to prevent use of incorrect labels.",
+      "categories": [
+        "labelling",
+        "storage"
+      ],
+      "subcategories": [
+        "label application",
+        "label verification",
+        "label storage"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "5.2.1.4 Monitoring and verification",
+      "summary": "Regular internal audits should verify that formulations, ingredient use records and final product labels match, that allergen cross-contact controls and personnel training are implemented, suppliers are reviewed for changes that could introduce allergens, and occasional product testing for undeclared allergens may be used for verification.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "monitoring verification",
+        "internal audits",
+        "supplier review"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "5.2.1.5 Product development and change",
+      "summary": "When developing new products or changing formulations or suppliers, manufacturers should consider non-allergenic substitutions, avoid introducing new allergens where possible, prevent cross-contact during trials, review and revise HACCP, procedures and training when allergen profiles change, verify labels/specifications match formulations and destroy obsolete specs, and consider consumer notification (e.g. \"new formulation\") or packaging changes when a new allergen is introduced.",
+      "categories": [
+        "risk management",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "product change",
+        "nonallergenic substitution",
+        "new allergen control",
+        "procedure revision",
+        "formulation change"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "5.2.2 Retail and Food Service",
+      "summary": "In retail and food service, equipment used for allergen-containing foods should be marked/tagged/colour-coded or cleaned between uses, and unpackaged allergen-containing foods should be labelled and stored separately from foods with different allergen profiles to prevent contact.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "5.2.2.1 Minimising allergen cross-contact during preparation",
+      "summary": "Retail and food service personnel must be aware of allergens and cross-contact routes (food-to-food, hand-to-food, equipment/surface-to-food, cooking media), and preparation processes should prevent or minimise cross-contact via measures such as dedicated equipment/utensils or thorough cleaning, dedicated or marked containers, single-person preparation where feasible, strict ingredient use, possible dedication of cooking media, display protection, designated serving utensils, and ready access to accurate allergen information for staff and consumers.",
+      "categories": [
+        "risk management",
+        "training",
+        "hygiene"
+      ],
+      "subcategories": [
+        "preparation control",
+        "customer allergy awareness",
+        "cross-contact examples",
+        "preparation controls",
+        "personnel controls",
+        "container marking",
+        "ingredient control",
+        "dedicated cooking media",
+        "display protection",
+        "allergen awareness"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "5.2.2.2 Rework",
+      "summary": "Rework and WIP in retail/food service should be stored in sturdy, covered containers in designated, clearly marked areas, appropriately labelled to avoid incorporation into the wrong product, and policies should favour adding rework only back to the same product when feasible.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "rework heading",
+        "rework storage"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "5.2.2.3 Application of Product Labels",
+      "summary": "Retail and food service operators who package/label on site should implement procedures to ensure labels/allergen information are accurate, and must segregate, re-package/re-label or destroy products that were labelled incorrectly.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "label application heading",
+        "label accuracy"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "5.2.2.4 Monitoring and verification",
+      "summary": "Supervisors in retail and food service should periodically verify staff follow allergen-control and consumer-information procedures (including correct labelling of packaged foods and provision of allergen information for unpackaged foods) and should regularly review ingredients, recipes and labels for accuracy.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "monitoring heading",
+        "verification procedures"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "5.2.2.5 Product development and change",
+      "summary": "When introducing a new product or recipe with a different allergen profile, retail/food service operators should review and possibly revise allergen-control procedures, inform relevant personnel timely, and update allergen information on menus and websites.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "product change heading",
+        "change control"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "5.3 Incoming material requirements",
+      "summary": "Section 5.3 is a heading for incoming material requirements and contains no substantive requirements in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "5.3.1 Manufacturing",
+      "summary": "Manufacturers should set supplier requirements for allergen controls, ensure suppliers manage allergen labelling (including allergens in multi-component ingredients), assess supplier allergen-control programs via questionnaires/audits and documentation (spec sheets/COAs/vendor guarantees) and occasional testing, require timely supplier notification of changes affecting allergen profiles, inspect incoming allergen-containing ingredients and reject or contain damaged containers, clearly identify and segregate or properly store allergen-containing materials (e.g. tagging/colour-coding, secure containers, store below non-allergens) and assess processing aids for cross-contact risk.",
+      "categories": [
+        "hygiene",
+        "analysis sampling",
+        "labelling",
+        "storage"
+      ],
+      "subcategories": [
+        "manufacturing heading",
+        "supplier requirements",
+        "supplier allergen controls",
+        "supplier verification",
+        "supplier change notification",
+        "incoming ingredient labels",
+        "receipt inspection",
+        "ingredient identification",
+        "allergen storage"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "5.3.2 Retail and Food Service",
+      "summary": "Retail and food service operators should purchase ingredients with a known allergen profile (e.g. packaged foods listing all ingredients) and avoid using ingredients whose contents are unknown, and sourcing from the same supplier may help prevent unexpected allergen-profile changes.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "retail service heading",
+        "ingredient sourcing"
+      ],
+      "page_range": {
+        "start_page": 13,
+        "end_page": 13
+      }
+    }
+  ]
+}

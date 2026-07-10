@@ -1,0 +1,1219 @@
+{
+  "doc_id": "feed51ca-2a4c-4731-a06d-8a16e216e5a6",
+  "title": "GUIDELINES ON THE APPLICATION OF GENERAL PRINCIPLES OF FOOD HYGIENE TO THE CONTROL OF PATHOGENIC VIBRIO SPECIES IN SEAFOOD",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON THE APPLICATION OF GENERAL PRINCIPLES OF FOOD HYGIENE TO THE CONTROL OF PATHOGENIC VIBRIO SPECIES IN SEAFOOD",
+      "summary": "Document title and code only: Guidelines on the Application of General Principles of Food Hygiene to the Control of Pathogenic Vibrio Species in Seafood (CAC/GL 73-2010).",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Introduction noting an increase in foodborne disease outbreaks from pathogenic Vibrio species (notably pandemic V. parahaemolyticus), trade disruptions, and the resulting need for specific guidance on risk management for these seafood-associated pathogens.",
+      "categories": [
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "hazard overview"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "General Characteristics of Pathogenic Vibrio spp.",
+      "summary": "Summarizes general characteristics of pathogenic Vibrio spp.: multiple human-pathogenic species exist (major ones V. parahaemolyticus, choleragenic V. cholerae, V. vulnificus), they occur naturally in marine/estuarine environments, show species-specific virulence and environmental traits, are sensitive to low pH and controlled by cooking and hygienic practices, and differ in pathogenic mechanisms and ecology.",
+      "categories": [
+        "other",
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "species heading",
+        "pathogen characteristics",
+        "environmental occurrence",
+        "virulence traits",
+        "control principles",
+        "species differences"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "Vibrio parahaemolyticus",
+      "summary": "Describes V. parahaemolyticus as an autochthonous estuarine/coastal organism that grows rapidly under favorable conditions, with pathogenic strains typically carrying tdh and/or trh genes causing gastroenteritis, notes a pandemic O3:K6 clone and associated foods, and identifies harvest as a critical control stage for seafood-borne V. parahaemolyticus.",
+      "categories": [
+        "other",
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "species heading",
+        "species ecology",
+        "pathogenicity traits",
+        "epidemiology history",
+        "critical control stage",
+        "associated foods"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "SECTION I - OBJECTIVES",
+      "summary": "States the Guidelines' objectives: to provide guidance on control measures for pathogenic Vibrio spp. in seafood to protect consumer health and ensure fair food trade practices, and to highlight key control measures for minimizing illness while informing industry, consumers and others.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives statement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "SECTION II - SCOPE, USE AND DEFINITION",
+      "summary": "Section header only: SECTION II covers scope, use and definitions and is expanded in following subsections (2.1–2.3).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1 Scope",
+      "summary": "Scope: the Guidelines apply to seafood marketed for consumption live, raw, chilled/frozen, partially treated or thoroughly treated across the whole food chain from primary production to final consumption, with bivalve molluscs detailed in the Annex, and target hazards being pathogenic V. parahaemolyticus, V. vulnificus and choleragenic V. cholerae (with applicability to other pathogenic Vibrio spp.).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "target hazards"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2 Use of the document",
+      "summary": "Use of the document: these Guidelines are supplemental to the Recommended International Code of Practice – General Principles of Food Hygiene (CAC/RCP 1-1969) and the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003) and may need regional modification based on factors like pathogen prevalence, water temperature and salinity.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "use heading",
+        "document use"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.3 Definition",
+      "summary": "Definitions: provides specific meanings for terms used in the Guidelines, including refrigeration (lowering temperature to limit microbial activity), seafood (fish, shellfish and aquatic invertebrates and products for human consumption), partially treated (treatment that significantly reduces but does not eliminate Vibrio spp.), and clean water (water without harmful microbiological contamination, substances or toxic plankton in quantities affecting safety).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "definition preamble",
+        "source definitions",
+        "refrigeration definition",
+        "seafood definition",
+        "partial treatment",
+        "clean water definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "SECTION III - PRIMARY PRODUCTION",
+      "summary": "Section header and overview: SECTION III addresses primary production with subsections on environmental hygiene, hygienic production, handling/storage/transport, and cleaning/maintenance/personnel hygiene at primary production.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1 Environmental hygiene",
+      "summary": "Environmental hygiene at primary production: refers to the General Principles of Food Hygiene and adds that pre-harvest controls are especially applicable to bivalve molluscs, temperature and salinity should be considered as control measures (with specific levels identified where applicable), monitoring at harvest should follow the Annex for bivalves, and care is needed to avoid faecal contamination with choleragenic V. cholerae in coastal/cholera-endemic areas.",
+      "categories": [
+        "hygiene",
+        "risk management",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "environmental hygiene heading",
+        "environmental hygiene",
+        "pre-harvest controls",
+        "temperature salinity control",
+        "harvest monitoring",
+        "faecal contamination control"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2 Hygienic production of seafood sources",
+      "summary": "Non‑substantive: directs the reader to Section 3.2 of the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) for hygienic production of seafood sources.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "production hygiene heading",
+        "production hygiene"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.3 Handling , storage and transport",
+      "summary": "Requires use of clean/potable water and ice for seafood intended to be eaten raw and for ice production, avoids seawater from contaminated nearshore/drainage areas, mandates rapid cooling and refrigeration (e.g., ice-water slurry, ice, refrigeration) to minimise growth of pathogenic Vibrio spp. after harvest, specifies clean water for washing and live‑product storage, and requires minimising time between harvest and refrigeration/freezing and using covered containers and species‑appropriate low temperatures during transport.",
+      "categories": [
+        "storage",
+        "other",
+        "processing",
+        "transport"
+      ],
+      "subcategories": [
+        "storage transport heading",
+        "postharvest storage",
+        "page number",
+        "cooling and washing",
+        "live storage",
+        "washing water",
+        "transport conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.3.3    Containers for waste and inedible substances",
+      "summary": "Non‑substantive: refers to Section 4.3.3 of the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) regarding containers for waste and inedible substances.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "waste containers",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.4 Facilities",
+      "summary": "Requires adequate facilities for handling and washing seafood and suitable, adequate facilities for storage and/or production of ice, with a cross‑reference to Section 4.4 of the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.4.1    Water supply",
+      "summary": "Obligates provision of an adequate supply of clean and/or potable water for handling and washing seafood to limit pathogenic Vibrio spp. load.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "water supply"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.4.2    Drainage and waste disposal",
+      "summary": "Requires drainage and waste lines capable of peak demand, minimising accumulation of solid/semi‑solid/liquid wastes because they may support rapid growth of pathogenic Vibrio spp., and provision of separate, adequate facilities to prevent contamination by offal and waste.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "drainage and waste",
+        "drainage capacity",
+        "waste accumulation",
+        "waste facilities"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.4.3    Cleaning",
+      "summary": "Non‑substantive: refers to Section 4.4.3 of the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1-1969) and Section 3.2.1 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003) on cleaning.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "cleaning heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.4.4    Personnel hygiene facilities and toilets",
+      "summary": "Non‑substantive: refers to Section 4.4.4 of the Recommended International Code of Practice - General Principles of Food Hygiene and Section 3.5.1 of the Code of Practice for Fish and Fishery Products regarding personnel hygiene facilities and toilets.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "personnel facilities",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.4.5    Temperature control",
+      "summary": "Specifies temperature control guidance: target product temperature to prevent/minimise growth of pathogenic Vibrio spp. is 10°C or lower (Code recommends as close to 0°C as possible), facilities must control ambient temperature to maintain ≤10°C during raw seafood processing, and stricter control nearer 0°C is required when other hazards (e.g., Listeria, C. botulinum, histamine formers) are present, with a distinct regime for bivalve molluscs in the Annex.",
+      "categories": [
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "temperature control",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.4.6    Air quality and ventilation",
+      "summary": "Non‑substantive: refers to Section 4.4.6 of the Recommended International Code of Practice - General Principles of Food Hygiene and Section 3.2.2 of the Code of Practice for Fish and Fishery Products on air quality and ventilation.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "air ventilation",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.4.7    Lighting",
+      "summary": "Non‑substantive: refers to Section 4.4.7 of the Recommended International Code of Practice - General Principles of Food Hygiene and Section 3.2.3 of the Code of Practice for Fish and Fishery Products on lighting.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "lighting",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.4.8    Storage",
+      "summary": "Non‑substantive: refers to Section 4.4.8 of the Recommended International Code of Practice - General Principles of Food Hygiene and Section 3.2.2 of the Code of Practice for Fish and Fishery Products on storage.",
+      "categories": [
+        "storage",
+        "other"
+      ],
+      "subcategories": [
+        "storage heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.1 Control of food hazards",
+      "summary": "Sets comprehensive controls for food hazards with cross‑references to RICOP and the Code for Fish and Fishery Products: emphasizes time/temperature as critical for controlling pathogenic Vibrio spp., requires use of clean/potable water for washing and cooling, mandates that cooking parameters and processing interventions (e.g., acidification, salting, preservatives, water activity reduction, freezing, HPP, heating) be effective and comply with national legislation, requires validation of control measures per CAC/GL 69‑2008 and ongoing monitoring/verification, prescribes storage on crushed‑ice or ice/water mixtures for raw‑to‑eat seafood and avoidance of over‑stacking, and cross‑references microbiological criteria, incoming material, packaging and water requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "5.2.1    Time and temperature control",
+      "summary": "States that time and temperature are the most important factors affecting growth of pathogenic Vibrio spp. in seafood and must be controlled and monitored at each step, with a cross‑reference to Section 4.1 of the Code of Practice for Fish and Fishery Products.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "time temperature"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5.2.2 Specific process steps",
+      "summary": "Non‑substantive: heading only for 'Specific process steps' without substantive requirements in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5.2.2.1 Washing and processing",
+      "summary": "Requires use of clean, low‑temperature water for washing and processing at establishments, and mandates that the eviscerated cavity of fish intended for raw consumption (e.g., sashimi) be thoroughly washed with potable running water.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "washing and processing"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5.2.2.2 Cooking",
+      "summary": "Requires that time and temperature be determined for each cooking operation to ensure inactivation/elimination of pathogenic Vibrio spp., and that potable water be used for cooling after cooking and blanching.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "cooking heading",
+        "cooking controls",
+        "cooling after cooking"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "5.2.2.3 Food processing practices",
+      "summary": "Permits processing measures to minimise or reduce pathogenic Vibrio spp. (e.g., acidification to pH <4.8, salting >10% NaCl for V. parahaemolyticus, preservatives, lowering water activity <0.94, freezing, high pressure, mild heating), requires that such technologies comply with the legislation of the country of retail sale, and mandates adequate validation (per CAC/GL 69‑2008) and ongoing monitoring/verification that the selected practices effectively control or inactivate Vibrio spp.",
+      "categories": [
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "processing practices",
+        "freezing control",
+        "processing technologies",
+        "validation and verification",
+        "monitoring and verification"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "5.2.2.4 Storage",
+      "summary": "Requires that seafood intended for raw consumption be stored in shallow layers surrounded by sufficient finely crushed ice or ice/clean‑water mixtures, that live fish and shellfish be stored at the lowest tolerable temperature for the species, and that over‑stacking/over‑filling of containers be avoided to allow adequate cold air circulation.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading",
+        "storage conditions",
+        "container stacking"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "5.2.3 Microbiological and other specifications",
+      "summary": "Non‑substantive: directs readers to Section 5.2.3 of the Recommended International Code of Practice - General Principles of Food Hygiene and to CAC/GL 21‑1997 for establishment and application of microbiological criteria for foods.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbiological specifications",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "5.2.4 Microbiological cross-contamination",
+      "summary": "Non-substantive cross-reference directing readers to Section 5.2.4 of the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) and Sections 3.2.2 and 3.3.2 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003) for guidance on microbiological cross-contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cross-contamination"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "5.2.5 Physical and chemical contamination",
+      "summary": "Non-substantive cross-reference directing readers to Section 5.2.5 of the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) and Sections 3.2.2 and 3.3.2 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003) for physical and chemical contamination guidance.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "physical chemical contamination"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "5.3 Incoming material requirements",
+      "summary": "Cross-reference indicating incoming material requirements are covered in Section 5.3 of the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) and Section 8.5.1 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "incoming materials"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "5.4 Packaging",
+      "summary": "Cross-reference indicating packaging requirements are addressed in Section 5.4 of the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) and Section 8.5.2 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003).",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "packaging requirements"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "5.5 Water",
+      "summary": "Section heading only for 'Water' with no substantive text or requirements in this excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "5.5.1 In contact with food",
+      "summary": "Cross-reference to Section 5.5.1 of the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for requirements on water in contact with food, with an exception noted for cases within this Code where clean water could be used.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "food contact water",
+        "clean water use"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "9.4.1 Special Attention to Susceptible Subpopulations",
+      "summary": "Identifies liver disease (and other conditions such as diabetes, haemochromatosis and HIV/AIDS) as prominent risk factors for infection with pathogenic Vibrio spp., especially V. vulnificus, and advises susceptible subpopulations to avoid raw or partially treated seafood and to cook seafood thoroughly before consumption.",
+      "categories": [
+        "risk management",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "susceptible subpopulations",
+        "susceptibility factors",
+        "consumption advice"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "SECTION X - TRAINING",
+      "summary": "Training section introducing guidance that refers to the Recommended International Code of Practice and the Code of Practice for Fish and Fishery Products and stating that industry and trade associations must provide specific instructions and training for control of pathogenic Vibrio spp., taking account of differences in prevalence and fishing techniques.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "10.1    Awareness and responsibilities",
+      "summary": "Cross-reference to Section 10.1 of the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) and Section 3.8 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003), and responsibility placed on industry and trade associations to provide employee training for controlling pathogenic Vibrio spp., with attention to regional prevalence and fishing methods.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "awareness responsibilities",
+        "employee training"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "10.2    Training programmes",
+      "summary": "Requires that personnel involved in production, harvesting, processing and handling of seafood receive task-appropriate training covering the nature of pathogenic Vibrio spp. (V. parahaemolyticus, choleragenic V. cholerae and V. vulnificus), control measures to prevent contamination and growth (including cross-contamination and storage), and methods to verify control program effectiveness including sampling and analytical techniques.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training programmes",
+        "task training",
+        "hazard analysis",
+        "control measures",
+        "verification techniques"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "10.3    Instruction and supervision",
+      "summary": "Non-substantive cross-reference directing readers to Section 10.3 of the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) for instruction and supervision guidance.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "instruction supervision"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "10.4    Refresher training",
+      "summary": "Cross-reference to Section 10.4 of the Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) and Section 3.8 of the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003) for refresher training recommendations.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "refresher training"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "ANNEX ON THE CONTROL MEASURES FOR",
+      "summary": "Section heading only for an annex on control measures with no substantive provisions in this excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "Vibrio parahaemolyticus and Vibrio vulnificus in Bivalve Molluscs 7",
+      "summary": "Document title/heading indicating the annex focuses on Vibrio parahaemolyticus and Vibrio vulnificus in bivalve molluscs; no substantive requirements in this excerpt.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "INTRODUCTION",
+      "summary": "Introduction stating that bivalve molluscs are a documented vehicle for V. parahaemolyticus and V. vulnificus because filter-feeding concentrates pathogens, they are often eaten live or insufficiently cooked, and post-harvest practices (e.g., holding alive out of water at ambient temperatures) can allow pathogen growth.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background context"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "SECTION I - OBJECTIVES",
+      "summary": "States the Annex's objective to provide guidance on control measures to minimize introduction, contamination and growth of pathogenic V. parahaemolyticus and V. vulnificus in bivalve molluscs and on adequate partial treatments, noting control measures differ where pathogen characteristics diverge and that the guidance is intended for regulators, industry, consumers and other stakeholders.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "2.1 Scope",
+      "summary": "Defines the Annex scope as applying to bivalve molluscs intended for live, raw or partially treated consumption (excluding those receiving vibriocidal treatment) and targeting pathogenic V. parahaemolyticus and V. vulnificus, and states the guidance applies across the food chain with Part I for live/raw (including post-harvest processed) and Part II for partially treated products.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "control measures",
+        "food chain coverage"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "SECTION II - SCOPE, DEFINITION AND USE OF THE DOCUMENT",
+      "summary": "Section providing scope, definitions and use: it repeats the scope for live/raw/partially treated bivalve molluscs, references definitions in CAC/RCP 1-1969, CAC/RCP 52-2003 and CODEX STAN 292-2008 (and defines post-harvest processing), and instructs that the Annex is supplemental to those documents and may require regional adaptation based on prevalence and epidemiology.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "2.2 Definitions",
+      "summary": "States that definitions are drawn from CAC/RCP 1-1969, CAC/RCP 52-2003, the Guidelines on pathogenic Vibrio and CODEX STAN 292-2008, and defines post-harvest processing as processes (e.g., high pressure, mild heating, freezing) intended to significantly reduce but not necessarily eliminate V. parahaemolyticus and V. vulnificus while retaining the sensory characteristics of live bivalve molluscs.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "referenced definitions",
+        "process definition"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "2.3 Use of the document",
+      "summary": "States the Annex is supplemental to the Recommended International Code of Practice (CAC/RCP 1-1969), the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003), CODEX STAN 292-2008 and related guidelines, may require modification for regional differences in pathogen prevalence and epidemiology, and is based on FAO/WHO risk assessments and epidemiological evaluations.",
+      "categories": [
+        "scope",
+        "definition",
+        "risk assessment",
+        "other"
+      ],
+      "subcategories": [
+        "use of document",
+        "supplemental use",
+        "taxonomic reference",
+        "risk assessment basis",
+        "editorial note",
+        "risk assessment reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "PART I: BIVALVE MOLLUSCS CONSUMED LIVE AND RAW",
+      "summary": "Part heading identifying the following material as Part I on bivalve molluscs consumed live and raw; not itself a substantive regulatory provision.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "SECTION III - PRIMARY PRODUCTION",
+      "summary": "Section III (Primary production) introduces environmental hygiene and pre-harvest controls for pathogenic Vibrio species, referencing relevant Codex and FAO/WHO guidance and describing the need for risk-based evaluation of harvesting-area factors and practices.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "3.1 Environmental hygiene",
+      "summary": "Describes pre-harvest environmental hygiene for controlling V. parahaemolyticus and V. vulnificus, advising use and local validation of predictive models based on air/water temperature, salinity and hydrodynamic factors, routine monitoring of total and pathogenic Vibrio levels, control of ballast-water impacts, and cooperation between producers and competent authorities; competent authorities should notify food business operators when organism levels or environmental parameters exceed risk‑based criteria or when unusual increases in Vibrio illnesses occur (includes reference temperature and salinity thresholds and minimum growth temperatures).",
+      "categories": [
+        "hygiene",
+        "risk management",
+        "risk assessment",
+        "official control",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "environmental hygiene heading",
+        "reference guidance",
+        "pre-harvest controls",
+        "predictive modelling",
+        "monitoring requirements",
+        "ballast water control",
+        "control factors",
+        "illness indicators",
+        "temperature criteria",
+        "refrigeration timing",
+        "solar heating exposure",
+        "salinity criteria",
+        "authority notification",
+        "testing criteria",
+        "outbreak trigger",
+        "implementation responsibility"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "3.2 Hygienic production of food sources",
+      "summary": "Lists pre-harvest and harvest hygienic measures for bivalve molluscs intended for raw consumption, including restricting harvest or diverting for processing, sinking product below the thermocline, minimizing time to refrigeration, and relaying shellstock to lower‑risk (e.g., higher salinity) waters.",
+      "categories": [
+        "hygiene",
+        "risk management",
+        "processing"
+      ],
+      "subcategories": [
+        "hygienic production heading",
+        "pre-harvest measures",
+        "harvest restriction",
+        "thermocline placement",
+        "refrigeration timing",
+        "relay measures"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "3.3 Handling, storage and transport",
+      "summary": "Requires separate handling of bivalve molluscs intended to be consumed live or raw and application of time‑and‑temperature controls during handling, wet storage and transport to minimize growth of V. parahaemolyticus and V. vulnificus, periodic surveys to verify controls, and training of handlers to maintain product characteristics for live consumption.",
+      "categories": [
+        "hygiene",
+        "storage",
+        "transport",
+        "analysis sampling",
+        "training"
+      ],
+      "subcategories": [
+        "handling storage transport heading",
+        "segregated handling",
+        "transport controls",
+        "cooling time limit",
+        "wet storage control",
+        "transport temperature",
+        "distribution survey",
+        "handler training"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "SECTION IV - ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "Section heading on establishment design and facilities that refers to corresponding sections of the Recommended International Code of Practice and related Guidelines; no additional substantive requirements provided here.",
+      "categories": [
+        "other",
+        "hygiene"
+      ],
+      "subcategories": [
+        "section heading",
+        "general reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "SECTION V - CONTROL OF OPERATION",
+      "summary": "Section V covers post‑harvest control of operations, stating that control of V. parahaemolyticus and V. vulnificus requires stringent Good Hygienic Practices, prerequisite programs and HACCP, and that reduction treatments (e.g., freezing, high pressure, mild heating) must be validated and approved by the competent authority (noting V. parahaemolyticus is generally more resistant); it also emphasizes maintaining time‑temperature controls, product separation for raw distribution, and measures to prevent cross‑contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "5.1 CONTROL OF FOOD HAZARDS",
+      "summary": "States that post‑harvest control measures for bivalve molluscs should follow referenced Codex guidance and that controlling V. parahaemolyticus and V. vulnificus typically requires strict Good Hygienic Practices and HACCP as the framework for effective control.",
+      "categories": [
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "control hazards heading",
+        "hazard control reference",
+        "post-harvest handling"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "5.2 Key aspects of hygiene control systems",
+      "summary": "Heading introducing key aspects of hygiene control systems (elaborated in subsequent subsections) such as time‑temperature control, specific process steps, and cross‑contamination prevention.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "5.2.1 Time and temperature control",
+      "summary": "Requires temperature control during processing and thereafter to reduce and maintain bivalve mollusc temperatures at levels that prevent growth of V. parahaemolyticus and V. vulnificus, with reference to the Code of Practice for Fish and Fishery Products.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "time temperature control",
+        "temperature control"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "5.2.2 Specific process steps",
+      "summary": "Mandates that bivalve molluscs intended to be consumed live or untreated raw be distributed separately from those destined for post‑harvest processing or treatment.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process steps heading",
+        "product separation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "5.2.3.    Microbiological cross contamination",
+      "summary": "Requires control measures to prevent microbiological cross‑contamination between bivalve molluscs destined for live/raw consumption and those intended for processing or other treatments.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cross contamination",
+        "cross contamination control"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "SECTION VI - ESTABLISHMENT: MAINTENANCE AND SANITATION",
+      "summary": "Section heading on establishment maintenance and sanitation that refers to the Recommended International Code of Practice and related guidelines, without adding substantive measures here.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "maintenance sanitation heading",
+        "maintenance sanitation reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "SECTION VII - ESTABLISHMENT: PERSONAL HYGIENE",
+      "summary": "Section heading on personal hygiene that refers to the Recommended International Code of Practice and related guidelines; no specific provisions are given in this text.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal hygiene heading",
+        "personal hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "SECTION VIII - TRANSPORTATION",
+      "summary": "Section heading on transportation that refers readers to the Recommended International Code of Practice and related guidance; no additional substantive transport requirements are specified here.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport heading",
+        "transport reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "SECTION IX - PRODUCT INFORMATION AND CONSUMER AWARENESS",
+      "summary": "Refers to existing Codex guidance and additionally recommends consumer information programs targeted at populations more susceptible to vibriosis to inform purchase, storage, shelf‑life labeling and safe consumption of live and raw bivalve molluscs, taking regional conditions and habits into account.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "consumer awareness heading",
+        "consumer awareness reference",
+        "consumer information"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "25. Refer to Section 9.3 (Labelling) of the Guidelines on the Application of General Principles of Food Hygiene to the Control of Pathogenic Vibrio Species in Seafood and Section I-7 and II-7 of the Standard for Live and Raw Bivalve Molluscs (CODEX STAN 292-2008).",
+      "summary": "Cross‑reference directing readers to Section 9.3 (Labelling) of the Vibrio guidelines and Sections I‑7 and II‑7 of the Codex Standard for Live and Raw Bivalve Molluscs (CODEX STAN 292‑2008) for labelling requirements.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "26. Refer to Section 9.4 (Consumer education) of the Guidelines on the Application of General Principles of Food Hygiene to the Control of Pathogenic Vibrio Species in Seafood .",
+      "summary": "Cross‑reference directing readers to Section 9.4 (Consumer education) of the Guidelines on the Application of General Principles of Food Hygiene to the Control of Pathogenic Vibrio Species in Seafood.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "consumer education"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 70,
+      "order": 69,
+      "section": "28. Refer to Section 10 of the Recommended International Code of Practice-General Principles of Food Hygiene, (CAC/RCP 1-1969), Section 7 of the Code of Practice for Fish and Fishery Products, (CAC/RCP 52-2003) and Section X of the Guidelines on the Application of General Principles of Food Hygiene to the Control of Pathogenic Vibrio Species in Seafood .",
+      "summary": "Section X heading on training that refers readers to the Recommended International Code of Practice and related Guidelines; no substantive training details are included in this text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

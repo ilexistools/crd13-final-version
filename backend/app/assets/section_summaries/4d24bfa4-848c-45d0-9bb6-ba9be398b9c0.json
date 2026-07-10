@@ -1,0 +1,617 @@
+{
+  "doc_id": "4d24bfa4-848c-45d0-9bb6-ba9be398b9c0",
+  "title": "## STANDARD FOR CANNED STRAWBERRIES CXS 62-1981 Adopted in 1981. Amended in 2019, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## STANDARD FOR CANNED STRAWBERRIES CXS 62-1981 Adopted in 1981. Amended in 2019, 2022.",
+      "summary": "Document title: Codex Standard for Canned Strawberries (CXS 62‑1981), adopted 1981 and amended in 2019 and 2022 (heading/identification).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2022 Amendments",
+      "summary": "Records that amendments to Section 7.2 (Labelling of non‑retail containers) were made following the 2022 Codex Alimentarius Commission decisions (amendment notice).",
+      "categories": [
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "labelling amendment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. DESCRIPTION",
+      "summary": "Defines canned strawberries as whole, clean, reasonably sound strawberries of Genus Fragaria with calices and stems removed, packed in water or suitable liquid and heat‑processed to prevent spoilage, and states varietal type may be any suitable cultivated strawberry cultivar.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1.1 Product definition",
+      "summary": "Defines the product: canned strawberries prepared from ripe, whole, clean strawberries of Genus Fragaria with extraneous matter removed, packed in water or other suitable liquid medium and heat‑processed to prevent spoilage.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "product definition",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1.2 Varietal type",
+      "summary": "States that canned strawberries may be of any suitable cultivated strawberry variety (cultivar).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "varietal type",
+        "varietal allowance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors including permitted packing media (water, fruit juice, mixtures, and sugars with specified Brix classifications and optional media subject to national prohibition), detailed quality criteria for colour, flavour and texture, defect and allowance limits (with numeric maxima), mineral impurity limit (≤300 mg/kg), classification of a container as \"defective\" if it fails requirements, and lot acceptance rules referencing an AQL of 6.5 for sampling plans.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1 Packing media i",
+      "summary": "Lists permitted packing media for canned strawberries (water; strawberry or other compatible fruit juices; water combined with one or more fruit juices; mixed fruit juices) and allows addition of specified sugars, with requirements on Brix (cut‑out strength) classifications and optional media where not prohibited.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1.2 Classification of packing media when sugars are added",
+      "summary": "When sugars are added, requires minimum °Brix thresholds: for sweetened fruit juices not less than 14 °Brix (lightly sweetened) or 18 °Brix (heavily sweetened), and for water/syrup bases defines light syrup ≥14 °Brix and heavy syrup ≥18 °Brix.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "packing media classification",
+        "sugar classification",
+        "juice classification",
+        "syrup classification",
+        "syrup strengths"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.1.3 Optional packing media",
+      "summary": "Permits, where not prohibited by the country of sale, optional packing media such as slightly sweetened water (10 to <14 °Brix), extra light syrup, and extra heavy syrup (more than 22 °Brix).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "optional packing media",
+        "optional media use",
+        "optional media option",
+        "brix range"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1.4 The cut-out strength of sweetened juice or syrup shall be determined on sample average, but no container may have a Brix value lower than that of the minimum of the next category below, if such there  be.",
+      "summary": "Requires cut‑out strength (°Brix) of sweetened juice or syrup to be determined on the sample average and forbids any container from having a Brix value lower than the minimum of the next lower category.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "brix determination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2 Quality criteria",
+      "summary": "Specifies quality criteria for canned strawberries: normal varietal colour (unless artificially coloured), normal flavour and odour, reasonably uniform texture, detailed defect limits by percent/count (with totals), mineral impurity limit of ≤300 mg/kg, definition of a \"defective\" container and lot acceptance based on sampling with an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.2.1 Colour",
+      "summary": "Requires canned strawberries (unless artificially coloured) to have normal colour characteristics typical for the variety used.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "colour heading",
+        "colour requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "i See Appendix to Part I.",
+      "summary": "Non‑substantive footnote directing the reader to the Appendix to Part I (footnote reference).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "footnote reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.2.2 Flavour",
+      "summary": "Canned strawberries must have a normal flavour and odour and be free from any flavours or odours foreign to the product.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "flavour heading",
+        "flavour requirement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.2.3 Texture",
+      "summary": "Canned strawberries shall have a reasonably uniform texture and must not be excessively firm or unreasonably soft.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture heading",
+        "texture requirement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "2.2.4 Defects and allowances",
+      "summary": "Canned strawberries shall be reasonably free from defects with specific maximums by count: calices/parts 15% (complete calices limited to 5%), blemished berries 15%, broken berries 20%, and a total defect limit of 30%; extraneous plant material limits (averages) are stalks 1 piece/100 g drained product and leaves/unattached calices or similar 1 cm²/100 g drained product.",
+      "categories": [
+        "quality",
+        "other"
+      ],
+      "subcategories": [
+        "defects heading",
+        "defects allowance",
+        "defects table heading",
+        "defects limit",
+        "table separator",
+        "total defects limit",
+        "extraneous material",
+        "extraneous plant material"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.2.5 Mineral impurities",
+      "summary": "Total mineral impurities in the product shall not exceed 300 mg/kg.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "mineral impurities",
+        "mineral impurity limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2.2.6 Classification of \"defectives\"",
+      "summary": "Any container that fails to meet one or more applicable quality requirements in subsections 2.2.1–2.2.4 (excluding extraneous plant material limits, which are based on averages) is classified as a \"defective.\"",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defective classification",
+        "defective criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "2.2.7 Acceptance",
+      "summary": "A lot meets the quality requirements when non-average defectives do not exceed the acceptance number (c) of an appropriate sampling plan at an AQL of 6.5 and the requirements based on sample averages are complied with.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "acceptance heading",
+        "acceptance criteria",
+        "sampling acceptance plan",
+        "average compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3. FOOD ADDITIVES",
+      "summary": "Permitted additives include acidifying agents (citric, lactic — lactic limited by GMP, malic, L‑tartaric), colours (erythrosine and Ponceau 4R up to 300 mg/kg singly or combined), and calcium firming agents with calcium limits (calcium chloride cited at 350 mg/kg of final product and calcium salts calculated as total Ca); contaminants limits specified are lead (Pb) 1 mg/kg and tin (Sn) 200 mg/kg (as Sn).",
+      "categories": [
+        "additives",
+        "contaminants"
+      ],
+      "subcategories": [
+        "additives heading",
+        "additives table",
+        "acidifying agents",
+        "acidifying agent",
+        "acidifying agent limit",
+        "colours",
+        "colour limit",
+        "firming agents",
+        "firming agent limit",
+        "firming agent",
+        "contaminants heading",
+        "contaminant table",
+        "lead limit",
+        "tin limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## 5. HYGIENE",
+      "summary": "Preparation and handling should follow the Codex General Principles of Food Hygiene; the product shall, to the extent of good manufacturing practice, be free from objectionable matter and, when tested, free from microorganisms, parasites, and microbial-origin substances in amounts that may represent a hazard to health.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene",
+        "objectionable matter",
+        "sampling examination",
+        "microbiological safety",
+        "parasite safety",
+        "microbial toxins"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "## 6. WEIGHTS AND MEASURES",
+      "summary": "Containers must be well filled so the product (including packing medium) occupies at least 90% of the container's water capacity (defined by distilled water volume at 20°C); a container below this is a \"defective\" and lot acceptance follows an appropriate sampling plan at AQL 6.5, while drained weight must be at least 35% of the weight of distilled water the filled container holds, with compliance assessed on average provided no unreasonable shortages in individual containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.1 Fill of container",
+      "summary": "The container fill requirement is that product (including packing medium) occupy not less than 90% of the water capacity (distilled water at 20°C); failure to meet this makes a container \"defective,\" lot acceptance follows an AQL 6.5 sampling plan, and minimum drained weight requirements (35% of equivalent distilled water weight) apply with average-based compliance allowed if no unreasonable shortages occur.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.1.1 Minimum fill",
+      "summary": "The container must be well filled so that the product and packing medium occupy at least 90% of the container's water capacity, defined as the volume of distilled water at 20°C the sealed container will hold when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill",
+        "fill requirement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.1.3 Acceptance",
+      "summary": "A lot meets the minimum fill requirement when the number of containers classified as \"defective\" for underfill does not exceed the acceptance number (c) of an appropriate sampling plan at an AQL of 6.5.",
+      "categories": [
+        "weights and measures",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "acceptance heading",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.1.4 Minimum drained weight",
+      "summary": "The drained weight must be at least 35% of the weight of distilled water at 20°C that the filled sealed container will hold, and compliance may be determined on the average drained weight of examined containers provided there is no unreasonable shortage in individual containers.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "drained weight heading",
+        "minimum drained weight",
+        "drained weight compliance"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7. LABELLING",
+      "summary": "In addition to general labelling rules, the product name must be \"strawberries\" and the packing medium must be declared near the name using prescribed designations that reflect whether the medium is water, single or mixed fruit juices, or sweetened syrups and, where applicable, indicate preponderance of fruit juice.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.1 The name of the food",
+      "summary": "The product name shall be \"strawberries\" and the packing medium must be declared as part of, or close to, the name using specified phrases appropriate to the composition (water, single fruit juice, mixed juices) and sugar content of the packing medium.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.1.2 When the packing medium is composed of water, or water and strawberry juice, or water and one or more fruit juices in which water predominates, the packing medium shall be declared as:",
+      "summary": "The packing medium must be declared near the product name using specific prescribed terms depending on composition — e.g., \"In water\" for water‑based media, \"In (name of fruit) juice\" for single juices, \"In fruit juices\" for mixed juices — with additional prescribed phrasing for lightly or heavily sweetened media and indications when a fruit juice comprises 50% or more by volume.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.1.2.1 When the packing medium is composed of water, or water and strawberry juice, or water and one or more fruit juices in which water predominates, the packing medium shall be declared as:\n\"In water\" or \"Packed in water\"",
+      "summary": "When the packing medium is water or water plus juices in which water predominates, it must be declared as \"In water\" or \"Packed in water.\"",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.1.2.2 When the packing medium is composed solely of strawberry juice, or any other single fruit juice, the packing medium shall be declared as:\n\"In strawberry juice\" or \"In (name of fruit) juice\"",
+      "summary": "When the packing medium is solely strawberry juice or another single fruit juice, it must be declared as \"In strawberry juice\" or \"In (name of fruit) juice.\"",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.1.2.3 When the packing medium is composed of two or more fruit juices, which may include strawberry juice, it shall be declared as:\n\"In (name of fruits) juice\" or \"In fruit juices\" or \"In mixed fruit juices\"",
+      "summary": "When the packing medium is two or more fruit juices (which may include strawberry), it must be declared as \"In (name of fruits) juice,\" \"In fruit juices,\" or \"In mixed fruit juices.\"",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.1.2.4 When sugars are added to strawberry juice or other fruit juices, the packing medium shall be declared as:\n\"Lightly sweetened (name of fruit)  juice\"\n\nor\n\n\"Heavily sweetened (name of fruits) juice(s)\"\n\nor\n\n\"Lightly sweetened fruit juices\"\n\nor\n\n\"Heavily sweetened mixed fruit juices(s)\"\n\nas may be appropriate.",
+      "summary": "If sugars are added to strawberry or other fruit juices the packing medium must be declared using appropriate phrases such as \"Lightly sweetened (name of fruit) juice\" or \"Heavily sweetened mixed fruit juices,\" as applicable.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "sweetened medium declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "7.1.2.5 When sugars are added to water, or water and a single fruit juice (including strawberry juice) or water and two or more fruit juices, the packing medium shall be declared  as:\n\"Light syrup\" or \"Heavy syrup\" or \"Water slightly sweetened\" or \"Slightly sweetened water\" or \"Extra light syrup\" or \"Extra heavy syrup\"\n\nas may be appropriate.",
+      "summary": "Requires that when sugars are added to water, or water plus one or more fruit juices (including strawberry), the packing medium must be declared using the appropriate term from the prescribed list (e.g., “Light syrup”, “Heavy syrup”, “Water slightly sweetened”, “Slightly sweetened water”, “Extra light syrup”, “Extra heavy syrup”).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "sweetened medium declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "7.1.2.6 When the packing medium contains water and strawberry juice or water and one or more fruit juice(s), in which the fruit juice comprises 50 percent or more by volume of the packing medium, the packing medium shall be designated to indicate the preponderance of such fruit juice, as, for example:\n\n\"Strawberry juice and water\" or \"(name of fruit) juice(s) and  water\"",
+      "summary": "Requires that if the packing medium is water plus strawberry or other fruit juice and the fruit juice constitutes 50% or more by volume, the packing medium must be designated to indicate the predominance of that fruit juice (e.g., “Strawberry juice and water” or “(name of fruit) juice(s) and water”).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fruit preponderance"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "7.2 Labelling of non-retail containers.",
+      "summary": "States that labelling of non-retail containers should follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "## 8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies that methods of analysis and sampling for checking compliance with this standard shall be those contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions being verified.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

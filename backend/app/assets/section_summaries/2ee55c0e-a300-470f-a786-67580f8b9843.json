@@ -1,0 +1,981 @@
+{
+  "doc_id": "2ee55c0e-a300-470f-a786-67580f8b9843",
+  "title": "STANDARD FOR TABLE OLIVES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR TABLE OLIVES",
+      "summary": "Non‑substantive heading indicating the document is the Standard for Table Olives.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 66-1981",
+      "summary": "Document identifier: Codex Standard CXS 66-1981.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 1981. Revised in 1987, 2013. Amended in 2022, 2023.",
+      "summary": "Revision history: adopted 1981; revised 1987 and 2013; amended 2022 and 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "revision history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2022 Amendments",
+      "summary": "Amendment notice: following CAC‑45 (Dec 2022), amendments were made to Section 8.2 (labelling of non‑retail containers).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 2023 Amendments",
+      "summary": "Amendment notice: following CAC‑46 (Dec 2023), amendments were made to Section 9 (methods of analysis and sampling).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to suitably treated or processed fruit of Olea europaea L. offered for direct consumption as table olives (including catering and bulk containers intended for repacking) and excludes products indicated as intended for further processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2. DESCRIPTION",
+      "summary": "Overview: defines table olives and sets out classification by ripeness and trade preparations/treatments, varietal suitability, presentation styles, and rules for other presentations and naming to avoid consumer confusion.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1 Product definition",
+      "summary": "Defines 'table olives' as products from sound Olea europaea fruits selected for processing, debittered and preserved by natural fermentation, heat treatment or other means (with or without preservatives) to ensure stability, and packed with or without a suitable liquid packing medium in accordance with Section 3.1.3.",
+      "categories": [
+        "definition",
+        "composition",
+        "processing",
+        "packaging"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "product criteria",
+        "preservation treatment",
+        "bulk packing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2 Product designation",
+      "summary": "States that table olives are classified by olive type (ripeness) and by trade preparations/treatments.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.1 Types of olives",
+      "summary": "Classifies olive types by ripeness: green (harvested before colouring at normal size), olives turning colour (harvested at colour change before full ripeness) and black olives (harvested fully ripe or slightly before full ripeness).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "types heading",
+        "type criteria",
+        "green olives",
+        "colour turning olives",
+        "black olives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.2 Trade preparations",
+      "summary": "Specifies trade preparations: 'treated' (alkaline‑treated) and 'natural' (placed directly in brine for partial or complete fermentation, with or without acidifying agents), dehydrated/shrivelled types (preserved in brine or by dry salt/heating/other processes), and olives darkened by oxidation which must be preserved in hermetically‑sealed containers and heat‑sterilized; allows 'specialities' prepared by other means provided the fruit meets the general definitions and the product name clearly prevents consumer confusion.",
+      "categories": [
+        "classification",
+        "processing",
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "trade preparations heading",
+        "trade preparation intro",
+        "alkaline treatment",
+        "treated green olives",
+        "treated colour turning",
+        "treated black olives",
+        "green ripe olives",
+        "brine fermentation",
+        "natural green olives",
+        "natural colour turning",
+        "natural black olives",
+        "footnote note",
+        "dehydration treatment",
+        "dehydrated green olives",
+        "dehydrated colour turning",
+        "dehydrated black olives",
+        "oxidation treatment",
+        "heat sterilization",
+        "oxidized black olives",
+        "speciality naming"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.3 Varietal types",
+      "summary": "Varietal types: any commercially cultivated olive variety (cultivar) suitable for processing is permitted.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "varietal types heading",
+        "cultivar suitability"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.4 Styles",
+      "summary": "Lists permissible presentation styles (whole, cracked, split; stoned/pitted including halved, quartered, divided, sliced, chopped/minced, broken; stuffed; salad olives; and olives with capers or medleys) and defines criteria and naming requirements for these styles.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.4.1 Whole olives",
+      "summary": "Defines whole olives (natural shape, stone intact), cracked olives (flesh opened without breaking the stone) and split olives (lengthwise cut into the skin and part of the flesh).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "whole olives heading",
+        "whole olives definition",
+        "cracked olives definition",
+        "split olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.4.2 Stoned (pitted) olives",
+      "summary": "Defines stoned/pitted olives and substyles: stoned (stone removed, natural shape retained), halved, quartered, divided, sliced, chopped/minced (small pieces with no more than 5 per 100 by weight of identifiable stem‑insertion units or slice fragments), and broken olives (may include pieces of stuffing material).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "2.4.2.1 Stoned (pitted) olives",
+      "summary": "Defines stoned (pitted) olives as olives from which the stone (pit) has been removed while basically retaining their natural shape.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "stoned olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.4.2.2 Halved  olives",
+      "summary": "Defines halved olives as stoned (pitted) or stuffed olives sliced into two approximately equal parts perpendicular to the longitudinal axis.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "halved olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2.4.2.3 Quartered  olives",
+      "summary": "Defines quartered olives as stoned (pitted) olives split into four approximately equal parts along and perpendicular to the major axis of the fruit.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "quartered olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "2.4.2.4 Divided olives",
+      "summary": "Defines divided olives as stoned (pitted) olives cut lengthwise into more than four approximately equal parts.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "divided olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "2.4.2.5 Sliced olives",
+      "summary": "Defines sliced olives as stoned (pitted) or stuffed olives sliced into segments of fairly uniform thickness.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sliced olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "2.4.2.6 Chopped or minced olives",
+      "summary": "Defines chopped or minced olives as small pieces of stoned (pitted) olives of no definite shape that are practically devoid (no more than 5 per 100 units by weight) of identifiable stem-insertion units and slice fragments.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "chopped olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "2.4.2.7 Broken olives",
+      "summary": "Defines broken olives as olives broken while being stoned (pitted) or stuffed, which may contain pieces of the stuffing material.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "broken olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "2.4.3 Stuffed  olives",
+      "summary": "Defines stuffed olives as stoned (pitted) olives filled with one or more suitable products (e.g., pimiento, onion, almond, celery, anchovy, olive, citrus peel, hazelnut, capers) or with edible pastes.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "stuffed olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "2.4.4 Salad olives",
+      "summary": "Defines salad olives as whole, broken or broken-and-stoned olives with or without capers plus stuffing material, where olives are the most numerous component of the marketed product in this style.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "salad olives definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "2.4.5 Olives with capers or medley",
+      "summary": "Defines olives with capers or medley as whole or stoned (usually small) olives combined with capers and optionally stuffing, packed with other pickled edible products (e.g., pieces of onion, carrot, celery, pepper) where olives are the predominant ingredient.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "olives with capers"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "2.5 Other styles",
+      "summary": "Permits other presentations of the product provided they are sufficiently distinctive from prescribed styles, meet all relevant Standard requirements (including limits on defects, drained weight and applicable style requirements), and are adequately described on the label so as not to confuse or mislead the consumer.",
+      "categories": [
+        "classification",
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "other styles heading",
+        "other presentations",
+        "distinctive style",
+        "style requirements",
+        "consumer description"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Heading introducing the essential composition and quality factors for table olives; no substantive provisions in this heading itself.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "3.1 Composition",
+      "summary": "Heading only: '3.1 Composition' introducing the composition subsection for table olives.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "States the basic ingredients are olives as defined in Sections 1 and 2, with or without a liquid packing medium.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "3.1.2 Other permitted ingredients",
+      "summary": "Lists permitted additional ingredients for table olives, including water; food-grade salts; vinegar; olive oil or other edible vegetable oils; sugars or sweetening foods (e.g., honey); edible accompaniments or stuffing materials (e.g., pimiento, onion, almond, celery, anchovy, capers or their pastes); and spices, aromatic herbs or their natural extracts.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "permitted ingredients",
+        "water ingredient",
+        "salt ingredient",
+        "vinegar ingredient",
+        "oil ingredient",
+        "sweetening ingredients",
+        "stuffing ingredients",
+        "spices ingredients"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "3.1.3 Packing media (packing brines)",
+      "summary": "Defines packing media (brines) as solutions of food-grade salts in potable water with optional permitted ingredients, requires brine to be clean and comply with hygiene rules in Section 6 and notes fermented olives may contain fermentation microorganisms; it also sets physico‑chemical limits in Table 1 (e.g., minimum NaCl: treated olives 5.0%, natural olives 6.0%, dehydrated/shrivelled 8.0%; maximum pH generally 4.3 or GMP where indicated) and states non‑complying trade preparations should be appropriately processed to meet food safety recommendations.",
+      "categories": [
+        "composition",
+        "quality",
+        "processing",
+        "analysis sampling",
+        "classification",
+        "other"
+      ],
+      "subcategories": [
+        "packing media heading",
+        "packing brine definition",
+        "brine quality",
+        "fermentation microorganisms",
+        "brine characteristics",
+        "table heading",
+        "brine limits table",
+        "size scale",
+        "gmp note",
+        "reprocessing requirement",
+        "fermentation allowance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "3.2 Quality factors",
+      "summary": "Requires table olives to have normal colour, flavour, odour and texture characteristic of the finished product and for olives and brine to be free from microbiological deterioration and extraneous tastes or smells, and specifies that whole, stoned (pitted) and stuffed styles must meet the minimum quality requirements in the second category of Table 3 while other styles must meet Table 4.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "3.2.1 Trade categories",
+      "summary": "Heading introducing optional trade classification of table olives with designated categories if the product is classified.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "3.2.1.1 'Extra' or 'Fancy' or 'A'",
+      "summary": "Defines the 'Extra' (Fancy/A) category as the highest quality olives maximally endowed with variety and preparation characteristics, allowing only very slight colour, shape, flesh‑firmness or skin defects that do not affect overall appearance or organoleptic qualities; applicable to whole, split, stoned (pitted) and stuffed olives of suitable varieties.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "quality grade heading",
+        "quality grade criteria",
+        "grade eligibility"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "3.2.1.2 'First', '1 st ', 'Choice' or 'Select' or 'B'",
+      "summary": "Defines the 'First' (1st/Choice/Select/B) category as good quality olives with suitable ripeness and varietal/preparation characteristics that may have slight defects without affecting overall aspect, and permits all types, preparations and styles except chopped or broken olives.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "quality grade heading",
+        "quality grade criteria",
+        "grade eligibility"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "3.2.1.3 'Second', '2 nd ' or 'Standard' or 'C'",
+      "summary": "Defines the 'Second' (2nd/Standard/C) category as olives of acceptable quality that do not qualify for the two higher categories but comply with the general conditions for table olives set out in this section.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "quality grade heading",
+        "quality grade criteria"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "3.2.2 Uniformity of size",
+      "summary": "Requires table olives to be uniform in size and, if size‑graded, to use the count-per-kilogramme scale (Table 2) applicable to whole, stoned (pitted) and stuffed styles; for checking, after removing the largest and smallest from a 100-olive sample the remaining olives' horizontal diameters must differ by no more than 4 mm, with alternative over/under size tolerances of −10%, −5% or −2% depending on the size interval.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "size uniformity heading",
+        "size uniformity criteria",
+        "size table",
+        "size tolerance",
+        "size grading applicability",
+        "size measurement method"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "3.2.3 Definitions of defects",
+      "summary": "Provides definitions and thresholds for defects including harmless extraneous vegetable matter; blemished fruit (>9 mm² skin marks); mutilated, broken and shrivelled fruit; abnormal texture and colour; stems (defect if >3 mm from shoulder except when whole olives are presented with stem attached); defective stuffing; stone/pit fragments (>2 mm longest axis); 'soft' (lacking characteristic firmness) and 'excessively soft' (spongy/watery, disintegrated flesh, or when the pit can be felt under moderate pressure).",
+      "categories": [
+        "definition",
+        "quality"
+      ],
+      "subcategories": [
+        "defect definitions heading",
+        "extraneous material",
+        "blemished fruit",
+        "mutilated fruit",
+        "broken fruit",
+        "shrivelled fruit",
+        "abnormal texture",
+        "abnormal colour",
+        "stem defect",
+        "stuffing defect",
+        "stone fragments",
+        "soft defect",
+        "excessive softness"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "3.2.4 Defects and allowances",
+      "summary": "Sets maximum defect tolerances by trade category and type/style in Table 3 (whole, stoned or stuffed olives) and Table 4 (broken, chopped, minced, sliced and other segmented styles), giving specific limits for items such as stones, broken fruit and blemishes; these tolerances are to be assessed in a minimum sample with specified sampling plans. The tolerances for whole/stoned/stuffed olives are assessed on a minimum sample of 200 olives (AQL 6.5) and those for segmented styles on a minimum 300 g sample (AQL 6.5).",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defects allowance",
+        "defect tolerances",
+        "table heading",
+        "table content",
+        "defect limits",
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "6. practice and codes of practice.",
+      "summary": "Recommends that products covered by this standard be prepared and handled in accordance with the General Principles of Food Hygiene and relevant Codex Codes of Hygienic Practice (e.g., for low/acidified canned foods and canned fruit/vegetable products) and other applicable Codex texts.",
+      "categories": [
+        "hygiene",
+        "analysis sampling",
+        "classification",
+        "other"
+      ],
+      "subcategories": [
+        "hygiene recommendation",
+        "acceptance criteria",
+        "style category",
+        "stuffed style",
+        "fragment"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "## 7. WEIGHTS AND MEASURES",
+      "summary": "Section heading for Weights and Measures; no substantive provisions in this section text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "## 7.1 Fill of container",
+      "summary": "Section heading for Fill of container; no substantive provisions in this section text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "## 7.1.1 Minimum fill",
+      "summary": "Requires the container (product plus packing medium) to occupy at least 90% of the container's water capacity (allowing necessary headspace per good manufacturing practices) and defines water capacity as the volume of distilled water at 20°C the sealed container holds when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill",
+        "fill requirement"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "## 7.1.2 Classification of 'defectives'",
+      "summary": "Defines any container failing to meet the minimum fill requirement of Section 7.1.1 as a 'defective'.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defective classification",
+        "defective container"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "## 7.1.3 Lot acceptance",
+      "summary": "Specifies lot acceptance for fill: a lot meets Section 7.1.1 when the number of 'defectives' does not exceed the acceptance number (c) from the applicable sampling plan using an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "## 7.1.4 Minimum net drained weight",
+      "summary": "Sets minimum net drained weight requirements for olives calculated relative to the container's water capacity (distilled water at 20°C): whole olives minimum 50% and stoned (pitted) and stuffed olives minimum 40%.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "## 7.1.4.1 Classification of defectives",
+      "summary": "Establishes tolerance limits for net drained weight by container drained-weight ranges—<200 g: 5%; 200–500 g: 4%; 500–1,500 g: 3%; >1,500 g: 2%—applicable provided the sample's mean net drained weight is equal to or exceeds the declared weight, and any container outside these tolerances is a 'defective'.",
+      "categories": [
+        "weights and measures",
+        "other"
+      ],
+      "subcategories": [
+        "defective classification",
+        "drained weight tolerance",
+        "table reference",
+        "table separator",
+        "defective container"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "7.1.4.2 Lot acceptance",
+      "summary": "Provides lot acceptance for drained weight: compliance when the average drained weight of examined containers is at least the required minimum and the number of 'defectives' (per Section 7.1.4 tolerances) does not exceed the acceptance number (c) of the sampling plan with an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "8. LABELLING",
+      "summary": "Section heading for Labelling; no substantive provisions in this section text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "8.1 Labelling of retail containers",
+      "summary": "States that retail containers must be labelled per the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and that additional specific provisions in this standard also apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "8.1.1 Name of the product",
+      "summary": "Requires the product name to be 'olives' or 'table olives' and to be accompanied (or in close proximity) by the type, trade preparation, style (with stuffing specified for stuffed olives), and optionally size, trade category and variety, with some declarations allowed to be omitted on transparent packs or glass jars and additional wording required to avoid consumer confusion for other styles.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name",
+        "product name declaration",
+        "label particulars",
+        "type declaration",
+        "trade preparation declaration",
+        "style declaration",
+        "stuffing declaration",
+        "misleading statement",
+        "size declaration",
+        "trade category",
+        "variety declaration"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Directs that labelling of non-retail containers follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail container standard"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Section heading for Methods of Analysis and Sampling; no substantive provisions beyond the heading.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "9.1 METHODS OF ANALYSIS",
+      "summary": "Mandates that methods of analysis and sampling relevant to this standard shall be those contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) for checking compliance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "9.1.1 For  checking  the  compliance  with  this  standard,  the  methods  of  analysis  and  sampling  contained  in  the Recommended  Methods  of  Analysis  and  Sampling (CXS  234-1999) 14   relevant  to  the provisions  in  this standard, shall be used.",
+      "summary": "Reiterates that the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to this standard shall be used for compliance checking.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reference methods"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "9.2 METHODS OF SAMPLING",
+      "summary": "States that methods of sampling are described in the standard (no further detail provided in this text).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "As described in the standard.",
+      "summary": "Fragmentary text only: 'As described in the standard.' with no substantive content.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "fragment"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

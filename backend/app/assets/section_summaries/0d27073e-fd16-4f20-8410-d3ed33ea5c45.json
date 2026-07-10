@@ -1,0 +1,620 @@
+{
+  "doc_id": "0d27073e-fd16-4f20-8410-d3ed33ea5c45",
+  "title": "## CODE OF HYGIENIC PRACTICE FOR BOTTLED/PACKAGED DRINKING WATERS (OTHER THAN NATURAL MINERAL WATERS)",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## CODE OF HYGIENIC PRACTICE FOR BOTTLED/PACKAGED DRINKING WATERS (OTHER THAN NATURAL MINERAL WATERS)",
+      "summary": "Title of the Code of Hygienic Practice covering bottled/packaged drinking waters other than natural mineral waters.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## CXC48-2001",
+      "summary": "Document identifier for the Code: CXC48-2001.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "INTRODUCTION",
+      "summary": "Explains the growing international bottled water trade and use in emergencies, highlights risks from viral and protozoal contaminants that are hard to detect, and notes consumers may need information on treatments (e.g., boiling, pasteurization, distillation, reverse osmosis, one‑micron filtration) and on suitability or directions for infant consumption and rehydration of infant formula.",
+      "categories": [
+        "other",
+        "scope",
+        "risk management",
+        "labelling"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background introduction",
+        "contamination control",
+        "usage directions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION 1. SCOPE, USE AND DEFINITIONS",
+      "summary": "Section heading that provides the Code's scope, instructions for use, and supplemental definitions for bottled/packaged drinking water and related terms.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1.1 SCOPE",
+      "summary": "States the Code covers general techniques for collecting, processing, packaging, storing, transporting, distributing and selling drinking waters for direct consumption excluding natural mineral waters, for which a separate Code (CXC 33-1985) applies.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "1.2 USE OF THE DOCUMENT",
+      "summary": "Requires this Code be used alongside the Recommended International Code of Practice — General Principles of Food Hygiene (CXC 1-1969, Rev.3-1997) including the HACCP Annex, and the Principles for Microbiological Criteria for Foods (CXG 21-1997).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "use of document",
+        "cross-reference use"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "1.3 DEFINITIONS",
+      "summary": "Provides supplemental definitions relevant to this Code, including 'bottled/packaged drinking water', 'drinking water systems', 'establishment', 'food' (as applied here), 'food handling', 'ground water', 'ingredient' and 'surface water'.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition preamble",
+        "product definition",
+        "system definition",
+        "establishment definition",
+        "food definition",
+        "handling definition",
+        "water source definition",
+        "ingredient definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "SECTION 2. PRIMARY PRODUCTION",
+      "summary": "Heading for Section 2 (Primary Production) which supplements the General Principles of Food Hygiene and requires establishing a water resource's chemical composition and microbiological safety over time before using it for bottling.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.1 ENVIRONMENTAL HYGIENE",
+      "summary": "Section heading for 'Environmental Hygiene' (non‑substantive heading).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1.1 Precautions in selecting a resource site",
+      "summary": "Hydrogeological data must define the watershed and protection perimeter for a water resource, and critical areas should be protected with controls on disposal of liquid, solid and gaseous wastes to prevent pollution and avoid siting drinking-water resources in paths of potential underground contamination (e.g., sewers, septic tanks, industrial ponds, tanks, pipelines, waste sites).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "resource site selection",
+        "source protection"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2 HYGIENIC PRODUCTION OF WATER SUPPLIES",
+      "summary": "Section heading for hygienic production of water supplies only; no substantive content in this extract.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.2.1 Protection of ground water supplies",
+      "summary": "Section heading for protection of ground water supplies only; no substantive content in this extract.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.2.1.1 Considerations for ground water supplies",
+      "summary": "Requires regular testing of groundwater supplies for biological (including microbial), chemical, physical and, where necessary, radiological characteristics with sampling frequency based on hydrogeological evaluation, quantity and historical constancy; production must cease if contamination is detected until parameters are restored, and underground supplies should be approved by the competent authority or a qualified third party.",
+      "categories": [
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "ground water supply",
+        "water testing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.2.2 Protection of surface water supplies",
+      "summary": "States that surface waters intended for bottling must be protected from contamination and tested frequently because they are highly variable, even when post-source treatment is planned.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.2.2.1 Considerations for surface water supplies",
+      "summary": "Advises that stringent criteria should be used to determine suitability of surface waters for bottling, even if subsequent treatment is intended.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "surface water supply",
+        "surface water suitability"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "2.3 HANDLING, STORAGE AND TRANSPORT OF WATER INTENDED FOR BOTTLING",
+      "summary": "Section heading for handling, storage and transport of water intended for bottling only; no substantive content in this extract.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.3.1 Hygienic extraction or collection of water",
+      "summary": "Section heading for hygienic extraction or collection of water only; no substantive content in this extract.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2.3.1.2 Protection of the area of origin",
+      "summary": "Requires protection of the immediate surroundings of water extraction/collection areas by restricting access to authorized persons and protecting wellheads and spring outflows with structures to prevent entry by people, pests, dust, extraneous matter, drainage, floodwaters and infiltration.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "origin protection",
+        "source sanitation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "2.3.1.3 Maintenance of extraction or collection facilities",
+      "summary": "Mandates hygienic maintenance of extraction and collection facilities so they do not pose hazards or contaminate water, including disinfection of wells after construction, nearby well development, pump repair/replacement or when indicator organisms/abnormal counts are found, disinfection of collection chambers before use, and construction/maintenance of extraction devices to avoid contamination and health hazards.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "facility maintenance",
+        "maintenance hygiene"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "2.3.2 Storage and transport of water intended for bottling",
+      "summary": "Storage and transport of water intended for bottling must be conducted hygienically to prevent contamination, with preference for piping from the source to avoid bulk-transport risks and cross-reference to detailed requirements in 2.3.2.1, 2.3.2.2 and the Code of Hygienic Practice for Bulk Transport of Food (CXC 47-2001).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "2.3.2.1. Requirements",
+      "summary": "Bulk containers and conveyances (tanks, piping, tanker trucks) used when necessary should be designed and constructed so they do not contaminate water intended for bottling, can be effectively cleaned and disinfected, protect against contamination (including dust and fumes), and allow easy inspection of arising situations.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport requirements",
+        "container design"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "2.3.2.2. Use and maintenance",
+      "summary": "Means of transport for water intended for bottling should be maintained in a clean, repaired condition and preferably reserved for bottled-water transport; if not possible they must be used exclusively for food transport and cleaned and disinfected as necessary to prevent contamination (see also CXC 47-2001).",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "use and maintenance",
+        "cleaning maintenance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "SECTION 3. ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "This section provides supplemental design and facilities guidance for bottled-water establishments (per CXC 1), stressing preventive facility design where containers are exposed and indicating that 3.2.1 addresses water supplies not intended for bottling.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "3.1 PREMISES AND ROOMS",
+      "summary": "Where containers are exposed to the external environment (e.g., loading docks), especially before filling and sealing, facility design should incorporate specific preventive measures to avoid contamination of bottled-water containers.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "premises rooms",
+        "contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "3.2 FACILITIES",
+      "summary": "Section heading only: '3.2 Facilities' with no substantive content in this passage.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "3.2.1 Water supply not intended for bottling",
+      "summary": "Specifies that 3.2.1 pertains to water supplies used for cleaning and disinfection within the plant and does not apply to water intended for bottling.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "water supply use",
+        "non-bottling water"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "4. ESTABLISHMENT: CONTROL OF OPERATION",
+      "summary": "Supplemental to CXC 1, this section requires that waters intended for bottling meet public drinking-water standards and not be accepted if known to contain pathogens or excessive toxic residues, and it calls for hazard analysis (e.g., HACCP) and controlled treatment (chemical and/or physical multiple barriers) as necessary to ensure finished bottled water is safe and suitable while avoiding treatment-related contaminants in accordance with WHO guidance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "4.1 KEY ASPECTS OF HYGIENE CONTROL SYSTEMS",
+      "summary": "Waters intended for bottling must meet all public drinking-water standards (chemical, microbiological, physical, radiological) with documented compliance acceptable from drinking-water system testing; waters known to contain pathogens or excessive toxic residues must be rejected, and a hazard analysis (e.g., HACCP) should establish appropriate control measures and controlled multi-barrier treatments while avoiding harmful by-products per WHO guidance.",
+      "categories": [
+        "hygiene",
+        "processing",
+        "risk management",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hygiene control",
+        "source water standards",
+        "reject contaminated water",
+        "water treatment",
+        "hazard analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "4.2 PACKAGING",
+      "summary": "Section heading only: packaging requirements are covered by the Recommended International Code of Practice – General Principles of Food Hygiene (CXC 1-1969, Rev. 3-1997).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "4.2.1 Washing and disinfecting of containers",
+      "summary": "Reused (and where necessary other) containers should be washed and disinfected in an appropriate system and located to minimize post-sanitizing contamination prior to filling, while disposable containers may be used without prior washing only if verified ready for use.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "container washing",
+        "container sanitation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "4.3 FILLING AND SEALING OF CONTAINERS",
+      "summary": "Filling and sealing operations should protect against contamination by using enclosed areas or containment systems separate from other plant operations and by controlling and monitoring dust, dirt, airborne microorganisms and condensation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "4.3.1 Product containers and closures",
+      "summary": "Reusable containers must not previously have been used for purposes that could contaminate the product and should be individually inspected for suitability, and new containers should be inspected and cleaned/disinfected if necessary.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "containers closures",
+        "container inspection"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "4.3.2 Use of closures",
+      "summary": "Closures are generally supplied ready-to-use, should be tamper-resistant, and are not reusable.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "closures use",
+        "closure requirements"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "SECTION 5. ESTABLISHMENT: MAINTENANCE AND SANITATION",
+      "summary": "Section heading only: maintenance and sanitation requirements are addressed in the Recommended International Code of Practice – General Principles of Food Hygiene (CXC 1-1969, Rev. 3-1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "maintenance sanitation",
+        "general hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "SECTION 6. ESTABLISHMENT: PERSONAL HYGIENE",
+      "summary": "Section heading only: personal hygiene requirements are covered by the Recommended International Code of Practice – General Principles of Food Hygiene (CXC 1-1969, Rev. 3-1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal hygiene",
+        "personal hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "SECTION 7. TRANSPORTATION AND STORAGE OF BOTTLED WATER",
+      "summary": "Transportation and storage guidance for bottled water supplements CXC 1 with the Code of Hygienic Practice for the Transport of Foodstuffs in Bulk and Semi-Packed Food (CXC 47-2001) for transport, while storage follows CXC 1 provisions.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport storage heading",
+        "transport storage provisions"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "SECTION 8. PRODUCT INFORMATION AND CONSUMER AWARENESS",
+      "summary": "Section heading only: product information and consumer awareness requirements are covered by the Recommended International Code of Practice – General Principles of Food Hygiene (CXC 1-1969, Rev. 3-1997) and the document introduction.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "consumer information",
+        "reference standard"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "SECTION 9. TRAINING",
+      "summary": "Section heading only: training requirements are covered by the Recommended International Code of Practice – General Principles of Food Hygiene (CXC 1-1969, Rev. 3-1997).",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "training reference"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "APPENDIX 1-MICROBIOLOGICAL AND OTHER SPECIFICATIONS",
+      "summary": "Appendix states that microbiological and other specifications for bottled drinking waters follow CXC 1 (section 5.2.3), the Principles for Establishment and Application of Microbiological Criteria for Foods (CXG 21-1997), and the WHO Guidelines for Drinking Water Quality for bottled waters other than natural mineral waters.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbiological specifications",
+        "microbiological criteria",
+        "criteria application",
+        "water quality specifications"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    }
+  ]
+}

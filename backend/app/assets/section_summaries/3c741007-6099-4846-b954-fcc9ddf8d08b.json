@@ -1,0 +1,611 @@
+{
+  "doc_id": "3c741007-6099-4846-b954-fcc9ddf8d08b",
+  "title": "STANDARD FOR AQUEOUS COCONUT PRODUCTS Coconut Milk and Coconut Cream",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR AQUEOUS COCONUT PRODUCTS Coconut Milk and Coconut Cream",
+      "summary": "Title heading identifying the Codex standard for aqueous coconut products: coconut milk and coconut cream.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 240-2003",
+      "summary": "Document identification: Codex standard number CXS 240-2003.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 2003. Amended in 2019, 2022.",
+      "summary": "Administrative note that the standard was adopted in 2003 and amended in 2019 and 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2022 Amendment",
+      "summary": "Amendment note stating that, following the Forty-fifth Session of the Codex Alimentarius Commission (Dec 2022), amendments were made to Section 8.2 on labelling of non-retail containers.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendment notice",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to packaged aqueous coconut milk and coconut cream offered for direct consumption (including catering and repacking) and excludes products labeled for further processing or sweetened/flavoured coconut milk/cream.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. DESCRIPTION",
+      "summary": "Section heading for the product description; no substantive text in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1 Product definition",
+      "summary": "Defines coconut milk and coconut cream as products prepared from coconut endosperm by methods including expelling/filtering fresh kernel (with or without water), reconstituting cream powder, dispersing dehydrated kernel, or combinations thereof, and requiring appropriate heat processing before or after hermetic sealing to prevent spoilage.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "preparation method",
+        "heat treatment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2 Styles",
+      "summary": "Section heading for 'Styles' of product; no substantive text in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.1 Light coconut milk",
+      "summary": "Defines 'Light coconut milk' as the product obtained from the bottom portion of centrifuged coconut milk or by dilution of coconut milk, and requires compliance with Section 3 requirements.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product subtype",
+        "light coconut milk"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.2 Coconut milk",
+      "summary": "Defines 'Coconut milk' as the dilute emulsion of comminuted coconut endosperm in water with soluble and suspended solids distributed, and requires compliance with Section 3 requirements.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product subtype",
+        "coconut milk"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.3 Coconut cream",
+      "summary": "Defines 'Coconut cream' as the emulsion extracted from matured coconut endosperm with or without added water, and requires compliance with Section 3 requirements.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product subtype",
+        "coconut cream"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.2.4 Coconut cream concentrate",
+      "summary": "Defines 'Coconut cream concentrate' as the product obtained after partial removal of water from coconut cream and requires compliance with Section 3 requirements.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "product subtype",
+        "coconut cream concentrate"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section heading for 'Essential composition and quality factors'; this entry is a heading without substantive provisions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.1 Composition",
+      "summary": "Section heading only (Composition); no substantive requirements provided in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Lists basic ingredients for the product: coconut cream powder; endosperm (kernel) of coconut palm (Cocos nucifera L.); and water.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.1.2 Other permitted ingredients",
+      "summary": "Permits additional ingredients: coconut water, maltodextrin, and sodium caseinate.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other permitted ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.1.3 Other composition",
+      "summary": "Specifies compositional criteria for product types (light coconut milk, coconut milk, coconut cream, coconut cream concentrate), giving ranges/minima for total solids, specified minimum non‑fat solids and fat, maximum moisture and a minimum pH of 5.9 (e.g. light coconut milk total solids 6.6–12.6%; coconut milk 12.7–25.3%; coconut cream 25.4–37.3%; concentrate ≥37.4%).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other composition",
+        "composition table"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2 Quality criteria",
+      "summary": "Requires coconut milk and coconut cream to have normal colour, flavour and odour characteristic of the products.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality criteria heading",
+        "sensory quality"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.3 Classification of 'defectives'",
+      "summary": "Defines a 'defective' container as one that fails to meet one or more applicable quality requirements in Sections 3.1.3 and 3.2.",
+      "categories": [
+        "classification",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defectives classification",
+        "defective criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.4 Lot acceptance",
+      "summary": "States a lot meets applicable quality requirements when the number of 'defectives' does not exceed the acceptance number (c) of an appropriate sampling plan with an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance sampling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Section heading only (Food additives); no substantive requirements provided in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.1 Bleaching agents",
+      "summary": "Permits bleaching agents sodium metabisulphite (INS 223) and potassium metabisulphite (INS 224) with potassium metabisulphite limited to 30 mg/kg (no maximum shown for INS 223 in the table).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "bleaching agents",
+        "additive table"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.2 Emulsifiers",
+      "summary": "Permits listed emulsifiers (INS 432–436) at 1,000 mg/kg and mono‑ and diglycerides (INS 471) limited by good manufacturing practice (GMP).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "emulsifiers",
+        "additive table"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.3 Preservatives",
+      "summary": "Permits sodium benzoate (INS 211) up to 1,000 mg/kg but only for pasteurized coconut milk.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "preservatives",
+        "additive table"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.4 Stabilizers/Thickeners",
+      "summary": "Permits stabilizers/thickeners (INS 412 Guar gum, 415 Xanthan gum, 418 Gellan gum, 466 Sodium CMC) with levels limited by GMP.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "stabilizers thickeners",
+        "additive table"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5. CONTAMINANTS",
+      "summary": "Section heading only (Contaminants); no substantive requirements provided in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5.1 Heavy metals",
+      "summary": "Requires the products to comply with Codex‑established maximum levels for heavy metals applicable to these products.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "heavy metals",
+        "heavy metal limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5.2 Pesticide residues",
+      "summary": "Requires the products to comply with Codex‑established maximum pesticide residue limits applicable to these products.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues",
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with relevant Codex hygiene and codes of practice and requires compliance with any microbiological criteria established per CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic preparation",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Section heading only (Weights and measures); no substantive requirements provided in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.1 Fill of container",
+      "summary": "Section heading only (Fill of container); no substantive requirements provided in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.1.1 Minimum fill",
+      "summary": "Requires hermetically sealed containers to be filled to not less than 90% v/v of the container's water capacity (defined as volume of distilled water at 20°C) and requires flexible containers to be filled as full as commercially practicable.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.1.2 Classification of 'defectives'",
+      "summary": "Defines a container that fails to meet the minimum fill requirements of Section 7.1.1 as a 'defective'.",
+      "categories": [
+        "classification",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defectives classification",
+        "minimum fill defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "A lot meets the requirement of Section 7.1.1 when the number of 'defectives' (per Section 7.1.2) does not exceed the acceptance number (c) of an appropriate sampling plan based on an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8. LABELLING",
+      "summary": "Products covered by this standard must be labelled in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), with the additional specific labelling provisions contained in this standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.1 Name of the product",
+      "summary": "The product name must be one of: Light coconut milk; Coconut milk; Coconut cream; or Coconut cream concentrate; coconut milk/cream reconstituted from powder or dehydrated endosperm must be labelled as reconstituted, and an appropriate description of the heat treatment should be provided prominently or as part of the name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name declaration",
+        "product name list",
+        "reconstituted product",
+        "heat treatment description"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.2 Labelling of non-retail containers.",
+      "summary": "Labelling of non-retail containers must comply with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail container label"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Compliance with this standard must be checked using the methods of analysis and sampling in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

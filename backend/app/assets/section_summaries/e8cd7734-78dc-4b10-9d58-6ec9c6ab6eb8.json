@@ -1,0 +1,719 @@
+{
+  "doc_id": "e8cd7734-78dc-4b10-9d58-6ec9c6ab6eb8",
+  "title": "STANDARD FOR WHEAT PROTEIN PRODUCTS INCLUDING WHEAT GLUTEN CXS 163-1987",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR WHEAT PROTEIN PRODUCTS INCLUDING WHEAT GLUTEN CXS 163-1987",
+      "summary": "Document title with adoption/revision/amendment dates and a 2022 amendment notice; includes an amendment table replacing prior text on labelling of non-retail containers (bibliographic and amendment information rather than a substantive technical provision in this item).",
+      "categories": [
+        "other",
+        "labelling"
+      ],
+      "subcategories": [
+        "document title",
+        "revision note",
+        "amendment heading",
+        "amendment notice",
+        "table heading",
+        "table separator",
+        "nonretail labelling"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Applies to wheat protein products prepared from wheat for use in foods requiring further preparation and by the food processing industry, and states these products should not be used for technological purposes (e.g., coating or processing aids) in foods that are naturally gluten-free.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines Wheat Protein Products as foods produced by separating non-protein constituents from wheat or wheat flour, and characterizes vital wheat gluten (high viscoelasticity when hydrated), devitalized wheat gluten (reduced viscoelasticity from denaturation) and solubilized wheat proteins (reduced viscoelasticity from partial hydrolysis).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Definitions",
+      "summary": "Defines the scope and characteristics of wheat protein products: products separated from wheat/wheat flour and distinctions for vital wheat gluten (high hydrated viscoelasticity), devitalized gluten (reduced viscoelasticity by denaturation) and solubilized wheat proteins (reduced viscoelasticity by partial hydrolysis).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "product definition",
+        "vital gluten",
+        "devitalized gluten",
+        "solubilized protein"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION, QUALITY AND NUTRITIONAL FACTORS",
+      "summary": "Sets raw material, compositional and nutritional control expectations: raw wheat/wheat flour must be essentially free of other seeds/foreign matter; specifies limits and allowances in Sections 3.2–3.3 (moisture, protein, ash, crude fibre, permitted optional ingredients for solubilized proteins only) and requires processing to secure flavour/palatability without appreciably impairing nutritive value.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Raw Materials",
+      "summary": "Requires wheat or wheat flour raw materials to be essentially free from other seeds and foreign matter in accordance with Good Manufacturing Practice.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Compositional Requirements",
+      "summary": "Specifies compositional limits for wheat protein products: moisture ≤10% (m/m); crude protein (N×6.25) ≥80% for vital/devitalized and ≥60% for solubilized (dry basis, excluding specified additions); ash ≤2.0% for vital/devitalized and ≤10% for solubilized; and crude fibre ≤1.5% (dry basis).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2.1 Moisture content shall not exceed 10 % (m/m).",
+      "summary": "Limits moisture content to a maximum of 10% (m/m).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2.2 Crude protein (N x 6.25) shall be:",
+      "summary": "Requires crude protein (N×6.25) minimums on a dry weight basis: ≥80% for vital and devitalized wheat gluten and ≥60% for solubilized wheat proteins, excluding added vitamins, minerals, amino acids and optional ingredients specified in Section 3.3.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "protein content",
+        "protein minimum",
+        "dry basis"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.3 Ash",
+      "summary": "Sets maximum ash yield on incineration (dry weight basis): 2.0% for vital and devitalized wheat gluten and 10% for solubilized wheat proteins.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.3.1 The yield of ash on incineration shall not exceed:",
+      "summary": "Heading introducing maximum ash-on-incineration limits; specific percentage limits are given in the subitems.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ash limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.3.2 in case of vital and devitalized wheat gluten, 2.0 %",
+      "summary": "Specifies a maximum ash content of 2.0% for vital and devitalized wheat gluten.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ash maximum"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.3.3 in case of solubilized wheat proteins, 10 %",
+      "summary": "Specifies that solubilized wheat proteins shall have ash content not exceeding 10%.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ash maximum"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.4 Crude fibre content shall not exceed 1.5 % on a dry weight basis.",
+      "summary": "Limits crude fibre content to a maximum of 1.5% on a dry weight basis.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fibre limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.3 Optional ingredients",
+      "summary": "States that no optional ingredients are permitted in vital or devitalized wheat gluten, while solubilized wheat proteins may contain specified classes of ingredients (carbohydrates including sugars; edible fats and oils; other protein products; amino acids, vitamins and minerals; salt; herbs and spices; enzymes), and these uses do not preclude their inclusion in composite pre‑packaged foods provided they are properly labelled.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.3 Optional ingredients",
+      "summary": "Permits carbohydrates, including sugars, as optional ingredients in solubilized wheat proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.3 Optional ingredients",
+      "summary": "Permits edible fats and oils as optional ingredients in solubilized wheat proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.3 Optional ingredients",
+      "summary": "Permits other protein products as optional ingredients in solubilized wheat proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.3 Optional ingredients",
+      "summary": "Permits amino acids, vitamins and minerals as optional ingredients in solubilized wheat proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.3 Optional ingredients",
+      "summary": "Permits salt as an optional ingredient in solubilized wheat proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.3 Optional ingredients",
+      "summary": "Permits herbs and spices as optional ingredients in solubilized wheat proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.3 Optional ingredients",
+      "summary": "Permits enzymes as optional ingredients in solubilized wheat proteins.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "1 This does not preclude the use of these products as ingredients in composite pre-packaged foods provided that they are properly labelled as ingredients",
+      "summary": "Allows the use of these optional ingredients in composite pre‑packaged foods provided they are properly declared in the ingredient list.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "ingredient statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "3.4 Nutritional factors",
+      "summary": "Requires processing to be controlled to secure optimum flavour and palatability while not being so severe as to appreciably impair nutritive value.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "nutritional factors",
+        "processing conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Prohibits any food additives in vital and devitalized wheat gluten and in solubilized wheat proteins.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "no additives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires the products covered by this standard to comply with maximum contaminant limits established by the Codex Alimentarius Commission.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum limits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6. HYGIENE",
+      "summary": "Recommends that the products be prepared and handled in accordance with the Codex General Principles of Food Hygiene and other relevant Codes, and that they comply with any microbiological criteria established under CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygiene practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7. PACKAGING",
+      "summary": "Requires WPP to be packed in suitable hygienic containers that maintain the product in a dry and sanitary condition during storage and transport.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "hygienic containers"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8. LABELLING",
+      "summary": "Specifies additional labelling requirements beyond the general pre‑packaged foods standard, including prescribed product names, instructions for use and cautionary statements, date‑marking rules, ingredient listing order, non‑retail container labelling guidance, and declaration of optional ingredients of animal origin.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "8.1 Name of the food",
+      "summary": "Prescribes the required names for each product: 'vital wheat gluten' or 'wheat gluten' for vital wheat gluten, 'devitalized wheat gluten' or 'devital wheat gluten' for devitalized wheat gluten, and 'solubilized wheat protein' or 'soluble wheat protein' for solubilized wheat proteins.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8.1.1 Vital wheat gluten",
+      "summary": "Requires the product name for vital wheat gluten to be 'vital wheat gluten' or 'wheat gluten'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8.1.2 Devitalized wheat gluten",
+      "summary": "Requires the product name for devitalized wheat gluten to be 'devitalized wheat gluten' or 'devital wheat gluten'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.1.3 Solubilized wheat proteins",
+      "summary": "Requires the food name to be declared as either \"solubilized wheat protein\" or \"soluble wheat protein\".",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.2 Instructions for use",
+      "summary": "Manufacturer of WPP must provide clear label instructions for any specific uses claimed, and include cautionary statements for gluten‑intolerant persons where required by national legislation.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "instructions for use",
+        "instructions and warnings"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.3 Date Marking",
+      "summary": "The date of minimum durability must be shown as \"best before\" with day, month and year in uncoded numerical sequence, except products with shelf‑life over three months may use month and year only; where month/year is used and the product is valid to year‑end, \"end (stated year)\" is an acceptable alternative, and months may be shown as letters where not confusing to consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking",
+        "durability date"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.4 List of ingredients",
+      "summary": "A complete ingredients list must appear on the label in descending order of proportion, except added vitamins and minerals must be listed in separate vitamin and mineral groups, each group ordered by descending proportion.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "ingredients list",
+        "ingredients declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.5 Labelling of Non-Retail Containers",
+      "summary": "Labelling of non‑retail containers should comply with the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346‑2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "8.6 Declaration of ingredients of animal origin",
+      "summary": "Optional ingredients of animal origin must be declared on the label using the wording: 'Contains (state optional ingredient) of animal origin'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "animal origin declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies analytical method references for product testing: moisture by AOAC 925.09; protein by AOAC 979.09 for vital/devitalized wheat gluten and AOAC 920.87 for solubilized wheat protein; ash by AOAC 923.03 or ISO 2171 (method B); crude fibre by AOAC 962.09; and refers to sampling procedures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "9.1 Moisture Content",
+      "summary": "Specifies moisture content determination to be carried out according to AOAC method 925.09.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "moisture method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Specifies analytical method references for product testing: moisture by AOAC 925.09; protein by AOAC 979.09 for vital/devitalized wheat gluten and AOAC 920.87 for solubilized wheat protein; ash by AOAC 923.03 or ISO 2171 (method B); crude fibre by AOAC 962.09; and refers to sampling procedures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "9.2 Protein",
+      "summary": "Specifies protein determination methods: AOAC 979.09 for vital wheat gluten and devitalized wheat gluten, and AOAC 920.87 for solubilized wheat protein.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "protein method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "## 9.3 Ash",
+      "summary": "Specifies ash determination according to AOAC 923.03 or ISO 2171 (1980, method B).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "ash method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "## 9.4 Crude Fibre",
+      "summary": "Specifies crude fibre determination according to AOAC method 962.09.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "crude fibre method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "## 9.5 Sampling",
+      "summary": "Specifies sampling to be performed in accordance with ISO 13690:1999.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

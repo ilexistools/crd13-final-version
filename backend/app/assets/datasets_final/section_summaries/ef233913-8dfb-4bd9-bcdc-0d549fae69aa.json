@@ -1,0 +1,547 @@
+{
+  "doc_id": "ef233913-8dfb-4bd9-bcdc-0d549fae69aa",
+  "title": "STANDARD FOR GUAVAS CXS 215-1999 Adopted in 1999. Amended in 2005, 2011.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR GUAVAS CXS 215-1999 Adopted in 1999. Amended in 2005, 2011.",
+      "summary": "Title and identification of the standard: \"Standard for Guavas CXS 215-1999\", adopted 1999 and amended in 2005 and 2011.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "Applies to commercial varieties of guavas (Psidium guajava L., Myrtaceae) supplied fresh after preparation and packaging and explicitly excludes guavas intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "definition heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets quality provisions including minimum requirements (e.g., whole, sound, clean, practically free of pests/damage/bruising, free of abnormal external moisture and foreign odours/tastes, firm, appropriately ripe and able to withstand transport) and establishes a three-class classification system (Extra, Class I, Class II) with class-specific defect allowances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Minimum Requirements",
+      "summary": "Lists minimum requirements for guavas in all classes: whole, sound, clean, practically free of visible foreign matter and pest damage, free of abnormal external moisture and foreign smell/taste, firm and practically free of bruising, with appropriate development/ripeness to withstand transport and arrive in satisfactory condition.",
+      "categories": [
+        "quality",
+        "transport"
+      ],
+      "subcategories": [
+        "minimum requirements",
+        "general criteria",
+        "physical integrity",
+        "soundness requirement",
+        "cleanliness requirement",
+        "pest freedom",
+        "pest damage",
+        "moisture requirement",
+        "odour taste",
+        "firmness requirement",
+        "bruising tolerance",
+        "ripeness requirement",
+        "development condition",
+        "transportability",
+        "destination condition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Classification",
+      "summary": "Classifies guavas into three classes—Extra, Class I and Class II—with each class defined by quality standards and permissible defects that must not affect pulp quality, keeping quality or presentation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "'Extra' Class: guavas must be of superior quality, characteristic of the variety/commercial type, and free of defects except very slight superficial ones that do not affect appearance, quality, keeping quality or presentation.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "extra class",
+        "superior quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.2 Class I",
+      "summary": "Class I: guavas must be of good quality and characteristic of the variety, with slight defects allowed (e.g., slight colour or shape defects and superficial skin defects such as sunburns, blemishes or scabs not exceeding 5% of total surface area) provided the pulp is not affected.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class i",
+        "good quality",
+        "slight defects",
+        "skin defect tolerance",
+        "pulp damage"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.3 Class II",
+      "summary": "Class II: includes guavas that meet the minimum requirements but not higher classes, allowing defects in shape and colour and skin defects (e.g., sunburns, blemishes, scabs) up to 10% of total surface area provided the pulp is not affected.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class ii",
+        "lower class",
+        "shape colour defects",
+        "skin defect tolerance",
+        "pulp damage"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3 PROVISIONS CONCERNING SIZING",
+      "summary": "Defines sizing for guavas by weight or maximum equatorial diameter with a table of size codes 1–9 mapped to specific weight (g) and diameter (mm) ranges.",
+      "categories": [
+        "weights and measures",
+        "classification"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "size determination",
+        "size table",
+        "size range",
+        "size class table"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4 PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Allows tolerances by package for quality and size: quality tolerances permit (a) Extra class up to 5% not meeting Extra but meeting Class I, (b) Class I up to 10% not meeting Class I but meeting Class II, and (c) Class II up to 10% not meeting the class or minimum requirements except produce unfit for consumption due to rotting; size tolerances permit 10% by number or weight to be one size above or below the declared size.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.1 'Extra' Class",
+      "summary": "Specifies quality tolerances for the classes: Extra 5% by number/weight not satisfying Extra but meeting Class I (or within its tolerances); Class I 10% not satisfying Class I but meeting Class II (or within its tolerances); Class II 10% not satisfying the class or minimum requirements except produce affected by rotting or otherwise unfit for consumption.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1.1 'Extra' Class",
+      "summary": "'Extra' Class tolerance: up to 5% by number or weight may not satisfy Extra class provided they meet Class I or, exceptionally, fall within Class I tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class extra",
+        "class extra tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1.2 Class I",
+      "summary": "Class I tolerance: up to 10% by number or weight may not satisfy Class I provided they meet Class II or, exceptionally, fall within Class II tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class i",
+        "class i tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.3 Class II",
+      "summary": "Class II tolerance: up to 10% by number or weight may fail to satisfy Class II or the minimum requirements, except that produce affected by rotting or otherwise unfit for consumption is excluded from this tolerance.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class ii",
+        "class ii tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.2 Size Tolerances",
+      "summary": "Permits up to 10% by number or weight of guavas in any class to be of the size immediately above or below the size indicated on the package.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size tolerances",
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5 PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Requires package contents to be uniform by origin, variety/commercial type, quality and size; mandates packing that protects guavas using new, clean, food‑grade materials (recycled food‑grade allowed) and non‑toxic printing, compliance with the Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (CXC 44‑1995), and containers meeting hygiene, ventilation and resistance requirements and free of foreign matter and odour.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.1 Uniformity",
+      "summary": "Each package must be uniform and contain only guavas of the same origin, variety and/or commercial type, quality and size, and the visible portion must represent the entire contents.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "uniformity requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.2 Packaging",
+      "summary": "Guavas must be packed to protect the produce using new, clean, food‑grade materials (including recycled food‑grade), with non‑toxic printing/labeling, in compliance with CXC 44‑1995, and containers must meet quality, hygiene, ventilation and resistance criteria and be free of foreign matter and smell.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2.1 Description of Containers",
+      "summary": "Containers must have adequate quality, hygiene, ventilation and strength to ensure suitable handling, shipping and preservation of guavas, and packages must be free of foreign matter and odour.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container description",
+        "container requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. MARKING OR LABELLING",
+      "summary": "Adds specific labelling rules to the general prepackaged food standard: consumer packages must show the produce name if not visible (variety optional), and non‑retail containers must display identification, nature and origin of produce, commercial identification (class, size, net weight optional), and may carry an official inspection mark.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.1 Consumer Packages",
+      "summary": "For consumer packages, if the produce is not visible the package must be labelled with the name of the produce and may include the variety.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1.1 Nature of Produce",
+      "summary": "If the produce is not visible from the outside, each consumer package must be labelled with the name of the produce and may be labelled with the variety.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.2 Non-retail Containers",
+      "summary": "Non‑retail packages must bear legible, indelible particulars visible from the outside or in accompanying documents, including identification, nature and origin of produce, commercial identification (class, size, net weight optional), and optionally an official inspection mark.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.2.1 Identification",
+      "summary": "Requires the name and address of the exporter, packer and/or dispatcher on the package, with an optional identification code.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "identification heading",
+        "packer identification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.2.2 Nature of Produce",
+      "summary": "Requires the name of the produce on packages if contents are not visible and allows optional naming of the variety or commercial type.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2.3 Origin of Produce",
+      "summary": "Requires declaration of the country of origin and optionally the district or national/regional/local place name where the guavas were grown.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin of produce",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.2.4 Commercial Identification",
+      "summary": "Commercial identification must include the class and size (size code or minimum and maximum weight or diameter in grams or mm), with net weight optional.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial identification",
+        "class declaration",
+        "size declaration",
+        "net weight"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Heading only—indicates an optional official inspection mark but provides no substantive requirements or details.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "inspection mark"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7. CONTAMINANTS",
+      "summary": "Mandates compliance with the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995) and with Codex maximum residue limits for pesticides for the produce covered by this standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.1 The produce covered by this Standard shall comply with the maximum levels of the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+      "summary": "Requires that the produce comply with maximum contaminant and toxin levels set out in CXS 193‑1995.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.2 The produce covered by this Standard shall comply with the maximum residue limits for pesticides established by the Codex Alimentarius Commission.",
+      "summary": "Requires that the produce comply with Codex‑established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8. HYGIENE",
+      "summary": "Recommends preparing and handling the produce in accordance with the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53‑2003) and other relevant Codex texts, and states the produce should comply with any microbiological criteria established under CXG 21‑1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.1 It is recommended that the produce covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53-2003), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+      "summary": "Recommends that preparation and handling follow the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53‑2003) and other relevant Codex texts.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene recommendation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.2 The produce should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "summary": "States that the produce should comply with any microbiological criteria established in accordance with CXG 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

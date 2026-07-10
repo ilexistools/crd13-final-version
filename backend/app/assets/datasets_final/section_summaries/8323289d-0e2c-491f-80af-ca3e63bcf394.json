@@ -1,0 +1,557 @@
+{
+  "doc_id": "8323289d-0e2c-491f-80af-ca3e63bcf394",
+  "title": "STANDARD FOR MEXICAN LIMES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR MEXICAN LIMES",
+      "summary": "Title and identification of the Standard: 'Standard for Mexican Limes' (CXS 217-1999), adopted in 1999 and amended in 2005 and 2011.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "document code",
+        "adoption history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "Specifies the Standard applies to commercial varieties of Mexican limes (Citrus aurantifolia Swingle) supplied fresh to consumers after preparation and packaging, and excludes Mexican limes intended for industrial processing.",
+      "categories": [
+        "composition",
+        "scope"
+      ],
+      "subcategories": [
+        "definition heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets quality provisions including minimum requirements (whole, sound, clean, practically pest-free, firm, free of abnormal moisture and low-temperature damage), minimum juice and colouring criteria, and classifies Mexican limes into three classes (Extra, Class I, Class II) with specified allowed defects for each class and limits on those defects.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Minimum Requirements",
+      "summary": "Lists minimum quality requirements for Mexican limes (whole; sound; clean; practically free of pests and pest damage; free of abnormal external moisture, foreign smell/taste, and low-temperature damage; firm), requires appropriate development and ripeness to withstand transport, and sets minimum juice content (40% of total weight) and colouring (typical on at least two-thirds of surface; green but up to 30% yellowing allowed).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1.2 Minimum Juice Content and Colouring",
+      "summary": "Defines minimum juice content as calculated relative to total fruit weight with a minimum of 40%, and requires colouring typical of the variety on at least two-thirds of the fruit surface (fruit should be green but may show up to 30% yellow discolouration).",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "quality factor heading",
+        "juice calculation",
+        "minimum juice",
+        "colour requirements"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Classification",
+      "summary": "Defines three quality classes (Extra, Class I, Class II): Extra must be superior and virtually defect-free; Class I allows slight defects (shape, colouring, skin defects ≤1 cm²) not affecting the pulp; Class II covers produce meeting minimum requirements but not higher classes and allows defects including skin defects up to 2 cm², provided the pulp is not affected.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "'Extra' Class requires Mexican limes of superior quality, characteristic of the variety and free of defects except very slight superficial ones that do not affect appearance, quality, keeping quality or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "extra class quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.2 Class I",
+      "summary": "Class I requires Mexican limes of good quality, characteristic of the variety, permitting slight defects in shape or colouring and slight skin defects not exceeding 1 cm², provided these do not affect appearance, quality, keeping quality, presentation or the pulp.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "class i quality",
+        "shape defects",
+        "colour defects",
+        "skin defects"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.3 Class II",
+      "summary": "Class II covers Mexican limes that meet the minimum requirements but not higher classes and permits defects in shape, colouring and skin (scratches, scabs, abrasions, spots or other defects) not exceeding 2 cm², provided the fruits retain essential quality characteristics and the pulp is not affected.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "class ii quality",
+        "shape defects",
+        "colour defects",
+        "skin defects",
+        "pulp integrity"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Size is determined by the maximum diameter of the fruit's equatorial section with size codes defined as: Code 1 >45 mm; Code 2 40.1–45 mm; Code 3 35.1–40 mm; Code 4 30.1–35 mm; Code 5 25–30 mm.",
+      "categories": [
+        "classification",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "size determination",
+        "size table",
+        "size range"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Allows tolerances per package/lot: quality tolerances permit certain percentages of fruits not meeting class requirements to fall into lower classes (Extra 5%; Class I 10%; Class II 10% for fruits failing class and minimum requirements except rotting), and size tolerances allow 10% by number or weight to be of the size immediately above or below that indicated on the package.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1 Quality Tolerances",
+      "summary": "Specifies quality tolerances by class: Extra allows 5% by number or weight not meeting Extra but meeting Class I (or within its tolerances); Class I allows 10% not meeting Class I but meeting Class II (or within its tolerances); Class II allows 10% that meet neither class nor the minimum requirements, excluding produce affected by rotting or otherwise unfit for consumption.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1.1 'Extra' Class",
+      "summary": "For 'Extra' Class, up to 5% by number or weight of Mexican limes may not meet Extra requirements but may meet Class I or, exceptionally, fall within Class I tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "tolerance heading",
+        "extra class tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.2 Class I",
+      "summary": "For Class I, up to 10% by number or weight of Mexican limes may not meet Class I requirements but may meet Class II or, exceptionally, fall within Class II tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "tolerance heading",
+        "class i tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1.3 Class II",
+      "summary": "For Class II, up to 10% by number or weight of Mexican limes may fail to satisfy either the class requirements or the minimum requirements, except for produce affected by rotting or other deterioration rendering it unfit for consumption.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "tolerance heading",
+        "class ii tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.2 Size Tolerances",
+      "summary": "Size tolerances permit, for all classes, up to 10% by number or weight of Mexican limes to correspond to the size immediately above or below the size indicated on the package.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size tolerance heading",
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Requires presentation uniformity (packages/lots must contain Mexican limes of the same origin, variety, quality and size; for Extra class, colour must be uniform and the visible contents representative) and packaging that protects the produce using new, clean (food-grade recycled allowed) materials, non-toxic inks/glues, and containers meeting quality, hygiene, ventilation and resistance requirements in line with the Code of Practice (CXC 44-1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.1 Uniformity",
+      "summary": "Mandates that each package or bulk lot be uniform in origin, variety, quality and size (for Extra class, uniform colour) and that the visible portion of the contents be representative of the whole.",
+      "categories": [
+        "quality",
+        "classification"
+      ],
+      "subcategories": [
+        "uniformity",
+        "uniformity requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2 Packaging",
+      "summary": "Requires Mexican limes be packed to protect them, using inner packaging materials that are new, clean and of food-grade quality (including recycled food-grade material), permits printed trade specifications only with non-toxic ink/glue, and mandates compliance with the Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (CXC 44-1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.2.1 Description of Containers",
+      "summary": "Containers for Mexican limes must have suitable quality, hygiene, ventilation and resistance for handling, shipping and preservation, and packages or bulk lots must be free of foreign matter and odour.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container description",
+        "container requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6. MARKING OR LABELLING",
+      "summary": "Section header introducing marking and labelling requirements for consumer and non‑retail packages, with specific provisions that follow.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1 Consumer Packages",
+      "summary": "Section header stating that additional labelling provisions apply to consumer packages alongside the General Standard for the Labelling of Prepackaged Foods (CXS 1‑1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.1.1 Nature of Produce",
+      "summary": "If the produce is not visible from the outside, each consumer package should be labelled with the name of the produce and may indicate the variety.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce",
+        "produce label"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.2 Non-retail Containers",
+      "summary": "Non‑retail containers must bear specified particulars legibly and indelibly on the same side and visible from outside or have those particulars in the documents accompanying the shipment; for bulk transport the particulars must appear on accompanying documentation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.2.1 Identification",
+      "summary": "Non‑retail packages must identify the exporter, packer and/or dispatcher by name and address, with an optional identification code.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "identification heading",
+        "packer details"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2.2 Nature of Produce",
+      "summary": "If contents are not visible, non‑retail packages must state the name of the produce and may optionally state the variety.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature of produce",
+        "produce name"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.2.3 Origin of Produce",
+      "summary": "Non‑retail packages must state the country of origin and may optionally include the district, national, regional or local place name where grown.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin of produce",
+        "country origin"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.2.4 Commercial Identification",
+      "summary": "Commercial identification for packages must indicate class, size (either a size code or minimum and maximum diameter in mm) and may optionally state net weight.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "commercial identification",
+        "class declaration",
+        "size declaration",
+        "net weight"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Heading only: allows for an optional official inspection mark but provides no further substantive detail in this section.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "official mark"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7. CONTAMINANTS",
+      "summary": "Produce must comply with Codex limits for contaminants and toxins (CXS 193‑1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.1 The produce covered by this Standard shall comply with the maximum levels of the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995).",
+      "summary": "Obligation that the produce comply with the maximum levels set out in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193‑1995).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.2 The produce covered by this Standard shall comply with the maximum residue limits for pesticides established by the Codex Alimentarius Commission.",
+      "summary": "Obligation that the produce comply with Codex‑established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8. HYGIENE",
+      "summary": "Recommends that produce be prepared and handled according to Codex hygiene texts (e.g., CXC 1‑1969, CXC 53‑2003) and comply with any microbiological criteria established per CXG 21‑1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.1 It is recommended that the produce covered by the provisions of this Standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969), Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53-2003), and other relevant Codex texts such as Codes of Hygienic Practice and Codes of Practice.",
+      "summary": "Recommendation that the produce be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1‑1969), the Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53‑2003) and other relevant Codex texts.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene practices"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.2 The produce should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "summary": "Statement that the produce should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21‑1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

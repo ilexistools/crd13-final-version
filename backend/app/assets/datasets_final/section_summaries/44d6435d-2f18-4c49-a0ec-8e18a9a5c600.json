@@ -1,0 +1,711 @@
+{
+  "doc_id": "44d6435d-2f18-4c49-a0ec-8e18a9a5c600",
+  "title": "GUIDELINES ON PERFORMANCE CRITERIA AND VALIDATION OF METHODS FOR DETECTION, IDENTIFICATION AND QUANTIFICATION OF SPECIFIC DNA SEQUENCES AND SPECIFIC PROTEINS IN FOODS * CAC/GL 74-2010",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON PERFORMANCE CRITERIA AND VALIDATION OF METHODS FOR DETECTION, IDENTIFICATION AND QUANTIFICATION OF SPECIFIC DNA SEQUENCES AND SPECIFIC PROTEINS IN FOODS * CAC/GL 74-2010",
+      "summary": "Document title and identifier: 'Guidelines on performance criteria and validation of methods for detection, identification and quantification of specific DNA sequences and specific proteins in foods', CAC/GL 74-2010.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "document title",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2.1 Criteria Approach",
+      "summary": "These guidelines apply the 'criteria approach' for method selection and validation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "criteria approach"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.2 General Method Criteria",
+      "summary": "General criteria for selection of analytical methods are those adopted in the Codex Procedural Manual and are applied here, with additional criteria given in the annexes.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.3 Validation Process",
+      "summary": "Method validation is the process to establish an analytical method's performance characteristics and limitations, yielding precision and trueness values; formal validation follows pre-validation and usually a collaborative trial, with pre-validation preferably involving about 2–4 laboratories and statistical analysis of repeatability and reproducibility.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "validation process",
+        "validation definition",
+        "formal validation",
+        "pre-validation steps",
+        "collaborative trial"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "SECTION 3 - SPECIFIC CONSIDERATION FOR THE VALIDATION OF METHODS FOR THE DETECTION, IDENTIFICATION AND QUANTIFICATION OF  DNA  SEQUENCES  AND PROTEINS",
+      "summary": "Section 3 provides specific considerations for validating DNA- and protein-based detection, identification and quantification methods, covering method development to formal validation, acceptance criteria, applicability to matrices, principle conditions, reporting, measurement uncertainty, modular validation and collaborative trial requirements, with detailed procedures in annexes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Method Development to Formal Validation",
+      "summary": "Common DNA methods are PCR-based and common protein approaches include ELISA and lateral flow devices; PCR is presently the most widely applied DNA approach, and both DNA- and protein-based methods are addressed for validation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.1 Method Acceptance Criteria (Required condition for validation)",
+      "summary": "Prior to validation, required information about the method and its testing (detailed in Annex I) must be provided and evaluated to verify that the method meets the preconditions for Codex use; this section sets out the method acceptance criteria needed to proceed to pre-validation and collaborative trials.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method acceptance",
+        "method information",
+        "acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.2 Applicability of the Method",
+      "summary": "Applicability should confirm that a method achieves required performance in the intended food matrices and must be explicitly stated; methods suitable for a single raw matrix may not apply to complex or processed foods, and general-purpose methods should have at least one extraction method applicable to a general food matrix.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method applicability",
+        "matrix applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.3 Principle condition",
+      "summary": "Principle conditions: DNA methods should detect/identify/possibly quantify specific DNA sequences and typically include extraction protocols, PCR conditions, primer/probe sequences (including taxon-specific controls), detection method, controls/standards and calculation descriptions; protein methods typically include extraction, immunoassay conditions, antibody-coated support, enzyme-conjugated secondary antibody, substrate, buffers, detection method, controls/standards and calculations, and methods must provide unequivocal detection/identification/quantification with target- or taxon-specificity and, for relative quantification, identification of the amplified fragment is recommended.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "principle condition",
+        "dna method principle",
+        "dna method components",
+        "extraction protocol",
+        "pcr conditions",
+        "primer sequences",
+        "probe sequence",
+        "taxon-specific primers",
+        "taxon-specific probe",
+        "detection method",
+        "controls and standards",
+        "result calculations",
+        "protein method components",
+        "immunoassay conditions",
+        "assay support",
+        "secondary antibody",
+        "substrate reagent",
+        "buffer reagents",
+        "method requirements",
+        "protein detection method",
+        "dna screening method",
+        "dna specific method",
+        "taxon specific method",
+        "fragment identification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.4 - Unit of Measurement and reporting of results",
+      "summary": "Units and reporting: specify appropriate units (e.g., target copy numbers or molar equivalents) and reporting criteria before use; qualitative analyses can be reported as present/not detected, and although measurements may be expressed as w/w or percentage, current DNA/protein methods cannot measure those directly.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "measurement reporting heading",
+        "units and reporting",
+        "measurement expression"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.5 - Measurement Uncertainty",
+      "summary": "Laboratories must estimate the uncertainty of quantitative measurements per the Codex Guideline on Measurement Uncertainty (CAC/GL 54-2004), considering sample preparation and analytical methods as significant error sources, with further details referenced in the Procedural Manual.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "uncertainty heading",
+        "measurement uncertainty",
+        "uncertainty reference"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.6 - Modular Approach to Method Validation",
+      "summary": "Modular approach: the 'method' covers the full chain from extraction to analysis for a particular matrix, shared validated sample preparation/isolation steps may be used across analyses for efficiency, and substituting alternative processes into a validated method requires additional studies to confirm unchanged performance.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "validation approach heading",
+        "method definition",
+        "method substitution"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2 - Collaborative Trial Requirements",
+      "summary": "Non-substantive heading introducing collaborative trial requirements for method validation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.1 - General Information",
+      "summary": "A collaborative trial's purpose is to validate pre-validation or single-laboratory data and to determine repeatability and reproducibility; performance parameter values should be interpreted with care and trials conducted per ISO 5725:1994 or AOAC/IUPAC harmonized protocols can inform method acceptability.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "general information heading",
+        "collaborative trial purpose",
+        "performance interpretation",
+        "method acceptability"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.2 Minimum Performance Requirements",
+      "summary": "For collaborative trials, methods must comply with relevant method acceptance criteria and specifically demonstrate acceptable sensitivity, repeatability/reproducibility standard deviations and trueness, and must also evaluate the Annex I-listed performance requirements; methods and their validation data will be regularly revised as scientific knowledge and collaborative trial experience evolve.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "minimum performance heading",
+        "performance criteria",
+        "performance evaluation",
+        "method revision"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.2.3 Collaborative Trial Test Materials",
+      "summary": "Methods should be applicable to and tested on the specific matrix of concern and validation reports must state which matrix was analyzed and whether purified protein or DNA was used, since matrix effects—especially on extraction—can affect analytical results.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "test materials heading",
+        "matrix applicability",
+        "matrix reporting"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.4 Specific Information on the Validation of Methods",
+      "summary": "Specific validation guidance for quantitative and qualitative PCR methods is provided in Annexes II and III, and for quantitative and qualitative protein-based methods in Annex IV.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "specific validation heading",
+        "pcr validation",
+        "protein validation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "SECTION 4 - QUALITY CONTROL REQUIREMENTS",
+      "summary": "Section 4 requires laboratory quality systems (per CAC/GL 27 and ISO/IEC 17025 with proficiency testing and internal QC) and use of validated methods, and sets expectations for suitable reference materials for DNA- and protein-based method validation, noting that physical form and matrix can affect extraction efficiency and reproducibility.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.1 Laboratory Quality",
+      "summary": "Laboratories involved in food import/export should follow CAC/GL 27 guidance, including compliance with ISO/IEC 17025, participation in proficiency testing, internal quality control, and use of methods validated per Codex requirements.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratory quality heading",
+        "laboratory quality"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.2 Reference Material",
+      "summary": "A suitable reference material is generally required for method validation; the physical form and matrix affect suitability (e.g., particle size influences extraction), DNA reference materials may include analyte-containing matrix, extracted DNA, plasmids or proficiency-test controls (with caution on plasmid/amplicon choice), and protein references can be purified recombinant protein, ground plant matrix, or processed food fractions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reference material heading",
+        "reference material use",
+        "dna reference material",
+        "protein reference material"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "ANNEX  I:  REQUIRED  INFORMATION  WHEN  METHODS  ARE  TO  BE  CONSIDERED  FOR VALIDATION",
+      "summary": "Annex I lists the information required when submitting methods for validation, including a full method description, purpose, scientific basis and mathematical models, DNA- and protein-specific details (e.g., primers, amplicon length, assay applicability, hook effect, confirmatory methods), and empirical performance data (selectivity, stability, sensitivity, robustness, extraction efficiency), plus practical application, experimental design, operator skill requirements, controls, and demonstration that the method meets the general criteria in Section 2.2.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "DESCRIPTION OF THE METHOD",
+      "summary": "Methods submitted for validation must include a complete, detailed description of all components, clearly indicate scope and units of measurement, and address procedural elements (e.g., use of multiple plates for PCR/protein methods).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "Purpose and relevance of the method",
+      "summary": "The method must state its purpose and be demonstrated to be fit for the intended use.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method purpose heading",
+        "method purpose"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Scientific basis",
+      "summary": "Provide an overview of the scientific principles underlying the method (for example, the molecular biology principles of real-time PCR).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "scientific basis heading",
+        "scientific principles"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "Specification of the prediction model/mathematical model needed for the method",
+      "summary": "DNA- and protein-based detection/quantification rely on different principles (exponential amplification for PCR versus antibody binding and signal amplification for immunoassays), and if result derivation depends on a mathematical model this relationship must be documented with instructions for correct application, including recommended levels, replicates/dilutions and criteria to evaluate goodness-of-fit.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "If the derivation of the results relies upon a mathematical relationship this should be outlined and recorded (e.g., ∆∆ Ct method or a regression line or calibration curve obtained by other means). Instructions for the correct  application  of  the  model  should  be  provided.  These  may  include,  depending  on  the method,  a recommended number and range of levels to be analyzed, minimum number of replicates and/or dilutions to be included for routine analyses or the means and confidence intervals to evaluate the goodness-of-fit.",
+      "summary": "If results rely on a mathematical relationship (e.g., ΔΔCt or a calibration/regression curve), that relationship must be documented and accompanied by instructions for correct application, including recommended level ranges, minimum replicates/dilutions, and means/confidence intervals for assessing goodness-of-fit.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "mathematical model"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "SPECIFIC INFORMATION REQUIRED FOR DNA-BASED METHODS",
+      "summary": "Heading—additional, specific information must be supplied for DNA-based procedures as detailed in the following subsections.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "dna methods heading",
+        "method information"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Primer pairs",
+      "summary": "Methods must specify the defined primer pairs and their target sequences and provide recommendations on primer efficiency and whether the primers are suitable for screening and/or quantification.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "Amplicon length",
+      "summary": "Because food processing degrades DNA, amplicon length affects PCR performance so shorter amplicons are preferred for highly processed foods and taxon-specific and target fragment lengths should be kept in a similar size range.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "method information"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "whether the method is instrument or chemistry specific",
+      "summary": "Real-time instruments and chemistries differ in reagent stability, heating/cooling characteristics and fluorescence detection, which can affect performance (qualitative methods are generally less instrument-specific), and methods are typically instrument/chemistry dependent and require evaluation or modification before transfer to other equipment.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "method information"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "SPECIFIC INFORMATION REQUIRED FOR PROTEIN-BASED METHODS",
+      "summary": "Heading—additional, specific information must be supplied for protein-based procedures as detailed in the following subsections.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "method information"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "Assay applicability",
+      "summary": "Immunoassays must be evaluated for applicability to processed products because food processing can degrade or denature target proteins and alter immunoreactivity, and empirical results demonstrating applicability should be provided.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "method applicability"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Hook Effect",
+      "summary": "For antibody-based lateral flow or plate assays, empirical testing for a hook (saturation) effect is required and the working concentration range must be shown to cover practical sample concentrations to avoid false negatives.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "hook effect"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "Confirmatory method",
+      "summary": "Because antibodies may cross-react with non-target proteins, immunoassays must demonstrate selectivity and, where appropriate, be confirmed by another method with empirical comparisons using aliquots of the same analytical samples of known concentration.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "confirmatory method"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "INFORMATION ABOUT THE METHOD PERFORMANCE.",
+      "summary": "Heading only: indicates a section on information about method performance but contains no substantive text or requirements.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "method performance"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "Selectivity testing",
+      "summary": "Heading only: 'Selectivity testing' with no substantive content provided.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "selectivity testing"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "20. Similarly, for protein methods, empirical results from testing the method with proteins from non-target and  closely  relevant  species/varieties/traits,  and  purified  target  protein  and/or  reference  positive  control materials should be provided.",
+      "summary": "Requires that for protein-based methods empirical results be provided from testing with proteins from non‑target and closely related species/varieties/traits and with purified target protein and/or reference positive control materials.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "selectivity testing"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "Stability testing",
+      "summary": "Requires empirical results from testing methods (for detecting reference and target DNA sequences or proteins) across appropriate species/subspecies/varieties/cultivars/animal lines or microbial strains to demonstrate stability of taxon‑specific DNA copy number and sequence conservation or stability of protein expression.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "stability testing"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "32. The following should be stated:",
+      "summary": "Heading only: introduces a list ('The following should be stated:') but contains no substantive items in this excerpt.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "method statements"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "METHOD PERFORMANCE",
+      "summary": "States that data on the criteria in Section 2.2 ('General Method Criteria') must be provided and a general assessment made that the method is fit for its intended purpose.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "method performance"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "33. Data on the criteria referred to in Section 2.2, 'General Method Criteria' should be provided, as well as a general assessment that the method is fit for its intended purpose.",
+      "summary": "Requires submission of data addressing the General Method Criteria (Section 2.2) together with an overall statement that the method is fit for its intended purpose.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "performance criteria"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "ANNEX II: VALIDATION OF A QUANTITATIVE PCR METHOD",
+      "summary": "Annex on validation of quantitative PCR methods: describes DNA‑based PCR quantification issues in foods (e.g., favour short targets, processed food DNA degradation, relative measurements versus copy number) and recommends two validation phases (in‑house validation excluding reproducibility, then collaborative trials) and attention to units and transferability; outlines validation parameters to address (scope, LOD/LOQ, trueness, precision, sensitivity, robustness) and the importance of validating both target and taxon‑specific determinations.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "validation annex",
+        "introduction",
+        "pcr method",
+        "quantification basis",
+        "quantitative analysis",
+        "validation phases",
+        "validation section",
+        "validation requirements",
+        "performance parameters",
+        "result expression"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

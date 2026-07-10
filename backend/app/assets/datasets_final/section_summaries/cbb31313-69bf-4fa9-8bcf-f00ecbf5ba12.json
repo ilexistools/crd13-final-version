@@ -1,0 +1,809 @@
+{
+  "doc_id": "cbb31313-69bf-4fa9-8bcf-f00ecbf5ba12",
+  "title": "GUIDELINES ON FORMULATED COMPLEMENTARY FOODS FOR OLDER INFANTS AND YOUNG CHILDREN CAC/GL 8-1991 Adopted in 1991. Amended in 2017. Revised in 2013.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON FORMULATED COMPLEMENTARY FOODS FOR OLDER INFANTS AND YOUNG CHILDREN CAC/GL 8-1991 Adopted in 1991. Amended in 2017. Revised in 2013.",
+      "summary": "Document title with adoption and revision history; not a substantive regulatory provision.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 PURPOSE",
+      "summary": "Provides guidance on nutritional and technical aspects of producing Formulated Complementary Foods for Older Infants and Young Children, including formulation based on nutritional requirements, processing techniques, hygienic requirements, packaging provisions, and labelling/instructions for use.",
+      "categories": [
+        "scope",
+        "composition",
+        "processing",
+        "hygiene",
+        "packaging",
+        "labelling"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "purpose statement",
+        "formulation guidance",
+        "processing techniques",
+        "hygienic requirements",
+        "packaging provisions",
+        "labelling instructions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2 SCOPE",
+      "summary": "Applies these Guidelines to Formulated Complementary Foods for Older Infants and Young Children (as defined in Section 3.1) including porridges, ready-to-use products and food-based home fortificants, excludes micronutrient supplements, processed cereal-based foods and canned baby foods, and directs use in accordance with the Global Strategy for Infant and Young Child Feeding and WHA54.2 (2001).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3 DESCRIPTION",
+      "summary": "Defines Formulated Complementary Foods for Older Infants and Young Children as foods suitable during the complementary feeding period formulated to provide additional energy and nutrients lacking or insufficient in the local family diet, defines older infants as 6–12 months, young children as >12–36 months, and defines the complementary feeding period as the transition from exclusive breastmilk and/or substitutes to the family diet.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definition",
+        "age definition",
+        "feeding period"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4 SUITABLE RAW MATERIALS AND INGREDIENTS",
+      "summary": "Introduces the section on suitable raw materials and ingredients for Formulated Complementary Foods and points to specific sub-sections detailing cereals, legumes, oilseeds, animal-source foods, fats/oils and fruits/vegetables and the conditions for their use.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4.1 Basic Raw Materials and Ingredients",
+      "summary": "States that a range of locally available raw materials are suitable for Formulated Complementary Foods and introduces subcategories (cereals, legumes/pulses, oilseed flours/protein products, animal-source foods, fats/oils, fruits/vegetables) with specific conditions and processing requirements described in subsequent subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4.1.1 Cereals",
+      "summary": "Permits use of all milled cereals suitable for human consumption provided they are processed as necessary to reduce fibre and decrease or eliminate anti-nutrients (phytates, tannins, lectins, protease inhibitors), notes cereals contain ~8–12% protein but are lysine-limited so combining with legumes/pulses can compensate, and allows use of enzymes to reduce fibre and anti-nutrients where needed.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "cereal ingredients",
+        "cereal processing",
+        "nutrient composition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.1.2 Legumes and Pulses",
+      "summary": "Allows legumes and pulses (e.g., chickpeas, lentils, peas, cowpeas, mungo, kidney beans, soya) with ≥20% protein on a dry basis but notes they are generally deficient in L‑methionine (so L‑methionine addition may be desirable), requires appropriate processing to reduce anti‑nutritional factors (methods include moist heat, high‑temperature heating/boiling, enzymatic soaking or fermentation), and prohibits use of field/faba beans (Vicia faba L.) because vicine and convicine pose a favism risk not fully inactivated by heat.",
+      "categories": [
+        "composition",
+        "other",
+        "processing",
+        "risk management"
+      ],
+      "subcategories": [
+        "legume ingredients",
+        "protein requirement",
+        "reference note",
+        "amino acid supplementation",
+        "anti-nutritional reduction",
+        "heat treatment",
+        "soaking fermentation",
+        "fermentation treatment",
+        "ingredient prohibition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.2 Other Ingredients",
+      "summary": "Permits other ingredients to improve nutritional quality or acceptability if readily available and safe, notes digestible carbohydrates can raise energy density, and states that food additives and flavourings listed in the Codex Standards for Processed Cereal-Based Foods and Canned Baby Foods may be used subject to their maximum limits and carry‑over conditions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.2.1 Digestible carbohydrates",
+      "summary": "States that adding appropriate digestible carbohydrates can be used to increase the energy density of Formulated Complementary Foods.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "carbohydrate section",
+        "energy density"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.2.2 Food additives and flavourings",
+      "summary": "Allows only the food additives and flavourings listed in CODEX STAN 74‑1981 and CODEX STAN 73‑1981 up to the maximum limits in those Standards, and permits carry‑over from ingredients only if the additive level in the ingredient does not exceed the specified maximum and the resulting food does not contain more additive than would be introduced under good manufacturing practice, consistent with the GSFA preamble.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "carry-over conditions",
+        "carry-over condition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. TECHNOLOGIES FOR AND EFFECTS OF PROCESSING",
+      "summary": "Introduces processing technologies and their effects relevant to Formulated Complementary Foods, covering preliminary treatments, milling, toasting, sprouting/malting/fermentation, extrusion cooking and enzymatic predigestion, and explains how these processes affect digestibility, anti‑nutrients, bulkiness, nutrient losses and microbiological/keeping qualities.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.1 Preliminary Treatment of Raw Materials",
+      "summary": "Requires cleaning/washing to remove dirt, damaged grains and contaminants, dehulling (where necessary) to reduce fibre and anti‑nutrients and improve digestibility, and degermination of certain crops where appropriate to reduce phytate content.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "raw treatment heading",
+        "raw material treatment",
+        "cleaning washing",
+        "dehulling treatment",
+        "degermination treatment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.2 Milling",
+      "summary": "Requires milling/grinding to minimize nutritional losses and avoid undesirable technological changes, allows dry raw materials to be milled together or mixed after milling, mandates adequate boiling for formulations containing unmilled ingredients to gelatinize starch and reduce anti‑nutrients, and notes that adding enzymes (e.g., alpha‑amylase) during formulation can predigest starch to reduce bulkiness and water needed for preparation.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "milling heading",
+        "milling grinding",
+        "mixing after milling",
+        "boiling treatment",
+        "enzyme addition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.3 Toasting",
+      "summary": "Describes toasting (dry heating) of cereals, pulses and oilseeds to enhance flavour, digestibility and keeping quality by dextrinization and reducing microorganisms/enzymes/insects while reducing bulk, and notes toasted material can be milled, but process control is needed to avoid Maillard protein damage.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5.3.2 Protein  damage  due  to  the  Maillard  reaction  may  occur  in  the  presence  of  reducing  carbohydrates.  The toasting process should therefore be carefully controlled.",
+      "summary": "Warns that toasting can cause protein damage via the Maillard reaction in the presence of reducing carbohydrates and therefore the toasting process must be carefully controlled.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "toasting control"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.3.3 Pulses as well as oilseeds such as soya beans, groundnuts and sesame seeds can be toasted as whole grains directly or after soaking.",
+      "summary": "States that pulses and oilseeds (e.g., soybeans, groundnuts, sesame) may be toasted as whole grains either directly or after soaking.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "toasting treatment"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.3.4 Toasted raw materials can be milled or ground for use as ingredients.",
+      "summary": "Permits that toasted raw materials may be milled or ground for use as ingredients.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "post-toasting milling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.4 Sprouting, Malting and Fermentation",
+      "summary": "Covers sprouting, malting and fermentation of cereals and pulses: germination (by soaking/humidifying) predigests starch via natural amylases, can hydrolyse phytates and improve B vitamins and nutrient density but requires control to prevent growth of mycotoxin-producing microorganisms; malted material is dried and milled or ground after processing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.4.1 Cereals  and  pulses  can  be  induced  to  germinate  by  soaking  or  humidifying.  It  is  necessary,  however,  to ensure that growth of mycotoxin producing microorganisms does not occur. The action of natural amylases contained  in  the  grains  results  in  the  predigestion  of  the  starchy  portion  of  the  grain  (dextrinization)  thus reducing the bulk of the food when prepared for feeding and, ultimately, increasing the nutrient density of the food. Sprouting , malting and fermentation can induce hydrolysis of phytates and decrease its inhibitory effect on mineral absorption, and may improve B vitamin content.",
+      "summary": "Explains that inducing germination of cereals and pulses by soaking or humidifying predigests starch through natural amylases, can hydrolyse phytates and improve B vitamin content, but precautions are needed to prevent mycotoxin-producing microbial growth.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "germination treatment"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.4.2 During  the  germination  process,  the  seed  coat  of  the  grain  splits  and  can  be  removed  by  washing.  The malted raw material is milled or ground after drying.",
+      "summary": "States that during germination the grain seed coat splits and can be removed by washing, and that malted raw material is dried then milled or ground.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "germination drying"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.5 Other Processing Technologies",
+      "summary": "Heading only introducing 'Other Processing Technologies' with no substantive requirements in this item.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.5.1 Extrusion Cooking",
+      "summary": "Heading only for 'Extrusion Cooking' with no substantive content in this item.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.5.1.1 The mix of milled or ground basic ingredients (cereals, pulses, oilseed flours) may be further processed by extrusion  cooking.  Extrusion  cooking  may  decrease  available  L-lysine,  sulphur-containing  amino  acids,  Larginine,  L-tryptophan  and  vitamins.  The  process  should  therefore  be  carefully  controlled.  The  extruded product, after drying if necessary, is milled or ground to the desired particle size.",
+      "summary": "States that extrusion cooking of milled cereals, pulses and oilseed flours may reduce availability of certain amino acids (L-lysine, sulphur-containing amino acids, L-arginine, L-tryptophan) and vitamins so the process should be carefully controlled, and that the extruded product is dried if necessary and milled to desired particle size.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "extrusion cooking"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "5.5.1.2 The effects of this technology are:",
+      "summary": "Introductory heading to a list of the effects of extrusion cooking; no substantive requirements in this item.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5.5.1.2 The effects of this technology are:\n- \u001f\u000b7 gelatinization of the starchy portion of the mixture with minimal quantities of water;\n- \u001f\u000b7 inactivation of lectins and reduction of trypsin inhibitor activity;\n- \u001f\u000b7 a reduction in the quantities of water needed for preparation of the food;\n- \u001f\u000b7 flavour development.",
+      "summary": "Lists effects of extrusion cooking: gelatinization of starch with minimal water, inactivation of lectins and reduction of trypsin inhibitor activity, reduced water needed for food preparation, and flavour development.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "gelatinization effect",
+        "anti-nutritional reduction",
+        "water reduction",
+        "flavour development"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5.5.2 Enzymatic Predigestion",
+      "summary": "Heading only for 'Enzymatic Predigestion' with no substantive content in this item.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5.5.2.1 With  this  process  the  milled  or  ground  basic  ingredients  (cereals,  pulses,  and  oilseed  flours)  can  be processed  in  the  presence  of  water  and  appropriate  enzymes  under  continuous  stirring  until  the  mixture acquires the desired fluidity.  In the case of the use of amylase, starch molecules are split into dextrins and reducing sugars. After raising the temperature to inactivate the enzyme, the slurry is dried and comminuted to flour or to small flakes to allow for greater nutrient density.",
+      "summary": "Describes enzymatic predigestion of milled cereals, pulses and oilseed flours in water with appropriate enzymes (e.g., amylase) to hydrolyse starch into dextrins and reducing sugars, then heat-inactivate the enzyme and dry/comminute the slurry to flour or flakes to increase nutrient density.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "enzyme hydrolysis"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "5.5.2.2 The predigested product may have improved organoleptic characteristics, higher digestibility, good solubility, requires less water for the preparation of the food, and hence higher nutrient density.",
+      "summary": "States that predigested products may have improved organoleptic characteristics, higher digestibility and solubility, require less water for preparation and therefore provide higher nutrient density.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "predigested qualities"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "6 NUTRITIONAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets compositional and quality factors for Formulated Complementary Foods for older infants and young children, including selecting raw materials per local diet and processing to preserve protein and micronutrients and recommending 10–50 g prepared per feeding and a minimum energy density of 4 kcal/g (dry); it also prescribes protein quality (PDCAAS ≥70% of WHO reference and protein energy 6–15%), desirable fat (≥20% energy) with linoleic acid ≥333 mg/100 kcal and LA:ALA ratio 5:1–15:1, a dietary fibre limit of ≤5 g/100 g dry, guidance on starch digestibility and cautious addition of vitamins/minerals based on local data and national oversight to avoid inadequate or excessive intakes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "6.1 General Aspects",
+      "summary": "Outlines general aspects for formulated complementary foods: choose raw materials per Sections 4–5 considering local diet, feeding practices, socio-economic factors and availability/quality, process to maintain protein quality and minimize micronutrient loss, and consider 10–50 g prepared per feeding for older infants and young children.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "6.1.1 The selection of raw materials and ingredients for the formulation of Formulated Complementary Foods for Older Infants and Young Children should be made having regard to the provisions in Sections 4 and 5 and taking into account the following aspects:\n- \u001f\u000b7 nutrient content of the local diet;\n- \u001f\u000b7 dietary habits and infant feeding practices;\n- \u001f\u000b7 other socio-economic aspects as determined by the national authorities dealing with nutrition;\n- \u001f\u000b7 availability and quality of raw materials and ingredients.",
+      "summary": "Requires selection of raw materials and ingredients for Formulated Complementary Foods to take into account nutrient content of the local diet, dietary habits and infant feeding practices, socio-economic aspects as determined by national nutrition authorities, and availability and quality of raw materials.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw material selection",
+        "diet nutrient factors",
+        "feeding practices",
+        "socioeconomic factors",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "6.1.2 All  processing  should  be  carried  out  in  a  manner  that  maintains  protein  quality  and  minimizes  loss  of micronutrients and maintains overall nutritive value.",
+      "summary": "Mandates that all processing should be carried out to maintain protein quality, minimize loss of micronutrients and preserve overall nutritive value.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "nutritive preservation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "6.5 Carbohydrates",
+      "summary": "States that starch in complementary foods should be readily digestible, any sweetening used sparingly, warns that high dietary fibre increases stool bulk, may cause flatulence and reduced appetite and can impair nutrient absorption, and limits dietary fibre to no more than 5 g per 100 g dry weight.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "carbohydrates heading",
+        "starch digestibility",
+        "dietary fibre effects",
+        "fibre limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "6.6 Vitamins and Minerals",
+      "summary": "Provides guidelines for adding vitamins and minerals to Formulated Complementary Foods: decisions must consider local dietary contributions, national programs, processing technologies and target population nutritional status; where intake data exist use them to set levels, otherwise use the Annex table as a reference; national authorities must ensure total micronutrient intake does not regularly exceed recommended upper levels; and selection of compounds should follow Codex advisory lists and consider bioavailability, sensory impact and stability.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "6.6.1 Setting levels for the addition of vitamins and minerals",
+      "summary": "Sets principles for determining amounts of added vitamins and minerals in Formulated Complementary Foods: account for local diet, national programs, processing and target population status and legislation; use dietary intake data to set levels to minimize inadequate or excessive intakes; if intake data are unavailable, use the Annex table as a reference.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "vitamin mineral heading",
+        "nutrient addition basis",
+        "nutrient level setting",
+        "reference nutrient list"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "6.6.2 National  authorities  should  ensure  that  the  total  micronutrient  intake  from  the  Formulated  Complementary Foods,  local  diet  (including  breastmilk  and/or  breastmilk  substitutes)  and  other  sources  do  not  regularly  exceed recommended upper levels of micronutrient intake for older infants and young children.",
+      "summary": "Requires national authorities to ensure total micronutrient intake from Formulated Complementary Foods, local diet (including breastmilk and breastmilk substitutes) and other sources does not regularly exceed recommended upper intake levels for older infants and young children.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "micronutrient upper limit"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "6.6.3 Selecting vitamins and/or minerals for nutrient addition",
+      "summary": "When specifying vitamin/mineral premixes, account for nutrient content and antinutritive substances in other ingredients; select compounds from Codex Advisory Lists and authorized lists for cereal-based and canned baby foods; and choose compounds based on bioavailability in the food vehicle, sensory effects and stability under normal storage, following CAC/GL 9-1987 guidance.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "vitamin mineral selection",
+        "premix specifications",
+        "permitted nutrient compounds",
+        "bioavailability stability"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "7. CONTAMINANTS",
+      "summary": "Heading only: section title 'CONTAMINANTS' with no substantive provisions in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "7.1 Pesticides Residues",
+      "summary": "Requires that products be prepared using Good Manufacturing Practices and special care so pesticide residues are absent or, if technically unavoidable, reduced to the maximum extent possible, taking into account product-specific factors and the target population group.",
+      "categories": [
+        "contaminants",
+        "risk management"
+      ],
+      "subcategories": [
+        "pesticide residues",
+        "population measures"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "7.2 Other Contaminants",
+      "summary": "States that products must not contain contaminants or other undesirable substances in amounts that may hazard the health of older infants and young children and must comply with Codex-established maximum residue limits and maximum levels.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "other contaminants",
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "8. HYGIENE",
+      "summary": "Recommends that products be prepared and handled according to the General Principles of Food Hygiene and relevant Codex texts, comply with applicable microbiological criteria, and that ingredients and final product be prepared, packed and held under sanitary conditions.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene",
+        "microbiological criteria",
+        "sanitary conditions"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "9. PACKAGING",
+      "summary": "Recommends Formulated Complementary Foods be packaged in containers that safeguard hygienic and other qualities and requires packaging materials to be safe, suitable and, where applicable, conform to Codex packaging material standards.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "protective packaging",
+        "packaging materials"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "10. LABELLING",
+      "summary": "Requires labelling of Formulated Complementary Foods to follow Codex standards for special dietary uses, nutrition and health claims and nutrition labelling, and sets mandatory provisions including a name indicating the product is a Formulated Complementary Food for Older Infants and Young Children, ingredient listing per CODEX STAN 1-1985, and declaration of energy, macronutrients and added vitamins/minerals per 100 g and per feeding.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "10.2.4 Instructions for use",
+      "summary": "Mandates label instructions: state recommended age (not less than six months) and advise consulting a health worker for exceptions; provide preparation and use directions (preferably with graphics), suggested number of feedings, safe water/boiling instructions depending on ingredient heat treatment, guidance on required additions (fats/sugars) and amounts, single-serving preparation/discard instructions, and indicate foods complement family foods and breastmilk/breastmilk substitutes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "instructions for use",
+        "age suitability",
+        "preparation directions",
+        "feeding instructions",
+        "water preparation",
+        "boiling instruction",
+        "heat processed guidance",
+        "boiling option",
+        "cooled water instruction",
+        "ingredient addition instructions",
+        "single serving instruction",
+        "consumption statement"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "11. Additional Requirements:",
+      "summary": "States that products covered by these Guidelines are not breastmilk substitutes and must not be presented as such.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "additional requirements heading",
+        "not breastmilk substitute"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "TABLE",
+      "summary": "Provides reference INL98 nutrient intake values to guide selection and amounts of vitamins and minerals to add to Formulated Complementary Foods, recommends a daily ration supply at least 50% of INL98, and lists specific vitamin and mineral level values.",
+      "categories": [
+        "other",
+        "composition"
+      ],
+      "subcategories": [
+        "table heading",
+        "vitamin mineral guidance",
+        "nutrient table header",
+        "nutrient table separator",
+        "vitamin a level",
+        "vitamin d level",
+        "vitamin e level",
+        "vitamin c level",
+        "thiamine level",
+        "riboflavin level",
+        "niacin level",
+        "vitamin b6 level",
+        "folate level",
+        "vitamin b12 level",
+        "biotin level",
+        "micronutrient levels",
+        "mineral levels"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "ANNEX",
+      "summary": "Annex heading only — no substantive text in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    }
+  ]
+}

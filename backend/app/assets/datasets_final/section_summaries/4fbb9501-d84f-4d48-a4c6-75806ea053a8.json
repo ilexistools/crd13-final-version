@@ -1,0 +1,171 @@
+{
+  "doc_id": "4fbb9501-d84f-4d48-a4c6-75806ea053a8",
+  "title": "## CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF ETHYL CARBAMATE                  CONTAMINATION IN STONE FRUIT DISTILLATES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF ETHYL CARBAMATE                  CONTAMINATION IN STONE FRUIT DISTILLATES",
+      "summary": "Document title and code: Code of Practice for the Prevention and Reduction of Ethyl Carbamate Contamination in Stone Fruit Distillates (CXC 70-2011) — heading/identification, not substantive requirements.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 1. INTRODUCTION",
+      "summary": "Ethyl carbamate is a genotoxic, probable human carcinogen found in many fermented foods and especially elevated in stone fruit distillates where cyanogenic glycosides in stones can release hydrocyanic acid that may be oxidized to cyanate and react with ethanol; focus reduction measures on hydrocyanic acid and other precursors, noting that hydrocyanic acid levels at or above ~1 mg/L in distillate have been associated with increased ethyl carbamate and that up to ~0.4 mg ethyl carbamate may potentially form per 1 mg hydrocyanic acid.",
+      "categories": [
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "scope heading",
+        "background information",
+        "precursor pathway",
+        "hazard characterization",
+        "formation factors",
+        "precursor level"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. SCOPE AND DEFINITIONS",
+      "summary": "This Code provides guidance to authorities and manufacturers to prevent or reduce ethyl carbamate formation specifically in stone fruit distillates (not other foods) and defines Stone Fruit (Prunus: cherry, plum, peach, apricot), Distillates (alcohol‑rich products ready for consumption), and Stone Fruit distillates as distillates obtained from fermented crushed fruit mash, fermented marc (pomace), or mash macerated in alcohol.",
+      "categories": [
+        "scope",
+        "definition"
+      ],
+      "subcategories": [
+        "scope and definitions heading",
+        "applicability",
+        "definition heading",
+        "stone fruit definition",
+        "distillate definition",
+        "stone fruit distillate"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 3. GENERAL REMARKS",
+      "summary": "The Code lists proven measures to prevent or reduce high ethyl carbamate in stone fruit distillates and advises selecting measures based on benefit and feasibility and applying them in accordance with relevant legislation, using either reduction of precursor concentrations (e.g., hydrocyanic acid) or reduction of their propensity to form cyanate.",
+      "categories": [
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "section heading",
+        "preventive measures",
+        "gmp measures"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 4. TYPICAL PRODUCTION PROCESS",
+      "summary": "Typical production: prepare mash from whole stone fruit or marc (or by maceration), ferment in suitable vessels, transfer to a distillation device (often a copper pot), heat to vaporize alcohol, condense in appropriate column, separate fractions ('heads', 'hearts', 'tails'), collect hearts and dilute to final strength, with heads and tails generally discarded (tails may be redistilled separately).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process heading",
+        "production process",
+        "mash preparation",
+        "fermentation step",
+        "maceration step",
+        "distillation transfer",
+        "heating step",
+        "condensation step",
+        "fraction separation",
+        "dilution step",
+        "heads removal",
+        "hearts collection",
+        "tails handling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "5. RECOMMENDED PRACTICES BASED ON GMP's",
+      "summary": "GMP-based recommendations: use high-quality, undamaged fruit and remove or avoid crushing stones when preparing mash; use selected yeast and minimize mash storage and light exposure; employ distillation equipment and processes (e.g., copper stills, rinsing devices, copper catalytic converters or Cu(I) chloride) that limit hydrocyanic acid carryover and use a stainless steel condenser to reduce copper in the distillate; separate fractions carefully, avoid pumping stones into the still, and store hearts in the dark; monitor hydrocyanic acid (re‑distill if >1 mg/L) and test for ethyl carbamate where risk factors exist, with re‑distillation effective for reduction.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5.3 Distillation equipment",
+      "summary": "Distillation equipment must prevent transfer of hydrocyanic acid into the distillate: use of a copper still is recommended to limit precursor carryover and equipment should preferably include automatic rinsing and copper catalytic converters (or addition of Cu(I) chloride to mash if converters are unavailable; Cu(II) is ineffective), and a stainless steel condenser is recommended because copper ions, while binding HCN, can promote ethyl carbamate formation in the distillate.",
+      "categories": [
+        "equipment",
+        "processing"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "equipment suitability",
+        "copper still use",
+        "rinsing and converters",
+        "cleaning procedures",
+        "copper ion treatment",
+        "stainless condenser"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5.4 Distillation process",
+      "summary": "Distillation process requirements: do not pump stones into the still, boil off alcohol slowly and controllably (e.g., steam heating), separate heads carefully, collect and store hearts in the dark, switch collection to tails when receiver alcohol reaches 50% vol to isolate potential ethyl carbamate in tails, and if tails are re‑distilled they should be re‑distilled separately although discarding tails is preferable to reduce ethyl carbamate.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "distillation process",
+        "distillation hygiene",
+        "controlled distillation",
+        "fraction separation",
+        "fraction collection",
+        "tail redistillation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    }
+  ]
+}

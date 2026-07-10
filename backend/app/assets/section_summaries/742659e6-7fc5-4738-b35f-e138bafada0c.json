@@ -1,0 +1,198 @@
+{
+  "doc_id": "742659e6-7fc5-4738-b35f-e138bafada0c",
+  "title": "GUIDELINES ON THE USE OF TECHNOLOGY TO PROVIDE FOOD INFORMATION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON THE USE OF TECHNOLOGY TO PROVIDE FOOD INFORMATION",
+      "summary": "Document title: 'Guidelines on the Use of Technology to Provide Food Information'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "IN FOOD LABELLING CXG 105-2024",
+      "summary": "Document identifier: 'IN FOOD LABELLING CXG 105-2024' (Codex guideline code and year).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 2024",
+      "summary": "Administrative note: guideline adopted in 2024.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. PURPOSE",
+      "summary": "Purpose: provide guidance on the use of technology to deliver food information to consumers about pre‑packaged foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. SCOPE",
+      "summary": "Scope: these guidelines apply to food information accessed by consumers via technology through a reference on a pre‑packaged food's label or labelling.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. USE",
+      "summary": "Use: the guidelines should be read in conjunction with Codex texts related to pre‑packaged food labelling, including the General Standard for the Labelling of Pre‑packaged Foods (CXS 1-1985).",
+      "categories": [
+        "scope",
+        "documentation"
+      ],
+      "subcategories": [
+        "use heading",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4. DEFINITIONS",
+      "summary": "Defines terms for these guidelines: 'Food information' is the information that is the subject of a Codex text about a pre-packaged food, and 'Technology' means any electronic or digital means (e.g., websites, online platforms, mobile applications).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "introductory clause",
+        "food information definition",
+        "technology definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5. CONSIDERATIONS FOR DECIDING IF INFORMATION REQUIRED ON A PRE-PACKAGED FOOD LABEL OR LABELLING COULD INSTEAD BE PROVIDED TO CONSUMERS USING TECHNOLOGY",
+      "summary": "Sets criteria for when label-required information may instead be provided via technology: it must be readily accessible during normal purchase/use (adequate infrastructure, widespread access/adoption, and reasonable consumer use), and prohibits exclusive use of technology for the food name, safety/nutrition or other mandatory information determined by the competent authority and for individual-product information (e.g., lot code, date marking) if exclusive use would prevent relating the information to that product.",
+      "categories": [
+        "labelling",
+        "risk management"
+      ],
+      "subcategories": [
+        "technology considerations heading",
+        "accessibility criteria",
+        "infrastructure requirement",
+        "technology access",
+        "consumer reasonableness",
+        "mandatory information restriction",
+        "individual product reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "6. USE OF TECHNOLOGY TO PROVIDE CONSUMERS ACCESS TO FOOD INFORMATION THAT IS NOT ACCESSIBLE ON THE LABEL",
+      "summary": "States that when labelling information is not accessible to consumers due to sale conditions or labelling exemptions, consideration should be given to using technology to provide access to that information.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "technology access heading",
+        "unavailable label info"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "7. PRINCIPLES THAT ARE APPLICABLE WHEN FOOD INFORMATION IS PROVIDED TO CONSUMERS USING TECHNOLOGY",
+      "summary": "Sets principles for providing food information via technology: apply general Codex labelling principles; information must not conflict with label content and, if mandatory, the label reference must link directly and present mandatory information together and distinctly; online information must comply with applicable Codex texts, be available for the product's safe/useful period (including up to a use-by date), be accessible without consumers disclosing personal data, enable clear identification that the information pertains to that pre-packaged food, and be provided free of charge, in suitable language and in a clear, prominent, legible (or audible) format, with an explanatory statement on the label if the reference is not self-explanatory.",
+      "categories": [
+        "labelling",
+        "documentation",
+        "storage"
+      ],
+      "subcategories": [
+        "principles heading",
+        "applicable principles",
+        "general principles reference",
+        "label consistency",
+        "direct link requirement",
+        "definition note",
+        "codex compliance",
+        "availability period",
+        "accessibility requirement",
+        "product identification",
+        "explanatory reference",
+        "reference format",
+        "presentation requirements",
+        "language suitability",
+        "no access charge",
+        "bibliographic note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 4
+      }
+    }
+  ]
+}

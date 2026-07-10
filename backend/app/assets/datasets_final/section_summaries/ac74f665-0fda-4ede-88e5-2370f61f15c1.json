@@ -1,0 +1,747 @@
+{
+  "doc_id": "ac74f665-0fda-4ede-88e5-2370f61f15c1",
+  "title": "STANDARD FOR SALTED FISH AND DRIED SALTED FISH OF THE GADIDAE FAMILY OF FISHES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR SALTED FISH AND DRIED SALTED FISH OF THE GADIDAE FAMILY OF FISHES",
+      "summary": "Document title only: Standard for salted fish and dried salted fish of the Gadidae family (heading/non-substantive).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 167 - 1989 Adopted in 1989. Revised in 1995, 2005. Amended in2011, 2013, 2016, 2018.",
+      "summary": "Document identifier and history: CXS 167-1989 adopted 1989, revised 1995 and 2005, and amended in 2011, 2013, 2016 and 2018.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1 SCOPE",
+      "summary": "Scope: applies to salted and dried salted fish of the Gadidae family that are either fully saturated with salt (heavy salted) or have a salt content of at least 12% by weight and may be offered for consumption without further industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2 DESCRIPTION",
+      "summary": "Describes the product, permitted salting processes (dry, wet/pickling, brine injection), permitted drying methods (natural and artificial), and the types of presentation and labelling/container requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Product Definition",
+      "summary": "Defines salted fish as product from species of the family Gadidae that have been bled, gutted, beheaded, split or filleted, washed and salted, and defines dried salted fish as salted fish that have been dried.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "species requirement",
+        "preparation steps"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Process Definition",
+      "summary": "States the product shall be prepared using one of the salting methods in 2.2.1 and one or both drying methods in 2.2.2 and refers to presentation types in 2.3, listing dry/wet salting, brine injection, and natural/artificial drying.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.1 Salting",
+      "summary": "Defines salting methods: dry salting (mixing fish with food-grade salt and draining excess brine), wet salting/pickling (storing fish under brine in watertight containers with possible added brine), and permits brine injection into fish flesh as part of heavy salting.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "salting heading",
+        "dry salting",
+        "wet salting",
+        "brine injection"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.2 Drying",
+      "summary": "Defines drying methods: natural drying by exposure to open air and artificial drying using mechanically circulated air with controlled temperature and humidity.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "drying heading",
+        "natural drying",
+        "artificial drying"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.3 Presentation",
+      "summary": "Specifies presentation types (split fish, split fish with entire backbone, fillet, other presentations) and requires other presentations to be distinctive, meet the standard, and be adequately labelled; individual containers must contain only one presentation form from one species.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.3.1 Split fish",
+      "summary": "Defines 'split fish' as split with about two-thirds of the anterior backbone removed.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "split fish"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.3.2 Split fish with entire backbone",
+      "summary": "Defines 'split fish with entire backbone' as split fish in which the whole of the backbone is not removed.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "split backbone"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.3.3 Fillet",
+      "summary": "Defines 'fillet' as strips of flesh cut from fresh fish parallel to the central bone with fins, main bones and sometimes the belly flap removed.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "fillet definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.3.4 Other presentation",
+      "summary": "Allows other presentations provided they are distinctive from prescribed forms, comply with all standard requirements, and are adequately described on the label to avoid consumer confusion or misleading.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "other presentation",
+        "presentation conditions",
+        "presentation declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.3.5 Individual containers",
+      "summary": "Requires individual containers to contain only one form of presentation and only one species of fish.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "container presentation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Requires salted fish be made from sound, wholesome fish and that salt used be clean and uncontaminated (see CXC 52-2003); final products must comply with Section 8 provisions and meet lot acceptance and examination methods defined in Sections 9 and 7.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.1 Fish",
+      "summary": "States salted fish shall be prepared from sound and wholesome fish fit for human consumption.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fish heading",
+        "raw material quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2 Salt",
+      "summary": "Requires salt used in production to be clean, free from foreign matter and crystals, show no visible contamination (dirt, oil, bilge or other extraneous materials), and to comply with the Code of Practice for Fish and Fishery Products (CXC 52-2003).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "salt heading",
+        "salt quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.3 Final Product",
+      "summary": "Products must meet this Standard when lots are examined in accordance with Section 9, must comply with the provisions of Section 8, and shall be examined by the methods given in Section 7.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "final product heading",
+        "compliance requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Preservatives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for food category 09.2.5 (smoked, dried, fermented and/or salted fish and related products) and its parent categories are permitted in foods conforming to this Standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "preservative permission"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5. HYGIENE",
+      "summary": "Products covered by this Standard should be prepared and handled in accordance with CXC 1-1969, CXC 52-2003 and other relevant Codex Codes of Practice, and should comply with any microbiological criteria established under CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6. LABELLING",
+      "summary": "In addition to the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), this section sets specific labelling requirements including the prescribed name/species and presentation declarations (6.1) and required information for non-retail containers (6.2).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1 Name of the Food",
+      "summary": "The label must declare the food name (e.g. \"salted fish\", \"wet salted fish\", \"dried salted fish\", \"klippfish\" or other customary designations) and the species, and must state the form of presentation as applicable; the term \"klippfish\" is restricted to dried salted fish prepared from fish that reached 95% salt saturation prior to drying and \"wet salted fish\" only for fish fully saturated with salt.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name heading",
+        "food name",
+        "presentation declaration",
+        "klippfish claim",
+        "wet salted claim"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.2 Labelling of Non-Retail Containers",
+      "summary": "For non-retail containers the required label information may appear on the container or accompanying documents, but the name of the food, lot identification, and the manufacturer/packer name and address must always appear on the container, and lot identification or name/address may be replaced by an identification mark if it is clearly identifiable with accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nonretail containers",
+        "container particulars",
+        "mark replacement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7. SAMPLING, EXAMINATION AND ANALYSES",
+      "summary": "Sampling and analyses require an AQL-based sampling plan (AQL 6.5), trained assessors for sensory/physical tests per Annex A and CXG 31-1999, net weight determination, specific sample preparation (brush off adhering salt, AOAC 937.07, duplicate determinations) and water-content methods; salt content is determined by aqueous extraction, protein precipitation and chloride titration (Mohr method) with specified equipment, procedure, calculation and reporting requirements, and a reference method involving ashing at 550°C is provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.1 Sampling",
+      "summary": "Lot sampling for product examination must follow an appropriate sampling plan with an AQL of 6.5, where the sample unit is the primary container or the individual fish for bulk product, and sampling for net weight shall follow CXG 50-2004.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "lot sampling plan",
+        "net weight sampling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.2 Sensory and Physical Examination",
+      "summary": "Samples for sensory and physical examination must be assessed by trained personnel using procedures in Annex A and the Guidelines for the Sensory Evaluation of Fish and Shellfish in Laboratories (CXG 31-1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "examination heading",
+        "sensory examination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.3 Determination of Net Weight",
+      "summary": "Determine the net weight of each sample unit excluding packaging material and excess salt.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net weight determination"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.4 Preparation of Fish Sample",
+      "summary": "Before subsampling, remove adhering salt crystals by brushing without water; prepare samples for salt and water content per AOAC 937.07 on the edible portion and perform determinations at least in duplicate.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample preparation",
+        "sample cleaning",
+        "duplicate analysis"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.5 Determination of Salt Content",
+      "summary": "Salt content is measured by extracting salt with water, precipitating proteins, and determining chloride by titration with standardized silver nitrate (Mohr method) using specified equipment, reagents and procedural steps, with results calculated as sodium chloride and reported to one decimal place; a reference method includes complete ashing at 550°C before chloride determination and the protein-precipitation step is essential to avoid misleading results.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "1. Principle",
+      "summary": "The principle: salt is extracted from a preweighed sample with water, proteins are precipitated, and chloride is measured by titration with standardized silver nitrate (Mohr method) and expressed as sodium chloride.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "principle heading",
+        "test principle"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "2. Equipment and chemicals",
+      "summary": "Required equipment and reagents include basic laboratory glassware and tools (volumetric flasks, Erlenmeyer flasks, burette, filters, pipettes), an homogenizer and stirrer, and chemicals such as K4Fe(CN)6, ZnSO4, NaOH, standardized AgNO3, K2CrO4, phenolphthalein and distilled/deionized water.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "equipment reagents",
+        "equipment list",
+        "reagent list"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "3. Procedure",
+      "summary": "Procedure: weigh 5 g homogenized subsample, extract with ~100 ml water, add potassium hexacyanoferrate and zinc sulfate, dilute to volume, allow precipitation and filter, alkalize an aliquot with NaOH and phenolphthalein, dilute, add potassium chromate and titrate with silver nitrate to a faint persistent reddish-brown endpoint (blank titration required); instrumental endpoints (potentiometer or colorimeter) may be used.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample procedure",
+        "titration method",
+        "endpoint observation",
+        "blank titration",
+        "instrumental endpoint"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.2.1 Halophilic Mould (dun)",
+      "summary": "Halophilic mould (dun) is defined as pronounced halophilic mould clusters covering an aggregate area on more than one-third of the face-side surface area of the fish.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect definition",
+        "mould defect"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.2.2 Liver Stains",
+      "summary": "Liver stains are defined as a pronounced yellow or yellowish-orange discoloration caused by liver affecting more than one-quarter of the face surface area of the fish.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect definition",
+        "liver stain"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.2.3 Intense Bruising",
+      "summary": "Intense bruising is any fish showing intense bruising over more than one-half of the face of the fish.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect definition",
+        "bruising defect"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.2.4 Severe Burning",
+      "summary": "Severe burning is defined as a fish with more than one-half of the back (skin side) tacky or sticky due to overheating during drying.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "defect definition",
+        "burning defect"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "A lot meets this Standard only if: (i) the total number of defectives (per Section 8) does not exceed the acceptance number (c) of an appropriate sampling plan with AQL 6.5; (ii) the average net weight of sample units is at least the declared weight with no individual container less than 95% of declared weight; and (iii) the number of units not meeting the defined form of presentation (Section 2.3) does not exceed the acceptance number (c) under an AQL 6.5 sampling plan.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria",
+        "sampling plan criteria",
+        "net weight criteria",
+        "presentation sampling"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "ANNEX A SENSORY AND PHYSICAL EXAMINATION",
+      "summary": "Annex A prescribes sensory and physical examination procedures for sampled fish: examine every fish whole, record form of presentation, inspect for foreign matter, pink conditions, halophilic mould, liver stains, intense bruising, severe burning and texture, and assess odour per CXG 31-1999.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "1 PRINCIPLE",
+      "summary": "Principle: each fish in the sample must be examined in its entirety.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample examination"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "2 EQUIPMENT",
+      "summary": "Equipment: inspect the product to determine its form of presentation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "presentation inspection"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "3 PREPARATION OF SAMPLE",
+      "summary": "Preparation of sample: examine each fish for defects including foreign matter, pink conditions, halophilic mould, liver stains, intense bruising, severe burning and texture anomalies.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defect inspection"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "4 PROCEDURE",
+      "summary": "Procedure: assess odour using the Guidelines for the Sensory Evaluation of Fish and Shellfish in Laboratories (CXG 31-1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory assessment"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "5. CALCULATION OF RESULTS",
+      "summary": "Section heading only: introduces that symbols are used in the equation for calculation of results but provides no substantive calculation here.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "results calculation",
+        "symbol definitions"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "6. CONTROL ANALYSIS OF WHOLE FISH.",
+      "summary": "Control analysis: states that determining whole-fish water content by the cross-section method gives results closest to those obtained by drying the whole fish (per ALINORM 03/18, Appendix IX).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "control analysis",
+        "water content method"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "7. COMMENTS",
+      "summary": "Comments: sampled fish must be packed and sealed in plastic bags and kept chilled from sampling until analysis which should be performed as soon as possible; 2 mm sections should be targeted (may be difficult if water content >50% but should be close to 2 mm) and collected sections must be weighed immediately to minimise water loss.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "comments heading",
+        "sample storage",
+        "timely analysis",
+        "section thickness",
+        "sample weighing"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    }
+  ]
+}

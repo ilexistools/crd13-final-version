@@ -1,0 +1,482 @@
+{
+  "doc_id": "29e0b8a3-ace7-41e4-9ba8-6317cfecfe2e",
+  "title": "1. DEFINITION OF PRODUCE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "Defines the Standard's scope as applying to fruit of commercial varieties of carambolas (Averrhoa carambola L.) supplied fresh to the consumer after preparation and packaging, and explicitly excludes carambolas for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "definition heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets quality provisions including minimum requirements (e.g., whole, sound, clean, practically pest‑damage free, free of abnormal moisture and foreign smell/taste, firm, fresh in appearance, free of low‑temperature damage/pronounced blemishes, sufficiently developed and ripe) and classifies carambolas into three classes ('Extra', I and II) with differing quality criteria and tolerances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 MINIMUM REQUIREMENTS",
+      "summary": "Specifies minimum requirements applicable in all classes—such as whole, sound (no rotting), clean, practically free of pests, free of abnormal external moisture and foreign smell/taste, firm, fresh in appearance, free of low‑temperature damage and pronounced blemishes, and sufficiently developed and ripe—and states development/condition must enable produce to withstand transport and arrive in satisfactory condition.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1.1  The development and condition of the carambolas must be such as to enable them:",
+      "summary": "Requires that the development and condition of the carambolas enable them to withstand transport and handling and to arrive in satisfactory condition at their destination.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "minimum condition",
+        "transport tolerance",
+        "arrival condition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 CLASSIFICATION",
+      "summary": "Classifies carambolas into three classes—'Extra' (superior quality, well‑formed, virtually blemish‑free), Class I (good quality, fairly well‑formed, limited blemishes allowed up to 5% surface area) and Class II (those not qualifying for higher classes but meeting minimum requirements, with allowed defects up to 10% surface area)—with specific presentation, quality and keeping‑quality criteria for each class.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "Defines 'Extra' Class carambolas as superior quality, characteristic of the variety, well‑formed and free of blemishes except for very slight superficial skin or rib defects from rubbing or bruises that do not affect appearance, quality, keeping quality or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "superior quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.2 Class I",
+      "summary": "Defines Class I carambolas as good quality, characteristic of the variety, fairly well‑formed and fairly free of blemishes, allowing slight superficial skin or rib defects from rubbing or bruises provided they do not affect appearance, quality, keeping quality or presentation, with total surface area affected not exceeding 5%.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "good quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.3 Class II",
+      "summary": "Defines Class II as carambolas not qualifying for higher classes but meeting minimum requirements; they must be reasonably well‑formed and reasonably free of blemishes, with slight skin or rib defects allowed provided essential characteristics are retained and the total surface area affected does not exceed 10%.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class heading",
+        "minimum quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Determines size by weight: Size A = 80–129 g, Size B = 130–190 g, and Size C = greater than 190 g.",
+      "categories": [
+        "classification",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "size by weight",
+        "size table",
+        "size range"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Allows tolerances per package or lot for produce not satisfying class requirements and sets quality tolerances by class: 'Extra' up to 5% (by number or weight) not meeting the class but meeting Class I (or within its tolerances), Class I up to 10% not meeting the class but meeting Class II (or within its tolerances), and Class II up to 10% not meeting the class nor the minimum requirements, excluding produce affected by rotting or otherwise unfit for consumption.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.1 QUALITY TOLERANCES",
+      "summary": "Specifies quality tolerances for each class: 'Extra' 5% by number/weight not meeting the class but meeting Class I (or within its tolerances), Class I 10% not meeting the class but meeting Class II (or within its tolerances), and Class II 10% not meeting the class nor the minimum requirements, except for produce affected by rotting or otherwise unfit for consumption.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.1.1 'Extra' Class",
+      "summary": "Permits up to 5% by number or weight of carambolas in the 'Extra' class that do not satisfy 'Extra' requirements but meet Class I requirements or, exceptionally, fall within Class I tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "tolerance heading",
+        "class tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1.2 Class I",
+      "summary": "Permits up to 10% by number or weight of carambolas in Class I that do not satisfy Class I requirements but meet Class II requirements or, exceptionally, fall within Class II tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "tolerance heading",
+        "class tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1.3 Class II",
+      "summary": "Permits up to 10% by number or weight of carambolas in Class II that satisfy neither the class requirements nor the minimum requirements, with the exception of produce affected by rotting or other deterioration rendering it unfit for consumption.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "tolerance heading",
+        "class tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.2 SIZE TOLERANCES",
+      "summary": "Sets size tolerances for carambolas: up to 5% for 'Extra' class and up to 10% for Class I or II (by number or weight) of fruit that do not meet sizing requirements but fall within the class immediately above or below those in Section 3.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size tolerance heading",
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Establishes presentation requirements for carambolas: packages/lots must be uniform (same origin, variety, quality and size; 'Extra' class also uniform in colour and ripeness) with visible contents representative of the whole, packed to protect the produce using new, clean, non‑toxic materials in accordance with CAC/RCP 44‑1995, and containers must meet quality, hygiene, ventilation and resistance criteria and be free of foreign matter and smells.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.1 UNIFORMITY",
+      "summary": "Requires each package or bulk lot of carambolas to be uniform in origin, variety, quality and size, with 'Extra' class also uniform in colour and ripeness, and the visible portion representative of the entire contents.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "package uniformity"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.2 PACKAGING",
+      "summary": "Mandates that carambalas be packed to protect the produce using new, clean materials that avoid causing damage and that printing/labeling use non‑toxic inks or glues, and requires packing in each container in compliance with the Recommended International Code of Practice for Packaging and Transport of Fresh Fruits and Vegetables (CAC/RCP 44‑1995).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2.1 Description of Containers",
+      "summary": "Requires containers for carambalas to meet quality, hygiene, ventilation and resistance characteristics to ensure proper handling, shipping and preservation, and to be free of foreign matter and smell.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container heading",
+        "container requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. MARKING OR LABELLING",
+      "summary": "Adds labelling requirements for carambalas supplementing the Codex General Standard for the Labelling of Prepackaged Foods (CODEX STAN 1‑1985), including specific provisions for consumer packages when produce is not visible.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.1 CONSUMER PACKAGES",
+      "summary": "States that consumer package labelling must follow CODEX STAN 1‑1985 and the additional specific provisions set out in this standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1.1 Nature of Produce",
+      "summary": "If the produce is not visible from the outside, each consumer package must be labelled with the name of the produce and may include the variety name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.2 NON-RETAIL CONTAINERS",
+      "summary": "Requires non‑retail containers to bear specified particulars legibly and indelibly grouped on the same side and visible from outside or on accompanying shipment documents; for bulk transport these particulars must appear on accompanying documents.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.2.1 Identification",
+      "summary": "Requires identification on non‑retail packages: name and address of exporter, packer and/or dispatcher, with an optional identification code.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "identification heading",
+        "exporter details"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.2.2 Nature of Produce",
+      "summary": "Requires the name of the produce on non‑retail packages if contents are not visible and allows optional indication of variety or commercial type.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nature heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2.3 Origin of Produce",
+      "summary": "Requires declaration of country of origin for the produce and optionally the district, national, regional or local place name where grown.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin heading",
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.2.4 Commercial Identification",
+      "summary": "Commercial identification must show class and size (size code or weight range in grams) and may optionally include number of units and net weight.",
+      "categories": [
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "commercial heading",
+        "class declaration",
+        "size and weight",
+        "unit count",
+        "net weight"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Provides for an optional official inspection mark and notes that packaging may include recycled food‑grade material; where a code mark is used, national legislation may require explicit declaration of the packer/dispatcher name and address or an indication near the code mark.",
+      "categories": [
+        "inspection certification",
+        "packaging",
+        "labelling"
+      ],
+      "subcategories": [
+        "official inspection mark",
+        "recycled material",
+        "name and address"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7. CONTAMINANTS",
+      "summary": "Requires the produce to comply with Codex maximum levels for contaminants and toxins (CODEX STAN 193‑1995) and with Codex maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "8. HYGIENE",
+      "summary": "Recommends that carambalas be prepared and handled in accordance with Codex hygiene texts (e.g., CAC/RCP 1‑1969 and CAC/RCP 53‑2003) and comply with any microbiological criteria established per CAC/GL 21‑1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "handling hygiene",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

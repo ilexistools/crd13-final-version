@@ -1,0 +1,680 @@
+{
+  "doc_id": "8de4b7e8-98bb-4481-a240-55d66bfb83d2",
+  "title": "CODEX",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODEX",
+      "summary": "Document header: identifies the guideline CXG 38-2001 on generic official certificates (with revision history and cross-references) and notes it should be read with related Codex guidance.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "document header",
+        "image artifact",
+        "document title",
+        "revision history",
+        "former title",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION 1 - PREAMBLE",
+      "summary": "Preamble: recognizes importing authorities may require official government-issued certificates for food import clearance, but does not mandate their use and acknowledges alternatives (e.g. establishment listing) can achieve similar assurances.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION 2 - SCOPE AND OBJECTIVES",
+      "summary": "Scope and objectives: provides guidance on designing, producing, issuing and using official certificates (paper or electronic) to attest that traded food meets importing-country food safety and fair-trade requirements and notes it excludes animal/plant health except where directly related to food safety.",
+      "categories": [
+        "scope",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement",
+        "information guidance",
+        "applicability",
+        "exceptions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION 3 - DEFINITIONS",
+      "summary": "Definitions: defines certificates, certification, official certificates, certifying bodies, certifying officers, electronic signatures, consignment, paperless exchange and single window as used for official food trade certification.",
+      "categories": [
+        "definition",
+        "documentation"
+      ],
+      "subcategories": [
+        "definition heading",
+        "certificate definition",
+        "certification definition",
+        "official certificate definition",
+        "certifying body definition",
+        "certifying officer definition",
+        "electronic signature definition",
+        "consignment definition",
+        "paperless exchange definition",
+        "single window definition",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "SECTION 4 - PRINCIPLES",
+      "summary": "Principles: sets overarching principles for official certificates, including limiting requirement to essential attestations, allowing alternative assurances, ensuring transparency, single-certificate consolidation, exporter authority responsibility, and fraud prevention.",
+      "categories": [
+        "other",
+        "scope",
+        "risk management",
+        "documentation",
+        "official control",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principles heading",
+        "principles statement",
+        "certificate necessity",
+        "alternative assurance",
+        "essential information",
+        "communication requirements",
+        "clearance facilitation",
+        "authority responsibility",
+        "certificate consolidation",
+        "fraud prevention"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "SECTION 5 - USE OF OFFICIAL CERTIFICATES",
+      "summary": "Use of official certificates (Principle A): states certificates should only be required when essential to ensure importing-country food safety or fair-trade requirements, and notes alternatives or flexibility may be needed if exporting law prevents issuance.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "use of certificates"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "SECTION 6 - ALTERNATIVES TO THE USE OF OFFICIAL CERTIFICATES",
+      "summary": "Alternatives to certificates (Principle B): allows exporting countries to provide equivalent assurances by alternatives such as establishment listing or multi-consignment certificates with fixed duration, subject to agreed transparent mechanisms and criteria.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "alternative certificates"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Principle A",
+      "summary": "Principle A (restate): official certificates are required only when attestations and essential information are necessary to ensure food safety or fair practices for the product identified.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principle heading",
+        "certificate necessity",
+        "certificate assurances",
+        "food safety assurance",
+        "fair trade assurance",
+        "alternative means"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Principle B",
+      "summary": "Principle B (restate): exporting countries may use alternatives to consignment-by-consignment certificates, including establishment listings or certificates covering multiple consignments when agreed with the importing country.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principle heading",
+        "alternative assurances",
+        "equivalent arrangements",
+        "establishment listing",
+        "list transparency",
+        "multiple consignments"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "SECTION 7 - EXTENT OF INFORMATION, TRANSPARENCY AND NON-DISCRIMINATION",
+      "summary": "Extent of information, transparency and non-discrimination (Principle C/D): attestations and information on certificates must be confined to essentials tied to inspection objectives, use international standards where possible, avoid commercial specifications, and be applied transparently and without unjustified discrimination.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "certificate information principles"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Principle C",
+      "summary": "Principle C (restate): importing-country-required attestations and information should be limited to essential details related to the objectives of its inspection and certification system.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principle heading",
+        "essential information"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Principle D",
+      "summary": "Principle D (restate): importing countries must communicate the rationale and requirements for specific attestations consistently and transparently and apply criteria equitably to avoid discrimination.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principle heading",
+        "transparent requirements",
+        "non-discrimination",
+        "request communication"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "SECTION 8 - DESIGN OF OFFICIAL CERTIFICATES",
+      "summary": "Design of official certificates (Principle E): certificates, whether paper or electronic, should be formatted to simplify clearance, identify consignments and parties, minimize fraud, and preferably use a standard format with clear attestations and language requirements.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "certificate design"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "Principle E",
+      "summary": "Principle E (restate): certificate data elements must be presented in a form that expedites clearance while meeting importing-country requirements.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principle heading",
+        "data element design"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "SECTION 9 - ISSUANCE AND RECEIPT OF OFFICIAL CERTIFICATES (RESPONSIBILITY OF CERTIFYING OFFICERS, SECURITY AND PREVENTION OF FRAUD)",
+      "summary": "Issuance and receipt (Principle F): the exporting country's competent authority is ultimately responsible for certificates; certifying bodies/officers must be designated, trained, independent, and prevent fraud, certificates should normally be issued before export, and paperless exchange requires controls, status sharing and archiving.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "certificate issuance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Principle F",
+      "summary": "Principle F (restate): the exporting country's competent authority bears ultimate responsibility for any certificate it issues or authorizes, though producers bear primary responsibility for food safety and fraud prevention.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principle heading",
+        "authority responsibility",
+        "government responsibility"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## Principle G",
+      "summary": "Principle G: where possible all required attestations and identifying information should be consolidated on a single official certificate to avoid redundancy, allow use of standard attestations (Codex/OIE/IPPC), protect proprietary data where necessary, and exclude commercial/contractual information.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principle heading",
+        "certificate consolidation",
+        "redundant certificates",
+        "standard attestations",
+        "single authority issuance",
+        "proprietary information",
+        "commercial information",
+        "origin attestations"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "## Use of paper certificates",
+      "summary": "Use of paper certificates: paper certificates should be issued as originals to exporters, conform to UN layout recommendations, be retained by certifying bodies, bear secure identifiers/signatures/dates, avoid deletions or blanks, and show pagination/authentication.",
+      "categories": [
+        "inspection certification",
+        "documentation"
+      ],
+      "subcategories": [
+        "paper certificates",
+        "original certificate",
+        "certificate format",
+        "certificate retention",
+        "certificate issuance",
+        "certificate integrity",
+        "certificate pagination",
+        "certificate authentication",
+        "certificate dating"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## Paperless exchange of official certificates (Annex II ).",
+      "summary": "Paperless exchange (Annex II): implementing paperless exchange requires readiness and contingency planning, interoperable international data/message standards, secure generation/validation/authentication and archiving of certificates, and notification/status sharing with exporters.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "paperless exchange",
+        "implementation conditions",
+        "system readiness"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "43. The electronic systems that are used for paperless exchange of official certificates should:",
+      "summary": "Sets requirements for electronic systems used for paperless official certificate exchange: they should be based on or interoperate with internationally recognized data/message standards (e.g., UN/CEFACT eCert SPS), require importing and exporting countries to agree on certificate data elements and messages, facilitate direct official message exchange using available technologies, ensure generation/maintenance/validation of issuance and protection against unauthorized alteration, and provide message authentication.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "electronic system requirements",
+        "data standards",
+        "message exchange",
+        "certificate validation",
+        "message authentication"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "44. Presentation of original certificates",
+      "summary": "The certifying body should notify the exporter or their agent when a certificate for a consignment has been issued and, where appropriate, inform them of the status of a paperless-exchanged certificate.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "issuance notification"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "45. In the case of paper certificates, the importer or consignee is responsible for ensuring that the product and the original  certificate,  in  accordance  with  the  importing  country's  requirements,  is  presented  to  the  importing country's authorities or to the authorities in a country carrying out import controls on behalf of the importing country.",
+      "summary": "For paper certificates, the importer or consignee is responsible for presenting the product and the original certificate, in accordance with the importing country's requirements, to the importing country's authorities or to authorities acting on their behalf.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "import presentation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "46. When countries use paperless exchange of official certificates, the importing country's competent authorities should ensure that the importer/consignee or their representative provides necessary and appropriate details to  the  importing  country's  authority  or  the  authority  carrying out import controls  on behalf of the importing country to allow the consignment identity to be verified against the exchanged certificate.",
+      "summary": "When paperless certificates are used, importing competent authorities should ensure the importer/consignee or their representative provides sufficient details to allow verification of consignment identity against the exchanged certificate.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "consignment verification"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "## Replacement of certificates",
+      "summary": "Competent authorities may issue replacement certificates to rectify lost, damaged, erroneous, or no-longer-correct originals, but replacements must clearly state they supersede the original, reference the original certificate number and signing date, and the original should be cancelled and, where possible for hard copy, returned to the issuer.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "replacement certificates",
+        "certificate replacement"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "48. When, for good and sufficient reason , there is cause to revoke a certificate, the certifying body should revoke the original certificate as soon as possible and notify the exporter or their agent in hard copy or by electronic means of  the  revocation.  The  notice  should  reference  the  number  of  the  original  certificate  to  which  the revocation refers and provide all particulars regarding the consignment and the reason(s) for the revocation. In the situation that the certificate is already under the responsibility of the importing country, the certifying body should notify the importing competent authority by electronic means or in hard copy that the involved original certificate has been made invalid.",
+      "summary": "If there is good and sufficient cause to revoke a certificate, the certifying body should promptly revoke the original and notify the exporter or their agent (hard copy or electronic) with the original certificate number, consignment particulars and reasons, and if the importing country already holds the certificate the certifying body should notify the importing competent authority that the original has been made invalid.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "certificate revocation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "49. When a competent authority suspects on reasonable grounds that an official certificate may  be fraudulent, because  of  deliberate  misrepresentation  or  other  criminal  activity,  it  should  immediately  commence  an investigation and involve the certifying body of the country from which the suspected fraudulent certificate is purported to have originated. Considerations should also be given to notify any third country that may have been implicated.  Additionally,  the  competent  authority  should  retain  the  associated  consignment  under  its control, pending the outcome of the investigation.",
+      "summary": "If a competent authority reasonably suspects an official certificate is fraudulent it must immediately investigate, involve the certifying body of the purported origin, consider notifying implicated third countries, and retain the consignment pending the investigation; certifying bodies should fully cooperate, efforts should be made to identify and act against perpetrators if fraud is confirmed, products linked to fraudulent certificates are treated as violative (destruction is an option), and importing authorities should keep current records of certificates including copies of stamps/marks.",
+      "categories": [
+        "documentation",
+        "risk management"
+      ],
+      "subcategories": [
+        "fraud investigation",
+        "footnote reference",
+        "fraud cooperation",
+        "fraudulent product",
+        "certificate records"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "## Scope of the annex",
+      "summary": "This annex provides additional guidance to competent authorities on both paper and equivalent electronic official certificates (elaborating Sections 8 and 9 and based on Section 4), notes that Codex model certificates take precedence where applicable, states certificates primarily address sanitary aspects but may cover fair trading matters, and that a single model certificate can cover multiple products.",
+      "categories": [
+        "scope",
+        "documentation"
+      ],
+      "subcategories": [
+        "annex scope",
+        "annex guidance",
+        "certificate scope",
+        "multiple products"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "## Explanatory notes on the paper version of the generic model for an official certificate General:",
+      "summary": "General explanatory notes for the paper certificate: it must be legible, importers must notify the importing competent authority of post‑issuance changes to consignee/entry/transport (which should not trigger a replacement certificate), and the model's reference numbers are for explanatory linkage only and should not appear on issued certificates.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "explanatory notes",
+        "completion instructions",
+        "amendment procedure",
+        "reference numbering"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "## Specific:",
+      "summary": "Specific instructions for certificate fields: the certificate must be marked 'ORIGINAL', 'COPY' or 'REPLACEMENT'; clearly identify issuing country, consignor/exporter, a unique certificate number authorized by the exporting competent authority, competent authority and certifying body, consignee, country of origin and destination (ISO codes optional), place of loading, means of transport, declared point of entry (UN/LOCODE if available), transport/storage conditions, and detailed product and packaging information including producer, establishment approval numbers, region/compartment, lot identifiers, type/number of packages and net weight.",
+      "categories": [
+        "documentation",
+        "transport"
+      ],
+      "subcategories": [
+        "field instructions",
+        "certificate type",
+        "country identification",
+        "exporter identification",
+        "certificate number",
+        "competent authority",
+        "certifying body",
+        "consignee details",
+        "origin country",
+        "destination country",
+        "loading place",
+        "transport means",
+        "entry point",
+        "transport storage conditions",
+        "iso country code",
+        "cross reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "## GENERIC MODEL OFFICIAL CERTIFICATE",
+      "summary": "The generic model official certificate (Annex I) prescribes fields 12–17: total quantity, container/seal identification, total number of packages, detailed product identification (nature/HS code, species, intended purpose, producer/manufacturer, establishment approval numbers, region/compartment, product name, lot identifier, packaging, package counts and net weight), that attestations be the minimum applicable statements required for food safety and fair practices with non‑applicable attestations excluded, and certifying officer details (name, position, date, signature and optional stamp), and directs reading the model with the explanatory notes.",
+      "categories": [
+        "documentation",
+        "packaging"
+      ],
+      "subcategories": [
+        "certificate template heading",
+        "annex heading",
+        "total quantity",
+        "container seal id",
+        "package count",
+        "product identification",
+        "product details",
+        "product description",
+        "intended purpose",
+        "trade sample declaration",
+        "region of origin",
+        "packaging type",
+        "attestations heading",
+        "minimum attestations",
+        "attestation exclusion",
+        "other attestations",
+        "certifying officer"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "COUNTRY",
+      "summary": "Heading only: 'COUNTRY'.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "country heading"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "CERTIFICATE TYPE",
+      "summary": "Certificate template heading and field list: enumerates the certificate fields (consignor/exporter, unique certificate number, competent authority, certifying body, consignee/importer, country of origin/destination with ISO codes, place of loading, means of transport, declared point of entry, transport/storage conditions, total quantity, container/seal IDs, total packages, product identification details, attestations, and certifying officer details) and notes the model should be read with explanatory notes.",
+      "categories": [
+        "documentation",
+        "transport",
+        "weights and measures",
+        "inspection certification",
+        "packaging"
+      ],
+      "subcategories": [
+        "certificate type heading",
+        "consignor exporter",
+        "certificate number",
+        "competent authority",
+        "certifying body",
+        "consignee details",
+        "origin country",
+        "iso country code",
+        "destination country",
+        "transport details",
+        "transport means",
+        "entry details",
+        "transport conditions",
+        "total quantity",
+        "container seal",
+        "package count",
+        "product identification",
+        "commodity description",
+        "species information",
+        "intended purpose",
+        "producer details",
+        "establishment approval",
+        "origin region",
+        "product name",
+        "lot identifier",
+        "packaging type",
+        "net weight",
+        "attestations heading",
+        "certifying officer",
+        "officer name",
+        "official position",
+        "date field",
+        "signature field",
+        "official stamp",
+        "certificate note",
+        "optional field"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "doc_id": "4783fdca-fefe-4f84-b6b9-6be49c971d41",
+  "title": "STANDARD FOR GOCHUJANG",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR GOCHUJANG",
+      "summary": "Title only — Standard for Gochujang (document title, non‑substantive).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 294 -2023 Adopted in 2023",
+      "summary": "Document identifier CXS 294‑2023 and adoption year 2023 (bibliographic information).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Applies to gochujang as defined in Section 2 when offered for direct consumption (including catering and repacking), excludes products intended for further processing and excludes chili paste/sauce where red pepper is the main ingredient.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Section heading only: Description (no substantive requirements in this item).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Product definition",
+      "summary": "Defines gochujang as a red or dark red pasty fermented food produced by saccharifying grain starch (via powdered malt or safe naturally occurring microorganisms), mixing salt and fermenting/aging the mixture, adding red pepper powder and optional ingredients before or after fermentation, and applying heat or other appropriate treatment and hermetic sealing to prevent spoilage.",
+      "categories": [
+        "definition",
+        "processing",
+        "composition"
+      ],
+      "subcategories": [
+        "product definition",
+        "product description",
+        "fermentation process",
+        "ingredient addition",
+        "heat treatment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section heading and overview for essential composition and quality factors (introduces subsections 3.1–3.4) rather than additional substantive requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1 Composition",
+      "summary": "Section heading only: Composition.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Specifies basic ingredients of gochujang as grains, red pepper (Capsicum annuum L.) powder, salt and potable water.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredient"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.2 Optional ingredients",
+      "summary": "Lists optional ingredients permitted in gochujang, including powdered meju (defined as fermented soybean or soybean‑grain material), soybeans, sugars (per CXS 212‑1999), distilled agricultural alcohol, soy sauce, fermented soybean paste, fish sauce (per CXS 302‑2011), seafood extract, fermented wheat protein, fermented rice, yeast extract, hydrolyzed vegetable protein, seasoned vegetables, vinegar and other ingredients.",
+      "categories": [
+        "composition",
+        "definition"
+      ],
+      "subcategories": [
+        "optional ingredients heading",
+        "optional ingredient",
+        "meju definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2 Quality factors",
+      "summary": "Section heading only: Quality factors.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.1 Quality factors",
+      "summary": "Sets compositional quality limits: capsaicin not less than 10.0 µg/mL (w/w), crude protein not less than 3.0% (w/w), and moisture not more than 60.0% (w/w).",
+      "categories": [
+        "quality",
+        "composition"
+      ],
+      "subcategories": [
+        "quality factors heading",
+        "quality factor item",
+        "capsaicin limit",
+        "protein limit",
+        "moisture limit",
+        "composition limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.2 Gochujang shall have its unique flavour, odour, and the following qualities.",
+      "summary": "Requires gochujang to have characteristic flavour and odour and specifies organoleptic qualities: red or dark red colour from Capsicum annuum L., a hot and savoury taste (may be somewhat sweet and somewhat salty), and an appropriate level of viscosity.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "colour requirement",
+        "taste requirement",
+        "texture requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.3 Defects and allowances",
+      "summary": "Product must be practically free from defects such as seeds, peels, grit or other extraneous matter.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defects heading",
+        "defect allowance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.3 Classification of 'defectives'",
+      "summary": "Defines a 'defective' as any container that fails to meet the applicable quality requirements set out in Section 3.2.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "defective definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.4 Lot acceptance",
+      "summary": "A lot meets the quality requirements when the number of 'defectives' (per Section 3.3) does not exceed the acceptance number (c) of the appropriate sampling plan with an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits certain acidity regulators, antioxidants, flavour enhancers, preservatives and stabilizers in accordance with Tables 1 and 2 of the General Standard for Food Additives (CXS 192‑1995) for food category 04.2.2.7, and requires flavourings to comply with the Guidelines for the Use of Flavourings (CXG 66‑2008).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.1 Acidity  regulators,  antioxidants,  flavour  enhancers,  preservatives,  and  stabilizers  used  in  accordance  with Table 1 and Table 2 of the General Standard for Food Additives (CXS 192-1995) 3   in food category 04.2.2.7 (fermented vegetable [including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera] and  seaweed  products,  excluding  fermented  soybean  products  of  food  categories  06.8.6,  06.8.7,  12.9.1, 12.9.2.1 and 12.9.2.3) are acceptable for use in foods conforming to this standard.",
+      "summary": "Permits use of acidity regulators, antioxidants, flavour enhancers, preservatives and stabilizers in accordance with Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for food category 04.2.2.7 (fermented vegetables and seaweed products, excluding specified fermented soybean products) in foods conforming to this standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "food additive use"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.2 The flavourings used in products covered by this standard should comply with the Guidelines for the Use of Flavourings (CXG 66-2008). 4",
+      "summary": "Requires that flavourings used in products covered by this standard comply with the Guidelines for the Use of Flavourings (CXG 66-2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavouring compliance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5. CONTAMINANTS",
+      "summary": "Mandates that products comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. HYGIENE",
+      "summary": "Heading introducing hygiene provisions that recommend preparation and handling per the General Principles of Food Hygiene (CXC 1-1969) and adherence to relevant Codex codes and microbiological criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.1 It is recommended that the products covered by the provisions of this standard be prepared and handled in accordance with the appropriate sections of the General Principles of Food Hygiene (CXC 1-1969) 6   and other relevant Codex texts such as codes of hygienic practice and codes of practice.",
+      "summary": "Recommends that products be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex codes of hygienic practice and codes of practice.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene recommendation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.2 The products should comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997). 7",
+      "summary": "Requires that products comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Heading for weights and measures provisions (no substantive requirements in this heading alone).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.1 Fill of container",
+      "summary": "Heading for fill-of-container provisions (no substantive requirements in this heading alone).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.1.1 Minimum fill",
+      "summary": "Sets minimum fill requirements: sealed rigid containers must contain not less than 90% of the container's water capacity (allowing necessary head space per GMP), where water capacity is the volume of distilled water at 20°C the sealed container will hold, and flexible containers must be filled as full as commercially practicable.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill heading",
+        "minimum fill requirement",
+        "flexible fill requirement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.1.2 Classification of 'defectives'",
+      "summary": "Defines a container that fails to meet the minimum fill requirement of Section 7.1.1 as a 'defective'.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "fill defective"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "States that a lot meets the minimum fill requirement when the number of 'defectives' does not exceed the acceptance number (c) of the applicable sampling plan with an AQL of 6.5.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.2 Minimum weight",
+      "summary": "Specifies minimum weight tolerances by indicated weight: for ≤1,000 g tolerance <15 g; for 1,000–5,000 g net weight must be ≥98.5% of indicated weight; for >5,000 g net weight must be ≥99% of indicated weight.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.2.1 Classification of 'defectives'",
+      "summary": "Defines a container that fails to meet the minimum weight requirement of Section 7.2 as a 'defective'.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "weight defective"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.2.2 Lot acceptance",
+      "summary": "States that a lot meets the minimum weight requirements when the number of 'defectives' does not exceed the acceptance number (c) of the applicable sampling plan with an AQL of 6.5.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8. LABELLING",
+      "summary": "Heading for labelling provisions and states that, in addition to the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), the following specific labelling provisions apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8.1 Product name",
+      "summary": "Heading for product name provisions (no substantive requirement in this heading alone).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.1.1 The name of product shall be ' gochujang '",
+      "summary": "Requires that the product name shall be 'gochujang'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.1.2 The name of product can be labelled in accordance with domestic laws, so that its characteristics may be expressed",
+      "summary": "Permits the product name to be labelled in accordance with domestic laws so that the product's characteristics may be expressed.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "characteristic declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Requires labelling of non-retail containers to be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Requires that methods of analysis and sampling for checking compliance be those contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions of this standard.",
+      "categories": [
+        "analysis sampling",
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "analysis sampling heading",
+        "test methods",
+        "reference note",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    }
+  ]
+}

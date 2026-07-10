@@ -1,0 +1,567 @@
+{
+  "doc_id": "5d9538fa-05ec-4d7c-966e-ecd3817e868c",
+  "title": "STANDARD FOR CHILI SAUCE CXS 306-2023 Adopted in 2023",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR CHILI SAUCE CXS 306-2023 Adopted in 2023",
+      "summary": "Heading only: title of the Standard for Chili Sauce (CXS 306-2023), no substantive text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to chili sauce as defined in Section 2 when offered for direct consumption (including catering and repacking) and excludes products indicated as intended for further processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines chili sauce as prepared from the edible portion of sound, clean chili (Capsicum spp.) intended as a seasoning/condiment and processed (heat or other means) and hermetically sealed to prevent spoilage; also specifies permitted styles and requires other presentations to be distinctive, meet the standard and be adequately labelled to avoid consumer confusion.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product definition",
+      "summary": "Defines chili sauce as a product prepared from the edible portion of sound, clean fresh and/or processed chili (Capsicum spp.) intended for use as a seasoning or condiment and processed (heat or other means) before or after hermetic sealing to prevent spoilage.",
+      "categories": [
+        "definition",
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "product definition",
+        "primary ingredients",
+        "product purpose",
+        "heat treatment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Styles",
+      "summary": "Lists permitted styles of chili sauce (various combinations of pulp and seeds ground, with particles, crushed layers, or only pulp/crushed pulp) and allows other presentations provided they are distinctive, meet the standard's requirements and are adequately described on the label.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.1 Chili sauce can be of the following styles:",
+      "summary": "Specifies four allowed styles: (a) pulp and seeds homogeneously ground; (b) homogenous grind with added particles/flakes/pieces and seeds; (c) crushed pulp and seeds as separate layers or distributed; (d) only pulp or crushed pulp or both.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "style heading",
+        "style description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2.2 Other styles:",
+      "summary": "Permits other presentations of the product provided they are sufficiently distinctive from listed styles, comply with all applicable standard requirements, and are adequately labelled to avoid confusing or misleading consumers.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "other styles heading",
+        "other presentation",
+        "misleading description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies essential composition and quality: required basic and optional plant-origin ingredients, sensory and compositional quality requirements (pH and total soluble solids), definitions and tolerances for defects, classification of defective containers, and lot acceptance based on an AQL sampling plan.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1 Composition",
+      "summary": "States the product shall consist of specified basic ingredients (fresh and/or processed chili, whole/pieces/mash, vinegar or permitted acid, salt, water) and allows other suitable plant-origin optional ingredients such as fruits, vegetables, spices, sugars and chili extract.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.1 Basic ingredients",
+      "summary": "Requires the product to contain as basic ingredients: fresh and/or processed chili (various forms), whole or pieces or pepper mash, vinegar or other permitted acid, edible salt (per CXS 150-1985 or equivalent) and water.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "basic ingredients heading",
+        "basic ingredients",
+        "ingredient note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.2 Optional ingredients",
+      "summary": "Permits optional plant-origin ingredients including various fruits (e.g., mango, papaya), vegetables (e.g., tomato, garlic), spices/herbs and extracts, sugars or sweeteners (e.g., honey), and chili extract.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients heading",
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2 Quality criteria",
+      "summary": "Sets quality criteria: normal colour, flavour, odour and texture; pH not exceeding 4.6; total soluble solids between 8% and 60%; defines extraneous vegetable material and requires the product to be practically free from specified defects.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.1 General requirements",
+      "summary": "Requires chili sauce to have normal colour, flavour, odour and texture appropriate to ingredients, a pH not exceeding 4.6, and total soluble solids of 8–60%, as appropriate to the type of sauce.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "general requirements heading",
+        "sensory attributes",
+        "ph requirement",
+        "ph limit",
+        "soluble solids",
+        "soluble solids limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.2 Definition of defects",
+      "summary": "Defines 'extraneous vegetable material' as vegetable parts (e.g., pedicels, leaves, calyxes, garlic stems) that are not a health hazard but negatively affect the product's appearance.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defects heading",
+        "defect definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.3 Defects and allowances",
+      "summary": "Requires the product to be practically free from dark specks/scale-like particles, discoloured seeds or abnormally discoloured ingredients and extraneous vegetable material, except for dark specks arising from natural processes like roasting.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defects allowances",
+        "defect tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.3 Classification of 'defectives''",
+      "summary": "States that any container failing to meet one or more applicable quality requirements in Section 3.2 shall be considered 'defective'.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "defective container"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.4 Lot acceptance",
+      "summary": "Defines lot acceptance: a lot meets the quality requirements when the number of 'defectives' does not exceed the sampling-plan acceptance number c) at an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance sampling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Specifies permitted food additive classes (acidity regulators, antioxidants, colours, emulsifiers, preservatives, stabilizers, sweeteners, thickeners, flavour enhancers) for food category 12.6.2 in accordance with Tables 1–3 of the General Standard for Food Additives (CXS 192-1995); notes applicability of relevant Codex spices/herbs standards, defines sugars and honey by their respective Codex standards, accepts non-emulsified sauces, and limits chili sauce pH to not exceed 4.6.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.2 Flavourings",
+      "summary": "Requires flavourings used in products covered by the standard to comply with the Codex Guidelines for the Use of Flavourings (CXG 66-2008).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "flavourings heading",
+        "flavouring compliance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires the product to comply with maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling in accordance with Codex General Principles of Food Hygiene (CXC 1-1969), the Code for Low and Acidified Low Acid Canned Foods (CXC 23-1979) and other relevant Codex texts, and requires compliance with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic preparation",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Sets fill-of-container requirements and associated sampling/acceptance rules: containers must meet minimum fill standards (see 7.1.1), flexible containers be as full as commercially practicable, items failing minimum fill are 'defectives', and lot acceptance is determined by a sampling plan using an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.1 Fill of container",
+      "summary": "Specifies fill-of-container provisions including minimum fill, classification of defectives, and lot acceptance criteria tied to the sampling plan with AQL 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.1.1 Minimum fill",
+      "summary": "Requires containers to be filled to not less than 90% of their water capacity (minus necessary headspace per GMP), defines water capacity as volume of distilled water at 20°C the sealed container holds, and states flexible containers should be filled as full as commercially practicable.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill heading",
+        "minimum fill requirement",
+        "flexible container fill"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.1.2 Classification of 'defectives'",
+      "summary": "Defines a 'defective' as any container failing to meet the minimum fill requirement of Section 7.1.1.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defectives heading",
+        "fill defect"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.1.3 Lot acceptance",
+      "summary": "Declares a lot acceptable under Section 7.1.1 when the number of 'defectives' does not exceed the acceptance number (c) of the appropriate sampling plan using an AQL of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance sampling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8. LABELLING",
+      "summary": "Requires labelling in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and adds specific provisions: the product name must be 'Chili sauce', 'Sweet chili sauce' or other non-misleading names consistent with composition and national law/custom; chili pungency may be declared near the name subject to acceptance by competent authorities; if permitted ingredients alter flavour the name must indicate 'flavoured with X' or 'X flavoured'; and non-retail container labelling should follow CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.1 Name of the product",
+      "summary": "States product naming rules: the product shall be labelled 'Chili sauce', 'Sweet chili sauce' or another appropriate non-misleading name consistent with composition and national law; chili pungency (heat) may be declared near the name if acceptable to competent authorities; and if permitted ingredients change the flavour the name must be accompanied by 'flavoured with X' or 'X flavoured'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "product name",
+        "pungency declaration",
+        "flavoured name"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "States that labelling of non-retail containers should comply with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Mandates use of the methods of analysis and sampling in the Codex Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard when checking compliance.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "Sampling plans",
+      "summary": "Defines inspection levels for sampling: Inspection level I for normal sampling and Inspection level II for dispute (Codex referee), enforcement, or when a better lot estimate is needed.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plans",
+        "inspection level",
+        "normal sampling",
+        "dispute sampling"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "SAMPLING PLAN 1",
+      "summary": "Provides Sampling Plan 1 (Inspection level I, AQL = 6.5) with tabulated sample sizes and acceptance numbers by lot size for three net weight categories: ≤1 kg, >1–4.5 kg, and >4.5 kg.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "NET WEIGHT IS EQUAL TO OR LESS THAN 1 KG (2.2 LB)",
+      "summary": "Gives the table for net weight ≤1 kg mapping lot size ranges to sample size (n) and acceptance number (c) under Sampling Plan 1 (AQL 6.5).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "net weight heading",
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "NET WEIGHT IS GREATER THAN 1 KG (2.2 LB) BUT NOT MORE THAN 4.5 KG (10 LB)",
+      "summary": "Provides the table for net weight >1 kg up to 4.5 kg mapping lot size ranges to sample size (n) and acceptance number (c) under Sampling Plan 1 (AQL 6.5).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "NET WEIGHT GREATER THAN 4.5 KG (10 LB)",
+      "summary": "Provides the table for net weight >4.5 kg mapping lot size ranges to sample size (n) and acceptance number (c) under Sampling Plan 1 (AQL 6.5).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

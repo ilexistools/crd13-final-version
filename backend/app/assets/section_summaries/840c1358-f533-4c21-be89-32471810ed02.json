@@ -1,0 +1,324 @@
+{
+  "doc_id": "840c1358-f533-4c21-be89-32471810ed02",
+  "title": "PRINCIPLES AND GUIDELINES FOR MONITORING THE PERFORMANCE OF NATIONAL FOOD CONTROL SYSTEMS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "PRINCIPLES AND GUIDELINES FOR MONITORING THE PERFORMANCE OF NATIONAL FOOD CONTROL SYSTEMS",
+      "summary": "Document title and code: Principles and Guidelines for Monitoring the Performance of National Food Control Systems (CXG 91-2017), adopted 2017 (heading, no substantive provisions).",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## SECTION 1 INTRODUCTION",
+      "summary": "Introduces the need for an effective national food control system (NFCS), describes the competent authority's role in regularly assessing and adapting the NFCS, and states the document provides a performance monitoring framework to support system review (not for comparing systems or creating trade barriers), noting other assessment tools may complement it.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "section heading",
+        "introductory context",
+        "implementation context",
+        "monitoring purpose",
+        "guidance purpose",
+        "supporting references"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## SECTION 2  PURPOSE OF GUIDANCE",
+      "summary": "States the document's purpose to present a planning-monitoring-system review framework, establish common performance monitoring principles, terminology and best practices, support country self-assessment, and emphasize planning steps to assess NFCS effectiveness and facilitate continuous improvement.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "section heading",
+        "guidance purpose",
+        "self-assessment purpose",
+        "planning focus",
+        "framework application"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## SECTION 3 DEFINITIONS 3",
+      "summary": "Provides definitions of key terms used in the performance monitoring framework (e.g., activity, assessment, effectiveness, indicator, inputs, outputs, outcomes, performance monitoring) and includes source/footnote notes.",
+      "categories": [
+        "definition",
+        "documentation"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "activity definition",
+        "assessment definition",
+        "effectiveness definition",
+        "indicator definition",
+        "inputs definition",
+        "outcome definition",
+        "outputs definition",
+        "performance monitoring",
+        "footnote note",
+        "source note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "SECTION 4  PRINCIPLES OF THE PERFORMANCE MONITORING FRAMEWORK",
+      "summary": "Explains the framework may be applied comprehensively, phased, or targeted and lists four guiding principles—relevancy, transparency, efficiency and reliability, and responsiveness—that should characterize performance monitoring.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Principle 1 Relevancy",
+      "summary": "Principle 1 (Relevancy): the performance monitoring framework must be customized to the NFCS's unique needs and use internal and external information to identify gaps, optimise operations, and promote continuous improvement.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "principle heading",
+        "relevance principle"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Principle 2 Transparency",
+      "summary": "Principle 2 (Transparency): the framework should be open to consultation and review by relevant national stakeholders while respecting legal requirements to protect confidential information.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "principle heading",
+        "transparency principle"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Principle 3 Efficiency and Reliability",
+      "summary": "Principle 3 (Efficiency and Reliability): monitoring should be practicable within existing capacity, build on existing data and program management, use appropriate external data sources, and pay attention to data quality and reliability.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "principle heading",
+        "efficiency principle"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Principle 4 Responsiveness",
+      "summary": "Principle 4 (Responsiveness): the framework must be adaptive to changes in the NFCS and its operating environment and accommodate revisions to outcomes, activities, and indicators.",
+      "categories": [
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "principle heading",
+        "responsiveness principle"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "SECTION 5 PERFORMANCE MONITORING FRAMEWORK FOR AN NFCS",
+      "summary": "Presents a cyclical performance monitoring process for an established NFCS—planning, monitoring, and system review—where planning identifies outcomes and indicators, monitoring collects data, and system review assesses effectiveness to enable continuous improvement.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3. \u001f0b7 Through the planning steps, the competent authority identifies specific and related outcomes through which  the  NFCS  contributes  to  its  objectives  and  identifies  indicators  that  can  measure  progress toward the outcomes.  The planning steps establish a foundation for monitoring and system review.",
+      "summary": "Planning step: the competent authority identifies specific outcomes through which the NFCS contributes to objectives and selects indicators to measure progress, establishing the foundation for monitoring and system review.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "planning steps"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4. \u001f0b7 Through the monitoring steps, the competent authority collects data and generates the information necessary.",
+      "summary": "Monitoring step: the competent authority collects data and generates the information necessary to assess progress toward identified outcomes.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "data collection"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5. \u001f0b7 Through the system review steps, the competent authority uses information generated through the monitoring steps to assess the effectiveness and appropriateness of the NFCS. This can confirm that the  relevant  component(s)  are  operating  as  intended,  and  facilitate  continuous  improvement  as necessary.",
+      "summary": "System review step: the competent authority uses monitoring information to assess the NFCS's effectiveness and appropriateness, confirm components operate as intended, and facilitate continuous improvement as necessary.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "system review"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "SECTION 5.1 PLANNING STEPS",
+      "summary": "Explains planning steps are sequential (e.g., identify intended outcomes before indicators) and completion yields clearly defined outcomes and a plan for monitoring progress toward them.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Step 1: Preparation",
+      "summary": "Requires organisational commitment and an assessment of the competent authority's readiness for monitoring and system review—including review of legislative objectives, data collection/quality/reporting processes, and resource and technical capacity; if capacity or resources are insufficient, recommends a phased or targeted approach, plans for capacity development and funding, and regular reassessment to expand monitoring over time.",
+      "categories": [
+        "scope",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "step heading",
+        "preparation step",
+        "organizational commitment",
+        "policy objectives",
+        "performance monitoring",
+        "data use",
+        "monitoring review",
+        "data collection",
+        "data analysis",
+        "data quality",
+        "reporting processes",
+        "program evaluation",
+        "resource capacity",
+        "available resources",
+        "technical expertise",
+        "phased implementation",
+        "capacity improvement",
+        "capacity development",
+        "funding support",
+        "periodic review"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "APPENDIX A: ILLUSTRATIVE EXAMPLE OF A SIMPLIFIED OUTCOME FRAMEWORK",
+      "summary": "Appendix A heading indicating an illustrative outcome framework image (non-substantive in this text).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix heading",
+        "image artifact"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "APPENDIX B: ILLUSTRATIVE EXAMPLES OF INDICATORS FOR SELECTED OUTCOMES",
+      "summary": "Provides illustrative examples of indicators mapped to selected outcomes (e.g., incidence of foodborne illness, percent of samples positive for contaminants, industry compliance and awareness metrics, recall recovery, and traceability measures) to guide countries in selecting outcome-specific indicators.",
+      "categories": [
+        "other",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "appendix heading",
+        "indicator framework",
+        "table heading",
+        "table divider",
+        "outcome indicators"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    }
+  ]
+}

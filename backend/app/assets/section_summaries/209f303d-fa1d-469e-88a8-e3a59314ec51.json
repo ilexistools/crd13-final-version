@@ -1,0 +1,230 @@
+{
+  "doc_id": "209f303d-fa1d-469e-88a8-e3a59314ec51",
+  "title": "1. SCOPE AND DESCRIPTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE AND DESCRIPTION",
+      "summary": "This Standard applies to sugars intended for direct human consumption or as ingredients and defines each product: e.g., white sugar (purified crystallised sucrose, polarisation ≥99.7 ºZ), plantation/mill white sugar (sucrose, polarisation ≥99.5 ºZ), powdered sugar (finely pulverised white sugar, ± anticaking agent), soft white sugar (moist, sucrose+invert ≥97.0% m/m), soft brown sugar (moist, sucrose+invert ≥88.0% m/m), dextrose anhydrous (D‑glucose ≥99.5% m/m dry, total solids ≥98.0% m/m), dextrose monohydrate (D‑glucose ≥99.5% m/m dry, total solids ≥90.0% m/m), powdered dextrose (pulverised dextrose ± anticaking agent), glucose syrup (nutritive saccharides from starch/inulin, dextrose equivalent ≥20.0% m/m, total solids ≥70.0% m/m), dried glucose syrup (total solids ≥93.0% m/m), lactose (anhydrous lactose ≥99.0% m/m dry), fructose (D‑fructose ≥98.0% m/m, glucose ≤0.5% m/m), and raw cane sugar (partially purified sucrose crystals coated with cane molasses).",
+      "categories": [
+        "scope",
+        "presentation",
+        "classification"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "table heading",
+        "table separator",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2 FOOD ADDITIVES",
+      "summary": "Antioxidants and anticaking agents listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) are permitted in specified sugar categories (11.1.1, 11.1.2, 11.1.3, 11.1.5) when used in accordance with that Standard. Powdered sugar and powdered dextrose may contain up to 5% starch provided no anticaking agent is used.",
+      "categories": [
+        "additives",
+        "composition"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "starch addition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3 CONTAMINANTS",
+      "summary": "Raw cane sugar must be free from heavy metals in amounts that may pose a health hazard, other sugars must comply with Codex maximum limits for heavy metals, and all products covered by this Standard must comply with Codex maximum residue limits for pesticide residues.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3.1 Heavy metals",
+      "summary": "For raw cane sugar: must be free from heavy metals in amounts that may represent a hazard to human health; for other sugars: must comply with maximum heavy metal limits established by the Codex Alimentarius Commission.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "heavy metals heading",
+        "raw cane sugar",
+        "heavy metals limit",
+        "other sugars",
+        "contaminant limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.2 Pesticide residues",
+      "summary": "Products covered by this Standard must comply with the maximum pesticide residue limits established by the Codex Alimentarius Commission for these commodities.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues heading",
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4 HYGIENE",
+      "summary": "Products should be prepared and handled per the Codex General Principles of Food Hygiene (CXC 1-1969) and relevant Codes of Practice, and must meet any microbiological criteria established under the Codex Principles and Guidelines for Microbiological Criteria (CXG 21-1997).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5 LABELLING",
+      "summary": "In addition to the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), this Standard requires that product names conform to Section 1 descriptions and includes specific name and descriptor rules (e.g., powdered dextrose must indicate anhydrous/monohydrate form; glucose syrup with >5% fructose must be described); the presence and maximum amount of starch must be declared on powdered sugar/powdered dextrose labels, and labelling of non-retail containers should follow CXS 346-2021.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5.1 The name of the food",
+      "summary": "All products must conform to the product descriptions in Section 1; powdered dextrose must bear a reference to dextrose anhydrous and/or monohydrate as appropriate, and glucose syrup containing more than 5% fructose must be described to reflect that.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food heading",
+        "product description",
+        "product name qualification",
+        "glucose syrup description"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5.2 List of ingredients",
+      "summary": "The presence of starch and its maximum amount must be declared on the label or container of powdered sugar or powdered dextrose.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "starch declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5.3 Labelling of non-retail containers.",
+      "summary": "Labelling of non-retail containers should be carried out in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6 METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Compliance with this Standard shall be checked using the methods of analysis and sampling set out in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the Standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "I. ADDITIONAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Composition and quality factors for the sugars covered by this Standard are specified in Table 1 of the Standard.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition factors"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "II. Additional Methods of Analysis",
+      "summary": "See the relevant Codex texts for additional methods of analysis and sampling applicable to this Standard.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis methods",
+        "codex reference"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

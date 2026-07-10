@@ -1,0 +1,728 @@
+{
+  "doc_id": "1bf01678-ef33-4dce-bf67-0b2b7b343e68",
+  "title": "STANDARD FOR QUICK FROZEN LOBSTERS CODEX STAN 95-1981 Adopted in 1981. Revised in 1995, 2004, 2017. Amended in 2011, 2013, 2014.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR QUICK FROZEN LOBSTERS CODEX STAN 95-1981 Adopted in 1981. Revised in 1995, 2004, 2017. Amended in 2011, 2013, 2014.",
+      "summary": "Title and identification of the Codex Standard for Quick Frozen Lobsters (CODEX STAN 95-1981) with adoption, revision, and amendment years noted.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. SCOPE",
+      "summary": "This standard applies to quick frozen raw or cooked lobsters, including rock, spiny, slipper and Norway lobsters, and also to quick frozen raw or cooked squat lobsters (red and yellow).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2. DESCRIPTION",
+      "summary": "Describes the product, processing and presentation: defines permitted species (no species mixtures), requires rapid freezing through the crystallization range with core temperature reaching -18°C or colder and maintenance of deep freezing to preserve quality while minimizing dehydration/oxidation; any presentation is allowed provided it meets the standard and is adequately labelled.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Product Definition",
+      "summary": "Defines the product as prepared from lobsters of genus Homarus (family Nephropidae) and families Palinuridae and Scyllaridae, allows Nephrops norvegicus only if presented as Norway lobster, includes specified squat lobster species, and requires that packs contain no mixture of species.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "product definition",
+        "species definition",
+        "species mixture"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Process Definition",
+      "summary": "Cooking water must be potable or clean sea‑water; freezing must rapidly pass the maximum crystallization range and is not complete until the product core reaches -18°C or colder after stabilization, the product must be kept deep frozen during transport/storage, and processing/packaging must minimize dehydration and oxidation.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "process definition",
+        "cooking water",
+        "freezing conditions",
+        "dehydration control"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3 Presentation",
+      "summary": "Any presentation of the product is permitted provided it meets the standard and is adequately described on the label to avoid misleading consumers, and lobsters may be packed by count per unit weight, per package, or within a stated weight range.",
+      "categories": [
+        "presentation",
+        "labelling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation requirements",
+        "consumer description",
+        "count and weight"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors: lobsters must be sound and fit for fresh sale; glazing water, if used, must be potable or clean sea‑water meeting WHO potability microbiological standards; other ingredients must be food grade and conform to applicable Codex standards; and final products must meet the standard when lots examined in accordance with specified sections and methods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Lobsters",
+      "summary": "The product must be prepared from sound lobsters of a quality fit to be sold fresh for human consumption.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "lobster quality heading",
+        "freshness quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 Glazing",
+      "summary": "If glazed, the water used for glazing or glazing solutions must be potable or clean sea‑water, with potability standards at least those in the WHO International Guidelines for Drinking Water Quality and clean sea‑water meeting the same microbiological standards and being free from objectionable substances.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "glazing heading",
+        "glazing water"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.3 Other Ingredients",
+      "summary": "All other ingredients used in the product must be of food‑grade quality and conform to applicable Codex standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "other ingredients",
+        "ingredient quality"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.4 Final Product",
+      "summary": "A product lot is in compliance when lots examined per Section 9 meet the provisions of Section 8, and products shall be examined by the methods specified in Section 7.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "final product heading",
+        "conformity testing"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Antioxidants, humectants and preservatives listed for food category 09.2.1 (frozen fish and related products) and its parent categories in Tables 1 and 2 of the General Standard for Food Additives (CODEX STAN 192-1995) are acceptable for use in foods conforming to this Standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5. HYGIENE",
+      "summary": "Recommends that covered lobster products be prepared and handled according to relevant Codex hygienic Codes of Practice (General Principles of Food Hygiene, fish/fishery and quick-frozen Codes) and comply with any microbiological criteria established per CAC/GL 21-1997.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6. LABELLING",
+      "summary": "Heading introducing specific labelling provisions that supplement the General Standard for the Labelling of Prepackaged Foods (CODEX STAN 1-1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6.1 Name of the Food",
+      "summary": "Specifies mandatory product naming and presentation rules for lobsters and related taxa (names by genus/family/species), requires a clear form-of-presentation declaration near the product name, permits common trade names if not misleading, mandates cooked/raw designation, a statement if glazed with sea-water, use of the term “quick frozen” (or “frozen” where customary), and a label statement on storage/transport conditions to maintain quality.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name heading",
+        "product designation",
+        "species name",
+        "presentation declaration",
+        "trade name",
+        "product state",
+        "sea-water claim",
+        "quick frozen claim",
+        "storage statement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.2 Net Contents (Glazed Products)",
+      "summary": "Requires that declared net contents for glazed products be stated exclusive of the glaze.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net contents heading",
+        "glaze exclusion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.3 Storage Instructions",
+      "summary": "Requires the label to indicate that the product must be stored at −18 °C or colder.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage instructions heading",
+        "temperature requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6.4 LABELLING OF NON-RETAIL CONTAINERS",
+      "summary": "Allows required labelling information to appear on the container or accompanying documents, but mandates that the food name, lot identification, manufacturer/packer name and address, and storage instructions always appear on the container; lot identification and name/address may be replaced by an identification mark if it is clearly traceable to accompanying documents.",
+      "categories": [
+        "labelling",
+        "documentation"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "container particulars",
+        "identification mark"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "7. SAMPLING, EXAMINATION AND ANALYSES",
+      "summary": "Heading introducing the sampling, examination and analysis requirements for the standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7.1 Sampling",
+      "summary": "Requires lot sampling according to an appropriate sampling plan with an AQL of 6.5, defines sample units (individual lobster for shell-on; ≥1 kg portions from primary container for shell-off and squat lobster), and mandates net weight sampling per Codex Alimentarius Commission criteria.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "product sampling plan",
+        "weight sampling plan"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "7.2 Sensory and physical examination",
+      "summary": "Mandates that sensory and physical examinations be performed by trained personnel using procedures in Sections 7.3–7.6, Annex A, and the CAC/GL 31-1999 Guidelines for Sensory Evaluation of Fish and Shellfish.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory heading",
+        "trained assessment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7.3 Determination of net weight",
+      "summary": "Heading introducing methods for determination of net weight.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.3.1 Determination of net weight of Products not Covered by Glaze",
+      "summary": "Requires that the net weight (exclusive of packaging) of each sample unit for non-glazed products be determined while the product is frozen.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "net weight method",
+        "frozen weighing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.3.2 Determination of Net Weight of Products Covered by Glaze (Alternate Methods)",
+      "summary": "Specifies alternate laboratory methods to remove ice glaze and determine net product weight while minimizing thaw drip or refreezing, including: gentle cold-water spray and towel-dry weighing; immersion in a water bath until glaze is felt removed then towel-dry weighing; or thawing in potable water at 27 °C equal to eight times the declared weight followed by sieving, draining and weighing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7.3.2 (1) As soon as the package is removed from frozen temperature storage, open immediately and place the contents under a gentle spray of cold water until all ice glaze that can be seen or felt is removed.",
+      "summary": "Method option: immediately spray the frozen package contents with a gentle cold water spray to remove visible/felt glaze, remove adhering water with paper towel, then weigh.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "glaze removal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.3.2 (2) The pre-weighed glazed sample is immersed into a water bath by hand, until all glaze is removed, which preferably can be felt by the fingers.",
+      "summary": "Method option: immerse the pre-weighed glazed sample in a water bath until glaze is removed (felt by fingers), remove while still frozen when the surface becomes rough, dry with paper towel and perform the second weighing to avoid thaw drip or re-freezing.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "glaze removal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.3.2 (3) As soon as the package is removed from frozen temperature storage, place the product in a container containing an amount of fresh potable water of 27 \u000b0 C (80 \u000b0 F) equal to 8 times the declared  weight of the product.",
+      "summary": "Method option: place the frozen product in potable water at 27 °C with a volume equal to eight times the declared product weight, leave until all ice melts (turn block-frozen product during thawing) and determine completion by gentle probing.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "thawing and draining"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.3.2 (4) Weigh a dry clean sieve with woven wire cloth with nominal size of the square aperture 2.8  mm  (ISO  Recommendation  R565)  or  alternatively  2.38  mm  (U.S.  No.  8  Standard Screen.)",
+      "summary": "Requires weighing a dry clean sieve made of woven wire cloth with nominal square aperture size 2.8 mm (or alternatively 2.38 mm/ U.S. No. 8) prior to draining the thawed product.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sieve weighing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.3.2 (5) If  the quantity of the total contents of the package is 500 g (1.1 lbs) or less, use a sieve with a diameter of 20 cm (8 inches).",
+      "summary": "Specifies that if the package total contents are 500 g (1.1 lbs) or less, a sieve of 20 cm (8 in) diameter must be used.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sieve size"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.3.2 (6) If  the quantity of the total contents of the package is more than 500 g (1.1 lbs) use a sieve with a diameter of 30 cm (12 inches).",
+      "summary": "Specifies that if the package total contents exceed 500 g (1.1 lbs), a sieve of 30 cm (12 in) diameter must be used.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sieve size"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.3.2 (7) After  all  glaze  that  can  be  seen  or  felt  has  been  removed  and  the  lobsters  separate  easily,  empty  the  contents  of  the  container  on  the  previously  weighed  sieve.",
+      "summary": "Instructs that after all removable glaze is gone and lobsters separate easily, empty contents onto the pre-weighed sieve inclined about 20° and allow to drain for two minutes.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "draining procedure"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.3.2 (8) Weigh  the  sieve  containing  the  drained  product.  Subtract  the  mass  of  the  sieve;  the  resultant figure shall be considered to be part of the net content of the package.",
+      "summary": "Requires weighing the sieve with the drained product and subtracting the sieve mass to determine the net content of the package.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "net content calculation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.4 Determination of count",
+      "summary": "When a count is declared on the label, determine count per unit weight by counting all lobsters or tails in the primary container and dividing that count by the average deglazed weight.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "count heading",
+        "count determination"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "7.5 Procedure for Thawing",
+      "summary": "Thaw the sample unit enclosed in a film bag immersed in water at room temperature (≤35°C) and confirm complete thawing by gently squeezing until no hard core or ice crystals remain.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "thawing heading",
+        "thawing procedure"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "7.6 Cooking Methods",
+      "summary": "Provide cooking procedures to assess odour/flavour based on heating product to an internal temperature of 65–70°C without overcooking, with methods specified for baking, steaming, boil‑in‑bag and microwave and cooking times to be established by prior experimentation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "cooking heading",
+        "cooking conditions",
+        "baking procedure",
+        "steaming procedure",
+        "boil-in-bag procedure",
+        "microwave procedure"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8. DEFINITION OF DEFECTIVES",
+      "summary": "Heading only: introduces the definitions of conditions under which a sample unit is to be considered defective.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.1 Deep Dehydration",
+      "summary": "Defines deep dehydration as excessive moisture loss affecting greater than 10% of the lobster's weight or surface area, visible as white or yellow abnormalities that penetrate below the surface and cannot be removed by scraping without unduly affecting appearance.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality defect heading",
+        "deep dehydration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "8.2 Foreign Matter",
+      "summary": "Defines foreign matter as any material not derived from lobster that is readily recognizable without magnification (or present at levels identified by inspection methods) and indicates non‑compliance with good manufacturing and sanitation practices, even if not a direct health hazard.",
+      "categories": [
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "foreign matter heading",
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "8.3 Odour/Flavour",
+      "summary": "Counts lobster as defective when it exhibits persistent, distinct objectionable odours or flavours indicative of decomposition, rancidity, or feed.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour flavour heading",
+        "odour flavour defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "8.4 Discolouration",
+      "summary": "Defines discolouration defects as distinct blackening of more than 10% of the shell surface of whole or half lobster, or black/brown/green/yellow discolouration of meat affecting more than 10% of the declared weight.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "discolouration heading",
+        "defect criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "A lot is acceptable if (i) total defectives per Section 8 do not exceed the acceptance number (c) from a sampling plan at AQL 6.5; (ii) units outside declared count/weight per Section 2.3 do not exceed that plan's acceptance number (c) at AQL 6.5; (iii) the average net weight of sample units is at least the declared weight with no unreasonable shortage in any container; and (iv) Sections 4, 5 and 6 (Food Additives, Hygiene and Labelling) are met.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "lot acceptance heading",
+        "lot acceptance criteria",
+        "sampling acceptance",
+        "net weight compliance",
+        "compliance requirements"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "SENSORY AND PHYSICAL EXAMINATION",
+      "summary": "Sets out sensory and physical examination steps: determine net weight per Section 7.3 (deglazing), assess deep dehydration, thaw per Section 7.5 and inspect for foreign/objectionable matter, verify count and weight per Section 7.4, assess odour and discolouration, and if odour/flavour is inconclusive cook a 100–200 g sample using methods in Section 7.6 to confirm.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "net weight determination",
+        "physical examination",
+        "foreign matter check",
+        "count weight check",
+        "odour flavour test"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "ANNEX A",
+      "summary": "Heading only: ANNEX A (no substantive content provided).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

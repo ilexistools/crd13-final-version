@@ -1,0 +1,1269 @@
+{
+  "doc_id": "4722ef15-0d81-4be2-9b52-623525de83cf",
+  "title": "REGIONAL CODE OF PRACTICE FOR STREET-VENDED FOODS (NEAR EAST)",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL CODE OF PRACTICE FOR STREET-VENDED FOODS (NEAR EAST)",
+      "summary": "Document title only: identifies the Regional Code of Practice for Street‑Vended Foods (Near East) and is not a substantive regulatory section.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "States that street‑vended ready‑to‑eat foods are socially and economically important yet can pose chemical and bacterial health risks, and recommends raising vendor awareness, improving vending environments and services, clarifying authorities' roles, and applying hygiene principles across preparation and vending to ensure safety.",
+      "categories": [
+        "scope",
+        "hygiene"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background",
+        "public health basis",
+        "hygiene principles"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION 1 - OBJECTIVES",
+      "summary": "Sets the objective to define conditions, legal provisions and practical implementation for street food standards and to assist relevant authorities in improving preparation and vending so consumers receive safe, healthy and nutritious foods in accessible locations.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives",
+        "consumer protection"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION 2 - SCOPE, USAGE AND DEFINITIONS",
+      "summary": "Introduces the section covering the scope, intended usage and the definitions used in these guidelines, which establish general hygienic requirements and recommended practices for street food preparation and vending.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Scope",
+      "summary": "Defines the guidelines' scope as prescribing general hygienic requirements and recommended practices for the preparation and vending of street foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Usage",
+      "summary": "Explains that each section states the goals to be achieved and justifications concerning food hygiene.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "usage heading",
+        "section purpose"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Definitions",
+      "summary": "Provides the definitions of terms used in the guidelines relevant to street food hygiene, preparation and vending.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.3.1 Appliances",
+      "summary": "Defines 'appliances' as any utensil, machinery, instrument, apparatus or article used or intended for use in making, preparing, keeping, selling or supplying food.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "appliances definition",
+        "clean water definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.3.2 Clean water",
+      "summary": "Defines 'clean water' as water that does not compromise food safety in the circumstances of its intended use.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "crockery definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.3.3 Crockery",
+      "summary": "Defines 'crockery' as all tools used for food serving and consumption, whether disposable or not (e.g., cups, plates, trays, mugs, spoons, forks, ladles).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "disposable articles definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.3.4 Disposable articles",
+      "summary": "Defines 'disposable articles' as appliances, containers, implements, utensils or wrappers intended for single use in the preparation, storage, display, serving or sale of food.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "impermeable definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.3.5 Impermeable",
+      "summary": "Defines 'impermeable' as preventing the passage or absorption of water and/or fluids.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "microorganisms definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.3.6 Microorganisms",
+      "summary": "Defines 'microorganisms' as microscopic living organisms that can cause disease or food spoilage.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "street vendor definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.3.7 Street food vendor",
+      "summary": "Defines 'street food vendor' as an individual selling street foods in street food stalls or centres.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "perishable food definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.3.8 Perishable food",
+      "summary": "Defines 'perishable food' as food requiring refrigeration or freezing to minimize or prevent growth of food‑poisoning organisms, with examples including milk and milk products, eggs, meat, poultry, fish or shellfish.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "potable water definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "2.3.9 Potable/Drinking water",
+      "summary": "Defines 'potable/drinking water' as treated water that must comply with WHO Guidelines for Drinking Water Quality.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "ready-to-eat definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.3.10 Ready-to-eat foods",
+      "summary": "Defines 'ready‑to‑eat foods' as foods (including beverages) normally consumed raw or prepared into a form consumed without further processing.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "relevant authority definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2.3.11 Relevant authority",
+      "summary": "Defines 'relevant authority' as any ministry with competent responsibility or any locally officially recognized authority.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "sealed containers definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "2.3.12 Sealed containers",
+      "summary": "Defines 'sealed containers' as food‑grade containers such as hermetically sealed containers, sealed jars (anchor/crown closures), milk bottles with aluminium caps, screw‑cap glass bottles, cans and similar sealed packaging.",
+      "categories": [
+        "definition",
+        "packaging"
+      ],
+      "subcategories": [
+        "sealed containers definition",
+        "sealed containers examples",
+        "container type"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "2.3.13 Street Food Centre",
+      "summary": "Defines 'Street Food Centre' as a public place or establishment designated by the relevant authority for preparation, display and sale of street foods by multiple vendors.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "street food centre"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "2.3.14 Street Foods",
+      "summary": "Defines street foods as a wide range of ready-to-eat foods sold and sometimes prepared in public places, notably streets.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "street foods"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "2.3.15 Street Food Stall",
+      "summary": "Defines a street food stall as any place where street food is prepared, displayed, served or sold to the public, including carts, tables, benches, baskets, chairs, vehicles and other structures approved by the relevant authority used to display street foods.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "street food stall"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "2.3.16 Waste Water",
+      "summary": "Defines waste water as sullage water arising from the activities of vendors.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "waste water"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "2.3.17 Water containers",
+      "summary": "Defines water containers as food-grade containers used solely for storing and serving water that have not previously been used for purposes that could contaminate the stored water.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "water containers"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "SECTION 3 - GENERAL REQUIREMENTS",
+      "summary": "Section 3 sets general requirements for street food control including drafting appropriate rules and Codes of Practice, mandatory licensing/registration of vendors, licensing conditions (commitment to comply with the Code and basic food hygiene training), visible display of licenses/notices, and pest/animal control measures including disposal of contaminated food and prevention of pesticide contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "3.1 Rules and regulations",
+      "summary": "Requires drafting appropriate rules and regulations (or incorporation into existing laws) and translating general hygienic requirements into Codes of Practice tailored to local conditions to control the street foods industry.",
+      "categories": [
+        "documentation",
+        "hygiene"
+      ],
+      "subcategories": [
+        "rules regulations",
+        "regulatory requirements",
+        "hygiene code"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "3.2 Licensing/ Registration of vendors",
+      "summary": "Prohibits any person from preparing, packing, storing, displaying or selling street foods unless they are licensed or registered under the relevant food regulations.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "vendor licensing"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "3.3 Conditions for licensing",
+      "summary": "States that licenses shall not be issued or renewed unless the vendor commits to comply with the officially established Code of Practice within a determined period and requires basic food hygiene training prior to issuing or renewing licenses.",
+      "categories": [
+        "inspection certification",
+        "training"
+      ],
+      "subcategories": [
+        "licensing conditions",
+        "food hygiene training"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "3.4 Display of notices",
+      "summary": "Requires every licensed vendor to visibly display their vendor's license/registration and any other notices required by the relevant authorities.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "notice display",
+        "license display"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "3.5 Pest and animal control",
+      "summary": "Requires vendors to keep stalls free from animals and pests, to promptly eliminate infestations and prevent re‑infestation, to hygienically dispose of any pest-contaminated food, and to prevent direct or indirect contamination of food with pest control materials such as poisons.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "pest animal control",
+        "pest prevention",
+        "pest eradication",
+        "contaminated disposal",
+        "pesticide contamination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "SECTION 4 - VENDORS",
+      "summary": "Section 4 prescribes vendor requirements including exclusion of symptomatic or carrier food handlers until medically cleared, possible immunization requirements, detailed personal hygiene and behaviour rules, mandatory basic food hygiene training for handlers, and encouragement of vendor associations as a liaison with authorities.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "4.1 Health condition of the vendors",
+      "summary": "Prohibits vendors, assistants or food handlers showing symptoms (e.g., jaundice, diarrhoea, vomiting, fever, sore throat with fever, discharges, infected skin lesions) from handling food, requires carriers to be certified non-carriers by a medical officer before resuming duties, and notes immunization may be required by the relevant authority.",
+      "categories": [
+        "health",
+        "hygiene"
+      ],
+      "subcategories": [
+        "health condition heading",
+        "illness exclusion",
+        "carrier exclusion",
+        "immunization requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "4.2 Personal hygiene and behaviour",
+      "summary": "Mandates personal hygiene and behaviour for vendors and food handlers, including wearing ID and clean clothing, thorough handwashing or approved alternatives, short clean fingernails and no jewellery, hair covering, protected dressings for cuts, prohibitions on smoking/chewing gum and unhygienic acts, no sneezing/coughing on food, and no use of stalls as sleeping places.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal hygiene heading",
+        "personal hygiene rules",
+        "identification tag",
+        "protective clothing",
+        "hand washing",
+        "nail and jewellery",
+        "hair covering",
+        "wound dressing",
+        "smoking prohibition",
+        "unhygienic conduct",
+        "personal hygiene",
+        "personal conduct"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "4.3 Training of vendors",
+      "summary": "Requires that the vendor and all food handlers/helpers complete basic food hygiene training provided by the competent authority or an institution recognized or approved by the competent authority.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "food hygiene training"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "4.4 Vendors associations",
+      "summary": "Encourages formation of street food vendor associations or cooperatives to provide a liaison point with relevant authorities and facilitate implementation of control measures.",
+      "categories": [
+        "documentation",
+        "official control"
+      ],
+      "subcategories": [
+        "associations heading",
+        "authority liaison"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "SECTION 5 - DESIGN AND STRUCTURE",
+      "summary": "Section 5 specifies stall design and structure requirements including designated, cleanable locations with drainage access; authority‑approved impervious, cleanable materials and food‑grade contact surfaces; equipment at least 45 cm above ground and adequate lighting; and sanitation provisions for potable water, waste water and solid waste disposal, cleaning, and access to sanitary facilities.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "5.1 Location",
+      "summary": "Specifies that stall locations must avoid food contamination, be designated by authorities, have surroundings that can be readily cleaned and withstand washing, be free of unnecessary stored or discarded items, and have convenient access to drainage or other sanitary waste water disposal.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "location heading",
+        "stall location",
+        "cleanable surroundings",
+        "storage clearance",
+        "waste water drainage"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "5.2 Structures",
+      "summary": "Requires street food stalls to be of a type approved by the competent authority, constructed of impervious, cleanable materials with smooth food-grade contact surfaces, have cooking and working equipment at least 45 cm above ground, and provide adequate artificial lighting.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "5.2.2 Food preparation areas and food contact surfaces should be made of a smooth and impermeable food grade material.",
+      "summary": "States that food preparation areas and food contact surfaces should be made of a smooth, impermeable food-grade material.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "food contact surfaces"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "## 5.3 Sanitation",
+      "summary": "Requires sufficient potable water (or storage in clean containers), efficient waste water systems with traps, hygienic solid waste handling with secured containers and daily removal where necessary, routine cleaning and disinfection of food contact surfaces and waste equipment, and access to clean operational sanitary facilities.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "## 5.3.1 Water supply",
+      "summary": "Vendors must ensure a sufficient supply of potable water at all times, and where potable mains are unavailable (e.g., mobile vendors) potable water must be stored in clean containers.",
+      "categories": [
+        "storage",
+        "hygiene"
+      ],
+      "subcategories": [
+        "water supply heading",
+        "potable water supply"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "## 5.3.2 Waste water disposal",
+      "summary": "Vendor stalls must have an efficient, well-maintained wastewater disposal system sized for peak loads and fitted with traps so only liquid waste is discharged to the drain/sewer.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste water heading",
+        "waste water disposal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "## 5.3.3 Solid waste disposal",
+      "summary": "Solid waste must be handled to avoid contaminating food or potable water, removed from the working area as often as necessary (at least daily), disposed into suitable covered containers, and waste receptacles/equipment/storage areas must be cleaned and disinfected with appropriate sanitizers; where municipal collection is unavailable, disposal must follow competent authority recommendations or approval.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "solid waste heading",
+        "solid waste handling",
+        "waste receptacle cleaning",
+        "sanitary disposal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "## 5.3.4 Cleaning",
+      "summary": "Food contact surfaces must be cleaned and disinfected and floors/surroundings cleaned at least daily, and waste receptacles, any equipment contacting waste and the waste storage area must be cleaned (using methods in paragraph 6.5) immediately after waste disposal and daily.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning heading",
+        "surface cleaning",
+        "waste area cleaning"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "## 5.3.5 Toilets",
+      "summary": "Every vendor, helper or food handler must have easy access to sanitary toilet facilities that are kept clean and operational at all times.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "toilets heading",
+        "sanitary facilities"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "## SECTION 6 - APPLIANCES",
+      "summary": "Appliances must be kept clean and made of materials that do not transmit toxins, odor or taste, resist corrosion and withstand repeated cleaning; cutting surfaces must be intact and cleaned before/after daily operations and immediately after raw food use, cooked and uncooked foods must use separate utensils, defective equipment removed, disposable crockery used once, and all appliances maintained in good repair. Non-disposable utensils must be washed in warm soapy water then either immersed 30 seconds in boiling water or 2 minutes in potable water at not less than 77°C and drained, with a less-preferred potable-water/detergent/rinse method allowed where high temperatures are unavailable.",
+      "categories": [
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "appliances heading",
+        "appliance materials",
+        "cutting surface cleaning",
+        "cleaning occasions",
+        "raw food cleaning",
+        "utensil separation",
+        "damaged appliance removal",
+        "utensil sanitizing",
+        "alternate sanitizing",
+        "disposable crockery",
+        "equipment maintenance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "## SECTION 7 - FOOD PREPARATION",
+      "summary": "This section sets requirements for street food preparation, including ingredient sourcing (known/reliable sources, freshness, protected transport, permitted additives), cooking/handling (wash produce with potable water, separate raw and cooked areas, limited thawing options, cook to reduce pathogens, potable water/ice handling, reheating limits), serving (no bare-hand contact, clean crockery/food-grade packaging, holding temperatures: hot >60°C, cold <5°C, frozen ≤-18°C, and use food warmers only for holding), disposal of unsold foods, transport (covered/clean vehicles with temperature control and separation from contaminants), and storage (clean protected storage, refrigerated/freezer temps ≤4°C and ≤-18°C respectively, FIFO, date marking and removal of expired food).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "7.1 Supply of all raw materials, other ingredients, including ice, must be from known and reliable sources.",
+      "summary": "All raw materials and ingredients (including ice) must come from known and reliable sources, be fresh and wholesome, be transported to prevent exposure/spoilage/contamination, and only permitted food additives used according to specifications.",
+      "categories": [
+        "composition",
+        "quality",
+        "transport",
+        "additives"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "ingredient requirements",
+        "known source ingredients",
+        "ingredient freshness",
+        "transport hygiene",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "7.2 Cooking and handling",
+      "summary": "Food handling rules require washing fresh produce with sufficient running potable water (use potable water for soaking), washing raw food separately, segregated areas for raw and cooked foods, thawing only under specified methods, cooking to achieve pathogen-reducing time/temperature, using potable water for drinks, making/handling ice from potable water and protecting it from contamination, reheating food only once to at least 75°C in the centre within one hour of removal from refrigeration, and immediate washing of tasting utensils.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "7.2.1 Thoroughly  wash  fresh  vegetables  and  fruit  whether  for  cooking  or  consuming  raw,  with  sufficient  running  potable water, to remove adhering surface contamination. For any soaking, potable water should be used.",
+      "summary": "Fresh vegetables and fruit for cooking or raw consumption must be thoroughly washed with sufficient running potable water, and any soaking must use potable water.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "washing produce"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "7.2.2 Where appropriate, wash raw food before using in food preparation to reduce the risk of contamination. Never wash raw food with other foods that will be consumed raw or in a semi-cooked state.",
+      "summary": "Where appropriate, raw food should be washed before use to reduce contamination risk, and raw food must never be washed together with foods intended to be eaten raw or semi-cooked.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "raw food washing"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "7.2.3 There should be an area for handling, storing, cleaning and preparing raw food ingredients, separate and apart from the cooked, street food display, handling and serving areas.",
+      "summary": "There must be a separate area for handling, storing, cleaning and preparing raw food ingredients apart from cooked/display/serving areas.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "separate work areas"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "7.2.4 Thawing: large pieces of meat or large poultry carcasses often need to be thawed before cooking. When thawing is carried out as an operation separated from cooking this should be performed only in:",
+      "summary": "When thawing is performed separately from cooking, it must be done only in approved ways specified in the following subparagraphs (refrigerator/thawing cabinet at 4°C or specified microwave use).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "7.2.4 (h)  a refrigerator or purpose-built thawing cabinet maintained at a temperature of 4°C; or",
+      "summary": "Thawing of large meat or poultry pieces, when separated from cooking, must be performed in a refrigerator or purpose-built thawing cabinet maintained at 4°C.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "thawing conditions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "7.2.4 (i) a commercial microwave oven only when the food will be immediately transferred to conventional cooking units as part of a continuous cooking process or when the entire, uninterrupted cooking process takes place in the microwave oven.",
+      "summary": "Thawing in a commercial microwave is permitted only when the food will be immediately transferred to conventional cooking units as part of a continuous cooking process or when the entire uninterrupted cooking occurs in the microwave.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "microwave cooking"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "7.2.5 The time and temperature of cooking should be sufficient to reduce to safe levels any pathogens that may be present in the food.",
+      "summary": "Cooking time and temperature must be sufficient to reduce any pathogens present in the food to safe levels.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "cooking time temperature"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "7.2.6 Water used for the purpose of drinking, preparation of hot or cold drinks and beverages should be potable.",
+      "summary": "Water used for drinking and the preparation of hot or cold drinks and beverages must be potable.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "potable water use"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "7.2.7 Ice  should  be  made  from  potable  water.  Ice  should  be  handled  and  stored  so  as  to  protect  it  from  contamination. Containers used to transport or store ice should meet the requirements for water containers prescribed by Section 2.3.18.",
+      "summary": "Ice must be made from potable water, handled and stored to protect it from contamination, and containers used to transport or store ice must meet the water container requirements in Section 2.3.18.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ice handling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "7.2.8 Food should not be re-heated more than once and only the portion of the food to be served should be re-heated. A temperature of at least 75°C should be reached in the centre of the food within one hour of removing the food from refrigeration.",
+      "summary": "Food should not be reheated more than once and only the portion to be served should be reheated, reaching at least 75°C in the centre within one hour of removal from refrigeration.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "reheating limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "7.2.9 Utensils used for tasting food should be washed immediately after each use.",
+      "summary": "Utensils used for tasting food must be washed immediately after each use.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "utensil sanitation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "7.3 Serving food",
+      "summary": "Sets vendor requirements for serving street food, including sourcing from licensed/reliable suppliers; no bare-hand contact with cooked foods (use utensils or disposable gloves); keep crockery clean and avoid touching food-contact surfaces; do not stack filled plates; use food-grade packing and avoid printed materials; never blow into food packaging; dispense beverages only from original sealed containers or food-grade bulk taps with tight lids; display cut fruit in enclosed protective cases; avoid money handling or wash hands after; and protect ready-to-eat foods at holding temperatures (hot >60°C, cold <5°C, frozen ≤-18°C) with food warmers used to maintain—but not reheat—foods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "7.3.1 All vendors purchasing street foods for the purpose of serving or selling must assure that such food is from licensed and reliable sources.",
+      "summary": "Requires vendors buying street foods for serving or sale to ensure those foods come from licensed and reliable sources.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "licensed sources"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "7.3.2 Cooked street foods should not be handled with bare hands. Clean tongs, forks, spoons or disposable gloves should be used when handling, serving or selling food.",
+      "summary": "Prohibits handling cooked street foods with bare hands and requires use of clean tongs, forks, spoons or disposable gloves when handling, serving or selling food.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "bare hand contact"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "7.3.3 All crockery used should be clean and dry and not handled by touching the food contact surfaces.",
+      "summary": "Requires all crockery to be clean and dry and forbids touching food-contact surfaces when handling crockery.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "crockery cleanliness"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "7.3.4 Plates filled with food should not be stacked one on top of the other during display, storing or serving.",
+      "summary": "Prohibits stacking plates filled with food on top of one another during display, storage or serving.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "food display stacking"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "7.3.5 Food grade packing materials should be used.",
+      "summary": "Mandates use of food-grade packing materials.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "food grade materials"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "7.3.6 Printed material should preferably never be used to serve food. Only food grade aluminium foil, waxed paper, food grade plastic and any other suitable material should be used for packing and serving food.",
+      "summary": "Advises against using printed material for serving food and requires food-grade aluminium foil, waxed paper, food-grade plastic or other suitable food-grade materials for packing and serving.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packing materials"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "7.3.7 Never blow into plastic bags, wrappers or packages used for food.",
+      "summary": "Prohibits blowing into plastic bags, wrappers or packages used for food.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "package handling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "7.3.8 All beverages offered for sale should be dispensed only in their individual original sealed containers or from taps fitted to bulk containers and made of food grade plastic or other suitable material. Bulk containers should be covered with tight fitting lids.",
+      "summary": "Requires beverages for sale to be dispensed only in their original sealed containers or from taps fitted to bulk containers made of food-grade materials, and mandates that bulk containers have tight-fitting lids.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "sealed beverage containers"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 70,
+      "order": 69,
+      "section": "7.3.9 Cut fruit or other foods ordinarily consumed in the state in which they are sold may be set out in an enclosed display case, cabinet or similar type of protective device and should be displayed in a manner to protect the food from contamination.",
+      "summary": "Permits setting out cut fruit or other ready-to-eat foods in enclosed display cases or cabinets and requires they be displayed to protect against contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "display protection"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 71,
+      "order": 70,
+      "section": "7.3.10 Food handlers should avoid handling money. If this is unavoidable, the food handler should wash his hands before handling food again.",
+      "summary": "Advises food handlers to avoid handling money and, if unavoidable, to wash hands before handling food again.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "money handling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 72,
+      "order": 71,
+      "section": "7.3.11 Ready-to-eat foods intended for continuous serving should be protected from environmental contamination and kept at the following holding temperatures:",
+      "summary": "States that ready-to-eat foods for continuous serving must be protected from environmental contamination and kept at specified holding temperatures, including hot (>60°C) and cold (<5°C).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 73,
+      "order": 72,
+      "section": "7.3.11 Ready-to-eat foods intended for continuous serving should be protected from environmental contamination and kept at the following holding temperatures:\n- (j) for food served hot above 60°C;",
+      "summary": "Declares that ready-to-eat foods intended for continuous serving must be protected from environmental contamination and maintained at prescribed holding temperatures.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "holding temperatures"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 74,
+      "order": 73,
+      "section": "7.3.11 Ready-to-eat foods intended for continuous serving should be protected from environmental contamination and kept at the following holding temperatures:\n- (k) for food served cold below 5 °C;",
+      "summary": "Specifies the hot holding temperature requirement for served food as above 60°C.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hot holding temperature"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 75,
+      "order": 74,
+      "section": "7.3.11 Ready-to-eat foods intended for continuous serving should be protected from environmental contamination and kept at the following holding temperatures:\n- (l) for food served frozen -18°C or below.",
+      "summary": "Specifies the cold holding temperature requirement for served food as below 5°C.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cold holding temperature"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 76,
+      "order": 75,
+      "section": "7.3.12 A food warmer should be used to maintain continuous holding temperatures (Section 7.3.11 (i)), and should not be used for re-heating purposes (Section 7.2.8).",
+      "summary": "Requires a food warmer to maintain continuous holding temperatures and explicitly prohibits its use for reheating food.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "food warmer use"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 77,
+      "order": 76,
+      "section": "8.4 Customer hygiene facilities",
+      "summary": "Sets requirements for customer toilet facilities at street food centres: sufficient gender-separated toilets located away from food areas, approved by the competent authority, with smooth glazed-tile walls to 2 m, flushing systems, cleanliness, lighting, ventilation, routine cleaning and maintenance, handwashing and drying facilities with soap, instructional posters on handwashing, and self-closing doors.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "customer facilities heading",
+        "toilet facilities",
+        "toilet construction",
+        "toilet cleanliness",
+        "toilet maintenance",
+        "handwashing facilities",
+        "handwashing instruction",
+        "self-closing doors"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    }
+  ]
+}

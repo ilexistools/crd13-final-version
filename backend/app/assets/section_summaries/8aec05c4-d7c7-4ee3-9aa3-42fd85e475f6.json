@@ -1,0 +1,292 @@
+{
+  "doc_id": "8aec05c4-d7c7-4ee3-9aa3-42fd85e475f6",
+  "title": "GUIDELINES FOR THE SIMPLE EVALUATION OF DIETARY EXPOSURE TO FOOD ADDITIVES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR THE SIMPLE EVALUATION OF DIETARY EXPOSURE TO FOOD ADDITIVES",
+      "summary": "Document title and identification: 'Guidelines for the Simple Evaluation of Dietary Exposure to Food Additives' (CAC/GL 3-1989), adopted 1989 and revised 2014, with former title noted.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "document code",
+        "former title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 INTRODUCTION",
+      "summary": "States that food additives must have a technological benefit, pose no appreciable health risk, not mislead consumers, and be used at the lowest level necessary per GMP; describes Codex risk analysis (risk assessment, management, communication), JECFA's role in scientific risk assessment and ADI setting, and use of ADI in comparing estimated exposures.",
+      "categories": [
+        "scope",
+        "risk management",
+        "risk assessment",
+        "other"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "additive use principle",
+        "risk analysis concepts",
+        "jefca assessment role",
+        "adi definition",
+        "permitted use review",
+        "guideline purpose",
+        "footnote reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DIETARY EXPOSURE ASSESSMENT",
+      "summary": "Defines dietary exposure assessment as combining food consumption and additive concentration (exposure = sum of concentration × consumption divided by body weight) and recommends a stepwise approach using conservative screening methods to identify low-risk additives quickly and, where concerns are indicated, progressively more refined assessments (notably TMDI and EDI).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 Estimated Daily Intake (EDI)",
+      "summary": "Defines Estimated Daily Intake (EDI) as the amount of an additive ingested by the average consumer based on actual industry use levels or, under GMP, an approximation close to actual use levels.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "edi heading",
+        "edi definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. DATA AVAILABLE",
+      "summary": "Advises first identifying and collecting available national data on additive concentrations, food consumption and body weights, recommending use of national data where possible and GSFA or national MLs when needed, and notes the importance of detailed metadata and distinctions between pre- and post-regulation data sources.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Concentration of the food additives in food",
+      "summary": "Explains that concentration data needs depend on assessment objective: pre-regulation data should come from manufacturers, post-regulation assessments may use national MLs (or GSFA MLs, which tend to overestimate) and market/analytical monitoring data, and that methodological details (sampling, analytical methods, LOD/LOQ, QA) should be documented.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.1 Regulation of use of food additives",
+      "summary": "Describes three regulatory situations for additives—(a) authorization by specific use with a positive list and MLs, (b) authorization in specified foods under GMP requiring numerical use levels or industry-provided actual levels, and (c) authorization under GMP in all foods with specific provisions requiring extensive sampling and industry collaboration—and notes complications when processed foods are largely imported.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "regulation heading",
+        "regulatory basis",
+        "regulation types",
+        "positive list",
+        "gmp use levels",
+        "gmp specific provisions",
+        "imported foods data",
+        "imported food distinction"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 Food consumption data",
+      "summary": "Describes food consumption data sources (individual dietary surveys, household-level data, national food balance sheets), their characteristics and limitations, advises considering subgroup variation and high consumers using higher percentiles, and suggests a simple correction factor (×3) to approximate high-consumer intake for one dominant food category.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "consumption data heading",
+        "consumption data sources",
+        "dietary data methods",
+        "methods summary",
+        "table heading",
+        "table header",
+        "table separator",
+        "inferred data",
+        "population methods",
+        "household methods",
+        "table continuation",
+        "personal data",
+        "dietary survey methods",
+        "subgroup variation",
+        "high consumer data",
+        "percentile consumption",
+        "high consumer estimate"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.1 Criteria for prioritization of evaluation of dietary exposure to food additives",
+      "summary": "Provides prioritization criteria for exposure assessment: low priority for additives with an ADI of 'not specified' used per GMP, and higher priority for additives with low numerical ADIs used at high levels, authorized in widely consumed foods or consumed by at-risk subgroups, or assigned a numerical ADI and used under GMP.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "prioritization heading",
+        "exposure prioritization",
+        "low adi priority",
+        "at-risk subgroups",
+        "numerical adi"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.2 Proposed method for a simple evaluation of the dietary exposure to food additives",
+      "summary": "Proposes a two-stage stepwise method: A) calculate the TMDI by listing permitted foods, applying MLs (or actual/proposed use levels) and average consumption (per capita or 'eaters'); if TMDI < ADI no further work is needed, otherwise B) refine using EDI by narrowing foods to those actually containing the additive and using actual use or analytical levels, then compare EDI to ADI and, if >ADI, consider further refinement and discussions with industry about MLs.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "B.3 Introduce these more refined data (B.1 and B.2) in the TMDI previously calculated (see section A).",
+      "summary": "Directs that refined data from checking food lists and actual use levels be applied to the previously calculated TMDI and states the decision rule: if EDI < ADI no concern; if EDI > ADI, pursue more refined assessment and possibly review MLs with industry.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "refined data use",
+        "exposure comparison"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. SUMMARY",
+      "summary": "Summarizes that the document provides a stepwise approach to estimate additive exposure to determine whether an ADI may be exceeded.",
+      "categories": [
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "summary heading",
+        "stepwise exposure estimate"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "ANNEX",
+      "summary": "Annex containing worked examples and tables illustrating TMDI, improved TMDI and EDI calculations with food categories, MLs or measured concentrations, consumption values, and stepwise refinements demonstrating when estimated exposures exceed ADIs.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "## Improved Theoretical Maximum Daily Intake (TMDI)",
+      "summary": "Shows an improved TMDI using 'eaters' consumption for juices and soft drinks, presents calculated improved TMDI (412.13 mg/day) and a high-consumer TMDI (962 mg/day by multiplying the major contributor by 3), and notes these estimates exceed adult and child ADIs requiring further evaluation.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "tdmi heading",
+        "consumer intake data",
+        "consumption values",
+        "high eater data",
+        "revised values",
+        "table heading",
+        "table columns",
+        "table separator",
+        "table row",
+        "table total",
+        "high consumer calculation",
+        "refined evaluation"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Estimate Daily Intake (EDI)",
+      "summary": "Presents an EDI example using analytical mean concentrations for margarine, juices and soft drinks to compute an EDI (219.71 mg/day) and a high-consumer EDI (513 mg/day), notes the EDI exceeds the children's ADI, and recommends further refinement or industry consultation to review MLs or use patterns.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "edi heading",
+        "analytic exposure estimate",
+        "concentration data",
+        "mean concentration",
+        "exposure estimate",
+        "table example",
+        "exposure table",
+        "table format",
+        "exposure calculation",
+        "refinement review"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

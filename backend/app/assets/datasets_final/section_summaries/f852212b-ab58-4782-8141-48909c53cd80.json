@@ -1,0 +1,435 @@
+{
+  "doc_id": "f852212b-ab58-4782-8141-48909c53cd80",
+  "title": "STANDARD FOR WHEAT FLOUR CXS 152-1985",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR WHEAT FLOUR CXS 152-1985",
+      "summary": "Document title: Standard for Wheat Flour (CXS 152-1985).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 1985. Revised in 1995. Amended in 2016, 2019, 2021, 2023.",
+      "summary": "Adoption and revision history: Standard adopted in 1985, revised in 1995, and amended in 2016, 2019, 2021 and 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "revision history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2023 Amendments",
+      "summary": "Notice that amendments were made in the Annex following decisions at the Forty-sixth Session of the Codex Alimentarius Commission in December 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to pre-packaged wheat flour from common (Triticum aestivum) or club (T. compactum) wheat for direct human consumption or use in other food products, and excludes products from durum wheat, whole‑meal/whole‑wheat flour or semolina, flour for brewing/starch/gluten manufacture, non-food industrial flour, and flours whose protein has been reduced or that have undergone special treatments or added ingredients beyond those allowed in Sections 3.2.2 and 4.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusions intro",
+        "scope exclusion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Section heading introducing the product description and definition for wheat flour (see 2.1 for the full product definition).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Product definition",
+      "summary": "Product definition: wheat flour is prepared from grain of common or club wheat by grinding/milling in which bran and germ are partly removed and the remainder is comminuted to a suitable degree of fineness.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets out essential composition and quality factors for wheat flour, covering general safety and sensory requirements and specific factors (moisture limits and permitted optional ingredients) discussed in subsequent subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Quality factors - general",
+      "summary": "General quality requirements: wheat flour and any added ingredients must be safe and suitable for human consumption, free from abnormal flavours, odours, and living insects, and free from filth in amounts that could represent a hazard to human health.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "safety suitability",
+        "sensory freedom",
+        "filth limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 Quality factors - specific",
+      "summary": "Specific quality factors: sets a maximum moisture content (15.5% m/m) with possible lower limits for certain destinations and lists optional ingredients allowed for technological purposes (see 3.2.2).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.1 Moisture content 15.5 percent m/m max",
+      "summary": "Moisture limit: maximum moisture content for wheat flour is 15.5 percent m/m, with recommendation that lower moisture limits may be required depending on climate, transport duration and storage.",
+      "categories": [
+        "quality",
+        "storage"
+      ],
+      "subcategories": [
+        "moisture limit",
+        "moisture guidance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.2 Optional ingredients",
+      "summary": "Optional ingredients allowed in wheat flour in amounts necessary for technological purposes include malted products with enzymatic activity (from wheat, rye or barley), vital wheat gluten, and soybean or legume flour.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients heading",
+        "allowed ingredients",
+        "allowed ingredient"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Sets food‑additive provisions for flours: lists fungal amylase and proteolytic enzyme from Aspergillus oryzae permitted at GMP, and allows flour treatment agents, carriers and glazing agents used in accordance with Tables 1 and 2 of the General Standard for Food Additives (CXS 192‑1995) for food category 06.2.1 (Flours).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1 Enzymes i Maximum level in finished product",
+      "summary": "Permits fungal amylase and proteolytic enzyme from Aspergillus oryzae for use in the finished product at Good Manufacturing Practice (GMP) levels.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "enzyme table",
+        "table separator",
+        "enzyme additive"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.2 Food additives",
+      "summary": "Authorizes flour treatment agents, carriers and glazing agents for flours when used in accordance with Tables 1 and 2 of the General Standard for Food Additives (CXS 192‑1995) for food category 06.2.1 (Flours).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5. CONTAMINANTS",
+      "summary": "Specifies contaminants requirements for wheat flour: heavy metals must be absent at levels that may pose a health hazard, and pesticide residues and mycotoxins must comply with Codex maximum residue and mycotoxin limits established for this commodity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5.1 Heavy metals",
+      "summary": "Requires wheat flour to be free from heavy metals present in amounts that may represent a hazard to human health.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "heavy metals heading",
+        "heavy metals limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.2 Pesticide residues",
+      "summary": "Requires wheat flour to comply with Codex maximum residue limits for pesticide residues established for this commodity.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues heading",
+        "pesticide residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.3 Mycotoxins",
+      "summary": "Requires wheat flour to comply with Codex maximum mycotoxin limits established by the Codex Alimentarius Commission for this commodity.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "mycotoxins heading",
+        "mycotoxin limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6. HYGIENE",
+      "summary": "Recommends preparation and handling per the General Principles of Food Hygiene (CXC 1‑1969) and requires, to the extent achievable by good manufacturing practice, that the product be free from objectionable matter and from microorganisms, parasites, or microorganism‑derived substances in amounts that may represent a hazard to health.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "foreign matter limit",
+        "microbial safety"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "7. PACKAGING",
+      "summary": "Requires wheat flour packaging to safeguard hygienic, nutritional, technological and organoleptic qualities using materials safe and suitable for their intended use that do not impart toxic substances or undesirable odour/flavour, and mandates that sacks, when used, be clean, sturdy and strongly sewn or sealed.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "protective packaging",
+        "safe materials",
+        "sack requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "8. LABELLING",
+      "summary": "States that, in addition to the General Standard for the Labelling of Pre‑packaged Foods (CXS 1‑1985), specific labelling provisions in this standard apply to the product.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "8.1 Name of the product",
+      "summary": "Requires the product name on the label to be declared as 'wheat flour.'",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Specifies non‑retail container labelling: information may be on the container or accompanying documents, but the product name, lot identification and manufacturer/packer name and address must appear on the container (lot ID and name/address may be replaced by an identifiable mark linked to accompanying documents).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail information"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Requires methods of analysis and sampling for compliance checks to be those in the Recommended Methods of Analysis and Sampling (CXS 234‑1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "ANNEX",
+      "summary": "Annex provides recommended factor limits and analysis methods and advises users to specify the appropriate limit/method where multiple options exist; lists example limits: ash (buyer preference), fat acidity (max 70 mg sulfuric‑acid equivalent/100 g dry or ≤50 mg KOH neutralization/100 g dry), protein minimum 7.0% dry basis, nutrients subject to national legislation, and particle size (≥98% passing 212 µm sieve), with methods referenced to Section 9.",
+      "categories": [
+        "other",
+        "composition"
+      ],
+      "subcategories": [
+        "annex heading",
+        "annex note",
+        "table header",
+        "table separator",
+        "ash factor",
+        "fat acidity",
+        "protein content",
+        "nutrient conformity",
+        "particle size"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "NOTES",
+      "summary": "Bibliographic notes citing relevant Codex documents: CXS 192‑1995, CXC 1‑1969, CXS 1‑1985 and CXS 234‑1999 (no substantive regulatory provisions).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "notes heading",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

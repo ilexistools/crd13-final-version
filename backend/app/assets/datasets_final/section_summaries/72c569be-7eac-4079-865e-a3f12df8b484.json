@@ -1,0 +1,385 @@
+{
+  "doc_id": "72c569be-7eac-4079-865e-a3f12df8b484",
+  "title": "## STANDARD FOR TABLE GRAPES CXS 255-2007 Adopted in 2007. Amended in 2011.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## STANDARD FOR TABLE GRAPES CXS 255-2007 Adopted in 2007. Amended in 2011.",
+      "summary": "Document heading: Standard for Table Grapes CXS 255-2007, adopted 2007 and amended 2011.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. DEFINITION OF PRODUCE",
+      "summary": "Applies to commercial table grape cultivars (Vitis vinifera) supplied fresh to the consumer after preparation and packaging and excludes grapes intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "definition heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. PROVISIONS CONCERNING QUALITY",
+      "summary": "Sets out quality provisions for table grapes including general minimum requirements (sound, clean, practically pest-free, whole and well-formed berries, free of abnormal moisture, foreign odours/tastes and temperature damage), maturity/testing requirements (Brix thresholds and sugar/acid ratios) and classification into Extra, Class I and Class II with differing defect allowances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Minimum Requirements",
+      "summary": "Specifies minimum requirements for table grape bunches and berries (sound, clean, practically pest-free, free of abnormal moisture and foreign odour/taste, whole/well-formed/normally developed berries and sun pigmentation allowed if skin only) and requires them to withstand transport and arrive in satisfactory condition, with maturity defined as at least 16°Brix or accepted lower Brix only if specified sugar/acid ratios are met.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1.1 The development and condition of the table grapes must be such as to enable them:",
+      "summary": "Requires table grapes to be developed and conditioned so they can withstand transport and handling and arrive in satisfactory condition at their destination.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "transport tolerance",
+        "arrival condition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1.2 Maturity Requirements",
+      "summary": "Maturity requirement: table grapes must attain at least 16°Brix; fruit with lower Brix is acceptable only if the sugar/acid ratio is at least 20:1 for 12.5–<14°Brix or at least 18:1 for 14–<16°Brix.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "maturity heading",
+        "ripeness requirement",
+        "brix threshold",
+        "sugar acid ratio"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Classification",
+      "summary": "Classifies table grapes into three classes (Extra, Class I, Class II) with progressively relaxed quality and defect allowances described in following sub-sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.1 'Extra' Class",
+      "summary": "Extra class requires superior-quality table grapes with bunches characteristic of the variety, berries firm, firmly attached, evenly spaced with bloom virtually intact, and free of defects except very slight superficial ones that do not affect appearance, quality, keeping or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "extra class",
+        "superior quality",
+        "varietal characteristics",
+        "berry characteristics",
+        "defect allowance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.2 Class I",
+      "summary": "Class I requires good-quality table grapes with variety-characteristic bunches and firm, attached berries (bloom retained where possible); slight defects in shape, colouring or very slight sun scorch on the skin are permitted if they do not affect appearance, quality, keeping or presentation.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class i",
+        "good quality",
+        "varietal characteristics",
+        "berry characteristics",
+        "defect allowance",
+        "shape defect",
+        "colour defect",
+        "sun scorch"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.3 Class II",
+      "summary": "Class II covers grapes not qualifying for higher classes but meeting minimum requirements; bunches may show slight defects in shape, development and colouring and berries need only be sufficiently firm and attached, with permitted defects including shape/colour defects, slight sun scorch (skin only), slight bruising and slight skin defects provided essential characteristics are retained.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "class ii",
+        "minimum class",
+        "defect allowance",
+        "berry characteristics",
+        "shape defect",
+        "colour defect",
+        "sun scorch",
+        "bruising defect",
+        "skin defect"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3. PROVISIONS CONCERNING SIZING",
+      "summary": "Size is determined by the weight of the bunch and the minimum bunch weight is 75 g, except this minimum does not apply to packages intended for single servings.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1 Minimum Bunch Weight",
+      "summary": "Minimum bunch weight requirement: each bunch must weigh at least 75 g, with the exception of packages intended for single servings.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum bunch weight"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4. PROVISIONS CONCERNING TOLERANCES",
+      "summary": "Allows tolerances by weight per package for bunches not meeting class or size requirements: quality tolerances vary by class (Extra 5%, Class I 10%, Class II 10% with exception for rotting/deterioration), and size tolerance is 10% by weight of bunches not meeting the size requirement.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1 Quality Tolerances",
+      "summary": "Defines quality tolerances by class: Extra allows 5% by weight of bunches not meeting Extra but meeting Class I (or within its tolerances); Class I allows 10% by weight not meeting Class I but meeting Class II (or within its tolerances); Class II allows 10% by weight of bunches meeting neither the class nor minimum requirements except those unfit for consumption due to rotting or severe deterioration.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.1.1 'Extra' Class",
+      "summary": "Permits up to 5% by weight of bunches in an Extra class package that do not meet Extra requirements but meet Class I or, exceptionally, fall within Class I tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "extra tolerance",
+        "class tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.1.2 Class I",
+      "summary": "Permits up to 10% by weight of bunches in a Class I package that do not meet Class I requirements but meet Class II or, exceptionally, fall within Class II tolerances.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class i",
+        "class tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.1.3 Class II",
+      "summary": "Permits up to 10% by weight of bunches in a Class II package that satisfy neither the class nor the minimum requirements, excluding produce affected by rotting or other deterioration rendering it unfit for consumption.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "class heading",
+        "class tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.2 Size Tolerances",
+      "summary": "Allows a size tolerance of 10% by weight of bunches that do not meet the size requirements specified in Section 3.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size tolerance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5. PROVISIONS CONCERNING PRESENTATION",
+      "summary": "Presentation requirements: packages must be uniform (same origin, variety, quality and ripeness; Extra requires more uniform size/colour, Class I allows slight size variation; consumer packages ≤1 kg may mix varieties if uniform by quality/ripeness and origin), visible contents must represent entire contents, and packaging must protect produce using new, clean materials and comply with CXC 44-1995, with Extra class packed in a single layer and containers meeting hygiene, ventilation and resistance standards.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.1 Uniformity",
+      "summary": "Each package must be uniform in origin, variety, quality and degree of ripeness (Extra requiring near-identical size and colouring; Class I permitting slight size variation), though consumer packages up to 1 kg may contain mixed varieties if uniform in quality and ripeness, and the visible contents must be representative of the whole.",
+      "categories": [
+        "quality",
+        "packaging"
+      ],
+      "subcategories": [
+        "uniformity heading",
+        "uniformity requirement",
+        "package mixture",
+        "visible contents"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.2.5 Official Inspection Mark (optional)",
+      "summary": "Section heading or placeholder for an optional official inspection mark; no substantive provisions are provided in this section.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "inspection mark"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7. CONTAMINANTS",
+      "summary": "Produce covered by this Standard must comply with the maximum contaminant levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "pesticide residues"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8. HYGIENE",
+      "summary": "It is recommended that the produce be prepared and handled according to Codex hygiene texts (CXC 1-1969, CXC 53-2003 and other relevant Codes of Practice) and that it comply with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "handling practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

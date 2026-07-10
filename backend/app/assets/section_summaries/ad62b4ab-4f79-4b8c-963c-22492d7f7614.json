@@ -1,0 +1,299 @@
+{
+  "doc_id": "ad62b4ab-4f79-4b8c-963c-22492d7f7614",
+  "title": "## STANDARD FOR BRIE CXS 277-1973 Formerly CODEX STAN C-34-1973. Adopted in 1973. Revised in 2007. Amended in 2008, 2010, 2018, 2019, 2022.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## STANDARD FOR BRIE CXS 277-1973 Formerly CODEX STAN C-34-1973. Adopted in 1973. Revised in 2007. Amended in 2008, 2010, 2018, 2019, 2022.",
+      "summary": "Document heading identifying the Standard for Brie (CXS 277-1973), formerly CODEX STAN C-34-1973, with adoption and subsequent revision/amendment years listed (1973, revised 2007; amended 2008, 2010, 2018, 2019, 2022).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendment",
+      "summary": "2022 Amendment: records a textual amendment replacing prior non-retail container labelling provisions with a requirement to follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment note",
+        "amendment table",
+        "table separator",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to Brie intended for direct consumption or for further processing in accordance with the product description in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Description: defines Brie as a soft, primarily white-mould surface-ripened cheese (flat cylinder or sectors) with a soft, non-crumbly body and white-mould rind that may show coloured spots; normal ripening for consumption is about 10 days at 10–16°C though alternative ripening methods yielding equivalent properties are permitted, and Brie intended for further processing may be less ripened.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "ripening conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Essential composition and quality factors: specifies permitted raw materials and ingredients (cow/buffalo milk and derived products; certain starter and other harmless cultures, rennet, salts, water, ripening enzymes, processing aids and limited anti-caking agents for cut/sliced products), sets required minimums for milkfat in dry matter and minimum dry matter levels by fat category, and states that compositional modifications beyond these limits are non-compliant with CXS 206-1999 Section 4.3.3.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 Raw materials",
+      "summary": "Raw materials: only cows' milk, buffaloes' milk, their mixtures and products derived from these milks are permitted.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.4 Essential sizes and shapes",
+      "summary": "Essential sizes and shapes: specifies a maximum height of approximately 5 cm and a typical whole-cheese weight range of about 500 g to 3 500 g for flat-cylinder Brie.",
+      "categories": [
+        "composition",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "sizes heading",
+        "dimensions",
+        "weight",
+        "weight range"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.5 Essential ripening procedure",
+      "summary": "Essential ripening procedure: rind formation and maturation (proteolysis) from surface to centre is predominantly caused by Penicillium candidium and/or Penicillium camembertii and Penicillium caseicolum.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "ripening heading",
+        "ripening process"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Food additives: only additive classes justified in the standard's table may be used; colours are allowed in the cheese mass per the General Standard for Food Additives (CXS 192-1995) and only certain acidity regulators listed are acceptable for Brie.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "additive table",
+        "table separator",
+        "colour use",
+        "additive restrictions",
+        "acidity regulators"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5. CONTAMINANTS",
+      "summary": "Contaminants: products must comply with maximum contaminant and toxin levels in CXS 193-1995, and milk used must meet contaminant/toxin limits and CAC-established maximum residue limits for veterinary drugs and pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "milk residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6. HYGIENE",
+      "summary": "Hygiene: recommends preparing and handling Brie according to the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts, and complying with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygiene recommendations"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "7. LABELLING",
+      "summary": "Section heading only: '7. LABELLING' is a header with no substantive labelling provisions included in this excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7.1 Name of the food",
+      "summary": "The name “Brie” may be used only if the cheese complies with this standard (alternative spellings customary in the retail country are allowed); if fat content falls outside the reference range but above the absolute minimum, the product name must be accompanied by a prominent qualification stating the modification or fat content (as % by mass, % fat in dry matter, or equivalent), and the designation may also be applied to cut, sliced, shredded or grated products made from compliant cheese.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name heading",
+        "product name declaration",
+        "quality qualification"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.2 Country of origin",
+      "summary": "The country of origin — defined as the country of manufacture, not the country where the name originated — must be declared, and if the product is substantially transformed in a second country that country is to be shown as the country of origin for labelling purposes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin heading",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.3 Declaration of milkfat content",
+      "summary": "Milk fat content must be declared in a manner acceptable in the country of retail sale, either as percentage by mass, percentage of fat in dry matter, or grams per serving (with the number of servings stated).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "milkfat declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.4 Labelling of non-retail containers",
+      "summary": "Labelling of non-retail containers should comply with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "8. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Methods of analysis and sampling specified in the Recommended Methods of Analysis and Sampling (CXS 234-1999), relevant to this standard's provisions, shall be used to check compliance.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "sampling and analysis"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

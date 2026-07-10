@@ -1,0 +1,768 @@
+{
+  "doc_id": "724c3b37-3e9f-49b7-ad33-dc829a7ecc76",
+  "title": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF MYCOTOXIN CONTAMINATION IN CEREALS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF MYCOTOXIN CONTAMINATION IN CEREALS",
+      "summary": "Title: Code of Practice for the Prevention and Reduction of Mycotoxin Contamination in Cereals (CXC 51‑2003), adopted 2003 and amended 2014 and 2017 with a 2016 revision.",
+      "categories": [
+        "scope",
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document code",
+        "adoption history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Explains that toxigenic fungi are ubiquitous in cereal production and that mycotoxin levels vary widely due to weather, insect damage and storage conditions, meaning complete prevention is impractical and diligent monitoring is essential; the Code provides GAP/GMP/HACCP‑based guidance for prevention and reduction applicable to all cereal grains and recommends education, validated testing and disposition procedures for contaminated crops.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "storage",
+        "monitoring",
+        "processing",
+        "training",
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "hazard background",
+        "preharvest risk",
+        "stored grain conditions",
+        "storage duration",
+        "surveillance needs",
+        "code applicability",
+        "gmp measures",
+        "producer training",
+        "testing guidance",
+        "producer education",
+        "sampling methods",
+        "haccp principles"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "I.  RECOMMENDED PRACTICES BASED ON GOOD AGRICULTURAL PRACTICES (GAP) AND GOOD MANUFACTURING PRACTICES (GMP)",
+      "summary": "Recommends development and maintenance of crop rotation schedules to avoid consecutive planting of the same crop to reduce field inoculum, noting some crops are particularly susceptible to specific toxigenic fungi and that rotations with low‑susceptibility crops can reduce infection.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "PLANTING AND CROP ROTATION",
+      "summary": "Advises using crop rotation to reduce inoculum and provides Table 1 listing susceptible crops with associated fungal species and potential mycotoxins, highlights wheat and maize as particularly susceptible and suggests inclusion of legumes or other crops to reduce pre‑harvest infection.",
+      "categories": [
+        "composition",
+        "processing",
+        "other",
+        "food category system",
+        "contaminants"
+      ],
+      "subcategories": [
+        "crop rotation heading",
+        "crop rotation",
+        "table heading",
+        "table header",
+        "table separator",
+        "susceptible crop",
+        "contaminant table"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "TILLAGE AND PREPARATION FOR SEEDING (PLANTING)",
+      "summary": "Recommends seedbed preparation and tillage where appropriate, use of certified seed free of toxigenic fungi, soil testing for nutrient management, selection of cultivars with partial resistance to fungi and pests, timing planting to avoid stress, and maintaining recommended plant spacing.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "tillage heading",
+        "seedbed preparation",
+        "soil fertility management",
+        "variety selection",
+        "planting timing",
+        "planting density"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "PRE-HARVEST",
+      "summary": "Pre‑harvest recommendations include minimizing insect and fungal damage via integrated pest management, controlling weeds, minimizing mechanical damage and lodging, avoiding irrigation during anthesis for susceptible crops, planning timely harvest at low moisture/full maturity, using mechanical drying when available, and ensuring harvesting/drying/cleaning equipment is functioning and cleaned.",
+      "categories": [
+        "processing",
+        "equipment"
+      ],
+      "subcategories": [
+        "pre harvest heading",
+        "pest management",
+        "weed control",
+        "crop damage prevention",
+        "irrigation timing",
+        "harvest timing",
+        "drying practices",
+        "equipment readiness"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "HARVEST",
+      "summary": "During harvest require clean, dry conveyances and avoidance of soil contact and mechanical damage, measure moisture in multiple spots per load, segregate and separately store fields with higher infection rates where possible, and avoid prolonged transit storage of high‑moisture grain (opening trucks/containers to aerate when necessary).",
+      "categories": [
+        "processing",
+        "transport",
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "harvest heading",
+        "harvest conveyance",
+        "harvest methods",
+        "moisture sampling",
+        "transit limits",
+        "footnote reference",
+        "aeration during transit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "DRYING AND CLEANING BEFORE STORAGE",
+      "summary": "Advocates avoiding piling high‑moisture harvests before drying (use aeration), pre‑cleaning to remove straw and contaminants, preferring mechanical drying (or careful sun drying) to reach safe moisture levels while avoiding excessive drying/overheating that can generate PAHs/dioxins, and cleaning grain after drying to remove damaged/immature kernels, noting ~15% moisture is generally considered the maximum for preventing further fungal growth.",
+      "categories": [
+        "processing",
+        "storage"
+      ],
+      "subcategories": [
+        "drying cleaning heading",
+        "temporary storage",
+        "pre cleaning",
+        "storage moisture",
+        "drying method",
+        "sun drying",
+        "post drying cleaning"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "STORAGE AFTER DRYING AND CLEANING",
+      "summary": "Specifies storage requirements: use dry, well‑ventilated, clean structures; ensure bagged storage on pallets or impermeable layers; determine and maintain safe moisture/water activity (aw guidance including aw <0.70 and tabulated moisture values), monitor temperature and humidity and aerate to prevent hot spots, separate and sample spoiled grain for mycotoxin analysis, apply integrated pest management and approved preservatives for feed where appropriate, recordkeeping of harvest/drying/storage measures, and notes cold temperatures reduce mould and insect risk.",
+      "categories": [
+        "storage",
+        "packaging",
+        "analysis sampling",
+        "pest control",
+        "documentation"
+      ],
+      "subcategories": [
+        "storage heading",
+        "storage structure",
+        "facility sanitation",
+        "bagged storage",
+        "moisture control",
+        "storage monitoring",
+        "cold storage",
+        "storage pest control",
+        "moisture table",
+        "storage preservative",
+        "recordkeeping procedures"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "ANNEX 1",
+      "summary": "Annex 1 provides GAP/GMP-based recommended practices to prevent and reduce zearalenone (ZEN) contamination in cereal grains and notes ZEN arises primarily from pre-harvest infection of maize, wheat and barley by Fusarium spp.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "PREVENTION AND REDUCTION OF CONTAMINATION BY ZEARALENONE IN CEREAL GRAINS RECOMMENDED PRACTICES BASED ON GOOD AGRICULTURAL PRACTICES (GAP) AND GOOD MANUFACTURING PRACTICES (GMP)",
+      "summary": "States that Good Agricultural Practices and Good Manufacturing Practices aim to reduce Fusarium (mainly F. graminearum and F. culmorum) infection and zearalenone production across crop growth, harvest, storage, transport and processing, and that ZEN mainly results from pre-harvest infection of maize, wheat and barley.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "PLANTING AND CROP ROTATION",
+      "summary": "Section is a cross-reference directing the reader to paragraph 11 of the general Code of Practice for planting and crop rotation guidance.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "agricultural practices",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "TILLAGE AND PREPARATION FOR SEEDING (PLANTING)",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 12–16 of the general Code of Practice for tillage and seedbed preparation.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "agricultural practices",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "PRE-HARVEST",
+      "summary": "Recommends pre-harvest monitoring of toxigenic Fusarium infection during flowering by inspection, sampling and standard microbiological methods and measuring mycotoxin levels in representative pre-harvest samples to inform crop utilisation; notes ZEN risk in wheat increases with pre-harvest rainfall and delayed harvest, and that predictive models and weather forecasts can help plan harvesting before wet conditions.",
+      "categories": [
+        "risk management",
+        "analysis sampling",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "preharvest control",
+        "general code reference",
+        "preharvest inspection",
+        "weather risk"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "HARVEST",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 24–27 of the general Code of Practice for harvest recommendations.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "harvest control",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "DRYING AND CLEANING BEFORE STORAGE",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 28–33 of the general Code of Practice for drying and cleaning before storage.",
+      "categories": [
+        "processing",
+        "risk management"
+      ],
+      "subcategories": [
+        "drying cleaning",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "STORAGE AFTER DRYING AND CLEANING",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 34–43 of the general Code of Practice for storage after drying and cleaning.",
+      "categories": [
+        "storage",
+        "risk management"
+      ],
+      "subcategories": [
+        "postdrying storage",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "TRANSPORT FROM STORAGE",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 44–46 of the general Code of Practice for transport from storage.",
+      "categories": [
+        "transport",
+        "risk management"
+      ],
+      "subcategories": [
+        "transport from storage",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "PROCESSING AND CLEANING AFTER STORAGE",
+      "summary": "Refers to paragraphs 47–54 of the general Code of Practice and notes that wet milling of wheat and maize can substantially reduce ZEN in food-grade starch fractions but redistributes ZEN into by-products (starch, gluten, sweetener residues) typically used for animal feed.",
+      "categories": [
+        "processing",
+        "risk management"
+      ],
+      "subcategories": [
+        "poststorage processing",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "ANNEX 2",
+      "summary": "Annex 2 provides GAP/GMP-based recommended practices to prevent and reduce fumonisin contamination in cereal grains and identifies Fusarium verticillioides and F. proliferatum as the main causal species.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "PREVENTION AND REDUCTION OF CONTAMINATION BY FUMONISINS IN CEREAL GRAINS RECOMMENDED PRACTICES BASED ON GOOD AGRICULTURAL PRACTICES (GAP) AND GOOD MANUFACTURING PRACTICES (GMP)",
+      "summary": "States that Good Agricultural Practices and Good Manufacturing Practices aim to reduce Fusarium (mainly F. verticillioides and F. proliferatum) infection and fumonisin contamination of cereals across crop growth, harvest, storage, transport and processing.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "PLANTING AND CROP ROTATION",
+      "summary": "Section is a cross-reference directing the reader to paragraph 11 of the general Code of Practice for planting and crop rotation guidance.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "agricultural practices",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "TILLAGE AND PREPARATION FOR SEEDING (PLANTING)",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 12–16 of the general Code of Practice for tillage and seedbed preparation.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "agricultural practices",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "PRE-HARVEST",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 17–23 of the general Code of Practice for pre-harvest measures.",
+      "categories": [
+        "risk management",
+        "scope"
+      ],
+      "subcategories": [
+        "preharvest control",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "HARVEST",
+      "summary": "Refers to paragraphs 24–27 of the general Code of Practice and states that maize harvested in warm months can have significantly higher fumonisin levels than maize harvested in cooler months, so predictive models may be used to plan optimal harvest timing.",
+      "categories": [
+        "processing",
+        "scope"
+      ],
+      "subcategories": [
+        "harvest heading",
+        "general code reference",
+        "harvest timing"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "DRYING AND CLEANING BEFORE STORAGE",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 28–33 of the general Code of Practice for drying and cleaning before storage.",
+      "categories": [
+        "processing",
+        "scope"
+      ],
+      "subcategories": [
+        "drying cleaning heading",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "STORAGE AFTER DRYING AND CLEANING",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 34–43 of the general Code of Practice for storage after drying and cleaning.",
+      "categories": [
+        "storage",
+        "scope"
+      ],
+      "subcategories": [
+        "storage heading",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "TRANSPORT FROM STORAGE",
+      "summary": "Section is a cross-reference directing the reader to paragraphs 44–46 of the general Code of Practice for transport from storage.",
+      "categories": [
+        "transport",
+        "scope"
+      ],
+      "subcategories": [
+        "transport heading",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "PROCESSING AND CLEANING AFTER STORAGE",
+      "summary": "Refers to paragraphs 47–54 of the general Code of Practice and states that nixtamalization (boiling/soaking maize in calcium hydroxide) may reduce fumonisin levels in maize and masa flour used for tortillas and similar products, while extrusion may also decrease fumonisins though some become bound to proteins, sugars or other food matrix components.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Nixtamalization is a process that involves boiling and soaking maize in a solution of calcium hydroxide to remove the hull. This process may reduce fumonisin levels in the treated maize as well as in the masa flour used in making corn tortillas, tamales, pupusas and other masa derived products.\nExtrusion of maize may decrease fumonisin levels, however part of it is bound to proteins, sugars or other compounds in food matrices.",
+      "summary": "Nixtamalization (boiling/soaking maize in calcium hydroxide) can reduce fumonisin levels in maize and masa flour used for tortillas, tamales, pupusas and other masa products, and extrusion may decrease fumonisin though some toxin may become bound to proteins, sugars or other food matrix components.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "nixtamalization treatment",
+        "extrusion processing"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "ANNEX 3",
+      "summary": "Annex 3 provides recommended Good Agricultural Practices (GAP) and Good Manufacturing Practices (GMP) to reduce Aspergillus and Penicillium infection and ochratoxin A (OTA) contamination across crop growth, harvest, drying, storage, transport and processing, referencing the general Code of Practice and giving specific advice on pre-harvest risk factors, drying/storage thresholds and OTA behavior during processing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "PREVENTION AND REDUCTION OF CONTAMINATION BY OCHRATOXIN A IN CEREAL GRAINS RECOMMENDED PRACTICES BASED ON GOOD AGRICULTURAL PRACTICES (GAP) AND GOOD MANUFACTURING PRACTICES (GMP)",
+      "summary": "States that GAP and GMP include methods to reduce Aspergillus (A. ochraceus, A. carbonarius, A. niger) and Penicillium (P. verrucosum) infection and ochratoxin A (OTA) contamination of cereals during growth, harvest, storage, transport and processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "ota heading",
+        "good practice scope"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "PLANTING AND CROP ROTATION",
+      "summary": "Refers to paragraph 11 of the general Code of Practice and advises not to grow cereals near cocoa, coffee or grape vines because these crops are highly susceptible to ochratoxigenic fungi and can serve as a source of soil inoculum.",
+      "categories": [
+        "processing",
+        "scope"
+      ],
+      "subcategories": [
+        "planting heading",
+        "general code reference",
+        "crop rotation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "TILLAGE AND PREPARATION FOR SEEDING (PLANTING)",
+      "summary": "Non‑substantive heading that only refers readers to paragraphs 12–16 of the general Code of Practice for tillage and seedbed preparation guidance.",
+      "categories": [
+        "processing",
+        "scope"
+      ],
+      "subcategories": [
+        "tillage heading",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "PRE-HARVEST",
+      "summary": "Refers to paragraphs 17–23 of the general Code of Practice and notes that, although OTA is mainly associated with postharvest fungal growth, pre‑harvest factors such as frost damage, competitive fungi, excessive rainfall, drought stress and crop lodging (in humid conditions) may affect OTA levels in harvested grain.",
+      "categories": [
+        "processing",
+        "scope"
+      ],
+      "subcategories": [
+        "pre-harvest heading",
+        "general code reference",
+        "pre-harvest factors"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "HARVEST",
+      "summary": "Non‑substantive heading that only refers readers to paragraphs 24–27 of the general Code of Practice for harvest guidance.",
+      "categories": [
+        "processing",
+        "scope"
+      ],
+      "subcategories": [
+        "harvest heading",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "DRYING AND CLEANING BEFORE STORAGE",
+      "summary": "Warns OTA is produced by poor drying or storage and recommends drying grain to a water activity below 0.70 (preferably 0.65) before storage; if harvested earlier, dry to a water activity <0.70, and for temperate regions using intermediate/buffer storage ensure moisture <15%, buffer time <10 days and grain temperature <20°C, with adjustments for variety, kernel size, quality and outside temperature.",
+      "categories": [
+        "processing",
+        "scope",
+        "storage"
+      ],
+      "subcategories": [
+        "drying cleaning heading",
+        "general code reference",
+        "drying moisture control"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "STORAGE AFTER DRYING AND CLEANING",
+      "summary": "Non‑substantive heading that only refers readers to paragraphs 34–43 of the general Code of Practice for storage after drying and cleaning guidance.",
+      "categories": [
+        "storage",
+        "scope"
+      ],
+      "subcategories": [
+        "storage heading",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "TRANSPORT FROM STORAGE",
+      "summary": "Non‑substantive heading that only refers readers to paragraphs 44–46 of the general Code of Practice for transport from storage guidance.",
+      "categories": [
+        "transport",
+        "scope"
+      ],
+      "subcategories": [
+        "transport heading",
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "PROCESSING AND CLEANING AFTER STORAGE",
+      "summary": "States that OTA is highly stable through primary and further processing and that its heterogeneous presence in a few 'hot spot' kernels leads to redistribution during milling, resulting in lower OTA in endosperm flour fractions and higher levels in bran fractions relative to whole grain.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing heading",
+        "ota processing effects"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "Refer to paragraphs 47-54 in the general Code of Practice.",
+      "summary": "Non‑substantive note referring readers to paragraphs 47–54 of the general Code of Practice.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "general code reference"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

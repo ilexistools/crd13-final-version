@@ -1,0 +1,798 @@
+{
+  "doc_id": "8e37d3ac-049d-4ca1-b832-94a1dc239e1e",
+  "title": "CODE OF PRACTICE TO MINIMIZE AND CONTAIN FOODBORNE ANTIMICROBIAL RESISTANCE CXC 61-2005",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE TO MINIMIZE AND CONTAIN FOODBORNE ANTIMICROBIAL RESISTANCE CXC 61-2005",
+      "summary": "Title of the document: 'Code of Practice to Minimize and Contain Foodborne Antimicrobial Resistance (CXC 61-2005)', adopted 2005 and amended in 2021.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. INTRODUCTION",
+      "summary": "Introduces AMR as a complex global public health challenge and provides guidance, within a One Health approach, on responsible and prudent use of antimicrobials and best management practices across the food chain to prevent, minimize and contain foodborne AMR, references related Codex guidance and other international standards, and advises risk managers to implement proportionate, prioritized measures without creating unjustified trade barriers.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement",
+        "application statement",
+        "risk mitigation purpose",
+        "risk analysis reference",
+        "risk management guidance",
+        "risk management measures",
+        "reference list",
+        "best practices",
+        "implementation framework"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. SCOPE",
+      "summary": "This code gives risk‑based guidance to manage human‑health risks from development and transmission of antimicrobial‑resistant microorganisms or determinants through food across the production‑to‑consumption continuum and applies to parties involved in authorization, manufacture, sale, prescription and use of antimicrobials and those handling, processing, storing, transporting, distributing and consuming food; the document focuses mainly on antibacterials but some recommendations may apply to other antimicrobial classes. Areas outside its scope include residues of antimicrobial agents in food, AMR marker genes in recombinant‑DNA plants or microorganisms, intentionally added non‑GM microorganisms (e.g., starter cultures), certain ingredients like probiotics, biocides, and AMR from non‑food animals/plants or non‑food routes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "application scope",
+        "affected parties",
+        "applicable agents",
+        "out of scope"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. DEFINITIONS",
+      "summary": "States that applicable definitions from Codex documents apply and provides specific definitions used in this code for terms such as antibacterial, antimicrobial agent, antimicrobial resistance, resistance determinant, metaphylaxis, extra/off‑label use, food chain, food‑producing animals, food production environment, growth promotion, marketing authorization, medically important antimicrobials, One Health approach, pharmacovigilance, plants/crops and various uses of antimicrobials (prevention, treatment, veterinary/phytosanitary use).",
+      "categories": [
+        "definition",
+        "other"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "cross references",
+        "introductory definition",
+        "antibacterial definition",
+        "antimicrobial agent",
+        "amr definition",
+        "resistance determinant",
+        "metaphylaxis definition",
+        "off label use",
+        "food chain",
+        "footnote reference",
+        "food-producing animals",
+        "food production environment",
+        "growth promotion",
+        "marketing authorization",
+        "medically important",
+        "one health approach",
+        "pharmacovigilance",
+        "product definition",
+        "professional definition",
+        "treatment definition",
+        "use definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "Principle 5: On a continuous and progressive implementation of risk management measures along the food chain to minimize and contain the possible risks associated with foodborne AMR, priority should be given to the most relevant elements from a public health perspective.",
+      "summary": "Principle 5: Risk management measures to minimize and contain foodborne AMR should be implemented progressively and continuously along the food chain, prioritizing elements most relevant to public health.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "risk management principle"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Principle on preventing infections and reducing the need for antimicrobials",
+      "summary": "Heading only: 'Principle on preventing infections and reducing the need for antimicrobials'.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "risk management heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Principle 6: Biosecurity, appropriate nutrition, vaccination, animal and plant/crop best management practices, and other alternative tools where appropriate, and that have been proven to be efficacious and safe, should be considered to reduce the need for use of antimicrobial agents.",
+      "summary": "Principle 6: To reduce the need for antimicrobials, measures such as biosecurity, appropriate nutrition, vaccination, animal and plant/crop best management practices, and other proven safe and effective alternatives should be considered.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "prevention measures"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Principle  7: The  decision  to  use  antimicrobial  agents  should  be  based  on  sound  clinical  judgement, experience,  and  treatment  efficacy.  Where  feasible  and  appropriate,  the  results  of  bacterial  cultures  and integrated resistance surveillance and monitoring should also be considered.",
+      "summary": "Decision to use antimicrobial agents must be based on sound clinical judgment, experience, and treatment efficacy, and where feasible should also consider bacterial culture results and integrated resistance surveillance and monitoring.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "clinical decision"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Principle  8: Medically  important antimicrobials  should  be  prescribed,  administered,  or  applied  only  by,  or under  the  direction  of,  veterinarians,  plant/crop  health  professionals,  or  other  suitably  trained  persons authorized in accordance with national legislation.",
+      "summary": "Medically important antimicrobials should be prescribed, administered, or applied only by, or under the direction of, veterinarians, plant/crop health professionals, or other suitably trained and nationally authorized persons.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "authorized administration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Principle  9: Antimicrobial  agents  should  be  used  as  legally  authorized  and  following  all  applicable  label directions; except where specific legal exemptions apply.",
+      "summary": "Antimicrobial agents should be used only as legally authorized and in accordance with all applicable label directions, except where specific legal exemptions apply.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "label directions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Principle  10: The  choice  of  which  antimicrobial  agent  to  use  should  take  into  consideration  relevant professional  guidelines,  where  available,  results  of  antimicrobial  susceptibility  testing  of  isolates  from  the production setting, where appropriate,  and  make adjustments to the antimicrobial agent selection based on clinical outcomes or when foodborne AMR risks become evident.",
+      "summary": "Selection of an antimicrobial agent should consider relevant professional guidelines and, where appropriate, antimicrobial susceptibility testing of isolates from the production setting and be adjusted based on clinical outcomes or evidence of foodborne AMR risk.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "selection criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Principle 11: Science-based species or sector-specific responsible and prudent antimicrobial use guidelines should  be  developed,  implemented,  and  reviewed  on  a  regular  basis  to  maintain  their  effectiveness  in minimizing the risk of foodborne AMR. Such guidelines could be included as a part of national action plans or stakeholder-led plans on AMR  with  development  and  dissemination shared among  countries and organizations.",
+      "summary": "Science-based, species- or sector-specific responsible and prudent antimicrobial use guidelines should be developed, implemented, and regularly reviewed—these may be included in national or stakeholder-led AMR action plans with shared development and dissemination among countries and organizations.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "guideline development"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Principle  12: Responsible  and  prudent  use  of  antimicrobial  agents  does  not  include  the  use  for  growth promotion of antimicrobial agents that are considered medically important. Antimicrobial agents that are not considered medically important should not be used for growth promotion unless potential risks to human health have  been  evaluated  through  procedures  consistent  with  the Guidelines  for  Risk  Analysis  of  Foodborne Antimicrobial Resistance (CXG 77-2011).",
+      "summary": "Responsible and prudent use excludes using medically important antimicrobials for growth promotion, and non‑medically important antimicrobials should not be used for growth promotion unless human health risks have been evaluated per the CXG 77-2011 risk-analysis procedures.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "growth promotion use"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "Principle 13: Medically  important  antimicrobial  agents  should  only  be  used  for veterinary  medical use/phytosanitary use (treatment, control/metaphylaxis or prevention/prophylaxis of disease).",
+      "summary": "Medically important antimicrobial agents should be used only for veterinary medical or phytosanitary purposes—treatment, control/metaphylaxis, or prevention/prophylaxis of disease.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "therapeutic use"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Principle 14: Medically important antimicrobials should only be administered or applied for prevention/prophylaxis where professional oversight has identified well-defined and exceptional circumstances, appropriate dose and duration, based on clinical and epidemiological knowledge, consistent with the label, and in line with national legislation. Countries could use additional risk management measures for medically important antimicrobials considered highest priority critically important as described in the WHO List of Critically Important Antimicrobials for Human Medicine , the OIE List of Antimicrobial Agents of Veterinary Importance ,  or  national  lists,  where  available,  including  restrictions  proportionate  to  risk  and  supported  by scientific evidence.",
+      "summary": "Administration of medically important antimicrobials for prevention/prophylaxis should occur only with professional oversight identifying well‑defined, exceptional circumstances and appropriate dose/duration consistent with the label and national law, and countries may impose additional risk‑based restrictions for highest‑priority critically important antimicrobials per WHO/OIE or national lists.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "prophylaxis restrictions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Principle 15: When used for the control of disease/metaphylaxis, medically important antimicrobial agents should only be used on the basis of epidemiological and clinical knowledge and a diagnosis of a specific disease and follow appropriate professional oversight, dose, and duration.",
+      "summary": "When used for control/metaphylaxis, medically important antimicrobials should be based on epidemiological and clinical knowledge with a specific disease diagnosis and follow appropriate professional oversight, dose, and duration.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "metaphylaxis use"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "Principle 16: Monitoring and surveillance of the use of antimicrobial agents and the incidence or prevalence, and in particular trends, of foodborne AMR microorganisms and resistance determinants are among the critical factors  to  consider  when  developing  risk  management  measures  and  evaluating  the  effectiveness  of implemented risk management measures. Use of antimicrobial agents in humans, food-producing animals, and  plants/crops  and  transmission  of  pathogens  and  resistance  genes  between  humans,  food-producing animals, plants/crops, and the environment are additional factors to consider, through the foodborne AMR risk analysis  process  described  in  the Guidelines  for  Risk  Analysis  of  Foodborne  Antimicrobial  Resistance (CXG 77-2011).",
+      "summary": "Monitoring and surveillance of antimicrobial use and the incidence, prevalence, and trends of foodborne AMR microorganisms and resistance determinants are critical for developing and evaluating risk management measures and should consider antimicrobial use in humans, food‑producing animals, plants/crops and transmission among these and the environment using the CXG 77-2011 risk‑analysis process.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "monitoring surveillance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5 RESPONSIBLE AND PRUDENT USE OF ANTIMICROBIAL AGENTS",
+      "summary": "Heading and guidance noting that the OIE Terrestrial and Aquatic Animal Health Codes and the OIE List of Antimicrobials provide detailed information on control of veterinary medicines for food-producing animals and aquaculture and that data requirements for authorization are available in national or internationally harmonized guidelines.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.1 Responsibilities of the competent authorities",
+      "summary": "Competent authorities (including the marketing‑authorization authority) must specify authorization terms, provide product information to veterinarians/plant health professionals and producers (e.g., via labelling), develop up‑to‑date data requirements and ensure antimicrobial use complies with national law; national strategies should adopt a One Health approach, promote good production and biosecurity practices, encourage validated rapid diagnostics, and determine labelling conditions that minimize foodborne AMR.",
+      "categories": [
+        "official control",
+        "risk management",
+        "analysis sampling",
+        "labelling"
+      ],
+      "subcategories": [
+        "authority responsibilities",
+        "national strategy",
+        "action plan recommendations",
+        "diagnostic tools",
+        "label conditions"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Quality control of antimicrobial agents",
+      "summary": "Competent authorities should ensure quality control of antimicrobial agents is carried out in accordance with national or international guidance and in compliance with good manufacturing practices.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "quality control heading",
+        "quality control"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Assessment of efficacy",
+      "summary": "Efficacy assessment is required as part of marketing authorization and should define optimal dosages and durations supported by clinical trials, microbiological data including antimicrobial susceptibility testing, and pharmacokinetic/pharmacodynamic data.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "efficacy assessment heading",
+        "efficacy assessment"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Assessment of the potential antimicrobial agents to select for resistant microorganisms",
+      "summary": "Competent authorities should evaluate the potential of medically important antimicrobials used along the food chain to select for foodborne AMR, taking into account CXG 77-2011 and WHO/OIE or national lists.",
+      "categories": [
+        "official control",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "resistance assessment heading",
+        "resistance potential"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "Assessment of the impact on the food production environment",
+      "summary": "Authorities should consider foodborne AMR risk assessments of sources contributing to the food production environment (e.g., wastewater reuse, manure and waste‑based fertilizers) and, where a risk is identified per CXG 77-2011, consider monitoring and proportionate risk‑management measures.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "environment impact heading",
+        "environment risk"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Establishment of a summary of characteristics for each antimicrobial product",
+      "summary": "Competent authorities should establish a Summary of Product Characteristics (or equivalent) for each authorized antimicrobial product to support labelling and package inserts and include items such as brand/chemical name, product description, indications, dosages/strengths, treatment duration, contraindications/warnings, adverse reactions, interactions, withdrawal periods/pre‑harvest intervals, and storage conditions.",
+      "categories": [
+        "labelling",
+        "documentation",
+        "storage"
+      ],
+      "subcategories": [
+        "product characteristics",
+        "product name",
+        "product description",
+        "use indications",
+        "dosage information",
+        "treatment duration",
+        "warnings contraindications",
+        "product information",
+        "storage conditions"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "Monitoring and surveillance programmes",
+      "summary": "Competent authorities should establish monitoring and surveillance systems for foodborne AMR and antimicrobial use following CXG 94-2021 and OIE standards, maintain pharmacovigilance for suspected adverse reactions and lack of efficacy, and re‑evaluate marketing‑authorization conditions when post‑authorization data indicate it is warranted.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "monitoring programmes",
+        "surveillance systems",
+        "pharmacovigilance programme",
+        "authorization review"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "Distribution of antimicrobial products",
+      "summary": "Authorities should ensure antimicrobial products are distributed through licensed/authorized channels in accordance with national law and prevent illegal medicines and unapproved formulations from entering distribution systems.",
+      "categories": [
+        "distribution",
+        "official control"
+      ],
+      "subcategories": [
+        "distribution heading",
+        "licensed distribution",
+        "illegal product control"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "Control of advertising",
+      "summary": "Competent authorities should ensure advertising and promotion of antimicrobial products complies with national legislation and is consistent with specific regulatory recommendations for the product.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "advertising heading",
+        "advertising compliance",
+        "promotion consistency"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Training on foodborne antimicrobial resistance and the responsible use of antimicrobial agents",
+      "summary": "Competent authorities should support communication and training for veterinarians, plant/crop health professionals, manufacturers, distributors, producers and others along the food chain on minimizing foodborne antimicrobial resistance (AMR) and the responsible/prudent use of antimicrobial agents, covering disease prevention and management, responsible prescribing and use principles, WHO/OIE/national antimicrobial lists, storage and safe disposal, risk analysis and management, withdrawal periods, susceptibility and molecular testing methods, resistance selection, national action plans, and AMR/AMU surveillance and reporting.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "responsible use training",
+        "training topics",
+        "disease prevention",
+        "responsible prescribing",
+        "responsible use principles",
+        "antimicrobial lists",
+        "storage disposal",
+        "risk analysis",
+        "action plans",
+        "withdrawal periods",
+        "testing methods",
+        "resistance selection",
+        "risk management",
+        "surveillance reporting"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "Knowledge gaps and research",
+      "summary": "Authorities are encouraged to fund and promote public and private research on AMR relevant topics including antimicrobial mechanisms, PK/PD, transmission/selection/co-selection and dissemination of resistance along the food chain, risk-analysis models, authorization-impact prediction protocols, drivers of antimicrobial use and behaviour-change interventions, development of alternatives/new antimicrobials/diagnostics/vaccines, and environmental persistence of agents and resistance determinants.",
+      "categories": [
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "research heading",
+        "research encouragement",
+        "pharmacology research",
+        "resistance transmission",
+        "risk analysis models",
+        "authorization impact",
+        "use drivers",
+        "behaviour change",
+        "alternatives development",
+        "environmental persistence"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Collection and disposal of unused or out-of-date antimicrobial agents",
+      "summary": "Competent authorities should develop effective procedures for the safe collection and disposal of unused, substandard, falsified, illegally marketed, or out-of-date antimicrobial agents.",
+      "categories": [
+        "documentation",
+        "risk management"
+      ],
+      "subcategories": [
+        "collection disposal",
+        "disposal procedures"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "5.2 Responsibilities of manufacturers and marketing authorization holders",
+      "summary": "Heading only: introduces the responsibilities of manufacturers and marketing authorization holders; no substantive provisions provided in this section.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "responsibilities heading"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "Marketing authorization of antimicrobial agents",
+      "summary": "Marketing authorization holders must provide national competent authorities with all requested information to establish product quality, safety and efficacy, ensure the quality of that information through procedures, tests and trials compliant with GMP/GLP/GCP, and apply manufacturing standards and national regulations to minimise contamination of the food production environment.",
+      "categories": [
+        "inspection certification",
+        "hygiene"
+      ],
+      "subcategories": [
+        "marketing authorization",
+        "authorization holder duties",
+        "data submission",
+        "quality evidence",
+        "contamination prevention"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Marketing and export of antimicrobial agents",
+      "summary": "Only officially licensed/authorized antimicrobial agents may be marketed through legal distribution systems, exports must meet the importing country’s quality standards, suppliers must provide quantities marketed and, when feasible, estimated types of use/route/target species to the competent authority on request, and packaging (size, concentration, composition) should be adapted to approved indications to avoid improper dosing, overuse and leftovers.",
+      "categories": [
+        "inspection certification",
+        "documentation",
+        "packaging"
+      ],
+      "subcategories": [
+        "marketing export",
+        "authorized marketing",
+        "export quality",
+        "sales reporting",
+        "package adaptation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "Advertising",
+      "summary": "Manufacturers and marketing authorization holders must advertise antimicrobial agents in accordance with Section 5.1, must not inappropriately advertise directly to producers, and must not provide financial-value incentives to prescribers or suppliers to increase use or sales of medically important antimicrobials.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "advertising heading",
+        "advertising restrictions",
+        "promotion incentives"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "Training",
+      "summary": "Marketing authorization holders are responsible for supporting training on topics related to foodborne AMR and the responsible use of antimicrobial agents as described in Section 5.1, as appropriate.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "training support"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "Research",
+      "summary": "Marketing authorization holders must supply required registration data on product safety and efficacy, and research into new antimicrobials, safe/effective alternatives, rapid diagnostics and vaccines is encouraged.",
+      "categories": [
+        "research",
+        "documentation",
+        "risk management"
+      ],
+      "subcategories": [
+        "research heading",
+        "registration data",
+        "research encouragement"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "5.3 Responsibilities of wholesale and retail distributors",
+      "summary": "Wholesalers and retailers should distribute medically important antimicrobials only on prescription or authorized order, ensure appropriate labelling, retain records per national regulations (e.g., supply date, responsible prescriber, product name/formulation/strength/package, batch, quantity, expiry, manufacturer, target species), and support AMR/responsible-use training as appropriate.",
+      "categories": [
+        "inspection certification",
+        "documentation",
+        "training"
+      ],
+      "subcategories": [
+        "distributor responsibilities",
+        "distribution conditions",
+        "distribution records",
+        "training support"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "Off-label use",
+      "summary": "Off-label use of veterinary antimicrobials in food-producing animals may be permitted under national legislation but must comply with approved or appropriate withdrawal periods and be defined by the veterinarian (dosage, route, duration, withdrawal), with human health risk from foodborne AMR an important consideration; medically important antimicrobials should not be used off‑label for plants/crops except for emerging disease control under national law.",
+      "categories": [
+        "inspection certification",
+        "risk management",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "off-label use",
+        "off-label conditions",
+        "human health risk",
+        "off-label restriction"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "Record keeping and recording",
+      "summary": "Records of antimicrobial prescriptions or applications for food-producing animals and plants/crops must be maintained in conformity with national legislation or best management practice guidelines.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "record keeping",
+        "use records"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "Training",
+      "summary": "Professional and other organizations should support development and/or delivery of training on AMR and responsible antimicrobial use as described in Section 5.1, as appropriate.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "organizational training"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "5.5 Responsibilities of food animal and plant/crop producers",
+      "summary": "Food animal and plant/crop producers must implement health programmes with veterinarians or authorized plant professionals to prevent and manage disease, use antimicrobials only when necessary and under appropriate supervision, follow approved labels or prescriptions (species, use, dose), isolate and properly dispose of sick/dead animals or diseased plants, comply with storage conditions and withdrawal/pre‑harvest intervals, not use out‑of‑date products and dispose of them per labels/national law, report recurrent disease or suspected lack of efficacy, maintain clinical and laboratory diagnostic and susceptibility records, and keep usage documentation (e.g., prescription copies, product name and batch number).",
+      "categories": [
+        "documentation",
+        "risk management",
+        "hygiene",
+        "storage"
+      ],
+      "subcategories": [
+        "responsibilities heading",
+        "farm disease prevention",
+        "responsibilities statement",
+        "judicious use",
+        "health plan measures",
+        "prescription compliance",
+        "animal disposal",
+        "product storage",
+        "withdrawal periods",
+        "expired product disposal",
+        "adverse use reporting",
+        "clinical records",
+        "usage records",
+        "prescription copy",
+        "batch records"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

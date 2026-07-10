@@ -1,0 +1,1037 @@
+{
+  "doc_id": "d4e1b8ee-b001-4ac4-810b-6a51d53a398c",
+  "title": "3. SAMPLING PROCEDURES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "3. SAMPLING PROCEDURES",
+      "summary": "Sets out comprehensive sampling procedures: terms and schematic procedures are defined in annexes; ISO recommendations for bulk commodities may be adopted; it mandates preventing contamination/deterioration, sampling each lot separately, determining minimum primary sample numbers from specified tables, preparing bulk and laboratory samples (with mixing or alternative allocation where mixing is inappropriate), keeping detailed sampling records, and packaging/sealing/transporting laboratory samples to protect them in transit.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "3.1 Precautions to be taken",
+      "summary": "Requires preventing contamination and deterioration of samples at all stages because they affect analytical results, and that each lot to be checked for compliance must be sampled separately.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "precautions heading",
+        "sample handling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3.2 Collection of primary samples",
+      "summary": "Requires the minimum number of primary samples from a lot be determined from Table 1 (or Table 2 for a suspect meat/poultry lot), that each primary sample be taken from a randomly chosen position and contain sufficient material for required laboratory samples, and notes sampling devices are described in ISO/IDF recommendations for specific commodities.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "primary samples heading",
+        "primary sample selection",
+        "sampling devices note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3.3 Preparation of the bulk sample",
+      "summary": "Sets procedures for preparing the bulk sample: for meat and poultry each primary sample is treated as a separate bulk sample; for plant products, eggs and dairy primary samples should be combined and mixed if practicable; where mixing is inappropriate (e.g. large or damage-prone units) units must be randomly allocated to replicate laboratory samples at sampling and the reported result is the mean of valid laboratory results.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.3.1 Procedure for meat and poultry (Table 3)",
+      "summary": "For meat and poultry each primary sample is considered a separate bulk sample (i.e. no combining of primaries to form a single bulk sample).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "meat procedure",
+        "bulk sample rule"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.3.2 Procedure for plant products, eggs or dairy products (Tables 4 and 5)",
+      "summary": "For plant products, eggs and dairy, primary samples should, where practicable, be combined and mixed well to form a representative bulk sample.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "plant procedure",
+        "bulk sample preparation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.3.3 Alternative procedure where mixing to form the bulk sample is inappropriate or impractical",
+      "summary": "If mixing or subdivision would damage units or large units cannot be homogenized, units must be randomly allocated to replicate laboratory samples at the time of primary sampling; the numerical result reported should be the mean of valid results from those laboratory samples.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "alternative procedure",
+        "bulk sample allocation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.4 Preparation of the laboratory sample",
+      "summary": "When the bulk sample exceeds the amount needed for analysis it must be reduced to a representative laboratory sample using devices, quartering or other size‑reduction methods (without cutting fresh plant units or whole eggs); replicate laboratory samples may be withdrawn at this stage or as per 3.3.3 and minimum laboratory sample sizes are given in Tables 3–5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratory sample heading",
+        "lab sample preparation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.5 Sampling record",
+      "summary": "The sampling officer must record lot identity, origin, owner/supplier/carrier, date/place of sampling and any departures from recommended methods; a signed copy of the record must accompany each replicate laboratory sample, a copy retained by the officer and a copy given to the lot owner or representative, and computerized records must be distributed similarly with a verifiable audit trail.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "sampling record heading",
+        "sampling record"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.6 Packaging and transmission of the laboratory sample",
+      "summary": "Laboratory samples must be placed in clean, inert, sealed and securely labelled containers with the sampling record attached (barcodes should be accompanied by alphanumeric labels), delivered to the laboratory as soon as practicable and protected against spoilage in transit (e.g. keep fresh samples cool and frozen samples frozen); meat and poultry samples should be frozen before dispatch unless delivery to the laboratory is quick enough to prevent spoilage.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "transmission heading",
+        "sample packaging"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.7 Preparation of the analytical sample",
+      "summary": "On receipt the laboratory sample must be given a unique identifier with date of receipt and sample size recorded, and the specific part of the commodity to be analysed (the analytical sample) should be separated as soon as practicable, recording weights when residues must be calculated to include unanalyzed parts.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analytical sample heading",
+        "analytical sample identification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.8 Preparation and storage of the analytical portion",
+      "summary": "The analytical sample should be comminuted and mixed as appropriate to allow representative analytical portions, with portion size determined by the analytical method and mixing efficiency and with comminution/mixing methods recorded and not affecting residues; if processing could affect residues use whole units or segments and, where few units are analysed, analyse sufficient replicate portions and withdraw additional portions for replicate and confirmatory analyses, storing portions only under conditions that do not alter residues.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analytical portion heading",
+        "portion preparation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4. CRITERIA FOR DETERMINING COMPLIANCE",
+      "summary": "Sets compliance criteria: analytical results must come from one or more laboratory samples fit for analysis and be supported by acceptable quality‑control data (no correction for recovery); where residues exceed an MRL identity must be confirmed and concentration verified by additional analytical portions from the original laboratory sample(s), the Codex MRL applies to the bulk sample and a lot complies if results do not exceed the MRL, while non‑compliance decisions must consider all relevant laboratory results and the analytical accuracy and precision.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.1 Analytical  results  must  be  derived  from  one  or  more  laboratory  samples  taken  from  the  lot  and received in a fit state for analysis. The results must be supported by acceptable quality control data (e.g. for instrument calibration and pesticide recovery - refer to the Guidelines on good laboratory practice  in  pesticide  residue  analysis  (CAC/GL  40-1993).  Results  should  not be  corrected  for recovery.  Where  a  residue  is  found  to  exceed  an  MRL,  its  identity  should  be  confirmed  and  its concentration must be verified by analysis of one or more additional analytical portions derived from the original laboratory sample(s).",
+      "summary": "Analytical results must be derived from laboratory sample(s) received in a fit state and supported by acceptable quality‑control data (e.g. instrument calibration and pesticide recovery per CAC/GL 40‑1993); results must not be corrected for recovery, and if a residue exceeds an MRL its identity and concentration must be confirmed by analysis of one or more additional analytical portions from the original laboratory sample(s).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analytical results"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.2 The Codex MRL applies to the bulk sample.",
+      "summary": "States that the Codex maximum residue limit (MRL) is to be applied to the bulk sample.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "mrl applies"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.3 The lot complies with a Codex MRL where the MRL is not exceeded by the analytical result(s).",
+      "summary": "Declares that a lot is compliant with a Codex MRL when the analytical result(s) do not exceed that MRL.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "compliance criterion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4. Poultry meats , type 07, group 036 Note: for enforcement of MRLs for fat soluble pesticides samples must be taken according to section 5 below.",
+      "summary": "A tabular sampling matrix (truncated here) specifying commodity classifications, examples, nature of primary samples and minimum laboratory sample sizes for animal‑origin commodities (including mammalian meats and fats), with repeated notes that samples for enforcement of fat‑soluble pesticide MRLs must follow the procedures in section 2 and many minimum lab sizes shown as 0.5 kg.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.1 Bird, large-sized carcass >2 kg",
+      "summary": "Specifies sampling for large‑sized birds (>2 kg) such as turkey, goose and mature chicken: primary samples are thighs, legs and other dark meat and the minimum laboratory sample is 0.5 kg after removal of skin and bone.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.2 Birds, medium-sized carcass 500 g-2 kg",
+      "summary": "Specifies sampling for medium‑sized birds (500 g–2 kg) such as duckling, guinea fowl and young chicken: collect thighs, legs or other dark meat from at least three birds and provide a minimum laboratory sample of 0.5 kg after removal of skin and bone.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.3 Birds, small-sized carcass <500 g carcass",
+      "summary": "Specifies sampling for small‑sized birds (<500 g) such as quail and pigeon: primary samples are carcasses from at least six birds and the minimum laboratory sample is 0.2 kg of muscle tissue.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.4 Bird parts fresh/chilled/frozen, retail or wholesale packaged",
+      "summary": "For bird parts (fresh/chilled/frozen, retail or wholesale packaged) such as legs or quarters, primary samples are packaged units or individual parts and the minimum laboratory sample is 0.5 kg after removal of skin and bone.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Class B, primary food commodities of animal origin",
+      "summary": "A repeated tabular listing (truncated) of Class B primary food commodities of animal origin (mammalian meats, fats, offals, etc.) giving sample types, examples and minimum laboratory sample sizes (commonly 0.5 kg) and noting special sampling for fat‑soluble pesticides.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5. Poultry fats , including carcass fat, type 07, group 037 Note: samples of fat taken as described in 5.1 and 5.2 may be used to determine compliance of the fat, or the whole product, with the corresponding MRLs",
+      "summary": "Tabulates sampling procedures and minimum laboratory sizes for poultry fats: abdominal fat units from at least three birds (0.5 kg), bird meat parts where visible fat is trimmed (0.5 kg) or whole units/portions where fat cannot be trimmed (up to 2 kg as indicated), and bulk bird fat taken from at least three positions with a minimum laboratory sample of 0.5 kg.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.1 Birds, at slaughter, whole or part-carcass",
+      "summary": "Sampling for birds at slaughter (whole or part‑carcass, e.g., chickens, turkeys): collect units of abdominal fat from at least 3 birds, minimum laboratory sample 0.5 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "5.2 Bird meat parts",
+      "summary": "Bird meat parts (e.g., legs, breast): collect visible fat trimmed from unit(s), minimum laboratory sample 0.5 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5.3 Bird fat tissue in bulk",
+      "summary": "Bird fat tissue in bulk: take units with a sampling device from at least three positions, minimum laboratory sample 0.5 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6. Poultry offals , type 07, group 038",
+      "summary": "Heading for poultry offals (type 07, group 038); sub‑sections (6.1–6.2) provide the specific sampling requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.1 Edible bird offal, except goose and duck fat liver and similar high value products",
+      "summary": "Edible bird offal (excluding goose/duck fat liver and similar high‑value products): collect units from at least 6 birds or a cross‑section from a container, minimum laboratory sample 0.2 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6.2 Goose and duck fat liver and similar high value products",
+      "summary": "Goose and duck fat liver and similar high‑value products: sample one unit from a bird or container, minimum laboratory sample 0.05 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Class E, processed foods of animal origin",
+      "summary": "Class E heading for processed foods of animal origin; not a substantive sampling instruction.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "class e heading"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7. Secondary food commodities of animal origin , type 16, group 080 dried meats Derived edible products of animal origin , type 17, group 085 processed animal fats Manufactured food (single ingredient) of animal origin , type 18 Manufactured food (multi-ingredient) of animal origin , type 19",
+      "summary": "Heading for secondary/derived/processed foods of animal origin (types 16–19); see sub‑sections for the detailed sampling requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.1 Mammal or bird, comminuted, cooked canned, dried, rendered, or otherwise processed products, including multi-ingredient products",
+      "summary": "Mammal or bird comminuted/cooked/canned/dried/rendered/processed products including multi‑ingredient items (e.g., ham, sausage, minced meat, pastes): sample packaged units or a representative cross‑section or units (including juices), minimum 0.5 kg or 2 kg if fat content is <5%.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Table 4. Plant  products:  description  of  primary  samples  and  minimum  size  of  laboratory samples",
+      "summary": "Table 4 title for plant products sampling (description of primary samples and minimum laboratory sizes); not a substantive rule by itself.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "1. All fresh fruits , type 1, groups 001-008 All fresh vegetables , type 2, groups 009-019, except group 015 (dry pulses)",
+      "summary": "Heading for all fresh fruits (type 1) and fresh vegetables (type 2, except dry pulses); sub‑sections 1.1–1.3 specify sample unit types and minimum sizes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "1.1 small sized fresh products units generally < 25 g",
+      "summary": "Small fresh products (<25 g) such as berries, peas, olives: take whole units, packages, or units with a sampling device, minimum laboratory sample 1 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "1.2 medium sized fresh products units generally 25-250 g",
+      "summary": "Medium fresh products (25–250 g) such as apples and oranges: take whole units, minimum laboratory sample 1 kg (at least 10 units).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "1.3 large sized fresh products units generally > 250 g",
+      "summary": "Large fresh products (>250 g) such as cabbages, cucumbers and grape bunches: take whole units, minimum laboratory sample 2 kg (at least 5 units).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "2..",
+      "summary": "Grouping for pulses, cereal grains, tree nuts and oilseeds with indicated minimum samples: pulses/cereal grains/tree nuts — 1 kg; oilseeds — 5 units or 500 g; seeds for beverages/sweets — 500 g.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "Oilseeds , type 4, group 023",
+      "summary": "Oilseeds (type 4, group 023), e.g., peanuts: minimum laboratory sample 5 units or 500 g.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "Seeds for beverages and sweets , type 4, group 024",
+      "summary": "Seeds for beverages and sweets (type 4, group 024), e.g., coffee beans: minimum laboratory sample 500 g.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "2.1 soya beans rice, wheat except coconuts coconuts",
+      "summary": "Pulses/cereal grains/tree nuts (e.g., soya beans, rice, wheat, coconuts): minimum laboratory sample 1 kg for each commodity.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "2.2 peanuts",
+      "summary": "Peanuts (oilseeds): minimum laboratory sample 5 units or 500 g.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "3.",
+      "summary": "Fresh herbs (type 5, group 027): take whole units; minimum laboratory sample indicated as 0.5 kg or 0.2 kg depending on the specific herb/item.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "3.",
+      "summary": "Table entries for commodity classes 5.3–5.4 giving sampling requirements: 5.3 Other solid products (e.g., bread flour, apple pomace, dried fruit) — primary samples are packages or whole units or units taken with a sampling device and minimum laboratory sample 0.5 kg; 5.4 Liquid products (e.g., vegetable oils, juices) — packaged units or units taken with a sampling device and minimum laboratory sample 0.5 L or 0.5 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "table heading",
+        "table divider",
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "Class C, primary animal feed commodities",
+      "summary": "Table for Class C primary animal feed commodities of plant origin (type 11) specifying sampling: legume animal feeds and other forages/fodders — whole units or units taken with a sampling device, minimum laboratory sample 1 kg (at least 10 units); straw, hay and other dried products — units taken with a sampling device, minimum laboratory sample 0.5 kg (at least 10 units).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "4.",
+      "summary": "Section/table header and rows for Class C primary animal feed commodities of plant origin (type 11) presenting the same sampling requirements as section 45 for legume feeds and for straw/hay (sampling devices, whole units, and minimum laboratory sample sizes).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "4.1",
+      "summary": "Row 4.1: Legume animal feeds and other forages/fodders — primary samples are whole units or units taken with a sampling device and minimum laboratory sample 1 kg (at least 10 units).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "4.2",
+      "summary": "Row 4.2: Straw, hay and other dried products — primary samples are units taken with a sampling device and minimum laboratory sample 0.5 kg (at least 10 units).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "Class D, processed foods of plant origin",
+      "summary": "Table header describing Class D processed foods of plant origin and listing types and examples (secondary food commodities, derived products, single- and multi-ingredient manufactured foods where plant origin predominates, including breads) used to classify items for sampling.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "5.",
+      "summary": "Table for Class D processed plant foods giving sampling requirements across subcategories: 5.1 (high unit value) — packages/units taken with a sampling device, min 0.1 kg; 5.2 (low bulk density solids, e.g., hops, tea) — packaged units or units with sampling device, min 0.2 kg; 5.3 other solid products — packages/whole units or units with sampling device, min 0.5 kg; 5.4 liquids (e.g., vegetable oils, juices) — packaged units or units with sampling device, min 0.5 L or 0.5 kg.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "5.1",
+      "summary": "Row 5.1: Products of high unit value — primary samples are packages or units taken with a sampling device and the minimum laboratory sample size is 0.1 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "5.2",
+      "summary": "Row 5.2: Solid products of low bulk density (e.g., hops, tea) — primary samples are packaged units or units taken with a sampling device and the minimum laboratory sample size is 0.2 kg.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table",
+        "table heading",
+        "table divider"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "ANNEX I. DEFINITION OF TERMS",
+      "summary": "Annex I provides definitions of sampling-related terms (analytical portion, analytical sample, bulk sample, laboratory sample, lot, primary sample, etc.) with explanatory notes on preparation, representativeness and relationships between primary, bulk and laboratory samples.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "Analytical portion",
+      "summary": "Analytical portion: a representative quantity removed from the analytical sample of appropriate size to measure residue concentration, and may be withdrawn using a sampling device.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analytical portion heading",
+        "analytical portion",
+        "sampling device note"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "Analytical sample",
+      "summary": "Analytical sample: the material prepared for analysis from the laboratory sample by separating the portion to be analysed and then mixing/grinding/etc. to allow removal of analytical portions with minimal sampling error, and preparation must reflect the procedure used in setting Codex MRLs (may include parts not normally consumed).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analytical sample heading",
+        "analytical sample",
+        "analytical sample note"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "Bulk sample",
+      "summary": "Bulk sample: for products other than meat and poultry, the combined well-mixed aggregate of primary samples from a lot (for meat and poultry the primary sample is equivalent to the bulk sample), with notes that primary samples must provide sufficient material for laboratory samples and that the bulk sample can be considered the conceptual sum of laboratory samples when prepared during collection.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "bulk sample heading",
+        "bulk sample",
+        "bulk sample note"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "Laboratory sample",
+      "summary": "Laboratory sample: the sample sent to or received by the laboratory, being a representative quantity removed from the bulk sample; it may be whole or part of the bulk sample, units should not be cut or broken except where specified, and replicate laboratory samples may be prepared.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratory sample heading",
+        "laboratory sample",
+        "laboratory sample note"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "Lot",
+      "summary": "Lot: a quantity of food delivered at one time and known or presumed by the sampling officer to have uniform characteristics (origin, producer, variety, packer, packing, markings, consignor, etc.), with definitions of suspect versus non-suspect lots and notes on consignments, multiple lots and lot boundaries.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot heading",
+        "lot definition",
+        "lot note"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "Primary sample",
+      "summary": "Primary sample: one or more units taken from one position in a lot, with notes that the sampling position should preferably be chosen randomly or from an accessible random position, the number of units is determined by laboratory sample needs, contributions to bulk samples should be similar for plant/egg/dairy products, units may be randomly allocated to replicate laboratory samples in certain cases, sampling position can be a point in time during loading/unloading, and units should not be cut or broken except where subdivision is specified.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "primary sample heading",
+        "primary sample",
+        "primary sample note",
+        "sample allocation",
+        "random allocation",
+        "sampling position",
+        "sample handling"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "2. Sample",
+      "summary": "Sample: one or more units selected from a population or a portion taken from a larger quantity, and for these recommendations a representative sample is intended to represent the lot/bulk sample/animal with respect to pesticide residue content (not necessarily other attributes).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample heading",
+        "sample definition"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "3. Sampling",
+      "summary": "Sampling: the procedure used to draw and constitute a sample.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling definition"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "4. Sampling device",
+      "summary": "Sampling device: tools such as scoops, dippers, borers, knives or spears used to remove units from bulk material or packages (or from large meat/poultry units), and tools such as riffle boxes used to prepare laboratory samples from bulk samples or analytical portions, with reference to ISO and IDF standards for specific devices.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling device heading",
+        "sampling device description"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "Notes. (a) Specific sampling devices are described by ISO 1,2,3  and IDF 4  standards.",
+      "summary": "Note stating that specific sampling devices are described by ISO and IDF standards.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling device notes"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "## Sampling officer",
+      "summary": "Defines a sampling officer as a person trained (and where required authorized) to take samples and makes them responsible for all procedures through preparation, packing, shipping and documentation of laboratory samples, with an obligation to adhere to specified sampling procedures and collaborate with the laboratory.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling officer heading",
+        "sampling officer definition",
+        "sampling officer responsibilities"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "## Sample size",
+      "summary": "Defines sample size as the number of units or quantity of material that constitutes the sample.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample size heading",
+        "sample size definition"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "## Unit",
+      "summary": "Defines a unit as the smallest discrete portion in a lot to be withdrawn to form the whole or part of a primary sample, with a note that units should be identified as specified.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "unit heading",
+        "unit definition",
+        "unit notes"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

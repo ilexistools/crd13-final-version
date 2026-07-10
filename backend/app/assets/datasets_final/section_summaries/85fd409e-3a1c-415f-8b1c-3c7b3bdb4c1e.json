@@ -1,0 +1,444 @@
+{
+  "doc_id": "85fd409e-3a1c-415f-8b1c-3c7b3bdb4c1e",
+  "title": "INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "INTRODUCTION",
+      "summary": "Introduces a Codex Code of Practice giving uniform guidance for producers, processors and national authorities to reduce aflatoxin contamination in specified tree nuts by applying Good Agricultural, Good Manufacturing and Good Storage Practices across the production chain, while noting complete elimination of mycotoxins is not currently achievable.",
+      "categories": [
+        "scope",
+        "definition"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement",
+        "applicability",
+        "term definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "AFLATOXIN CONTAMINATION IN TREE NUTS",
+      "summary": "Describes Aspergillus spp. ecology and the environmental conditions that favor aflatoxin production (hot, humid climates; growth/production inhibited below water activity 0.7, relative humidity <70% and temperatures below 10°C), notes stressors like drought and insect damage increase risk, and recommends preventive measures such as resistant varieties, pest minimization, damage reduction during harvest/transport, and proper cleaning, drying and storage with moisture and temperature control.",
+      "categories": [
+        "other",
+        "scope",
+        "definition",
+        "contaminants",
+        "processing"
+      ],
+      "subcategories": [
+        "section heading",
+        "document code",
+        "general principles",
+        "fungi description",
+        "aflatoxin conditions",
+        "preventive measures"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. RECOMMENDED PRACTICES BASED ON GOOD AGRICULTURAL PRACTICES (GAP) GOOD MANUFACTURING PRACTICES (GMP) AND GOOD STORAGE PRACTICES (GSP)",
+      "summary": "Provides recommended practices based on GAP, GMP and GSP covering orchard site selection, planting, preharvest, harvest, post‑harvest, processing, transport and storage measures to prevent and reduce aflatoxin contamination in tree nuts.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Criteria for orchard sites or picking sites",
+      "summary": "Advises growers to evaluate potential orchard/picking sites for suitable soil, drainage and water supply, avoid nearby crops and pests that can be sources of Aspergillus infection (e.g., maize), and assess environmental contaminants that could affect food safety.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "subsection heading",
+        "site criteria",
+        "pest prevention",
+        "site hazard assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Planting",
+      "summary": "During planting, requires adequate tree spacing for ventilation and equipment access, site preparation to remove debris that may harbor mycotoxin‑producing fungi, consultation on resistant varieties, adherence to GAPs for fertilizers/manure, pest identification with authorities, and proper disposal of human and animal wastes to avoid contamination.",
+      "categories": [
+        "scope",
+        "processing",
+        "composition",
+        "hygiene",
+        "pest control"
+      ],
+      "subcategories": [
+        "subsection heading",
+        "orchard layout",
+        "site preparation",
+        "variety resistance",
+        "soil amendment safety",
+        "pest monitoring",
+        "waste disposal"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3 Preharvest",
+      "summary": "Preharvest measures include dust control (e.g., watering roadways), avoiding cultivation that spreads fungal spores, using approved pesticides with recordkeeping, timely irrigation that avoids contacting nuts, ensuring water quality, inspecting and cleaning equipment, and educating/training personnel on hygiene and safe harvesting procedures.",
+      "categories": [
+        "scope",
+        "processing",
+        "equipment",
+        "training"
+      ],
+      "subcategories": [
+        "subsection heading",
+        "preharvest controls",
+        "pesticide use",
+        "irrigation control",
+        "water quality",
+        "equipment inspection",
+        "grower education",
+        "safe harvesting",
+        "personnel hygiene"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.4 Harvest",
+      "summary": "Requires harvesting as soon as practicable after maturation to reduce fungal and insect damage, use of catch frames/protective sheets or mechanical harvesters to avoid ground contact, prohibition of grazing in orchards or land preparation if grazing occurred, sorting out damaged or defective nuts, and prompt transport in clean, dry, protected conveyances or temporary protected storage if immediate transport is not possible.",
+      "categories": [
+        "scope",
+        "harvesting",
+        "hygiene",
+        "transport"
+      ],
+      "subcategories": [
+        "subsection heading",
+        "harvest timing",
+        "animal contamination",
+        "postharvest transport"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.5 Post-harvest",
+      "summary": "Post‑harvest practices include removing remaining nuts to reduce insect overwintering, pruning and pesticide treatment as needed, clearing orchard/woodland debris to limit Aspergillus colonization, cleaning and storing harvesting equipment to prevent contamination, and documenting harvesting and storage measurements and deviations each crop year.",
+      "categories": [
+        "scope",
+        "pest control",
+        "processing",
+        "hygiene",
+        "equipment",
+        "documentation"
+      ],
+      "subcategories": [
+        "subsection heading",
+        "postharvest removal",
+        "pruning treatment",
+        "debris removal",
+        "equipment sanitation",
+        "recordkeeping practices"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.6 Processing",
+      "summary": "Processing controls require personnel hygiene and training, physical separation of raw material storage/hulling from final product areas, quality control and traceability to avoid cross‑contamination, prompt hulling and drying, sorting out defective/insect‑damaged nuts, moisture testing with calibrated equipment, and access to analytical screening for aflatoxins before product release; dehulled nuts must be dried to a water activity (Aw) below 0.70 at 25°C and mechanical driers are recommended where appropriate.",
+      "categories": [
+        "processing",
+        "hygiene",
+        "documentation",
+        "storage",
+        "analysis sampling",
+        "quality",
+        "packaging"
+      ],
+      "subcategories": [
+        "processing heading",
+        "personnel hygiene",
+        "facility separation",
+        "traceability procedures",
+        "storage conditions",
+        "drying conditions",
+        "moisture testing",
+        "mechanical drying",
+        "waste handling",
+        "defect sorting",
+        "moisture reduction",
+        "packaging conditions",
+        "analytical testing"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.7 Transport of processed nuts to storage",
+      "summary": "Transport containers must be clean, dry, free of visible fungal growth/insects and well constructed/sealable, lots transported together must be physically separated and indelibly marked so identification can be traced to accompanying documentation, and nuts should be transferred to storage as soon as practicable.",
+      "categories": [
+        "transport",
+        "documentation"
+      ],
+      "subcategories": [
+        "transport heading",
+        "transport containers",
+        "lot identification"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.8 Storage",
+      "summary": "Storage facilities should be clean, dry, well‑ventilated and protect against rain, rodents/birds and groundwater with minimal temperature/humidity fluctuation (ideally RH <70% and temperature 0–10°C where possible); implement pest control, control water activity (Aw <0.7) and consider fumigation when removing nuts from storage for export.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading",
+        "storage environment",
+        "storage pest control",
+        "water activity control",
+        "storage fumigation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3. SPECIAL CONDITIONS FOR SPECIFIC NUT SPECIES",
+      "summary": "Provides species‑specific guidance: for pistachios it warns about early hull/shell splitting and advises timely irrigation, early harvest and delivery to hulling/drying within 24 hours; measures for Brazil nuts are addressed separately in an appendix due to their specific extractivism conditions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1 Pistachio nuts",
+      "summary": "Describes aflatoxin risk factors for pistachio nuts (field, harvest and processing exposure; hull splitting and insect/pest damage enabling Aspergillus invasion) and advises growers to irrigate timely, harvest early and deliver mature nuts to the plant for hulling and drying within 24 hours to reduce contamination and shell staining.",
+      "categories": [
+        "other",
+        "contaminants",
+        "processing"
+      ],
+      "subcategories": [
+        "product heading",
+        "aflatoxin risk",
+        "harvest handling"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2 Brazil nuts",
+      "summary": "States that specific measures for preventing and reducing aflatoxin in Brazil nuts are provided in a separate appendix because of the very specific collection and processing conditions for this commodity.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "product heading",
+        "special appendix"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4. A COMPLEMENTARY MANAGEMENT SYSTEM TO CONSIDER IN THE FUTURE",
+      "summary": "Presents HACCP as an integrated food safety management system applicable to tree nuts to reduce aflatoxin levels by identifying and controlling hazards (with post‑harvest CCP examples such as end‑of‑drying moisture or water activity limits), and recommends implementing GAPs/GMPs/GSPs first, reviewing published HACCP plans/manuals and receiving FAO training where needed.",
+      "categories": [
+        "risk management",
+        "documentation",
+        "training"
+      ],
+      "subcategories": [
+        "management system",
+        "haccp system",
+        "haccp application",
+        "reference citation",
+        "critical control",
+        "prerequisite programs",
+        "haccp training"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "APPENDIX",
+      "summary": "Appendix heading and introduction establishing that additional, Brazil nut–specific measures for preventing and reducing aflatoxin contamination are provided, noting the species is non‑cultivated and the appendix applies only to Brazil nuts.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "ADDITIONAL MEASURES FOR THE PREVENTION AND REDUCTION OF AFLATOXIN CONTAMINATION IN BRAZIL NUTS",
+      "summary": "Sets out Good Extractivistic Practices for Brazil nuts covering pre‑collection clearing, continuous and timely collection, sorting and brief piling of pods, prompt pod opening and nut sorting, clean protected transport, drying and storage practices; it specifies drying to a safe moisture level (water activity below 0.70) preferably within 10 days and requires protection from rain and pests, elevated pest‑protected storage (floor ≥50 cm), separation for traceability and use of clean, dry conveyances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "INTRODUCTION",
+      "summary": "Introduces the appendix as providing uniform guidelines for producing countries to manage and control aflatoxin contamination in Brazil nuts, emphasizes the need for collectors and processors to apply the Code’s general principles, and notes the appendix applies only to Brazil nuts due to their specific collection and processing conditions.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background information",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "RECOMMENDED PRACTICES BASED ON GOOD EXTRACTIVISTIC PRACTICES (GEP)",
+      "summary": "Introduces recommended practices based on Good Extractivistic Practices (GEP) for Brazil nuts, outlining pre‑collection clearing, prompt and continuous collection, sorting, prompt pod opening and nut handling, clean protected transport, drying to water activity <0.70 preferably within 10 days, protected storage and traceability, and requirements for clean conveyances.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Pre-collection",
+      "summary": "Requires extractivists to clear the area under Brazil nut trees by removing residual pods and nuts and forbids mixing pods from the previous season with the current crop because old pods are a potential source of Aspergillus contamination.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "pre-collection heading",
+        "pre-collection hygiene"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Collection",
+      "summary": "Requires collection to proceed continuously as soon as pods fall (allowing for safety‑related delays), mandates sorting out damaged pods, and advises gathering pods in thin layers for only a short period, preferably less than five days.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "collection heading",
+        "collection timing",
+        "sorting handling"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Post collection",
+      "summary": "Specifies post‑collection practices: open pods and place nuts on clean, dry surfaces, sort out damaged/empty nuts, transport promptly in clean dry containers protected from rain and insects, dry nuts to a safe moisture level (water activity <0.70) preferably within 10 days and protect them from pests and rain; it further requires storage on floors at least 50 cm above ground with good air circulation, separation of lots for traceability, and use of clean, dry conveyances separated from other goods.",
+      "categories": [
+        "processing",
+        "transport",
+        "storage"
+      ],
+      "subcategories": [
+        "post collection heading",
+        "pod opening",
+        "initial transport",
+        "drying treatment",
+        "storage conditions",
+        "transport conditions",
+        "intermediate storage"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

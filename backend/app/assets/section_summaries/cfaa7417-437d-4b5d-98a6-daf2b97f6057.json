@@ -1,0 +1,424 @@
+{
+  "doc_id": "cfaa7417-437d-4b5d-98a6-daf2b97f6057",
+  "title": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF OCHRATOXIN A CONTAMINATION IN COFFEE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF OCHRATOXIN A CONTAMINATION IN COFFEE",
+      "summary": "Document title and code: 'Code of Practice for the Prevention and Reduction of Ochratoxin A Contamination in Coffee' (CXC 69-2009).",
+      "categories": [
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "code title",
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. INTRODUCTION",
+      "summary": "Introduces ochratoxin A (OTA) as a possible human carcinogen (IARC group 2B) with a JECFA provisional tolerable weekly intake of 100 ng/kg bodyweight, identifies Aspergillus and some Penicillium species (notably several Aspergillus spp.) as OTA producers in coffee, and notes that arabica and robusta are the main commercial varieties and that beans are dried/stored to a maximum ~12.5% moisture to prevent OTA formation.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "other",
+        "processing"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "hazard overview",
+        "coffee varieties",
+        "postharvest drying"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. DEFINITIONS (BASED ON ISO 3509)",
+      "summary": "Provides ISO 3509‑based definitions for coffee fruit parts (e.g., cherry, bean, parchment, mucilage), dried forms (natural coffee, green coffee), defects, and processing terms and operations (dry/wet process, pulping, fermentation, washing, drying, hulling, polishing, sorting, roasting) used throughout the code.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "Parts of the coffee fruit, undried (Figure 1)",
+      "summary": "Heading only — indicates the figure/section on parts of the undried coffee fruit but contains no substantive text.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "coffee parts"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "Coffee Cherry: fresh, complete fruit of the coffee tree.",
+      "summary": "Defines “Coffee Cherry” as the fresh, complete (whole) fruit of the coffee tree.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "coffee cherry"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Bean, fresh bean: endosperm (seed) of the coffee fruit. There are generally two beans per fruit.",
+      "summary": "Defines a fresh bean as the endosperm (seed) of the coffee fruit and notes there are generally two beans per fruit.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "bean definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Endocarp: scientific term for 'parchment'. The tough integument tightly pressed to the seed when fresh but from which the seed shrinks during drying.",
+      "summary": "Defines “endocarp” (parchment) as the tough integument tightly pressed to the seed when fresh, from which the seed shrinks during drying.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "endocarp definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Endosperm: scientific term designating the tissues that feed the embryo during germination, the bean consists of the endosperm and embryo, i.e., the material inside the developing fruit which ultimately forms the coffee beans. The endosperm fills the integument as the coffee cherry ripens.",
+      "summary": "Defines the endosperm as the tissue that feeds the embryo during germination and describes the bean as composed of endosperm and embryo, with the endosperm filling the integument as the cherry ripens.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "endosperm definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. PROCESSING OF COFFEE CHERRIES",
+      "summary": "Describes two basic coffee processing systems—dry (natural/dried cherry where the seed remains enclosed in the whole fruit) and wet (washed/parchment where the seed is in the endocarp), outlines common post-processing steps (hulling, grading, polishing, cleaning, bagging), notes roasting can reduce ochratoxin A (OTA) by about 65–100% depending on the roast, and states the code focuses on OTA reduction while industry programs must also manage other hazards.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing heading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. Coffee  cherries  are  processed  under  two  basic  systems  (Figures  2  and  3):  a)  the  dry processing system which produces what is called natural coffee or dried coffee cherry (the seed is enclosed in the whole fruit) and b) the wet processing system, that generates what is  called  parchment  coffee,  where  the  seed  is  enclosed  in  the  inner  integument  or endocarp.",
+      "summary": "States coffee cherries are processed by two basic systems: dry processing producing natural (dried cherry) coffee with the seed enclosed in the whole fruit, and wet processing producing parchment coffee with the seed enclosed in the endocarp.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "5. In  the  dry  processing  of  natural  coffee,  the  whole  fruit  is  either  directly  sun  dried,  on bare soil, bricks, tiles, concrete or even asphalt, or dried using a combination of sun and mechanical drying (particularly on more technologically advanced farms).",
+      "summary": "Explains dry processing involves drying the whole fruit directly—typically by sun drying on soil, bricks, tiles, concrete or asphalt—or by combining sun and mechanical drying.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "dry processing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4. RECOMMENDED PRACTICES",
+      "summary": "Heading introducing recommended practices covering pre-harvest, harvesting, post-harvest, dry and wet processing, drying, storage, transport and trading aimed at reducing OTA and other food-safety hazards in coffee production.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.1 Pre-harvest",
+      "summary": "Notes uncertainty about OTA-producing fungi infecting coffee on the plant (possible routes: via flowers or insects such as the coffee berry borer) and recommends pre-harvest controls including good agricultural practices to keep plants vigorous, avoiding overhead irrigation during flowering, using traps/IPM for Hypothenemus hampei, and avoiding disposal of uncomposted organic wastes near plantations.",
+      "categories": [
+        "processing",
+        "risk assessment",
+        "risk management",
+        "pest control"
+      ],
+      "subcategories": [
+        "pre-harvest heading",
+        "infection routes",
+        "recommended practices",
+        "farm management",
+        "irrigation restriction",
+        "berry borer control",
+        "waste disposal"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.2 Harvesting",
+      "summary": "Describes harvest planning and four basic systems (single‑pass stripping, multi‑pass stripping, selective picking, mechanical harvesting), advises generally not to collect cherries fallen on the ground (with limited same‑day exception in humid areas), requires field sanitation (remove weeds/fallen cherries, place mats/tarpaulins), rapid processing after harvest, and sorting/removal of low‑quality cherries prior to processing.",
+      "categories": [
+        "processing",
+        "classification",
+        "risk management",
+        "storage"
+      ],
+      "subcategories": [
+        "harvesting heading",
+        "harvest planning",
+        "harvest systems",
+        "ground contact",
+        "harvest timing",
+        "field sanitation",
+        "ground protection",
+        "postharvest arrangements",
+        "postharvest handling",
+        "coffee sorting"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.3 Post-harvest",
+      "summary": "States the post-harvest period follows senescence and is divided into three phases—initial (high moisture), transitional, and final (low moisture)—each requiring specific control measures to prevent spoilage and OTA formation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.3.1 Senescence  and  changes  follow  once  coffee  fruit  is  detached  from  the  plant.  The  post harvest period is characterized by initial, transitional and final phases.",
+      "summary": "States that after detachment from the plant coffee fruit undergoes senescence and the post-harvest period is characterized by initial, transitional and final phases.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "postharvest phases"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.3.2 The initial or high moisture phase starts with harvest. The product is then in an unstable state, and spoilage can be controlled through competitor microrganisms, restricting oxygen and reducing the time which is critical in this state. In wet processing the high moisture phase may be extended and controlled through fermentation, but it is desirable to reduce this time.",
+      "summary": "Defines the initial high‑moisture phase starting at harvest as unstable—spoilage can be limited by competitor microorganisms, oxygen restriction and minimizing time in this state; in wet processing fermentation may extend this phase but its duration should be minimized.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "high moisture phase"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.3.3 The transitional phase is the least stable and most difficult to predict, when spoilage can only  be  controlled  by  time  limitation.  Mesophilic  and  xerophilic  spoilage  microrganisms have enough water to grow but not their hydrophilic competitors. Turning or stirring of the coffee is essential to promote uniform drying. When harvest coincides with a rainy or high humidity season, measures to optimize drying must be adopted.",
+      "summary": "Describes the transitional phase as the least stable stage where spoilage is controlled mainly by limiting time, with mesophilic/xerophilic organisms able to grow; recommends frequent turning/stirring for uniform drying and additional measures when harvesting in rainy or humid seasons.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "drying control"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.3.4 The final or low moisture phase starts at the end of drying and continues until roasting. The product is in a stable condition and control is necessary to prevent water re-introduction or redistribution in the bulk coffee. At some point during drying, there is no further growth as the product reaches the low moisture phase.",
+      "summary": "Defines the final low‑moisture phase from the end of drying until roasting as a stable condition requiring control to prevent re‑introduction or redistribution of water in bulk coffee to avoid resumed microbial growth.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "low moisture phase"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.4 Dry processing",
+      "summary": "Explains dry processing dries the whole harvested fruit and, although simpler than wet processing, a good finished product requires application of good practices and proper management.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.4.1 In the dry processing system (Figure 2) the whole harvested fruit is dried. Although it is a simpler process compared to wet processing, a good quality finished product can only be obtained through the application of good practices and proper management.",
+      "summary": "States dry processing involves drying the whole harvested fruit and emphasizes that good practices and proper management are required to obtain good quality.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "dry processing"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.4.2 One option used in regions where the harvest time normally occurs under arid weather conditions is to allow the fruit to dry on the plant. This method results in a lower level of",
+      "summary": "Notes that in arid regions cherries may be left to dry on the plant, which reduces immature fruit, is safe, can yield good quality and is cheaper by enabling one‑pass stripping.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "on-plant drying"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "38. Recommended measures to dry the coffee beans efficiently are:",
+      "summary": "Lists detailed drying recommendations: locate drying yards away from contaminants with good sun and air exposure; choose cleanable surfaces appropriate to climate; dry in thin layers (3–5 cm ≈ 25–35 kg/m2), turn frequently, ventilate at night and cover/heaping after ~1 day for parchment and ~3 days for cherry to avoid rewetting; do not mix lots, protect from animals, control pests (including CBB), and monitor moisture until <12.5% using calibrated instruments (ISO 6673); provide worker training and equipment maintenance. Mechanical driers may complement sun drying but require control of inlet temperature and drying time to avoid over‑drying (weight loss) or blackening of immature beans.",
+      "categories": [
+        "processing",
+        "documentation",
+        "hygiene",
+        "pest control",
+        "analysis sampling",
+        "training",
+        "equipment"
+      ],
+      "subcategories": [
+        "drying measures",
+        "drying yard",
+        "drying surface",
+        "drying operations",
+        "drying process",
+        "drying thickness",
+        "turning coffee",
+        "night ventilation",
+        "lot identification",
+        "animal protection",
+        "integrated pest control",
+        "moisture monitoring",
+        "rewetting prevention",
+        "worker training",
+        "equipment maintenance",
+        "mechanical drying"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.7 Storage, transportation and trading",
+      "summary": "Requires properly identified lots of dried cherries or parchment be stored in bulk or clean bags under appropriate conditions to prevent re‑wetting, degradation and cross‑contamination, with humidity strictly controlled (below ~60% RH coffee will continue to dry; above ~80% RH coffee will absorb moisture) and regular monitoring and good storage practices to prevent moisture ingress from floors, walls, rain or mixing wet and dry coffee.",
+      "categories": [
+        "storage",
+        "transport"
+      ],
+      "subcategories": [
+        "storage transport heading",
+        "storage conditions",
+        "trading operations",
+        "humidity control"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

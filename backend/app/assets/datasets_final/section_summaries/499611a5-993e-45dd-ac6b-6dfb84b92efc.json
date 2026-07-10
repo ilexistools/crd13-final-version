@@ -1,0 +1,220 @@
+{
+  "doc_id": "499611a5-993e-45dd-ac6b-6dfb84b92efc",
+  "title": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF ARSENIC CONTAMINATION IN RICE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE PREVENTION AND REDUCTION OF ARSENIC CONTAMINATION IN RICE",
+      "summary": "Document title only: Code of Practice for the Prevention and Reduction of Arsenic Contamination in Rice; no substantive provisions in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXC 77-2017",
+      "summary": "Document identifier only (CXC 77-2017); no substantive regulatory content in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 2017.",
+      "summary": "Adoption metadata only: indicates the Code was adopted in 2017 and contains no substantive provisions.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. INTRODUCTION",
+      "summary": "Introduces arsenic as a toxic metalloid occurring in rice from natural and anthropogenic sources, explains rice absorbs arsenic especially under reducing (flooded) soil conditions and that arsenic occurs in inorganic and organic forms, and advises that effectiveness of control measures varies with local conditions so field studies across crop years are recommended to identify feasible measures and avoid unnecessarily restricting rice supply.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background context",
+        "implementation guidance"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. SCOPE",
+      "summary": "Scope: provides guidance to national/relevant food authorities, producers, manufacturers and others on preventing and reducing arsenic contamination in rice through source-directed measures and agricultural measures, and includes guidance on monitoring and risk communication.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope detail"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3 . DEFINITIONS",
+      "summary": "Defines key terms including paddy, husked (brown) and polished (milled) rice, arsenic (inclusive of inorganic and organic forms), specifies inorganic arsenic (arsenite and arsenate) as the significant toxic form in rice, and defines flooded, aerobic and intermittent ponding cultivation conditions.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "rice type definitions",
+        "arsenic definition",
+        "terminology note",
+        "cultivation condition",
+        "water management"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4. MEASURES TO PREVENT AND REDUCE ARSENIC CONTAMINATION",
+      "summary": "States inorganic arsenic is the most toxic form in rice and recommends prioritizing measures to reduce inorganic arsenic—particularly in highly contaminated areas—by implementing the source-directed measures in Section 4.3 and agricultural measures in Section 4.4 as appropriate.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.3 Source Directed Measures",
+      "summary": "Identifies natural and anthropogenic sources of arsenic (volcanic/geogenic sources, mining/smelting, fossil fuel burning, arsenic pesticides, CCA-treated timber, and contaminated agricultural inputs) and advises authorities to apply source-directed measures—referencing CXC 49-2001—including identifying/reducing/avoiding contaminated irrigation water and paddy fields and controlling industrial emissions, contaminated inputs and waste.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "source measures heading",
+        "source identification",
+        "implementation guidance",
+        "irrigation water",
+        "irrigation water control",
+        "paddy field",
+        "paddy field control",
+        "source control",
+        "industrial emissions",
+        "input materials",
+        "waste control"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.4 Agricultural Measures",
+      "summary": "Recommends educating rice producers via technical guidance and farmer field schools and promoting practices (notably aerobic growth or intermittent ponding and selection of low-arsenic cultivars) to reduce arsenic uptake; it also warns aerobic/intermittent practices can increase cadmium or reduce yield and instructs risk managers to ensure cadmium does not reach unsafe levels and to consider source-directed cadmium controls where necessary.",
+      "categories": [
+        "risk management",
+        "training",
+        "processing"
+      ],
+      "subcategories": [
+        "agricultural measures heading",
+        "producer education",
+        "technical guidance",
+        "farmer field schools",
+        "water management practices",
+        "mitigation measures",
+        "implementation limits",
+        "cultivar selection"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5 . MONITORING",
+      "summary": "Requires monitoring the effectiveness of arsenic-reduction measures by determining inorganic arsenic concentrations in rice and, where land or groundwater used for rice is widely contaminated, also monitoring arsenic in soil and/or irrigation water.",
+      "categories": [
+        "risk management",
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "monitoring heading",
+        "effectiveness monitoring",
+        "footnote note",
+        "footnote reference",
+        "environmental monitoring"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6. RISK COMMUNICATION",
+      "summary": "Advises authorities to communicate risks and benefits of polished versus husked rice and to share consumer and distributor guidance to reduce arsenic during processing and cooking (polishing to remove bran, washing or using rinse-free rice, and cooking with excess water and discarding it), and warns consumers not to use arsenic-contaminated water for washing or cooking rice.",
+      "categories": [
+        "risk communication",
+        "definition"
+      ],
+      "subcategories": [
+        "risk communication heading",
+        "stakeholder information",
+        "consumer guidance",
+        "processing and cooking info",
+        "cooking advice",
+        "water use warning",
+        "product term"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

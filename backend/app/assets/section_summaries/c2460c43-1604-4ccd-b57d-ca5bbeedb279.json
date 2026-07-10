@@ -1,0 +1,297 @@
+{
+  "doc_id": "c2460c43-1604-4ccd-b57d-ca5bbeedb279",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "These guidelines set out the composition and labelling requirements for packing media intended for use with canned fruits.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. COMPOSITION AND DESIGNATIONS TO BE USED IN LABELLING",
+      "summary": "Specifies permissible packing media for canned fruits (water, fruit juices/pulps, syrups, nectars), defines pack style designations ('solid pack', 'regular pack'), and requires that naming and syrup/juice designations follow Section 2 classifications based on °Brix.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 WATER",
+      "summary": "Heading only — identifies 'Water' as a packing medium (no substantive provisions in this item).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "packing media heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 Fruit  juice  or  fruit  pulp  or  blend  of  fruit  juices  or  fruit  pulps,  unsweetened  or  sweetened  with  e.g.,  foodstuff  with sweetening properties such as sugars or honey 1 . Sweetened fruit juice or fruit pulp, depending on the concentration in  Brix degrees ( \u000b0 Brix) measured in the final product, shall be designated as follows:",
+      "summary": "Defines fruit juice/pulp (or blends) as packing media, allows them unsweetened or sweetened, and requires sweetened products to be designated according to °Brix ranges with subcategories such as 'lightly sweetened' (≥14°Brix <18°Brix) and 'heavily sweetened' (≥18°Brix <22°Brix).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.3 Syrup:  mixtures  of  water  and  foodstuff  with  sweetening  properties  such  as  sugars  or  honey 1 .  Depending  on  the concentration in \u000b0 Brix measured in the final product, these shall be designated as follows 2 :",
+      "summary": "Defines syrups (water plus sweetening substances) as packing media and prescribes classification names and °Brix-based limits for syrup types (e.g., extra light, light, optional, heavy, extra heavy) used in labeling.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.4 Water and fruit  juice  or  fruit  juices,  in  which  the  fruit  content  exceeds  50%,  with  the  exception  of  strong  flavoured and/or  highly viscous juices (e.g., mango, guava, cranberry, passion fruit, etc), in which case the fruit content could be less than 50%.",
+      "summary": "Permits packing with water plus fruit juice where fruit content exceeds 50%, except that strongly flavored or highly viscous juices (e.g., mango, guava, cranberry, passion fruit) may have less than 50% fruit content.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "packing medium type"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.5 Nectars (Fruit juice or fruit pulp, foodstuff with sweetening properties such as sugars or honey 1  and water) as defined in the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+      "summary": "Defines nectars as packing media composed of fruit juice or pulp, sweetening substances (e.g., sugars or honey) and water, referencing the General Standard for Fruit Juices and Nectars (CODEX STAN 247-2005).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "packing medium type"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.6 The designations used in association with the Name of the Food shall be one of the designations defined in Section 2.",
+      "summary": "Requires that any designation used with the Name of the Food must be one of the specific designations defined in Section 2.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name designation"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.7 The product may also be designated as 'solid pack' meaning whole fruit or pieces of fruit, without any added liquid or with only a small amount of liquid, and with or without foodstuff with sweetening properties such as sugars or honey 1 .",
+      "summary": "Defines 'solid pack' as whole fruit or pieces of fruit packed without added liquid or with only a small amount of liquid, with or without sweetening substances.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "pack style definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.8 Regular pack - The product may also be designated as 'regular pack' meaning whole fruit or pieces of fruit with liquid packing medium.",
+      "summary": "Defines 'regular pack' as whole fruit or pieces of fruit packed with a liquid packing medium.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "pack style definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.1 Lightly sweetened",
+      "summary": "Sweetness class 'Lightly sweetened' is defined as ≥14°Brix but <18°Brix.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "sweetness class",
+        "sweetness range"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.2.2 Heavily sweetened",
+      "summary": "Sweetness class 'Heavily sweetened' is defined as ≥18°Brix but <22°Brix.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "sweetness class",
+        "sweetness range"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.3.1   | Extra light syrup or slightly sweetened syrup   | greater than or equal to 10 \u000b0 but less than 14 \u000b0   |",
+      "summary": "Syrup class 'Extra light syrup or slightly sweetened syrup' is defined as ≥10°Brix but <14°Brix.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "syrup class"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.3.2   | Light syrup                                     | greater than or equal to 14 \u000b0 but less than 18 \u000b0   |",
+      "summary": "Syrup class 'Light syrup' is defined as ≥14°Brix but <18°Brix.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "syrup class"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.3.3   | Syrup (optional)                                | greater than or equal to 17 \u000b0 but less than 20 \u000b0   |",
+      "summary": "Syrup class 'Syrup (optional)' is defined as ≥17°Brix but <20°Brix.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "syrup class"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "2.3.4   | Heavy syrup                                     | greater than or equal to 18 \u000b0 but less than 22 \u000b0   |",
+      "summary": "Syrup class 'Heavy syrup' is defined as ≥18°Brix but <22°Brix.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "syrup class"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.3.5   | Extra heavy syrup                               | greater than or equal to 22 \u000b0                      |",
+      "summary": "Syrup class 'Extra heavy syrup' is defined as having a °Brix value greater than or equal to 22°Brix.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "syrup class"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "2.3 Syrup:  mixtures  of  water  and  foodstuff  with  sweetening  properties  such  as  sugars  or  honey 1 .  Depending  on  the concentration in \u000b0 Brix measured in the final product, these shall be designated as follows 2 :",
+      "summary": "Specifies syrups as mixtures of water and sweetening substances and reiterates °Brix-based syrup classifications (extra light to extra heavy), while also listing other packing media (juices, nectars) and pack designations referenced in Section 2.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "GUIDELINES FOR PACKING MEDIA FOR CANNED FRUITS",
+      "summary": "Heading only — 'Guidelines for Packing Media for Canned Fruits' (title without substantive text in this item).",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "guidelines heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    }
+  ]
+}

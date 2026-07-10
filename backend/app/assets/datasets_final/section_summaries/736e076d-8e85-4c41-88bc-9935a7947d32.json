@@ -1,0 +1,343 @@
+{
+  "doc_id": "736e076d-8e85-4c41-88bc-9935a7947d32",
+  "title": "STANDARD FOR BLACK, WHITE AND GREEN PEPPERS CXS 326-2017",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR BLACK, WHITE AND GREEN PEPPERS CXS 326-2017",
+      "summary": "Document title for the Codex Standard for Black, White and Green Peppers (CXS 326‑2017), noting adoption in 2017 and amendments in 2021 and 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "amendment note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2022 Amendment The following amendments were made to the text of the standard following decisions taken at the forty-fifth session of the Codex Alimentarius Commission in December 2022.",
+      "summary": "Notifies a 2022 amendment that revised the labelling provision for non‑retail containers (Section 8.3) to replace the prior detailed clause with a requirement to follow the General Standard for the Labelling of Non‑Retail Container of Foods (CXS 346‑2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "table header",
+        "table separator",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to black, white and green peppers offered for direct consumption, use as a food processing ingredient, or for repackaging, and excludes peppers intended for industrial processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3.2.2 Physical characteristics",
+      "summary": "Section heading marked NA followed by Table 1B listing basic physical characteristics of BWG (black, white, green) peppers, giving approximate whole-berry diameters and descriptions of typical shape and pericarp surface for each color.",
+      "categories": [
+        "quality",
+        "other"
+      ],
+      "subcategories": [
+        "physical characteristics",
+        "not applicable",
+        "characteristics table",
+        "table header",
+        "table separator",
+        "size requirement",
+        "shape requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.2.3 Classification",
+      "summary": "Three classes/grades (Class/Grade I, II and III) apply to BWG peppers and Table 2 sets class- and colour-specific physical quality limits (e.g., bulk density minima for black/white, maximum percentages for light berries, extraneous vegetable matter, foreign matter, black berries, broken berries, mouldy berries, insect-defiled berries, mammalian/other excreta in mg/kg, and pinheads for black pepper) for whole berries.",
+      "categories": [
+        "classification",
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "classification heading",
+        "grade applicability",
+        "grade list",
+        "characteristics table",
+        "table header",
+        "table separator",
+        "grade table",
+        "bulk density",
+        "light berries limit",
+        "extraneous matter",
+        "foreign matter limit",
+        "product defects",
+        "mould limit",
+        "insect damage",
+        "excreta limit",
+        "pinheads limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.2.4 Chemical characteristics",
+      "summary": "Table 3 specifies chemical requirements for whole BWG peppers by class and colour (maximum moisture, total ash, acid‑insoluble ash; minimum non‑volatile ether extract, volatile oils and piperine where applicable), and Table 4 specifies chemical requirements for ground black and white pepper (moisture, total ash, ether extract, volatile oil, crude fibre, piperine, acid‑insoluble ash), noting ground peppers include forms per Section 2.2(b).",
+      "categories": [
+        "composition",
+        "quality",
+        "classification",
+        "other"
+      ],
+      "subcategories": [
+        "chemical characteristics",
+        "table caption",
+        "table requirements",
+        "table separator",
+        "product classes",
+        "grade labels",
+        "moisture limit",
+        "ash limits",
+        "extract limit",
+        "volatile oil limit",
+        "piperine limit",
+        "acid ash limit",
+        "ash limit",
+        "fibre limit",
+        "table note"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.3 Classification of defectives",
+      "summary": "A container sample that fails to meet one or more applicable quality requirements in Section 3.2 (excluding those based on sample averages) is to be considered defective.",
+      "categories": [
+        "classification",
+        "quality"
+      ],
+      "subcategories": [
+        "defective classification",
+        "defective criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.4 Lot acceptance",
+      "summary": "A lot meets the quality requirements of Section 3.2 when the number of defectives (per Section 3.3) does not exceed the acceptance number c of the applicable sampling plan; for attributes judged by sample averages, a lot is acceptable if the average meets tolerances and no individual sample is excessively out of tolerance.",
+      "categories": [
+        "classification",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Preservatives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) for food category 12.2.1 (herbs and spices) are permitted only in green peppers that conform to this standard.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted preservatives"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5 CONTAMINANTS",
+      "summary": "Products covered by this standard must comply with the maximum levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex-established maximum residue limits for pesticides.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "maximum levels",
+        "pesticide limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6. FOOD HYGIENE",
+      "summary": "It is recommended that products be prepared and handled in accordance with the Code of Hygienic Practice for Low Moisture Foods (CXC 75-2015, Annex III) and other relevant Codex texts, and that they comply with any microbiological criteria established per the Principles and Guidelines for Microbiological Criteria (CXG 21-1997).",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic practice",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "7. WEIGHTS AND MEASURES",
+      "summary": "Containers shall be filled as fully as practicable without impairing quality and consistent with a proper declaration of contents.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "weights heading",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "8. LABELLING",
+      "summary": "Products covered by this standard must be labelled in accordance with the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985), with additional specific provisions set out in the following subsections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "8.2 Name of the product",
+      "summary": "The product name shall be 'black pepper' (pepper corn), 'white pepper' or 'green pepper'; the nature may indicate style and grade (per Section 2.2), country of origin is optional, commercial identification should include class/grade and optionally variety, and an inspection mark is optional.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name",
+        "nature declaration",
+        "origin declaration",
+        "commercial identification",
+        "grade declaration",
+        "variety declaration",
+        "inspection mark"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "8.3 Labelling of non-retail containers",
+      "summary": "Labelling of non‑retail containers must comply with the General Standard for the Labelling of Non‑Retail Containers in Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail label"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "9. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Compliance with this standard is to be checked using the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) that are relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "methods reference"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "NOTES",
+      "summary": "Bibliographic notes listing referenced Codex standards and guidance documents cited in the standard (non‑substantive reference material).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "notes heading",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

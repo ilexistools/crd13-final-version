@@ -1,0 +1,534 @@
+{
+  "doc_id": "569fe114-d229-48e1-b91a-84abf3d9f3c5",
+  "title": "GENERAL STANDARD FOR BOTTLED/ PACKAGED DRINKING WATERS (Other than Natural Mineral Waters) CXS 227-2001 Adopted in 2001. Amended in 2019.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR BOTTLED/ PACKAGED DRINKING WATERS (Other than Natural Mineral Waters) CXS 227-2001 Adopted in 2001. Amended in 2019.",
+      "summary": "Document title: General Standard for Bottled/Packaged Drinking Waters (Other than Natural Mineral Waters) CXS 227-2001, adopted 2001 and amended 2019.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 SCOPE",
+      "summary": "Applies to prepackaged/bottled waters for drinking purposes other than Natural Mineral Waters (as defined in CXS 108-1981) that are suitable for human consumption.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2 DESCRIPTION",
+      "summary": "'Packaged waters' (excluding natural mineral waters) are potable waters that may contain minerals and/or carbon dioxide but not sugars, sweeteners, flavourings or other foodstuffs; the standard distinguishes 'waters defined by origin' (source-protected, not passing through a community water system, microbiologically fit at source and only subject to permitted treatments in Section 3.1) from 'prepared waters' (which do not meet origin criteria and may come from any supply).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Packaged waters",
+      "summary": "Packaged waters (other than natural mineral waters) are defined as waters for human consumption that may contain naturally occurring or added minerals and carbon dioxide but shall not contain sugars, sweeteners, flavourings or other foodstuffs.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1.1 Waters defined by origin",
+      "summary": "'Waters defined by origin' are waters from specific environmental resources that do not pass through a community water system, are protected within vulnerability perimeters to prevent pollution, collected under conditions preserving original microbiological purity and chemical constituents, remain microbiologically fit at source and maintained hygienically until packaging per Sections 3 and 4, and may only undergo modifications permitted in Section 3.1.",
+      "categories": [
+        "composition",
+        "quality",
+        "hygiene",
+        "processing"
+      ],
+      "subcategories": [
+        "origin waters",
+        "origin characteristics",
+        "source protection",
+        "collection conditions",
+        "hygienic precautions",
+        "permitted treatments"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1.2 Prepared waters",
+      "summary": "'Prepared waters' are waters that do not meet the criteria for waters defined by origin (Section 2.1.1) and may originate from any type of water supply.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "prepared waters"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies permitted modifications and antimicrobial treatments for origin and prepared waters, and requires chemical and radiological quality to meet health-related limits (per WHO Guidelines for Drinking Water Quality) while any mineral additions must comply with this Standard and, where applicable, CXG 9-1987.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1 Modifications and handling of packaged waters",
+      "summary": "Waters defined by origin must not be modified before packaging except by specified physicochemical or antimicrobial treatments that do not alter essential characteristics or compromise chemical, radiological or microbiological safety, and prepared waters may undergo treatments provided the final product meets the safety requirements in Sections 3.2 and 4.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.1 Permitted  physicochemical  modifications  and  antimicrobial  treatments  for  the  waters  defined  by origin",
+      "summary": "Permits only specified pre-packaging modifications for waters defined by origin—subject to the proviso that such treatments and processes do not change essential physicochemical characteristics or compromise chemical, radiological or microbiological safety—including selective treatments (gas reduction/addition, removal of unstable constituents, oxygen/ozone addition under by‑product tolerances, temperature adjustment, and reduction/separation of elements or radioactivity above set limits).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.1.1  Selective treatments that modify the original composition",
+      "summary": "Enumerates permitted selective treatments for waters defined by origin: reduction/elimination of dissolved gases (affecting pH), addition or re‑incorporation of carbon dioxide, removal of unstable constituents (e.g., iron, manganese, sulphur compounds, excess carbonates), addition of air/oxygen/ozone provided ozone by‑products are below tolerances in Section 3.2.1, temperature changes, and reduction/separation of elements or radioactivity present above maximum concentrations/levels set in Section 3.2.1.",
+      "categories": [
+        "processing",
+        "contaminants",
+        "other"
+      ],
+      "subcategories": [
+        "selective treatments",
+        "gas removal",
+        "carbon dioxide addition",
+        "constituent reduction",
+        "oxidation treatment",
+        "temperature adjustment",
+        "excess reduction",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.1.2  Antimicrobial  treatments  may  be  used  singly  or  in  combination  solely  in  order  to  conserve  the  original microbiological fitness for human consumption, original purity and safety of waters defined by origin.",
+      "summary": "Antimicrobial treatments may be used, alone or combined, solely to conserve the original microbiological fitness for human consumption, purity and safety of waters defined by origin.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "antimicrobial treatments",
+        "microbial conservation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.2 Physical and chemical modifications and antimicrobial treatments for prepared waters",
+      "summary": "Prepared waters may undergo any microbial and physical/chemical treatments provided the treated waters comply with Sections 3.2 and 4 regarding chemical, microbiological and radiological safety for prepackaged waters.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "prepared water treatments"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2 Chemical and radiological quality of packaged waters",
+      "summary": "No packaged water shall contain substances or emit radioactivity at levels injurious to health—packaged waters must meet the health‑related requirements of the latest WHO Guidelines for Drinking Water Quality—and any mineral additions must comply with this Standard and, where applicable, CXG 9-1987.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.1 Health-related limits for chemical and radiological substances",
+      "summary": "States that no packaged water shall contain substances or emit radioactivity in quantities injurious to health and requires compliance with the health‑related requirements of the most recent WHO Guidelines for Drinking Water Quality.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "health-related limits"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.2 Addition of minerals",
+      "summary": "Any addition of minerals to water before packaging must comply with this Standard and, where applicable, the General Principles for the Addition of Essential Nutrients to Foods (CXG 9-1987).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "mineral addition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Prohibits all food additives except carbon dioxide, which may be added to produce carbonated products.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "carbon dioxide exception"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. HYGIENE",
+      "summary": "Recommends that collection, transport, storage, treatment and packaging follow the General Principles of Food Hygiene (CXC 1-1991) and the Code of Hygienic Practice (CXC 48-2001); initial approval/inspection of sources for waters defined by origin must be based on appropriate scientific studies and field surveys and be confirmed by periodic monitoring (essential constituents, temperature, flow, chemical/radiological factors per Section 3.2.1 and WHO microbiological standards) with results made available to importing countries on request.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.1 Code of practice",
+      "summary": "Recommends that all waters covered by this Standard be collected, transported, stored, treated (if applicable) and packaged in accordance with the General Principles of Food Hygiene (CXC 1-1991) and the Code of Hygienic Practice for Bottled/Packaged Drinking Waters (CXC 48-2001).",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "code of practice",
+        "hygienic practice"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.2 Approval and inspection of the source for waters defined by origin",
+      "summary": "Initial approval or inspection of sources for waters defined by origin must be based on appropriate scientific study (e.g., hydrogeology/hydrology) and field surveys of the source and recharge zone to demonstrate source and collection safety, and must be confirmed by regular monitoring of essential constituents, temperature, flow (for springs), the chemical/radiological factors in Section 3.2.1 and WHO‑based microbiological standards, with inspection results available to importing countries upon request.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "source approval",
+        "source inspection"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. LABELLING REQUIREMENTS",
+      "summary": "Adds labelling rules to CXS 1-1985: countries may set product names reflecting consumer expectations but must avoid misleading representations; product names must reflect classification (waters defined by origin may use origin‑referring names and blends must label each resource; prepared waters have separate naming), carbonation must be declared with defined terms ('naturally carbonated', 'fortified with carbon dioxide', 'carbonated', 'non carbonated/still'), total dissolved solids and chemical composition (for origin waters) may be declared, precise geographic location may be required by authorities, prepared water from a distribution system must be labelled 'From a public or private distribution system' when applicable, treatments may need declaring, and prohibited labelling includes medicinal claims, misuse of locality names unless truly origin‑specific, and any statements or images likely to mislead about nature, origin, composition or properties.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.1 Name of the product",
+      "summary": "Allows countries to select appropriate product names reflecting local cultural/traditional expectations but requires labelling to reflect the product's classification under this standard and avoid misleading consumers, with naming specified according to classification (waters defined by origin vs prepared waters) and subject to additional national criteria.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.1.1  Waters defined by origin",
+      "summary": "Permits countries to choose names for waters that meet the origin criteria of Section 2.1.1 but requires blends to label each source, reserves origin-referential names exclusively for waters defined by origin (prepared-water names may not be used for origin waters and vice versa), and requires any additional national naming criteria to be consistent with the standard.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "6.1.1.2  Prepared waters",
+      "summary": "Allows countries to designate names for prepared waters meeting Section 2.1.2 and to impose additional national naming criteria, including restricting the name to certain terms or a single name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "prepared water name"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6.1.2 Carbonation",
+      "summary": "Specifies required carbonation label declarations: for waters defined by origin use 'naturally carbonated'/'naturally sparkling' when CO2 released after packaging originates from the source and is within ±20% of emergence concentration, 'fortified with carbon dioxide' when source CO2 is at least 20% higher than at emergence, 'carbonated'/'sparkling' when CO2 release does not entirely originate from the source, and permits 'non carbonated'/'non sparkling'/'still' when no visible spontaneous CO2 release occurs on opening.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "carbonation declaration",
+        "label declaration",
+        "carbonation claim",
+        "water description"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.2 Additional labelling requirements",
+      "summary": "Sets additional labelling requirements: total dissolved solids may be declared on the principal display panel and origin waters may declare characteristic chemical composition; authorities may require precise geographic source declaration; prepared waters from public/private distribution systems that have not been further treated or had CO2/fluoride added must state 'From a public or private distribution system' on the principal display panel; and permitted treatments or their results must be declared where required by competent authorities.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2.1 Chemical composition",
+      "summary": "Allows the total dissolved solids content to be declared on the principal display panel and permits waters defined by origin to declare the chemical composition that confers the product's characteristics.",
+      "categories": [
+        "composition",
+        "labelling"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.2.2 Geographic location",
+      "summary": "Where required by the competent authority, mandates declaration of the precise geographic location of the environmental resource and/or source for waters defined by origin in the manner prescribed by applicable legislation.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.2.3 Prepared water from a water distribution system",
+      "summary": "Requires that prepared water supplied from a public or private distribution system and subsequently packaged—without further treatment that modifies composition or addition of CO2/fluoride—bear the wording 'From a public or private distribution system' on the principal display panel alongside the product name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "source declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6.2.4 Treatments",
+      "summary": "Where required by authorities, labels must declare any permitted treatment applied before packaging or the result of such treatment in the manner prescribed by applicable legislation.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "treatment declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "6.3 Labelling prohibitions",
+      "summary": "Prohibits medicinal claims (preventive, alleviative, curative) for the product and other consumer health-benefit claims unless true and not misleading, forbids using a locality/hamlet/place name in a trade name unless it refers to a water defined by origin collected there, and bans any statements or pictorial devices that could confuse or mislead the public about the nature, origin, composition or properties of packaged waters.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "6.3.1 No claims concerning medicinal (preventive, alleviative or curative) effects shall be made in respect of the properties of the product covered by this Standard. Claims of other beneficial effects related to the health of the consumer shall not be made unless true and not misleading.",
+      "summary": "Prohibits any claims that the product has medicinal (preventive, alleviative or curative) effects and disallows other health-benefit claims unless they are true and not misleading.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "claims restriction"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "6.3.2 The name of the locality, hamlet or specified place may not form part of the trade name unless it refers to a water defined by origin collected at the place designated by that trade name.",
+      "summary": "Prohibits including the name of a locality, hamlet or specified place in a trade name unless the trade name refers to a water defined by origin actually collected at that place.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "trade name use"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "6.3.3 The use of any statement or of any pictorial device which may create confusion in the mind of the public or in any way mislead the public about the nature, origin, composition and properties of packaged waters put on sale is prohibited.",
+      "summary": "Prohibits any statement or pictorial device that may cause public confusion or mislead consumers about the nature, origin, composition or properties of packaged waters offered for sale.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "misleading presentation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "## 7. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Non-substantive cross-reference directing readers to the relevant Codex texts for methods of analysis and sampling.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "reference methods"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

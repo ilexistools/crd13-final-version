@@ -1,0 +1,540 @@
+{
+  "doc_id": "09fae761-52da-4b05-aec6-00f5afa814f3",
+  "title": "SECTION 1 - SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "SECTION 1 - SCOPE",
+      "summary": "Provides a framework for developing and operating import control systems to protect consumers and facilitate fair food trade while avoiding unjustified technical barriers, consistent with Codex principles for import/export inspection and certification and complementing CAC/GL 26-1997.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION 2 - DEFINITIONS 3",
+      "summary": "Defines key terms used in the guideline, including Appropriate Level of Protection (ALOP), audit, certification, inspection, legislation, official accreditation, official/officially recognized systems, requirements, and risk assessment/analysis, with source attributions to CAC/GL 26-1997 and the Codex Procedural Manual where indicated.",
+      "categories": [
+        "definition",
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "risk definition",
+        "audit definition",
+        "certification definition",
+        "inspection definition",
+        "reference note",
+        "definition note",
+        "page number",
+        "legislation definition",
+        "accreditation definition",
+        "official system definition",
+        "recognized system definition",
+        "requirements definition",
+        "risk assessment definition",
+        "risk analysis definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION 3 - GENERAL CHARACTERISTICS OF FOOD IMPORT CONTROL SYSTEMS",
+      "summary": "Lists main characteristics required of food import control systems: consistency with domestic requirements, clearly defined competent authority responsibilities, transparent legislation and procedures, priority to consumer protection, provisions for recognition of exporters' control systems, uniform nationwide implementation, and achieving protection levels consistent with domestic food.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. Food import control systems should have the following main characteristics:",
+      "summary": "Restates the core characteristics import control systems should have, including equivalence with domestic requirements, defined authority roles, transparent procedures, consumer protection priority, recognition mechanisms for exporting-country systems, national uniformity, and equivalent levels of protection.",
+      "categories": [
+        "scope",
+        "documentation",
+        "risk management",
+        "inspection certification",
+        "official control"
+      ],
+      "subcategories": [
+        "main characteristics",
+        "domestic equivalence",
+        "authority responsibilities",
+        "legislation procedures",
+        "consumer protection priority",
+        "system recognition",
+        "nationwide implementation",
+        "protection equivalence"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2 Requirements for imported food that are consistent with requirements for domestic foods",
+      "summary": "Requirements for imported food are typically end‑point standards with sampling regimes and may include process controls and conditions of production/transport/storage; their extent must be proportionate to risk and, where possible, applied equally to domestic and imported foods, with equivalence of process controls demonstrable by auditing exporting-country systems or facilities.",
+      "categories": [
+        "scope",
+        "composition",
+        "risk management",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "requirements heading",
+        "requirements structure",
+        "proportionate requirements",
+        "equivalence confirmation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Clearly defined responsibilities of competent authority or authorities",
+      "summary": "Competent authority(ies) must have clearly defined responsibilities for inspection at entry, storage, distribution and sale, avoid duplicative testing, may rely on controls implemented by another country, and may use officially recognized third‑party providers to sample, analyse, or evaluate quality systems.",
+      "categories": [
+        "scope",
+        "official control",
+        "inspection certification",
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "responsibilities heading",
+        "competent authority roles",
+        "defined procedures",
+        "third party providers",
+        "sampling consignments",
+        "reference note",
+        "sample analysis",
+        "quality system compliance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Precedence to the protection of consumers",
+      "summary": "States that design and operation of import control systems must give precedence to protecting consumer health and ensuring fair trade practices over economic or other trade considerations.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "consumer protection priority"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Provision of the importing country for recognition of the food control system applied by an exporting country's competent authority",
+      "summary": "Requires import control systems to include provisions for recognising an exporting country's food control system (via MOUs, mutual recognition, equivalence, or unilateral recognition) including controls applied during production, manufacture, transit, and verification of the exporting country's system.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "import recognition"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Uniform nation-wide implementation",
+      "summary": "Calls for uniform national implementation of operational procedures, supported by programmes and training manuals to ensure consistent application at all points of entry and by all inspection staff.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "uniform implementation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Implementation that ensures the levels of protection achieved are consistent with those for domestic food",
+      "summary": "Acknowledges that different approaches to monitoring domestic and imported food may be justified where necessary to ensure the importing country's level of protection is consistent with that for domestic food.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "equivalent protection"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "SECTION 4 - IMPLEMENTATION OF THE CONTROL SYSTEM",
+      "summary": "Provides detailed implementation guidance: develop operational procedures to minimise delays, identify points of control (origin, entry, processing, transport, storage, sale), consider pre‑shipment clearance and origin guarantees, require consignment information, apply risk‑based inspection/sampling/testing using validated methods and accredited labs, set decision criteria for acceptance/rejection or reconditioning, establish emergency response and information‑exchange mechanisms, and enable recognition and verification of exporting‑country controls.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Point of control",
+      "summary": "Specifies possible points of control for imported food (origin, entry, further processing, transport/distribution, storage, sale), encourages recognising exporting‑country controls, and describes pre‑shipment clearance as a mechanism with defined authority and documentary‑based procedures.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "control points",
+        "export controls",
+        "pre-shipment clearance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Frequency of inspection and testing of imported food",
+      "summary": "Inspection, sampling and testing frequency for imported foods must be risk-based, taking into account product and packaging health risk, likelihood of non-compliance, target consumers, further processing, the exporting country's inspection/certification systems and the compliance history of suppliers, and control programs should use statistically based sampling where possible and increase inspection intensity (up to inspecting every consignment or requiring accredited laboratory proof) for sources with poor or unknown compliance until satisfactory performance is demonstrated.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "inspection frequency",
+        "risk factors",
+        "sampling plan",
+        "sampling intensity"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "Sampling and analysis",
+      "summary": "Sampling plans should follow Codex plans for commodity/contaminant combinations or other internationally accepted scientific plans where Codex plans are unavailable, and analyses should use internationally validated methods performed in official or accredited laboratories.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling and analysis heading",
+        "sampling plan",
+        "analytical methods"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "27.  Decision criteria (without prejudice to the application of customs procedures) should be developed that determine whether consignments are given:",
+      "summary": "Authorities should establish decision criteria for consignments (e.g., acceptance, entry after clearance, release after reconditioning, rejection with redirection, re-export, return or destruction), apply careful interpretation and rules for borderline or partial consignment compliance (including further testing), and provide formal communication, appeal/review mechanisms and consideration of withdrawal when national rejection conflicts with international standards.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "decision criteria",
+        "decision rules",
+        "decision communication"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "32.  Recognition of export controls",
+      "summary": "Importing countries should establish mechanisms to recognize exporting-country control systems that achieve equivalent protection, including assessment procedures consistent with CAC/GL 26-1997, consideration of arrangement scope, clearance procedures, exemptions from routine inspection, verification via occasional sampling, and acceptance of system-based arrangements that may not rely on certificates with individual consignments.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "33.  The  competent  authority  of  the  importing  country  may,  develop  certification agreements with  exporting  country  official  certification  bodies  or  officially  recognized certification bodies, with the aim of ensuring requirements are met. Such agreements may  be  of  particular  value  where,  for  example,  there  is  limited  access  to  specific facilities such as laboratories and consignment tracking systems. 9",
+      "summary": "The competent authority may conclude certification agreements with exporting-country official or officially recognized certification bodies to ensure imported food meets requirements, especially where access to laboratories or tracking systems is limited.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "certification agreements"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "Information exchange",
+      "summary": "Food import control requires information exchange between competent authorities—such as control requirements, hard-copy or electronic certificates, details on rejected consignments, and lists of conforming establishments—and significant changes to import protocols should be promptly communicated to trading partners with a reasonable interval before application.",
+      "categories": [
+        "documentation",
+        "official control",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "information exchange",
+        "import control info",
+        "control requirements",
+        "conformity certificates",
+        "electronic records",
+        "rejected consignments",
+        "facility list",
+        "protocol changes"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Other considerations",
+      "summary": "Competent authorities may adopt alternative arrangements to routine inspection (e.g., auditing importer controls over suppliers), consider mandatory importer registration to clarify responsibilities and communication, and require product registration only with a clear rationale while treating imported and domestic products equivalently.",
+      "categories": [
+        "other",
+        "official control"
+      ],
+      "subcategories": [
+        "other considerations",
+        "alternative arrangements",
+        "importer registration",
+        "product registration"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Documenting the system",
+      "summary": "A food import control system must be fully documented—covering scope, operation, staff responsibilities and expectations—and include an organizational chart, job functions, operating procedures (sampling, inspection, testing), relevant legislation, contacts, contamination/inspection information and staff training details.",
+      "categories": [
+        "documentation",
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "documenting system",
+        "system documentation",
+        "documentation contents",
+        "page footnote",
+        "organizational chart",
+        "job functions",
+        "inspection procedures",
+        "legislative references",
+        "contact information",
+        "inspection information",
+        "training information"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Trained inspectorate",
+      "summary": "Inspection staff must be adequate, reliable, well trained and organized with supportive infrastructure and consistent training, and third-party inspectors or personnel assessing exporting-country systems must have qualifications, experience and training at least equivalent to those of the competent authority's inspectors.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "trained inspectorate",
+        "inspector training",
+        "staff qualifications",
+        "assessor qualifications"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "System verification",
+      "summary": "The import control system should be verified in accordance with Section 9 of CAC/GL 26-1997 and be independently assessed on a regular basis.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "system verification",
+        "independent assessment"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "SECTION 5 - FURTHER INFORMATION",
+      "summary": "Non-substantive reference pointing users to FAO and WHO manuals on imported food inspection as useful further information for designing or redesigning import control systems.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "section heading",
+        "reference materials"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "APPENDIX",
+      "summary": "Non-substantive appendix heading.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix heading"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "PRINCIPLES AND GUIDELINES FOR IMPORTED FOOD INSPECTION BASED ON RISK 11",
+      "summary": "Non-substantive appendix title introducing principles and guidelines for risk-based imported food inspection.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix title"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "SECTION 1 - INTRODUCTION",
+      "summary": "This introduction states the annex elaborates on paragraphs 22–26 of CAC/GL 47-2003 and that risk-based imported food inspection programs more effectively address food safety risks and ensure compliance; it also directs readers to consult other relevant Codex guidelines.",
+      "categories": [
+        "scope",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "annex reference",
+        "risk-based inspection",
+        "related guidelines"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "SECTION 2 - OBJECTIVE",
+      "summary": "The annex's objective is to provide competent authorities with information to assist in designing and implementing imported food inspection programmes based on food safety risks.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objective heading",
+        "objective statement"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "SECTION 3 - PRINCIPLES",
+      "summary": "Principles for risk-based imported food inspection require assigning risk based on assessed food safety risk using available scientific information and developing inspection requirements via a risk analysis approach that must not be applied arbitrarily, discriminatorily, or create unjustified trade barriers or delays.",
+      "categories": [
+        "risk management",
+        "risk assessment",
+        "official control"
+      ],
+      "subcategories": [
+        "principles heading",
+        "risk management principles",
+        "risk level determination",
+        "risk based requirements",
+        "risk definition",
+        "imported food scope"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

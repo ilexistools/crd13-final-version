@@ -1,0 +1,67 @@
+{
+  "doc_id": "7c08f713-2f3b-4789-85d3-c2306fe356b7",
+  "title": "1 PURPOSE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1 PURPOSE",
+      "summary": "This document compiles and recalls Codex guidance relevant to labelling of foods derived from modern biotechnology.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "document purpose"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2 CONSIDERATIONS",
+      "summary": "Different labelling approaches for foods from modern biotechnology exist and any approach used by Codex members should be consistent with adopted Codex provisions; the document does not assert that such foods are inherently different solely because of their production method.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "general considerations"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3 COMPILATION OF RELEVANT CODEX TEXTS",
+      "summary": "Provides a compiled list of specific Codex standards and guidelines (e.g., General Standard for the Labelling of Prepackaged Foods, Guidelines on Claims, risk analysis and biotechnology assessment guidance) relevant to labelling and safety assessment of foods derived from modern biotechnology.",
+      "categories": [
+        "documentation",
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reference list heading",
+        "codex standard reference",
+        "codex guideline reference",
+        "nutrition claims reference",
+        "organic foods reference",
+        "halal term reference",
+        "risk analysis reference",
+        "biotechnology risk principles",
+        "food safety assessment",
+        "definition note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    }
+  ]
+}

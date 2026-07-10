@@ -1,0 +1,499 @@
+{
+  "doc_id": "96eb41c8-d2f3-4997-b9f4-7aea0cda8afe",
+  "title": "GENERAL STANDARD FOR CONTAMINANTS AND TOXINS IN FOOD AND FEED CXS 193-1995 Adopted in 1995 Revised in 1997, 2006, 2008, 2009 Amended in 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR CONTAMINANTS AND TOXINS IN FOOD AND FEED CXS 193-1995 Adopted in 1995 Revised in 1997, 2006, 2008, 2009 Amended in 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023",
+      "summary": "Document title for the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) with adoption (1995) and listed revisions/amendments through 2023; non‑substantive heading.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1.1 SCOPE",
+      "summary": "Defines the scope: presents Codex principles and recommended maximum levels (MLs) and sampling plans for contaminants and natural toxicants in food and feed for international trade, and includes MLs for feed only where contaminants can transfer to food of animal origin and be relevant for public health.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "feed scope"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1.2 DEFINITION OF TERMS",
+      "summary": "States that Codex Procedural Manual definitions apply to the GSCTFF, repeats key definitions and introduces new ones as needed, and indicates that references to ‘food’ may also apply to animal feed when appropriate.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1.2.1  General",
+      "summary": "Explains that Codex definitions (from the Procedural Manual) apply to the GSCTFF, with only the most important definitions repeated and new ones added where required; 'food' may also cover animal feed when appropriate.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "general definitions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1.2.2  Contaminant",
+      "summary": "Provides the Codex definition of 'contaminant' as any unintentionally present substance (excluding insect fragments, rodent hairs and similar extraneous matter) and states the standard applies to such substances except where they have only quality significance or fall under other Codex committees (e.g., pesticide residues, veterinary drug/feed additive residues, microbial toxins, processing aids), and it defines feed additives and processing aids for the standard's purposes.",
+      "categories": [
+        "definition",
+        "scope"
+      ],
+      "subcategories": [
+        "contaminant heading",
+        "contaminant definition",
+        "scope applicability",
+        "scope exclusions",
+        "pesticide exclusion",
+        "residue exclusions",
+        "microbial toxin exclusion",
+        "processing aid exclusion",
+        "feed additive definition",
+        "feed additive residues",
+        "processing aid definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "1.2.3  Natural toxins included in this standard",
+      "summary": "Clarifies that naturally occurring toxicants such as mycotoxins and algal phycotoxins are included as contaminants in the standard, while endogenous phytotoxins (e.g., solanine) are generally excluded but may be addressed case‑by‑case by the Committee on Contaminants in Foods (CCCF).",
+      "categories": [
+        "definition",
+        "scope"
+      ],
+      "subcategories": [
+        "natural toxins heading",
+        "mycotoxin inclusion",
+        "phycotoxin inclusion",
+        "natural toxin exclusion"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "1.2.4  Maximum level and related terms 1",
+      "summary": "Defines the Codex maximum level (ML) as the maximum concentration of a contaminant in a food or feed commodity recommended by the Codex Alimentarius Commission to be legally permitted.",
+      "categories": [
+        "definition",
+        "contaminants"
+      ],
+      "subcategories": [
+        "maximum level heading",
+        "maximum level definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## 1.3 PRINCIPLES REGARDING CONTAMINANTS IN FOOD AND FEED",
+      "summary": "Sets out principles: contamination can harm human/animal health and food/feed quality and should be reduced as low as reasonably achievable through GAP/GMP and source, technological and decontamination measures, with codes of practice, monitoring and risk assessment guiding risk management (including MLs or other measures) while avoiding unnecessary trade barriers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 1.3.1  General",
+      "summary": "Describes that contamination poses health and quality risks and should be minimized using GAP/GMP and source, technological and decontamination controls, supported by codes of practice, monitoring and risk assessment to inform risk management (including MLs or dietary advice where needed) while seeking international harmonization to prevent trade barriers.",
+      "categories": [
+        "risk management",
+        "analysis sampling",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "general principles heading",
+        "contamination overview",
+        "contamination reduction",
+        "source prevention",
+        "control measures",
+        "decontamination measures",
+        "code of practice",
+        "monitoring assessment",
+        "risk and management",
+        "trade harmonization"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "1.3.2 Principles for establishing maximum levels in food and feed",
+      "summary": "States principles for setting MLs: establish MLs only where a food significantly contributes to total consumer exposure, base levels on consumer protection using risk analysis and GMP/GAP principles, apply sound science to avoid unjustified trade barriers, and clearly define ML status and intended use.",
+      "categories": [
+        "contaminants",
+        "risk management"
+      ],
+      "subcategories": [
+        "maximum levels heading",
+        "exposure basis",
+        "protection principle",
+        "gmp gap principles"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "1.3.3 Specific criteria",
+      "summary": "Lists specific criteria to consider when developing MLs and other measures—covering toxicological, analytical, intake, technological and risk assessment/management data—and directs to Annex I for further detail.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Toxicological information",
+      "summary": "Specifies toxicological information needed for ML decisions: identification of the substance, human/animal metabolism, toxicokinetics/toxicodynamics including feed‑to‑food carry‑over, acute and long‑term toxicity data, and integrated expert advice on acceptable intake and vulnerable groups.",
+      "categories": [
+        "analysis sampling",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "toxicology heading",
+        "toxic substance identification",
+        "toxicology data",
+        "expert advice"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Analytical data",
+      "summary": "Requires validated qualitative and quantitative analytical data on representative samples and appropriate sampling procedures to support ML development.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analytical data",
+        "validation data",
+        "sampling procedures"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "Intake data",
+      "summary": "Details intake data needed: occurrence in foods (including widely consumed staples), presence in feed and feed components, consumption data for average, high‑exposure and susceptible groups, total diet study results, modelled intake estimates, and animal intake for feed‑related carry‑over.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "intake data",
+        "exposure data",
+        "feed data",
+        "consumer intake",
+        "diet study data",
+        "model intake data",
+        "susceptible group data",
+        "animal intake data"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Technological considerations",
+      "summary": "Requires information on contamination sources, distribution within the product and technological/control options (including source‑related measures and adapted GMP/GAP) to assess feasibility of reducing contamination and, where preliminary intake estimates exceed toxicological reference values, calls for detailed evaluation of practicable reductions and compliance implications before setting MLs.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "technological considerations",
+        "technological measures"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Risk assessment and risk management considerations (cf. Working Principles for Risk Analysis for Food Safety for Application by Governments )",
+      "summary": "States that risk assessment and risk management should follow the Working Principles for Risk Analysis for Food Safety (CXG 62-2007) and consider risk management options, possible MLs based on the stated criteria, and alternative solutions.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "risk management considerations",
+        "management options",
+        "maximum level options",
+        "alternative solutions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "1.4 FORMAT OF THE GENERAL STANDARD FOR CONTAMINANTS IN FOOD AND FEED",
+      "summary": "Non‑substantive formatting note stating that the full format of the General Standard is provided in Annex II.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "format heading",
+        "format description"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "CRITERIA FOR THE ESTABLISHMENT OF MAXIMUM LEVELS IN FOOD AND FEED",
+      "summary": "Annex introduction outlining criteria and detailed information necessary to evaluate contaminant problems and establish MLs, emphasizing that JECFA recommendations on tolerable/intake levels should be the primary basis (with other expert advice acceptable in urgent cases) and specifying required analytical, intake and methodological details.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## Technological considerations",
+      "summary": "Annex guidance requiring information on contamination source, product distribution, proposed source‑related measures and adapted GMP/GAP, and urging assessment of technological possibilities (e.g., cleaning) and a detailed evaluation when theoretical intakes exceed toxicological reference values before deciding MLs.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "technological considerations",
+        "contamination control"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "## Risk assessment and risk management considerations",
+      "summary": "Reiterates that risk assessment and risk management for contaminants follow the Working Principles for Risk Analysis for Food Safety for Application by Governments (CXG 62-2007).",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk management considerations",
+        "risk analysis reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## Establishment of maximum levels",
+      "summary": "Sets guidance for establishing Codex maximum levels (MLs) for contaminants in food/feed: communicate when no ML is needed; set MLs only for contaminants posing significant public-health and trade concerns and for foods significant to total exposure; aim for levels as low as reasonably achievable consistent with toxicology and current technology (GMP/GAP); base proposals on multi-country data and permit product-group MLs where appropriate; prefer geometric numerical values; apply MLs to representative lot samples with specified sampling and validated analytical methods unless lower limits are required for public health; clearly define the contaminant (including relevant metabolites/indicators) and the product/portion and the weight basis (fresh/dry/fat); include provisions for fat-soluble contaminants, processed and multi-ingredient products using conversion factors where appropriate; prefer MLs acceptable by theoretical intake/risk estimates and require intake calculations, exposure assessment, and documented risk-management conclusions with proposals and for any governmental non-acceptance.",
+      "categories": [
+        "risk management",
+        "analysis sampling",
+        "contaminants",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "maximum level establishment",
+        "no maximum level",
+        "maximum level criteria",
+        "public health criteria",
+        "exposure criteria",
+        "as low achievable",
+        "proposal data",
+        "product group levels",
+        "numerical values",
+        "lot sampling",
+        "method capability",
+        "analyte definition",
+        "ml product basis",
+        "fat-soluble ml",
+        "processed product ml",
+        "ml risk basis",
+        "ml assessment heading",
+        "dietary exposure assessment",
+        "animal carryover assessment",
+        "intake calculation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Introduction",
+      "summary": "Section heading only (Introduction) with no substantive content.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "introduction heading"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "The format for the Schedule shall contain the following elements:",
+      "summary": "Specifies the Schedule format elements for each contaminant: contaminant name and synonyms, JECFA meeting reference, toxicological guidance value (e.g. PMTDI/PTWI), contaminant definition, reference to source-directed measures or codes of practice if relevant, and a list of Codex MLs/GLs presented by commodity name, numerical value and units, portion of commodity to which the level applies, and notes/remarks including relevant Codex standards and definitions.",
+      "categories": [
+        "other",
+        "documentation",
+        "definition"
+      ],
+      "subcategories": [
+        "schedule format heading",
+        "contaminant name",
+        "synonyms listing",
+        "jecfa reference",
+        "toxicological value",
+        "contaminant definition",
+        "source measure reference",
+        "ml list elements",
+        "commodity name",
+        "ml value units",
+        "commodity portion",
+        "notes remarks"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "FORMAT OF THE GSCTFF",
+      "summary": "Non-substantive table/index fragment showing the GSCTFF schedule title and an index of contaminants with page numbers (e.g., mycotoxins, metals, radionuclides, others).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "gsctff format heading",
+        "index heading",
+        "table header",
+        "table separator",
+        "index entry",
+        "table fragment",
+        "contaminant entry"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "EXPLANATORY NOTES",
+      "summary": "Provides explanatory notes defining the meaning and use of Schedule fields: JECFA references, toxicological guidance values (per kg bw), contaminant definitions, synonyms/codes, commodity/product naming and references to Codex standards or CXM 4 for definitions, and the portion of the commodity/product to which MLs/GLs apply.",
+      "categories": [
+        "other",
+        "documentation",
+        "risk assessment",
+        "definition",
+        "food category system",
+        "contaminants"
+      ],
+      "subcategories": [
+        "explanatory notes heading",
+        "reference note",
+        "table separator",
+        "toxicological guidance",
+        "contaminant definition",
+        "synonyms and codes",
+        "commodity references",
+        "applies to portion"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "doc_id": "2438cffb-0f5a-4506-8e5f-ef63053d1fa8",
+  "title": "GUIDELINES FOR THE SAFE USE AND REUSE OF WATER IN FOOD PRODUCTION AND PROCESSING",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR THE SAFE USE AND REUSE OF WATER IN FOOD PRODUCTION AND PROCESSING",
+      "summary": "Document title: Guidelines for the safe use and reuse of water in food production and processing.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXG 100-2023",
+      "summary": "Identifies the document code as CXG 100-2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 2023",
+      "summary": "States that the guidelines were adopted in 2023.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. INTRODUCTION",
+      "summary": "Explains water's critical role across the food chain and the risks it can pose, advocates a risk-based assessment of water fitness for each intended use considering source, treatment, subsequent controls and intended food use, and notes annexes provide product-specific guidance and decision tools.",
+      "categories": [
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background context",
+        "hazard context",
+        "risk based approach",
+        "hazard analysis",
+        "purpose statement",
+        "annex reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. OBJECTIVES",
+      "summary": "States the guidelines aim to provide FBOs and competent authorities with guidance on applying a risk-based approach to use and reuse water fit for purpose and to offer practical tools (e.g., decision tree tools) and example risk-based microbiological criteria to support water risk evaluation within food hygiene systems.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives statement",
+        "guidance objective"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. PURPOSE AND SCOPE",
+      "summary": "Defines the scope as a framework of principles and examples for applying a risk-based approach to determine whether water sourced, used, or reused in food production and processing is fit for purpose with regard to microbiological hazards (parasites, bacteria, viruses).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4. USE",
+      "summary": "States the document is intended for food business operators (primary producers, packing houses, manufacturers, processors) and competent authorities and should be used alongside relevant Codex texts (e.g., General Principles of Food Hygiene and various codes of practice).",
+      "categories": [
+        "scope",
+        "documentation"
+      ],
+      "subcategories": [
+        "use heading",
+        "intended users",
+        "related texts"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5. GENERAL PRINCIPLES",
+      "summary": "Sets general principles that water (and ice/steam) must be fit for intended purpose via a risk-based evaluation of microbiological, chemical and physical hazards; reused water must be treated/reconditioned, monitored and validated; water management must be part of the FBO's food hygiene system; and water used as an ingredient must be potable.",
+      "categories": [
+        "scope",
+        "risk management",
+        "processing",
+        "hygiene",
+        "composition"
+      ],
+      "subcategories": [
+        "principles heading",
+        "fit for purpose",
+        "reconditioning treatment",
+        "food hygiene system",
+        "ingredient water"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "6. DEFINITIONS",
+      "summary": "Provides definitions of key terms used in the guidelines, including clean water, potable water, recirculated/reclaimed/recycled/reuse water, reconditioning, wastewater, water fit for purpose, and water sourcing.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "introductory clause",
+        "clean water",
+        "potable water",
+        "recirculated water",
+        "reclaimed water",
+        "reconditioning",
+        "recycled water",
+        "reuse water",
+        "wastewater",
+        "fit for purpose",
+        "water sourcing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "7. WATER FIT-FOR-PURPOSE ASSESSMENT",
+      "summary": "Requires water fit-for-purpose assessments across all sectors and steps of the food chain using a risk-based approach that relies on full knowledge of the water system, hazards and controls, routine risk-based monitoring and verification, and allows use of descriptive, semi‑quantitative and quantitative microbial water assessment (QMWA) approaches.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "assessment heading",
+        "assessment requirements",
+        "hazard assessment",
+        "monitoring verification",
+        "risk assessment approaches",
+        "descriptive assessment",
+        "semi-quantitative assessment",
+        "quantitative assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 8. WATER SAFETY MANAGEMENT",
+      "summary": "Explains that water fit-for-purpose assessments inform management decisions and target setting, and that risks should be managed within a structured food hygiene system using mapping, hazard analysis, prioritisation (e.g., semi‑quantitative matrices) and treatment or reconditioning based on hazard analysis to eliminate or reduce hazards.",
+      "categories": [
+        "risk management",
+        "processing"
+      ],
+      "subcategories": [
+        "management heading",
+        "target objectives",
+        "water risk control",
+        "hazard analysis",
+        "risk prioritization",
+        "water treatment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## 9. DECISION SUPPORT SYSTEMS",
+      "summary": "Recommends decision support systems (e.g., decision trees, matrices) as risk management tools to help stakeholders decide if water is fit for purpose across diverse food production contexts and refers to an example risk‑based DSS tool (Figure 1).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "decision support heading",
+        "decision support tools",
+        "risk-based decisions",
+        "dss example"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "1. INTRODUCTION",
+      "summary": "States that water can transmit a wide range of microbiological pathogens (bacteria, viruses, parasites) to fresh produce and that water is used at every stage from pre-harvest to consumer, so control measures and an overall risk‑based management strategy are needed at all stages to prevent contamination.",
+      "categories": [
+        "scope",
+        "contaminants"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "microbiological hazards",
+        "water use overview"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2. PURPOSE AND SCOPE",
+      "summary": "Sets out the annex purpose: to provide guidelines for safe sourcing, use and reuse of water in direct and indirect contact with fresh produce using a fit‑for‑purpose, risk‑based approach, recommending GHP, sector‑specific prevention/intervention strategies and examples for microbiological criteria and decision‑support tools.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "purpose and scope heading",
+        "purpose and scope"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3. USE",
+      "summary": "States that this annex is complementary and should be used in conjunction with the listed Codex documents (General Principles of Food Hygiene CXC 1-1969 and other specific Codex guidance on fresh produce and microbiological risk management/criteria/assessment).",
+      "categories": [
+        "scope",
+        "documentation"
+      ],
+      "subcategories": [
+        "use heading",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4. DEFINITIONS",
+      "summary": "Defines key terms used in the annex, including 'Biocide' as a chemical or microorganism intended to control harmful organisms and 'Fresh produce' as fruits, nuts, mushrooms, herbs and vegetables typically consumed raw or physically altered but remaining fresh and perishable.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "biocide definition",
+        "fresh produce definition"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5. PRE-HARVEST USE OF WATER",
+      "summary": "Requires an adequate supply of water that is fit for purpose for primary production operations (irrigation, pesticide/fertilizer application, frost protection, etc.), notes factors that influence microbiological risk (source, infrastructure, irrigation type, timing) and states water contacting edible portions must not compromise produce safety.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "FRESH PRODUCE",
+      "summary": "Section heading only ('FRESH PRODUCE') and does not contain substantive requirements or definitions by itself.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "section heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.1 Water sources",
+      "summary": "Requires growers to identify all water sources used in primary production and notes that, if properly constructed and maintained, lower‑risk sources include deep wells, non‑influenced shallow wells and hygienically collected rainwater; it lists preventive protection measures (source segregation, fencing, manure setbacks, covered storage, well construction, irrigation maintenance) and says higher‑risk sources (wastewater, surface water) may require expert assessment and treatment options (chemical, filtration, UV, storage) with evaluation of efficacy.",
+      "categories": [
+        "scope",
+        "risk management",
+        "hygiene",
+        "packaging",
+        "processing"
+      ],
+      "subcategories": [
+        "water sources heading",
+        "water source identification",
+        "deep well source",
+        "shallow well source",
+        "rainwater source",
+        "preventive measures",
+        "source segregation",
+        "source protection",
+        "manure setback",
+        "system hygiene",
+        "storage tank cover",
+        "well protection",
+        "irrigation system maintenance",
+        "water source treatment",
+        "wastewater treatment",
+        "surface water treatment"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.2 Assessing and testing of water",
+      "summary": "Obliges growers/operators to assess microbiological water quality as prescribed by the competent authority and use results to inform water use and corrective actions, with testing frequency based on source, prior results and environmental risks; specifies what to document (sampling locations, validated methods, parameters, frequency, interpretation) and lists corrective actions and treatment options (GAPs, fencing, well maintenance, application changes, filtration, chemical treatment, holding ponds) with verification testing and contingency planning.",
+      "categories": [
+        "analysis sampling",
+        "other",
+        "risk management",
+        "processing",
+        "storage"
+      ],
+      "subcategories": [
+        "water testing heading",
+        "water quality assessment",
+        "decision tree figure",
+        "image placeholder",
+        "testing frequency",
+        "indicator organism testing",
+        "reassessment triggers",
+        "testing requirements",
+        "sampling location",
+        "test methods",
+        "recorded parameters",
+        "results interpretation",
+        "corrective action use",
+        "water corrective actions",
+        "animal exclusion",
+        "gaps improvement",
+        "well maintenance",
+        "sediment control",
+        "water system maintenance",
+        "application method change",
+        "harvest interval",
+        "water filtration",
+        "chemical treatment",
+        "pond construction",
+        "verification testing"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.3 Water for irrigation (including greenhouses)",
+      "summary": "States that irrigation method, timing and water quality determine contamination risk (overhead irrigation presents highest risk; subsurface/drip the least) and that water must be fit for purpose, with special attention when water contacts edible portions or when produce traps water; recommends GAPs such as no‑harvest zones, recordkeeping, avoiding high‑risk sources, avoiding spraying immediately before harvest, system inspection and fertilizer storage away from water, and keeping water testing records.",
+      "categories": [
+        "processing",
+        "risk management",
+        "documentation",
+        "hygiene",
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "irrigation heading",
+        "irrigation risk factors",
+        "fit for purpose",
+        "direct contact irrigation",
+        "crop water retention",
+        "postharvest wash",
+        "irrigation gaps",
+        "no harvest zones",
+        "irrigation records",
+        "water source protection",
+        "water source selection",
+        "gaps adoption",
+        "crop water risk",
+        "preharvest water use",
+        "irrigation splash control",
+        "irrigation inspection",
+        "fertilizer storage",
+        "water testing records"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.4 Water for fertilizers, pest control and other agricultural chemicals",
+      "summary": "Requires that water used to apply water‑soluble fertilizers, pesticides and other agricultural chemicals that contact produce be of the same quality as water for direct contact irrigation and not compromise produce safety, noting that human pathogens can survive and multiply in some agrichemicals.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "processing heading",
+        "chemical water quality"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    }
+  ]
+}

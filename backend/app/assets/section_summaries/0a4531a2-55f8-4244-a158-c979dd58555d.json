@@ -1,0 +1,1584 @@
+{
+  "doc_id": "0a4531a2-55f8-4244-a158-c979dd58555d",
+  "title": "Terrestrial Animal Health Code",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "Terrestrial Animal Health Code",
+      "summary": "Document title: 'Terrestrial Animal Health Code' (non-substantive title entry).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "General provisions",
+      "summary": "General provisions section lists edition history and contains a disclaimer that designations and presentation do not imply WOAH opinions on legal or development status of countries nor endorsement of specific companies or products.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "general provisions heading",
+        "image placeholder",
+        "edition information",
+        "volume information",
+        "disclaimer text"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## © WORLD ORGANISATION FOR ANIMAL HEALTH",
+      "summary": "Non-substantive copyright heading attributing the work to the World Organisation for Animal Health.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "copyright heading"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "All World Organisation for Animal Health (WOAH) publications are protected by international copyright law. Extracts may be copied, reproduced, translated, adapted or published in journals, documents, books, electronic media and any other  medium  destined  for  the  public,  for  information,  educational  or  commercial  purposes,  provided  prior  written permission has been granted by the WOAH. The designations and denominations employed and the presentation of the  material  in  this publication  do  not  imply  the  expression  of  any  opinion  whatsoever  on  the  part  of  the  WOAH concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers and boundaries.",
+      "summary": "Copyright notice stating WOAH publications are protected by international copyright law, describing conditions for copying or reproducing extracts (prior written permission) and repeating the disclaimer about designations and presentation not implying WOAH opinions on legal status or boundaries.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "copyright notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "SECTION 1. ANIMALDISEASE DIAGNOSIS,SURVEILLANCE ANDNOTIFICATION",
+      "summary": "Table of contents heading for 'ANIMAL DISEASE DIAGNOSIS, SURVEILLANCE AND NOTIFICATION' listing chapter titles (notification, inclusion criteria, listed diseases, surveillance, vectors, procedures for official recognition, and disease‑specific WOAH applications) with page references; not substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Chapter 1.1.  | Notification of diseases and provision of epidemiological information",
+      "summary": "Table of contents entry for Chapter 1.1 'Notification of diseases and provision of epidemiological information'; no substantive provisions in this item.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Chapter 1.2.  | Criteria for the inclusion of diseases, infections and infestations in the WOAHlist",
+      "summary": "Table of contents entry for Chapter 1.2 'Criteria for the inclusion of diseases, infections and infestations in the WOAH list'; not a substantive section.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Chapter 1.3.  | Diseases, infections and infestations listedbyWOAH",
+      "summary": "Table of contents entry for Chapter 1.3 'Diseases, infections and infestations listed by WOAH'; this is a TOC item, not the substantive list itself.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Chapter 1.4.  | Animal health surveillance",
+      "summary": "Table of contents entry for Chapter 1.4 'Animal health surveillance'; no substantive requirements are provided in this listing.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Chapter 1.5.  | Surveillance for arthropod vectors of animal diseases",
+      "summary": "Table of contents entry for Chapter 1.5 'Surveillance for arthropod vectors of animal diseases'; this is a chapter listing only.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Chapter 1.6.  | Procedures for official recognition of animal health status, endorsement of an official control programme, and publication of a self-declaration of animal health status,byWOAH",
+      "summary": "Table of contents entry for Chapter 1.6 'Procedures for official recognition of animal health status, endorsement of an official control programme, and publication of a self‑declaration of animal health status, by WOAH'; TOC only, not substantive.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Chapter 1.7.  | Application for official recognition by WOAHoffree status for African horse sickness",
+      "summary": "Table of contents entry for Chapter 1.7 'Application for official recognition by WOAH of free status for African horse sickness'; not substantive text.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Chapter 1.8.  | Application for official recognition by WOAHofrisk status for bovine spongiform encephalopathy",
+      "summary": "Table of contents entry for Chapter 1.8 'Application for official recognition by WOAH of risk status for bovine spongiform encephalopathy'; this is a TOC item only.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "Chapter 1.9.  | Application for official recognition by WOAHoffree status for classical swine fever",
+      "summary": "Table of contents entry for Chapter 1.9 'Application for official recognition by WOAH of free status for classical swine fever'; no substantive provisions included here.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Chapter 1.10.  | Application for official recognition by WOAHoffree status for contagious bovine pleuropneumonia",
+      "summary": "Compound table of contents entries covering Chapters 1.10–4.13 (including applications for WOAH free status for contagious bovine pleuropneumonia, foot and mouth disease, peste des petits ruminants, and multiple Section 2–4 chapter listings up to 'Disposal of dead animals'); this is TOC material, not substantive regulatory text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Chapter 1.11.  | Application for official recognition by WOAHoffree status for foot and mouth disease",
+      "summary": "Table of contents entry for Chapter 1.11 'Application for official recognition by WOAH of free status for foot and mouth disease'; TOC only.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "Chapter 1.12.  | Application for official recognition by WOAHoffree status for peste des petits ruminants",
+      "summary": "Table of contents entry for Chapter 1.12 'Application for official recognition by WOAH of free status for peste des petits ruminants'; not substantive.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "SECTION 2.    | RISK ANALYSIS",
+      "summary": "Table of contents heading for 'RISK ANALYSIS' listing Chapters 2.1 and 2.2 (Import risk analysis; criteria for assessing commodity safety); this is a TOC entry, not substantive content.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Chapter 2.1.  | Import risk analysis",
+      "summary": "Table of contents entry for Chapter 2.1 'Import risk analysis'; no substantive analysis or requirements are provided here.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Chapter 2.2.  | Criteria applied by WOAHfor assessing the safety of commodities",
+      "summary": "Table of contents entry for Chapter 2.2 'Criteria applied by WOAH for assessing the safety of commodities'; this is a chapter listing only.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "SECTION 3.    | QUALITYOFVETERINARYSERVICES",
+      "summary": "Table of contents heading for 'QUALITY OF VETERINARY SERVICES' listing Chapters 3.1–3.5 (introduction, quality, evaluation, legislation, communication); TOC material, not substantive.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Chapter 3.1.  | Introduction to recommendations on Veterinary Services",
+      "summary": "Table of contents entry for Chapter 3.1 'Introduction to recommendations on Veterinary Services'; no substantive recommendations included in this listing.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "Chapter 3.2.  | Quality of Veterinary Services",
+      "summary": "Table of contents entry for Chapter 3.2 'Quality of Veterinary Services'; this is a TOC item rather than substantive text.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Chapter 3.3.  | Evaluation of Veterinary Services",
+      "summary": "Table of contents entry for Chapter 3.3 'Evaluation of Veterinary Services'; no substantive provisions are present in this entry.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "Chapter 3.4.  | Veterinary legislation",
+      "summary": "Table of contents entry only: chapter listing for veterinary legislation (Section 3.4) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "Chapter 3.5.  | Communication",
+      "summary": "Table of contents entry only: chapter listing for communication (Section 3.5) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "SECTION 4.    | DISEASEPREVENTIONANDCONTROL",
+      "summary": "Section heading and table of contents: lists chapters in Section 4 on prevention and control of transmissible animal diseases (identification/traceability, zoning/compartmentalisation, semen/embryo handling, disposal, disinfection, vaccination, official control programmes, etc.) and provides chapter page references rather than substantive text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Chapter 4.1.  | Introduction to recommendations for the prevention and control of transmissible animal diseases",
+      "summary": "Table of contents entry only: chapter listing for 'Introduction to recommendations for the prevention and control of transmissible animal diseases' (Chapter 4.1) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "Chapter 4.2.  | General principles on identification and traceability of live animals",
+      "summary": "Table of contents entry only: chapter listing for 'General principles on identification and traceability of live animals' (Chapter 4.2) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Chapter 4.3.  | Design and implementation of identification systems to achieve animal traceability",
+      "summary": "Table of contents entry only: chapter listing for 'Design and implementation of identification systems to achieve animal traceability' (Chapter 4.3) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "Chapter 4.4.  | Zoning and compartmentalisation",
+      "summary": "Table of contents entry only: chapter listing for 'Zoning and compartmentalisation' (Chapter 4.4) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "Chapter 4.5.  | Application of compartmentalisation",
+      "summary": "Table of contents entry only: chapter listing for 'Application of compartmentalisation' (Chapter 4.5) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Chapter 4.6.  | Semen collection, processing and storage",
+      "summary": "Table of contents entry only: chapter listing for 'Semen collection, processing and storage' (Chapter 4.6) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "Chapter 4.7.  | Collection and processing of bovine, small ruminant and porcine semen",
+      "summary": "Table of contents entry only: chapter listing for 'Collection and processing of bovine, small ruminant and porcine semen' (Chapter 4.7) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "Chapter 4.8.  | Collection and processing of in vivo derived embryos from livestock and equids",
+      "summary": "Table of contents entry only: chapter listing for 'Collection and processing of in vivo derived embryos from livestock and equids' (Chapter 4.8) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "Chapter 4.9.  | Collectionandprocessingofoocytesand invitroproducedembryosfromlivestockandhorses",
+      "summary": "Table of contents entry only: chapter listing for 'Collection and processing of oocytes and in vitro produced embryos from livestock and horses' (Chapter 4.9) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "Chapter 4.10.  | Collection andprocessing of micromanipulated oocytes orembryos fromlivestockandhorses",
+      "summary": "Table of contents entry only: chapter listing for 'Collection and processing of micromanipulated oocytes or embryos from livestock and horses' (Chapter 4.10) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "Chapter 4.11.  | Collection and processing of laboratory rodent and rabbit oocytes or embryos",
+      "summary": "Table of contents entry only: chapter listing for 'Collection and processing of laboratory rodent and rabbit oocytes or embryos' (Chapter 4.11) with no substantive provisions in this excerpt.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "Chapter 4.12.  | Somatic cell nuclear transfer in production livestock and horses",
+      "summary": "Table of contents entry: lists 'Somatic cell nuclear transfer in production livestock and horses' (Chapter 4.12, p.179) and indicates the following chapter on 'Disposal of dead animals' (Chapter 4.13), serving as a contents reference rather than substantive text.",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "chapter listing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "F O R E W O R D",
+      "summary": "Heading only: 'FOREWORD' appears as a document foreword heading with no substantive text in this excerpt.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "foreword heading"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "A.  Introduction",
+      "summary": "States that the WOAH Terrestrial Animal Health Code provides science‑based standards to improve terrestrial animal health, welfare and veterinary public health and advises Veterinary Authorities to use those standards to establish measures for early detection, reporting, control or eradication of pathogens (including zoonoses) and to prevent their spread via trade while avoiding unjustified trade barriers, notes that absence of specific chapters does not preclude risk‑based measures, and indicates chapter adoption/revision years and online availability.",
+      "categories": [
+        "scope",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "purpose statement",
+        "applicability",
+        "general purpose",
+        "risk-based measures",
+        "revision dates",
+        "website reference"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "B. Terrestrial Code content",
+      "summary": "Explains that the Terrestrial Code includes a Glossary for key terms, that '(under study)' indicates provisions not yet adopted, and summarizes the purpose of Sections 1–7 (diagnosis/notification; import risk analysis; veterinary services standards; disease prevention/control; sanitary measures for trade; preventive measures in production; animal welfare) and Sections 8–16 (disease‑specific prevention measures), noting model certificates and guidance for importing/exporting authorities.",
+      "categories": [
+        "other",
+        "definition",
+        "scope",
+        "risk assessment",
+        "inspection certification",
+        "processing",
+        "documentation",
+        "hygiene",
+        "risk management"
+      ],
+      "subcategories": [
+        "content heading",
+        "glossary use",
+        "document status",
+        "diagnosis surveillance",
+        "import risk analysis",
+        "veterinary services standards",
+        "sanitary measures",
+        "veterinary certification",
+        "production biosecurity",
+        "animal welfare scope",
+        "import risk prevention"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "C.  Specific issues",
+      "summary": "Summarizes specific issues addressed across the Code including compulsory notification of listed/emerging diseases, recommended use of specified diagnostic tests and vaccines per the Terrestrial Manual, principles for declaring freedom from disease, zoning and compartmentalisation for control and trade, standards for collection/processing of semen and embryos (including micromanipulation and cloning), bee disease control, poultry biosecurity and other targeted measures such as non‑human primate movement controls.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "1) Notification",
+      "summary": "States that Chapter 1.1 describes Member Countries' notification obligations under the Office International des Epizooties statutes, making listed and emerging diseases compulsorily notifiable and encouraging reporting of other epidemiologically significant animal health events.",
+      "categories": [
+        "scope",
+        "official control"
+      ],
+      "subcategories": [
+        "notification heading",
+        "notification obligations"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "2) Diagnostic tests and vaccines",
+      "summary": "Recommends that specified diagnostic tests and vaccines cited in Terrestrial Code chapters be used with reference to the WOAH Terrestrial Manual and requires experts in diagnostic and vaccine-production facilities to be fully familiar with the Manual's standards.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "diagnostic tests",
+        "diagnostic tests reference"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "3) Freedom from a disease, infection or infestation",
+      "summary": "States that Article 1.4.6 gives general principles for declaring a country or zone free from a disease, infection or infestation when no disease-specific chapter provides requirements.",
+      "categories": [
+        "scope",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "freedom from disease",
+        "disease freedom declaration"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "4) Prevention and control",
+      "summary": "Describes prevention and control measures across chapters: 4.4–4.5 set standards for establishing zones and compartments for disease control and trade; 4.6–4.12 prescribe measures for collection and processing of semen and embryos (including micromanipulation and cloning) to mitigate animal health risks; 4.8 notes inclusion of non-listed diseases for Member information; 4.15 covers bee disease control and trade implications; and Chapters 6.5, 6.6, 6.13 and 6.14 provide poultry biosecurity and Salmonella on‑farm prevention recommendations.",
+      "categories": [
+        "scope",
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "prevention control heading",
+        "zoning compartmentalisation",
+        "semen embryo processing",
+        "bee disease control",
+        "farm biosecurity"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "5) Trade requirements",
+      "summary": "States that international animal health trade measures should be based on WOAH standards but that a Member Country may permit imports under different conditions and must scientifically justify any more stringent measures.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "trade requirements heading",
+        "import conditions"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "3. FMD eradication",
+      "summary": "Requires countries/zones seeking recognition of FMD eradication to provide a detailed history of FMD (including dates, sources, outbreak distribution, species affected, last case and strains) and a description of the eradication strategy and corrective actions; it also requires comprehensive disclosure on vaccination policy and practice (legislation, dates, vaccine types/strains, potency/formulation, species vaccinated, identification and fate of vaccinated animals, certification/records, compliance with Terrestrial Manual Chapter 3.1.8, and postvaccination monitoring where applicable).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "ii) Was vaccination ever used in the zone ? If so:",
+      "summary": "Heading prompting disclosure of whether vaccination was ever used in the zone; no substantive requirements in this line other than the question.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "6. -Provide the date when the last vaccination was carried out;",
+      "summary": "Requires reporting the date when the last vaccination was carried out in the zone.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "vaccination history"
+      ],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "7. -What type of vaccine was used?",
+      "summary": "Requires specifying the type of vaccine that was used.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "vaccine details"
+      ],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "8. -What species were vaccinated?",
+      "summary": "Requires identifying which species were vaccinated.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "vaccination species"
+      ],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "9. -How were vaccinated animals identified?",
+      "summary": "Requires describing how vaccinated animals were identified.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "animal identification"
+      ],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "10. -What was the fate of those animals?",
+      "summary": "Requires stating the fate or disposition of the vaccinated animals.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "animal fate"
+      ],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "12. -iii) In addition, if vaccination was applied during the past 24 months, provide a description and justification of the vaccination strategy and programme, including the following:",
+      "summary": "If vaccination occurred in the past 24 months, requires a detailed description and justification of the vaccination strategy and programme including vaccine strains, potency/formulation/purity and any matching, species vaccinated, identification methods, certification/recordkeeping, and evidence of compliance with Terrestrial Manual Chapter 3.1.8.",
+      "categories": [
+        "inspection certification",
+        "documentation"
+      ],
+      "subcategories": [
+        "vaccination strategy",
+        "vaccine strains",
+        "vaccine potency",
+        "vaccinated species",
+        "vaccination identification",
+        "vaccination records",
+        "manual compliance"
+      ],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "19. -iv) If vaccination continues to be used in the rest of the country, give details of the species vaccinated and on the postvaccination monitoring programme.",
+      "summary": "Requires details of species vaccinated elsewhere in the country and the postvaccination monitoring programme if vaccination continues outside the zone.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "postvaccination monitoring"
+      ],
+      "page_range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "Sampling",
+      "summary": "Provides comprehensive sampling guidance for surveillance and monitoring: sampling should be statistically based and representative with specified criteria (source, species, category, health status, selection method, type, size), sample‑size calculation principles accounting for expected prevalence, clustering and preference for exact methods at low prevalence, recommended sample sources (food‑producing animals, food, feed, environment), and sample‑type specifications (e.g., at least 5 g faeces for bovine/porcine and whole caeca for poultry).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 318,
+        "end_page": 319
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "1. Sampling strategies",
+      "summary": "Advises that sampling be conducted on a statistical basis to ensure representativeness and robustness and lists criteria to consider (sample source, animal species and category, health status, selection method, sample type and size).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling strategies",
+        "statistical sampling",
+        "sample representativeness",
+        "sampling robustness",
+        "sampling criteria"
+      ],
+      "page_range": {
+        "start_page": 318,
+        "end_page": 318
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "2. Sample size",
+      "summary": "Specifies that sample size must be sufficient to detect or estimate prevalence or trends in antimicrobial resistance, be representative and unbiased, account for expected prevalence, desired precision/confidence and clustering (adjusting calculations accordingly), prefer exact methods at low prevalence, and exclude samples from which bacteria were not isolated from prevalence calculations.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample size heading",
+        "sample size guidance"
+      ],
+      "page_range": {
+        "start_page": 318,
+        "end_page": 318
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "3. Sample sources (Table 1)",
+      "summary": "Requires Member Countries to assess their production systems and target sampling sources most relevant to risk—food‑producing animals, food products, feed and the environment—with resource allocation guided by production volume and prevalence of resistant bacteria.",
+      "categories": [
+        "analysis sampling",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "sample sources heading",
+        "risk source assessment",
+        "food animal source",
+        "food source",
+        "feed source",
+        "environment source"
+      ],
+      "page_range": {
+        "start_page": 318,
+        "end_page": 318
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "4. Type of sample to be collected (Table 1)",
+      "summary": "Specifies minimum faecal sample amounts for isolation of resistant bacteria: at least 5 g from bovine and porcine samples and whole caeca from poultry.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample type heading",
+        "faecal sample type"
+      ],
+      "page_range": {
+        "start_page": 318,
+        "end_page": 318
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "4. Type of sample to be collected (Table 1) Faecal samples should be collected in amounts sufficient for isolation of the resistant bacteria of concern (at least 5 g from bovine and porcine and whole caeca from poultry ).",
+      "summary": "Specifies minimum faecal sample amounts for isolation of resistant bacteria: at least 5 g from bovine and porcine samples and whole caeca from poultry.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample type heading",
+        "faecal sample type"
+      ],
+      "page_range": {
+        "start_page": 318,
+        "end_page": 318
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "Table 1. Examples of sampling sources, sample types and output",
+      "summary": "Provides Table 1 examples linking sampling sources (herd/flock, slaughterhouse, processing, retail, feed, environment) and sample types (faeces, caeca, carcass, food products) to surveillance outputs (prevalence and exposure data) and notes additional stratification needs (age, production type, antimicrobial use).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling table"
+      ],
+      "page_range": {
+        "start_page": 319,
+        "end_page": 319
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "Bacteria subjected to surveillance and monitoring",
+      "summary": "Identifies categories of bacteria for surveillance, emphasizing animal bacterial pathogens prioritized by countries and stating AMR surveillance objectives (detect emerging resistance, track susceptibility changes, support risk analysis, inform veterinarians, and enable epidemiology/trend analysis); notes AMR data come from diagnostic labs or active monitoring but accurate prevalence estimates require an active sampling programme.",
+      "categories": [
+        "analysis sampling",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "bacteria heading",
+        "bacteria categories",
+        "surveillance purpose",
+        "surveillance objectives",
+        "risk analysis",
+        "treatment support",
+        "trend analysis",
+        "monitoring sources",
+        "active sampling"
+      ],
+      "page_range": {
+        "start_page": 319,
+        "end_page": 320
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "2. Zoonotic bacteria",
+      "summary": "Requires sampling of Salmonella from food-producing animals, animal-derived food products and relevant feed, recommending animal samples be taken from healthy animals at slaughter/abattoir and feed samples at the feed mill for consistency and harmonisation.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "pathogen section",
+        "pathogen subsection",
+        "sample collection"
+      ],
+      "page_range": {
+        "start_page": 320,
+        "end_page": 320
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "3. Commensal bacteria",
+      "summary": "Permits sampling of commensal bacteria (E. coli and Enterococcus faecium/faecalis) from feed, food-producing animals, their environment and animal-origin products intended for human consumption.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 321,
+        "end_page": 321
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "3.1 Storage of bacterial strains",
+      "summary": "Recommends preserving isolates at least until reporting is complete and preferably maintaining permanent bacterial strain collections to enable retrospective studies (Article 6.8.7).",
+      "categories": [
+        "storage",
+        "other"
+      ],
+      "subcategories": [
+        "strain storage",
+        "strain preservation",
+        "article reference"
+      ],
+      "page_range": {
+        "start_page": 321,
+        "end_page": 321
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "3. Antimicrobial susceptibility testing",
+      "summary": "States that surveillance programmes should include clinically important antimicrobials used in human and veterinary medicine (referring to the WOAH list) while acknowledging resource limits, and requires use of validated susceptibility testing methods per the Terrestrial Manual (Chapter 2.1.1) with results reported both qualitatively and quantitatively (MICs or inhibition zone diameters).",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "susceptibility testing",
+        "test panel selection",
+        "testing methods",
+        "article reference"
+      ],
+      "page_range": {
+        "start_page": 321,
+        "end_page": 321
+      }
+    },
+    {
+      "section_id": 70,
+      "order": 69,
+      "section": "3. Recording, storage and interpretation of data",
+      "summary": "Advises careful database design and long-term storage of raw laboratory data, recommends quantitative recording of results (MIC distributions or inhibition zone diameters) in a national database, and specifies metadata to capture where possible (sampling programme/date, animal species/production type, sample type/purpose, test method, geographical origin, animal factors, antimicrobial exposure and bacterial isolation rate).",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "data recording",
+        "database design",
+        "raw data storage",
+        "data exchange",
+        "mic recording",
+        "zone recording",
+        "recorded information",
+        "sampling details",
+        "species details",
+        "sample details",
+        "sampling purpose",
+        "method details",
+        "geographical origin",
+        "animal factors",
+        "antimicrobial exposure",
+        "isolation rate"
+      ],
+      "page_range": {
+        "start_page": 321,
+        "end_page": 322
+      }
+    },
+    {
+      "section_id": 71,
+      "order": 70,
+      "section": "Purpose",
+      "summary": "States the purpose is to describe an approach for monitoring quantities of antimicrobial agents used in food-producing animals.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 72,
+      "order": 71,
+      "section": "Definitions",
+      "summary": "Introductory heading indicating that definitions applicable to the Terrestrial Code follow.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition preamble"
+      ],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 73,
+      "order": 72,
+      "section": "Objectives",
+      "summary": "Explains that collecting antimicrobial usage data is essential for AMR risk analysis, interpreting surveillance, tracking trends, evaluating mitigation efforts and veterinary prescribing, and for transparency, risk assessment and communication (to be read with Chapters 6.8 and 6.11).",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "risk management objectives"
+      ],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 74,
+      "order": 73,
+      "section": "C H A P T E R   6 . 9 .",
+      "summary": "Chapter heading for Chapter 6.9 on monitoring quantities and usage patterns of antimicrobial agents used in food-producing animals (Article 6.9.1.).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 75,
+      "order": 74,
+      "section": "MONITORING OF THE QUANTITIES AND USAGE PATTERNS OF A N T I M I C R O B I A L A G E N T S U S E D I N F O O D - P R O D U C I N G A N I M A L S",
+      "summary": "Document heading repeating the title 'Monitoring of the quantities and usage patterns of antimicrobial agents used in food-producing animals' (non-substantive).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 76,
+      "order": 75,
+      "section": "Article 6.9.1.",
+      "summary": "Article marker 'Article 6.9.1.' with no substantive text in this excerpt.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "article marker"
+      ],
+      "page_range": {
+        "start_page": 323,
+        "end_page": 323
+      }
+    },
+    {
+      "section_id": 77,
+      "order": 76,
+      "section": "6.9.4 Development and standardisation of antimicrobial monitoring systems",
+      "summary": "Article heading for 6.9.4 on development and standardisation of antimicrobial monitoring systems (non-substantive in this excerpt).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 324,
+        "end_page": 324
+      }
+    },
+    {
+      "section_id": 78,
+      "order": 77,
+      "section": "1 Sources of antimicrobial data",
+      "summary": "Identifies basic data sources (customs, import/export, manufacturing, sales) and direct sources (regulatory registration authorities, wholesalers, retailers, pharmacists, veterinarians, feed stores/mills, pharmaceutical associations) for antimicrobial usage data and suggests requiring manufacturers to provide such information to regulators as part of antimicrobial registration.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "data sources",
+        "source types",
+        "basic sources",
+        "direct sources"
+      ],
+      "page_range": {
+        "start_page": 324,
+        "end_page": 324
+      }
+    },
+    {
+      "section_id": 79,
+      "order": 78,
+      "section": "2 Types and reporting formats of antimicrobial usage data",
+      "summary": "Requires at minimum reporting the annual mass (kg) of active antimicrobial ingredients used in food-producing animals and collection of supporting data (animal population by species/type and weights, dosage regimens and route of administration); specifies reporting formats (agent/class selection based on mechanisms and resistance data, international nomenclature, conversion of IUs to mass) and recommends breakdowns by species, route, type of use and, where possible, regional/local/herd/practice levels.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "reporting formats",
+        "use data type",
+        "usage measurement",
+        "animal population data",
+        "dosage information",
+        "agent classification",
+        "nomenclature standards",
+        "unit conversion",
+        "data breakdown",
+        "regional breakdown"
+      ],
+      "page_range": {
+        "start_page": 324,
+        "end_page": 325
+      }
+    },
+    {
+      "section_id": 80,
+      "order": 79,
+      "section": "Interpretation",
+      "summary": "States that interpretation of antimicrobial usage data should consider factors in WOAH risk assessment guidelines, notably number/percentage of animals treated, treatment regimens, type of use and route of administration.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "interpretation heading",
+        "interpretation criteria"
+      ],
+      "page_range": {
+        "start_page": 325,
+        "end_page": 325
+      }
+    },
+    {
+      "section_id": 81,
+      "order": 80,
+      "section": "Purpose and scope",
+      "summary": "Provides guidance for responsible and prudent use of antimicrobial agents in veterinary medicine for treatment, control and prevention in food- and non-food-producing animals to protect animal and human health and minimise antimicrobial resistance as part of a One Health approach.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose and scope"
+      ],
+      "page_range": {
+        "start_page": 326,
+        "end_page": 326
+      }
+    },
+    {
+      "section_id": 82,
+      "order": 81,
+      "section": "Objectives of responsible and prudent use",
+      "summary": "Sets objectives for responsible/prudent veterinary antimicrobial use (preserve drug effectiveness and safety, maintain animal health, prevent/reduce transfer of resistant organisms among animals/humans/environment, and protect food safety regarding residues) and recommends measures to achieve these goals such as improved husbandry, hygiene, biosecurity, vaccination, access to laboratory testing and alternatives to antimicrobials.",
+      "categories": [
+        "scope",
+        "risk management"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives statement",
+        "objectives list",
+        "mitigation measures"
+      ],
+      "page_range": {
+        "start_page": 326,
+        "end_page": 326
+      }
+    },
+    {
+      "section_id": 83,
+      "order": 82,
+      "section": "R E S P O N S I B L E   A N D   P R U D E N T   U S E   O F A N T I M I C R O B I A L   A G E N T S I N   V E T E R I N A R Y   M E D I C I N E",
+      "summary": "Document title heading 'Responsible and Prudent Use of Antimicrobial Agents in Veterinary Medicine' (non-substantive).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 326,
+        "end_page": 326
+      }
+    },
+    {
+      "section_id": 84,
+      "order": 83,
+      "section": "6.10.3 Responsibilities of the Competent Authorities",
+      "summary": "Article marker '6.10.3 Responsibilities of the Competent Authorities' with no substantive provisions included in this excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 327,
+        "end_page": 327
+      }
+    },
+    {
+      "section_id": 85,
+      "order": 84,
+      "section": "1 National Action Plan for Antimicrobial Resistance",
+      "summary": "Competent Authorities must design and implement the antimicrobial-resistance portion of their National Action Plan using a One Health approach aligned with WHO/FAO/WOAH/UNEP GAP, allocate budget and training/communication resources, conduct regular monitoring and evaluation, incorporate disease prevention, biosecurity and animal-health programmes to reduce antimicrobial use, and ensure integrated surveillance for antimicrobial use and resistance across animal, human, plant and environmental sectors in accordance with Chapters 1.4 and 6.8.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "national action plan",
+        "action plan measures",
+        "surveillance coordination"
+      ],
+      "page_range": {
+        "start_page": 327,
+        "end_page": 327
+      }
+    },
+    {
+      "section_id": 86,
+      "order": 85,
+      "section": "2 Regulatory approval",
+      "summary": "The Competent Authority is responsible for granting regulatory approval for veterinary medicinal products containing antimicrobials per the Terrestrial Code and must implement impartial registration procedures assessing quality, safety, efficacy and post‑marketing surveillance; importing countries lacking resources should assess import controls, verify exporter registration systems or seek technical cooperation and request exporting-country quality certificates, while approvals must be based on submitted data and accompanied by guidance on target species, route, dosage and withdrawal periods, and by risk–benefit evaluations for animals and humans, with VICH guidelines to be applied as appropriate.",
+      "categories": [
+        "inspection certification",
+        "official control",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "regulatory approval",
+        "approval authority",
+        "registration procedures",
+        "import measures",
+        "import controls",
+        "exporting country review",
+        "imported product quality",
+        "quality certificates",
+        "registration approval",
+        "vich guidelines",
+        "antimicrobial evaluation"
+      ],
+      "page_range": {
+        "start_page": 327,
+        "end_page": 327
+      }
+    },
+    {
+      "section_id": 87,
+      "order": 86,
+      "section": "1 Animal behaviour",
+      "summary": "Animal handlers must be experienced and competent, account for breed/sex/temperament/age and rearing history when handling livestock, avoid mixing animals likely to be hostile, design facilities to respect animals' personal space, and avoid sudden intrusion into animals' flight zones (which vary with tameness) to prevent panic, aggression or escape.",
+      "categories": [
+        "scope",
+        "training",
+        "other",
+        "hygiene",
+        "equipment"
+      ],
+      "subcategories": [
+        "topic heading",
+        "handler competence",
+        "animal behaviour",
+        "herd behaviour",
+        "animal mixing",
+        "facility design",
+        "flight zone"
+      ],
+      "page_range": {
+        "start_page": 362,
+        "end_page": 362
+      }
+    },
+    {
+      "section_id": 88,
+      "order": 87,
+      "section": "2. Distractions and their removal",
+      "summary": "Loading and unloading facilities should be designed or modified to minimise distractions that cause animals to balk, using measures such as adjusting lighting to avoid reflections and dark entrances, installing solid sides or shields to hide moving people/equipment, curving passages to avoid dead ends, removing loose objects, and levelling or concealing uneven floors.",
+      "categories": [
+        "scope",
+        "equipment"
+      ],
+      "subcategories": [
+        "topic heading",
+        "facility design",
+        "distraction removal",
+        "lighting adjustment",
+        "solid barriers",
+        "passage design",
+        "remove loose objects",
+        "floor surface"
+      ],
+      "page_range": {
+        "start_page": 362,
+        "end_page": 362
+      }
+    },
+    {
+      "section_id": 89,
+      "order": 88,
+      "section": "C H A P T E R   7 . 2",
+      "summary": "Chapter heading only: Chapter 7.2 (Transport of animals by sea) — no substantive requirements provided in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 362,
+        "end_page": 362
+      }
+    },
+    {
+      "section_id": 90,
+      "order": 89,
+      "section": "T R A N S P O R T   O F   A N I M A L S   B Y   S E A",
+      "summary": "Preamble stating that the recommendations in this chapter apply to live domesticated animals (cattle, buffaloes, deer, camelids, sheep, goats, pigs and equines) and may be applicable to other domesticated species.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 362,
+        "end_page": 362
+      }
+    },
+    {
+      "section_id": 91,
+      "order": 90,
+      "section": "Preamble: these recommendations apply to the following live domesticated animals: cattle, buffaloes, deer, camelids, sheep, goats, pigs and equines. They may also be applicable to other domesticated animals.",
+      "summary": "Applicability statement: the recommendations apply to live domesticated animals including cattle, buffaloes, deer, camelids, sheep, goats, pigs and equines, and may apply to other domesticated animals.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 362,
+        "end_page": 362
+      }
+    },
+    {
+      "section_id": 92,
+      "order": 91,
+      "section": "Article 7.2.1.",
+      "summary": "Obligation: the time animals spend on a journey should be kept to the minimum.",
+      "categories": [
+        "other",
+        "transport"
+      ],
+      "subcategories": [
+        "article reference",
+        "journey duration"
+      ],
+      "page_range": {
+        "start_page": 362,
+        "end_page": 362
+      }
+    },
+    {
+      "section_id": 93,
+      "order": 92,
+      "section": "Article 7.2.2.",
+      "summary": "Article reference only: Article 7.2.2. heading provided without substantive text.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "article reference"
+      ],
+      "page_range": {
+        "start_page": 362,
+        "end_page": 362
+      }
+    }
+  ]
+}

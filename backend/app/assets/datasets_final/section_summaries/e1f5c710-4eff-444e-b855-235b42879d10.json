@@ -1,0 +1,510 @@
+{
+  "doc_id": "e1f5c710-4eff-444e-b855-235b42879d10",
+  "title": "CODE OF PRACTICE FOR THE REDUCTION OF CONTAMINATION OF FOOD WITH POLYCYCLIC AROMATIC HYDROCARBONS (PAH) FROM SMOKING AND DIRECT DRYING PROCESSES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF PRACTICE FOR THE REDUCTION OF CONTAMINATION OF FOOD WITH POLYCYCLIC AROMATIC HYDROCARBONS (PAH) FROM SMOKING AND DIRECT DRYING PROCESSES",
+      "summary": "CXC 68-2009 Code of Practice providing background on PAH formation and dietary contributors and offering guidance to reduce PAH contamination from commercial smoking and direct drying, including objectives, scope, exclusions, cautions about interactions with other contaminants and microbiological safety, and numerous definitions of relevant terms.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "OBJECTIVES",
+      "summary": "States the Code's objective to guide national authorities and manufacturers in preventing and reducing PAH contamination during commercial smoking and direct drying, and recognizes smoking/drying benefits such as preservation and traditional product characteristics.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose guidance",
+        "benefits statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SCOPE",
+      "summary": "Defines the scope as addressing PAH contamination during commercial smoking (direct and indirect) and direct drying, excludes PAH from use of herbs/spices in smoking, indirect drying, other cooking/barbecuing and environmental contamination, and cautions that measures to reduce PAH should not increase other contaminants or reduce microbiological safety.",
+      "categories": [
+        "scope",
+        "contaminants"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusions",
+        "contaminant warning"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "DEFINITIONS",
+      "summary": "Provides definitions for key terms used in the Code, including contaminant, direct and indirect drying (and sun drying), HACCP, plant materials (as fuels), PAH, pyrolysis, smoke and smoke condensates, and direct/indirect smoking.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "14. Sun drying is a direct drying process where sunshine and wind are used for drying under circumstances open to the environment.",
+      "summary": "Defines sun drying as a direct drying process using sunshine and wind in circumstances open to the environment.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "sun drying"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "15. Drying, indirect is a drying process where the combustion gasses do not come into direct contact with the foods, where the hot air is heated via a heat exchanger, electricity or by other means.",
+      "summary": "Defines indirect drying as a drying process where combustion gases do not contact the food and hot air is heated via a heat exchanger, electricity or other means.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "indirect drying"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "16. HACCP: A system which identifies, evaluates, and controls hazards which are significant for food safety.",
+      "summary": "Defines HACCP as a system that identifies, evaluates and controls hazards significant for food safety.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "haccp definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "17. Plant materials , other is covering other types of fuels than woods used in the smoking or drying process, e.g. bagasse, corn cobs and coconut husk and shell.",
+      "summary": "Defines \"Plant materials, other\" as non-wood fuels used in smoking or drying (e.g., bagasse, corn cobs, coconut husk and shell).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "plant fuels"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "18. Polycyclic  aromatic hydrocarbons (PAH)  are  a  group  of contaminants  that  constitute  a large class of organic compounds containing two or more fused aromatic rings made up of carbon and hydrogen atoms.",
+      "summary": "Defines polycyclic aromatic hydrocarbons (PAH) as contaminants composed of two or more fused aromatic rings of carbon and hydrogen atoms.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pah definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "19. Pyrolysis is the chemical decomposition of organic materials by heating in the absence of oxygen or any other reagents, except possibly steam.",
+      "summary": "Defines pyrolysis as chemical decomposition of organic materials by heating in the absence of oxygen (except possibly steam).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "pyrolysis definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "20. Smoke consists of liquid and solid particulates suspended in a gaseous phase. Particles in the smoke, generally of a size of 0.2-0.4 µm (or as low as 0.05 to 1 µm), are estimated to constitute 90% of its overall weight. The chemical composition of smoke is complex and more than 300 components have been identified.",
+      "summary": "Defines smoke as liquid and solid particulates suspended in a gas phase (particles ~0.05–1 µm, typically 0.2–0.4 µm, constituting ~90% of smoke weight) and notes its complex composition with >300 identified components.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "smoke definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "21. Smoke condensates are products obtained by controlled thermal degradation of wood in a limited supply of oxygen (pyrolysis), subsequent condensation of the resulting smoke vapours, and fractionation of the resulting liquid products.",
+      "summary": "Defines smoke condensates as liquids obtained by controlled thermal degradation (pyrolysis) of wood, condensation of smoke vapours and fractionation of the resulting liquids.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "smoke condensates"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "22. Smoking of food is a process used as a preservation method to prolong the shelf life of food due to components of the smoke inhibiting growth of some microorganisms. The smoking process is furthermore used to achieve the characteristic taste and appearance of smoked food.",
+      "summary": "States that smoking is used to preserve food by inhibiting some microorganisms and to impart characteristic taste and appearance to smoked foods.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "smoking process"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "23. Smoking , direct is  a  smoking process, where the smoke is developed in the chamber in which the food is processed.",
+      "summary": "Defines direct smoking as a process in which smoke is generated in the same chamber where the food is processed.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "direct smoking"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "24. Smoking indirect is a process where smoke generators are used, and the smoke is being developed in a chamber, separate from where the food is smoked. The smoke may be cleaned in various ways, e.g. by use of a water filter or a tar condenser before being fed into the smoke chamber.",
+      "summary": "Defines indirect smoking as using separate smoke generators and a separate chamber to develop smoke, with optional cleaning (e.g., water filter or tar condenser) before feeding smoke into the smoking chamber.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "indirect smoking"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "GENERAL PRINCIPLES FOR REDUCING PAH CONTAMINATION IN FOOD",
+      "summary": "Obliges producers to identify and evaluate process points that generate higher PAH levels, implement appropriate control measures to minimize PAH while considering microbiological risks, organoleptic quality and feasibility, and to monitor and review those measures.",
+      "categories": [
+        "risk management",
+        "risk assessment",
+        "quality"
+      ],
+      "subcategories": [
+        "general principles heading",
+        "point analysis",
+        "point identification",
+        "point evaluation",
+        "source assessment",
+        "health impact",
+        "controllability",
+        "mitigation measures",
+        "control measures",
+        "microbiological risk",
+        "product quality",
+        "feasibility review",
+        "monitoring review"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "SMOKING",
+      "summary": "Notes that smoking has long been used to preserve meat and fish and that smoke imparts flavour, colour and contributes bacteriostatic and antioxidant effects to high‑protein foods.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "smoking heading",
+        "smoking benefits"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "Fuel used in smoking",
+      "summary": "States that woods are normally used for smoking but other plant fuels are used and can affect PAH formation; individual species and fuel moisture should be evaluated, resinous or chemically treated woods should be avoided, and non-plant fuels (diesel, tyres, waste oil) must not be used.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "fuel heading",
+        "fuel selection",
+        "wood evaluation",
+        "fuel restrictions"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Foodstuffs smoked",
+      "summary": "States that food position and distance from the smoke source affect PAH uptake, fat dripping into the fire increases PAH (preventable with perforated metal sheets), and producers must evaluate microbiological safety and organoleptic properties of the final product.",
+      "categories": [
+        "processing",
+        "hygiene",
+        "quality"
+      ],
+      "subcategories": [
+        "smoked foods heading",
+        "smoke chamber setup",
+        "fat drip control",
+        "microbiological quality",
+        "organoleptic quality"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Processing",
+      "summary": "Describes smoking process controls: four recognized process types (smouldering, thermostated plates, friction, smoke condensates), smoke production by pyrolysis (~300–450 °C) with flames to be avoided, technology choice (direct vs indirect), filtration/washing, oxygen and temperature management, minimizing smoking time consistent with cooking and safety, and notes smoke condensates generally yield lower PAH.",
+      "categories": [
+        "processing",
+        "classification"
+      ],
+      "subcategories": [
+        "processing heading",
+        "smoking methods",
+        "combustion conditions",
+        "process control",
+        "direct smoking control",
+        "smoking temperature classes",
+        "cold smoking",
+        "semi-warm smoking",
+        "hot smoking",
+        "generator selection",
+        "smoke filtration",
+        "oxygen control",
+        "temperature control",
+        "smoking time",
+        "smoke condensates"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## Post smoking treatment",
+      "summary": "Describes three cleaning approaches to reduce PAH: washing/scrubbing or cooling/filtering smoke before the chamber, rinsing or immersing the finished product to remove surface soot (not applicable to all products, e.g., many fish), and shaving off the product surface for solid foods, while noting washing may harm organoleptic quality or increase microbiological risk.",
+      "categories": [
+        "processing",
+        "quality"
+      ],
+      "subcategories": [
+        "post treatment heading",
+        "cleaning steps",
+        "smoke washing",
+        "product cleaning",
+        "surface shaving",
+        "post process washing",
+        "fish product quality"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "56. IMPORTANT POINTS TO CONSIDER AND RECOMMENDATIONS ON SMOKING",
+      "summary": "States that PAH can be minimized by identifying and evaluating critical points (HACCP may be applied) and provides detailed recommendations covering fuel selection, smoke generation and treatment, food positioning and composition, smoking process controls and post‑smoking cleaning.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "57. FUEL:",
+      "summary": "Recommends selecting wood by type, age and lignin content (avoid high‑lignin conifers), monitoring fuel moisture, evaluating alternative plant materials before use, prohibiting chemically treated woods and non‑plant fuels (diesel, tyres, waste oil), and considering taste impacts.",
+      "categories": [
+        "processing",
+        "quality"
+      ],
+      "subcategories": [
+        "fuel heading",
+        "wood selection",
+        "fuel moisture",
+        "fuel materials",
+        "chemical wood ban",
+        "alternative fuels",
+        "taste impact"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "58. Smoke developed and used in the process:",
+      "summary": "Advises that smoke composition depends on fuel, oxygen and pyrolysis temperature and on equipment design (e.g., pipe length), and recommends filtering, cooling or washing smoke and washing off smoke between generator and chamber where feasible.",
+      "categories": [
+        "processing",
+        "equipment"
+      ],
+      "subcategories": [
+        "smoke heading",
+        "smoke composition",
+        "chamber design",
+        "smoke filtering",
+        "smoke washing"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "59. Foodstuffs smoked:",
+      "summary": "Identifies key factors for smoked foods: position and distance from smoke source, food chemical composition (notably fat), surface deposits and suitability for consumption (e.g., prioritise smoking fish with skin), microbiological quality after processing, and organoleptic properties.",
+      "categories": [
+        "processing",
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "smoked foods",
+        "smoking conditions",
+        "food composition",
+        "surface suitability",
+        "microbiological quality",
+        "organoleptic quality"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "60. Smoking process:",
+      "summary": "Recommends process controls including replacing direct with indirect smoking where possible, assessing smoke generators for PAH output, adjusting airflow to avoid high glow‑zone temperatures, selecting appropriate chambers and air/smoke treatment, managing oxygen, limiting smoke contact time consistent with safety, controlling temperatures, preventing fat drips (e.g., perforated sheets), maintaining cleaning schedules, and considering smoke condensates as an alternative.",
+      "categories": [
+        "processing",
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "smoking process heading",
+        "smoking method",
+        "smoke generator assessment",
+        "airflow control",
+        "smoking chamber",
+        "oxygen control",
+        "smoking time",
+        "temperature control",
+        "fat drip control",
+        "cleaning schedule",
+        "smoke condensates"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "61. Post smoking processes:",
+      "summary": "Explains post‑smoking cleaning of the product (rinsing or immersion) can remove surface soot/PAH but is not suitable for all products (e.g., many fish) and may reduce organoleptic quality or increase microbiological risk.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "post smoking heading",
+        "post smoking cleaning"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

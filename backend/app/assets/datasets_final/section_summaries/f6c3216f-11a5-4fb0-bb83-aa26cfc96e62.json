@@ -1,0 +1,609 @@
+{
+  "doc_id": "f6c3216f-11a5-4fb0-bb83-aa26cfc96e62",
+  "title": "GUIDELINES FOR THE CONTROL OF SHIGA TOXIN-PRODUCING E. COLI (STEC) IN RAW BEEF, FRESH LEAFY VEGETABLES, RAW MILK AND RAW MILK CHEESES, AND SPROUTS CXG 99-2023",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR THE CONTROL OF SHIGA TOXIN-PRODUCING E. COLI (STEC) IN RAW BEEF, FRESH LEAFY VEGETABLES, RAW MILK AND RAW MILK CHEESES, AND SPROUTS CXG 99-2023",
+      "summary": "Document title: Guidelines for the Control of Shiga toxin-producing E. coli (STEC) in raw beef, fresh leafy vegetables, raw milk and raw milk cheeses, and sprouts (CXG 99-2023), adopted 2023.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "document adoption"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 INTRODUCTION",
+      "summary": "Introduces STEC as diverse Shiga-toxin-producing E. coli causing illness from asymptomatic infection to diarrhoea and HUS, describes key virulence genes (stx1/stx2, eae, aggR) and transmission routes (animal reservoirs, fecal contamination) and links to commodities (raw beef, leafy vegetables, sprouts, raw milk/cheeses); notes that control measures are commodity-specific, may reduce but not eliminate STEC, and are informed by JEMRA evaluations to support HACCP, national risk management, and equivalence assessment.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "risk management",
+        "contaminants",
+        "analysis sampling",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "scope heading",
+        "hazard overview",
+        "hazard characterization",
+        "control guidance",
+        "contamination sources",
+        "control measures",
+        "guideline basis",
+        "scientific evaluation",
+        "document structure",
+        "equivalence assessment",
+        "flexibility provision"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2. OBJECTIVES",
+      "summary": "Objectives: provides science-based, practical guidance for governments and food business operators to control STEC in raw beef, fresh leafy vegetables, raw milk intended for drinking, raw milk cheeses and sprouts, and explicitly does not set quantitative microbiological limits but describes control measures countries may adopt according to national risk management decisions.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 3. SCOPE AND USE OF THE GUIDELINES",
+      "summary": "These guidelines address STEC contamination of raw beef, fresh leafy vegetables, raw milk and raw milk cheeses, and sprouts, providing scientifically validated example control measures across a primary production‑to‑consumption chain as supplementary guidance to existing Codes; examples are indicative only, require local validation, and certain measures (e.g., physical/chemical/biological decontamination) may require competent authority approval, with the document intended for government risk managers and food business operators (FBOs).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "### 3.1 Scope",
+      "summary": "Applies to STEC that may contaminate raw beef, fresh leafy vegetables, raw milk and raw milk cheeses, and sprouts and focuses on providing scientifically validated practices to prevent, reduce, or eliminate STEC contamination in these commodities.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## 4. DEFINITIONS",
+      "summary": "Defines key terms used in the guidelines—including 'control measure', 'fresh leafy vegetables', 'indicator microorganisms', 'monitor', 'raw beef', 'raw milk', 'raw milk cheeses', 'STEC', 'sprouts', 'validation', and 'verification'—with explanatory notes on primal cuts; notably, 'raw milk' is milk not heated beyond 40°C or otherwise treated (processes such as microfiltration/bactofugation or heating above 40°C mean milk is not 'raw'), and STEC are defined as E. coli strains carrying stx genes and producing Shiga toxin.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "introductory statement",
+        "control measure",
+        "fresh leafy vegetables",
+        "indicator microorganisms",
+        "monitor definition",
+        "raw beef",
+        "raw milk",
+        "raw milk cheeses",
+        "stec definition",
+        "primal cut note",
+        "raw milk note",
+        "sprouts",
+        "validation definition",
+        "verification definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5. PRINCIPLES APPLYING TO CONTROL OF STEC IN RAW BEEF, FRESH LEAFY VEGETABLES, RAW MILK AND RAW MILK CHEESES, AND SPROUTS",
+      "summary": "Sets overarching principles: incorporate food safety risk analysis into STEC control for raw beef, fresh leafy vegetables, raw milk and cheeses, and sprouts, and encourage competent authorities to establish objective, science‑based risk management metrics (including targeting subtypes of concern) to meet public health goals.",
+      "categories": [
+        "scope",
+        "hygiene",
+        "risk management"
+      ],
+      "subcategories": [
+        "principles heading",
+        "good hygienic practice",
+        "risk analysis",
+        "risk management metrics"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "6. PRIMARY PRODUCTION-TO-CONSUMPTION APPROACH TO CONTROL MEASURES",
+      "summary": "Adopts a primary production‑to‑consumption flow to identify potential STEC control points across the food chain, emphasizes GHPs/prerequisite programmes and hazard analysis/HACCP foundations, and notes that competent authorities should develop risk‑based control measures while FBOs select, implement and validate measures appropriate to national and commercial contexts, with commodity‑specific annexes provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "6.1 Development of risk-based control measures",
+      "summary": "Recommends competent authorities, in collaboration with the food sector, develop risk‑based control measures and, where used, deploy risk‑modelling tools whose data needs and limitations are clearly specified, and requires that methodologies for regulatory risk management metrics be scientifically robust and transparent.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "control measures heading",
+        "risk-based controls",
+        "risk modeling tools",
+        "scientific methodology"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "7. PRIMARY PRODUCTION CONTROL MEASURES",
+      "summary": "Primary production control measures aim to reduce the number of animals carrying STEC and the extent of shedding, and to prevent or reduce crop contamination through good agricultural and animal husbandry practices related to water, worker hygiene, fertilizer/biosolids use, transport handling, temperature control and cleanliness of contact surfaces.",
+      "categories": [
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "primary production heading",
+        "primary production controls"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "8. PROCESSING CONTROL MEASURES",
+      "summary": "Processing control measures should prevent and reduce contamination and cross‑contamination by STEC during processing, post‑processing handling and storage, and prevent growth of STEC when present.",
+      "categories": [
+        "risk management",
+        "processing"
+      ],
+      "subcategories": [
+        "processing heading",
+        "contamination controls"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "9. FOOD DISTRIBUTION CONTROL MEASURES",
+      "summary": "Distribution control measures should ensure products are stored at appropriate temperatures and handled to prevent STEC growth and minimize cross‑contamination during distribution.",
+      "categories": [
+        "risk management",
+        "storage"
+      ],
+      "subcategories": [
+        "distribution heading",
+        "distribution temperature"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "10. VALIDATION, IMPLEMENTATION, AND VERIFICATION OF CONTROL MEASURES",
+      "summary": "Outlines validation, implementation and verification of control measures including implementation planning and monitoring, pre‑validation tasks, validation processes, references for implementation, and FBO responsibilities for managing STEC control measures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "10.1 Prior to validation",
+      "summary": "Before validation, identify the specific control measure(s) to be validated (including whether prior validation applies) and identify any existing food safety objectives or targets set by competent authorities or FBOs, noting FBOs may adopt stricter targets.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "validation heading",
+        "prevalidation tasks",
+        "measure identification",
+        "target identification"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "10.2 Validation",
+      "summary": "Validation may be performed by FBOs and/or competent authorities and requires evidence that the measure or combination of measures can control STEC to a specified target or outcome, following the Guidelines for the Validation of Food Safety Control Measures (CXG 69‑2008).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "validation heading",
+        "validation responsibility",
+        "validation evidence"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "10.3 Implementation of validated control measures",
+      "summary": "Implementation of validated control measures is to follow the relevant Codes of Hygienic Practice for meat, fresh fruits and vegetables, and milk and milk products as referenced.",
+      "categories": [
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "implementation heading",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "10.4 Food business operators' responsibility",
+      "summary": "Assigns primary responsibility to FBOs to implement, document, validate, verify and supervise process control systems to ensure the safety and suitability of raw beef, fresh leafy vegetables, raw milk and raw milk cheeses, and sprouts in accordance with national requirements and manufacturer instructions.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "fbo responsibility heading",
+        "process control systems"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "10.5 Regulatory systems",
+      "summary": "The competent authority, working with the food sector, may provide implementation tools to FBOs, must assess documented process control systems for scientific basis, establish verification frequencies, and set up microbiological or molecular testing programmes to verify STEC control effectiveness.",
+      "categories": [
+        "risk management",
+        "official control"
+      ],
+      "subcategories": [
+        "regulatory systems heading",
+        "implementation guidance",
+        "verification frequencies"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "10.6 Verification of control measures",
+      "summary": "This section directs readers to verification procedures in the Codes of Hygienic Practice for meat, fresh fruits and vegetables, milk and milk products, and Section IV of the Guidelines for the Validation of Food Safety Control Measures (CXG 69‑2008) rather than providing procedural detail here.",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "verification heading",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "10.7 Food business operators",
+      "summary": "FBOs may use indicator microorganism testing (cheaper and more practicable than routine STEC testing) to verify STEC control measures and must verify implementation via observation, record review and sampling; quantitative STEC monitoring is generally impractical so hygiene indicator counts (with established control values) are used to monitor process performance and trigger corrective action, verification frequency should be risk‑based, and records must be kept for traceability.",
+      "categories": [
+        "risk management",
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "fbo verification heading",
+        "verification testing",
+        "indicator microorganisms",
+        "verification frequency",
+        "record keeping"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "10.8 Regulatory systems",
+      "summary": "The competent authority should verify that regulatory control measures implemented by FBOs comply with applicable regulatory requirements for STEC control.",
+      "categories": [
+        "risk management",
+        "official control"
+      ],
+      "subcategories": [
+        "regulatory systems heading",
+        "regulatory compliance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "11. MONITORING AND REVIEW",
+      "summary": "Monitoring and review are essential components of risk management to verify process control, demonstrate progress toward public health goals, validate and prioritize STEC control measures, and support decisions on improving food hygiene systems.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "11.1 Monitoring",
+      "summary": "Monitoring should use validated diagnostic tests with randomized or targeted sampling at appropriate steps across the food chain, employ standardized, quality‑assured sampling plans developed with stakeholders, favor enumeration and characterization over presence/absence where useful, share data with relevant stakeholders, and combine monitoring data with human health surveillance and source‑attribution information to validate control measures and track progress toward risk‑reduction goals.",
+      "categories": [
+        "analysis sampling",
+        "documentation",
+        "risk management"
+      ],
+      "subcategories": [
+        "monitoring heading",
+        "sampling and testing",
+        "monitoring stages",
+        "sampling plan",
+        "monitoring data",
+        "information sharing",
+        "monitoring review"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "11.2 Laboratory analysis criteria for detection of STEC",
+      "summary": "Specifies that analytical methods for detecting STEC should be chosen based on sample type and the purpose of testing (batch/lot acceptance, process control, market access, or public‑health investigations), must be fit‑for‑purpose and within available resources, and that isolates requiring further characterization may be referred to a reference laboratory.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratory criteria",
+        "method selection",
+        "batch acceptance",
+        "process control",
+        "market access",
+        "public health use",
+        "risk-based analysis"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "11.3 Review",
+      "summary": "Requires periodic review of STEC monitoring data at relevant process steps to assess and inform the effectiveness of risk management measures, integrating food‑chain monitoring with human surveillance, source‑attribution and recall/withdrawal data.",
+      "categories": [
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "review heading",
+        "monitoring review",
+        "effectiveness review"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "11.4 Public health goals",
+      "summary": "Advises competent authorities to use monitoring and review (together with food source‑attribution and human health surveillance data) when setting, re‑evaluating and measuring progress toward public health goals for STEC control to ensure food‑chain safety.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "public health goals",
+        "goal reevaluation"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "1. INTRODUCTION",
+      "summary": "Explains that beef—particularly non‑intact products such as ground/minced or mechanically tenderized beef—is a major vehicle for STEC because cattle can transiently shed STEC and hides or gastrointestinal contents can contaminate carcass surfaces and, via grinding or tenderization, internalize pathogens; consequently, slaughter operations should treat all incoming cattle as potentially carrying STEC.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "2. SCOPE",
+      "summary": "States that the guidelines apply to control of STEC in raw beef, including non‑intact products (e.g., ground/minced or tenderized beef), and exclude raw beef meat preparations that have foodstuffs, seasonings or additives added.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusions"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "3. DEFINITIONS",
+      "summary": "Defines key terms for the guidelines: 'minced beef' as boneless comminuted beef, 'non‑intact raw beef' to include ground/minced and mechanically tenderized products, and 'raw beef' as skeletal muscle meat including primal/sub‑primal cuts and trimmings, with notes on certain tenderizing/injected products being out of scope and a definition of 'primal cut'.",
+      "categories": [
+        "definition",
+        "other",
+        "scope"
+      ],
+      "subcategories": [
+        "definition heading",
+        "definitions preamble",
+        "minced beef",
+        "non-intact beef",
+        "raw beef",
+        "source note",
+        "scope note",
+        "primal cut"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "RAW BEEF",
+      "summary": "Defines 'tenderized raw beef' as cuts subjected to mechanical rupture of muscle fibres by blades or needles that penetrate the muscle surface, resulting in tenderization.",
+      "categories": [
+        "other",
+        "definition"
+      ],
+      "subcategories": [
+        "section title",
+        "tenderized beef"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "4 PRIMARY PRODUCTION TO CONSUMPTION APPROACH TO CONTROL MEASURES",
+      "summary": "Adopts a primary‑production‑to‑consumption approach identifying where STEC control measures may be applied and allowing risk managers flexibility to choose and combine measures appropriate to national systems (some measures may require competent authority approval); notes that pre‑harvest controls can reduce shedding but cannot replace good hygienic practices at slaughter/processing and that decontamination has limited and variable effectiveness.",
+      "categories": [
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "control measures",
+        "food chain controls",
+        "risk management options",
+        "control challenges",
+        "integrated hygiene",
+        "decontamination limits"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "5 GENERIC FLOW DIAGRAM FOR APPLICATION OF CONTROL MEASURES",
+      "summary": "Provides an illustrative generic process flow diagram from primary production to consumption to guide application of control measures, noting that not all steps occur at every establishment and that certain tenderizing injections are out of scope.",
+      "categories": [
+        "processing",
+        "scope"
+      ],
+      "subcategories": [
+        "flow diagram heading",
+        "process flow",
+        "flow diagram use",
+        "scope note"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,1638 @@
+{
+  "doc_id": "db717ce9-d2a5-4ee9-9756-3dd0ff1c99f7",
+  "title": "CODE OF HYGIENIC PRACTICE FOR REFRIGERATED PACKAGED FOODS WITH EXTENDED SHELF LIFE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF HYGIENIC PRACTICE FOR REFRIGERATED PACKAGED FOODS WITH EXTENDED SHELF LIFE",
+      "summary": "Document title only: 'Code of Hygienic Practice for Refrigerated Packaged Foods with Extended Shelf Life' (non-substantive heading).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXC 46-(1999)",
+      "summary": "Document reference code only: CXC 46-(1999) (non-substantive identifier).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "TABLE OF CONTENTS",
+      "summary": "Table of contents only, listing the code's sections (introduction, objectives, scope, definitions, production, establishment design, control of operation, maintenance, personal hygiene, transport, labelling, training, appendix).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1 OBJECTIVES",
+      "summary": "Sets the code's purpose to provide HACCP-based recommendations for processing, packaging, storage and distribution of refrigerated packaged foods with extended shelf-life to prevent outgrowth of pathogens; notes refrigeration (e.g., +4°C) as an important but guideline-level hurdle, advises use of additional hurdles, predictive models and, where needed, challenge studies under worst-case storage/distribution to confirm effectiveness and determine appropriate shelf life.",
+      "categories": [
+        "scope",
+        "processing"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "purpose statement",
+        "hurdle concept"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2 SCOPEAND USE OFTHE DOCUMENT",
+      "summary": "Sets out the Code’s scope, use and definitions for heat‑treated low‑acid (pH>4.6, aw>0.92) refrigerated packaged foods with extended shelf life (>5 days), lists product characteristics, examples and exclusions, requires use with the Codex General Principles of Food Hygiene, and provides key definitions.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Scope",
+      "summary": "Specifies the Code applies to heat‑treated, low‑acid (pH>4.6, aw>0.92) packaged foods intended to be refrigerated with extended shelf life (>5 days), possibly using additional hurdles, and which may or may not require reheating before consumption.",
+      "categories": [
+        "scope",
+        "processing",
+        "composition",
+        "packaging"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope introduction",
+        "product conditions",
+        "shelf life condition",
+        "processing condition",
+        "product composition",
+        "hurdle use",
+        "packaged requirement",
+        "consumption condition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Use",
+      "summary": "States this Code follows and must be used together with the Codex International Code of Practice – General Principles of Food Hygiene and provides recommendations specific to safety of refrigerated packaged foods with extended shelf life.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "use heading",
+        "reference use"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.3 Definitions",
+      "summary": "Provides definitions and cross‑references for terms used in the Code (e.g., container, cooling equipment, filling and sealing, hermetically sealed container, High Risk area, hurdle/hurdle technology, modified atmosphere, pasteurization value and D/z values, rapid cooling, refrigerated food/facility, shelf life, and use‑by date) and refers to the General Principles for additional definitions.",
+      "categories": [
+        "definition",
+        "other",
+        "equipment",
+        "processing",
+        "packaging",
+        "hygiene",
+        "analysis sampling",
+        "storage",
+        "labelling"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "cross reference",
+        "footnote",
+        "definition intro",
+        "container definition",
+        "cooling equipment",
+        "filling sealing",
+        "hermetic container",
+        "high risk area",
+        "hurdle definition",
+        "hurdle technology",
+        "modified atmosphere",
+        "packaging operation",
+        "packaging material",
+        "pasteurization value",
+        "thermal parameters",
+        "d value",
+        "z value",
+        "rapid cooling",
+        "refrigerated food",
+        "refrigerated facility",
+        "shelf life",
+        "date marking"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3 PRIMARY PRODUCTION",
+      "summary": "Non‑substantive cross‑reference heading that refers readers to the Codex General Principles of Food Hygiene for primary production guidance.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4 ESTABLISHMENT : DESIGNAND FACILITIES",
+      "summary": "Covers design and facilities for areas where refrigerated packaged foods are prepared, cooked, chilled and stored, requiring segregation of High Risk areas, hygienic layout and fittings, dedicated equipment, temperature monitoring and alarms, provision for rapid cooling and sufficient refrigeration capacity, filtered positive‑pressure air in HR areas, appropriate drainage and sanitation measures to prevent contamination, and references the General Principles where applicable.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.1 Location",
+      "summary": "Cross‑reference only — directs readers to the Codex General Principles of Food Hygiene for location requirements.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "scope heading",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.2 Premises and rooms",
+      "summary": "Requires premises and room design, especially in High Risk areas, to minimise contamination and ease cleaning (including one‑way flow and FIFO storage), and specifies internal fittings and controls (e.g., non‑opening windows/close‑fitting doors, changing/hand‑washing facilities, temperature monitoring, filtered positive‑pressure air and humidity/condensation control).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.3 Equipment",
+      "summary": "Requires equipment in HR areas to be dedicated and cleaned/disinfected before entry, segregated for handling heat‑treated products, hygienically designed and located to prevent cross‑contamination, with monitoring/calibration of control instruments and reference to appropriate waste containers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.4 Facilities",
+      "summary": "Addresses facilities (water, drainage, cleaning, personnel hygiene, temperature control, refrigeration, cooling, air quality and storage) with requirements such as cloakrooms/toilets not opening directly into food areas, preference for hands‑free taps, monitored/recorded refrigeration with alarms, rapid‑cooling capability sized to production, treated filtered air under positive pressure in HR areas, and properly routed drainage and waste piping to minimise contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5 CONTROLOFOPERATION",
+      "summary": "Requires establishment‑specific control procedures developed using HACCP to ensure safety of refrigerated packaged foods across varied raw materials and processes, assigns overall responsibility to qualified personnel, and requires shelf life be determined from scientific data.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5.1 Control of food hazards",
+      "summary": "Mandates application of Codex HACCP principles to identify hazards, set critical limits, monitoring, corrective actions and recordkeeping; and requires scientific establishment and validation by qualified personnel of product shelf life, scheduled heat or other treatments (calculated for the coldest point and worst‑case), cooling methods and use of additional hurdles.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.2 Key aspects of hygiene control systems",
+      "summary": "Specifies time‑temperature hygiene controls—avoid or rapidly pass through 60→10°C (critical growth range), define and control thawing, quantify and monitor lethality of heat/other treatments with calibrated recording equipment and indicators, monitor cooling, maintain and validate the cold chain and storage temperatures (including meeting regulatory limits), and perform stock rotation and temperature monitoring throughout storage and transport.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.3 Incoming material requirements",
+      "summary": "Non‑substantive pointer indicating recommendations for incoming materials are provided in Section 5.3.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.4 Packaging",
+      "summary": "Table of contents entry only for '5.4 Packaging' with no substantive provisions in this excerpt.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.5 Water",
+      "summary": "Table of contents entry only for '5.5 Water' with no substantive provisions in this excerpt.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.6 Management and supervision",
+      "summary": "Table of contents entry only for '5.6 Management and supervision' with no substantive provisions in this excerpt.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.7 Documentation and records",
+      "summary": "Table of contents entry only for '5.7 Documentation and records' with no substantive provisions in this excerpt.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.8 Recall procedures",
+      "summary": "Table of contents entry only for '5.8 Recall procedures' with no substantive provisions in this excerpt.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6 ESTABLISHMENT: MAINTENANCEAND SANITATION",
+      "summary": "Table of contents entry for Section 6 listing maintenance, cleaning programmes, pest control, waste management and monitoring effectiveness; no substantive text provided in this excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "6.1 Maintenance and cleaning",
+      "summary": "Table of contents entry only — heading for maintenance and cleaning; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6.2 Cleaning programmes",
+      "summary": "Table of contents entry only — heading for cleaning programmes; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.3 Pest control systems",
+      "summary": "Table of contents entry only — heading for pest control systems; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.4 Waste management",
+      "summary": "Table of contents entry only — heading for waste management; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6.5 Monitoring effectiveness",
+      "summary": "Table of contents entry only — heading for monitoring effectiveness; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7 ESTABLISHMENT: PERSONAL HYGIENE",
+      "summary": "Table of contents header listing subsections 7.1–7.5 on establishment personal hygiene (health status; illness and injuries; personal cleanliness; personal behaviour; visitors) with no substantive text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.1 Health status",
+      "summary": "Table of contents entry only — heading for health status (personnel); no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.2 Illness and injuries",
+      "summary": "Table of contents entry only — heading for illness and injuries (personnel); no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.3 Personal cleanliness",
+      "summary": "Table of contents entry only — heading for personal cleanliness; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "7.4 Personal behaviour",
+      "summary": "Table of contents entry only — heading for personal behaviour; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "7.5 Visitors",
+      "summary": "Table of contents entry only — heading for visitors; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8 TRANSPORTATION",
+      "summary": "Table of contents header listing transportation subsections 8.1–8.3 (general; requirements; use and maintenance) and referencing 9.1, with no substantive text provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.1 General",
+      "summary": "Table of contents entry only — heading for general transportation provisions; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "8.2 Requirements",
+      "summary": "Table of contents entry only — heading for transportation requirements; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "8.3 Use and maintenance",
+      "summary": "Table of contents entry only — heading for use and maintenance of transportation (text also references 9.1); no substantive requirements or text provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "9.1 Lot identification",
+      "summary": "Table of contents entry only — heading for lot identification; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "9.2 Product information",
+      "summary": "Table of contents entry only — heading for product information (references 9.3 as well); no substantive requirements or text provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "9.3 Labelling",
+      "summary": "Table of contents entry only — heading for labelling (references 9.4 as well); no substantive requirements or text provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "9.4 Consumer education",
+      "summary": "Table of contents entry only — heading for consumer education; no substantive requirements or text provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "10 TRAINING",
+      "summary": "Table of contents header listing training subsections 10.1–10.4 (awareness/responsibilities; training programmes; instruction/supervision; refresher training) with no substantive text.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "10.1 Awareness and responsibilities",
+      "summary": "Table of contents entry only (section heading): no substantive content provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "10.2 Training programmes",
+      "summary": "Table of contents entry only (section heading): no substantive content provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "10.3 Instruction and supervision",
+      "summary": "Table of contents entry only (section heading): no substantive content provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "10.4 Refresher training",
+      "summary": "Table of contents entry only (section heading): no substantive content provided.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "table of contents"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "Appendix - Hurdles",
+      "summary": "Appendix heading only: no substantive content in this entry.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix heading"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "INTRODUCTION",
+      "summary": "Defines refrigerated packaged foods with extended shelf life (>5 days) as heat- or otherwise-treated products that are not commercially sterile, states the manufacturer is responsible for ensuring safety throughout shelf life accounting for temperature abuse and psychrotrophic pathogens (e.g., Listeria, some C. botulinum strains), and notes that additional hurdles (e.g., reduced pH or aw, preservatives) may be needed; also warns that MAP can suppress spoilage indicators and permit pathogenic growth if not properly controlled.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "processing"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement",
+        "microbial hazards",
+        "hurdle concept"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "1 OBJECTIVES",
+      "summary": "States the Code's objective to provide recommendations for processing, packaging, storage and distribution of refrigerated packaged foods with extended shelf life to prevent pathogen outgrowth using HACCP principles, notes refrigeration is an important but guideline-level hurdle (e.g., ~+4°C), and requires use of predictive models and, where evidence is lacking, worst-case challenge studies to confirm chosen hurdles and determine safe shelf life.",
+      "categories": [
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "purpose statement",
+        "challenge studies"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "2 SCOPE AND USE OF THE DOCUMENT",
+      "summary": "Combined scope and use: the Code addresses low-acid, heat-treated refrigerated foods susceptible to pathogen outgrowth during extended shelf life (products intended to be refrigerated, >5 days, pH>4.6, aw>0.92, packaged and possibly requiring additional hurdles), lists examples and exclusions, and directs that the Codex General Principles of Food Hygiene must be used together with this Code for specific recommendations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "2.1 SCOPE",
+      "summary": "Specifies the Code covers low-acid (pH>4.6), high water activity (aw>0.92) refrigerated foods that are heat treated or otherwise reduced in microbial load, intended to be refrigerated with shelf life >5 days, may use additional hurdles, are packaged (not necessarily hermetically), and may or may not require reheating before consumption.",
+      "categories": [
+        "scope",
+        "processing",
+        "composition",
+        "packaging"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope statement",
+        "product characteristics",
+        "heat treatment",
+        "acidity aw",
+        "hurdle technology",
+        "packaged product",
+        "consumer preparation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "2.2 USE",
+      "summary": "Use note: this Code follows the structure of the Codex General Principles of Food Hygiene and must be applied together with that Code, providing recommendations specific to safety of refrigerated packaged foods with extended shelf life.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "application note"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "2.3 DEFINITIONS",
+      "summary": "Definitions and references: refers to the Codex General Principles and defines terms relevant to refrigerated packaged foods and control measures, including container, cooling equipment, filling and sealing, hermetically sealed container, High Risk (HR) Area, hurdle and hurdle technology, modified atmosphere, packaging materials, pasteurization value and D/z values, rapid cooling (passing 60°C–10°C quickly), refrigerated food/facility, shelf life and use-by-date.",
+      "categories": [
+        "definition",
+        "processing",
+        "other",
+        "packaging",
+        "equipment",
+        "hygiene",
+        "analysis sampling",
+        "storage",
+        "labelling"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "reference definition",
+        "equivalent treatment",
+        "footnote reference",
+        "definition intro",
+        "container definition",
+        "cooling equipment",
+        "filling sealing",
+        "hermetic container",
+        "high risk area",
+        "hurdle definition",
+        "hurdle technology",
+        "modified atmosphere",
+        "packaging operation",
+        "packaging material",
+        "pasteurization value",
+        "heat resistance",
+        "d value",
+        "z value",
+        "rapid cooling",
+        "refrigerated food",
+        "refrigerated facility",
+        "shelf life",
+        "use by date"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "3 PRIMARY PRODUCTION",
+      "summary": "Cross-reference: primary production recommendations are covered by the Codex General Principles of Food Hygiene (no additional content here).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "primary production heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "Refer to the International Code of Practice - General Principles of Food Hygiene.",
+      "summary": "Cross-reference entry indicating that primary production and establishment design/facility requirements rely on the Codex General Principles of Food Hygiene and that recommendations on incoming materials are given in Section 5.3.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "For recommendations relative to incoming materials see Section 5.3.",
+      "summary": "Pointer only: recommendations concerning incoming materials are provided in Section 5.3.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "incoming materials"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "4 ESTABLISHMENT : DESIGN AND FACILITIES",
+      "summary": "Establishment design and facilities: refers to the General Principles and mandates measures to prevent contamination including segregation of High Risk (HR) areas, one-way flow and FIFO storage, dedicated and cleaned equipment for HR areas and heat‑treated products, appropriate drainage and waste controls, hygiene facilities (cloakrooms, hand‑washing/disinfection), and controls for temperature—with monitoring/alarms—rapid cooling capacity, air filtration/positive pressure, calibrated equipment and effective steam/humidity control to minimize cross-contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "4.1 LOCATION",
+      "summary": "Cross-reference: location requirements are addressed in the Codex General Principles of Food Hygiene (no additional details provided here).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "location heading",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "4.2 PREMISES AND ROOMS",
+      "summary": "Premises and rooms: refers to the General Principles and states that HR areas should be designed to minimize contamination, facilitate cleaning/disinfection, follow one-way flow and first‑in‑first‑out principles, and maintain appropriate temperature, humidity and ventilation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "4.2.1 Design and layout",
+      "summary": "Cross-reference: design and layout recommendations are contained in the Codex General Principles of Food Hygiene (no substantive text here).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "design heading",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "4.2.2 Internal structures and fittings",
+      "summary": "Internal structures and fittings for HR areas: require entrance cleaning/changing facilities for shoes and protective clothing, hand‑washing and sanitizing stations, non‑opening windows and close‑fitting doors, temperature monitoring/recording with alarms, filtered air under positive pressure, and effective steam removal and humidity control to minimize condensation and cross‑contamination.",
+      "categories": [
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "internal structures",
+        "hygiene reference",
+        "hr area hygiene",
+        "entry sanitation",
+        "building integrity",
+        "monitoring devices",
+        "air filtration",
+        "humidity control"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "4.2.2 Internal structures and fittings",
+      "summary": "Internal structures and fittings (duplicate): reiterates HR area requirements—cleaning/changing facilities, hand‑washing/sanitizing stations, sealed windows and close‑fitting doors, temperature monitoring with alarms, filtered positive‑pressure air, and effective steam/humidity control to reduce contamination and condensation.",
+      "categories": [
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "internal structures",
+        "hygiene reference",
+        "hr area hygiene",
+        "entry sanitation",
+        "building integrity",
+        "monitoring devices",
+        "air filtration",
+        "humidity control"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "4.2.2 Internal structures and fittings",
+      "summary": "Specifies internal structure and fitting requirements for High Risk (HR) areas: provide entrances with shoe/changing facilities and handwashing/sanitizing stations; windows fixed and doors close‑fitting; where appropriate install temperature monitoring/recording with alarms; maintain filtered, positively pressured air; and ensure hygienic, well‑maintained steam removal and humidity control systems to minimize condensation and cross‑contamination.",
+      "categories": [
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "internal structures",
+        "hygiene reference",
+        "hr area hygiene",
+        "entry sanitation",
+        "building integrity",
+        "monitoring devices",
+        "air filtration",
+        "humidity control"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "4.3.2 Food control and monitoring equipment",
+      "summary": "Requires in HR areas that all food‑control apparatus be regularly checked and calibrated to an established procedure, processing equipment be located to prevent cross‑contamination between raw and processed products, and processing apparatus be hygienically designed and fitted with suitable instrumentation.",
+      "categories": [
+        "equipment",
+        "hygiene"
+      ],
+      "subcategories": [
+        "food control equipment",
+        "hygiene reference",
+        "hr area hygiene",
+        "calibration procedure",
+        "equipment placement",
+        "instrumentation requirements"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "4.3.3 Containers for waste and inedible substances",
+      "summary": "Section is a cross‑reference to the International Code of Practice - General Principles of Food Hygiene and contains no substantive requirements on waste or inedible‑substance containers itself.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste containers",
+        "hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "4.4 FACILITIES",
+      "summary": "Facility requirements reference the General Principles of Food Hygiene and set specific obligations: HR‑area drainage must flow via traps to a main drain and wastewater from refrigeration/handwashing/machinery be piped to avoid product contamination; cloakrooms/toilets must not open into food areas and hand‑disinfection taps should preferably be non‑hand‑operated; plants must be designed to control interior temperatures to limit microbial growth and refrigerated rooms require visible temperature monitoring/alarms and adequate cooling capacity for rapid chilling and storage equal to at least daily production; ventilation/air treatment must prevent dust and condensation and HR areas require filtered, positively pressured air, while lighting and storage follow the general code.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "4.4.1 Water supply",
+      "summary": "This section is a reference to the International Code of Practice - General Principles of Food Hygiene and contains no additional substantive text on water supply.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "water supply",
+        "hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 70,
+      "order": 69,
+      "section": "4.4.2 Drainage and waste disposal",
+      "summary": "In HR areas drainage must flow directly to a main drain via suitable traps (other area drains must not flow through HR drains) and wastewater from refrigeration, handwashing and machinery should be piped to the drainage system to minimize product contamination, with attention to splashing/aerosol.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "drainage disposal",
+        "hygiene reference",
+        "hr area hygiene",
+        "wastewater control"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 71,
+      "order": 70,
+      "section": "4.4.3 Cleaning",
+      "summary": "This section is a cross‑reference to the International Code of Practice - General Principles of Food Hygiene and contains no substantive cleaning requirements itself.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "cleaning heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 72,
+      "order": 71,
+      "section": "4.4.4 Personnel hygiene facilities and toilets",
+      "summary": "Refers to the General Principles of Food Hygiene and specifies that cloakrooms/toilets should not open directly into food handling areas and that hand‑disinfection stations in processing areas preferably use taps that do not require hand operation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 73,
+      "order": 72,
+      "section": "4.4.4.1 Cloakrooms and toilets",
+      "summary": "States the obligation that cloakrooms and toilets must not open directly into any food handling areas.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "facilities heading",
+        "toilet separation"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 74,
+      "order": 73,
+      "section": "4.4.4.2 Processing areas",
+      "summary": "Recommends that hand‑disinfection stations in processing areas use taps that do not require hand operation to reduce contamination risk.",
+      "categories": [
+        "hygiene",
+        "equipment"
+      ],
+      "subcategories": [
+        "processing areas heading",
+        "handwash taps"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 75,
+      "order": 74,
+      "section": "4.4.5 Temperature control",
+      "summary": "Requires plant design to maintain interior temperatures that control microbial proliferation regardless of outside temperature, mandates refrigerated rooms have temperature monitoring and alarms, and requires establishments to provide rapid cooling capability and refrigerated storage sized for at least the maximum daily production with cooling equipment selected to allow refrigeration without delay after heat treatment (noting the 60°C internal temperature reference) and even temperature distribution; rapid chilling of cooked (unfilled/unsealed) products must be in equipment/rooms designed to prevent contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 76,
+      "order": 75,
+      "section": "4.4.5.1 Refrigeration facilities",
+      "summary": "All refrigerated rooms must be fitted with temperature monitoring and recording devices and a reliable audible or visual alarm system, with devices clearly visible and positioned to accurately record the maximum temperature in the area.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "refrigeration heading",
+        "temperature monitoring"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 77,
+      "order": 76,
+      "section": "4.4.5.2 Cooling facilities",
+      "summary": "Establishments must provide facilities that permit rapid cooling and refrigerated storage at least equal to maximum daily production, and select cooling equipment based on product characteristics and production quantities to enable immediate refrigeration after heat treatment (noting the internal 60°C reference) and even temperature distribution during cooling.",
+      "categories": [
+        "equipment",
+        "storage",
+        "processing"
+      ],
+      "subcategories": [
+        "cooling heading",
+        "cold storage capacity",
+        "cooling selection",
+        "cooling timing",
+        "temperature distribution"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 78,
+      "order": 77,
+      "section": "In HR areas :",
+      "summary": "High Risk areas must be designed to minimize contamination accumulation and maximize ease of cleaning, and storage/processing facilities should follow one‑way flow and first‑in‑first‑out principles while being equipped to maintain appropriate temperature, humidity and ventilation.",
+      "categories": [
+        "hygiene",
+        "storage"
+      ],
+      "subcategories": [
+        "high risk areas",
+        "contamination control",
+        "one-way flow"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 79,
+      "order": 78,
+      "section": "4.4.6 Air quality and ventilation",
+      "summary": "Referring to the General Principles of Food Hygiene, it requires that in HR areas the incoming air be treated to remove dust, ventilation be designed to prevent condensation and dust circulation, and air be filtered and maintained under positive pressure.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "air quality heading",
+        "reference citation",
+        "high risk areas",
+        "air treatment",
+        "ventilation control",
+        "air filtration"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 80,
+      "order": 79,
+      "section": "In HR areas :",
+      "summary": "States that rapid chilling of cooked (not filled/sealed) products must occur in rooms/equipment designed and operated to prevent contamination, and reiterates HR‑area air requirements: treated to remove dust, ventilation preventing condensation/dust circulation, and filtered, positively pressured air.",
+      "categories": [
+        "processing",
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "rapid chilling",
+        "rapid chilling control",
+        "air quality heading",
+        "reference citation",
+        "high risk areas",
+        "air treatment",
+        "ventilation control",
+        "air filtration"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 81,
+      "order": 80,
+      "section": "4.4.7 Lighting",
+      "summary": "This section is a reference to the International Code of Practice - General Principles of Food Hygiene and contains no additional substantive lighting requirements itself.",
+      "categories": [
+        "equipment",
+        "other"
+      ],
+      "subcategories": [
+        "lighting heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 82,
+      "order": 81,
+      "section": "4.4.8 Storage",
+      "summary": "This section is a reference to the International Code of Practice - General Principles of Food Hygiene and contains no additional substantive storage requirements itself.",
+      "categories": [
+        "storage",
+        "other"
+      ],
+      "subcategories": [
+        "storage heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 83,
+      "order": 82,
+      "section": "5 CONTROL OF OPERATION",
+      "summary": "Covers overall operational control for refrigerated packaged foods: hazards vary by product so each establishment must define product‑specific procedures to ensure safety, assign overall responsibility to qualified personnel and apply HACCP principles to determine controls and shelf life based on scientific data, including validation of heat/cooling/preservation steps and record‑keeping; manufacturers must develop and document procedures accounting for plant‑specific conditions, processes and product characteristics.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 84,
+      "order": 83,
+      "section": "5.1 CONTROL OF FOOD HAZARDS",
+      "summary": "Mandates application of Codex HACCP principles to identify hazards, establish control measures, critical limits, monitoring, corrective actions, verification and record keeping; requires qualified personnel to set product shelf life and design elements (heat/other treatments, cooling methods and additional hurdles) using scientific/technological methods and validation (including calculating required log reductions for the coldest point, considering worst‑case scenarios, and recommended cooling to under 10°C at product center within two hours where feasible).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 85,
+      "order": 84,
+      "section": "5.1.1 Application of the HACCP Principles",
+      "summary": "Requires processors to apply Codex HACCP principles to all existing and new products, identify hazards and controls, establish operational controls, critical limits, monitoring, corrective actions, verification and records, and to determine product shelf life using scientific data accounting for preservation treatments, hurdles and distribution/storage temperatures.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "haccp application",
+        "haccp principles",
+        "hazard control",
+        "shelf life basis"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 86,
+      "order": 85,
+      "section": "5.1.2.2 Development of scheduled heat or other treatments",
+      "summary": "Mandates scheduled heat or other treatments be designed to achieve the required log reduction of target microorganisms at the product's coldest point under worst-case conditions, taking into account factors (e.g. microbial load, pre-treatment growth potential, initial temperature, heat penetration, product composition, container size/fill limits, and recommended end‑user cooking), requires validation by a qualified person for any changes, and allows alternative approved technologies (e.g. HHP, irradiation) where authorized by the competent regulatory authority.",
+      "categories": [
+        "processing",
+        "risk assessment",
+        "weights and measures",
+        "risk management"
+      ],
+      "subcategories": [
+        "heat treatment development",
+        "heat treatment parameters",
+        "treatment factors",
+        "microbial hazard factors",
+        "growth potential",
+        "lethality target",
+        "initial temperature",
+        "heat requirement",
+        "temperature distribution",
+        "product consistency",
+        "product container effects",
+        "container fill limits",
+        "end-user cooking",
+        "process validation changes",
+        "alternative treatments"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 87,
+      "order": 86,
+      "section": "5.1.2.3 Development of Cooling Method",
+      "summary": "Specifies cooling must rapidly bring product to the specified storage temperature to minimize pathogen growth (avoiding prolonged times between 60°C and 10°C) and, when feasible, reach <10°C at the product center within two hours, allows scientifically justified alternative procedures, and lists factors to consider (initial product temperature, cooling medium and distribution, time, composition/viscosity, container/packaging and equipment capacity).",
+      "categories": [
+        "processing",
+        "risk assessment",
+        "weights and measures",
+        "packaging",
+        "equipment"
+      ],
+      "subcategories": [
+        "cooling method heading",
+        "cooling conditions",
+        "alternative cooling",
+        "cooling factors",
+        "initial temperature",
+        "cooling system factors",
+        "cooling time",
+        "product consistency",
+        "container fill limits",
+        "packaging effects",
+        "cooling equipment"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 88,
+      "order": 87,
+      "section": "5.1.2.4 Other Hurdles",
+      "summary": "States other hurdles may be used to prevent or restrict pathogen growth but their effectiveness and synergy must be validated (e.g. challenge studies, predictive modelling), and when combined with heat or other treatments critical limits must be specified, measured, checked and recorded as necessary.",
+      "categories": [
+        "processing",
+        "risk management",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "other hurdles heading",
+        "growth inhibition",
+        "hurdle validation",
+        "critical limits control"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 89,
+      "order": 88,
+      "section": "5.2 KEY ASPECTS OF HYGIENE CONTROL SYSTEMS",
+      "summary": "Describes key hygiene controls including time/temperature management to avoid prolonged exposure in the 10°C–60°C microbial growth range, obligations to maintain perishable materials refrigerated or ≥60°C during production delays, defined thawing procedures, quantified lethality and monitored delivery of heat/other treatments by trained personnel with calibrated recording devices and heat‑sensitive indicators, cooling monitoring and equipment control, and cold‑chain requirements including validation of storage temperatures, adherence to regulatory temperature criteria, FIFO stock rotation and regular temperature monitoring of storage, transport and display.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 90,
+      "order": 89,
+      "section": "5.2.1 Time and temperature control",
+      "summary": "Refers to the General Principles of Food Hygiene and requires avoiding or rapidly passing through the 10°C–60°C growth range, maintaining perishable materials at temperatures that minimize growth or at ≥60°C during delays, and monitoring thawing, heat and other treatments by measuring time‑temperature relationships of the product or heating medium.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 91,
+      "order": 90,
+      "section": "5.2.1.1 Thawing",
+      "summary": "Requires thawing procedures be defined and strictly controlled by time and temperature to avoid conditions favorable to microbial multiplication, with immediate processing or refrigerated holding after thawing and adherence to microwave manufacturers' instructions to prevent uneven heating.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "thawing heading",
+        "thawing conditions",
+        "post-thaw handling"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 92,
+      "order": 91,
+      "section": "5.2.1.2 Heat and other treatments",
+      "summary": "Requires quantification of lethality for heat and other treatments (e.g. using pasteurization or lethal rate values), performance by competent trained personnel, monitoring delivery by measuring time‑temperature of the product or heating medium, and use of monitoring/recording equipment that is regularly checked against accurate standards and maintained.",
+      "categories": [
+        "processing",
+        "training",
+        "analysis sampling",
+        "equipment"
+      ],
+      "subcategories": [
+        "heat treatment heading",
+        "lethality measurement",
+        "competent personnel",
+        "time temperature monitoring",
+        "product monitoring",
+        "medium monitoring",
+        "monitoring equipment"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 93,
+      "order": 92,
+      "section": "5.2.1.3 Cooling",
+      "summary": "Mandates monitoring cooling by measuring time‑temperature of the product or cooling medium to reach prescribed relationships at the product's warmest point, requires cooling equipment to have monitoring devices and maintained records, and obliges regular calibration/verification of monitoring equipment to ensure conformity with the specified cooling method.",
+      "categories": [
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "cooling heading",
+        "time temperature monitoring",
+        "product monitoring",
+        "cooling medium",
+        "cooling monitoring"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 94,
+      "order": 93,
+      "section": "5.2.1.4 Maintaining the cold chain",
+      "summary": "Requires continuous maintenance of the cold chain from packaging to consumption to preserve safety for stated shelf life, validation of selected storage temperatures, compliance with any regulatory temperature criteria (with shelf‑life re‑evaluation if temperatures differ), application of FIFO stock rotation, and regular monitoring of temperatures in storage, transport and display.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "cold chain heading",
+        "cold storage",
+        "storage temperature",
+        "regulatory temperature",
+        "shelf life reevaluation",
+        "stock rotation",
+        "temperature monitoring",
+        "storage location"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

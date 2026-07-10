@@ -1,0 +1,398 @@
+{
+  "doc_id": "a3399942-776b-4859-8a03-6dc4054369c8",
+  "title": "STANDARD FOR EMMENTAL",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR EMMENTAL",
+      "summary": "Document title: Standard for Emmental.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 269-1967",
+      "summary": "Standard identifier: CXS 269-1967.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Formerly CODEX STAN C 9-1967 - Standard for Emmentaler.",
+      "summary": "Former designation: CODEX STAN C 9-1967 — Standard for Emmentaler.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "former designation"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "Adopted in 1967. Revised in 2007. Amended in 2008, 2010, 2013, 2018, 2019, 2022.",
+      "summary": "Adoption and amendment history: adopted 1967; revised 2007; amended in 2008, 2010, 2013, 2018, 2019 and 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "## 2022 Amendment",
+      "summary": "Records the 2022 amendment that replaced previous Section 7.5 text on labelling of non-retail containers with a requirement to follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "amendment table",
+        "table separator",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "1 SCOPE",
+      "summary": "Scope: applies to Emmental intended for direct consumption or for further processing in conformity with the product description in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2 DESCRIPTION",
+      "summary": "Defines Emmental as a ripened hard cheese with ivory to yellow colour, elastic sliceable texture and regular gas holes (mostly 1–5 cm), typically produced as wheels/blocks (~≥40 kg) and sold with or without a rind; ripening is normally about 2 months at 10–25°C but alternative conditions are allowed provided a minimum of 6 weeks and equivalent properties, and cheese for further processing may be less mature if justified.",
+      "categories": [
+        "composition",
+        "description",
+        "processing"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "ripening conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3 ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section header introducing essential composition and quality factors, covering raw materials, permitted ingredients, compositional requirements and essential manufacturing characteristics for Emmental.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1 Raw materials",
+      "summary": "Specifies raw materials as cows' milk, buffaloes' milk, or mixtures thereof and products obtained from these milks.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Lists permitted ingredients including starter cultures of harmless lactic/flavour-producing bacteria and other harmless micro-organisms, rennet or other safe coagulating enzymes, sodium chloride and potassium chloride as salt substitutes, safe processing aids, potable water, ripening‑enhancing enzymes, and allows rice/corn/potato flours and starches as surface anti‑caking agents for cut/sliced/shredded products only in amounts functionally necessary under Good Manufacturing Practice.",
+      "categories": [
+        "composition",
+        "processing",
+        "additives",
+        "other"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "starter cultures",
+        "coagulating enzymes",
+        "salt substitute",
+        "processing aids",
+        "potable water",
+        "ripening enzymes",
+        "anti caking agents",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.3 Composition",
+      "summary": "Sets compositional requirements: milk fat in dry matter minimum 45% (reference 45–55%), minimum dry matter varying with fat-in-dry-matter (≥45–<50 → 60%; ≥50–<60 → 62%; ≥60 → 67%), propionic acid in cheese ready for sale at least 150 mg/100 g, and calcium at least 800 mg/100 g; deviations beyond specified milk fat/dry matter ranges are non-compliant with the General Standard for the Use of Dairy Terms.",
+      "categories": [
+        "composition",
+        "other",
+        "quality"
+      ],
+      "subcategories": [
+        "composition heading",
+        "composition table",
+        "table separator",
+        "milk fat content",
+        "dry matter content",
+        "fat dry matter",
+        "dry matter minimum",
+        "propionic acid content",
+        "calcium content",
+        "compliance note"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.4 Essential manufacturing characteristics",
+      "summary": "Requires production by microbiological fermentation using thermophilic lactic acid bacteria for primary fermentation and propionic acid bacteria for secondary fermentation, with the curd heated after cutting to a temperature significantly above the coagulation temperature (typical cooking about 50°C though exact temperature varies with technology and conditions).",
+      "categories": [
+        "processing",
+        "other"
+      ],
+      "subcategories": [
+        "manufacturing heading",
+        "fermentation process",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits only additive classes marked 'technologically justified' in the table for Emmental: colours (only to achieve the specified colour) and acidity regulators allowed in the cheese mass, preservatives allowed in both mass and surface, and anti‑caking agents allowed for surface/rind of sliced/cut/shredded/grated cheese; anticaking agents, colours and preservatives must also comply with relevant Tables 1 and 2 of the General Standard for Food Additives for ripened cheese (food category 01.6.2.1).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted classes",
+        "table header",
+        "table separator",
+        "class allowance",
+        "use note",
+        "legend note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.2 Country of origin",
+      "summary": "Requires declaring the country of origin (defined as the country of manufacture, not the country of name origin) and states that when the product undergoes substantial transformation in a second country, the country where that transformation is performed shall be considered the country of origin for labelling.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin heading",
+        "country of origin"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.3 Declaration of milk fat content",
+      "summary": "Requires the milk fat content to be declared in a manner acceptable in the country of retail sale, using either (i) percentage by mass, (ii) percentage of fat in dry matter, or (iii) grams per serving provided the number of servings is stated.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "fat content heading",
+        "fat content declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.4 Date marking",
+      "summary": "Allows the date of manufacture to be declared instead of minimum durability information only when the product is not intended to be purchased as such by the final consumer.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking heading",
+        "date marking"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.5 Labelling of non-retail containers",
+      "summary": "States that labelling of non-retail containers should be in accordance with the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail heading",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "8. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Mandates use of the methods of analysis and sampling in the Recommended Methods of Analysis and Sampling (CXS 234-1999) to check compliance with this standard; additionally notes that for comparative nutritional claims a reference minimum fat content of 45% fat in dry matter applies and provides examples of operations not regarded as substantial transformation (e.g., repackaging, cutting, slicing, shredding, grating).",
+      "categories": [
+        "analysis sampling",
+        "labelling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "sampling methods",
+        "nutrition claim note",
+        "transformation note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "1 APPENDIX - ADDITIONAL INFORMATION",
+      "summary": "Informative appendix stating that the additional information provided does not affect the mandatory provisions in the preceding sections concerning product identity, name use and safety.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix heading",
+        "informative note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "1 Appearance characteristics",
+      "summary": "Specifies usual appearance dimensions and minimum weights for two shapes: Wheel (height 12–30 cm, diameter 70–100 cm, minimum weight 60 kg) and Block (height 12–30 cm, minimum weight 40 kg).",
+      "categories": [
+        "quality",
+        "presentation",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "appearance heading",
+        "dimensions statement",
+        "shape table",
+        "table separator",
+        "dimension table",
+        "weight statement"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "2 Method of manufacture",
+      "summary": "States the method of manufacture includes a fermentation procedure characterized by microbiologically derived acid development.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "method heading",
+        "fermentation procedure"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

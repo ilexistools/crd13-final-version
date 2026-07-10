@@ -1,0 +1,413 @@
+{
+  "doc_id": "9688c7f2-3789-42d2-bd5d-01a5a36ab484",
+  "title": "Formerly CODEX STAN C-13-1968. Adopted in 1968. Revised in 2007.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "Formerly CODEX STAN C-13-1968. Adopted in 1968. Revised in 2007.",
+      "summary": "Editorial note stating the standard was formerly CODEX STAN C-13-1968, adopted in 1968 and revised in 2007 (document history).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "STANDARD FOR SAINT-PAULIN CXS 271-1968 Amended in 2008, 2010, 2013, 2018, 2019, 2022.",
+      "summary": "Title identifying the document as the Standard for Saint‑Paulin (CXS 271‑1968) and listing amendments in 2008, 2010, 2013, 2018, 2019 and 2022.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2022 Amendment",
+      "summary": "Amendment notice describing a 2022 textual amendment replacing previous labelling provisions for non‑retail containers with a requirement to follow the General Standard for the Labelling of Non‑Retail Containers (CXS 346‑2021).",
+      "categories": [
+        "other",
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "amendment table",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Scope: this standard applies to Saint‑Paulin cheese intended for direct consumption or for further processing as described in Section 2.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Describes Saint‑Paulin as a ripened firm/semi‑hard cheese (colour near white to yellow) with a firm yet flexible texture, optional dry or slightly moist rind, typical ripening of about one week at 10–17 °C to develop flavour, and allows alternative ripening conditions if equivalent properties are achieved; cheese for further processing may be less ripened if justified.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "ripening conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section header indicating essential composition and quality factors are specified in subsections covering raw materials, permitted ingredients and composition (see 3.1–3.3).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1 Raw materials",
+      "summary": "Permits cows' milk, buffaloes' milk, or mixtures thereof (and products from these milks) as raw materials for Saint‑Paulin.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Lists permitted ingredients including harmless starter cultures and other safe micro‑organisms, rennet or suitable coagulating enzymes, sodium/potassium chloride, potable water, safe ripening enzymes and processing aids, and allows rice/corn/potato flours/starches as surface anti‑caking agents for cut/sliced/shredded products when used per GMP.",
+      "categories": [
+        "composition",
+        "processing",
+        "additives"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "starter cultures",
+        "coagulating enzymes",
+        "salt substitute",
+        "potable water",
+        "ripening enzymes",
+        "processing aids",
+        "surface anticaking"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.3 Composition",
+      "summary": "Specifies compositional requirements: milkfat in dry matter must be at least 40% (no upper limit; reference 40–50%), and minimum dry matter is 44% when fat in dry matter is ≥40% but <60% and 54% when fat in dry matter is ≥60%; deviations beyond these minima/maxima are non‑compliant with the General Standard for the Use of Dairy Terms (CXS 206‑1999).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "composition heading",
+        "milk constituent table",
+        "milkfat minimum",
+        "dry matter minimum",
+        "fat in dry matter",
+        "dry matter threshold",
+        "compositional compliance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Limits food additive use to the functional classes justified in the accompanying table, permits colours, certain acidity regulators, preservatives and anti‑caking agents only as specified and in accordance with the General Standard for Food Additives (CXS 192‑1995) and relevant tables for cheese category 01.6.2.1 (ripened cheese, includes rind).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "additives conditions",
+        "additive table",
+        "functional classes",
+        "colour allowance",
+        "bleaching agents",
+        "acidity regulators",
+        "stabilizers",
+        "thickeners",
+        "emulsifiers",
+        "antioxidants",
+        "preservatives",
+        "foaming agents",
+        "anti-caking agents"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires the products to comply with maximum levels for contaminants and toxins specified in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995), and requires the milk used to comply with the contaminant/toxin limits and the CAC-established maximum residue limits for veterinary drugs and pesticides in milk.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "6. HYGIENE",
+      "summary": "Recommends that the product be prepared and handled in accordance with Codex hygiene texts (General Principles of Food Hygiene CXC 1-1969; Code of Hygienic Practice for Milk and Milk Products CXC 57-2004 and other relevant codes) and that it comply with any microbiological criteria established under CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7. LABELLING",
+      "summary": "Introductory labelling heading stating that, in addition to general Codex labelling standards (CXS 1-1985; CXS 206-1999), specific labelling provisions that follow apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.1 Name of the food",
+      "summary": "Permits use of the name 'Saint‑Paulin' only for cheeses that conform to this Standard (alternative spellings allowed where customary), requires products with fat in dry matter above the reference range to carry an appropriate qualifier or fat declaration (or a permitted nutritional claim per CXG 23-1997), allows the name for cut/sliced/shredded/grated products made from compliant cheese, and states that if the name is not used the General Standard for Cheese (CXS 283-1978) naming rules apply.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food",
+        "food name",
+        "optional name use",
+        "fat content declaration",
+        "product designation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.2 Country of origin",
+      "summary": "Requires declaration of the country of origin (defined as country of manufacture), and when a product undergoes substantial transformation in a second country that country is to be declared as the country of origin for labelling purposes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "country of origin",
+        "origin declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.3 Declaration of milkfat content",
+      "summary": "Requires milkfat content to be declared in a manner acceptable in the country of retail sale either as percentage by mass, percentage of fat in dry matter, or grams per serving (with number of servings stated).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "milkfat declaration",
+        "fat content declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.4 Date marking",
+      "summary": "Allows the date of manufacture to be declared in place of minimum durability information when the product is not intended to be purchased as such by the final consumer.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking",
+        "minimum durability"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "7.5 Labelling of non-retail containers",
+      "summary": "States that labelling of non-retail containers should follow the General Standard for the Labelling of Non-Retail Containers of Foods (CXS 346-2021).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail containers",
+        "non-retail labelling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Mandates using the methods of analysis and sampling in the Recommended Methods of Analysis and Sampling (CXS 234-1999) to check compliance with this Standard; notes that for comparative nutritional claims the reference is minimum 40% fat in dry matter and that repackaging, cutting, slicing, shredding and grating are not regarded as substantial transformation.",
+      "categories": [
+        "analysis sampling",
+        "labelling",
+        "documentation"
+      ],
+      "subcategories": [
+        "sampling and analysis",
+        "compliance methods",
+        "nutrition claim note",
+        "technical note"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "1 Appearance characteristics",
+      "summary": "Specifies appearance: typically a small flat cylinder with slightly convex sides (other shapes permitted) and variant dimensions/weights — usual: ~20 cm diameter, min. weight 1.3 kg; 'Petit Saint‑Paulin': 8–13 cm, min. 150 g; 'Mini Saint‑Paulin': min. 20 g.",
+      "categories": [
+        "classification",
+        "presentation"
+      ],
+      "subcategories": [
+        "appearance characteristics",
+        "shape specification",
+        "dimensions and weights",
+        "usual variant",
+        "petit variant",
+        "mini variant"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "2 Method of manufacture",
+      "summary": "Defines method of manufacture as microbiologically derived acid development (fermentation) and states the cheese is salted in brine.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "manufacture method",
+        "fermentation procedure",
+        "brining process"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3 Qualifiers",
+      "summary": "States that the qualifiers 'Petit Saint‑Paulin' and 'Mini Saint‑Paulin' should be used only when the cheese meets the specific dimensions and weights set out in Section 1.2.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "qualifiers heading",
+        "designation conditions"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

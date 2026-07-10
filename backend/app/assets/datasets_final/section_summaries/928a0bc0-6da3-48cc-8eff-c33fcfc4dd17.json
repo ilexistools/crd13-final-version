@@ -1,0 +1,655 @@
+{
+  "doc_id": "928a0bc0-6da3-48cc-8eff-c33fcfc4dd17",
+  "title": "GUIDELINES ON INTEGRATED MONITORING AND SURVEILLANCE   OF",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES ON INTEGRATED MONITORING AND SURVEILLANCE   OF",
+      "summary": "Document title heading for the guidelines on integrated monitoring and surveillance (non‑substantive).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "FOODBORNE ANTIMICROBIAL RESISTANCE CXG 94-2021",
+      "summary": "Standard identifier heading: 'FOODBORNE ANTIMICROBIAL RESISTANCE CXG 94-2021' (non‑substantive).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 2021",
+      "summary": "Administrative note stating the guideline was adopted in 2021.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. SCOPE",
+      "summary": "Scope: guidelines cover design and implementation of integrated monitoring and surveillance programmes for foodborne AMR and AMU across the food chain and food production environment, may be informed by human AMR/AMU data though not covering human programmes, cover foodborne pathogens and indicator bacteria, and exclude antimicrobials used as biocides/disinfectants.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope exclusions",
+        "covered organisms"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. DEFINITIONS",
+      "summary": "States that definitions from CXG 77-2011 and CXC 61-2005 apply and provides additional specific definitions to establish common understanding for the guidelines.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Antimicrobial agent",
+      "summary": "Defines 'antimicrobial agent' as any natural, semi‑synthetic or synthetic substance that at in vivo concentrations kills or inhibits microorganism growth by interacting with a specific target.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "antimicrobial agent"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Antimicrobial resistance (AMR)",
+      "summary": "Defines 'antimicrobial resistance (AMR)' as the ability of a microorganism to multiply or persist at increased levels of an antimicrobial agent relative to a susceptible counterpart of the same species.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "antimicrobial resistance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Food chain",
+      "summary": "Defines 'food chain' as the production‑to‑consumption continuum including primary production, harvest/slaughter, packing, processing, storage, transport, retail distribution and consumption.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "food chain"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Foodborne pathogen",
+      "summary": "Defines 'foodborne pathogen' as a pathogen present in food that may cause human disease or illness through consumption of contaminated food or products produced by the pathogen.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "foodborne pathogen"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Food production environment",
+      "summary": "Defines 'food production environment' as the immediate vicinity of the food chain where evidence indicates it could contribute to foodborne AMR.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "food production environment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Hazard",
+      "summary": "Defines 'hazard' for these guidelines as antimicrobial‑resistant microorganism(s) and/or resistance determinant(s).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "hazard definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "One Health approach",
+      "summary": "Defines 'One Health approach' as a collaborative, multisectoral, transdisciplinary approach recognizing interconnections between humans, animals, plants and their shared environment to achieve optimal health outcomes.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "one health"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Plants/Crops",
+      "summary": "Defines 'Plants/Crops' as plants or crops cultivated or harvested as food or feed.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "plants crops"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4. PRINCIPLES",
+      "summary": "Principles for programme design: apply a One Health approach; integrate monitoring and surveillance as part of national AMR strategies; use risk analysis to guide design, implementation and evaluation; generate AMR/AMU data across relevant sectors; tailor programmes to national priorities and enable continuous improvement; prioritize the most relevant foodborne AMR issues; detect emerging trends and support epidemiological investigation; ensure laboratory quality assurance/management; and harmonize methods, data collection and reporting to improve comparability and multisectoral data exchange.",
+      "categories": [
+        "other",
+        "risk management",
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "principles heading",
+        "one health approach",
+        "national strategy",
+        "risk analysis guidance",
+        "data generation",
+        "continuous improvement",
+        "priority setting",
+        "emerging trends",
+        "quality assurance",
+        "method harmonization"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5. RISK-BASED APPROACH",
+      "summary": "Risk‑based approach: a risk analysis framework (CXG 77-2011) should inform the development, implementation and evaluation of monitoring and surveillance programmes, programme data should inform risk assessment and control measure decisions, and where domestic AMR data are limited programmes may start based on available scientific knowledge and other information sources.",
+      "categories": [
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "risk approach heading",
+        "risk analysis framework",
+        "control measures",
+        "limited data"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6. REGULATORY FRAMEWORK, POLICY AND ROLES",
+      "summary": "Regulatory framework and roles: competent authorities should provide good governance and collaborate across human, animal, plant/crop, environment and other sectors, involve relevant stakeholders, encourage voluntary international data sharing, and ensure access to all available national sources of relevant data.",
+      "categories": [
+        "other",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "framework heading",
+        "regulatory roles",
+        "stakeholder engagement",
+        "data sharing",
+        "data access"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7. PRELIMINARY  ACTIVITIES  FOR  THE  IMPLEMENTATION  OF  AN  INTEGRATED  MONITORING  AND SURVEILLANCE PROGRAMME(S) FOR FOODBORNE AMR",
+      "summary": "Preliminary activities: implementation of monitoring and surveillance should include pilot studies and testing to inform programme design, with countries progressing and continuously improving activities according to national objectives, infrastructure, capabilities, resources and new scientific knowledge.",
+      "categories": [
+        "scope",
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "implementation activities",
+        "implementation framework",
+        "pilot studies",
+        "continuous improvement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "11. KEY  DESIGN  ELEMENTS  TO  BE  ESTABLISHED  BEFORE  INITIATING  THE  MONITORING  AND SURVEILLANCE ACTIVITIES",
+      "summary": "Key design elements before initiating monitoring: for AMR, identify highest‑priority microorganisms, antimicrobial panels and sample sources, sampling points and frequency, representative sampling plans, laboratory analysis and reporting protocols, and standardized/harmonized methodologies; for AMU, map antimicrobial distribution chains, identify data collection points and stakeholders, assess need for legal frameworks for sales/use data, allow voluntary data collection with stakeholder agreement, and consider relevant OIE guidance.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "design elements",
+        "programme design",
+        "target organisms",
+        "sampling points",
+        "sampling protocols",
+        "standardized methods",
+        "amu heading",
+        "distribution chains",
+        "data collection points",
+        "legal framework",
+        "voluntary collection",
+        "external reference"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "13.1 Sampling plan",
+      "summary": "Specifies required contents for an AMR sampling plan including the sample collection procedure, sample size with statistical methods and assumptions (representativeness, expected prevalence, population size), statistical power/precision/objectives, and strengths/limitations affecting interpretation, and lists considerations to guide design (active vs passive strategy; target animal/plant species, commodities and points in the food chain; strata/risk clusters; opportunities for metadata; target microorganisms/resistance determinants; sampling frequency; known prevalence/seasonality; and SOPs for who collects samples, traceability/biosecurity/quality assurance, and storage/transport), allowing initial limited implementation and gradual expansion of sample sources as resources permit.",
+      "categories": [
+        "analysis sampling",
+        "documentation",
+        "storage"
+      ],
+      "subcategories": [
+        "sampling plan heading",
+        "plan requirements",
+        "sample collection",
+        "sample size",
+        "testing objectives",
+        "data interpretation",
+        "plan considerations",
+        "sampling strategy",
+        "target species",
+        "sampling locations",
+        "risk clusters",
+        "metadata collection",
+        "target microorganisms",
+        "sampling frequency",
+        "prevalence seasonality",
+        "sop sample collection",
+        "sample collector",
+        "traceability assurance",
+        "sample storage",
+        "initial implementation",
+        "programme expansion"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "13.2 Sample sources",
+      "summary": "Guides selection of sample sources for foodborne AMR surveillance to reflect relevant direct and indirect exposure pathways, national production and consumption patterns and species prevalence, and recommends integrated sampling across relevant points of the food chain with representative samples from food-producing animals (farm and slaughter), food (processing to retail), plants/crops (pre- and post-harvest) and the food production environment, while specifying target microorganisms (foodborne pathogens and indicator bacteria), resistance determinants, and staged testing/characterization (phenotypic AST, possible genetic testing and species-level/molecular analysis as feasible).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sample sources heading",
+        "sample source selection",
+        "sample source heading",
+        "animal sample sources",
+        "farm sample types",
+        "reference codes",
+        "slaughter sample types",
+        "food sample sources",
+        "food sample selection",
+        "retail sample types",
+        "plant sample selection",
+        "plant sample sources",
+        "environment sample selection",
+        "environment sample sources",
+        "target organism heading",
+        "target organism selection",
+        "target organism list",
+        "pathogen examples",
+        "indicator bacteria",
+        "resistance determinant selection",
+        "reference note",
+        "testing approach",
+        "isolate characterization"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "14. LABORATORIES",
+      "summary": "Requires laboratories in AMR monitoring/surveillance to perform bacterial isolation, species/serotype identification, typing and AST using standardized validated methods by trained personnel; maintain quality assurance/management systems or accreditation; participate in external proficiency testing; preserve sample integrity with appropriate storage/records; store isolates and reference strains to maintain viability and purity; and have access to national or international reference laboratories for technical support and molecular characterization.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratories heading",
+        "laboratory requirements",
+        "testing methods",
+        "quality management",
+        "proficiency testing",
+        "sample integrity",
+        "isolate storage",
+        "reference laboratory access"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "15. ANTIMICROBIAL SUSCEPTIBILITY TESTING",
+      "summary": "States that antimicrobial susceptibility testing should use methods standardized and validated by nationally or internationally recognized organizations where available.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "ast heading",
+        "validated methods"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "16. METHODS AND INTERPRETATIVE CRITERIA",
+      "summary": "Requires inclusion of quality control strains and consistent interpretation of MICs or disk diffusion per EUCAST or CLSI (or programme-specific criteria if unavailable) with quantitative results reported; recommends reporting by ECOFFs (wild type/non-wild type) or clinical breakpoints as used, and mandates retention of raw quantitative data to ensure comparability, detect emerging resistance and support temporal analyses and quantitative risk assessment.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "methods heading",
+        "quality control strains",
+        "interpretive criteria",
+        "result categorization",
+        "raw data retention",
+        "quantitative results"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "17. THE PANEL OF ANTIMICROBIALS FOR SUSCEPTIBILITY TESTING",
+      "summary": "Mandates harmonization of the phenotypic antimicrobial panel within national surveillance to ensure continuity and comparability (using consistent class representatives across sources, regions and time), selecting antimicrobials based on target bacteria, clinical/epidemiological relevance and ability to track resistance patterns, and considering use in animal/plant production, cross-resistance profiling and co-selection, with prioritization informed by human-health priority, national context and selection pressures.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "heading susceptibility panel",
+        "panel harmonization",
+        "panel selection",
+        "panel inclusion criteria",
+        "panel prioritization"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "21. COMPONENTS OF INTEGRATED MONITORING AND SURVEILLANCE PROGRAMME(S) FOR AMU",
+      "summary": "Defines 'antimicrobial use (AMU)' to include antimicrobials related to sales, prescriptions/orders, manufacturing, imports/exports and actual administration/application for food-producing animals or plants/crops and warns that sales data reflect volume distributed rather than volume actually administered; provides an enabling framework for countries to establish AMU monitoring appropriate to national resources and directs consideration of OIE Terrestrial and Aquatic Animal Health Codes.",
+      "categories": [
+        "analysis sampling",
+        "definition",
+        "scope",
+        "documentation"
+      ],
+      "subcategories": [
+        "heading amu components",
+        "amu definition",
+        "programme framework",
+        "external code reference"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "22. DESIGN OF AN INTEGRATED MONITORING AND SURVEILLANCE PROGRAMME(S) FOR ANTIMICROBIAL AGENTS INTENDED FOR USE IN FOOD-PRODUCING ANIMALS OR PLANTS/CROPS",
+      "summary": "Advises countries on designing integrated AMU monitoring by choosing sales and/or use data aligned with objectives, acknowledging limitations of each, encouraging collection of farm-level use data where feasible, selecting appropriate units and indicators, and specifying key elements for data collection: scope of agents/classes, protocols for qualitative/quantitative data, harmonized nomenclature, identification of species/production types, required level of detail (production type, route, reason), dosing information, and technical units for reporting.",
+      "categories": [
+        "analysis sampling",
+        "definition"
+      ],
+      "subcategories": [
+        "heading programme design",
+        "data collection design",
+        "data interpretation",
+        "sales data use",
+        "use data collection",
+        "measurement units",
+        "collection considerations",
+        "data scope",
+        "collection protocol",
+        "nomenclature harmonization",
+        "species identification",
+        "data detail level",
+        "dose information",
+        "reporting units",
+        "unit definition",
+        "indicator definition"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "23. SOURCES OF AMU DATA",
+      "summary": "Lists AMU data sources—sales data from registration authorities, marketing authorization holders, wholesalers, veterinarians, retailers, feed mills, industry groups etc.; import data from registration/customs authorities (with caution to avoid double counting and account for imports not intended for domestic use); and use data from farm/plant records, company records, prescriptions or surveys—and notes differences between quantities sold and actually used due to loss, expiry, stockpiling or population fluctuations.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "heading data sources",
+        "data source listing",
+        "sales data sources",
+        "import data sources",
+        "use data sources",
+        "data differences"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "24. COLLECTION AND REPORTING OF AMU",
+      "summary": "Outlines collection and reporting principles for AMU data, treating the numerator as either qualitative descriptors (classes) or quantitative amounts sold/used (requiring attention to units, product identification, package counts and strength), defines the denominator as the exposed animal population or plant/crop area (with additional population characteristics as needed), and notes that multiple units or indicators may be appropriate for reporting depending on national objectives.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "24.1 Collection of data",
+      "summary": "Explains collection of AMU data where the numerator may be qualitative (antimicrobial classes) or quantitative (amounts sold/used) and should capture product/agent identification, package counts and strength per unit, while the denominator—when used—should reflect the total food-producing animal population or plant/crop area/quantity exposed and may include species, production type, number, body weight and age to contextualize analysis.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "data collection heading",
+        "numerator definition",
+        "numerator components",
+        "denominator definition",
+        "data denominator"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "24.2 Reporting of data",
+      "summary": "States that multiple units of measurement and/or indicators for reporting sales and/or use data may be appropriate depending on national circumstances and surveillance objectives.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "reporting heading",
+        "sales use reporting"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "25. INTEGRATED ANALYSIS AND REPORTING OF RESULTS",
+      "summary": "Recommends structured, centralized or coordinated databases for integrated monitoring to allow easy data extraction and expansion, implementation of confidentiality and data management policies with ongoing validation, and recording of sampling design details (stratification/randomization) to link data across surveillance components.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "25.1 Management of data",
+      "summary": "Advises that data management should use structured, centralized or coordinated databases, include confidentiality and data integrity protections, implement regular data validation, and document sampling designs and plans (including stratification and randomization) to link monitoring components.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "data management heading",
+        "database structure",
+        "confidentiality policy",
+        "data validation",
+        "sampling design record"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

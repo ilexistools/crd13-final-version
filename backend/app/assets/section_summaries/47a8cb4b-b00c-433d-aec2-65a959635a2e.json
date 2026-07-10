@@ -1,0 +1,47 @@
+{
+  "doc_id": "47a8cb4b-b00c-433d-aec2-65a959635a2e",
+  "title": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "HARMONIZED IUPAC GUIDELINES FOR THE USE OF RECOVERY INFORMATION IN ANALYTICAL MEASUREMENT",
+      "summary": "Document title only (Harmonized IUPAC Guidelines for the Use of Recovery Information in Analytical Measurement); not a substantive regulatory provision.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CAC/GL 37-2001",
+      "summary": "Codex adopted the IUPAC Guidelines by reference (CAC/GL 37‑2001) with an exception to the first two sentences of Recommendation 1 and requires that reported analytical data indicate whether recovery correction was applied and, if so, include the amount and derivation method, and that correction functions be established on appropriate statistical grounds, documented, archived and available to clients.",
+      "categories": [
+        "other",
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "document code",
+        "adoption note",
+        "reporting recommendation",
+        "data reporting",
+        "reference heading",
+        "reference citation",
+        "footnote note",
+        "quoted note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    }
+  ]
+}

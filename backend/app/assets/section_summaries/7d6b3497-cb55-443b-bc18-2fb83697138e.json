@@ -1,0 +1,530 @@
+{
+  "doc_id": "7d6b3497-cb55-443b-bc18-2fb83697138e",
+  "title": "SECTION I - SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "SECTION I - SCOPE",
+      "summary": "Applies the Code of Practice to almonds, walnuts and generally all tree nuts and their products (e.g., blanched, diced, ground), providing basic hygienic requirements for orchards, farm processing and commercial shelling operations, but excludes products where tree nuts are a minor ingredient.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "purpose applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "SECTION II - DEFINITIONS",
+      "summary": "Defines ‘Blows’ as inshell nuts that are unusually lightweight due to extensive physiological, fungal, insect or other damage and that can be removed (for example by air flow).",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "term definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "RAW MATERIAL REQUIREMENTS",
+      "summary": "Sets raw material requirements covering (A) environmental sanitation—proper disposal of human and animal wastes, irrigation water that does not constitute a public health hazard, and pest/disease control only per appropriate official recommendations; (B) sanitary harvesting and production—procedures to avoid faecal contamination, use of potable water for cleaning, cleanable equipment, segregation/disposal of unfit nuts, protection from contaminants, approved fumigation of infested nuts, and avoidance of high humidity that favors mould/mycotoxins; and (C) transportation—cleanable conveyances and handling procedures to prevent contamination and spoilage.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2 Equipment and product containers",
+      "summary": "Requires equipment and product containers not to constitute a health hazard and mandates that reused containers be constructed for thorough cleaning and be cleaned and maintained to avoid contaminating the product.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "equipment containers"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3 Sanitary techniques",
+      "summary": "Mandates that harvesting and production operations (including hulling and drying) be conducted cleanly and sanitarily with equipment designed for easy cleaning and that any water used for cleaning must be potable.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitary techniques"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4 Removal of obviously unfit materials",
+      "summary": "Requires segregation and appropriate disposal of obviously unfit nuts, recommends defect separation and quality inspection after hulling, and prohibits use of nuts for human food if they exhibit obvious faecal contamination, infestation, decomposition or other defects rendering them unfit.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defect removal"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5 Protection of nuts from contamination",
+      "summary": "Requires precautions to protect nuts from contamination by animals, pests, chemicals or microbes during handling and storage, prompt transfer to suitable protected storage or processing, approved fumigation of infested nuts before storage/processing, storage in closed/protected containers, and avoidance of high humidity that promotes mould and mycotoxins.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contamination protection"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "C. Transportation",
+      "summary": "Requires transport conveyances to be adequate, of cleanable construction and maintained to avoid contaminating the harvested crop, and mandates handling procedures that prevent contamination, spoilage or deterioration, using special equipment where indicated.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport heading",
+        "transport facilities",
+        "handling procedures"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "SECTION IV - PLANT FACILITIES AND OPERATING REQUIREMENTS",
+      "summary": "Specifies plant facility and operating requirements including sanitary building design and layout to prevent pest ingress and contamination, separation of raw and finished product areas, potable water meeting WHO standards, proper plumbing, lighting and ventilation, handwashing and toilet facilities, sanitary equipment design and materials, maintenance and vermin control, personnel health and hygiene, and operational controls for raw materials, inspection, processing, packaging, preservation, storage and transport of finished products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "A. Plant Construction and Layout",
+      "summary": "Requires plant location, size and sanitary design to minimize odours/dust and permit cleaning, and details sanitary facilities and controls including separation of processes, potable water supply (not less than WHO standards), separate non‑potable lines without cross‑connections, adequate plumbing and waste disposal, lighting and ventilation protections, toilets that do not open into food areas with hand‑washing provisions, and convenient hand‑washing facilities in view of the processing floor.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "(2) Sanitary facilities and controls",
+      "summary": "Specifies sanitary facilities and controls: separation of raw material and packaging/process areas, potable water per WHO (1971) standards, separate identified auxiliary non‑potable lines with no cross‑connections, proper plumbing and waste disposal approved by authorities, adequate lighting and ventilation with protection of overhead fixtures, toilets not opening into food areas with associated hand‑washing, and convenient, sanitary hand‑washing facilities (single‑use towels recommended where practicable).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitary facilities heading",
+        "process separation",
+        "water supply",
+        "auxiliary water",
+        "plumbing waste",
+        "lighting ventilation",
+        "toilet facilities",
+        "handwashing facilities"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "B. Equipment and Utensils",
+      "summary": "Requires that food‑contact surfaces be smooth, non‑toxic, free of pits/crevices and able to withstand repeated cleaning (non‑absorbent unless process necessitates), that equipment be designed/installed for hygienic operation and easy cleaning, and that utensils for inedible or contaminating materials be identified and not used for edible products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": " (1) Materials",
+      "summary": "Specifies that food‑contact materials must be smooth, free from pits, crevices and loose scale, nontoxic, unaffected by foods, able to withstand repeated cleaning, and non‑absorbent unless a particular acceptable process requires otherwise (e.g., wood).",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "food contact materials"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": " (2) Sanitary design, construction and installation",
+      "summary": "Requires equipment and utensils to be designed, constructed and installed to prevent hygienic hazards and to permit easy and thorough cleaning, including installation of stationary equipment to allow cleaning access.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "sanitary design"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": " (3) Equipment and Utensils",
+      "summary": "Mandates that equipment and utensils used for inedible or contaminating materials be clearly identified and exclusively reserved so they are not used for handling edible products.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment segregation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": " C. Hygienic Operating Requirements",
+      "summary": "Sets hygienic operating requirements: sanitary maintenance of plant and premises, vermin control and exclusion of domestic animals, employee reporting/exclusion when ill or carrying transmissible diseases, secure storage and supervised use of toxic substances, and detailed personnel hygiene and food‑handling practices (clean clothing/headgear, frequent handwashing, prohibition of spitting/eating/tobacco in food areas, wound treatment and waterproof dressings, and maintenance of gloves in a clean sanitary condition).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": " (1) Sanitary maintenance of plant, facilities and premises",
+      "summary": "Requires buildings, equipment and utensils to be kept in good repair and in an orderly sanitary condition with frequent removal of waste and use of appropriate detergents and disinfectants that do not present a public health hazard.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitary maintenance"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": " (2) Vermin Control",
+      "summary": "Requires effective measures to prevent entry into the premises and harbourage on the premises of insects, rodents, birds or other vermin.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "vermin control"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": " (3) Exclusion of domestic animals",
+      "summary": "Requires dogs, cats and other domestic animals to be excluded from areas where food is processed or stored.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "animal exclusion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": " (4) Personnel health",
+      "summary": "Obliges plant management to require personnel to report infected wounds, sores or illnesses (notably diarrhoea) and to prevent anyone known to have a disease transmissible through food, to be a carrier of such organisms, or to have infected wounds/sores from working in areas or roles where they could contaminate food or food-contact surfaces.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personnel health"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5 Toxic substances",
+      "summary": "Requires rodenticides, fumigants, insecticides and other toxic substances to be stored in separate locked rooms or cabinets, handled only by properly trained personnel, and used only by or under direct supervision of personnel who understand the hazards including the risk of product contamination.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "toxic substances"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6 Personnel hygiene and food handling practices",
+      "summary": "Requires all food-plant personnel to maintain high personal cleanliness and clean suitable clothing/headdress, wash hands as often as necessary, prohibit spitting/eating/tobacco/chewing gum in food handling areas, take precautions to prevent contamination of product or ingredients, appropriately treat and waterproof-dress minor hand wounds with adequate first-aid facilities, and keep food-handling gloves clean, sanitary and impermeable unless inappropriate for the work.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personnel hygiene",
+        "personal cleanliness",
+        "hand washing",
+        "prohibited practices",
+        "contamination prevention",
+        "first aid",
+        "glove hygiene"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "D. Operating Practices and Production Requirements",
+      "summary": "Sets operating and production requirements for nut processing covering raw material acceptance (rejecting decomposed, toxic, extraneous, faecally contaminated or mouldy nuts), storage to protect against contamination/infestation, inspection/sorting, washing with potable or suitably treated water, timing of preparation and packaging to prevent contamination and microbiological hazards, packaging material storage and techniques to avoid contamination, preservation measures (moisture control, approved chemical preservatives, heat processing and hermetic sealing), and storage/transport conditions including pest protection and recommended optimum storage conditions or fumigation/cold-storage options.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "(1) Raw material handling",
+      "summary": "Requires rejection of raw materials known to contain decomposed, toxic or extraneous substances not removable by normal sorting (including mouldy or faecally contaminated nuts), storage on plant premises that protects against contamination/infestation and deterioration, and use of water for conveying raw materials only from an acceptable or suitably treated source and with official-agency permission.",
+      "categories": [
+        "scope",
+        "quality",
+        "storage",
+        "processing"
+      ],
+      "subcategories": [
+        "raw material handling heading",
+        "acceptance criteria",
+        "raw material storage",
+        "water source"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "(2) Inspection and sorting",
+      "summary": "Requires raw materials to be inspected, sorted or culled prior to or within the processing line to remove unfit materials, with such operations carried out in a clean and sanitary manner so only clean, sound materials enter further processing.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "sorting operations"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "(3) Washing or other preparation",
+      "summary": "Requires washing raw materials as needed to remove soil or other contamination, prohibits recirculation of such water unless suitably treated to avoid public-health hazard, and mandates potable-quality water for washing, rinsing or conveying final food products.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "washing preparation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "(4) Preparation  and  processing",
+      "summary": "Requires preparatory and packaging operations to be timed for expeditious handling of consecutive production units under conditions that prevent contamination, deterioration, spoilage or development of infectious or toxigenic microorganisms.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing timing"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "(5) Packaging of finished product",
+      "summary": "Requires packaging materials to be stored cleanly and not to transmit objectionable substances beyond limits acceptable to the official agency, to provide protection from contamination, and requires packaging to be performed under conditions that preclude introduction of contamination into the product.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "finished packaging",
+        "packaging materials",
+        "packaging techniques"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "(6) Preservation of finished product",
+      "summary": "Specifies that finished shelled nuts or nut meats must have moisture content preventing significant deterioration by decay, mould or enzymatic changes, and may be treated with chemical preservatives at Codex-approved levels and/or heat processed and hermetically sealed to ensure safety and prevent spoilage under normal conditions.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "preservation methods"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "E. Sanitation Control Programme",
+      "summary": "Recommends each plant designate a single individual (preferably independent of production) responsible for cleanliness with a permanent, trained sanitation staff, specific cleaning tools/methods, and a permanent sanitation schedule identifying critical areas, equipment and materials.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "sanitation programme",
+        "sanitation management"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "F. Laboratory Control Procedures",
+      "summary": "Recommends plants have access to laboratory control of sanitary quality, with scope varying by product, to reject nuts unfit for human consumption and to use recognized or standard analytical methods for interpretable results.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "laboratory control",
+        "laboratory testing"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "SECTION V - END PRODUCT SPECIFICATIONS",
+      "summary": "Sets end-product specifications requiring products to be, to the extent possible, free from objectionable matter; when tested by appropriate sampling/examination to be free from pathogenic microorganisms and not contain microbial-origin substances at toxic levels; and to comply with Codex provisions for food additives, contaminants and maximum pesticide residue levels.",
+      "categories": [
+        "analysis sampling",
+        "quality",
+        "contaminants"
+      ],
+      "subcategories": [
+        "end product specifications",
+        "sampling analysis",
+        "objectionable matter",
+        "sampling examination",
+        "pathogen absence",
+        "microbial toxins",
+        "additives and residues"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    }
+  ]
+}

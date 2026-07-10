@@ -1,0 +1,359 @@
+{
+  "doc_id": "f2accca1-0d96-4ae1-8724-28b84ede95bc",
+  "title": "STANDARD FOR FISH OILS CXS 329-2017",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR FISH OILS CXS 329-2017",
+      "summary": "Specifies the standard applies to fish oils presented for human consumption—i.e., oils derived from fish and shellfish as defined in CXC 52-2003—and applies only to fish oils used in food and food supplements where those supplements are regulated as foods.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2023 editorial correction",
+      "summary": "Editorial correction in 2023: Table 1 wording was corrected from 'non detect' to 'non-detectable' for consistency.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "correction heading",
+        "editorial note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Defines the scope: the standard covers fish oils for human consumption derived from fish and shellfish per CXC 52-2003 and applies to fish oils used in food and food supplements when those supplements fall under food regulations.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines \"fish oils\" intended for human consumption, describes typical extraction and refining processes (heating, alkali/acid treatment, solvent extraction, saponification, re-/trans-esterification), distinguishes crude/refined fish and fish liver oils and named oils (anchovy, tuna, krill, menhaden, salmon, cod liver, unnamed options), and specifies concentrated fish oils and concentrated ethyl ester products with numeric EPA+DHA concentration cutoffs for concentrated (35–50% EPA+DHA), highly concentrated (>50% EPA+DHA), concentrated ethyl esters (40–60% EPA+DHA) and highly concentrated ethyl esters (>60% EPA+DHA).",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "description heading",
+        "product description",
+        "processing applicability",
+        "processing methods",
+        "named oils",
+        "anchovy oil definition",
+        "tuna oil definition",
+        "krill oil definition",
+        "menhaden oil definition",
+        "salmon oil definition",
+        "unnamed oils",
+        "named liver oils",
+        "cod liver oil definition",
+        "unnamed liver oils",
+        "concentration process",
+        "concentrated oil criteria",
+        "high concentration criteria",
+        "ethyl ester oils",
+        "ethyl ester criteria",
+        "high ethyl ester criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Overview of essential composition and quality: refers to GLC fatty acid ranges (Table 1), sets additional compositional minima for specific oils, prescribes quality (oxidation/acid) limits and vitamin requirements for fish liver oils, and notes where national or product-specific exceptions (e.g., flavours) and restoration of vitamin losses apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1 GLC ranges of fatty acid composition (expressed as percentages of total fatty acids)",
+      "summary": "Requires samples of named fish oils and fish liver oils (Sections 2.1 and 2.3) to fall within the gas–liquid chromatography fatty acid percentage ranges specified in Table 1, allowing consideration of supplementary national, geographical or climatic criteria for compliance verification.",
+      "categories": [
+        "composition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "composition heading",
+        "fatty acid ranges"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.2 Other essential compositional criteria",
+      "summary": "Sets specific compositional minima: Engraulis ringens oil must have EPA+DHA ≥27% of total fatty acids; krill oil must contain ≥30% w/w phospholipids; concentrated and highly concentrated fish oils must contain at least 50% w/w EPA+DHA in the form of triglycerides and/or phospholipids.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "essential criteria heading",
+        "epa dha minimum",
+        "phospholipid minimum",
+        "triglyceride phospholipids"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.3 Quality parameters",
+      "summary": "Specifies quality (oxidation and acidity) limits and scope: the section excludes flavoured fish oils for oxidation testing, and requires for most fish oils acid value ≤3 mg KOH/g, peroxide value ≤5 meq active oxygen/kg, anisidine value ≤20 and ToTox ≤26, while fish oils high in phospholipids (≥30%, e.g., krill) are subject to a different acid value limit (≤45 mg KOH/g) and peroxide value ≤5 meq/kg.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "scope note",
+        "quality parameters",
+        "acid value",
+        "acid limit",
+        "peroxide value",
+        "peroxide limit",
+        "oxidation limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.4 Vitamins",
+      "summary": "Requires fish liver oils (except deep‑sea shark liver oil) to contain at least 40 µg retinol equivalents/ml (vitamin A) and 1.0 µg/ml vitamin D, permits restoration of vitamin losses during processing per CXG 9-1987, and states maximum vitamin levels and use of particular vitamins are subject to national requirements or prohibitions.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "vitamin section",
+        "vitamin requirements",
+        "vitamin a level",
+        "vitamin d level",
+        "nutrient restoration",
+        "vitamin restoration",
+        "vitamin maximums"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Permits antioxidants, sequestrants, antifoaming agents and emulsifiers in accordance with the General Standard for Food Additives (CXS 192-1995) for category 02.1.3 (including fish oil), requires flavourings to comply with CXG 66-2008, and provides the ToTox formula (ToTox = 2×Peroxide value + Anisidine value) with an explanatory note on oxidation measurement.",
+      "categories": [
+        "additives",
+        "quality"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "flavouring compliance",
+        "to tox formula",
+        "oxidation explanation"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "5. CONTAMINANTS",
+      "summary": "States that products must comply with the Codex General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995) and with Codex‑established maximum residue limits for pesticides and veterinary drugs.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "residue limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## 6. HYGIENE",
+      "summary": "Recommends that products be prepared and handled according to the General Principles of Food Hygiene (CXC 1-1969), the Code of Practice for Fish and Fishery Products (CXC 52-2003), and the Code for Storage and Transport of Edible Fats and Oils (CXC 36-1987), and that microbiological criteria be applied per CXG 21-1997.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "## 6.1 General hygiene",
+      "summary": "Recommends that fish oils covered by the standard be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1-1969), the Code of Practice for Fish and Fishery Products (CXC 52-2003), and the Code of Hygienic Practice for Storage and Transport of Edible Fats and Oils in Bulk (CXC 36-1987).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "general hygiene"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "## 6.2 Microbiological criteria",
+      "summary": "Requires products to comply with any microbiological criteria established in accordance with the Principles and Guidelines for the Establishment and Application of Microbiological Criteria Related to Foods (CXG 21-1997).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "## 7. LABELLING",
+      "summary": "Applies the General Standard for the Labelling of Pre-packaged Foods (CXS 1-1985) and Guidelines on Nutrition Labelling (CXG 2-1985); mandates naming per Section 2 (salmon source wild/farmed must be specified), requires certain information on non‑retail containers, obliges crude fish oils to be labelled as for human consumption only after further processing, and requires vitamin and EPA/DHA content declarations where the country of retail sale demands them.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "## 7.1 Name of the food",
+      "summary": "Requires the product name to conform to the Section 2 descriptions and mandates that salmon oil labels indicate the raw material source (wild or farmed).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name",
+        "product name declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## 7.2 Labelling on non-retail containers",
+      "summary": "Specifies non‑retail container labelling: name of the food, lot identification, and manufacturer/packer name and address must appear on the container (or be on accompanying documents), lot/name/address may be replaced by an identifiable mark linked to the documents, and crude fish oils must state they are for human consumption only after further processing.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labelling",
+        "non-retail particulars",
+        "identification mark",
+        "processing warning"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "## 7.3 Other labelling requirements",
+      "summary": "States that for fish liver oils the content of vitamins A and D (naturally present or restored) must be declared if required by the country of retail sale, and that EPA and DHA content must be declared for all fish oils where required by the country of retail sale.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "other labelling",
+        "vitamin declaration",
+        "fatty acid declaration"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "## 8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Mandates use of the Recommended Methods of Analysis and Sampling (CXS 234-1999) to check compliance and provides Table 1 with detailed gas‑liquid chromatography fatty acid composition ranges by named fish and fish liver oil categories (including ND ≤0.05% and NA definitions).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "compliance methods",
+        "fatty acid table",
+        "table header",
+        "table separator",
+        "composition ranges",
+        "notation definitions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    }
+  ]
+}

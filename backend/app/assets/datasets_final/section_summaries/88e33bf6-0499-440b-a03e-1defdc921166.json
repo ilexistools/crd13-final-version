@@ -1,0 +1,791 @@
+{
+  "doc_id": "88e33bf6-0499-440b-a03e-1defdc921166",
+  "title": "GUIDELINES FOR RISK ANALYSIS OF FOODBORNE ANTIMICROBIAL RESISTANCE CXG 77-2011",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR RISK ANALYSIS OF FOODBORNE ANTIMICROBIAL RESISTANCE CXG 77-2011",
+      "summary": "Title and revision note: 'Guidelines for Risk Analysis of Foodborne Antimicrobial Resistance (CXG 77-2011)', adopted 2011 and revised 2021.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "revision note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. INTRODUCTION",
+      "summary": "Explains that antimicrobial resistance (AMR) is a major public‑health and food‑safety issue linked to non‑human antimicrobial use including in food‑producing animals and crops, and that risk analysis is essential to assess human health risk from foodborne AMR; the guidelines provide a structured, multidisciplinary framework covering preliminary risk management, commissioning risk assessments, identification and selection of risk management options, monitoring and review, and stress the need for surveillance, communication and reference to related Codex/FAO/OIE/WHO documents.",
+      "categories": [
+        "scope",
+        "risk management",
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "background context",
+        "risk analysis rationale",
+        "scope statement",
+        "management framework",
+        "document structure",
+        "related references",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.  SCOPE",
+      "summary": "Scope: provides science‑based guidance on processes and methods for risk analysis of foodborne AMR related to non‑human antimicrobial use across food and animal feed (including aquaculture) and various use sectors, and excludes areas already covered by other Codex/international texts such as antimicrobial residues in food, AMR marker genes in recombinant‑DNA organisms, certain intentionally added non‑GM microorganisms and some ingredients like probiotics.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "exclusions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3.  DEFINITIONS",
+      "summary": "Defines key terms used in the guidance—including 'adverse health effect', 'antimicrobial agent' and 'class', 'antimicrobial resistance' and 'resistance determinant', 'commensal', 'co‑resistance', 'cross‑resistance', 'off‑label use', 'foodborne pathogen', 'food‑producing animals', 'interpretive criteria', 'pathogen' and 'risk management option'—and notes alignment with Codex definitions.",
+      "categories": [
+        "definition",
+        "documentation",
+        "risk management"
+      ],
+      "subcategories": [
+        "definition heading",
+        "introductory note",
+        "adverse health effect",
+        "antimicrobial agent",
+        "antimicrobial class",
+        "amr definition",
+        "resistance determinant",
+        "commensal microorganism",
+        "co-resistance",
+        "cross-resistance",
+        "off-label use",
+        "reference note",
+        "foodborne pathogen",
+        "food-producing animals",
+        "interpretive criteria",
+        "pathogen",
+        "risk option definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4.  GENERAL PRINCIPLES FOR FOODBORNE AMR RISK ANALYSIS",
+      "summary": "Sets general principles for foodborne AMR risk analysis: focus on human‑health impacts from non‑human antimicrobial use and selection/dissemination along the food chain; consider international guidance and national/regional differences; build on existing microbiological risk assessment/management principles while accounting for antimicrobial susceptibility and treatment consequences; target specific commodity–microorganism–antimicrobial combinations (including co‑ and cross‑resistance where relevant); emphasize surveillance of antimicrobial use and AMR; and include animal‑health aspects and relevant OIE standards for pre‑harvest RMOs.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4. 5 . FRAMEWORK FOR FOODBORNE AMR RISK ANALYSIS",
+      "summary": "Provides an overview (Figure 1) of the foodborne AMR risk‑analysis framework showing sequencing and decision points for preliminary risk management activities, risk assessment steps, the identification/evaluation/selection/implementation/monitoring of risk management options, and highlights that surveillance and risk communication are integral activities throughout the process.",
+      "categories": [
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "risk analysis framework",
+        "framework overview",
+        "figure caption",
+        "image placeholder",
+        "figure note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "6.  PRELIMINARY FOODBORNE AMR RISK MANAGEMENT ACTIVITIES",
+      "summary": "Overview of preliminary risk management activities for foodborne AMR: risk managers initiate work to determine the scope and magnitude of AMR food safety issues and may proceed to identify the issue, develop a risk profile, rank/prioritize issues, set preliminary risk management goals, establish a risk assessment policy, and commission a risk assessment as needed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "6.1. Identification of an AMR food safety issue",
+      "summary": "Initial step where risk managers identify and briefly describe the AMR food safety issue as the specific combination of hazard(s) (AMR microorganisms and/or determinants), the antimicrobial agent(s) involved, and the food commodity in which the hazard is identified.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "issue identification",
+        "issue description"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## 7.  FOODBORNE AMR RISK ASSESSMENT",
+      "summary": "Guidance that foodborne AMR risk assessment should use a transparent, science-based approach to identify and assess the chain of events affecting the frequency and amount of AMR microorganisms or determinants in food and to describe the magnitude and severity of resulting human health effects.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "7.1. Sources of information",
+      "summary": "Multiple and diverse data sources should be used and their strengths/limitations described for AMR risk assessment, including surveillance, outbreak investigations, clinical studies, treatment guidelines, environmental and laboratory studies, pharmacokinetic/pharmacodynamic research, animal/crop trials, expert opinion and existing risk assessments.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "7.2. Process of foodborne AMR risk assessment",
+      "summary": "The AMR risk assessment process should be based on the risk profile and assessment policy and comprises hazard identification, exposure assessment, hazard characterization and risk characterization, with choice of qualitative or quantitative methods driven by the questions and available data.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "7.3. Hazard identification",
+      "summary": "Hazard identification requires describing the foodborne AMR hazard by reviewing literature and surveillance to identify specific strains/genotypes, relevant food–microbe–antimicrobial combinations, the biology of AMR in relevant environments, and seeking expert opinion when necessary.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7.4. Exposure assessment",
+      "summary": "Exposure assessment maps the exposure pathway through the food production-to-consumption continuum, specifies required data, considers pre‑ and post‑harvest selection and dissemination factors (including feed and environmental reservoirs), and assesses whether AMR determinants in commensals or feed can transfer to human pathogens.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.5. Hazard characterization",
+      "summary": "Hazard characterization evaluates characteristics of the hazard, food matrix and host (including acquired resistance traits) to estimate the probability of infection and disease and the additional consequences of resistance (e.g. increased severity or treatment failure), using dose–response or other qualitative/semi‑quantitative/quantitative approaches as appropriate.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard characterization"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.6. Risk characterization",
+      "summary": "Risk characterization integrates hazard identification, exposure assessment and hazard characterization to estimate risk and potentially evaluate RMOs, expressing outcomes in measures (individual, population, per‑meal, annual, burden of disease) and noting important considerations such as sensitive subpopulations, key assumptions, variability/uncertainty, sensitivity analysis, strengths/limitations, alternatives, conclusions and research gaps.",
+      "categories": [
+        "risk assessment",
+        "other"
+      ],
+      "subcategories": [
+        "risk characterization",
+        "rmo evaluation",
+        "reference note",
+        "sensitive subpopulations",
+        "scientific assumptions",
+        "uncertainty analysis",
+        "assessment limitations",
+        "alternative considerations",
+        "conclusions and gaps",
+        "assessment outputs"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "## 8.  FOODBORNE AMR RISK MANAGEMENT",
+      "summary": "Guidance for risk managers to address foodborne AMR linked to non‑human antimicrobial use, advising consideration of regulatory and non‑regulatory RMOs that are proportionate to risk and should be identified, evaluated, selected, implemented, monitored and reviewed, with good agricultural/veterinary/hygienic practices and relevant Codex codes applied.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "8.1. Consideration of the foodborne AMR risk assessment results",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "8.2. Identification of foodborne AMR RMOs",
+      "summary": "This item is a bibliographic/reference note citing the FAO/WHO Kiel Report (reference 10) rather than substantive guidance.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8.3 Evaluation of foodborne AMR RMOs",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "8.4. Selection of foodborne AMR RMOs",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "8.5. Implementation of foodborne AMR risk management decision(s)",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "8.6. Monitoring and review of foodborne AMR risk management measures",
+      "summary": "",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "## 9.  SURVEILLANCE  OF  USE  OF  ANTIMICROBIAL  AGENTS  AND  AMR  MICROORGANISMS  AND DETERMINANTS",
+      "summary": "Section heading only on surveillance of antimicrobial use and of AMR microorganisms and determinants; no substantive content provided in this excerpt.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "surveillance heading"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "## 10.  FOODBORNE AMR RISK COMMUNICATION",
+      "summary": "Section heading introducing foodborne AMR risk communication, noting risk communication as a risk management tool (subsection 10.1).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "10.1.  Foodborne risk communication as a risk management tool",
+      "summary": "Subsection heading only: 'Foodborne risk communication as a risk management tool' with no substantive text in this excerpt.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "risk communication"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "Appendix 1. Elements for consideration in a foodborne AMR risk profile",
+      "summary": "Appendix reference listing elements for consideration in a foodborne AMR risk profile (no substantive elements included here).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "Appendix 2. Suggested elements for consideration in a foodborne AMR risk assessment",
+      "summary": "Appendix reference pointing to suggested elements for consideration in a foodborne AMR risk assessment (no substantive elements included here).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "Appendix 3. Examples of qualitative foodborne AMR risk assessment",
+      "summary": "Appendix reference indicating examples of qualitative foodborne AMR risk assessments (no substantive examples included here).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "1. INTRODUCTION",
+      "summary": "Introduction establishing AMR as a global public health and food safety concern linked to non‑human antimicrobial use and explaining that the guidelines provide a structured Codex risk analysis framework (preliminary risk management, risk assessment, risk management, verification and communication) for risks from AMR microorganisms and determinants in food and feed, with references to related FAO/WHO/OIE documents.",
+      "categories": [
+        "scope",
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background",
+        "purpose and context",
+        "application context",
+        "risk analysis process",
+        "document organization",
+        "related standards",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "2. SCOPE",
+      "summary": "States the guidelines' scope: to provide science‑based guidance on risk analysis methods for foodborne AMR linked to non‑human antimicrobial use across sectors including veterinary, plant protection and food processing; excludes topics covered by existing Codex or international guidance such as antimicrobial residues in food and AMR marker genes in recombinant‑DNA organisms, intentionally added non‑GM microorganisms and certain probiotics.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "out of scope"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "3. DEFINITIONS",
+      "summary": "Provides definitions of key terms used throughout the document—including adverse health effect, antimicrobial agent/class, antimicrobial resistance and resistance determinant, commensal, co‑resistance/cross‑resistance, off‑label use, foodborne pathogen, food‑producing animals, interpretive criteria, pathogen and risk management option—to establish a common understanding for the guidelines.",
+      "categories": [
+        "definition",
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "definition heading",
+        "definition intro",
+        "adverse health effect",
+        "antimicrobial agent",
+        "antimicrobial class",
+        "amr definition",
+        "resistance determinant",
+        "commensal definition",
+        "co-resistance",
+        "cross-resistance",
+        "off-label use",
+        "reference note",
+        "foodborne pathogen",
+        "food-producing animals",
+        "interpretive criteria",
+        "pathogen definition",
+        "management option"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "4. GENERAL PRINCIPLES FOR FOODBORNE AMR RISK ANALYSIS",
+      "summary": "Sets general principles for foodborne antimicrobial resistance (AMR) risk analysis: apply CXG 62-2007; assess human health impacts from non‑human antimicrobial use; consider selection/dissemination across the farm‑to‑fork continuum; use relevant international guidance and account for national/regional differences and available RMOs; build on CXG30 and CXG63 while incorporating microorganism susceptibility and treatment consequences; focus on specific combinations of commodity, AMR microorganism/determinant and antimicrobial agent (including co‑ and cross‑resistance where relevant); emphasize monitoring/surveillance of antimicrobial use and AMR prevalence; and, for pre‑harvest RMOs, include relevant animal health aspects per OIE standards.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "5. FRAMEWORK FOR FOODBORNE AMR RISK ANALYSIS",
+      "summary": "Provides an overview framework (Figure 1) for foodborne AMR risk analysis showing sequencing of preliminary risk management, risk assessment steps, the RMO lifecycle (identify/evaluate/select/implement/monitor/review) and cross‑cutting elements such as risk communication and surveillance, noting surveillance is integral to every step.",
+      "categories": [
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "framework heading",
+        "framework overview",
+        "figure title",
+        "image placeholder",
+        "figure note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "6. PRELIMINARY FOODBORNE AMR RISK MANAGEMENT ACTIVITIES",
+      "summary": "Explains preliminary risk‑management activities: risk managers determine the scope and magnitude of AMR food safety issues (AMR microorganisms/determinants, antimicrobials and commodities) and may initiate actions to manage identified risks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "6.1 Identification of an AMR food safety issue",
+      "summary": "Defines the initial step of identifying an AMR food safety issue as briefly describing the specific combination of hazard(s) (AMR microorganism(s)/determinant(s)), antimicrobial agent(s) involved and the food commodity, with identification informed by multiple information sources (see Section 7.1).",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "issue identification"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "6.2 Development of a foodborne AMR risk profile",
+      "summary": "Describes the foodborne AMR risk profile as a scoping description of the problem and context (state of knowledge, current controls and RMOs, policy context) developed by experts and consulted stakeholders; it is not a risk assessment, may vary in depth, lists elements in Appendix 1, can prompt decisions (including provisional decisions when data are incomplete) and requires communication of provisional decision conditions.",
+      "categories": [
+        "risk management",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk profile development",
+        "risk profile",
+        "risk profile elements",
+        "initial decisions",
+        "provisional decision"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "6.3 Ranking of the food safety issues and setting priorities for risk assessment and management",
+      "summary": "States that the AMR risk profile is the principal tool for ranking/prioritizing AMR food safety issues given resource constraints, with additional ranking criteria chosen by risk managers in consultation with interested parties and risk assessors.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "ranking priorities",
+        "risk ranking",
+        "ranking criteria"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "6.4 Establishment of preliminary risk management goals",
+      "summary": "Requires risk managers, after developing the risk profile and ranking issues, to set preliminary risk management goals that determine subsequent steps to address the identified AMR food safety issue.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "preliminary goals"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "6.5 Establishment of a risk assessment policy",
+      "summary": "Mandates establishing a risk assessment policy before commissioning an assessment, developed with risk assessors and stakeholders to ensure the assessment is systematic, complete, unbiased and transparent, with a clear mandate on scope, treatment of uncertainty and assumptions and, where needed, evaluation of risk changes from different RMOs.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "risk policy"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "6.6 Commission a foodborne AMR risk assessment",
+      "summary": "Advises risk managers may commission a foodborne AMR risk assessment and should document key elements in the commission, including a description of the AMR issue, scope and purpose, specific questions, preferred assessment type (quantitative/qualitative), required expertise/resources, and timelines/milestones.",
+      "categories": [
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "commission assessment",
+        "commission details"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "7. FOODBORNE AMR RISK ASSESSMENT",
+      "summary": "Introduces foodborne AMR risk assessment guidelines that provide a transparent, science‑based approach to evaluate events affecting the frequency and amount of AMR microorganisms humans are exposed to via food and to describe magnitude/severity of resulting adverse health effects across domestic and imported foods for a defined population.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "7.1 Sources of information",
+      "summary": "States multiple data sources are likely needed for AMR risk assessments and their strengths, limitations, discrepancies and gaps must be clearly described; possible sources include surveillance programmes and other listed data types.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "information sources",
+        "data limitations",
+        "surveillance data"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "7.2 Process of foodborne AMR risk assessment",
+      "summary": "Outlines the risk assessment process: start from the risk profile and policy, optionally do preliminary investigations, and perform hazard identification, exposure assessment, hazard characterization and risk characterization (exposure and hazard characterization may run in parallel); choose qualitative or quantitative approaches based on questions and data availability and use quantitative data where possible.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "risk assessment process",
+        "assessment planning",
+        "assessment components",
+        "qualitative quantitative"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "7.3 Hazard identification",
+      "summary": "Defines hazard identification as describing the foodborne AMR hazard by reviewing literature and surveillance to identify specific strains/genotypes and combinations of commodity, microorganism/determinant and antimicrobial agents, considering biology across environments and consulting experts when necessary.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hazard identification"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "7.4 Exposure assessment",
+      "summary": "Specifies exposure assessment activities: depict exposure pathways, list data needs and summarize data; consider antimicrobial use across sectors and pre‑/post‑harvest factors (Appendix 2 Sections 2.1–2.2) to estimate influence of use on AMR prevalence in animals/crops and likelihood/level of food contamination at consumption, and consider transfer of determinants (including via animal feed) and environmental reservoirs, referencing OIE and relevant Codex guidance.",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "exposure assessment",
+        "exposure pathways",
+        "exposure steps",
+        "oie reference",
+        "exposure figure",
+        "abbreviation note",
+        "image placeholder",
+        "pre post harvest",
+        "determinants exposure"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "7.5 Hazard characterization",
+      "summary": "Explains hazard characterization: evaluate hazard, food matrix and host to estimate probability of infection and disease and incorporate characteristics of acquired resistance (e.g., increased severity, treatment failure), use dose‑response where available, and express outcomes as conditional probabilities including additional consequences attributable to resistance.",
+      "categories": [
+        "analysis sampling",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard characterization"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "8. FOODBORNE AMR RISK MANAGEMENT",
+      "summary": "Advises risk managers on AMR risk management linked to non‑human antimicrobial use: consider regulatory and non‑regulatory measures proportionate to risk, identify/evaluate/select/implement/monitor/review RMOs, and assume good agricultural/veterinary/hygienic practices and relevant Codex codes are in place.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

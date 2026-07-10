@@ -1,0 +1,589 @@
+{
+  "doc_id": "277f1545-1656-4494-8ac2-068f41464cbb",
+  "title": "## GUIDELINE FOR THE CONDUCT OF FOOD SAFETY ASSESSMENT OF FOODS PRODUCED USING RECOMBINANT-DNA MICROORGANISMS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "## GUIDELINE FOR THE CONDUCT OF FOOD SAFETY ASSESSMENT OF FOODS PRODUCED USING RECOMBINANT-DNA MICROORGANISMS",
+      "summary": "Heading only: Guideline for the conduct of food safety assessment of foods produced using recombinant-DNA microorganisms.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## CAC/GL 46-2003",
+      "summary": "Document identifier/heading: CAC/GL 46-2003.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## SECTION 1 - SCOPE",
+      "summary": "Defines the Guideline's scope: it supports the Principles for the Risk Analysis of Foods Derived from Modern Biotechnology and addresses safety and nutritional assessment of foods produced using recombinant-DNA microorganisms, focusing on comparison with conventional counterparts and consideration of genetic stability, gene transfer, colonization/persistence, interactions with gastrointestinal flora or host, and newly expressed proteins or metabolites; risk management (including post-market monitoring) and further risk assessment are required if new or altered hazards are identified. The Guideline excludes safety issues related to agricultural microorganisms, environmental releases, safety of substances used as additives or processing aids (e.g., enzymes), probiotic health claims, and worker safety.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope exclusions",
+        "scope rationale",
+        "scope basis",
+        "scope aspects",
+        "safety considerations",
+        "footnote",
+        "assessment approach",
+        "management considerations",
+        "post-market monitoring",
+        "guideline approach"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION 2 - DEFINITIONS",
+      "summary": "Defines terms: 'Recombinant-DNA Microorganism' as bacteria, yeasts or filamentous fungi whose genetic material has been changed by in vitro nucleic acid techniques or direct nucleic acid injection; and 'Conventional Counterpart' as a related microorganism/strain with a known history of safe use in food production or food produced using traditional microorganisms with established safety based on common use.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "definitions intro",
+        "recombinant dna microorganism",
+        "conventional counterpart"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "SECTION 3 - INTRODUCTION TO FOOD SAFETY ASSESSMENT",
+      "summary": "Introduces the safety assessment approach, noting that traditional toxicological and animal-testing methods are often not suitable for whole foods or microorganisms and that a focused, multidisciplinary approach is required; the approach uses the concept of substantial equivalence to compare recombinant-DNA microorganisms and foods produced with them to their conventional counterparts and to identify and evaluate new or altered hazards. The assessment should consider interactions with the food matrix, microflora, and the safety of newly expressed proteins and secondary metabolites, and may request appropriately designed animal studies when characterization indicates insufficient data.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "12. The use of animal models for assessing toxicological effects is a major element in the risk assessment of many compounds, such as pesticides.",
+      "summary": "Explains that animal models are commonly used in toxicological risk assessment for well-characterized compounds by dosing animals at multiples of expected human exposure to identify adverse effects and derive safe intake levels using safety factors.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "toxicological testing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "13. Animal  studies  cannot  readily  be  applied  to  testing  the  risks  associated  with  whole  foods,  which  are  complex  mixtures of compounds, and often characterized by a wide variation in composition and nutritional value.",
+      "summary": "States that animal studies are not readily applicable to whole foods because of their complex composition, limited feasible dosing due to bulk and satiety, and the need to control dietary balance to avoid unrelated adverse effects, so animal studies on whole foods should only be requested when characterization shows insufficient data and when such studies are likely to yield meaningful information.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "animal study limitations"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "14. Animal studies typically employed in toxicological evaluations also cannot be readily applied to testing potential risks  associated  with  ingestion  of  microorganisms  used  for  food  production.",
+      "summary": "Conventional animal toxicology studies are not readily applicable to living microorganisms used in food because they are complex, can survive processing and persist in the gut; appropriate animal studies should be used when donors, genes, or gene products lack a history of safe use and may also be used to assess nutritional value or bioavailability of newly expressed substances.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "animal study use"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "15. Due to the difficulties of applying traditional toxicological testing and risk assessment procedures to whole foods, a more focused approach is required for the safety assessment of foods produced using recombinant-DNA microorganisms. This has been addressed by the development of a multidisciplinary approach for assessing safety that takes into account the intended effect, the nature of the modification and detectable unintended changes that may occur in the microorganism or in its action on the food, using the concept of substantial equivalence 6 .",
+      "summary": "Safety assessment of foods produced using recombinant-DNA microorganisms requires a focused, multidisciplinary approach that considers intended effect, nature of the modification, and detectable unintended changes using the concept of substantial equivalence.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "safety assessment method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "16. While the focus of a safety assessment will be on the recombinant-DNA microorganism, additional information on its  interaction  with  the  food  matrix  should  be  taken  into  consideration  when  applying  the  concept  of  substantial equivalence, which is a key step in the safety assessment process. However, the concept of substantial equivalence is not a safety assessment in itself. Rather it represents the starting point that is used to structure the safety assessment of both  a  recombinant-DNA  microorganism  relative  to  its  conventional  counterpart  and  the  food  produced  using  recombinant-DNA  microorganism  relative  to  its  conventional  counterpart.  This  concept  is  used  to  identify  for evaluation similarities and differences between a recombinant-DNA microorganisms used in food processing as well as the  food  produced  using  the  recombinant-DNA  microorganisms  and  their  respective  conventional  counterparts  as defined in paragraph 9. It aids in the identification of potential safety and nutritional issues and is considered the most appropriate  strategy  to  date  for  safety  assessment  of  foods  produced  using  recombinant-DNA  microorganisms.  The safety  assessment  carried  out  in  this  way  does  not  imply  absolute  safety  of  the  new  product;  rather,  it  focuses  on assessing  the  safety  of  any  identified  differences  so  that  the  safety  of  the  recombinant-DNA  microorganism  and  the  food  produced  using  recombinant-DNA  microorganism  can  be  considered  relative  to  their  respective  conventional counterparts.",
+      "summary": "The concept of substantial equivalence is a starting framework—not a safety assessment itself—used to compare a recombinant-DNA microorganism and the food it produces to their conventional counterparts to identify similarities and differences for targeted safety and nutritional evaluation.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "substantial equivalence"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## UNINTENDED EFFECTS",
+      "summary": "Unintended effects from genetic modification (e.g., altered traits, genetic instability, metabolic changes or fusion proteins) can be inherent to a range of breeding and molecular techniques and may be deleterious, neutral, or beneficial, so safety assessment must use multiple types of data and methods to detect such effects and evaluate their biological relevance because no single test can identify all possible unintended effects.",
+      "categories": [
+        "other",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "section heading",
+        "unintended effects",
+        "footnote",
+        "genetic instability",
+        "metabolic changes",
+        "safety assessment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "FRAMEWORK OF FOOD SAFETY ASSESSMENT",
+      "summary": "Food safety assessment of products made with recombinant-DNA microorganisms follows a stepwise framework focused on the microorganism (description, recipient, donor, genetic modification and characterization) and a safety assessment covering expressed substances, compositional analyses, metabolites, processing effects, immunological effects, gastrointestinal viability/residence, antibiotic resistance/gene transfer and nutritional modification, with additional data generated as needed and studies conducted to sound scientific and GLP standards to conclude whether the new food or organism is as safe as its conventional counterpart.",
+      "categories": [
+        "risk assessment",
+        "documentation",
+        "composition",
+        "processing",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "risk assessment heading",
+        "assessment framework",
+        "organism description",
+        "recipient description",
+        "donor description",
+        "genetic modification",
+        "genetic characterization",
+        "safety assessment",
+        "toxicity assessment",
+        "compositional analysis",
+        "metabolite evaluation",
+        "processing effects",
+        "immunological effects",
+        "gastrointestinal viability",
+        "gene transfer",
+        "nutritional modification",
+        "additional data",
+        "study design",
+        "safety conclusion"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "SECTION 4- GENERAL CONSIDERATIONS",
+      "summary": "Section heading only; no substantive content in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "DESCRIPTION OF THE RECOMBINANT-DNA MICROORGANISM",
+      "summary": "Provide a sufficient description of the recombinant-DNA bacterial, yeast, or fungal strain and the food produced for safety assessment, conserve stock cultures with molecular identification (preferably in culture collections), and make stocks available to regulatory authorities on request.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "organism description heading",
+        "organism description"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "DESCRIPTION OF THE RECIPIENT MICROORGANISM AND ITS USE IN FOOD PRODUCTION",
+      "summary": "A comprehensive description of the recipient microorganism and its food-use history is required, including identity, strain source, cultivation and development history, relevant genotype/phenotype (toxins, antibiotics, resistance, pathogenicity factors), genetic stability, safe-use history, and production parameters, and organisms with toxins, transmissible resistance elements or virulence-associated genes should not be used as recipients.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "recipient description heading",
+        "recipient criteria",
+        "recipient identity",
+        "use history",
+        "genotype phenotype",
+        "safe use history",
+        "production parameters",
+        "genetic stability",
+        "history and handling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "DESCRIPTION OF THE DONOR ORGANISM(S)",
+      "summary": "Provide identity and source information and safety-relevant genotype/phenotype for donor and intermediate organisms, including whether related species exhibit pathogenicity or toxin production, and report past/present uses in the food supply and other exposure routes.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "donor description heading",
+        "donor organism description",
+        "donor identity",
+        "food safety info",
+        "donor genotype phenotype",
+        "exposure history"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "36. Information should be provided on any expressed substances in the recombinant-DNA microorganism; this should include:",
+      "summary": "Report any expressed substances from the recombinant-DNA microorganism including the gene product(s) (protein or untranslated RNA), function, phenotypic trait description, site and level of expression and metabolites, amount of inserted gene product when relevant, and absence or alteration of gene products/metabolites if applicable to the intended modification.",
+      "categories": [
+        "documentation",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "expressed substances",
+        "gene product info",
+        "gene function",
+        "phenotypic traits",
+        "expression levels",
+        "gene product amount",
+        "gene product absence"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "37. In addition, information should be provided:",
+      "summary": "Provide data demonstrating genetic arrangement stability or rearrangements after introduction and propagation, effects of amino acid modifications on post‑translational processing, stable inheritance and expression of intended traits, correct cellular localization or secretion of expressed traits, any effects on recipient genes, and identity/expression of fusion proteins.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "additional information",
+        "genetic stability",
+        "protein modification",
+        "trait inheritance",
+        "expression localization",
+        "host genome impact",
+        "fusion protein identity"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "38. The safety assessment of the modified microorganism should be performed on a case by case basis depending on the nature and extent of the introduced changes.",
+      "summary": "Safety assessment of a modified microorganism must be done case by case based on the nature and extent of changes; conventional toxicology may be unnecessary when the substance has a safe consumption history but may be required otherwise, and effects on the food matrix and, if needed, animal or in vitro studies should be considered.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "safety assessment"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "39. When a substance is new to foods or food processing, the use of conventional toxicology studies or other applicable studies on the new substance will be necessary.",
+      "summary": "When a substance is new to foods or food processing, conventional toxicology or other applicable studies on the isolated or equivalently synthesized substance are necessary, and anticipated consumer exposure and dietary intake should be provided.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "toxicology studies"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "## Assessment of Immunological Effects",
+      "summary": "Assess potential allergenicity for any protein resulting from an inserted gene that may be present in the food, assume and avoid genes from known allergenic sources unless evidence shows otherwise (including gluten-related genes), and examine potential interactions with the immune system for recombinant-DNA microorganisms that remain viable in foods.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "immunological effects heading",
+        "allergenicity assessment",
+        "allergenic source genes",
+        "immune interaction"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "## Assessment of Viability and Residence of Microorganisms in the Human Gastrointestinal Tract",
+      "summary": "Decide whether to test viability and residence of recombinant‑DNA microorganisms in the human gastrointestinal tract based on whether viable organisms remain in the final food and the nature of intended/unintended modifications; if processing eliminates viability, testing is unnecessary, but where viable organisms persist testing of residence time and impacts on intestinal microflora within the food matrix may be desirable.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "gastrointestinal viability heading",
+        "residence assessment",
+        "residence testing"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "## ANTIBIOTIC RESISTANCE AND GENE TRANSFER",
+      "summary": "Strains encoding antibiotic resistance on transmissible elements should not be used where such elements are present in the final food, alternative non‑antibiotic selection technologies are preferred, antibiotic markers may be acceptable in intermediates if removed from the final strain, and gene transfer risks should be considered and minimized (e.g., chromosomal integration, avoiding genes conferring selective advantage or sequences that mediate integration).",
+      "categories": [
+        "risk assessment",
+        "risk management",
+        "other"
+      ],
+      "subcategories": [
+        "antibiotic resistance heading",
+        "transmissible resistance",
+        "marker gene use",
+        "gene transfer risk",
+        "gene transfer mitigation",
+        "chromosomal integration",
+        "footnote",
+        "avoid selective advantage",
+        "avoid integration sequences"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "NUTRITIONAL MODIFICATION",
+      "summary": "Assess compositional changes to key nutrients for all foods produced using recombinant‑DNA microorganisms, estimate likely intake (including high-consumption scenarios) and impacts on vulnerable subpopulations, evaluate bioavailability and stability, and conduct additional testing (including animal studies) when composition or bioavailability differ or the food is intended for health benefits.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "nutritional modification heading",
+        "compositional changes",
+        "dietary intake",
+        "nutrient profile impact",
+        "comparative assessment",
+        "additional testing"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "REVIEW OF SAFETY ASSESSMENTS",
+      "summary": "The safety assessment aims to determine whether the recombinant‑DNA microorganism product is as safe as its conventional counterpart, and assessments should be revisited if new scientific information calls the original conclusion into question.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "review heading",
+        "safety review"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "ANNEX: ASSESSMENT OF POSSIBLE ALLERGENICITY",
+      "summary": "Annex heading only: title indicates an annex on assessment of possible allergenicity but contains no substantive text here.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "SECTION 1 - INTRODUCTION",
+      "summary": "All newly expressed proteins produced by recombinant‑DNA microorganisms that may be present in the final food should be assessed for allergenic potential, but because no definitive predictive test exists an integrated, stepwise, case‑by‑case approach using multiple evidence types is recommended, with the endpoint being the likelihood that the protein is a food allergen.",
+      "categories": [
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "allergenicity assessment",
+        "allergenicity approach",
+        "assessment endpoint"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "SECTION 2 - ASSESSMENT STRATEGY",
+      "summary": "Describes the initial allergenicity assessment strategy for newly expressed proteins, requiring determination of the protein source, amino acid sequence similarity to known allergens, and structural/physicochemical properties (e.g., enzymatic susceptibility, heat and acid stability); advises weight-of-evidence comparisons of sequence and characteristics, consideration of expression host effects on post‑translational modification, and states that genes from known allergenic sources should be presumed allergenic unless evidence shows otherwise.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "assessment strategy",
+        "initial assessment steps",
+        "sequence comparison",
+        "allergenic source"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "SECTION 3 - INITIAL ASSESSMENT",
+      "summary": "Section heading only (initial assessment) with no substantive text provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "SECTION 3.1 - SOURCE OF THE PROTEIN",
+      "summary": "Requires submission of information on any reports of allergenicity associated with the donor organism, defines allergenic sources as those with reasonable evidence of IgE‑mediated oral, respiratory or contact allergy, and indicates that knowledge of the source should guide availability of sera, documented reaction types/frequency/severity, and structural, physicochemical and immunological data on known allergenic proteins.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "source of protein",
+        "donor organism data"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "SECTION 3.2 - AMINO ACID SEQUENCE HOMOLOGY",
+      "summary": "Stipulates that sequence homology comparisons (e.g., using FASTA or BLASTP and contiguous identical amino‑acid segment searches) be used to assess similarity between newly expressed proteins and known allergens to infer allergenic potential, and that the choice of contiguous segment size be scientifically justified to reduce false negatives/positives.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sequence homology",
+        "sequence search method"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

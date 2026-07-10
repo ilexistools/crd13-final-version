@@ -1,0 +1,129 @@
+{
+  "doc_id": "0932083e-db41-491e-bdec-458f566013ce",
+  "title": "TYPICAL PRODUCTION PROCESS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "TYPICAL PRODUCTION PROCESS",
+      "summary": "States that proper processing effectively reduces cyanogenic compounds in cassava products while inadequate or rushed processing can leave high hydrogen cyanide residues; production processes vary by intended cassava product (e.g., gari, fufu, flour, starch, chips) with different processing steps.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing heading",
+        "cyanide reduction",
+        "process overview"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "GARI PRODUCTION",
+      "summary": "Outlines gari production steps—selection, peeling (removes cyanogenic glycoside-rich outer parts), washing, grating (hydrolysis by linamarase), dewatering/fermentation (by pressing), sieving and roasting—and explains fermentation timing (12–24 h favors volatile HCN loss, longer fermentation increases acidity that can fix cyanohydrins causing slower dissociation) and that roasting affects residual cyanogenic compounds and shelf life.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "product process heading",
+        "gari process",
+        "selection step",
+        "peeling step",
+        "washing step",
+        "grating step",
+        "dewatering fermentation",
+        "traditional fermentation",
+        "fermentation conditions",
+        "cyanide during fermentation",
+        "sieving step",
+        "roasting step"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "FUFU AND FUFU POWDER PRODUCTION",
+      "summary": "Describes fufu and fufu flour production steps—selection, peeling (removes cyanogenic glycosides), washing, cutting, fermentation (typically 3–4 days), mashing/pounding and sieving, dewatering (pressing) and drying (sun or mechanical) to produce instant fufu flour.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "product process heading",
+        "fufu process",
+        "selection step",
+        "peeling step",
+        "washing step",
+        "cutting step",
+        "fermentation step",
+        "mashing step",
+        "dewatering step",
+        "drying step"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "DRIED CASSAVA CHIPS",
+      "summary": "Specifies dried cassava chips as dried granules from clean fresh cassava produced by peeling (to remove outer parts that contain most cyanogenic glycosides), chipping/slicing (best when peeled cassava is thinly sliced under 10 mm to promote rapid drying) and sun-drying to yield clean, white chips free from extraneous matter suitable for long-term storage.",
+      "categories": [
+        "processing",
+        "storage"
+      ],
+      "subcategories": [
+        "product heading",
+        "chip production",
+        "peeling step",
+        "slicing step",
+        "stored chips"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "OTHER CASSAVA PRODUCTS",
+      "summary": "Describes other cassava products: snack chips may be from extruded flour or dried chips (peeling to remove cyanogenic glycosides, slicing ideally <2 mm for rapid drying, and frying which at >180°C seals surface), outlines cassava starch production steps (selection, peeling, washing, grating, starch separation by sedimentation or centrifugation, and drying), and notes numerous traditional cassava foods prepared by similar processes with occasional variations (soaking, wrapping, etc.).",
+      "categories": [
+        "processing",
+        "presentation",
+        "composition",
+        "hygiene"
+      ],
+      "subcategories": [
+        "product heading",
+        "snack form",
+        "peeling step",
+        "slicing step",
+        "frying step",
+        "starch uses",
+        "selection step",
+        "washing step",
+        "grating step",
+        "starch separation",
+        "drying",
+        "other process steps"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    }
+  ]
+}

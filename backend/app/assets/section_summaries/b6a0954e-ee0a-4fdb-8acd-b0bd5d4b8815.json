@@ -1,0 +1,150 @@
+{
+  "doc_id": "b6a0954e-ee0a-4fdb-8acd-b0bd5d4b8815",
+  "title": "1. SCOPE AND GENERAL PRINCIPLES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE AND GENERAL PRINCIPLES",
+      "summary": "Guidelines apply to claims made for any food (regardless of a specific Codex standard) and establish the principle that foods must not be described or presented falsely, misleadingly or deceptively, with the marketer required to justify claims.",
+      "categories": [
+        "scope",
+        "documentation"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "general principle",
+        "claim substantiation"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DEFINITION",
+      "summary": "Defines a 'claim' as any representation stating, suggesting or implying that a food has particular characteristics relating to origin, nutritional properties, nature, production, processing, composition or any other quality.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "claim definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3. PROHIBITED CLAIMS",
+      "summary": "Specifies prohibited claims, including assertions that a food provides all essential nutrients (except for regulated products or where permitted by authorities), implications that ordinary foods or a balanced diet cannot supply nutrients, unsubstantiated claims, disease-prevention/treatment claims (unless in accordance with applicable Codex standards/guidelines or national law), and claims that could create fear about similar foods.",
+      "categories": [
+        "labelling",
+        "documentation",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "prohibited claims",
+        "prohibited claims intro",
+        "adequate nutrient claim",
+        "balanced diet claim",
+        "substantiation requirement",
+        "disease claim",
+        "codex conformity",
+        "national authorization",
+        "fear appeal claim"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "4. POTENTIALLY MISLEADING CLAIMS",
+      "summary": "Gives examples of potentially misleading claims such as meaningless or incomplete comparatives/superlatives and vague hygienic-practice claims (e.g., 'wholesome', 'healthful', 'sound').",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "misleading claims heading",
+        "misleading claims intro",
+        "meaningless claim",
+        "hygienic practice claim"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "GENERAL GUIDELINES ON CLAIMS",
+      "summary": "This is a section heading ('GENERAL GUIDELINES ON CLAIMS') and contains no substantive guidance in the excerpt provided.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general guidelines title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": " CAC/GL 1-1979",
+      "summary": "Document identifier 'CAC/GL 1-1979' indicating the Codex guideline code and year.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5. CONDITIONAL CLAIMS",
+      "summary": "Permits certain conditional claims subject to specified requirements: added nutrients only when consistent with Codex principles and national legislation; reduced/omitted nutrients similarly; descriptive terms ('natural', 'organic', etc.) to follow national practice and not contradict prohibitions; religious/ritual claims (e.g., Halal, Kosher) only if conforming to appropriate authorities; claims that highlight absence/non-addition are allowed provided they are not misleading and meet conditions (not covered by specific Codex requirements, normally expected by consumers, not substituted without disclosure, and permitted), and absence-of-nutrient claims invoke mandatory nutrient declaration under Codex nutrition labelling guidelines.",
+      "categories": [
+        "labelling",
+        "composition",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "conditional claims heading",
+        "conditional claims intro",
+        "added nutrient claim",
+        "reduced nutrient claim",
+        "descriptive terms use",
+        "religious conformity",
+        "common characteristic claim",
+        "absence claim conditions",
+        "specific requirement exclusion",
+        "consumer expectation",
+        "substitution disclosure",
+        "permitted presence",
+        "nutrient absence claim"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    }
+  ]
+}

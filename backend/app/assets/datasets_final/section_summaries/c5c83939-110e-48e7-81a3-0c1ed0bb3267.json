@@ -1,0 +1,723 @@
+{
+  "doc_id": "c5c83939-110e-48e7-81a3-0c1ed0bb3267",
+  "title": "1. PURPOSE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. PURPOSE",
+      "summary": "Establishes guidance to ensure vegetable protein products (VPP) are used safely and suitably in foods by setting principles to make the nutritional quality appropriate for intended use and principles for appropriate labelling of foods containing VPP.",
+      "categories": [
+        "scope",
+        "labelling"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "purpose statement",
+        "nutritional principles",
+        "labelling principles"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. SCOPE",
+      "summary": "Scope: these general guidelines apply to all situations where proteins derived from vegetable sources (excluding Single Cell Protein) are utilised in foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3. DEFINITIONS",
+      "summary": "Provides definitions of terms related to protein quality and measurement (e.g., available amino acids, Amino Acid Score, bioavailability, limiting amino acid, NPR/RNPR, Reference Amino Acid Pattern, utilizable protein) and defines Vegetable Protein Products (VPP) as products with reduced non‑protein constituents on a dry‑weight basis.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "protein terms",
+        "vpp definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "4. BASIC PRINCIPLES",
+      "summary": "Sets basic principles: VPP for human consumption must not pose a health hazard (with testing guidance in the annex), nutritional quality of VPP must suit intended use, and the presence of VPP in foods must be clearly labelled; the labelling provisions require a complete ingredient list (with source and product type of vegetable protein ingredients shown) and that any nutrient labelling follow Codex Guidelines.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4.3 The presence of VPP in foods should be clearly indicated on the label.",
+      "summary": "Requires that the presence of vegetable protein products (VPP) in foods be clearly indicated on the product label.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "presence declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "## 5.  USES OF VPP FOR FUNCTIONAL AND OPTIONAL PURPOSES",
+      "summary": "Sets principles for using vegetable protein products (VPP) as functional/optional ingredients: low-level use must not replace principal protein or associated nutrients; VPP levels are calculated on a dry-weight basis in the final product; regulation and labelling follow rules for other functional/optional ingredients, with declaration near the product name required if omission would mislead consumers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5.1 When VPP are used at low relative levels for functional purposes, or as optional ingredients, their use should not result in any replacement of principal protein and associated nutrients in the food to which they are added.",
+      "summary": "When VPP are used at low relative levels for functional or optional purposes, their use must not result in replacement of the food's principal protein and associated nutrients.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "replacement principle"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5.2 For the purpose of defining VPP as a functional or optional ingredient in Codex Standards the level of VPP should be calculated on a dry weight basis in the final product. The actual level of use will vary according to the nature of the protein and of the product concerned.",
+      "summary": "For defining VPP as a functional or optional ingredient in Codex Standards, the level of VPP should be calculated on a dry-weight basis in the final product, with actual use levels varying by protein type and product.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "use level basis"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5.3 The use of VPP as a functional or optional ingredient should be regulated in the same way as other functional or  optional  ingredients  with  no  required  change  in  the  name  of  the  product.  However,  a  declaration  of  the presence of VPP should be given in connection with the name of the product if its omission would mislead the consumer.",
+      "summary": "Use of VPP as functional/optional ingredients is regulated like other such ingredients without requiring a product name change, but VPP presence must be declared with the product name if omitting it would mislead consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## 6.  USES OF VPP TO INCREASE CONTENT OF UTILIZABLE PROTEIN",
+      "summary": "Guidance for using VPP to increase utilizable protein: VPP can raise dietary protein quantity and/or quality but are ineffective if energy needs are unmet; the general supplementation/complementation target is a 20% increase in utilizable protein, with specified minimum available amino-acid levels for complementation and restriction to L-amino acids if added; choose VPP processed to optimize nutrition and cost, add vitamins/minerals per Codex principles (consider fortification where VPP is a suitable vehicle or contains anti-nutritional factors), consider nutritional adequacy when VPP replace staples, and declare protein content and assess protein quality per Codex nutrition-labelling and established measurement methods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "6.1 VPP may be used to improve the protein nutriture of populations by increasing the content of utilizable protein in the diet. This can be done by increasing the protein content of the diet or increasing the protein quality of the proteins in the diet, or a combination of both. It should be noted that increasing the protein quantity and/or quality of a diet will be ineffective if energy requirements are not met.",
+      "summary": "VPP may be used to improve population protein nutriture by increasing utilizable protein via higher protein content and/or improved protein quality, but such measures are ineffective if energy requirements are not met.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "nutritional improvement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "6.2 In  general,  the  minimum  aim  of  supplementation  and/or  complementation  should  be  to  increase  utilizable protein by 20%.",
+      "summary": "The minimum general aim of supplementation and/or complementation is to increase utilizable protein by 20%.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "supplementation target"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "6.3 For a significant degree of complementation in protein quality of diets deficient in lysine or in methionine + cysteine or in tryptophan, the complementary protein should contain at least 5.8% available lysine or 2.5% available methionine + cysteine or 1.1% available tryptophan, respectively.",
+      "summary": "For significant complementation of diets deficient in lysine, methionine+cysteine, or tryptophan, the complementary protein should contain at least 5.8% available lysine, 2.5% available methionine+cysteine, or 1.1% available tryptophan respectively.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "amino acid levels"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6.4 Addition  of  amino  acids  should  only  be  considered  when  the  desired  increase  in  utilizable  protein  cannot practicably be achieved by a suitable mixture of complementary or supplementary proteins. Only L forms of amino acids should be used.",
+      "summary": "Addition of free amino acids should be considered only when desired increases in utilizable protein cannot practicably be achieved by suitable mixtures of complementary or supplementary proteins, and only L-forms of amino acids may be used.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "amino acid addition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "6.5 Since a variety of VPP are available for use for this purpose, the choice of VPP should favour products which have been processed in such ways and to such extent as to optimize both the nutritional contributions and economic considerations.",
+      "summary": "Selection of VPP should favour products processed in ways that optimize their nutritional contributions while taking economic considerations into account.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "process selection"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6.6 The  addition  of  vitamins  and  minerals  should  be  in  accordance  with  the  Codex General  Principles  for  the Addition of Essential Nutrients to Foods .",
+      "summary": "Addition of vitamins and minerals to VPP must comply with the Codex General Principles for the Addition of Essential Nutrients to Foods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.6.1 The need for fortification of VPP with vitamins and minerals should be considered in the following instances:",
+      "summary": "Fortification of VPP with vitamins and minerals should be considered when the VPP is a suitable vehicle in regions with demonstrated need or when the VPP contains anti-nutritional factors (e.g., phytate) that may impair nutrient bioavailability or utilization.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "(i) when the VPP is a suitable vehicle for fortification in regions where there is a demonstrated need for increasing the intake of one or more vitamin(s) or mineral(s) in one or more population groups;",
+      "summary": "Consider fortifying VPP when it is a suitable vehicle in regions or population groups with a demonstrated need to increase intake of one or more vitamins or minerals.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fortification vehicle"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "(ii) when the VPP contains anti-nutritional factors (e.g., phytate) which may interfere with the bioavailability or utilization of nutrients.",
+      "summary": "Consider fortification when the VPP contains anti-nutritional factors (e.g., phytate) that may interfere with the bioavailability or utilization of nutrients.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "anti-nutritional factors"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.6.2 The  need  for  nutritional  adequacy  of  the  VPP  should  be  considered  in  those  instances  in  which  the  VPP replaces staple ingredients which are higher in vitamins and minerals than the VPP.",
+      "summary": "Evaluate the nutritional adequacy of VPP when it replaces staple ingredients that are higher in vitamins and minerals than the VPP.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "nutritional adequacy"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.7 When VPP is used in a food to increase the content of utilizable protein, its presence need not be indicated in the name of the food unless its omission would mislead the consumer.",
+      "summary": "When VPP is used to increase utilizable protein, declaring its presence in the food name is not required unless omitting it would mislead consumers.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name omission"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.8 The protein content of a food in which VPP has been added to increase the content of utilizable protein should be  declared  in  accordance  with  the  Codex Guidelines  on  Nutrition  Labelling .  Where  claims  are  0",
+      "summary": "Protein content of foods with added VPP must be declared per the Codex Guidelines on Nutrition Labelling, and any claims about protein quality must be supported by assessment using established protein-quality measurement methods.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "protein declaration"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8.  USES OF VPP AS SOLE PROTEIN SOURCE IN PRODUCTS WITH NEW IDENTITIES",
+      "summary": "Notes that foods made with VPP as the sole protein source will develop distinct identities and nutrient compositions and need not have specific nutrient requirements, but they must be safe, produced in accordance with Good Manufacturing Practices, and labelled per the Codex Standard for the Labelling of Prepackaged Foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "product identity heading",
+        "new product identity"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "ANNEX",
+      "summary": "Annex: provides Codex Guidelines for testing safety and nutritional quality of VPP, defining VPP and highlighting potential natural toxic/anti‑nutritional factors and processing effects (e.g., nutrient losses, solvent residues), and recommends pre‑use testing for novel VPP including specifications/process details, chemical analyses (proximate composition, amino acids, lipids, minerals, vitamins, solvent residues), microbiological assessment, nutritional quality measurement, toxicological studies (subacute animal studies with further chronic/reproductive/mutagenicity testing as needed) and appropriate statistical/reporting documentation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "## 1.  CATEGORIES OF INFORMATION NEEDED",
+      "summary": "Lists categories of information required for each novel VPP: specifications and process details sufficient to identify potential problems, nutritional value predicted from amino-acid content and appropriate protein-quality methods, microbiological sanitation procedures, and toxicological safety assessment based on production methods, chemical/physical properties and microbial content supported where necessary by laboratory-animal data.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "## 1.1 Specifications and process details",
+      "summary": "Requires inclusion of a general description of the process used to prepare the VPP and the product specification, sufficient for evaluators to identify potential problem areas such as processing damage to nutrient content.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "specification heading",
+        "process description"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "## 1.2 Nutritional value",
+      "summary": "States that the nutritional value of the VPP should be predicted from its amino acid content and then assessed by the appropriate protein-quality method referenced in the applicable Codex standard.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "nutrition heading",
+        "protein quality method"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "## 1.3 Microbiological status",
+      "summary": "Requires inclusion of the procedures needed to maintain adequate sanitation for raw material sources and the processing conditions used to produce the VPP.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "microbiology heading",
+        "sanitation procedures",
+        "footnote citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "1.4 Toxicological safety",
+      "summary": "States that VPP safety should be predicted from production methods, chemical and physical properties, and microbial content and metabolites, and supported by laboratory-animal safety data where necessary.",
+      "categories": [
+        "analysis sampling",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "toxicity heading",
+        "safety evaluation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "2.  EVALUATION",
+      "summary": "Mandates that each novel VPP undergo chemical, microbial, nutritional and toxicological analyses per the Recommended General Standard (covering proximate composition, nitrogenous components, lipid profile, mineral elements, carbohydrates, vitamins, solvent residues, microbial counts/toxins, and appropriate protein-quality assessment) and that reports include full data and statistical analysis; it also requires subacute toxicity studies conducted under GLP with specified animal models, diets and durations and that further chronic/reproductive/teratogenic/mutagenic studies be evaluated as needed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "2.1 Chemical",
+      "summary": "Specifies required chemical analyses for VPP including proximate composition (ash, fibre, total and indigestible carbohydrates), nitrogenous components (amino acids expressed as g amino acid/16g N and non-protein nitrogen), lipid (fatty acid profile by chromatography if solvent extract >1% and check for unusual fatty acids), mineral elements of toxicological/nutritional significance, available carbohydrates, major vitamins (unless unlikely due to low lipid or instability) and examination for potentially hazardous solvent residues.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "2.1.1 Proximate composition",
+      "summary": "Calls for analysis of proximate composition of the VPP including ash, fibre, total carbohydrates and indigestible carbohydrates (dietary fibre) using the appropriate method.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "2.1.1.2 Lipid",
+      "summary": "Requires that the solvent extract be analyzed by chromatography for fatty acid profile if greater than 1% and be examined for the presence of unusual (e.g., cyclic) fatty acids.",
+      "categories": [
+        "composition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "lipid heading",
+        "fatty acid analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "2.1.1.3 Mineral elements",
+      "summary": "Requires analysis of the material for metals and minerals of toxicological or nutritional significance, explicitly including arsenic, calcium, cadmium, copper, fluoride, iron, lead, magnesium, manganese, mercury, phosphorus, potassium, selenium, sodium and zinc.",
+      "categories": [
+        "composition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "mineral heading",
+        "mineral analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "2.1.1.4 Carbohydrates",
+      "summary": "Requires analysis to characterize the available (digestible) carbohydrates in the VPP.",
+      "categories": [
+        "composition",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "carbohydrate heading",
+        "nutrient analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "2.1.1.5 Vitamins",
+      "summary": "Requires analysis for all major vitamins except where low lipid content or instability during processing make their presence unlikely.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "vitamin analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "2.1.2 Solvent residues",
+      "summary": "Requires examination of the product for the presence of potentially hazardous solvent residues.",
+      "categories": [
+        "analysis sampling",
+        "contaminants"
+      ],
+      "subcategories": [
+        "solvent residue analysis",
+        "solvent residues"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "2.2 Microbial",
+      "summary": "Requires examination of the VPP to determine the expected numbers and types of micro-organisms under sanitary production conditions and to establish freedom from microbial toxins and toxigenic organisms.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbial analysis",
+        "microbial examination"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "2.3 Nutritional",
+      "summary": "States that the nutritive value of the VPP should be assessed by the protein-quality method specified in the appropriate Codex standard.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "nutritional analysis",
+        "protein quality analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "2.4 Toxicological",
+      "summary": "Requires toxicological evaluation of VPP including subacute toxicity studies carried out under recognized GLP to delineate toxic potential and guide further testing, with specific requirements for animal selection, diet and duration, and states that the need for additional chronic, reproduction, teratogenic and mutagenic studies will be evaluated based on these results.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "2.4.1 Subacute toxicity studies",
+      "summary": "Describes subacute toxicity studies as intended to delineate the toxic potential of VPP, identify species sensitivity and pathological changes, estimate dose levels at which effects occur, and to guide chronic or functional studies, and requires these be conducted in accordance with recognized Good Laboratory Practice.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "2.4.1.1 Animals",
+      "summary": "Requires using at least two healthy animal species of both sexes for subacute toxicity studies—one rodent (preferably rats) and one non-rodent (e.g., beagle dogs, monkeys, miniature pigs)—selecting species most likely to simulate humans when biochemical information supports this, and assigning balanced, sufficiently large groups to provide statistically adequate data.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "animal study design"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "2.4.1.2 Diet",
+      "summary": "Requires test diets to be nutritionally adequate for all groups and, if the VPP is nutritionally complete, allows it to replace basic protein while ensuring tests and controls are balanced for minor nutrients; the highest practicable use level and, if feasible, grade levels should be included, noting that testing at large multiples of potential use and establishing a dose–response curve are not realistic.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "diet formulation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "2.4.1.3 Length of study",
+      "summary": "Specifies that subacute toxicity feeding trials should be of at least three months' duration.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "study duration",
+        "toxicity study duration"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "2.4.2 Other studies",
+      "summary": "States that after appraisal of source, manufacturing method and results of nutritional and subacute toxicity studies, the need for further studies (chronic, reproduction, teratogenic and mutagenic) will be evaluated.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "other studies",
+        "further studies"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "2.5 Statistical",
+      "summary": "Requires investigation reports to include complete details and data for both control and test groups and to present appropriate statistical analysis of the findings.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "statistical requirements",
+        "statistical analysis"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

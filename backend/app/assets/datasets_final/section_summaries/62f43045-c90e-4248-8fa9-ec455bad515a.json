@@ -1,0 +1,451 @@
+{
+  "doc_id": "62f43045-c90e-4248-8fa9-ec455bad515a",
+  "title": "GENERAL STANDARD FOR THE LABELLING OF FOOD ADDITIVES WHEN SOLD AS SUCH",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR THE LABELLING OF FOOD ADDITIVES WHEN SOLD AS SUCH",
+      "summary": "Document title/heading: General Standard for the Labelling of Food Additives when sold as such (identifies the subject of the standard).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling standard"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CODEX STAN 107-1981 Adopted in 1981. Revision: 2016.",
+      "summary": "Document reference: CODEX STAN 107-1981, adopted 1981 with a 2016 revision (bibliographic/revision information).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document reference"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. SCOPE",
+      "summary": "Applies this standard to the labelling of food additives sold as such (retail or non-retail), including processing aids, and clarifies that references to food additives include processing aids.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. DEFINITION OF TERMS",
+      "summary": "Defines key terms for the standard including 'food additive' (substance added for a technological purpose that may become a component of food, excluding contaminants, nutritional additives and sodium chloride), 'processing aid', 'contaminant', 'label', 'labelling', 'container', 'ingredient' and 'sale by retail'.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "introductory clause",
+        "food additive definition",
+        "processing aid definition",
+        "contaminant definition",
+        "label definition",
+        "labelling definition",
+        "container definition",
+        "ingredient definition",
+        "retail sale definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. GENERAL PRINCIPLES",
+      "summary": "Prohibits describing or presenting food additives on labels or labelling in a false, misleading or deceptive manner or in ways that suggest they are another product likely to confuse purchasers, while allowing the term 'x flavour' to describe a reproduced flavour not derived from 'x'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general principles",
+        "misleading presentation",
+        "misleading reference"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4. MANDATORY LABELLING OF PREPACKAGED FOOD ADDITIVES SOLD BY RETAIL",
+      "summary": "Mandates that labels of all prepackaged food additives sold by retail shall bear the information required by subsections 4.1 to 4.5, as applicable to the additive being labelled.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4.1 Details of the food additive",
+      "summary": "Requires specific, non-generic names for each food additive (using Codex names where available), lists multiple additives in descending order by proportion, allows the generic term 'flavouring' (with natural/artificial qualifiers or organoleptic/source indication) for flavour mixtures, requires a minimum durability date for additives with shelf‑life ≤18 months, a prominent 'For Food Use' statement, and declaration of any food ingredients in descending order with special consideration for ingredients known to cause hypersensitivity.",
+      "categories": [
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "food details heading",
+        "name declaration",
+        "ingredient list order",
+        "footnote",
+        "quantity declaration",
+        "flavouring declaration",
+        "durability date",
+        "food use statement",
+        "ingredient declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.2 Instructions on keeping and use",
+      "summary": "Requires that adequate information be provided on the manner in which the food additive is to be kept and used in food.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "keeping and use",
+        "storage and use"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.3 Net contents",
+      "summary": "Requires declaration of net contents in metric (SI) or avoirdupois units as required by the country, with liquids by volume or weight, solids (non-tablet) by weight, semi‑solids by weight or volume, and tablet form by weight plus number of tablets.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net contents heading",
+        "net contents declaration",
+        "liquid measure",
+        "solid measure",
+        "semi-solid measure",
+        "tablet count"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.4 Name and address",
+      "summary": "Requires the name and address of the manufacturer, packer, distributor, importer, exporter or vendor of the food additive to be declared on the label.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name address heading",
+        "responsible party"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.5 Country of origin",
+      "summary": "Requires declaration of country of origin if omission is likely to mislead or deceive consumers and states that if processing in a second country changes the additive's chemical or physical nature, that processing country is to be considered the country of origin for labelling.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "country origin heading",
+        "origin declaration",
+        "origin determination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.6 Lot identification",
+      "summary": "Each container must be marked (in code or clearly) to identify the producing factory and the lot.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "lot identification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5. MANDATORY LABELLING OF PREPACKAGED FOOD ADDITIVES SOLD OTHER THAN BY RETAIL",
+      "summary": "Mandates that labels of food additives sold other than by retail must bear the information in subsections 5.1–5.5 as applicable, but allows non‑retail containers destined solely for further industrial processing to have required information (except 5.1(a) and 5.1(d)) provided on accompanying sale documents.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.1 Details of the food additive",
+      "summary": "Requires specific naming of each additive (Codex name or common/descriptive name), listing multiple additives in order of proportion, allows generic 'flavouring' descriptions with source/qualifiers, requires minimum durability date for shelf‑life ≤18 months, a prominent 'For Food Use' statement, declaration of food ingredients in descending order and, where an additive is subject to a quantitative limitation in the country of use, the quantity/proportion and/or instructions to ensure compliance must be given.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling details",
+        "additive name declaration",
+        "additive list order",
+        "flavouring declaration",
+        "durability date",
+        "food use statement",
+        "ingredient declaration"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.2 Instructions on keeping and use",
+      "summary": "Requires that adequate information on how the food additive is to be kept and used be provided, either on the label or in the documents relating to the sale.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "usage instructions",
+        "storage use instructions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "5.3 Net contents",
+      "summary": "Requires net contents be declared in metric (SI) or avoirdupois units as applicable per country, with liquids by volume or weight, solids by weight and semi‑solids by weight or volume.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "net contents heading",
+        "net contents declaration",
+        "liquid measure",
+        "solid weight",
+        "semi-solid measure"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "5.4 Name and address",
+      "summary": "Requires the name and address of the manufacturer, packer, distributor, importer, exporter or vendor of the food additive to be declared.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name address heading",
+        "responsible party address"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.5 Country of origin",
+      "summary": "Requires declaration of the country of origin of a food additive if omission would mislead the user and states that when processing in a second country changes the additive's chemical or physical nature, that country is the country of origin for labelling purposes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "origin heading",
+        "country of origin",
+        "origin determination"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.6 Lot identification",
+      "summary": "Requires each container to be marked (in code or clear) to identify the producing factory and the lot.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "lot identification heading",
+        "lot identification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6. PRESENTATION OF MANDATORY INFORMATION",
+      "summary": "Requires mandatory label statements to be clear, prominent and readily legible under normal conditions and in a language acceptable to the country of sale, allowing a supplementary label in an acceptable language if the original is not acceptable.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.1 General",
+      "summary": "Mandates that label statements required by this or other Codex standards be clear, prominent, readily legible, not obscured or camouflaged by design, on contrasting ground, with type size of the additive name related to the most prominent matter and required information visible when the container is wrapped.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general heading",
+        "label legibility"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "6.2 Language",
+      "summary": "Requires mandatory label statements to be in a language acceptable to the country where the additive is sold and permits a supplementary label in an acceptable language instead of relabelling if the original language is not acceptable.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "language heading",
+        "language requirement"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7. ADDITIONAL OR DIFFERENT REQUIREMENTS FOR SPECIFIC FOOD ADDITIVES",
+      "summary": "States that nothing in this standard prevents adopting additional or different labelling provisions in other Codex standards when warranted for a particular food additive.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.1 Irradiated food additives",
+      "summary": "Requires food additives treated with ionizing radiation to be designated as irradiated.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "irradiated heading",
+        "irradiated designation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8. OPTIONAL LABELLING",
+      "summary": "Permits optional information or pictorial devices on labelling provided they do not conflict with mandatory requirements or mislead or deceive consumers about the food additive.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.1 General",
+      "summary": "Any optional labelling information or pictorial device is allowed provided it does not conflict with mandatory requirements or mislead consumers about the food additive.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "general heading",
+        "nonmisleading label"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "doc_id": "5683a3f9-eba2-48eb-8431-197178d56a00",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "Applies to all commercial Engraulidae (anchovy family) species that have been salted, boiled and dried and intended for cooking before consumption, excluding products that have undergone enzymatic maturation in brine.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DESCRIPTION",
+      "summary": "Section 2 defines the product (prepared from fresh Engraulidae), the process (washing in brine/sea water, salting by boiling and sundrying or artificial drying), packaging (moisture‑proof, gas‑impermeable to minimize oxidation), and handling practices requiring rapid chilling to ~0°C and sufficiently short drying to prevent Clostridium botulinum toxin formation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 PRODUCT DEFINITION",
+      "summary": "Product definition: the product shall be prepared from fresh fish of the family Engraulidae as specified in Section 3.1.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "raw material source"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 PROCESS DEFINITION",
+      "summary": "Process definition: fish shall be washed in brine or clean sea water, salted by boiling in brine or sea water, dried by sun or artificial means, and packed in moisture‑proof, gas‑impermeable packaging processed to minimize oxidation.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2.1 The product shall be prepared by washing fresh fish in brine or clean sea water and salting by boiling in brine or clean sea water and drying. The drying process shall mean sundrying or artificial drying.",
+      "summary": "Processing method requirement: the product must be prepared by washing fresh fish in brine or clean sea water, salting by boiling in brine or sea water, and drying (sun or artificial).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing method"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2.2 The product shall be packed in a suitable packaging material which is moisture proof and gas impermeable. It shall be processed and packaged so as to minimize oxidation.",
+      "summary": "The product shall be packed in moisture‑proof, gas‑impermeable packaging and processed/packaged to minimize oxidation.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging requirements"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 HANDLING PRACTICE",
+      "summary": "Fresh anchovies not processed immediately must be handled under hygienic conditions during transport and storage and are recommended to be chilled/iced to 0°C (32°F) quickly and kept at an adequate temperature to prevent deterioration, histamine formation, spoilage and bacterial growth per CAC/RCP 52-2003; the drying process must be sufficiently short to preclude formation of Clostridium botulinum toxin.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "handling practice heading",
+        "handling conditions"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Heading only: 'ESSENTIAL COMPOSITION AND QUALITY FACTORS' (no substantive provisions in this section).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1 RAW MATERIAL",
+      "summary": "Heading only: 'RAW MATERIAL' (no substantive provisions in this section).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1.1 Fish",
+      "summary": "The product shall be prepared from clean, sound fish exhibiting characteristic fresh appearance, colour and odour.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "fish definition",
+        "fish quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.2 Salt",
+      "summary": "Salt is defined as sodium chloride of suitable quality as specified in section 11.3.1 'Salt requirements' of the Code of Practice for Fish and Fishery Products (CAC/CRP 52-2003).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "salt definition",
+        "salt quality"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2 FINAL PRODUCT",
+      "summary": "Heading only: 'FINAL PRODUCT' (no substantive provisions in this section).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.1 Products shall meet the requirements of this standard when lots examined in accordance with Section 9 comply with the provisions set out in Section 8. Products shall be examined by the methods given in Section 7.",
+      "summary": "Products shall be deemed to meet this standard when lots examined in accordance with Section 9 comply with the provisions of Section 8, and examinations shall be carried out using the methods given in Section 7.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "conformity assessment"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.2 The product shall comply with the requirements prescribed in Table 1.",
+      "summary": "The product must comply with the requirements prescribed in Table 1.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "table requirements"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.3 BREAKAGE",
+      "summary": "Heading only: 'BREAKAGE' (no substantive provisions in this section).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.3.1 Breakage shall mean fish (excluding fins and scales) which is not intact. The percentage of breakage is determined by the number of broken fish over the total number of fish in the test sample.",
+      "summary": "Breakage is defined as fish (excluding fins and scales) that are not intact, and percent breakage is calculated as the number of broken fish divided by the total number of fish in the test sample.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "breakage definition"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.3.2 The percent breakage defined in section 3.3.1 shall not exceed the limits specified in section 3.5.",
+      "summary": "The percent breakage (as defined in section 3.3.1) shall not exceed the limits specified in section 3.5.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "breakage limit"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.4 DECOMPOSITION",
+      "summary": "Heading only: 'DECOMPOSITION' (no substantive provisions in this section).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.4.1 The products shall not contain more than 10 mg/100g of histamine based on the average of the sample unit tested.",
+      "summary": "The products shall not contain more than 10 mg/100 g of histamine based on the average of the sample unit tested.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "histamine limit"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.5 SIZE CLASSIFICATION",
+      "summary": "Heading only: 'SIZE CLASSIFICATION' (no substantive provisions in this section).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "size classification heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Annex A",
+      "summary": "Annex A specifies sensory and physical examination procedures: use a different sample for sensory evaluation than for other tests; examine each fish for foreign matter, breakage, pink condition and mould; assess odour (uncooked) and flavour (cooked) per CAC/GL 31-1999; cook samples per package instructions or, if none, deep fry at 190°C for 1–2 minutes as appropriate.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "No food additives are permitted in these products.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "additive prohibition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5. HYGIENE",
+      "summary": "Hygiene recommendations: products should be prepared and handled per the General Principles of Food Hygiene (CAC/RCP 1-1969), the Code of Practice for Fish and Fishery Products (CAC/RCP 52-2003) and other relevant codes, should comply with microbiological criteria established under CAC/GL 21-1997, no sample unit shall contain histamine exceeding 20 mg/100 g, and the product must not contain other substances in amounts hazardous to health per Codex standards.",
+      "categories": [
+        "hygiene",
+        "contaminants"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "good hygienic practice",
+        "microbiological criteria",
+        "histamine limit",
+        "other hazard"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "6. LABELLING",
+      "summary": "Labelling provision: in addition to the General Standard for the Labelling of Prepackaged Foods (CODEX STAN 1-1985), additional specific labelling provisions apply (details not listed here).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "general labelling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "7. SAMPLING, EXAMINATION AND ANALYSIS",
+      "summary": "Heading only: 'SAMPLING, EXAMINATION AND ANALYSIS' (no substantive provisions in this section).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "7.1 SAMPLING",
+      "summary": "Sampling of lots for product examination must follow an appropriate sampling plan with an acceptance quality limit (AQL) of 6.5.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling heading",
+        "sampling plan"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "7.2 DETERMINATION OF SODIUM CHLORIDE",
+      "summary": "Sodium chloride (reported as chloride expressed as sodium chloride) shall be determined according to AOAC method 937.09.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "salt determination"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "7.3 DETERMINATION OF HISTAMINE",
+      "summary": "Methods meeting the specified performance criteria may be used for histamine determination; for an ML of 10 mg/100 g (average) the applicable range is 8–12 mg/100 g (LOD 1, LOQ 2, RSDR 16.0%, recovery 90–107) and for ML 20 mg/100 g (each unit) the range is 16–24 mg/100 g (LOD 2, LOQ 4, RSDR 14.4%, recovery 90–107); applicable reference methods include AOAC 977.13 and NMKL methods (NMKL 99 and NMKL 196, 2013).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "method criteria",
+        "performance criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7.4 SENSORY AND PHYSICAL EXAMINATION",
+      "summary": "Samples for sensory and physical examination must be assessed by persons trained in such examinations and in accordance with Annex B.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "examination heading",
+        "sensory examination"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "8. DEFINITION OF DEFECTIVES",
+      "summary": "Heading only: declares that a sample unit is considered defective when it exhibits any of the properties defined in subsequent sections.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8.1 FOREIGN MATTER",
+      "summary": "Foreign matter is defined as any matter not derived from the Engraulidae family that does not pose a health threat and is either readily recognized without magnification or present at a level (including when detected by magnification) indicating non-compliance with good manufacturing and sanitation practices.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "foreign matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8.2 BREAKAGE",
+      "summary": "Breakage is defined as extensive textural breakdown where body parts are split, broken or torn into two or more pieces in more than 25% of the fish in the sample unit.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "breakage heading",
+        "breakage defect"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "8.3 ODOUR AND FLAVOUR",
+      "summary": "A sample unit is defective for odour and flavour when it has persistent, distinct objectionable odours or flavours indicative of decomposition (e.g., putrid) or rancidity.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour flavour",
+        "odour flavour defect"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.4 PINK",
+      "summary": "The 'pink' defect is any visible evidence of red halophilic bacteria on the fish surface in more than 25% of the fish in the sample unit.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "pink heading",
+        "pink defect"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "8.5 MOULD GROWTH",
+      "summary": "Mould growth is defined as fish exhibiting an aggregate area of pronounced mould growth in more than 25% of the sample unit.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "mould growth",
+        "mould defect"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "A lot meets the standard only if (1) the total number of defectives (per Section 8) does not exceed the acceptance number (c) of an appropriate sampling plan with AQL 6.5, (2) the average net weight of sample units is not less than the declared weight with no individual container under 95% of declared weight, and (3) the Food additives, Hygiene, and Labelling requirements of Sections 4, 5 and 6 are met.",
+      "categories": [
+        "analysis sampling",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria",
+        "sampling acceptance",
+        "declared weight",
+        "compliance criteria"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "1. SIZING",
+      "summary": "Size (for whole fish) is determined by length and designated as Small (<3.5 cm), Medium (3.5–6.5 cm) or Big (>6.5 cm).",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sizing heading",
+        "size determination",
+        "size designation",
+        "length table",
+        "size class",
+        "length range"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "## 2. GRADING",
+      "summary": "Each size of dried salted anchovies is graded into Grade A or B with criteria including breakage (A: <5%, B: <15%), colour (A: whitish/bluish/yellowish characteristic of species; B: off-colour) and odour (no foul or rancid smell for both), with colour comparisons to be made among the same species.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "'ANNEX A'",
+      "summary": "Annex A (sensory and physical examination) requires a separate sample for sensory evaluation, examination of every fish for foreign matter, breakage, pink and mould, odour assessment of uncooked samples and flavour assessment of cooked samples per CAC/GL 31-1999, and specifies cooking per package instructions or otherwise deep frying in fresh oil at 190 °C for 1–2 minutes as appropriate to size.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "SENSORY AND PHYSICAL EXAMINATION",
+      "summary": "Sensory and physical examination procedures require a separate sample, inspection of every fish for foreign matter, breakage, pink condition and mould, odour assessment of uncooked samples and flavour assessment of cooked samples per CAC/GL 31-1999, and cooking according to package instructions or, if absent, deep frying at 190 °C for 1–2 minutes as appropriate to size.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "sample separation",
+        "examination procedure",
+        "odour assessment",
+        "flavour assessment",
+        "cooking instructions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "ANNEX B",
+      "summary": "Annex B — heading only; no substantive text provided in this section.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "annex heading"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

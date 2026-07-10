@@ -1,0 +1,894 @@
+{
+  "doc_id": "6b02993d-78f6-49a5-a822-3b5c5135384f",
+  "title": "1. SCOPE AND OBJECTIVE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE AND OBJECTIVE",
+      "summary": "Applies to receiving, preparation, processing, handling, storage, transport, distribution and retailing of quick frozen foods (e.g., cereals, fruits, vegetables, fish, meat, poultry, bakery/pastry) but excludes edible ices, ice cream and milk, and provides guidance to ensure safety, cold chain management, essential quality and labelling provisions, prerequisite programmes and HACCP application, to be used with the General Principles of Food Hygiene and other Codex texts and for industry training, with allowance for local adaptation.",
+      "categories": [
+        "scope",
+        "training"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "objective",
+        "related texts",
+        "purpose statement",
+        "employee training"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DEFINITIONS",
+      "summary": "Defines key terms for the Code including blanching, cold chain, prerequisite programme, quick freezing process, quick frozen food (held at −18°C or colder subject to permitted tolerances), thermal centre, and temperature tolerances for short-term fluctuations that do not affect safety or quality.",
+      "categories": [
+        "definition",
+        "other"
+      ],
+      "subcategories": [
+        "definition heading",
+        "definition preamble",
+        "blanching definition",
+        "table separator",
+        "cold chain definition",
+        "prerequisite programme",
+        "quick freezing process",
+        "quick frozen food",
+        "thermal centre",
+        "temperature tolerances"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3. PREREQUISITE PROGRAMME",
+      "summary": "States that segments of the quick frozen food chain must be supported by establishment-specific prerequisite programmes based on good hygienic and manufacturing practices prior to HACCP, be periodically evaluated, contribute to both safety and quality, and be developed with reference to the General Principles of Food Hygiene and relevant Codex guidance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3.1 ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "Specifies establishment design and facility requirements covering siting near raw material sources, plant layout for rapid processing and hygienic product flow, cold store insulation and temperature controls, equipment design to minimize product damage and contamination, and contingency planning for power or equipment failures.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.1.1  Location",
+      "summary": "Recommends locating processing facilities as close as practicable to raw material sources to minimize changes that could affect quality or safety prior to freezing.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "facility location"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1.2  Process Plant Design",
+      "summary": "Requires process plant design that enables rapid processing, freezing and storage with a product flow arranged to minimize delays and prevent cross-contamination affecting food quality and safety.",
+      "categories": [
+        "equipment",
+        "processing"
+      ],
+      "subcategories": [
+        "plant design",
+        "process flow"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.3  Cold Store Design",
+      "summary": "Requires cold store construction and design (walls, floor, ceiling, doors, insulation) to maintain appropriate product temperatures (adequate refrigeration capacity to provide and maintain −18°C or colder), ensure airflow around products, provide temperature control and recording, avoid loss of cold or ingress of warm humid air, and prevent refrigerant leaks with immediate corrective action if leaks occur.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "cold store design",
+        "cold store requirements",
+        "temperature control",
+        "air circulation",
+        "temperature monitoring",
+        "air ingress control",
+        "refrigerant leak control"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.4  Equipment Design and Construction",
+      "summary": "Requires equipment to be designed and constructed to minimize physical damage to raw materials and products (e.g., no sharp internal corners or projections) and to avoid introducing physical, chemical or biological hazards, and specifies that freezers be capable of meeting quick freezing requirements when properly operated.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment design",
+        "equipment construction"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.5  Facilities",
+      "summary": "Mandates a contingency plan to maintain product temperature in the event of power loss or equipment failure.",
+      "categories": [
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "section heading",
+        "contingency plan"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2 CONTROL OF OPERATION",
+      "summary": "Requires control of operation measures including recall procedures for timely product withdrawal and a traceability/product tracing system in accordance with CXG 60-2006 to enable product withdrawal when necessary.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.1  Recall Procedures",
+      "summary": "States that recall procedures must be in place to ensure timely withdrawal of products that may pose health risks and references traceability/product tracing to support recalls.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.1.1 Traceability/Product Tracing 1",
+      "summary": "Requires that the traceability/product tracing system be designed and implemented according to the Principles for Traceability/Product Tracing (CXG 60-2006) to enable product withdrawal where necessary.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "traceability heading",
+        "traceability system"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.3 ESTABLISHMENT: MAINTENANCE AND SANITATION",
+      "summary": "Requires proper maintenance and repair of cold store infrastructure (e.g., preventing rust, water leaks, ice accumulation) to ensure insulation and refrigeration performance are maintained.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.3.1  Maintenance Regimes",
+      "summary": "Specifies that maintenance regimes should ensure timely repair of cold store damage and infrastructure issues so insulation and refrigeration performance are preserved.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "maintenance heading",
+        "maintenance regimes"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.4 TRAINING",
+      "summary": "Staff handling frozen foods must have skills and knowledge appropriate to their work, including awareness of temperature control for frozen foods, and operators must implement formal or on-the-job training programs to ensure these competencies.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "staff competence"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4. COLD CHAIN CONTROL",
+      "summary": "Cold chain operations must address both food safety and quality at each step, with prerequisite programs and, where appropriate, HACCP plans to control hazards while essential quality provisions may also be applied to maintain product quality.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.1 RAW MATERIALS",
+      "summary": "Raw materials for quick freezing must be safe, sound and suitable with procedures to ensure incoming quality, low initial microbial levels, appropriate temperature control and handling (e.g. pre-cooling), segregation of unsuitable materials, and for highly perishable items receiving temperature may be treated as a CCP or essential quality provision.",
+      "categories": [
+        "composition",
+        "processing",
+        "hygiene",
+        "definition",
+        "quality"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw material quality",
+        "raw material handling",
+        "microbial control",
+        "reference note",
+        "quality provision",
+        "hazard control",
+        "raw preparation",
+        "receiving temperature"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.2 PROCESSING BEFORE FREEZING",
+      "summary": "Pre-freezing operations (cleaning, cutting, blanching, heating, etc.) should be assessed for their potential as CCPs or essential quality provisions, with time in the 10–60°C danger zone minimized, blanching schedules and intermediate storage temperatures specified, heat treatments validated for pathogen inactivation, and thawing methods and schedules defined and monitored.",
+      "categories": [
+        "processing",
+        "storage"
+      ],
+      "subcategories": [
+        "processing before freezing",
+        "pre-freezing operations",
+        "blanching control",
+        "intermediate storage",
+        "heat treatment",
+        "thawing control"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.3 QUICK FREEZING PROCESS",
+      "summary": "Quick freezing must minimize physical, biochemical and microbiological changes by rapidly passing products through their ice-crystallization temperature range, ensuring air circulation in loads, achieving a stabilized thermal-centre temperature of −18°C or colder before considering freezing complete, and promptly moving product to cold storage; the freezing step may be a CCP.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "4.3.1  Impact of Quick Freezing on Microorganisms and Parasites",
+      "summary": "Freezing is not generally a lethal treatment for microorganisms though it can kill or inhibit some and, for products eaten raw or undercooked, properly validated freezing time/temperature regimes can be used to control parasites (e.g. Anisakis spp., Trichinella spiralis), with parameters depending on commodity, parasite species, product thickness and arrangement.",
+      "categories": [
+        "processing",
+        "risk management"
+      ],
+      "subcategories": [
+        "microbial impact",
+        "freezing effect",
+        "parasite control"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4.4 PROCESSING AFTER FREEZING",
+      "summary": "Glazing may be applied after freezing to limit dehydration and preserve appearance and quality, and its application should be properly controlled.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing after freezing",
+        "glazing control"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "4.5 PACKAGING AND LABELLING",
+      "summary": "Packaging for quick frozen foods must protect against dehydration, microbial and other contamination, and preserve sensory and quality characteristics without adding harmful substances; repacking must not cause unacceptable temperature increases, and labelling must comply with the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985) and relevant Codex standards.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "4.5.1  Packaging",
+      "summary": "Packaging must protect quick frozen foods from dehydration, contamination and quality loss, must not introduce substances that affect safety or quality, and packaging or repacking must be done so that any temperature increase remains within permitted tolerances.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "packaging requirements",
+        "dehydration protection",
+        "contamination protection",
+        "quality protection",
+        "substance migration",
+        "repacking control"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "4.6 FROZEN STORAGE",
+      "summary": "Cold stores must be designed and operated to maintain product temperature at −18°C or colder with minimal fluctuation (temperature may be an essential quality provision or CCP), allow unobstructed cold-air circulation, and implement FIFO/shortest-durability stock rotation so products are not stored beyond shelf-life.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "frozen storage",
+        "storage temperature",
+        "air circulation",
+        "stock rotation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "4.7 TRANSPORT AND DISTRIBUTION",
+      "summary": "Transport and distribution of quick frozen foods must maintain product temperature at −18°C (or within competent-authority tolerances) using suitably insulated and pre-cooled equipment, with vehicle users responsible for supervising loading temperatures, proper stowage, refrigeration operation, unloading procedures, maintenance and cleaning, and limiting any temperature rise during distribution (warmest package should not exceed −12°C); products should be returned to −18°C as soon as possible and loading/unloading done rapidly.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport heading",
+        "temperature control",
+        "pre-cooling",
+        "vehicle user duties",
+        "loading supervision",
+        "load stowage",
+        "refrigeration operation",
+        "unloading method",
+        "maintenance cleaning",
+        "container cleaning",
+        "distribution temperature",
+        "loading unloading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "4.8 TRANSFER POINTS",
+      "summary": "Transfer points require rapid movement of quick frozen foods between cold store, vehicle/container and display or holding store to minimize ambient exposure, established dispatch and immediate-storage procedures, verification of personnel compliance, and temperature checks on receipt/dispatch with records kept beyond product shelf-life.",
+      "categories": [
+        "transport",
+        "documentation",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "transfer points",
+        "ambient exposure",
+        "dispatch procedures",
+        "procedure compliance",
+        "temperature checks"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "4.9 RETAIL SALE",
+      "summary": "Retail sale of quick frozen foods must be from freezer cabinets capable of maintaining −18°C (short, controlled rises tolerated within competent-authority limits but not exceeding −12°C in the warmest package), with cabinets fitted with temperature measuring devices, sited away from heat or draughts, not overstocked, defrost cycles managed to avoid peak periods (or foods moved to cold storage during defrost), FIFO stock rotation enforced, and provision of backup storage at −18°C.",
+      "categories": [
+        "distribution",
+        "storage",
+        "risk management",
+        "equipment",
+        "weights and measures",
+        "processing"
+      ],
+      "subcategories": [
+        "retail sale heading",
+        "retail storage temperature",
+        "critical temperature",
+        "display cabinet requirements",
+        "temperature device",
+        "cabinet location",
+        "load line",
+        "defrost cycle",
+        "stock rotation",
+        "back-up storage"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5. TEMPERATURE MANAGEMENT IN THE COLD CHAIN",
+      "summary": "Temperature management systems must be in place to control and monitor temperatures along the cold chain to prevent foodborne illness and quality loss, with detailed monitoring guidance and technology described in the Annex.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "5.1 TEMPERATURE MONITORING",
+      "summary": "Operators must implement appropriate systems to monitor air temperatures during freezing and temperatures along the cold chain to ensure product temperature is maintained at −18°C or colder within permitted tolerances, choosing between air-temperature or direct/indirect product-temperature monitoring and other approaches.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "5.1.1  Air Temperature Monitoring",
+      "summary": "Air temperature monitoring uses fixed, protected sensors in refrigerated systems to diagnose system problems and support process management via data storage linkable to operating information (e.g. defrost cycles, door openings, energy use, batch codes).",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "air monitoring heading",
+        "air temperature monitoring",
+        "monitoring benefits",
+        "problem diagnosis",
+        "data storage"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "5.1.2  Product Temperature Monitoring",
+      "summary": "Product temperature may be measured directly (destructively or non‑destructively) or indirectly; direct product measurement gives greater assurance of compliance but is often impractical during busy production and distribution periods.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "product monitoring heading",
+        "product temperature measurement",
+        "monitoring practicality"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "5.1.3 Additional Approaches",
+      "summary": "Additional temperature-monitoring approaches include using simulated food products, temperature probes/recorders placed between packages or within loads, non-contact thermometers, and temperature or time–temperature indicators.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "additional approaches heading",
+        "additional monitoring methods",
+        "simulated food use",
+        "temperature probes",
+        "non-contact thermometer",
+        "indicator devices"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "5.1.4 Temperature monitoring equipment",
+      "summary": "Selection of temperature-monitoring equipment should consider appropriate accuracy and resolution, durability to withstand vibration/shock (for mobile applications), adequate temperature-range coverage for quick frozen foods, and the need for calibration and periodic checks.",
+      "categories": [
+        "analysis sampling",
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "selection criteria",
+        "accuracy resolution",
+        "durability requirements",
+        "temperature range",
+        "calibration checks"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "5.2 STEPWISE APPROACH TO TEMPERATURE CONTROL",
+      "summary": "A recommended stepwise inspection for quick frozen foods is: visual inspection before loading/unloading; review of air-temperature records and documentation; non‑destructive between‑package temperature checks if doubt exists; and, if out-of-tolerance, destructive temperature measurements carried out after protecting the load, with Section 5.3 procedures followed for violations.",
+      "categories": [
+        "analysis sampling",
+        "official control",
+        "other"
+      ],
+      "subcategories": [
+        "stepwise approach heading",
+        "stepwise inspection",
+        "image placeholder",
+        "visual inspection",
+        "temperature records",
+        "non destructive testing",
+        "destructive testing"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "5.3 TEMPERATURE VIOLATION",
+      "summary": "For quick-frozen foods, loads or parts warmer than the required temperature must be identified and sorted, delivery and sale suspended, the holder must take immediate preservation measures (including rapid cooling), assess safety/quality and destroy product if necessary, inform supplier and other supply‑chain parties, and notify competent authorities if safety is compromised.",
+      "categories": [
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "temperature violation heading",
+        "temperature violation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "5.4 RECORD KEEPING",
+      "summary": "Temperature measurement records must be retained for a period exceeding the product's shelf-life or for the duration required by competent authorities.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "record keeping heading",
+        "record retention"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "ANNEX",
+      "summary": "Annex heading introducing additional guidance on temperature monitoring and control in the cold chain and advising use of appropriate new temperature measuring and recording technologies.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "SPECIFIC INFORMATION ON TEMPERATURE MONITORING AND CONTROL IN THE COLD CHAIN",
+      "summary": "Provides detailed cold‑chain guidance covering air‑temperature monitoring (device types, placement and calibration), transport and display monitoring, and product temperature measurement, including recommended accuracies (e.g., air devices ±2°C, product devices ±0.5°C), calibration traceability, probe pre‑cooling, non‑destructive vs destructive methods with minimum probe depths, sampling locations during transport and retail, and tolerances such as a 2.8°C total tolerance for non‑destructive methods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "2.1 AIR TEMPERATURE MONITORING EQUIPMENT",
+      "summary": "Describes air temperature measurement/recording equipment (sensor plus read‑out/recorder), recommends air device accuracy ±2°C with 1°C resolution, acceptable sensor types (thermocouple, thermistor, platinum resistance), and periodic calibration checks against a calibrated thermometer in an equilibrated ice bath.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "device description",
+        "accuracy requirements",
+        "sensor types",
+        "calibration checks"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "2.2 AIR TEMPERATURE MONITORING OF COLD STORES",
+      "summary": "Specifies cold‑store sensor placement (high, away from fans/doors, positioned for representative air circulation), recommends recorders outside stores, and requires food business operators to document the number of sensors needed with indicative sensor counts by store volume (e.g., <500 m³:1; <30,000 m³:2; 30,000–60,000 m³:4; >60,000 m³:6) and visible thermometers for very small retail stores (<10 m³).",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "cold store monitoring",
+        "sensor placement",
+        "sensor decision"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "2.3 AIR TEMPERATURE MONITORING DURING TRANSPORT",
+      "summary": "For transport, measure return air temperature to indicate load temperature, recommend air ducting and two sensors in long vehicles (>6 m) (return air and a sensor at ~2/3–3/4 vehicle length), use the temperature difference to assess refrigeration performance or loading/pre‑cooling issues, and place recorders in the cabin or externally near refrigeration controls.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "transport monitoring",
+        "return air temperature",
+        "vehicle sensor placement"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "2.4 AIR TEMPERATURE MONITORING IN DISPLAY CABINETS",
+      "summary": "Display cabinets must have an easily readable, accurate thermometer or measuring device, with temperature in open cabinets measured in the return air at load‑line level or at the warmest point.",
+      "categories": [
+        "analysis sampling",
+        "equipment"
+      ],
+      "subcategories": [
+        "display cabinet monitoring",
+        "thermometer placement"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "3. PRODUCT TEMPERATURE MONITORING",
+      "summary": "Specifies product temperature monitoring requirements: devices must be more accurate than air monitors (recommended ±0.5°C, -20°C to +30°C), have fast response and 0.1°C resolution, be calibrated against traceable standards and checked regularly, and include procedures for probe pre‑cooling, non‑destructive surface measurements (noting up to 2°C bias) and destructive probing with guidance on insertion depth and robustness.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "3.1 DIRECT TEMPERATURE MEASUREMENT",
+      "summary": "Defines specifications for direct product temperature measurement systems—accuracy ±0.5°C in -20°C to +30°C range, 90% response within three minutes, 0.1°C display resolution, operational stability ≤0.3°C variation, calibration traceable to national/international standards, regular checks, robustness and moisture protection—plus probe pre‑cooling and guidance on non‑destructive and destructive methods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "3.1.2  Pre-cooling of the Probe",
+      "summary": "Probes must be pre‑cooled to a temperature close to the product temperature and readings taken only after the probe temperature has stabilized.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "probe precooling",
+        "probe stabilization"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "3.1.3  Non-destructive Temperature Measurement",
+      "summary": "Non‑destructive surface temperature measurements are rapid and minimize disturbance but can differ from true product temperature by up to 2°C; such measurements should be taken between cases or packages using sufficient pressure and probe length and a flat, low thermal mass, high conductivity probe for good thermal contact.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "non destructive heading",
+        "surface temperature",
+        "non destructive procedure",
+        "between package reading",
+        "probe contact",
+        "probe characteristics"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "3.1.4  Destructive Temperature Measurement",
+      "summary": "Because probes cannot penetrate quick‑frozen foods, a pre‑cooled sharp device must be used to make a hole matching the probe diameter, with minimum insertion depths (generally ≥2.5 cm or, if product size prevents this, 3–4 times the probe diameter), inserting to package center for small/fragmented products and deeper for large products.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "destructive heading",
+        "probe insertion",
+        "minimum depth",
+        "probe depth",
+        "package centre temperature",
+        "large product depth"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "3.2 SAMPLING OF PRODUCTS FOR TEMPERATURE MEASUREMENT",
+      "summary": "Heading only: introduces the topic of sampling products for temperature measurement (no substantive requirements in this section).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "3.2.1  During Transport",
+      "summary": "During transport, take and record a non‑destructive temperature measurement when loading, perform destructive checks if problems are suspected, select samples from top/bottom near each door when measuring in‑vehicle, or select four specified points after unloading into a cooled environment, generally perform non‑destructive checks first and apply a 2.8°C total tolerance for non‑destructive methods (not applicable if destructive testing is used).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "transport sampling",
+        "loading measurement",
+        "transport sampling points",
+        "unloading sampling",
+        "measurement tolerance"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "3.2.2  At Retail",
+      "summary": "At retail, if measuring quick‑frozen food temperatures in display cabinets select one sample from each of three locations representative of the warmest points in the cabinet, with positions varying by cabinet type.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling at retail",
+        "temperature sampling"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

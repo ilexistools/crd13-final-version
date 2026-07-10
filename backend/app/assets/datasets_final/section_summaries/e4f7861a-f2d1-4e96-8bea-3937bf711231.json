@@ -1,0 +1,320 @@
+{
+  "doc_id": "e4f7861a-f2d1-4e96-8bea-3937bf711231",
+  "title": "PRINCIPLES AND GUIDELINES ON THE USE OF REMOTE AUDIT",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "PRINCIPLES AND GUIDELINES ON THE USE OF REMOTE AUDIT",
+      "summary": "Document title for the principles and guidelines on the use of remote audit (no substantive provisions in this section).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "AND INSPECTION IN REGULATORY FRAMEWORKS CXG 102-2023",
+      "summary": "Document subtitle indicating the guidance concerns remote audit and inspection in regulatory frameworks (no substantive provisions in this section).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 2023",
+      "summary": "Administrative note stating the text was adopted in 2023 (non-substantive).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1 PREAMBLE/INTRODUCTION",
+      "summary": "Introduction stating remote audit and inspection can provide benefits and continuity of oversight when physical visits are impractical, but require transparent agreement on technology use and supplement existing Codex texts referenced herein.",
+      "categories": [
+        "scope",
+        "official control",
+        "inspection certification",
+        "hygiene"
+      ],
+      "subcategories": [
+        "scope heading",
+        "preamble text",
+        "technology agreement",
+        "official control context",
+        "supplementary texts",
+        "reference text"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2 PURPOSE/SCOPE",
+      "summary": "Purpose: to assist competent authorities in using remote audit and inspection; scope: remote audit/inspection is an optional tool to support official controls within a national food control system and in assessing an exporting country's NFCS or parts thereof.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "purpose statement",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3 DEFINITION",
+      "summary": "Defines remote audit or inspection as an audit/inspection where the auditor(s)/inspector(s) are not physically present at the site and activities are conducted remotely.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "remote audit definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4 EXAMPLES OF REMOTE AUDIT OR INSPECTION ACTIVITIES:",
+      "summary": "Provides examples of remote audit/inspection activities—either partial or full—including live video streaming, pre-recorded video submission, off-site desktop review of documentation, remote access to measurement data, and virtual interviews.",
+      "categories": [
+        "scope",
+        "documentation",
+        "analysis sampling",
+        "official control"
+      ],
+      "subcategories": [
+        "examples heading",
+        "remote examples",
+        "video streaming",
+        "video submission",
+        "desktop review",
+        "measurement data",
+        "virtual interview",
+        "verification note"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5 PRINCIPLES",
+      "summary": "Introductory principles note: many basic principles for remote audits/inspections mirror physical ones and competent authorities should consider specified factors when deciding to use remote tools.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Principle  1:  Remote  audit  and  inspection  activities  complement  and  may  in  some  cases  replace  physical audits or inspections",
+      "summary": "Principle 1: Remote audit/inspection activities may complement or, in some cases, replace physical audits, subject to agreement on suitability, compatibility and technology, though they may not be appropriate for all operations.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "principle heading",
+        "remote verification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Principle  2:  Remote  audit  and  inspection  activities  should  be  aligned  with  physical  audits  and inspection activities",
+      "summary": "Principle 2: Remote audit/inspection processes should be aligned with physical audits—covering notification, planning, scope, audit criteria, opening/closing meetings, feedback and draft reports.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "principle heading",
+        "audit process alignment"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Principle 3: Risk-based approach should be used when deciding upon a remote audit or inspection activity",
+      "summary": "Principle 3: Use a risk-based approach—frequency and scope of remote audits/inspections must be proportionate to risk and agreed by parties, and frequency should not exceed what risk and performance justify.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "principle heading",
+        "proportionate risk",
+        "audit frequency",
+        "scope by risk"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Principle 4: Remote audit and inspection activities should be planned and conducted in a cooperative manner",
+      "summary": "Principle 4: Remote audits/inspections should be planned and conducted cooperatively, taking into account available technology, internet coverage and bandwidth, building constraints and quality of information presentation.",
+      "categories": [
+        "official control"
+      ],
+      "subcategories": [
+        "principle heading",
+        "planning cooperation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "Principle 5: Protection of confidential information",
+      "summary": "Principle 5: Protect confidential information and personal data during remote activities using necessary precautions and where privacy cannot be guaranteed a physical audit may be appropriate.",
+      "categories": [
+        "other",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "principle heading",
+        "privacy safeguards"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6. ROLES AND RESPONSIBILITIES",
+      "summary": "Roles and responsibilities: competent authorities must review legislation, establish policies/procedures defining remote vs physical use and specify ICT requirements, while entities must confirm access to necessary technologies and indicate willingness or preference for remote or physical audits.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "roles responsibilities",
+        "remote responsibilities",
+        "authority duties",
+        "legal review",
+        "program procedures",
+        "technology requirements",
+        "entity duties",
+        "technology access",
+        "remote participation"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7. PLANNING AND IMPLEMENTATION",
+      "summary": "Planning and implementation note: remote audits/inspections generally follow steps similar to physical ones but require additional considerations to ensure successful execution.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "7.1 Planning",
+      "summary": "Planning: give sufficient advance notice and schedule to accommodate operating hours and time zones; ensure auditors are qualified and tech-capable; and assess technology access, appropriateness, technical support, system testing and contingency arrangements.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "planning heading",
+        "planning considerations",
+        "timing arrangements",
+        "competence requirements",
+        "technology planning",
+        "technology access",
+        "technology suitability",
+        "technical support",
+        "system testing",
+        "contingency planning"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "7.2 Implementation",
+      "summary": "Implementation: during remote audits/inspections gather only necessary information using secure channels for confidential data, provide written feedback (and optionally discuss process at closing), and apply workplace health and safety measures for remote participants.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "implementation heading",
+        "implementation considerations",
+        "information protection",
+        "closing feedback",
+        "health safety"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    }
+  ]
+}

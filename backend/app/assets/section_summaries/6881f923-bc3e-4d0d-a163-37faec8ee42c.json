@@ -1,0 +1,287 @@
+{
+  "doc_id": "6881f923-bc3e-4d0d-a163-37faec8ee42c",
+  "title": "1. INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. INTRODUCTION",
+      "summary": "States ISO/IEC 17025 requires laboratories to determine and make available measurement uncertainty and advises food testing labs following CAC/GL 40 use data from method validation, inter-laboratory studies and in-house QC to estimate uncertainties, with guidance aligned to CCMAS recommendations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1.1 CONCEPT AND COMPONENTS OF UNCERTAINTY",
+      "summary": "Defines measurement uncertainty as the range around a reported result within which the true value is expected to lie with a given probability, distinguishes it from measurement error, and notes that multiple contributions to uncertainty should be identified and estimated.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "uncertainty concept",
+        "measurement uncertainty",
+        "uncertainty estimate",
+        "uncertainty evaluation"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. IDENTIFICATION OF UNCERTAINTY SOURCES",
+      "summary": "Identifies main uncertainty sources across three phases—external operations (sampling, packing, shipping, storage), test-portion preparation (sub-sampling, sample processing) and analysis (extraction, cleanup, instrumental determination), provides the error-propagation basis for combining uncertainties, and notes laboratories need only estimate uncertainties for processes under their control.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 ERRORS IN ANALYTICAL MEASUREMENTS",
+      "summary": "Distinguishes gross, random and systematic errors: gross errors invalidate measurements and should be minimised, random errors cause scatter reducible by replication, and systematic errors (bias) require reference materials, inter-lab comparison or recovery studies to detect; tables give practical sources of systematic and random errors in sample preparation, processing and analysis.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "errors heading",
+        "error types",
+        "gross errors",
+        "random errors",
+        "systematic errors",
+        "error sources",
+        "test portion table",
+        "error table header",
+        "table separator",
+        "sample preparation errors",
+        "sample processing errors",
+        "analysis error table",
+        "extraction cleanup errors",
+        "quantitative errors"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4. GUIDANCE VALUES FOR ACCEPTABLE UNCERTAINTIES",
+      "summary": "Provides guidance values and factors for estimating acceptable standard uncertainties from small datasets (table of f-factors relating sample size to expected ranges), gives typical relative uncertainties for sampling, sample processing and analysis steps (including example ranges and comments), and suggests regulators may adopt default expanded uncertainties (e.g., 50% for CVL) for compliance decisions.",
+      "categories": [
+        "analysis sampling",
+        "documentation",
+        "risk management"
+      ],
+      "subcategories": [
+        "acceptable uncertainty heading",
+        "standard deviation estimate",
+        "confidence range factors",
+        "factor table",
+        "table values",
+        "table separator",
+        "factor values",
+        "uncertainty table",
+        "measurement uncertainty",
+        "uncertainty guidance",
+        "uncertainty table heading",
+        "procedure table",
+        "procedure table separator",
+        "sampling uncertainty",
+        "animal sampling plan",
+        "sample processing uncertainty",
+        "analysis uncertainty",
+        "notes heading",
+        "reference note",
+        "default uncertainty"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "5.1 TESTING COMPLIANCE WITH AN MRL",
+      "summary": "Explains interpretation of an analytical result relative to an MRL using the measured value, its uncertainty interval and four situations: (i) result plus uncertainty above MRL indicates exceedance beyond doubt, (iv) result plus uncertainty below MRL indicates compliance, while (ii) and (iii) are inconclusive and require further consideration.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "compliance testing",
+        "result interpretation",
+        "figure caption",
+        "figure placeholder",
+        "situation heading",
+        "compliance decision"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5.2 DECISION ENVIRONMENT",
+      "summary": "Describes the decision environment: for plant products compliance follows specified sampling plans, expanded uncertainty for reporting may be calculated as U = k·SL with SL = CVL·residue, laboratories may report clear exceedance language when MRL is exceeded beyond doubt, and situations with overlapping uncertainty (ii/iii) require cautious managerial decisions due to trade and market implications.",
+      "categories": [
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "decision environment",
+        "animal residue compliance",
+        "expanded uncertainty",
+        "reporting result",
+        "compliance decision",
+        "compliance uncertainty",
+        "trade decision guidance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## Glossary of terms used in the text a",
+      "summary": "Glossary providing definitions used in pesticide residue analysis (e.g., blank/reagent/procedural blank, combined standard uncertainty, contamination, residue definition, determination system, level, lot, matrix effect, response, spike, standard uncertainty, sample unit, violative residue) with citations and a note that additional definitions appear in GLP guidance.",
+      "categories": [
+        "definition",
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "glossary heading",
+        "reference note",
+        "blank definition",
+        "table separator",
+        "uncertainty definition",
+        "contamination definition",
+        "residue definition",
+        "determination system",
+        "level definition",
+        "lot definition",
+        "matrix effect",
+        "blank crossref",
+        "response definition",
+        "spiking definition",
+        "standard uncertainty",
+        "sample unit",
+        "violative residue",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Introductory notes",
+      "summary": "Explains that measurement uncertainty (MU) estimation is required for ISO/IEC 17025-accredited and expected under GLP for pesticide residue analysis, contrasts the GUM (bottom-up) and top-down approaches, notes pros/cons of each, and recommends using and verifying top-down estimates from in-house validation, QC and PT data with periodic review and professional judgement.",
+      "categories": [
+        "documentation",
+        "scope",
+        "processing"
+      ],
+      "subcategories": [
+        "introductory notes",
+        "measurement uncertainty",
+        "mu approaches",
+        "bottom-up approach",
+        "top-down approach",
+        "mu estimation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Applying a default value for MU for pesticide residues in foods",
+      "summary": "Notes that EU member states have adopted a default expanded MU of ±50% for pesticide residues in foods based on PT study results (mean relative standard deviations ~20–25%), producing an approximate 50% uncertainty.",
+      "categories": [
+        "scope",
+        "risk management",
+        "documentation"
+      ],
+      "subcategories": [
+        "default mu",
+        "default mu value",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "ANNEX",
+      "summary": "Annex guidance allowing laboratories to adopt a default 50% MU for compliance with EU pesticide MRLs only if they can demonstrate analytical proficiency (via PT participation and/or acceptable long-term precision and bias) and requiring laboratories to verify such adoption by independently estimating MU from in-house data; the Annex also describes use of the Horwitz relationship, inter‑laboratory/PT data, and in‑house validation/QC (including bias considerations) and provides worked examples.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Worked Examples",
+      "summary": "Provides worked examples illustrating acceptable procedures to estimate MU using combinations of in‑house validation data, long‑term QC/precision data and inter‑laboratory/PT information, using chlorpyrifos examples and referencing Eurolab and Nordtest guidance as benchmarks.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.1 Estimating MU using the Horwitz Equation",
+      "summary": "Describes use of the Horwitz Equation to predict relative reproducibility standard deviation and expanded MU as a function of analyte concentration, gives example concentration-to-uncertainty values and a reporting example, and cautions on its limitations at low concentrations (noting Thompson/Lowthian adjustments).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "horwitz equation",
+        "formula fragment",
+        "formula placeholder",
+        "formula definition",
+        "measurement uncertainty",
+        "uncertainty table",
+        "table separator",
+        "example heading",
+        "worked example",
+        "reporting uncertainty",
+        "horwitz limitation"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    }
+  ]
+}

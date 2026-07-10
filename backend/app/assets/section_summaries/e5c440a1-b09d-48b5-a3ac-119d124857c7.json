@@ -1,0 +1,894 @@
+{
+  "doc_id": "e5c440a1-b09d-48b5-a3ac-119d124857c7",
+  "title": "STANDARD FOR SALTED ATLANTIC HERRING AND SALTED SPRAT",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR SALTED ATLANTIC HERRING AND SALTED SPRAT",
+      "summary": "Non‑substantive heading giving the title of the standard for salted Atlantic herring and salted sprat.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 244-2004",
+      "summary": "Non‑substantive document code heading: CXS 244-2004.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 2004. Amended in 2011, 2013, 2016, 2018.",
+      "summary": "Non‑substantive adoption/amendment note stating the standard was adopted in 2004 and amended in 2011, 2013, 2016 and 2018.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "adoption note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Scope: standard applies to salted Atlantic herring (Clupea harengus) and sprat (Sprattus sprattus) and excludes fish products produced using added natural or artificial enzymatic preparations, acids and/or artificial enzymes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Describes the product (made from fresh or frozen fish, salted in various presentations with optional spices/sugar), notes evisceration may be required due to Clostridium botulinum risk, defines salting and salt-content categories, and requires refrigerated or frozen storage with very lightly salted fish kept frozen.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Product definition",
+      "summary": "Product definition: salted products prepared from fresh or frozen fish in whole or various cut forms with optional spices/sugar, may be sold eviscerated or uneviscerated depending on national requirements due to C. botulinum risk, and are intended for direct human consumption or further processing.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "product definition",
+        "product description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.2 Process definition",
+      "summary": "Process definition: fish must undergo a salting process with controlled time and temperature to prevent Clostridium botulinum or else be eviscerated prior to brining; salting methods, four salt‑content categories, and storage requirements (including mandatory freezing for very lightly salted fish) are specified.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2.1 Salting",
+      "summary": "Defines salting as mixing fish with food‑grade salt (or salt solution) and optional sugar/spices in watertight containers (e.g., barrels).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "salting process"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2.2. Types of salted fish",
+      "summary": "Defines four types of salted fish (very lightly, lightly, medium, heavily) by specified salt content ranges in the fish muscle (water phase).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.2.1 Very lightly salted fish",
+      "summary": "Very lightly salted fish: salt content in fish muscle >1 g/100 g and ≤4 g/100 g in the water phase.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "salt level"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.2.2 Lightly salted fish",
+      "summary": "Lightly salted fish: salt content in fish muscle >4 g/100 g and ≤10 g/100 g in the water phase.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "salt level"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.2.2.3 Medium salted fish",
+      "summary": "Medium salted fish: salt content in fish muscle >10 g/100 g and ≤20 g/100 g in the water phase.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "salt level"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.2.2.4 Heavily salted fish",
+      "summary": "Heavily salted fish: salt content in fish muscle >20 g/100 g in the water phase.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "salt level"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.2.3 Storage temperatures",
+      "summary": "Storage temperatures: products must be kept frozen or refrigerated at time/temperature combinations ensuring safety and quality per Sections 3 and 5, and very lightly salted fish must be kept frozen after processing.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage temperatures",
+        "storage conditions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "2.3 Presentation",
+      "summary": "Presentation: any product presentation is permitted provided it meets the standard's requirements and is adequately described on the label to avoid misleading consumers.",
+      "categories": [
+        "presentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "presentation heading",
+        "presentation rules",
+        "consumer description"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies essential composition and quality: fish must be sound and wholesome and not obviously parasitized, salt and ingredients must be food grade and meet Codex standards, and conformity is assessed by lot examination and specified methods; additionally, a histamine limit is set (see 3.4).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.1 Fish",
+      "summary": "Fish quality requirement: salted herring and sprats must be prepared from sound, wholesome fish fit to be sold fresh after appropriate preparation and must not be obviously infested by parasites (note: ‘fish’ here includes herring and sprats).",
+      "categories": [
+        "quality",
+        "other"
+      ],
+      "subcategories": [
+        "fish quality",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2 Salt and other ingredients",
+      "summary": "Ingredient quality: salt and all other ingredients must be of food grade quality and conform to applicable Codex standards.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "ingredient quality"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.3 Final Product",
+      "summary": "Final product conformity: products meet the standard when lots examined per Section 9 comply with provisions in Section 8, and examinations are to use the methods in Section 7.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "final product",
+        "conformity testing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.4 Decomposition",
+      "summary": "Decomposition limit: products shall not contain more than 10 mg histamine per 100 g fish flesh based on the average of the sample unit tested.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "decomposition",
+        "histamine limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Acidity regulators, antioxidants and preservatives listed in Tables 1 and 2 of the General Standard for Food Additives (CXS 192-1995) are permitted for use in food category 09.2.5 (smoked, dried, fermented and/or salted fish and fish products, including mollusks, crustaceans and echinoderms) and its parent categories when used in accordance with those tables.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5. HYGIENE",
+      "summary": "Products must be prepared and handled following the General Principles of Food Hygiene (CXC 1-1969), the Code of Practice for Fish and Fishery Products (CXC 52-2003) and other relevant Codex texts and must meet any microbiological criteria established per CXG 21-1997 and not contain substances in hazardous amounts under Codex standards; additionally, fish must not contain living nematode larvae (viability per Annex I and treatment per Annex II if found), histamine must not exceed 20 mg/100 g fish muscle, and the final product must be free of foreign material that threatens human health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.4 Parasites",
+      "summary": "Fish flesh shall not contain living nematode larvae; viability must be examined according to Annex I and, if live nematodes are confirmed, the product must not be marketed for human consumption until treated in accordance with Annex II.",
+      "categories": [
+        "quality",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "parasite control",
+        "parasite examination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.5 Histamine",
+      "summary": "No sample unit shall contain more than 20 mg histamine per 100 g of fish muscle.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "histamine limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "5.6 Foreign material",
+      "summary": "The final product shall be free of any foreign material that poses a threat to human health.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "foreign material"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "6. LABELLING",
+      "summary": "In addition to the General Standard for the Labelling of Prepackaged Foods (CXS 1-1985), the product name must be the appropriate form of '...-salted herring' or '...-salted sprat' consistent with national law and custom and not misleading, with additional descriptive terms as needed; for non-retail containers the required information may be on the container or accompanying documents but the name of the food, lot identification, manufacturer/packer/importer name and address and storage instructions must always appear (lot id and name/address may be replaced by an identifiable mark linked to accompanying documents).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "6.1 Name of the food",
+      "summary": "The product name shall be the appropriate form of '...-salted herring' or '...-salted sprat' as per the law and custom of the selling country and must not mislead consumers, with additional descriptive terms included to avoid confusion.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name of food",
+        "product name declaration",
+        "misleading terms"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "6.2 Labelling of non-retail containers",
+      "summary": "For non-retail containers the required labelling information may appear either on the container or in accompanying documents, but the name of the food, lot identification, the name and address of the manufacturer/packer/importer and storage instructions must always appear on the container, and lot identification or name/address may be replaced by an identification mark if it is clearly linked to accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail labels",
+        "container information",
+        "identification mark"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "7. SAMPLING, EXAMINATION AND ANALYSES",
+      "summary": "Sampling and examination shall follow specified plans and methods: quality sampling with an AQL of 6.5 (sample unit = individual fish or primary container), net weight sampling per Codex criteria, microbiological and parasite sampling per CXG 21-1997 and histamine sampling per CXG 50-2004; sensory/physical exams must be by trained assessors per CXG 31-1999, salt and water determinations follow CXS 167-1989 and AOAC 950.46B respectively, nematode viability per Annex I, histamine testing must meet defined performance criteria (MLs, LOD/LOQ, RSDR, recovery) and lists accepted methods, and net weight is determined by draining and weighing individual fish as prescribed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7.1 Sampling plan for containers (Barrels)",
+      "summary": "Sampling of lots for quality inspection uses an appropriate sampling plan with an AQL of 6.5 (sample unit = individual fish or primary container); net weight sampling must meet Codex criteria; sampling for pathogenic microorganisms and parasites follows CXG 21-1997; and histamine sampling follows CXG 50-2004.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sampling plan heading",
+        "quality sampling",
+        "sample unit",
+        "weight sampling",
+        "microbiological sampling",
+        "histamine sampling"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "7.2 Sensory and Physical Examination",
+      "summary": "Samples for sensory and physical examination must be assessed by trained personnel using the procedures in Sections 7.3–7.8 and Annexes and in accordance with CXG 31-1999 (Guidelines for the Sensory Evaluation of Fish and Shellfish).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "sensory examination",
+        "sensory assessment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "7.3 Determination of salt content",
+      "summary": "Salt content determination shall be performed according to the method specified in the Standard for Salted Fish and Dried Salted Fish of Gadidae Family of Fishes (CXS 167-1989).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "salt determination",
+        "salt method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "7.4 Determination of water content",
+      "summary": "Water content determination shall be performed according to AOAC 950.46B (air drying).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "water determination",
+        "water method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "7.5 Determination of the viability of nematodes: see Annex I",
+      "summary": "The procedure for determining nematode viability is specified in Annex I (see Annex I for method).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "nematode viability"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "7.6 Determination of histamine",
+      "summary": "Histamine determination may use methods that meet specified performance criteria provided in a table (including MLs of 10 mg/100 g average and 20 mg/100 g per unit, applicable ranges, LOD/LOQ, RSDR, recovery) and lists acceptable methods such as AOAC 977.13 and NMKL methods.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "7.6.1 Methods meeting the following method performance criteria may be used:",
+      "summary": "Methods meeting the listed method performance criteria (MLs 10 mg/100 g average and 20 mg/100 g per unit, specified applicable ranges, LOD/LOQ, RSDR, recovery) may be used for histamine determination, with applicable methods including AOAC 977.13 and NMKL protocols.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method criteria",
+        "performance table",
+        "performance criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "7.7 Determination of net weight",
+      "summary": "Net weight (excluding packaging) of each sample unit must be determined by removing the herring from the container, allowing it to drain on a sieve for 5 minutes, removing adhering salt crystals, and then weighing to calculate net weight.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "net weight determination",
+        "net weight method"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "8. DEFINITION OF DEFECTIVES",
+      "summary": "A sample unit is defective if it exhibits specified properties, notably presence of foreign matter not derived from fish indicating poor manufacturing/sanitation, readily visible parasites in the edible portion detected by normal inspection, or persistent objectionable odours/flavours indicative of decomposition or contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "8.1.1. Foreign matter",
+      "summary": "Foreign matter is defined as any material not derived from fish that is readily recognizable without magnification or is present at a level (including as determined by magnification) indicating non-compliance with good manufacturing and sanitation practices, even if it does not pose a health threat.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "foreign matter",
+        "foreign matter criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "8.1.2 Parasites",
+      "summary": "Parasites are defined for defect criteria as readily visible parasites in the edible portion of the sample unit detected by normal visual inspection of the fish flesh (see Annex III).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "parasites",
+        "parasite criteria"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "8.1.3 Odour and flavour/taste",
+      "summary": "Defines unacceptable odour and flavour/taste in fish as persistent, distinct objectionable smells or tastes indicative of decomposition (e.g., sour, putrid, fishy, rancid, burning sensation) or contamination by foreign substances (e.g., fuel oil, cleaning compounds), grounds for considering the fish defective.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "odour and flavour",
+        "decomposition signs"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "9. LOT ACCEPTANCE",
+      "summary": "Specifies that a lot meets the standard only if (i) the number of defectives per Section 8 does not exceed the sampling plan acceptance number (c) in Section 7, (ii) the sample average net weight is at least the declared weight with no individual container under 95% of declared, and (iii) the Food Additives, Hygiene and Labelling requirements of Sections 4–6 are fulfilled.",
+      "categories": [
+        "inspection certification",
+        "weights and measures"
+      ],
+      "subcategories": [
+        "lot acceptance",
+        "acceptance criteria",
+        "defect acceptance",
+        "declared weight",
+        "compliance conditions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "Principle",
+      "summary": "Describes the principle of the nematode viability test: nematodes are isolated from fish fillets by digestion in 0.5% pepsin solution under conditions (temperature/acid) corresponding to mammalian digestive tracts to preserve their viability for visual inspection.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "principle heading",
+        "viability principle"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "Equipment",
+      "summary": "Lists required laboratory equipment for the viability test, including stacked sieves (≥14 cm, 0.5 mm mesh), a magnetic stirrer with thermostated heating plate, and normal laboratory apparatus.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "lab apparatus"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "Chemicals",
+      "summary": "Lists the reagents required for the method: Pepsin (2000 FIP‑U/g) and hydrochloric acid.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "chemicals heading",
+        "reagent listing"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "Solution",
+      "summary": "Specifies digestion Solution A as 0.5% (w/v) pepsin in 0.063 M hydrochloric acid.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "solution heading",
+        "solution preparation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "Procedure",
+      "summary": "Provides the stepwise procedure for isolating and assessing nematode viability: manually shred ~200 g fillets, digest in Pepsin solution at 37°C with stirring (1–2 h, repeat with additional solution if needed), decant and sieve, transfer nematodes to Petri dishes in fresh solution kept ≤37°C, and judge viability by spontaneous movement or reactions to gentle probing (single relaxation is not sufficient).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "procedure heading",
+        "test procedure",
+        "test criteria"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "Attention",
+      "summary": "Notes that in salted or sugar‑salted products nematode reanimation (return of motility) can take up to two hours or more, requiring longer observation times.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "attention heading",
+        "test note"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "Remarks",
+      "summary": "Remarks that alternative methods exist for determining nematode viability but the described method was chosen because it is simple and combines isolation and viability assessment in a single procedure.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "remarks heading",
+        "method remark"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "References",
+      "summary": "Provides bibliographic references (three cited works) relevant to sampling, differentiation of live/dead nematode larvae, and related experimental investigations.",
+      "categories": [
+        "analysis sampling",
+        "documentation"
+      ],
+      "subcategories": [
+        "references heading",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "VIABILITY TEST FOR NEMATODES (modified method according to Reference 1)",
+      "summary": "Heading/title indicating the document contains a modified viability test for nematodes (according to Reference 1) but contains no substantive procedural detail by itself.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "test method heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "ANNEX I",
+      "summary": "Annex I listing treatments sufficient to kill living nematodes, including freezing to −20°C for at least 24 hours throughout the product, adequate combinations of salt content and storage time (to be specified), or other equivalent processes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "Treatment procedures sufficient to kill living nematodes",
+      "summary": "Specifies treatment options judged sufficient to kill nematodes, explicitly citing freezing at −20°C for not less than 24 hours throughout the product, adequate salt–time combinations (details to be elaborated), or other processes with equivalent effect.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "kill treatment",
+        "freezing treatment",
+        "salt treatment",
+        "equivalent treatment"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "ANNEX II",
+      "summary": "Annex II sets out a visual inspection method for detecting readily visible parasites by breaking a sample into normal bite‑size pieces (20–30 mm thickness), examining only the edible portion in good light without magnification, and allowing later verification for whole fishery products in bulk intended for further processing.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "Determination of the presence of visible parasites",
+      "summary": "Details the visual determination of visible parasites: examine bite‑size pieces (20–30 mm) of the edible portion in adequate lighting without magnification, with allowance that verification for whole intermediate products destined for further processing may be deferred.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "parasite detection",
+        "visible parasite test"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    }
+  ]
+}

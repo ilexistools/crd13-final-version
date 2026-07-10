@@ -1,0 +1,219 @@
+{
+  "doc_id": "0b9051b7-2334-4397-8a9e-beff2e1f1f22",
+  "title": "PRINCIPLES FOR THE USE OF SAMPLING AND TESTING IN INTERNATIONAL FOOD TRADE CAC/GL 83-2013",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "PRINCIPLES FOR THE USE OF SAMPLING AND TESTING IN INTERNATIONAL FOOD TRADE CAC/GL 83-2013",
+      "summary": "Document title: Principles for the Use of Sampling and Testing in International Food Trade (CAC/GL 83‑2013).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Adopted in 2013. Revision: 2015.",
+      "summary": "Adopted in 2013; revised in 2015.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document date"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. INTRODUCTION",
+      "summary": "Explains that sampling and testing are tools to assess whether traded foods meet specifications and must be scientifically based to control probabilities of wrongful acceptance/rejection, with Codex sampling and endorsed analytical methods preferred; it also says procedures should support risk‑based decisions within national food control systems and complement other Codex texts (e.g., CAC/GL 47‑2003, CAC/GL 62‑2007).",
+      "categories": [
+        "scope",
+        "analysis sampling",
+        "risk management"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "general introduction",
+        "sampling principles",
+        "food safety risk",
+        "risk based decision",
+        "testing alternative",
+        "document reference",
+        "purpose statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2. SCOPE",
+      "summary": "States the principles are intended to help governments establish and use scientifically based sampling and testing procedures for international food trade compliance, and that explanatory notes clarify their application.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "Testing",
+      "summary": "Defines 'Testing' as the process to examine the specified characteristics of a sample.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "testing heading",
+        "testing definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "Testing procedure",
+      "summary": "Operational heading describing requirements for testing procedures, including sample preparation and analytical methods to determine the characteristics of a sample.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "testing procedure heading",
+        "testing procedure"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "## Principle 4: Selecting appropriate sampling and testing procedures",
+      "summary": "Sampling and testing procedures must be scientifically based, appropriate to the commodity and lot/consignment, fit for their intended purpose and applied consistently, taking practical matters (cost, timeliness, access) and within-lot variation into account; attributes plans are recommended for qualitative or unknown distributions and variables plans for normally distributed measurements, with guidance to consult CAC/GL 50-2004 and relevant ISO standards and to use random sampling where possible, while noting CAC/GL 50 does not cover non-homogeneous lots.",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "principle heading",
+        "selection criteria",
+        "scientific basis",
+        "commodity suitability",
+        "fitness for purpose",
+        "selection factors",
+        "practical considerations",
+        "lot variation",
+        "explanatory notes heading",
+        "sampling error risk",
+        "sampling plan guidance",
+        "sampling situations",
+        "defective item control",
+        "mean content control",
+        "plan information",
+        "lot basis",
+        "test type",
+        "inspection basis",
+        "acceptance parameters",
+        "lot definition",
+        "nonconformity control",
+        "attributes plans",
+        "variables plans",
+        "footnote",
+        "average control",
+        "average sampling plan",
+        "sampling procedure",
+        "sampling standards"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "## Principle 5: Analytical measurement uncertainty",
+      "summary": "Product assessment procedures must take analytical measurement uncertainty into account; uncertainty covers all steps from sampling to determination, exporting and importing countries should agree how to treat uncertainty when assessing conformity against legal limits, and Codex guidelines (e.g. CAC/GL 54-2004, CAC/GL 59-2006) describe estimation and decision examples.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "measurement uncertainty",
+        "uncertainty consideration",
+        "explanatory notes",
+        "uncertainty explanation",
+        "conformity agreement",
+        "decision example",
+        "uncertainty estimation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "## Principle 6: Fitness for purpose",
+      "summary": "Sampling and testing are 'fit for purpose' when, with appropriate decision criteria, they yield acceptable probabilities of wrong acceptance or rejection; fitness requires balancing consumer and producer risk and laboratories should meet competence and QA criteria (ISO/IEC 17025, proficiency testing, validated methods, internal quality control) and follow Codex laboratory guidance.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "fitness for purpose",
+        "fitness criterion",
+        "explanatory notes",
+        "sampling plan",
+        "examples intro",
+        "aql example",
+        "testing laboratories",
+        "quality assurance",
+        "laboratory competence",
+        "proficiency testing",
+        "method validation",
+        "internal quality control"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "## Principle 7: Review procedures",
+      "summary": "Sampling and testing procedures should be reviewed periodically to incorporate new science and information.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "review procedures",
+        "periodic review"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

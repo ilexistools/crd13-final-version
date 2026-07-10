@@ -1,0 +1,488 @@
+{
+  "doc_id": "bd8fc5af-6cc3-4643-802d-84134d21bf21",
+  "title": "GENERAL STANDARD FOR CHEESE CXS 283-1978",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GENERAL STANDARD FOR CHEESE CXS 283-1978",
+      "summary": "Title only: General Standard for Cheese (CXS 283-1978).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "Formerly CODEX STAN A-6-1973. Adopted in 1978. Revised in 1999.",
+      "summary": "Document history note: formerly CODEX STAN A-6-1973; adopted 1978 and revised 1999.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "standard history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Amended in 2006, 2008, 2010, 2013, 2018, 2021, 2022.",
+      "summary": "Lists years in which the standard was amended (2006, 2008, 2010, 2013, 2018, 2021, 2022).",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "standard amendments"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "## 2022 Amendment",
+      "summary": "Records the 2022 amendment which replaces the previous Section 7.4 provision on labelling of non‑retail containers with a requirement to follow the General Standard for the Labelling of Non‑Retail Containers of Foods (CXS 346‑2021).",
+      "categories": [
+        "documentation",
+        "labelling"
+      ],
+      "subcategories": [
+        "amendment heading",
+        "amendment notice",
+        "amendment table",
+        "non-retail containers"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1. SCOPE",
+      "summary": "Scope states the standard applies to all products meeting the cheese definition in Section 2 intended for direct consumption or further processing, and that more specific varietal or group standards prevail where provided.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. DESCRIPTION",
+      "summary": "Defines cheese as a ripened or unripened soft to extra‑hard product (may be coated) produced by coagulation of milk proteins (from milk, cream, whey cream, buttermilk or combinations) or equivalent processing yielding similar physical, chemical and organoleptic characteristics, and provides subdefinitions for ripened, mould‑ripened and unripened/fresh cheeses.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1 Cheese is the ripened or unripened soft, semi-hard, hard, or extra-hard product, which may be coated, and in which the whey protein/casein ratio does not exceed that ofmilk, obtained by:",
+      "summary": "Defines cheese production by coagulating milk proteins (via rennet or other agents) and partially draining whey or by equivalent processing that concentrates milk protein, and reiterates subdefinitions for ripened, mould‑ripened and unripened/fresh cheeses.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1.1 Ripened cheese is cheese which is not ready for consumption shortly after manufacture but which must be held  for  such  time,  at  such  temperature,  and  under  such  other  conditions  as  will  result  in  the  necessary biochemical and physical changes characterizing the cheese in question.",
+      "summary": "Definition: ripened cheese is not ready for immediate consumption and must be held under specified time, temperature and other conditions to develop the characteristic biochemical and physical changes.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "ripened cheese"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.1.2 Mould ripened cheese is a ripened cheese in which the ripening has been accomplished primarily by the development of characteristic mould growth throughout the interior and/or on the surface of the cheese.",
+      "summary": "Defines mould-ripened cheese as a ripened cheese in which ripening is accomplished primarily by development of characteristic mould growth throughout the interior and/or on the surface of the cheese.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "mould ripened"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1.3 Unripened cheese including fresh cheese is cheese which is ready for consumption shortly after manufacture.",
+      "summary": "Defines unripened cheese, including fresh cheese, as cheese that is ready for consumption shortly after manufacture.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "unripened cheese"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets out essential composition and quality factors: raw materials are limited to milk and/or milk products and permitted ingredients include harmless starter and other harmless microbial cultures, safe and suitable enzymes, sodium or potassium chloride as salt substitutes, and potable water.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1 Raw materials",
+      "summary": "Specifies raw materials for the standard as milk and/or products obtained from milk.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "raw materials"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2 Permitted ingredients",
+      "summary": "Lists permitted ingredients: harmless lactic acid and/or flavour-producing starter cultures and other harmless microorganism cultures, safe and suitable enzymes, sodium chloride or potassium chloride as salt substitutes, and potable water.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "permitted ingredients heading",
+        "starter cultures",
+        "enzymes ingredient",
+        "salt substitute",
+        "potable water"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Addresses food additives: refers unripened cheeses to CXS 221-2001 and cheeses in brine to CXS 208-1999, and states that for ripened cheeses additives provided in Codex individual standards for varieties may be used for similar types within those limits and that only additive classes indicated as technologically justified in the accompanying table may be used.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Unripened cheeses",
+      "summary": "Heading only: classification category 'Unripened cheeses' with no substantive provisions in this item.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "unripened cheeses"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Cheeses in brine",
+      "summary": "Heading only: classification category 'Cheeses in brine' with no substantive provisions in this item.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "cheeses in brine"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "Ripened cheeses, including mould ripened cheeses",
+      "summary": "States for ripened cheeses (including mould-ripened) that additives listed in individual Codex standards for specific varieties may be used for similar types within those limits and that only additive classes shown as technologically justified in the table may be used for the specified product categories.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "Only those additive classes indicated as justified in the table below may be used for the product categories specified.",
+      "summary": "States that only additive classes indicated as technologically justified in the referenced table may be used for the specified product categories.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additive use statement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "4.1 Processing aids",
+      "summary": "Requires processing aids to be consistent with CXG 75-2010 and provides a table of technological justification showing which additive functional classes may be used in the cheese mass versus for surface/rind treatment (e.g., colours allowed for mass and edible rind, acidity regulators for cheese mass, preservatives for mass and surface, anticaking agents for the surface of sliced/cut/shredded/grated cheese), with footnotes on edible rind and surface-only uses.",
+      "categories": [
+        "additives",
+        "labelling"
+      ],
+      "subcategories": [
+        "processing aids heading",
+        "processing aid guidance",
+        "additive table",
+        "additive classes",
+        "colour use",
+        "bleaching agents",
+        "acidity regulators",
+        "stabilizers",
+        "thickeners",
+        "emulsifiers",
+        "antioxidants",
+        "preservatives",
+        "foaming agents",
+        "anticaking agents",
+        "packaging gas",
+        "surface use note",
+        "edible rind",
+        "technological justification"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5. CONTAMINANTS",
+      "summary": "Requires products covered by the standard to comply with maximum contaminant and toxin levels in the General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995); additionally, milk used must comply with contaminant/toxin limits and with veterinary drug residue and pesticide maximum residue limits established for milk by the CAC.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "contaminant limits",
+        "residue limits"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6. HYGIENE",
+      "summary": "Recommends that products be prepared and handled in accordance with the General Principles of Food Hygiene (CXC 1-1969), the Code of Hygienic Practice for Milk and Milk Products (CXC 57-2004) and other relevant Codex texts, and comply with any microbiological criteria established per CXG 21-1997.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "food hygiene"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7. LABELLING",
+      "summary": "Introductory labelling provision stating that, in addition to general labelling standards (CXS 1-1985) and dairy terms (CXS 206-1999), specific provisions in this standard apply to the products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.1 Name of the food",
+      "summary": "Requires the name of the food to be 'cheese', though the word 'cheese' may be omitted for individual cheese variety names reserved by a Codex standard or by national legislation provided the omission does not create an erroneous impression about the food.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "name heading",
+        "food name"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.1 In case  the  product  is  not  designated  with  a  variety  name  but  with  the  designation  'cheese'  alone,  the designation may be accompanied by the appropriate descriptive terms in the following table:",
+      "summary": "Allows the designation 'cheese' (when not using a variety name) to be accompanied by descriptive terms based on firmness and principal ripening using specified MFFB (%) ranges (e.g., extra hard, hard, firm/semi-hard, soft; ripened, mould ripened, unripened/fresh, in brine); MFFB is defined as percentage moisture on a fat-free basis (weight of moisture divided by total weight minus weight of fat).",
+      "categories": [
+        "labelling",
+        "classification",
+        "other",
+        "definition"
+      ],
+      "subcategories": [
+        "descriptive terms",
+        "classification table",
+        "table separator",
+        "classification criteria",
+        "moisture basis",
+        "firmness grade",
+        "mffb definition",
+        "code fence",
+        "mffb formula",
+        "example label",
+        "designation example"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "CHEESE RIND",
+      "summary": "Defines 'rind' as the semi-closed, lower-moisture outer layer formed during ripening (often initiated by brining) that is constituted of cheese mass but may change in composition and taste; notes rind can be treated or colonized by desired cultures forming a 'smear', and that 'rindless' cheese is ripened under a film so the outer part does not develop a lower-moisture rind.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "rind definition",
+        "rind description",
+        "smear definition",
+        "rindless definition"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "CHEESE SURFACE",
+      "summary": "Defines 'cheese surface' as the outside layer of a whole cheese or parts of cheese (including sliced, shredded or grated forms), regardless of whether a rind has formed.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "surface definition"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "CHEESE COATINGS",
+      "summary": "Explains cheese coatings (applied before, during, or after ripening) are non-cheese materials used to regulate moisture or protect against microorganisms, damage, or for appearance, are distinct from rind and often removable, and may be films (e.g., polyvinylacetate) or impermeable layers (e.g., wax); notes wheat gluten/protein products should not be used as coatings or processing aids for foods that are naturally gluten-free.",
+      "categories": [
+        "definition",
+        "presentation",
+        "other",
+        "processing"
+      ],
+      "subcategories": [
+        "coating definition",
+        "coating purpose",
+        "coating distinction",
+        "coating types",
+        "film coating",
+        "protective coating",
+        "amendment note",
+        "technological use"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "APPENDIX 1",
+      "summary": "Heading only: 'APPENDIX 1' with no substantive content in this item.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "appendix heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

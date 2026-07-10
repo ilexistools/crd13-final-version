@@ -1,0 +1,357 @@
+{
+  "doc_id": "b8ae6985-221d-4ad5-9fd6-1fe71a61b177",
+  "title": "REGIONAL CODE OF HYGIENIC PRACTICE FOR STREET- VENDED FOODS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "REGIONAL CODE OF HYGIENIC PRACTICE FOR STREET- VENDED FOODS",
+      "summary": "This is the title of the 'REGIONAL CODE OF HYGIENIC PRACTICE FOR STREET-VENDED FOODS' and serves as the document heading.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "IN ASIA CXC 76R-2017 Adopted in 2017.",
+      "summary": "Document reference indicating this Regional Code (CXC 76R-2017) was adopted in Asia in 2017.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "INTRODUCTION",
+      "summary": "Defines 'street-vended foods' as foods/beverages prepared and/or sold by vendors in streets/public places for immediate or later consumption without further processing, notes urbanization-driven expansion and highlights street foods' role in affordability, livelihoods and preservation of local culinary traditions.",
+      "categories": [
+        "scope",
+        "definition"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "street foods definition",
+        "background context"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "SECTION 1 - OBJECTIVES",
+      "summary": "States the Code's objective to address essential hygienic conditions to be considered when establishing street food control measures.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "hygiene objectives"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Scope",
+      "summary": "Defines the Code's scope as setting general hygienic practices required to make street foods safe and notes it is intended to be useful for vendors/food handlers, consumers and relevant authorities.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Use",
+      "summary": "States that the Code is intended for use by Asian countries to ensure the safety and hygiene of street-vended foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "use heading",
+        "regional use"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Definitions",
+      "summary": "Provides definitions of terms used in the Code relevant to street-vended foods—e.g., equipment, clean/clean water, contaminant, crockery/cutlery, cross-contamination, customer/consumer, disposable articles, food contact surfaces, food handler, food hygiene/safety, microorganisms, perishable food, pests, potable/drinking water (WHO), raw food, ready-to-eat, sealed containers, street foods/centres/stalls/vendors, and waste water—with references to related Codex/WHO documents.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Street Foods",
+      "summary": "Defines 'street foods' as foods and beverages prepared and/or sold by vendors in streets and other public places for immediate or later consumption.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "street foods term",
+        "street foods definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Street Food Centre 2",
+      "summary": "Defines 'Street Food Centre' as a public place or establishment designated by the relevant authority for preparation, display and sale of street foods by multiple vendors.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "street food centre",
+        "street food centre definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Street Food Stall",
+      "summary": "Defines 'Street Food Stall' as any place (including carts, tables, benches, baskets, vehicles, or similar structures) where street food is prepared, displayed, served or sold to the public.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "street food stall",
+        "street food stall definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Street food vendor",
+      "summary": "Defines 'Street food vendor' as an individual selling street foods in stalls, kiosks, carts or centres.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "street food vendor",
+        "vendor definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "Waste Water",
+      "summary": "Defines 'Waste Water' as sullage water generated by vendors' activities.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "waste water",
+        "waste water definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "SECTION 3 - GENERAL REQUIREMENTS",
+      "summary": "Section heading only (GENERAL REQUIREMENTS) and contains no substantive provisions in this excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.1 Rules and Regulations",
+      "summary": "Advises that appropriate rules and regulations should be drafted to enable effective implementation and control of the street foods sector, either as separate rules or incorporated into existing food regulations.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "rules heading",
+        "rules and regulations"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2 Registration / Licensing of Street Food Vendors",
+      "summary": "Where national legislation requires, street food vendors must have registration/licensing from the relevant authority and display identification on their cart/kiosk; the authority should issue or renew registration for vendors who comply with the Code's hygienic practice requirements.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "licensing heading",
+        "vendor licensing",
+        "license renewal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "SECTION 4 - STAKEHOLDERS IN STREET FOOD VENDING",
+      "summary": "Section heading noting that it addresses the roles and responsibilities of three key stakeholders in street food vending.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.1 Street Food Vendors",
+      "summary": "Specifies vendor obligations for personal hygiene (clean clothing, hair nets, disposable gloves when needed, short clean nails, no jewellery, covered wounds), hygienic behaviour (no eating/chewing/smoking/handling phones or currency while preparing food, no sneezing/coughing over food, and mandatory handwashing at key times), and not working when showing symptoms such as jaundice, diarrhoea or infected skin lesions; these are to be ensured through awareness, motivation and training.",
+      "categories": [
+        "hygiene",
+        "training"
+      ],
+      "subcategories": [
+        "vendors heading",
+        "vendor conduct",
+        "personal hygiene",
+        "hygienic behaviour",
+        "health status",
+        "awareness training"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.2 Consumers",
+      "summary": "Advises consumers to avoid eating/chewing/smoking/spitting or touching near displayed food, not to litter or cough/sneeze near food, and to dispose of leftovers in waste bins.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "consumers heading",
+        "consumer conduct",
+        "waste disposal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "8.3 Handling and Storage",
+      "summary": "Prescribes handling and storage controls: cover and protect food from dust, use clean crockery/utensils, use single-use disposables once, keep ready-to-eat foods covered/displayed in cabinets, dispose of leftovers/unsold perishables, separate raw and cooked foods, store seasonings appropriately, serve in individual containers, refrigerate cooked/perishable foods promptly (preferably below 5°C), store fuels/chemicals away from food zones, ensure hygienic transport within shelf life limits, and wash hands after handling non-food items.",
+      "categories": [
+        "storage",
+        "equipment",
+        "packaging",
+        "hygiene",
+        "transport"
+      ],
+      "subcategories": [
+        "handling heading",
+        "food protection",
+        "utensil hygiene",
+        "single use items",
+        "food handling",
+        "waste disposal",
+        "separate handling",
+        "temperature storage",
+        "serving containers",
+        "cold storage",
+        "chemical storage",
+        "hygienic transport",
+        "hand washing"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "SECTION 9 - EDUCATION AND TRAINING",
+      "summary": "Requires basic food hygiene training for every street food vendor, helper and food handler provided by relevant authorities or approved institutions using concise, pictorial, local-language IEC materials (waterproof if needed) and calls for consumer awareness of their responsibilities.",
+      "categories": [
+        "training",
+        "other"
+      ],
+      "subcategories": [
+        "training heading",
+        "food hygiene training",
+        "training materials",
+        "consumer awareness",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

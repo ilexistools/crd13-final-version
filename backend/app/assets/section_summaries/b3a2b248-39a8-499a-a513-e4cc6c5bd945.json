@@ -1,0 +1,571 @@
+{
+  "doc_id": "b3a2b248-39a8-499a-a513-e4cc6c5bd945",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "Defines the scope: 'couscous' means processed couscous for direct human consumption and, subject to Section 8.1.2, the standard does not apply to couscous prepared from cereals other than durum wheat.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DESCRIPTION",
+      "summary": "Describes couscous as the product prepared from durum wheat semolina bound with potable water and subjected to physical treatment (e.g., cooking and drying), produced from a mixture of coarse and fine (or 'coarse medium') semolina.",
+      "categories": [
+        "definition",
+        "composition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definition",
+        "ingredient proportions"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Sets essential composition and quality factors for couscous, including general safety and processing requirements to limit nutritive loss and avoid undesirable property changes, and specifies a maximum moisture content of 13.5%.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3.1 Quality factors - general",
+      "summary": "Requires couscous to be clean, safe and fit for human consumption and mandates production processes that minimize nutritive value reduction and avoid undesirable modification of product properties.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.1.1 Couscous shall be clean, safe and fit for human consumption.",
+      "summary": "Mandates that couscous shall be clean, safe and fit for human consumption.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality requirement"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1.2 All processes applied to materials used for the production of couscous must be carried out in order to:",
+      "summary": "Requires that all processes applied in couscous production shall limit reduction of nutritive value and avoid undesirable modification of couscous properties.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.2 (a) limit the reduction of nutritive value",
+      "summary": "Process requirement: limit the reduction of nutritive value during couscous production.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "nutritional retention"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.2 (b) avoid undesirable modification of properties of couscous",
+      "summary": "Process requirement: avoid undesirable modification of couscous properties during production.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "product integrity"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.2 Quality factors - specific",
+      "summary": "States specific quality factors, notably that couscous moisture content shall not exceed 13.5%.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2.1 Moisture content",
+      "summary": "Specifies that couscous moisture content shall not exceed 13.5%.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "moisture content",
+        "moisture limit"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4. FOOD ADDITIVES",
+      "summary": "Prohibits the addition of any food additives during the industrial processing of couscous.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "prohibited additives"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5. CONTAMINANTS",
+      "summary": "General contaminants provisions: couscous must be free from heavy metals at hazardous levels and must comply with Codex maximum residue limits for pesticides and mycotoxins applicable to this commodity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.1 Heavy metals",
+      "summary": "Requires couscous to be free of heavy metals at levels that could pose a health hazard.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "heavy metals",
+        "heavy metal limit"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.2 Pesticide residues",
+      "summary": "Requires couscous to comply with Codex-established maximum pesticide residue limits for this commodity.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "pesticide residues",
+        "residue limits"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.3 Mycotoxins",
+      "summary": "Requires couscous to comply with Codex-established maximum mycotoxin limits for this commodity.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "mycotoxins",
+        "mycotoxin limits"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6. HYGIENE",
+      "summary": "Hygiene provisions recommend production according to the Codex General Principles of Food Hygiene and require, under good manufacturing practice, that couscous be free from objectionable matter, free from microorganisms capable of development during normal storage, and free from microbial-origin substances at levels that may hazard health.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.1 It is recommended that the product covered by the provisions of this standard be prepared in accordance with the  appropriate  sections  of the Recommended International Code of Practice  - General Principles of Food Hygiene (CAC/RCP  1-1969),  and  other  Codes  of  Practice  recommended  by  the  Codex  Alimentarius Commission which are relevant to the product.",
+      "summary": "Recommends preparing couscous in accordance with the relevant sections of the Codex Recommended International Code of Practice — General Principles of Food Hygiene (CAC/RCP 1-1969) and other applicable Codex Codes of Practice.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "good practice"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "STANDARD FOR COUSCOUS",
+      "summary": "Document title/header: 'Standard for Couscous' (not a substantive regulatory provision).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "CODEX STAN 202-1995",
+      "summary": "Standard identifier/header: 'CODEX STAN 202-1995' (not a substantive regulatory provision).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "standard code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.2 To the extent possible in good manufacturing practice, the product shall be free from objectionable matter.",
+      "summary": "Requires that, to the extent possible under good manufacturing practice, couscous be free from objectionable matter.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "objectionable matter"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.3 When tested by appropriate methods of sampling and examination, the product:",
+      "summary": "Specifies that, when sampled and examined by appropriate methods, couscous must be free of microorganisms capable of growth under normal storage and must not contain microbial-origin substances at levels posing a health hazard.",
+      "categories": [
+        "analysis sampling",
+        "hygiene"
+      ],
+      "subcategories": [
+        "sampling and examination",
+        "microbial growth",
+        "microbial toxins"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7. PACKAGING",
+      "summary": "Packaging requirements: retail packaging must safeguard the hygienic, nutritional and technological qualities of couscous, and packaging materials must be safe and not impart toxic substances or undesirable odour/flavour.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "7.1 Couscous shall be packaged for retail  sale  in  containers  which  will  safeguard  the  hygienic,  nutritional  and technological qualities of the product.",
+      "summary": "Requires retail packaging that preserves the hygienic, nutritional and technological qualities of couscous.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "retail packaging"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "7.2 Containers, including packaging material, shall be made of substances which are safe and suitable for their intended use. They shall not impart any toxic substance or undesirable odour or flavour to the product.",
+      "summary": "Requires that containers and packaging materials be made of substances safe and suitable for their intended use and not impart toxic substances or undesirable odour or flavour to couscous.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "container safety"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "8. LABELLING",
+      "summary": "Labeling heading stating that specific labelling provisions for couscous supplement the Codex General Standard for the Labelling of Prepackaged Foods (CODEX STAN 1-1985).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "8.1 Name of the product",
+      "summary": "Heading for product name requirements (substantive provisions are in the following subsections).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "8.1.1 The name of the product to be shown on the label shall be 'couscous'.",
+      "summary": "Mandates that the name of the product shown on the label shall be 'couscous'.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "8.1.2 Products intended for the same use but prepared from cereals other than durum wheat may be designated as 'couscous' on condition that this appellation be immediately followed by a specification of the cereals used.",
+      "summary": "Permits products made from cereals other than durum wheat to be designated 'couscous' only if the appellation is immediately followed by a specification of the cereals used.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "qualified product name"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "8.2 Labelling of non-retail containers",
+      "summary": "Heading only — indicates there are specific labelling requirements for non‑retail containers (substantive text not included here).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "8.2 Information for  non-retail  containers  shall  either  be  given  on  the  container  or  in  accompanying  documents, except that the name of the product, lot identification and the name and address of the manufacturer or packer shall appear on the container. However, lot identification and the name and address of the manufacturer or packer may be replaced by an identification mark, provided that such a mark is clearly identifiable with the accompanying documents.",
+      "summary": "Labelling rule for non-retail containers: required information may appear on the container or in accompanying documents, but the product name, lot identification and the manufacturer/packer name and address must appear on the container; lot identification and manufacturer/packer name/address may instead be replaced by an identification mark if that mark can be clearly linked to the accompanying documents.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "non-retail particulars"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "9. METHODS OF SAMPLING AND ANALYSIS",
+      "summary": "Section heading only — directs users to consult the relevant Codex texts for methods of sampling and analysis.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "referenced methods"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "ANNEX",
+      "summary": "Annex guidance: where multiple factor limits or analytical methods are given, users are strongly recommended to specify which limit and which method of analysis apply.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "1. SEMOLINA KERNEL SIZES",
+      "summary": "Defines semolina kernel size categories (for couscous): fine 130–183 μm; medium 183–475 μm; coarse 475–700 μm; and 'coarse medium' 183–700 μm.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "kernel sizes heading",
+        "semolina size"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "2. COMPOSITION",
+      "summary": "Specifies semolina composition for couscous: fine semolina 20–30% and coarse semolina 70–80%; 'coarse medium' semolina is defined as ~25–30% coarse semolina and 70–75% medium semolina.",
+      "categories": [
+        "composition",
+        "classification"
+      ],
+      "subcategories": [
+        "composition heading",
+        "ingredient proportions",
+        "composition ratio",
+        "product class definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "3. QUALITY FACTORS",
+      "summary": "Sets quality limits: granularity 630–2000 μm with a 6% tolerance, and maximum ash content 1.1%.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "quality heading",
+        "granularity requirement",
+        "ash limit"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "4. ANALYSIS",
+      "summary": "Section heading only (Analysis) — no substantive details provided in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "4.1 Ash",
+      "summary": "Specifies the method for ash determination by citing ISO 2171‑1980 (Cereals, Legumes and Derived Products — Determination of ash).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "ash determination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

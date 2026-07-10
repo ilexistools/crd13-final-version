@@ -1,0 +1,938 @@
+{
+  "doc_id": "dba08453-0ec4-4b90-a550-febe1f198ca2",
+  "title": "CODE OF HYGIENIC PRACTICE FOR LOW-MOISTURE FOODS CXC 75-2015",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF HYGIENIC PRACTICE FOR LOW-MOISTURE FOODS CXC 75-2015",
+      "summary": "Document title: Code of Hygienic Practice for Low‑Moisture Foods (CXC 75‑2015), adopted 2015, revised 2016 and amended 2018 (title/adoption note).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1 INTRODUCTION",
+      "summary": "Explains low‑moisture foods (aw ≤0.85) are associated with outbreaks—primarily Salmonella spp. (and Bacillus cereus)—notes pathogens do not multiply but can persist and be heat‑tolerant in low‑aw matrices, and emphasizes controlling Salmonella in the processing environment via GHPs, hygienic equipment design, maintenance, incoming ingredient control and special attention to products exposed after or lacking pathogen reduction steps.",
+      "categories": [
+        "scope",
+        "hygiene"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background rationale",
+        "hygiene controls"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SECTION I  - OBJECTIVES",
+      "summary": "States the Code provides GMPs and GHPs for controlling microbial hazards in all stages of manufacturing low‑moisture foods, with particular emphasis on minimizing Salmonella spp., while also addressing other potential pathogens.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "objectives"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.1 Scope",
+      "summary": "Defines the Code's scope as GMPs/GHPs for manufacturing low‑moisture foods for human consumption, listing covered commodities (e.g. dried fruits/vegetables, cereals, nut butters, dried dairy/soy protein products, confections, snacks, tree nuts, seeds, spices, specialized lipid‑based nutritional products) and noting milled grain products like flour may be included when not subjected to microbial inactivation.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.2 Use",
+      "summary": "States the Code should be used with the General Principles of Food Hygiene and other applicable commodity codes, provides cross‑references and footnotes on specialized lipid‑based nutritional products, and notes powdered infant formula is excluded from scope because it is addressed by a separate Code.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "use heading",
+        "cross reference",
+        "footnote reference",
+        "footnote explanation",
+        "scope exclusion"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.3 Definitions",
+      "summary": "Refers to definitions in the General Principles and additional defined terms used here: controlled wet cleaning, dry cleaning, harbourage site (locations allowing residue accumulation and microbial survival), low‑moisture foods (aw ≤0.85), and wet cleaning.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition preamble",
+        "cleaning definition",
+        "harbourage definition",
+        "product definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "SECTION III - PRIMARY PRODUCTION",
+      "summary": "Notes raw materials/ingredients for low‑moisture foods vary widely and microbial hazards differ by commodity, so detailed primary production methods are beyond the Code's scope and primary producers should apply practices that promote safe food while referring to the General Principles and other applicable codes.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "primary production heading",
+        "primary production context"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "SECTION IV - ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "Section heading only for 'Establishment: Design and Facilities' without substantive provisions in this excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.1 Location",
+      "summary": "Cross‑references the General Principles of Food Hygiene for location requirements; no additional substantive detail provided here.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "location heading",
+        "cross reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "4.2 Premises and rooms",
+      "summary": "Refers readers to the General Principles of Food Hygiene for premises and room requirements; no further substantive text in this excerpt.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "4.2.1 Design and layout",
+      "summary": "Specifies hygienic design, zoning and layout for low‑moisture food premises to control pathogen entry and transfer (e.g., separate raw/pre‑processing and post‑processing areas, physically separate areas after a pathogen‑reduction step, and consider transitional zones for products for susceptible consumers), require dust control via barriers or ventilation/airflow, and minimize introduction/use of water by keeping dry‑cleaning areas dry, locating handwashing/footbath stations and water distribution outside high‑hygiene zones, and designing infrastructure to prevent unwanted water entry.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "design layout heading",
+        "premises layout",
+        "area separation",
+        "dust control",
+        "water control"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "4.2.2 Internal structures and fittings",
+      "summary": "Requires internal structures and fittings to minimize dust accumulation (especially overhead), eliminate cavities that could serve as microbial harbourage, control condensate with measures such as drip pans or ventilation to prevent product contamination, and fit entry/exit doors to high‑hygiene areas tightly with self‑closing devices where necessary.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "internal structures heading",
+        "overhead structures",
+        "harbourage prevention",
+        "condensate control",
+        "door design"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "4.3 Equipment",
+      "summary": "Non‑substantive cross‑reference: directs the reader to the General Principles of Food Hygiene and contains no additional specific requirements.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "4.3.1 General",
+      "summary": "Sets equipment design and documentation requirements to prevent establishment of pathogens in equipment (design for dry cleaning or controlled wet cleaning with rapid drying, simple construction, accessibility for inspection/cleaning, elimination or sealing of hollow areas, and hygienic design of buttons/switches) and requires written procedures for equipment acceptance and for cleaning, disinfecting and drying before entry into processing areas, with special attention to used equipment.",
+      "categories": [
+        "equipment",
+        "documentation"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "equipment design",
+        "written procedure",
+        "hollow area control",
+        "design hygiene"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4.4 Facilities",
+      "summary": "Mostly a cross‑reference to the General Principles of Food Hygiene, and additionally requires regular inspection of facility integrity (e.g., bird nests, roof leaks) with prompt correction of detected problems to maintain a sound structure.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "4.4.2 Drainage and waste disposal",
+      "summary": "States that areas requiring stringent hygiene should ideally have no drains; if drains exist they must allow effective drainage and rapid drying, prevent backflow (especially from lower‑hygiene areas), be sealed during dry processing, and ensure rapid drying where water is used.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "drainage waste"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4.4.3 Cleaning",
+      "summary": "Requires low‑moisture food handling and manufacturing areas to be designed for dry cleaning to avoid water use, and specifies that non‑fixed equipment should be cleaned outside the high‑hygiene area.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning heading",
+        "dry cleaning"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "4.4.6 Air quality and ventilation",
+      "summary": "Requires hygienic design and maintenance of exhaust ducts and vents to prevent condensate, dripping and reverse airflow; mandates measures (filters, positive air pressure) to prevent ingress and movement of dust between zones, inspection/maintenance of filters to avoid harbourage, careful siting/filtration of air intakes to avoid contamination sources, and drying/filtration of any air that contacts product.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ventilation heading",
+        "air exhaust design",
+        "air filtration",
+        "air intake control",
+        "air handling"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "SECTION V - CONTROL OF OPERATION",
+      "summary": "Section heading only (SECTION V - CONTROL OF OPERATION) with no substantive requirements in this item.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.1 Control of food hazards",
+      "summary": "Refers to the General Principles of Food Hygiene and requires zone‑based hygiene controls with more stringent measures where products are exposed after pathogen‑reduction; emphasizes maintaining dry conditions in low‑moisture operations, minimizing water use, and specifies incident response for moisture incursions (remove water, assess need for increased sampling/testing, stop production if safety is compromised, repair the source, clean/disinfect/dry the area and dispose or recondition affected product as appropriate, and take environmental samples to verify sanitation).",
+      "categories": [
+        "risk management",
+        "other",
+        "hygiene"
+      ],
+      "subcategories": [
+        "food hazards control",
+        "reference note",
+        "zone hygiene control",
+        "dry process control",
+        "moisture incident response"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.2 Key aspects of hygiene control systems",
+      "summary": "Non‑substantive cross‑reference: directs the reader to the General Principles of Food Hygiene for key aspects of hygiene control systems.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.2.2 Specific process steps",
+      "summary": "Recommends that low‑moisture foods or raw materials be treated with validated pathogen‑reduction steps (thermal or non‑thermal) with targets and critical limits determined for the specific food, selection of appropriate strains or surrogates for validation/challenge studies where needed, and requires ongoing monitoring and verification of validated processes with corrective actions when deviations occur.",
+      "categories": [
+        "processing",
+        "analysis sampling",
+        "risk management",
+        "official control"
+      ],
+      "subcategories": [
+        "process steps heading",
+        "microbial reduction",
+        "thermal nonthermal treatments",
+        "validation studies",
+        "pathogen reduction target",
+        "process validation",
+        "challenge studies",
+        "critical limits",
+        "monitoring verification"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.2.3 Microbiological and other specifications",
+      "summary": "Refers to CXG 21‑1997 and advises that end‑product testing is limited in verifying hygiene controls, recommends implementing an environmental monitoring program to verify sanitation effectiveness, and requires investigation, increased sampling/testing and corrective actions (including validated reprocessing) withhold/release controls before finished product is released if contamination is suspected.",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "microbiological specifications",
+        "reference note",
+        "environmental monitoring",
+        "product testing"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.2.4 Microbiological cross-contamination",
+      "summary": "Requires the highest hygienic controls after a pathogen‑reduction step to prevent recontamination and mandates traffic control between hygiene zones (minimize/strictly control movement), personnel hygiene measures before entry, assignment of dedicated personnel and equipment to high‑hygiene areas, compliance of ingredients added without further pathogen reduction with section 5.3, and appropriate airflow from cleaner to less clean areas where applicable.",
+      "categories": [
+        "hygiene",
+        "composition"
+      ],
+      "subcategories": [
+        "cross contamination",
+        "post reduction hygiene",
+        "traffic control",
+        "personnel hygiene",
+        "dedicated equipment",
+        "incoming ingredients",
+        "airflow control"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "5.3 Incoming material requirements",
+      "summary": "Refers to the General Principles of Food Hygiene and requires a supplier approval and verification program for sensitive ingredients (those previously positive for pathogens or implicated in outbreaks or used for susceptible consumers), evaluation/audit of supplier food‑safety programs, periodic receipt testing, and on‑site segregation and hygiene/temperature/moisture controls and measures to prevent cross‑contamination prior to bringing sensitive ingredients into high‑hygiene areas.",
+      "categories": [
+        "scope",
+        "other",
+        "inspection certification",
+        "storage"
+      ],
+      "subcategories": [
+        "incoming material heading",
+        "reference note",
+        "supplier approval",
+        "ingredient storage"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "5.4 Packaging",
+      "summary": "Non‑substantive cross‑reference: directs the reader to the General Principles of Food Hygiene regarding packaging.",
+      "categories": [
+        "packaging",
+        "hygiene"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "hygiene reference"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "5.5 Water",
+      "summary": "Non‑substantive cross‑reference: directs the reader to the General Principles of Food Hygiene regarding water.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "5.5.4 In temperature-controlled equipment",
+      "summary": "Requires preventive maintenance on jacketed temperature‑controlled equipment to detect microfractures and mandates use of potable water in jackets so that, in the event of a leak, contaminated water cannot enter product.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "temperature controlled equipment",
+        "preventive maintenance"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "5.6 Management and supervision",
+      "summary": "Refers to the General Principles of Food Hygiene and requires managers and supervisors to understand the primary pathogen of concern for their low‑moisture product (e.g., Salmonella), the controls to manage it, and procedures to follow when environmental or product sampling results are non‑compliant.",
+      "categories": [
+        "training",
+        "hygiene"
+      ],
+      "subcategories": [
+        "management supervision",
+        "hygiene reference",
+        "manager competence"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "5.7 Documentation and records",
+      "summary": "Non‑substantive cross‑reference: directs the reader to the General Principles of Food Hygiene regarding documentation and recordkeeping.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "documentation heading",
+        "recordkeeping reference"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "5.8 Recall procedures",
+      "summary": "Reference only: directs reader to the General Principles of Food Hygiene for recall procedures; no substantive recall requirements provided in this section.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "recall heading",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "SECTION VI - ESTABLISHMENT: MAINTENANCE AND SANITATION",
+      "summary": "Section heading only for ‘Establishment: Maintenance and Sanitation’; contains no substantive requirements or guidance in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "6.1 Maintenance and cleaning",
+      "summary": "Reference only: directs reader to the General Principles of Food Hygiene for maintenance and cleaning; no additional substantive content in this section.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "6.1.1 General",
+      "summary": "Addresses maintenance and cleaning in low‑moisture food operations, requiring timely removal of dust and product accumulation (especially for hygroscopic products) and, during construction or maintenance, measures to isolate the area, control or capture dust, control traffic, maintain negative air pressure, intensify cleaning, avoid wet‑cleaning conditions that promote pathogen proliferation, and apply similar controls when dismantling or repositioning equipment.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "general hygiene",
+        "product accumulation",
+        "construction controls",
+        "construction isolation",
+        "dust control",
+        "traffic control",
+        "air pressure control",
+        "cleaning intensification",
+        "wet cleaning control",
+        "maintenance controls"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "6.1.2.2 Controlled wet cleaning",
+      "summary": "Lists controls for ‘controlled wet cleaning’: remove residues by dry cleaning first, use only minimal water, collect/contain water, avoid aerosols and high‑pressure hoses, conduct wet cleaning off‑line or in a dedicated room when possible, disinfect afterwards, fully dry all areas/components, verify drying visually and by environmental monitoring, and stop production if necessary until dry.",
+      "categories": [
+        "hygiene",
+        "analysis sampling",
+        "processing"
+      ],
+      "subcategories": [
+        "controlled wet cleaning",
+        "wet cleaning procedure",
+        "dry cleaning removal",
+        "water minimization",
+        "water containment",
+        "aerosol avoidance",
+        "dedicated cleaning room",
+        "disinfection after cleaning",
+        "drying after cleaning",
+        "cleaning verification",
+        "production stoppage"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "6.1.2.3 Wet cleaning",
+      "summary": "When wet cleaning is used, minimize and limit water to specific areas, avoid excessive water and high‑pressure hoses, and prevent tracking water into areas intended to remain dry.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "wet cleaning heading",
+        "wet cleaning procedure",
+        "water minimization",
+        "pressure hose avoidance",
+        "water tracking prevention"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "6.1.2.2 Controlled wet cleaning",
+      "summary": "Lists controls for ‘controlled wet cleaning’: remove residues by dry cleaning first, use only minimal water, collect/contain water, avoid aerosols and high‑pressure hoses, conduct wet cleaning off‑line or in a dedicated room when possible, disinfect afterwards, fully dry all areas/components, verify drying visually and by environmental monitoring, and stop production if necessary until dry.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "controlled wet cleaning",
+        "wet cleaning procedure",
+        "dry cleaning removal",
+        "wet cleaning",
+        "environmental monitoring"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "6.2 Cleaning programmes",
+      "summary": "Refers to the General Principles and advises using dry‑cleaning methods for persistent cracks or harbourage sites to keep them dry and minimize microbial risks, noting that water entering such sites can enable microbial growth and increase contamination risk.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "cleaning programmes",
+        "reference note",
+        "dry cleaning"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "6.3 Pest control systems",
+      "summary": "Reference only: directs reader to the General Principles of Food Hygiene for pest control systems; no substantive pest control requirements provided here.",
+      "categories": [
+        "pest control",
+        "other"
+      ],
+      "subcategories": [
+        "pest control heading",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "6.4 Waste management",
+      "summary": "Reference only: directs reader to the General Principles of Food Hygiene for waste management; no substantive waste management requirements provided in this section.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "waste heading",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "6.5 Monitoring effectiveness",
+      "summary": "Requires establishments producing products at known risk for pathogens (e.g. nuts, dry protein products) to implement environmental monitoring (swabs, dust, product residue) primarily targeting Salmonella, with Enterobacteriaceae optionally used as a hygiene indicator, and mandates that when detections exceed operator‑established decision criteria the source be investigated and microorganisms eliminated or controlled.",
+      "categories": [
+        "analysis sampling",
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "monitoring effectiveness",
+        "reference note",
+        "environmental monitoring",
+        "contamination response"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "SECTION VII - ESTABLISHMENT: PERSONAL HYGIENE",
+      "summary": "Reference only: heading for personal hygiene directing reader to the General Principles of Food Hygiene; no substantive content in this entry.",
+      "categories": [
+        "hygiene",
+        "other"
+      ],
+      "subcategories": [
+        "personal hygiene section",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "SECTION VIII - TRANSPORTATION",
+      "summary": "Reference only: heading for transportation directing reader to the General Principles of Food Hygiene; no substantive content in this entry.",
+      "categories": [
+        "transport",
+        "other"
+      ],
+      "subcategories": [
+        "transport section",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "SECTION IX - PRODUCT INFORMATION AND CONSUMER AWARENESS",
+      "summary": "Reference only: heading for product information and consumer awareness directing reader to the General Principles of Food Hygiene; no substantive content in this entry.",
+      "categories": [
+        "labelling",
+        "other"
+      ],
+      "subcategories": [
+        "product information",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "10.1 Awareness and responsibilities",
+      "summary": "Reference only: directs reader to the General Principles of Food Hygiene for awareness and responsibilities; no additional substantive requirements in this section.",
+      "categories": [
+        "training",
+        "other"
+      ],
+      "subcategories": [
+        "responsibilities awareness",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "10.2 Training programmes",
+      "summary": "Training program guidance: employees (including temporary staff/contractors) should be trained on hygienic practices to prevent introduction and spread of pathogens such as Salmonella in low‑moisture food establishments, including adherence to traffic‑pattern controls and avoidance of introducing water.",
+      "categories": [
+        "training",
+        "other"
+      ],
+      "subcategories": [
+        "training programmes",
+        "reference note",
+        "hygiene training"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "10.3 Instruction and supervision",
+      "summary": "Reference only: directs reader to the General Principles of Food Hygiene for instruction and supervision; no substantive instructions provided here.",
+      "categories": [
+        "training",
+        "other"
+      ],
+      "subcategories": [
+        "instruction supervision",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "10.4 Refresher training",
+      "summary": "Reference only: directs reader to the General Principles of Food Hygiene for refresher training; no substantive content in this section.",
+      "categories": [
+        "training",
+        "other"
+      ],
+      "subcategories": [
+        "refresher training",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "ANNEX I",
+      "summary": "Annex heading only: ‘ANNEX I’ with no substantive content provided in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "EXAMPLES OF MICROBIOLOGICAL CRITERIA FOR LOW-MOISTURE FOODS WHEN DEEMED APPROPRIATE IN ACCORDANCE WITH THE PRINCIPLES AND GUIDELINES FOR THE ESTABLISHMENT AND APPLICATION OF MICROBIOLOGICAL CRITERIA RELATED TO FOODS (CXG 21-1997)",
+      "summary": "Guidance on microbiological testing for low‑moisture foods: testing, when properly designed and using validated methods, can verify food safety controls and inform specifications (e.g. for Salmonella) taking into account processing, end use and susceptible populations, but testing cannot guarantee safety due to sampling and statistical limitations and organisms’ heterogeneous distribution, so testing should be combined with validated process controls and trend analysis.",
+      "categories": [
+        "analysis sampling",
+        "other"
+      ],
+      "subcategories": [
+        "microbiological criteria",
+        "testing guidance",
+        "reference note",
+        "pathogen specifications",
+        "testing limitations"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "Example Microbiological Criteria that May be Appropriate for Low-Moisture Foods If Such Criteria are Deemed Necessary g,h",
+      "summary": "Guidance on when microbiological testing for Salmonella is appropriate for low‑moisture foods, advising consideration of post‑sampling handling/treatment/consumption, use of CXG 21‑1997 to decide necessity, and that sampling plans may be adjusted based on product‑specific data, moving‑window verification, and documented raw material and process controls to minimize testing.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "microbiological criteria",
+        "sampling plan guidance"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "Microorganism/Target population",
+      "summary": "Table of proposed Salmonella sampling plans for low‑moisture foods: for general and highly susceptible populations it specifies n values (5–60) according to expected change in risk, with all rows using c=0, m=0/25 g and a Class Plan of 2.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "criteria table heading",
+        "salmonella criteria"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

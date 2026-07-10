@@ -1,0 +1,698 @@
+{
+  "doc_id": "015c7767-be2c-4bdb-a352-3a8b968aae85",
+  "title": "STANDARD FOR INFANT FORMULA AND FORMULAS",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR INFANT FORMULA AND FORMULAS",
+      "summary": "Title heading only: names the document as the Standard for Infant Formula and Formulas and contains no substantive provisions.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "title heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "FOR SPECIAL MEDICAL PURPOSES INTENDED FOR INFANTS CXS 72-1981",
+      "summary": "Title heading with document history: indicates the standard for special medical purposes intended for infants (CXS 72-1981), adopted 1981, amended in 1983, 1985, 1987, 2011, 2015, 2016, 2020, 2023, and revised in 2007.",
+      "categories": [
+        "scope",
+        "other"
+      ],
+      "subcategories": [
+        "title heading",
+        "document history",
+        "punctuation artifact"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2023 Amendments",
+      "summary": "Amendment notice: following the 2023 Codex session, food additive provisions were amended and incorporated into the General Standard for Food Additives (GSFA, CXS 192-1995) and amendments were made to Section 7 on packaging.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "PREAMBLE",
+      "summary": "Preamble: states the standard is divided into Section A for infant formula and Section B for formulas for special medical purposes intended for infants.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "preamble heading",
+        "preamble statement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to infant formula in liquid or powdered form used, when necessary, as a substitute for human milk and sets compositional, quality and safety requirements; only products meeting these criteria may be marketed as infant formula, and application of the section should take into account the International Code of Marketing of Breast-milk Substitutes and related WHO/WH A recommendations.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope description",
+        "marketing restriction",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. DESCRIPTION",
+      "summary": "Section heading only; no substantive provisions provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1 Product definition",
+      "summary": "Defines 'infant formula' as a breastmilk substitute specially manufactured to satisfy an infant's nutritional requirements by itself during the first months until complementary feeding is introduced; requires the product to be processed by physical means only and packaged to prevent spoilage and contamination under normal handling, storage and distribution in the country where sold.",
+      "categories": [
+        "definition",
+        "processing"
+      ],
+      "subcategories": [
+        "product definition heading",
+        "infant formula definition",
+        "processing and packaging"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.2 Other definitions",
+      "summary": "Defines 'infant' as a person not more than 12 months of age.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definition heading",
+        "infant definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Section heading only; no substantive provisions provided.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.1 Essential composition",
+      "summary": "Specifies overall composition and quality requirements: infant formula is based on cow or other animal milk and/or other proven suitable ingredients whose nutritional safety and adequacy must be scientifically demonstrated and all ingredients/additives must be gluten free; sets energy and nutrient framing including energy per 100 ml and nutrient minima and maxima or guidance upper levels (GULs) established per Annex II.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1.1 Infant formula is a product based on milk of cows or other animals or a mixture thereof and/or other ingredients which have been proven to be suitable for infant feeding. The nutritional safety and adequacy of infant formula shall  be  scientifically  demonstrated  to  support  growth  and  development  of  infants.  All  ingredients  and  food additives shall be gluten free.",
+      "summary": "States infant formula may be based on cow or other animal milk and/or other ingredients suitable for infant feeding, requires scientific demonstration of nutritional safety and adequacy to support infant growth and development, and mandates that all ingredients and food additives be gluten free.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "product composition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.2 Infant formula prepared ready for consumption in accordance with instructions of the manufacturer shall contain per 100 ml not less than 60 kcal (250 kJ) and not more than 70 kcal (295 kJ) of energy.",
+      "summary": "Requires ready-to-consume infant formula, prepared according to manufacturer instructions, to provide between 60 kcal (250 kJ) and 70 kcal (295 kJ) per 100 ml.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "energy requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1.3 Infant formula prepared ready for consumption shall contain per 100 kcal (100 kJ) the following nutrients with the following minimum and maximum or guidance upper levels   (GULs), ii  as appropriate. The general principles for establishing these levels are identified in Annex II of this standard.",
+      "summary": "Requires nutrient contents per 100 kcal (100 kJ) to meet specified minimums and either maximums or guidance upper levels (GULs) as appropriate with principles in Annex II; explains GULs are guidance for nutrients lacking a full risk assessment, are based on nutritional needs and history of safe use, may be adjusted with new evidence, should not be treated as goal values and generally should not be exceeded except when unavoidable, and manufacturers should not raise nutrients to approach GULs when product types have historically contained lower levels.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "nutrient requirements",
+        "footnote",
+        "gul guidance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "SECTION A: STANDARD FOR INFANT FORMULA",
+      "summary": "Sets a comprehensive compositional standard for infant formula covering protein (numeric min/max per energy with N×6.25 conversion, amino‑acid quality rules, allowed isolated L‑amino acids and clinical-evaluation conditions for low‑protein/hydrolysed formulas), lipids (total fat and essential fatty acids with linoleic and α‑linolenic minima and ratio limits), carbohydrates (total carbohydrate range and warning to avoid sucrose/fructose because of hereditary fructose intolerance), vitamins (numeric minima/maxima and calculation rules for vitamins A, D, E, K, B‑group, C, biotin), and minerals/trace elements (numeric minima/maxima or guidance for iron, calcium, phosphorus, magnesium, electrolytes and trace elements), with footnotes and exceptions for specific protein sources and national authority determinations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "Total fat 6), 7)",
+      "summary": "Specifies total fat content for infant formula as 4.4–6.0 g/100 kcal (1.05–1.4 g/100 kJ).",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "fat requirement",
+        "table header",
+        "table separator",
+        "fat minimum maximum",
+        "unit line"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "Linoleic acid",
+      "summary": "Specifies linoleic acid for infant formula with a minimum of 300 mg/100 kcal (70 mg/100 kJ) and a guideline upper limit of 1,400 mg/100 kcal (330 mg/100 kJ).",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "fatty acid requirement",
+        "table header",
+        "table separator",
+        "linoleic acid levels",
+        "unit line"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "α-Linolenic acid",
+      "summary": "Specifies α‑linolenic acid minimum 50 mg/100 kcal (12 mg/100 kJ) for infant formula and indicates the maximum is not specified (N.S.).",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "alpha linolenic acid",
+        "table header",
+        "alpha linolenic levels",
+        "unit line",
+        "footnote"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "Ratio linoleic/α-linolenic acid",
+      "summary": "Specifies the required linoleic to α‑linolenic acid ratio for infant formula with a minimum of 5:1 and a maximum of 15:1.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "ratio requirement",
+        "table entry",
+        "nutrient ratio",
+        "table artifact"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "Vitamin A",
+      "summary": "Specifies vitamin A (retinol equivalents) content for infant formula as 60–180 µg RE/100 kcal (14–43 µg RE/100 kJ) and requires that vitamin A be provided as preformed retinol (carotenoids excluded from the declared activity).",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "vitamin section",
+        "nutrient limits",
+        "table artifact",
+        "vitamin calculation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "Vitamin D 3",
+      "summary": "Specifies vitamin D (calciferol) content for infant formula as 1–2.5 µg/100 kcal (0.25–0.6 µg/100 kJ) and defines 1 µg calciferol = 40 IU vitamin D.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "vitamin section",
+        "table artifact",
+        "nutrient limits",
+        "vitamin calculation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "Vitamin E",
+      "summary": "Specifies vitamin E for infant formula with a minimum of 0.5 mg α‑TE/100 kcal (0.12 mg α‑TE/100 kJ) and a guideline upper limit of 5 mg α‑TE/100 kcal (1.2 mg α‑TE/100 kJ).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "vitamin section",
+        "nutrient limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "Vitamin K Unit",
+      "summary": "Specifies vitamin K content for infant formula: minimum 4 µg/100 kcal (1 µg/100 kJ) and a guidance upper level (GUL) of 27 µg/100 kcal (6.5 µg/100 kJ); no maximum value is listed.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "vitamin section",
+        "table artifact",
+        "nutrient limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "Thiamine",
+      "summary": "Specifies thiamine (vitamin B1) content for infant formula: minimum 60 µg/100 kcal (14 µg/100 kJ) and a GUL of 300 µg/100 kcal (72 µg/100 kJ); no maximum value is listed.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "vitamin section",
+        "table artifact",
+        "nutrient limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "Riboflavin",
+      "summary": "Specifies riboflavin (vitamin B2) content for infant formula: minimum 80 µg/100 kcal (19 µg/100 kJ) and a GUL of 500 µg/100 kcal (119 µg/100 kJ); no maximum value is listed.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "vitamin section",
+        "table artifact",
+        "nutrient limits"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "3.2 Optional ingredients",
+      "summary": "Allows optional ingredients beyond the base compositional requirements to provide substances ordinarily found in human milk or to make formula suitable as the sole source of infant nutrition, provided their safety and suitability are scientifically demonstrated and amounts are sufficient; examples of permitted additions include taurine (max 12 mg/100 kcal or 3 mg/100 kJ), docosahexaenoic acid (DHA) with a GUL of 0.5% of fatty acids (with accompanying conditions that arachidonic acid be at least equal to DHA and eicosapentaenoic acid not exceed DHA), and only L(+) lactic acid–producing cultures may be used, while national authorities may set or deviate levels as appropriate.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "3.2.1 In addition to the compositional requirements listed under Section A 3.1.3, other ingredients may be added in order to provide substances ordinarily found in human milk and to ensure that the formulation is suitable as the sole source of nutrition for the infant or to provide other benefits that are similar to outcomes of populations of breastfed babies.",
+      "summary": "Permits adding ingredients beyond Section A 3.1.3 to supply substances ordinarily found in human milk or to ensure the formula is suitable as the sole source of infant nutrition or provides similar benefits to breastfed infants.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "optional ingredients"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "3.2.2 The suitability for the particular nutritional uses for infants and the safety of these substances shall be scientifically demonstrated. The formula shall contain sufficient amounts of these substances to achieve the intended effect, taking into account levels in human milk.",
+      "summary": "Requires that the suitability and safety of optional substances for infant nutritional uses be scientifically demonstrated and that the formula contain sufficient amounts to achieve the intended effect, taking into account levels in human milk.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "ingredient safety"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "3.2.3 The following substances may be added in conformity with national legislation, in which case their content per 100 kcal (100 kJ) in the infant formula ready for consumption shall not exceed:",
+      "summary": "States that certain substances may be added in conformity with national legislation and sets per-100 kcal (100 kJ) upper limits where specified (e.g., taurine max 12 mg/100 kcal / 3 mg/100 kJ), noting that national authorities may determine or adjust levels.",
+      "categories": [
+        "composition",
+        "other"
+      ],
+      "subcategories": [
+        "permitted substances",
+        "nutrient limits",
+        "table artifact"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "6. HYGIENE",
+      "summary": "Recommends that products be prepared and handled in accordance with Codex General Principles of Food Hygiene and relevant codes (e.g., Code of Hygienic Practice for Powdered Formulae, CXC 66-2008) and that they comply with microbiological criteria established under CXG 21-1997.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic preparation",
+        "microbiological criteria"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "7. PACKAGING",
+      "summary": "Requires product to be packed in containers that safeguard hygienic and other qualities (liquids in hermetically sealed containers) and mandates that containers and packaging materials be made only of substances safe and suitable for their intended use, applying any relevant Codex standards for packaging materials.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "container requirements",
+        "packaging materials"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8. FILL OF CONTAINER",
+      "summary": "Specifies minimum fill-of-container volumes for ready-to-eat products by weight: <150 g at least 80% v/v, 150–250 g at least 85% v/v, and >250 g at least 90% v/v of the container's water capacity, where water capacity is the volume of distilled water at 20 °C the sealed container will hold when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "fill of container heading",
+        "fill of container",
+        "fill percentage",
+        "fill capacity"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "9. LABELLING",
+      "summary": "States that the General Standard for the Labelling of Pre-packaged Foods and related Codex guidance apply to infant formula and formulas for special medical purposes, prohibits nutrition and health claims for foods for infants and young children except where specifically provided by Codex or national legislation, and notes additional specific labelling provisions follow.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "9.1 The name of the food",
+      "summary": "Requires label text and accompanying information in appropriate language(s), mandates the product name be 'Infant formula' or an appropriate national designation, requires declaration of protein sources and permits the specific statements 'Infant formula based on cows' milk' if cow's milk is the sole protein source and 'contains no milk or milk products' (or equivalent) if no milk/derivatives are present.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "product name heading",
+        "language of label",
+        "product name declaration",
+        "protein source declaration",
+        "milk source claim",
+        "milk absence claim"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "9.2 List of ingredients",
+      "summary": "Mandates a complete ingredients list in descending order of proportion, except added vitamins and minerals may be grouped separately (not required to be in descending order within those groups), and requires the specific name for ingredients of animal or plant origin and for food additives while allowing class names to be included.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "ingredient list",
+        "ingredient naming"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "9.3 Declaration of nutritive value",
+      "summary": "Requires declaration of energy (kcal and/or kJ) and grams of protein, carbohydrate and fat per 100 g or per 100 ml of the food as sold and per 100 ml ready for use, plus the total quantity of each listed vitamin, mineral and specified ingredients per 100 g or per 100 ml as sold and per 100 ml ready for use, with an optional declaration per 100 kcal (or per 100 kJ).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "nutrition declaration heading",
+        "nutrition information",
+        "energy and macronutrients",
+        "vitamin and mineral declaration",
+        "nutrition per 100"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "9.4 Date marking and storage instructions",
+      "summary": "Requires the date of minimum durability ('best before') to be declared as day/month/year (or month/year if shelf life exceeds three months, with an 'end (year)' alternative) and mandates that any special storage conditions affecting the date be indicated—storage instructions should be near the date marking where practicable.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "date marking heading",
+        "date marking",
+        "storage instructions"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "9.5 Information for use",
+      "summary": "Requires clear label (and leaflet) instructions and graphic illustrations for preparation, handling, storage and disposal of the product, specifying use of safe or previously boiled water for concentrated liquids and powders, advising that leftover formula be discarded, warning of health hazards from improper preparation/storage/use, and giving storage guidance after opening.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "use instructions heading",
+        "preparation instructions",
+        "use instructions",
+        "graphic instructions",
+        "warning statement",
+        "storage instructions"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "9.6 Additional labelling requirements",
+      "summary": "Sets mandatory additional labelling requirements for infant formula: labels must not discourage breastfeeding and must include a conspicuous \"important notice\" and a statement that breastmilk is best, state that the product should be used only on advice of an independent health worker, prohibit pictures of infants/women or other idealizing images and terms like \"humanized\"/\"maternalized\", require a statement that complementary foods are needed (in any case from over 6 months) and require labelling to avoid confusion between infant formula, follow-up formula and formula for special medical purposes.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "additional requirements heading",
+        "breastfeeding warning",
+        "important notice",
+        "breastfeeding superiority",
+        "health worker advice",
+        "no idealizing images",
+        "prohibited claims",
+        "feeding advice",
+        "misleading labelling"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "10. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Requires that compliance testing for this standard be performed using the methods in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "doc_id": "9c1fded1-59d9-414b-80a8-7055f010d727",
+  "title": "GUIDELINES FOR READY-TO-USE THERAPEUTIC FOODS CXG 95-2022",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR READY-TO-USE THERAPEUTIC FOODS CXG 95-2022",
+      "summary": "Document title and adoption/amendment note: Guidelines for Ready-to-Use Therapeutic Foods (CXG 95-2022), adopted 2022 and amended 2023, with food additive provisions aligned into the General Standard for Food Additives (GSFA, CXS 192-1995) per the 2023 Codex decisions.",
+      "categories": [
+        "other",
+        "additives"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption note",
+        "amendments heading",
+        "additives amendment"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. PREAMBLE",
+      "summary": "Preamble: RUTF are intended as a WHO-recommended dietary management option for children 6–59 months with severe acute malnutrition without medical complications within appropriately designed programmes that support breastfeeding and transition to family foods, and RUTF are not for general retail sale (other dietary options are not precluded).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "preamble heading",
+        "preamble"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2. PURPOSE OF THE GUIDELINES",
+      "summary": "Purpose: to provide technical and nutritional guidance for production of RUTF for children 6–59 months with SAM, including nutritional composition, raw materials/ingredients, good manufacturing practices, microbiological and chemical contaminant criteria, methods of analysis and sampling, and packaging and labelling.",
+      "categories": [
+        "scope",
+        "composition",
+        "hygiene",
+        "contaminants",
+        "analysis sampling",
+        "packaging"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "purpose statement",
+        "nutritional composition",
+        "raw materials",
+        "good manufacturing",
+        "contaminant criteria",
+        "analysis sampling",
+        "packaging labelling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. SCOPE",
+      "summary": "Scope: these guidelines apply to RUTF for children aged 6–59 months with SAM and do not cover ready-to-use supplementary foods (RUSF), micronutrient supplements, processed cereal-based foods, formulated complementary foods for older infants and young children, or canned baby foods.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4. DESCRIPTION",
+      "summary": "Description: RUTF are high-energy foods for special medical purposes providing adequate protein and essential nutrients for dietary management of children 6–59 months with SAM without medical complications and should be soft/crushable and ready-to-eat; SAM is defined as weight-for-height/length < −3 Z-score, MUAC < 11.5 cm, or bilateral oedema.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "description heading",
+        "product definition",
+        "disease definition"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "5. SUITABLE RAW MATERIALS AND INGREDIENTS",
+      "summary": "Overview: RUTF are produced as energy- and nutrient-dense foods in a lipid-rich matrix using suitable (including locally sourced) raw materials listed below, and any RUTF formulation must comply with Section 3 of the Standard for the Labelling of and Claims for Foods for Special Medical Purposes (CXS 180-1991) and be demonstrated by scientific evidence to be safe and beneficial for the intended population.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5.1 Basic raw materials and ingredients",
+      "summary": "Section heading and summary of requirements for basic raw materials (5.1.1–5.1.5): specifies that dairy, legumes, fats/oils, cereals/roots/tubers and vitamins/minerals used in RUTF must meet relevant Codex standards and codes of practice, be processed to reduce antinutritional factors, avoid certain ingredients (e.g., fava beans, partially hydrogenated fats), and use appropriate vitamin/mineral forms for bioavailability.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5.1.1 Milk and other dairy products",
+      "summary": "Milk and other dairy products used in RUTF manufacturing must comply with the Codex Standards for Milk Powders and Cream Powder (CXS 207-1999), Whey Powders (CXS 289-1995) and relevant Codex guidelines/codes of practice such as CXC 57-2004 and CXC 75-2015.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "dairy ingredients",
+        "dairy ingredient standards"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5.1.2 Legumes and seeds",
+      "summary": "Legumes and seeds for RUTF (e.g., soybeans, lentils, peanuts) must comply with relevant Codex texts, be processed to reduce antinutritional factors (phytate, lectins, protease inhibitors, phytoestrogens), and field/fava beans (Vicia faba L.) must not be used due to risk of favism.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "legumes heading",
+        "legume requirements",
+        "antinutritional reduction",
+        "ingredient restriction"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5.1.3 Fats and oils",
+      "summary": "Fats and oils used in RUTF must comply with relevant Codex texts, be selected to achieve energy density and provide essential fatty acids while avoiding oxidized fats, and partially hydrogenated fats and oils should not be used.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "fats and oils heading",
+        "fat and oil requirements",
+        "fat restriction"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "5.1.4 Cereals, roots and tubers and their derived products",
+      "summary": "Cereals, roots, tubers and derived products may be used if processed to reduce fibre when necessary and to remove or reduce antinutritional factors (phytates, tannins, lectins, protease inhibitors) that impair protein quality, digestibility and mineral absorption while retaining nutrient value.",
+      "categories": [
+        "composition",
+        "processing"
+      ],
+      "subcategories": [
+        "cereals heading",
+        "cereal processing"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5.1.5 Vitamins and minerals",
+      "summary": "Vitamins and minerals added to RUTF must be in soluble, readily absorbed forms suitable for children with SAM (avoiding insoluble/in acid-dependent mineral salts to prevent metabolic acidosis), aim for a moderate excess of non-metabolizable buffer base, comply with CXG 10-1979 Advisory Lists, and be adjusted in amount and form based on interactions, stability and bioavailability evidence.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "vitamins and minerals heading",
+        "mineral form requirements",
+        "nutrient addition requirements"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.2 Other ingredients",
+      "summary": "Section heading only: '5.2 Other ingredients' (no substantive provisions in this entry).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.2.1 Carbohydrates",
+      "summary": "Specifies permitted and prohibited carbohydrates in RUTF: preferred sources are plant starch, lactose, maltodextrin and sucrose; free sugars must be ≤20% of total energy; only precooked/gelatinized starches may be used; glucose and fructose are prohibited; carbohydrates must comply with relevant Codex texts, and honey is prohibited due to the risk of infant botulism from Clostridium botulinum.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "carbohydrates heading",
+        "carbohydrate requirements",
+        "ingredient prohibition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "5.2.2 Food additives",
+      "summary": "Permits only antioxidants listed in Tables 1–2 of the General Standard for Food Additives (GSFA) for food category 13.3 and only certain acidity regulators, antioxidants, carriers, emulsifiers and packaging gases in Table 3 for RUTF, and requires application of GSFA Section 4.1 carry‑over provisions for additives from ingredients and raw materials.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "additives heading",
+        "permitted additives",
+        "carry-over rule"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "6. NUTRITIONAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Requires RUTF to meet the nutrient table in the annex and sets further composition/quality requirements: energy density 5.2–5.5 kcal/g; proteins 10–12% of energy with PDCAAS ≥0.9 and at least 50% of protein from milk; lipids 45–60% of energy; specified vitamins and minerals per annex with min/max or guidance upper levels; and water activity ≤0.6.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "6.1 Energy",
+      "summary": "Requires formulated RUTF energy density of 5.2–5.5 kcal per gram, achievable by adding energy‑containing ingredients (fats/oils or digestible carbohydrates) or by processing raw materials as indicated in Section 8.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "energy heading",
+        "energy density"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "6.2 Proteins",
+      "summary": "Requires proteins to provide 10–12% of total energy with protein quality assessed by PDCAAS (calculated per the FAO 2018 guidance for catch‑up growth) with a minimum PDCAAS of 0.9; formulations should contain at least 50% of protein from milk, and limiting amino acids (L‑form only) may be added only as necessary to improve protein quality.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "protein heading",
+        "protein content",
+        "protein quality",
+        "pdcaas minimum",
+        "milk protein share",
+        "protein adjustment"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "6.3 Lipids",
+      "summary": "Requires lipids to provide 45–60% of the total energy in RUTF.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "lipid heading",
+        "lipid content"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "6.4 Vitamins and minerals",
+      "summary": "Mandates that RUTF contain the vitamins and minerals listed in the annex and comply with the annex’s minimum and maximum or guidance upper levels.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "vitamin mineral heading",
+        "micronutrient levels"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "6.5 Water activity",
+      "summary": "Specifies RUTF is a low‑moisture food with a water activity of 0.6 or below.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "water activity heading",
+        "water activity limit"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "7. CONTAMINANTS",
+      "summary": "Recommends compliance with Codex standards for contaminants and toxins, MRLs and RMRs for veterinary drug residues, and Codex pesticide MRLs and codes of practice, and prohibits contaminants or other undesirable substances in amounts that may pose health risks to children.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "residue compliance",
+        "code guidance",
+        "undesirable substances"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "8. PROCESSING TECHNOLOGIES",
+      "summary": "Requires validation of processing technologies to preserve RUTF nutritional value and reduce antinutritional factors (e.g., milling, roasting, toasting) and mandates good hygiene practices per relevant Codex texts; RUTF and/or raw materials must undergo validated microbial reduction treatments (thermal or non‑thermal) to inactivate pathogens such as Salmonella, with attention to increased heat resistance at reduced water activities.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "processing heading",
+        "processing validation",
+        "hygiene practices",
+        "microbial reduction"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "9. GOOD MANUFACTURING PRACTICES AND GOOD HYGIENE PRACTICES",
+      "summary": "Recommends RUTF be prepared, handled, packed and held under sanitary conditions in accordance with the General Principles of Food Hygiene and the Code of Hygienic Practice for Low‑Moisture Foods, and to comply with any microbiological criteria established under CXG 21‑1997 and other relevant Codex texts.",
+      "categories": [
+        "hygiene",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "gmp ghp heading",
+        "food hygiene compliance",
+        "microbiological criteria",
+        "sanitary conditions"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "10. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "Recommends that methods of analysis and sampling for RUTF follow the Recommended Methods of Analysis and Sampling (CXS 234‑1999).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis sampling heading",
+        "analysis methods"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "11. PACKAGING",
+      "summary": "Requires RUTF packaging to protect hygienic and nutritional qualities for the duration of its defined shelf life and mandates packaging materials be safe, suitable and compliant with any applicable Codex standards.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "shelf life protection",
+        "packaging materials"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "12. LABELLING",
+      "summary": "Requires labelling of RUTF for children 6–59 months with SAM to comply with Codex standards for foods for special medical purposes, labelling for pre‑packaged foods for special dietary uses, and the Guidelines on Nutrition Labelling, and prohibits nutrition and health claims.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "12.1 The name of the food",
+      "summary": "Mandates the food name on the label indicate the product is RUTF for children 6–59 months with SAM, use an appropriate designation consistent with national legislation, and display the recommended age in close proximity to the name.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "food name heading",
+        "product name"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "12.2 List of ingredients",
+      "summary": "Requires the list of ingredients to be declared in accordance with Section 4.2 of the General Standard for the Labelling of Pre‑packaged Foods (CXS 1‑1985).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "ingredients heading",
+        "ingredient list"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "12.3 Additional mandatory labelling requirements",
+      "summary": "Requires application of Sections 4.4 and 4.5 of the Standard for the Labelling of and Claims for Foods for Special Medical Purposes (CXS 180‑1991) as additional mandatory labelling requirements for RUTF.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "mandatory labelling",
+        "special medical provisions"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "12.4 The following additional statements shall appear on the label of RUTF",
+      "summary": "Mandates additional label statements for RUTF: not for nasogastric tube administration; to be used in conjunction with breastfeeding; and recommends exclusive breastfeeding for the first 6 months and continued breastfeeding up to 2 years or beyond.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "additional statements heading",
+        "ng tube warning",
+        "breastfeeding advisory",
+        "breastfeeding recommendation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "12.5 Instructions for use",
+      "summary": "Requires labels to state the minimum recommended age (not less than 6 months), provide feeding instructions (preferably with graphical presentation), and indicate the time within which the product should be consumed after opening.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "instructions for use",
+        "age indication",
+        "feeding instructions",
+        "after opening"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "Energy",
+      "summary": "Provides energy density limits for RUTF: minimum 520 kcal/100 g and maximum 550 kcal/100 g (equivalent to 5.2–5.5 kcal/g).",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "energy heading",
+        "energy table",
+        "energy limits"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

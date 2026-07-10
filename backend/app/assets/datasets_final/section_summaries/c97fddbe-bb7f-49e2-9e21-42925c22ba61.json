@@ -1,0 +1,264 @@
+{
+  "doc_id": "c97fddbe-bb7f-49e2-9e21-42925c22ba61",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "Applies to foods processed by ionizing radiation when used with relevant hygienic codes, food and transport standards, and explicitly excludes doses imparted by measuring instruments used for inspection.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. GENERAL REQUIREMENTS FOR THE PROCESS",
+      "summary": "General requirements specify acceptable ionizing radiation types and dose limits (see subsection 2.1 and 2.2) and mandate that radiation treatment occur in facilities licensed/registered by the competent authority that meet safety, efficacy and GHP standards, are staffed by trained personnel, keep quantitative dosimetry records open to inspection, and operate in accordance with the CAC recommended code of practice.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 Radiation Sources",
+      "summary": "Permits ionizing radiation from: gamma rays (60Co or 137Cs), X‑rays from machines operated at or below 5 MeV, and electrons from machines operated at or below 10 MeV.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "radiation sources",
+        "radiation types",
+        "gamma source",
+        "x-ray source",
+        "electron source"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2.2 Absorbed Dose",
+      "summary": "Requires that absorbed dose be sufficient to achieve the technological purpose without compromising safety, wholesomeness or product integrity, and caps the maximum absorbed dose at 10 kGy except when higher doses are necessary to achieve a legitimate technological purpose.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "absorbed dose",
+        "dose limit"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.3 Facilities and Control of the Process",
+      "summary": "Radiation treatment of foods must be carried out in facilities licensed and registered by the competent authority, designed for safety, efficacy and good hygienic practice, staffed with adequate trained personnel, maintaining adequate records including quantitative dosimetry, open to inspection by appropriate authorities, and controlled in accordance with the Recommended International Code of Practice for Radiation Processing of Foods (CAC/RCP 19-1979, Rev.1-2003).",
+      "categories": [
+        "processing",
+        "inspection certification",
+        "training",
+        "documentation",
+        "official control"
+      ],
+      "subcategories": [
+        "process control",
+        "facility licensing",
+        "facility design",
+        "staff competence",
+        "recordkeeping",
+        "inspection access",
+        "process code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3. HYGIENE OF IRRADIATED FOODS",
+      "summary": "Irradiated foods must be prepared, processed and transported hygienically in line with the Codex General Principles of Food Hygiene (including application of HACCP where applicable) and must comply with any relevant national public health requirements affecting microbiological safety and nutritional adequacy in the country of sale.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "hygienic handling",
+        "national requirements"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "4. TECHNOLOGICAL REQUIREMENTS",
+      "summary": "Irradiation of food is justified only to meet a technological requirement or protect consumer health and must not replace good hygienic, manufacturing or agricultural practices; doses and processes must be commensurate with the technological and public‑health purposes and implemented with suitable food and packaging quality under good radiation processing and manufacturing practices.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "4.1 General Requirement",
+      "summary": "Irradiation of food is permitted only when it meets a technological requirement and/or protects consumer health and must not substitute for good hygienic, manufacturing, or agricultural practices.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "general requirement heading",
+        "irradiation justification"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "4.2 Food Quality and Packaging Requirements",
+      "summary": "Applied radiation doses must be commensurate with the technological and public‑health objectives and follow good radiation processing practice, and foods and their packaging must be of suitable quality and handled before and after irradiation according to good manufacturing practices tailored to the process technology.",
+      "categories": [
+        "packaging",
+        "other"
+      ],
+      "subcategories": [
+        "packaging requirements heading",
+        "food packaging suitability",
+        "reference note"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5. RE-IRRADIATION",
+      "summary": "Except for low‑moisture foods irradiated to control insect reinfestation, foods irradiated per Sections 2 and 4 should not be re‑irradiated, although certain situations (previous low‑dose irradiation for non‑safety purposes, ingredients <5% irradiated, or incremental dosing for a specific technological purpose) are not considered re‑irradiation; the cumulative absorbed dose from re‑irradiation should not exceed 10 kGy except when necessary for a legitimate technological purpose and provided consumer safety and wholesomeness are not compromised.",
+      "categories": [
+        "processing",
+        "contaminants"
+      ],
+      "subcategories": [
+        "re-irradiation heading",
+        "re-irradiation restriction",
+        "re-irradiation exceptions",
+        "cumulative dose"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "## 6. POST IRRADIATION VERIFICATION",
+      "summary": "Where required and applicable, analytical methods adopted by the Codex Commission may be used to detect irradiated foods for enforcement of authorization and labelling requirements.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "verification heading",
+        "detection methods"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "## 7. LABELLING",
+      "summary": "Shipping documents for irradiated foods must identify the registered facility, date(s) of treatment, dose and lot; prepackaged irradiated foods must be labelled to indicate the treatment in accordance with the Codex General Standard for the Labelling of Prepackaged Foods; and for bulk products the fact of irradiation must be declared on shipping documents, with products sold in bulk to the ultimate consumer bearing the international logo and the words 'irradiated' or 'treated with ionizing radiation' together with the product name on the container.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "7.1 Inventory Control",
+      "summary": "Shipping documents for irradiated foods, whether prepackaged or not, must state the registered facility that irradiated the food, the date(s) of treatment, the irradiation dose and lot identification.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "inventory control heading",
+        "shipping documents"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "7.2 Prepackaged Foods Intended for Direct Consumption",
+      "summary": "Labels of prepackaged irradiated foods should indicate the irradiation treatment and comply with the Codex General Standard for the Labelling of Prepackaged Foods (CODEX STAN 1-1985, Rev.2-1999).",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "bulk foods heading",
+        "irradiation declaration"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "7.3 Foods in Bulk Containers",
+      "summary": "The fact of irradiation must be declared on shipping documents and, where products are sold in bulk to the ultimate consumer, the international logo and the words 'irradiated' or 'treated with ionizing radiation' plus the product name should appear on the container.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "bulk container heading",
+        "irradiation logo"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "doc_id": "c734f19b-396c-420b-8d54-a727e04e4157",
+  "title": "GUIDELINES FOR THE CONTROL OF CAMPYLOBACTER AND SALMONELLA IN CHICKEN MEAT",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR THE CONTROL OF CAMPYLOBACTER AND SALMONELLA IN CHICKEN MEAT",
+      "summary": "Document title only: Guidelines for the control of Campylobacter and Salmonella in chicken meat (no substantive provisions in this section).",
+      "categories": [
+        "food category system"
+      ],
+      "subcategories": [
+        "document title"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "1. INTRODUCTION",
+      "summary": "Introduction: Campylobacteriosis and salmonellosis are major foodborne diseases with chicken meat an important vehicle; the Guidelines apply a risk management framework, build on Codex hygiene provisions and present GHP-based (qualitative) and hazard-based (quantitative) control measures, provide illustrative quantitative examples and a web-based decision tool, and are presented in a flow-diagram format to aid HACCP development, equivalence assessment and national flexibility.",
+      "categories": [
+        "scope",
+        "risk management",
+        "presentation",
+        "other",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "background context",
+        "rmf framework",
+        "guideline approach",
+        "ghp based",
+        "hazard based",
+        "quantitative examples",
+        "flow diagram format",
+        "control differences",
+        "food chain steps",
+        "data gaps",
+        "haccp planning",
+        "footnote note",
+        "footnote citation",
+        "equivalence assessment",
+        "national flexibility"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "5. PRINCIPLES APPLYING TO CONTROL OF CAMPYLOBACTER AND SALMONELLA IN CHICKEN MEAT",
+      "summary": "Principles: control of Campylobacter and Salmonella in chicken meat should incorporate food safety risk-analysis principles across the chain, and Competent Authorities should, where possible, set objective risk-management metrics to express required levels of pathogen control.",
+      "categories": [
+        "risk management",
+        "hygiene"
+      ],
+      "subcategories": [
+        "principles heading",
+        "meat hygiene",
+        "risk analysis principle",
+        "risk metrics"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "6. RISK PROFILES",
+      "summary": "Risk profiles are an essential part of preliminary risk-management activities providing scientific information for designing tailored control systems, and these Guidelines are based on two 2007 broiler chicken risk profiles for Salmonella and Campylobacter.",
+      "categories": [
+        "risk assessment",
+        "other"
+      ],
+      "subcategories": [
+        "risk profiles heading",
+        "preliminary activities",
+        "risk profile basis",
+        "reference citation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "7. PRIMARY PRODUCTION-TO-CONSUMPTION APPROACH TO CONTROL MEASURES",
+      "summary": "These Guidelines use a primary production-to-consumption flow-diagram approach to identify, evaluate and combine control measures at all food-chain steps, illustrating where GHP-based and hazard-based options apply and facilitating national and premises-level HACCP planning and flexibility.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "7.1 Generic flow diagram for application of control measures",
+      "summary": "A generic primary production-to-consumption flow diagram is provided to guide identification of control measures and adaptation of HACCP plans, showing process steps from breeding flocks and hatchery through grower, slaughter, processing, chilling, packing and distribution to consumers.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Process Flow Diagram 1: Primary production to Consumption",
+      "summary": "Process Flow Diagram 1 lists sequential process steps from grandparent and parent flocks, hatchery and grower operations, through transport, slaughter, dressing, chilling, portioning and packing, to storage, transport, retail/food service and the consumer, noting steps may vary by premises.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Primary Production (Steps 1 - 11)",
+      "summary": "Heading only: denotes the Primary Production section (Steps 1–11) and is not substantive.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "primary production"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Processing (Steps 12 - 24)",
+      "summary": "Heading only: denotes the Processing section (Steps 12–24) and is not substantive.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "processing steps"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "7. Hatchery",
+      "summary": "Heading only: '7. Hatchery' — no substantive text in this section.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "hatchery step"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "14. Slaughter",
+      "summary": "Heading only: '14. Slaughter' — no substantive text in this section.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "slaughter step"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "15. Dress",
+      "summary": "Heading only: '15. Dress' — no substantive text in this section.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "dressing step"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "22. Chill",
+      "summary": "Heading only: '22. Chill' — single-word label for the chilling step, not substantive.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "chilling step"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "6. Transport eggs to hatchery",
+      "summary": "Heading only: '6. Transport eggs to hatchery' — denotes a transport step but contains no substantive provisions.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "egg transport"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "8. Transport day-old chicks to grower sheds",
+      "summary": "Heading only: '8. Transport day-old chicks to grower sheds' — denotes a transport step but contains no substantive provisions.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "chick transport"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "9. Manage chickens 12",
+      "summary": "Heading only: process step titled 'Manage chickens' with no substantive content provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "flock management"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "10. Depopulate (full or partial) 12",
+      "summary": "Heading only: process step titled 'Depopulate (full or partial)' with no substantive content provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "depopulation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "11. Transport to slaughterhouse",
+      "summary": "Heading only: process step titled 'Transport to slaughterhouse' with no substantive content provided.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "slaughter transport"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "12. Receive at slaughterhouse",
+      "summary": "Heading only: process step titled 'Receive at slaughterhouse' with no substantive content provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "slaughterhouse receiving"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "13. Ante-mortem inspection",
+      "summary": "Heading only: process step titled 'Ante-mortem inspection' with no substantive content provided.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "ante-mortem inspection"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "16. Inside/ Outside wash",
+      "summary": "Heading only: process step titled 'Inside/ Outside wash' with no substantive content provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "wash step"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "17. On-line Reprocessing",
+      "summary": "Heading only: process step titled 'On-line Reprocessing' with no substantive content provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "reprocessing step"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "18. Post-mortem inspection 14",
+      "summary": "Heading only: process step titled 'Post-mortem inspection' with no substantive content provided.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "post-mortem inspection"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "19. Chill carcass (air or immersion)",
+      "summary": "Heading only: process step titled 'Chill carcass (air or immersion)' with no substantive content provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "chilling step"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "20. Post-chill applications",
+      "summary": "Heading only: process step titled 'Post-chill applications' with no substantive content provided.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "post-chill step"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "21. Portion",
+      "summary": "Heading only: process step titled 'Portion' with no substantive content provided.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "portion form"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "23. Storage",
+      "summary": "Heading only/incomplete: '23.' (Storage) appears as an incomplete entry with no substantive provisions.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "incomplete item"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "24. Transport",
+      "summary": "Heading only: process step titled '24. Storage' with no substantive content provided.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "## 7.2. Availability of control measures at specific process flow steps addressed in these Guidelines",
+      "summary": "Explains that a table maps where GHP- and hazard-based control measures for Campylobacter and Salmonella have been identified across process flow steps, with ticks indicating presence and blanks indicating none; details are in these Guidelines or the OIE Terrestrial Animal Health Code and footnotes note that washing may occur at multiple dressing steps and provide a web reference.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "Process Step",
+      "summary": "Contains a list of production and supply-chain process steps (grandparent flocks through consumer) together with a control-measures table mapping GHP- and hazard-based measures for Campylobacter and Salmonella; the section includes table artifacts and image placeholders but no additional substantive requirements.",
+      "categories": [
+        "processing",
+        "transport",
+        "other",
+        "risk management",
+        "hygiene",
+        "documentation",
+        "inspection certification",
+        "storage",
+        "packaging"
+      ],
+      "subcategories": [
+        "process step heading",
+        "production step",
+        "transport step",
+        "image artifact",
+        "garbled artifact",
+        "management step",
+        "control measures table",
+        "table separator",
+        "hazard table",
+        "table entry",
+        "footnote note",
+        "washing note",
+        "web reference",
+        "artifact",
+        "image placeholder",
+        "manage chickens",
+        "depopulate step",
+        "transport to slaughterhouse",
+        "receive at slaughterhouse",
+        "ante-mortem inspection",
+        "slaughter step",
+        "dressing step",
+        "wash step",
+        "reprocessing step",
+        "post-mortem inspection",
+        "chill carcass",
+        "post-chill applications",
+        "portioning step",
+        "pack step",
+        "chill or freeze",
+        "storage heading",
+        "transport heading",
+        "wholesale heading",
+        "retail heading",
+        "consumer heading",
+        "hazard control table"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "8. CONTROL MEASURES FOR STEPS 1 TO 11 (PRIMARY PRODUCTION)",
+      "summary": "States these primary production control guidelines supplement the OIE Terrestrial Animal Health Code and relevant CAC codes and then prescribes GHP-based measures (biosecurity, personnel hygiene, pest control) and Salmonella-specific measures including keeping breeder flocks Salmonella-free, following OIE response actions if positive, treating/storing/delivering feed to minimise Salmonella (preferably using dedicated vehicles), that some vaccines/additives may require competent-authority approval, separating and tracing contaminated eggs/chicks during hatchery and transport, and notes fly screens can markedly reduce Campylobacter prevalence.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "8.3.1 GHP-based control measures",
+      "summary": "For Salmonella: recommends hatching only eggs from Salmonella-negative flocks and, if contaminated eggs must be used, keeping and hatching them separately from other eggs with traceback to infected breeding flocks and review of control measures.",
+      "categories": [
+        "risk management"
+      ],
+      "subcategories": [
+        "ghp measures heading",
+        "salmonella measures",
+        "salmonella flock control",
+        "contaminated egg separation"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "For Salmonella",
+      "summary": "For Salmonella: requires breeder flocks be kept free of Salmonella and, if a flock is Salmonella-positive, that responses outlined in the OIE Terrestrial Animal Health Code Chapter 6.5 be implemented; additionally, breeder feed should be treated, stored and delivered to minimise Salmonella (preferably in dedicated vehicles) and use of vaccines, competitive exclusion products or certain additives may require competent-authority approval.",
+      "categories": [
+        "risk management",
+        "hygiene",
+        "processing"
+      ],
+      "subcategories": [
+        "salmonella measures",
+        "flock hygiene",
+        "salmonella response",
+        "feed treatment",
+        "control measure approval"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "8.4.1 GHP-based control measures",
+      "summary": "GHP-based measure: personnel transporting day-old chicks should not enter livestock buildings and must prevent cross-contamination during loading and unloading.",
+      "categories": [
+        "hygiene",
+        "transport"
+      ],
+      "subcategories": [
+        "ghp measures",
+        "chick transport hygiene"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "For Salmonella",
+      "summary": "For Salmonella: only eggs from Salmonella-negative flocks should be sent for hatching, and when that is not practical eggs from Salmonella-positive flocks should be transported separately from other eggs.",
+      "categories": [
+        "hygiene",
+        "processing"
+      ],
+      "subcategories": [
+        "salmonella section",
+        "egg handling"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "8.5 Step 5:  Manage parent flocks",
+      "summary": "For parent flocks, the same control measures required in Step 1 are explicitly applied at this step (i.e., obligations from Step 1 carry forward to parent flock management).",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "parent flock management",
+        "ghp measures"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "8.7.1 GHP-based control measures",
+      "summary": "When eggs from Salmonella‑contaminated flocks must be used, they must be kept and hatched separately and resulting chicks isolated from other flocks, and contamination should be traced back to infected breeding flocks with control measures reviewed.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ghp measures"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "For Salmonella",
+      "summary": "When using eggs from Salmonella‑contaminated flocks, eggs must be kept and hatched separately and chicks isolated, and authorities should perform traceback to infected breeding flocks and review control measures.",
+      "categories": [
+        "hygiene",
+        "processing"
+      ],
+      "subcategories": [
+        "salmonella section",
+        "egg and chick separation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "8.8.1 GHP-based control measures",
+      "summary": "Personnel transporting day‑old chicks must not enter livestock buildings, must follow biosecurity procedures during loading/unloading to prevent cross‑contamination, and all live‑bird transport crates/modules should be cleaned, disinfected and dried before reuse.",
+      "categories": [
+        "hygiene",
+        "transport"
+      ],
+      "subcategories": [
+        "ghp measures",
+        "chick transport hygiene",
+        "transport biosecurity"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "For Salmonella",
+      "summary": "Specific Salmonella control measures (e.g., competitive exclusion bacteria, organic acids in preslaughter drinking water, organic acids or formaldehyde in feed) may require approval from a competent authority before use.",
+      "categories": [
+        "hygiene",
+        "risk management"
+      ],
+      "subcategories": [
+        "salmonella section",
+        "control measure approval"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "8.9.1 GHP-based control measures",
+      "summary": "Control of Campylobacter and Salmonella in flocks should combine biosecurity and personnel hygiene measures, with the particular national mix determined in consultation with stakeholders and pest control programmes designed to local conditions.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ghp measures",
+        "biosecurity measures"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "For Campylobacter",
+      "summary": "Section heading only for 'For Campylobacter' with no substantive requirements provided in this text.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "campylobacter section"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "8.9.2 Hazard-based control measures",
+      "summary": "Section heading only for '8.9.2 Hazard‑based control measures' with no substantive requirements provided in this text.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hazard-based measures"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "For Campylobacter",
+      "summary": "Section heading only for 'For Campylobacter' with no substantive requirements provided in this text.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "campylobacter section"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "8.9.2 Hazard-based control measures",
+      "summary": "Section heading only for '8.9.2 Hazard‑based control measures' with no substantive requirements provided in this text.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hazard-based measures"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "doc_id": "1ec9d1ad-7009-40d6-895a-892c7d9677a4",
+  "title": "INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "INTRODUCTION",
+      "summary": "Section heading for the introduction; no substantive text provided.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "History of use of tin",
+      "summary": "Describes tin as a soft, corrosion-resistant metal (Sn, atomic weight 118.7, melting point 231.9 °C) widely used historically and presently as a protective coating for steel in can making, noting large-scale tinplate production and precise modern manufacturing methods.",
+      "categories": [
+        "scope",
+        "processing"
+      ],
+      "subcategories": [
+        "scope heading",
+        "background information",
+        "processing methods"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Tin as packaging for canned food",
+      "summary": "Explains that tinplate protects steel in canned foods by acting as a sacrificial anode and creating a reducing environment that slows corrosion and preserves products, and notes that internal lacquers are used for certain aggressive or highly pigmented foods (e.g., beetroot, sauerkraut) to prevent colour bleaching or direct steel corrosion.",
+      "categories": [
+        "packaging"
+      ],
+      "subcategories": [
+        "packaging heading",
+        "metal container use",
+        "internal lining"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "INORGANIC TIN CONTAMINATION IN CANNED FOODS",
+      "summary": "States there is limited toxicological data on inorganic tin from tinplate coatings, identifies acute ingestion hazard as mainly gastric irritation at high levels, and recommends minimizing tin in canned foods through good manufacturing practice while allowing functional use of plain tinplate cans.",
+      "categories": [
+        "contaminants",
+        "other",
+        "risk management"
+      ],
+      "subcategories": [
+        "contamination heading",
+        "document code",
+        "tin contamination",
+        "mitigation measures"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 999,
+      "order": 4,
+      "section": "Technological and commercial implications",
+      "summary": "Discusses technological and commercial implications: recommends internal lacquering to prevent detinning (giving typical coating thicknesses for products), notes adhesion testing limitations, identifies poor manufacture or prolonged/incorrect storage as causes of significant tin contamination, and recognises technical and marketing reasons why plain cans may still be used.",
+      "categories": [
+        "other",
+        "packaging",
+        "analysis sampling",
+        "storage",
+        "risk management"
+      ],
+      "subcategories": [
+        "section heading",
+        "market context",
+        "can lining use",
+        "coating thickness",
+        "adhesion test",
+        "storage effects",
+        "risk mitigation",
+        "plain cans"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 5,
+      "section": "Flavour and colour",
+      "summary": "Explains that controlled tin dissolution can create a reducing atmosphere that preserves colour and flavour in some products (e.g., asparagus, light fruits, tomato), while highly pigmented or aggressive foods (e.g., beetroot, berry fruits) must be packed in fully lined cans to prevent bleaching and corrosion.",
+      "categories": [
+        "quality",
+        "packaging"
+      ],
+      "subcategories": [
+        "quality heading",
+        "colour flavour",
+        "lined cans"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 6,
+      "section": "Corrosion factors",
+      "summary": "Notes that switching to lined cans can change corrosion mechanisms (increasing underfilm corrosion and pitting for aggressive products) and lists multiple factors affecting tin levels, many of which are natural variations or post-manufacture influences.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "corrosion heading",
+        "corrosion effects",
+        "tin level factors"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 7,
+      "section": "Corrosion mechanisms",
+      "summary": "Defines four internal tinplate corrosion mechanisms—normal detinning, rapid detinning (e.g., caused by light coating mass or depolarisers such as nitrate, certain dyes), partial detinning with pitting, and pitting corrosion (promoted by arsenic, oxygen, acetic/phosphoric acids, metal residues and sulphide films)—and describes their causes and consequences (hydrogen evolution, perforation, swelling).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "corrosion mechanisms heading",
+        "corrosion mechanisms",
+        "normal detinning",
+        "rapid detinning",
+        "partial detinning",
+        "pitting",
+        "pitting corrosion"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 8,
+      "section": "Corrosion inhibitors",
+      "summary": "Describes passivation treatments applied after tin deposition (two levels, commonly cathodic dichromate CDC) to stabilise tinplate by controlling tin oxide formation, and emphasises that the food product chemistry (natural pH and acid variations) is a major influence on internal corrosion.",
+      "categories": [
+        "quality",
+        "processing"
+      ],
+      "subcategories": [
+        "corrosion inhibitors heading",
+        "passivation treatment",
+        "product chemistry"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 9,
+      "section": "Corrosion accelerators",
+      "summary": "States that chemical species able to accept electrons (depolarisers) such as nitrates and sulfites, and the presence of oxygen, accelerate tin dissolution and advises good process control to minimise headspace oxygen and oxidising agents.",
+      "categories": [
+        "quality",
+        "processing"
+      ],
+      "subcategories": [
+        "corrosion accelerators",
+        "corrosion control"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 10,
+      "section": "Storage temperature",
+      "summary": "Explains that tin uptake increases with storage time and temperature, typically following first-order kinetics with the dissolution rate roughly doubling for every 10 °C rise.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading",
+        "temperature effects"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 11,
+      "section": "1. SCOPE",
+      "summary": "Specifies scope: this code addresses migration of inorganic tin from internally plain (unlacquered) tinplate into thermally processed canned human foods (including juices and hot-fill/retort products), excludes tin from other sources and does not apply to dry goods or 100% oil products.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "scope limitation",
+        "product applicability",
+        "exclusions"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 12,
+      "section": "2. RECOMMENDED PRACTICES TO MINIMISE TIN UPTAKE BY FOODS PACKED INTO PLAIN TINPLATE CANS",
+      "summary": "Introduces recommended practices to minimise tin uptake from plain tinplate cans and groups the influencing factors to be managed: tin coating mass and passivation, coating damage, product pH/acid content, corrosion accelerators (nitrates, sulphur), oxygen, process times/temperatures, storage time/temperature and humidity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 13,
+      "section": "2.1 Packaging manufacturer",
+      "summary": "Addresses packaging manufacturer responsibilities, advising tinplate suppliers and can makers to ensure end-use is specified, select appropriate passivation/tin coating mass, maintain quality procedures, minimise coating damage and collaborate with canners on pack testing and concerns.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 14,
+      "section": "2.1.1 Tinplate supplier",
+      "summary": "Requires tinplate suppliers to be informed of the intended end use, to ensure specifications (tin coating mass, passivation level) are appropriate, and to maintain quality procedures to prevent incorrect coatings or low oil levels that could cause abrasion and increased tin dissolution.",
+      "categories": [
+        "composition",
+        "quality"
+      ],
+      "subcategories": [
+        "supplier heading",
+        "supplier specification",
+        "quality procedures"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 15,
+      "section": "2.1.2 Can maker",
+      "summary": "Obliges can makers to approve tinplate suppliers, verify passivation and tin-coating suitability for end use, assist customers with can specifications and pack testing for new products, minimise tin-coating damage via machine settings, and avoid excessive heat when curing sidestripes.",
+      "categories": [
+        "composition",
+        "quality",
+        "analysis sampling",
+        "processing"
+      ],
+      "subcategories": [
+        "maker heading",
+        "supplier approval",
+        "ordering requirements",
+        "pack testing",
+        "machine settings",
+        "curing conditions"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 16,
+      "section": "2.2 The canner",
+      "summary": "Sets canner responsibilities: collaborate with can suppliers to ensure correct can specification and extensive pack testing; control raw materials (document suppliers, monitor pH, acid types, nitrates, sulphur residues and water quality); control processing to remove oxygen and limit heat exposure (vacuum closing, steam exhausting, cooling/drying); manage finished-goods storage (temperature control and stock rotation); and minimise can damage (prefer ink-jet coding).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 17,
+      "section": "2.2.1 Raw Materials",
+      "summary": "Guidance for canned food manufacturers to ensure can specifications and pack testing with suppliers, document all raw materials and water quality, control product pH and types/levels of food acids (noting acetic acid is especially aggressive), and test for corrosion accelerators such as nitrates and sulphur residues and for factors causing sulphide staining that can alter tin uptake and passivation.",
+      "categories": [
+        "composition",
+        "analysis sampling",
+        "storage",
+        "quality",
+        "contaminants",
+        "documentation"
+      ],
+      "subcategories": [
+        "raw materials heading",
+        "container specification",
+        "pack testing",
+        "shelf life",
+        "batch conformity",
+        "ph control",
+        "nitrate contamination",
+        "sulphur residues",
+        "sulphide staining",
+        "raw material records",
+        "water monitoring"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 18,
+      "section": "2.2.2 Processing",
+      "summary": "Processing controls require elimination of oxygen before closing (minimise headspace, use steam exhausting or preferably vacuum closing, avoid line stops) and management of thermal exposure because high processing, inadequate cooling or drying accelerate corrosion and can affect product safety and quality (cans should be cooled to about 35–40 °C).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "processing heading",
+        "oxygen removal",
+        "vacuum closing",
+        "temperature effects",
+        "cooling drying"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 19,
+      "section": "2.2.3 Finished goods storage",
+      "summary": "Finished goods storage must account for temperature-dependent internal can corrosion when setting maximum storage times, require stock rotation (first-produced used first), and maintain temperature-controlled warehousing to avoid large swings that cause condensation and external rusting.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "storage heading",
+        "temperature control",
+        "stock rotation",
+        "warehouse conditions"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 20,
+      "section": "2.2.4 Other considerations",
+      "summary": "Minimise can damage to avoid local de-tinning, and prefer ink-jet coding rather than embossing to reduce damage risk.",
+      "categories": [
+        "storage",
+        "packaging"
+      ],
+      "subcategories": [
+        "storage considerations",
+        "can damage"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 21,
+      "section": "2.3 Transport and warehousing",
+      "summary": "Transport considerations echo finished-goods storage: account for temperatures during shipping when determining dispatch and, where high temperatures are likely, prefer exporting more recent production batches.",
+      "categories": [
+        "transport",
+        "storage"
+      ],
+      "subcategories": [
+        "transport heading",
+        "finished goods storage",
+        "shipping temperatures"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 22,
+      "section": "2.4 Retailer",
+      "summary": "Retailers are obliged to maintain correct stock rotation so shelves are stocked in production-date sequence.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "retailer storage",
+        "stock rotation"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 23,
+      "section": "2.5 Consumer",
+      "summary": "Consumers should store canned foods away from excessive heat (no direct sun or near heaters/ovens) and transfer any unused food or juice from plain tinplate cans immediately into clean glass or plastic and refrigerate because exposure to air can cause rapid tin accumulation.",
+      "categories": [
+        "storage"
+      ],
+      "subcategories": [
+        "consumer storage",
+        "heat avoidance",
+        "refrigerated storage"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    }
+  ]
+}

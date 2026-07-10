@@ -1,0 +1,914 @@
+{
+  "doc_id": "e93d568e-0cbc-4c7f-a9e1-148379874254",
+  "title": "STANDARD FOR CANNED RASPBERRIES CXS 60-1981 Adopted in 1981. Amended in 2022, 2023.",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR CANNED RASPBERRIES CXS 60-1981 Adopted in 1981. Amended in 2022, 2023.",
+      "summary": "Title and identification of the Codex Standard for Canned Raspberries (CXS 60‑1981) with adoption year and amendment years; this is the standard heading rather than substantive requirements.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "standard heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "## 2022 Amendments",
+      "summary": "Notice that amendments adopted in 2022 modified Section 7.2 concerning labelling of non‑retail containers.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "amendment notice"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "## 2023 Amendments",
+      "summary": "Notice that amendments adopted in 2023 changed the wording of Section 8 (Methods of analysis and sampling).",
+      "categories": [
+        "other",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "amendments heading",
+        "methods amendment"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. DESCRIPTION",
+      "summary": "Defines canned raspberries as products from Rubus idaeus L. or Rubus occidentalis L. that are reasonably whole, sound ripe fruit with calices and stems removed, packed in water or other suitable liquid medium and heat‑processed to prevent spoilage, and allows any suitable raspberry variety.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "1.1 Product definition",
+      "summary": "Specifies canned raspberries are prepared from Rubus idaeus or Rubus occidentalis fruit that are reasonably whole and sound, have extraneous matter removed, are packed in water or suitable liquid medium and heat‑processed, and states that any suitable variety may be used.",
+      "categories": [
+        "definition",
+        "composition",
+        "classification"
+      ],
+      "subcategories": [
+        "product definition",
+        "product composition",
+        "varietal type",
+        "varietal allowance"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "Specifies permitted packing media (water; fruit juice; water plus fruit juice; mixed fruit juices) and allows certain sugars to be added, with Brix‑based classifications and minimum cut‑out strengths for sweetened media; and sets quality criteria for colour, flavour and texture, numeric defect limits (e.g., blemished berries 10% m/m, crushed/broken 25% m/m, extraneous plant material limits), classification of \"defectives,\" and lot acceptance criteria using an appropriate sampling plan with an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1 Packing media i",
+      "summary": "Lists permissible packing media for canned raspberries (water; raspberry or compatible fruit juices; combinations; mixed juices) and allows certain sugars to be added; defines Brix‑based classifications and minimum strengths (juice with sugars ≥15°Brix for 'lightly sweetened', ≥20°Brix for 'heavily sweetened'; light syrup ≥15°Brix, heavy syrup ≥20°Brix; optional slightly sweetened water 11–<15°Brix, extra heavy syrup >26°Brix) and requires cut‑out strength be determined on sample averages with no container below the minimum of the next lower category.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1.1 water - in which water is the sole packing  medium;",
+      "summary": "Defines the permitted packing media categories for the product (water, fruit juice, water plus fruit juice(s), mixed fruit juices) and notes that any of these media may have sugars added as described in 2.1.1.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.1.1.2 fruit juice - in which raspberry juice, or any other compatible fruit juice, is the sole packing medium;",
+      "summary": "Defines the 'fruit juice' packing medium as when raspberry juice or any other compatible fruit juice is the sole packing medium.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "packing medium"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.1.1.3 water and fruit juice(s) - in which water and raspberry juice, or water and any other single fruit juice or water and two or more fruit juices, are combined to form the packing  medium;",
+      "summary": "Defines the 'water and fruit juice(s)' packing medium as combinations of water with raspberry juice, another single fruit juice, or two or more fruit juices.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "packing medium"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.1.1.4 mixed fruit juices - in which two or more fruit juices, including raspberry, are combined to form the packing medium;",
+      "summary": "Defines 'mixed fruit juices' packing medium as the combination of two or more fruit juices, including raspberry, used as the packing medium.",
+      "categories": [
+        "presentation"
+      ],
+      "subcategories": [
+        "packing medium"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "2.1.1.5 with sugar(s) - any of the foregoing packing media 2.1.1.1 through 2.1.1.4 may have one or more of the following sugars added: sucrose, invert sugar syrup, dextose, dried glucose syrup, glucose syrup.",
+      "summary": "Permits addition of specified sugars to any packing media in 2.1.1.1–2.1.1.4 and lists allowed sugars: sucrose, invert sugar syrup, dextrose, dried glucose syrup and glucose syrup.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "sweetened packing"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "2.1.2 Classifications of packing media when sugars are added",
+      "summary": "When sugars are added, liquid media are assigned minimum °Brix values and classified by cut-out strength: for fruit juices the media must be at least 15 °Brix and are classed as lightly (≥15 °Brix) or heavily (≥20 °Brix) sweetened, and for water-based media classification uses basic syrup strengths of light (≥15 °Brix) or heavy (≥20 °Brix).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "2.1.2.1 When sugars are added to raspberry juice or other fruit juices, the liquid media shall be not less than 15 o Brix and shall be classified on the basis of the cut-out strength as follows:",
+      "summary": "Requires that when sugars are added to raspberry or other fruit juices the liquid medium be not less than 15 °Brix and be classified as lightly (≥15 °Brix) or heavily (≥20 °Brix) sweetened.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "lightly sweetened (name of fruit) juice - not less than 15 o Brix: or",
+      "summary": "Defines 'lightly sweetened' fruit juice as having not less than 15 °Brix.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "heavily sweetened (name of fruit) juice - not less than 20 o Brix.",
+      "summary": "Defines 'heavily sweetened' fruit juice as having not less than 20 °Brix.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "2.1.2.2 When sugars are added to water or water and raspberry juice or water and fruit juices the liquid media shall be classified on the basis of the cut-out strength as  follows:",
+      "summary": "When sugars are added to water or water-plus-fruit-juice packing media, the liquid is classified by syrup strength with light syrup not less than 15 °Brix and heavy syrup not less than 20 °Brix.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "light syrup",
+      "summary": "Non‑substantive heading/label used for classification: 'light syrup'.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "not less than 15 o Brix",
+      "summary": "States a minimum Brix value of not less than 15 °Brix.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "heavy syrup",
+      "summary": "Non‑substantive heading/label used for classification: 'heavy syrup'.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "not less than 20 o Brix.",
+      "summary": "States a minimum Brix value of not less than 20 °Brix.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "2.1.3 Optional packing media",
+      "summary": "Specifies optional packing media allowed when not prohibited in the country of sale, including slightly sweetened water (≥11 °Brix but <15 °Brix), extra light syrup (label), and extra heavy syrup (more than 26 °Brix).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "slightly sweetened water )",
+      "summary": "Non‑substantive heading/label used for classification: 'slightly sweetened water'.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "extra light syrup",
+      "summary": "Non‑substantive heading/label used for classification: 'extra light syrup'.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "extra heavy syrup",
+      "summary": "Non‑substantive heading/label used for classification: 'extra heavy syrup'.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "More than 26 o  Brix.",
+      "summary": "Specifies a Brix threshold of more than 26 °Brix.",
+      "categories": [
+        "classification"
+      ],
+      "subcategories": [
+        "sweetness classification"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "2.1.4 The cut-out strength of sweetened juice or syrup shall be determined on sample average, but no container may have a Brix value lower than that of the minimum of the next category below, if such there  be.",
+      "summary": "Requires that cut-out strength (Brix) of sweetened juice or syrup be determined on the sample average and prohibits any container from having a Brix value below the minimum of the next lower category.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "brix determination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "2.2 Quality criteria",
+      "summary": "Sets quality criteria for canned raspberries covering colour, flavour, texture, defect limits (blemished 10% m/m; crushed/broken 25% m/m; total a+b 25% m/m), extraneous plant material limits (stalks >3 mm: 2 pieces/100 g; leaves/calices: 2 sq. cm/100 g), definition of \"defectives\" and lot acceptance using an appropriate sampling plan with an AQL of 6.5.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "2.2.1 Colour",
+      "summary": "Requires canned raspberries (except artificially coloured products) to have normal colour characteristics for canned raspberries and be typical of the variety used.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "colour requirement"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "2.2.2 Flavour",
+      "summary": "Requires canned raspberries to have a normal flavour and odour free from flavours or odours foreign to the product (see Appendix to Part I).",
+      "categories": [
+        "quality",
+        "other"
+      ],
+      "subcategories": [
+        "flavour requirement",
+        "footnote reference"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "2.2.3 Texture",
+      "summary": "Specifies that raspberries must have a reasonably uniform texture and must not be excessively firm or unreasonably soft.",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "texture requirement"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "2.2.4 Defects and allowances",
+      "summary": "Defines allowable defects and limits for canned raspberries: blemished berries 10% m/m (wind rub, insects, disease, deformity), crushed/broken berries 25% m/m (more than 50% drupelets damaged), combined a)+b) 25% m/m, and extraneous plant material by average (stalks >3 mm: 2 pieces/100 g; leaves/calices etc.: 2 sq. cm/100 g).",
+      "categories": [
+        "quality"
+      ],
+      "subcategories": [
+        "defects allowances",
+        "defects allowance",
+        "defects table",
+        "maximum limits",
+        "list item",
+        "blemished berries",
+        "defect limit",
+        "defect definition",
+        "defect item",
+        "defect total",
+        "extraneous material",
+        "extraneous material detail",
+        "extraneous material limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "2.2.5 Classification of \"defectives\"",
+      "summary": "States that any container failing one or more applicable quality requirements in subsections 2.2.1–2.2.4 (except extraneous plant material limits based on averages) shall be classified as a \"defective.\"",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "defectives classification",
+        "defective definition"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "2.2.6 Acceptance",
+      "summary": "Specifies lot acceptance: for non-average requirements the number of \"defectives\" must not exceed the acceptance number c) of an appropriate sampling plan with an AQL of 6.5, and requirements based on sample averages must be complied with (see Codex methods of analysis and sampling).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "acceptance heading",
+        "lot acceptance",
+        "sampling plan",
+        "sample average"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "FOOD ADDITIVES",
+      "summary": "Introduces food additives allowed for the product and lists colour additives including erythrosine (CI 45430) and Ponceau 4R (CI 16255), noting erythrosine at 300 mg/kg of the final product and that colours may be used singly or in combination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "3. FOOD ADDITIVES",
+      "summary": "Headed \"FOOD ADDITIVES,\" this section lists permitted colour additives for the product, including erythrosine (CI 45430) at 300 mg/kg of the final product and Ponceau 4R (CI 16255) singly or in combination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "3.1 Colours",
+      "summary": "Section on colours specifying permitted colour additives for the product, notably erythrosine (CI 45430) with a maximum of 300 mg/kg of the final product and Ponceau 4R (CI 16255) allowed singly or combined.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "3.1.1 Erythrosine - CI 45430",
+      "summary": "Permits the colour additive erythrosine (CI 45430) with a maximum level of 300 mg per kg of the final product.",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "colour additive",
+        "additive marker",
+        "maximum level"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "3.1.2 Ponceau 4 R - CI 16255",
+      "summary": "Permits the colour additive Ponceau 4R (CI 16255) to be used, either singly or in combination with other colours (no specific maximum shown in this text).",
+      "categories": [
+        "additives"
+      ],
+      "subcategories": [
+        "colour additive",
+        "additive conditions"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "CONTAMINANTS",
+      "summary": "Lists contaminant maximum levels for the product, giving limits for lead (Pb) and tin (Sn)—the text shows lead (Pb) 1 mg/kg and tin (Sn) 250 mg/kg (calculated as Sn)—under a \"Maximum level\" heading.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "lead limit",
+        "contaminant limit",
+        "tin limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "4. CONTAMINANTS",
+      "summary": "Provides contaminant limits, indicating values for lead (Pb) and tin (Sn) with the heading \"Maximum level\" (text shows lead 1 mg/kg and tin 250 mg/kg calculated as Sn).",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contaminants heading",
+        "lead limit",
+        "contaminant limit",
+        "tin limit"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "Maximum level",
+      "summary": "This is a non-substantive heading titled \"Maximum level\" and does not contain additional details in the provided text.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "maximum level"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "5. HYGIENE",
+      "summary": "Recommends that the product be prepared and handled according to the Codex General Principles of Food Hygiene (CXC 1-1969) and other relevant Codex codes of practice, and requires the product to be free from objectionable matter to the extent possible under good manufacturing practice.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene heading",
+        "good hygiene",
+        "objectionable matter"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "6. WEIGHTS AND MEASURES",
+      "summary": "Sets weights and measures requirements for canned raspberries: container fill (including packing medium) must occupy at least 90% of the container's water capacity, drained weight must be at least 37% of the weight of distilled water at 20°C for the filled container, containers failing minimum fill are \"defectives,\" lot acceptance follows an AQL 6.5 sampling plan, and minimum drained weight may be met by average compliance if individual shortages are not unreasonable.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "6.1 Fill of container",
+      "summary": "Details fill-of-container and drained-weight requirements: product must fill at least 90% of the container's water capacity, failure to meet this is a \"defective,\" lot acceptance uses an AQL 6.5 sampling plan, and the drained weight requirement (minimum 37% of the container's distilled-water weight at 20°C) may be met by average compliance provided no unreasonable individual shortages.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "6.1.1 Minimum fill",
+      "summary": "Requires containers to be well filled so that the product including packing medium occupies not less than 90% of the container's water capacity, with water capacity defined as the volume of distilled water at 20°C the sealed container will hold when completely filled.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "minimum fill",
+        "container fill"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "6.1.2 Classification of \"defectives\"",
+      "summary": "States that any container failing to meet the minimum fill requirement (90% of container water capacity) is to be classified as a \"defective.\"",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "defectives classification",
+        "minimum fill defect"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "6.1.3 Acceptance",
+      "summary": "For acceptance, a lot meets subsection 5.1.1 when the number of \"defectives\" (defined in 5.1.2) does not exceed the acceptance number c of an appropriate sampling plan based on an AQL of 6.5 (per relevant Codex methods of analysis and sampling).",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "acceptance heading",
+        "sampling acceptance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "6.1.4 Minimum drained weight",
+      "summary": "The product's drained weight must be at least 37% of the weight of distilled water at 20°C that the sealed container will hold when completely filled, and compliance is met if the average drained weight of examined containers is not less than this minimum provided there is no unreasonable shortage in individual containers.",
+      "categories": [
+        "weights and measures"
+      ],
+      "subcategories": [
+        "drained weight",
+        "drained weight compliance"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "7. LABELLING",
+      "summary": "Supplementing the General Standard for Labelling of Pre-packaged Foods, this section sets specific labelling rules for raspberries including that the product name shall be \"Raspberries\", that non‑red raspberries must indicate colour, and that the packing medium must be declared with specified wording depending on its composition.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "7.1. The name of the food",
+      "summary": "The name of the food must be \"Raspberries\" (with colour indicated for non‑red varieties) and the packing medium must be declared; specific mandatory designations are provided depending on whether the medium is water, single or mixed fruit juices, or contains added sugars, and if fruit juice comprises 50% or more by volume the label must indicate the juice's preponderance.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "7.1.3.4 When sugars are added to raspberry juice or other fruit juices, the packing medium shall be declared as:",
+      "summary": "When sugars are added to raspberry or other single fruit juices, the packing medium must be declared using wording such as \"Lightly sweetened (name of fruit) juice\".",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium declaration",
+        "sweetened juice name"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "7.1.3.5 When sugars are added to water, or water and a single fruit juice (including raspberry juice) or water and two or more fruit juices, the packing medium shall be declared  as:",
+      "summary": "When sugars are added to water or to water plus one or more fruit juices, the packing medium must be declared with an appropriate designation such as \"Light syrup\", \"Heavy syrup\", \"Water slightly sweetened\"/\"Slightly sweetened water\", or \"Extra heavy syrup\" as applicable.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium declaration",
+        "syrup declaration",
+        "sweetened water declaration",
+        "declaration continuation"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "7.1.3.6 When the packing medium contains water and raspberry juice or water and one or more fruit juice(s), in which the fruit juice comprises 50 percent or more by volume of the packing medium, the packing medium shall be designated to indicate the preponderance of such fruit juice, as for example:",
+      "summary": "If the packing medium contains water and fruit juice(s) in which the fruit juice comprises 50% or more by volume, the packing medium must be designated to indicate the preponderance of that juice (e.g., \"Raspberry juice and water\").",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "packing medium declaration",
+        "fruit juice declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "8. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "For checking compliance with this standard, the methods of analysis and sampling contained in the Recommended Methods of Analysis and Sampling (CXS 234-1999) relevant to the provisions of this standard shall be used.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "8.1 For  checking  the  compliance  with  this  standard,  the  methods  of  analysis  and  sampling  contained  in  the Recommended  Methods  of  Analysis  and  Sampling (CXS  234-1999) Error!  Bookmark  not  0defined. relevant  to  the provisions in this standard, shall be used.",
+      "summary": "To verify compliance with the standard, apply the methods of analysis and sampling set out in Codex Recommended Methods (CXS 234-1999) that are relevant to the standard's provisions.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "analysis heading",
+        "compliance methods"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "NOTES",
+      "summary": "Non‑substantive notes/bibliographic references listing related FAO/WHO Codex documents (e.g., General Principles of Food Hygiene CXC 1-1969; General Standard for Labelling CXS 1-1985; Labelling of Non‑Retail Containers CXS 346-2021).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "\"NOTES",
+      "summary": "Editorial or stray entry containing only the phrase \"Extra light syrup\" and not a substantive regulatory provision.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "syrup declaration"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    }
+  ]
+}

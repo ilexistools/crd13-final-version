@@ -1,0 +1,326 @@
+{
+  "doc_id": "006e6677-9e13-4670-b2a9-4aac7eea7735",
+  "title": "STANDARD FOR FOODS FOR SPECIAL DIETARY USE FOR PERSONS INTOLERANT TO GLUTEN",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "STANDARD FOR FOODS FOR SPECIAL DIETARY USE FOR PERSONS INTOLERANT TO GLUTEN",
+      "summary": "Heading indicating this Codex standard concerns foods for special dietary use intended for persons intolerant to gluten.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CXS 118-1979",
+      "summary": "Document code reference (CXS 118-1979) only; no substantive regulatory content.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "Adopted in 1979. Amended in 1983 and 2015. Revised in 2008.",
+      "summary": "Editorial note giving adoption, amendment and revision dates of the standard; no substantive regulatory requirements.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "amendment history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "1. SCOPE",
+      "summary": "Sets the scope and core rules for foods for special dietary use for gluten-intolerant persons, defining gluten-free and reduced-gluten foods with numeric gluten limits (≤20 mg/kg and >20–100 mg/kg), defining gluten and prolamins, requiring comparable vitamin/mineral content where substituting basic foods, mandating GMP measures to avoid gluten contamination, prescribing when and how “gluten-free” and related statements may be used on labels (including for naturally gluten-free general foods), and specifying that gluten quantification must use validated immunologic (e.g. ELISA R5 Mendez) or equivalent methods with detection limits ≤10 mg/kg; some labelling and marketing decisions may be set at national level.",
+      "categories": [
+        "scope",
+        "labelling"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "suitability statement"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2. DESCRIPTION",
+      "summary": "Provides detailed descriptions and definitions for products under the standard, distinguishing gluten-free foods (made from non-gluten cereals or specially processed gluten cereals with total gluten ≤20 mg/kg) from foods specially processed to reduce gluten to >20–100 mg/kg, and defining “gluten” and “prolamins,” while allowing national authorities to decide on marketing of reduced-gluten products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.1 Definitions",
+      "summary": "Introduces definitions for products covered by the standard and distinguishes between fully gluten-free foods (≤20 mg/kg gluten) and specially processed reduced-gluten foods (>20–100 mg/kg), with national discretion over marketing of the latter.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.1.1 Gluten-free foods",
+      "summary": "Defines “gluten-free foods” as dietary foods made either from ingredients not containing wheat, rye, barley, oats or their crossbred varieties, or from such cereals that have been specially processed to remove gluten, in both cases with total gluten not exceeding 20 mg/kg in the food as sold to the consumer.",
+      "categories": [
+        "classification",
+        "definition"
+      ],
+      "subcategories": [
+        "gluten-free foods",
+        "food definition",
+        "gluten-free criteria"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.1.2 Foods specially processed to reduce gluten content to a level above 20 up to 100 mg/kg",
+      "summary": "Defines foods “specially processed to reduce gluten content” as products made from wheat, rye, barley, oats or their crossbred varieties that have been processed to contain total gluten above 20 up to 100 mg/kg in the food as sold, with decisions on their marketing left to national authorities.",
+      "categories": [
+        "classification",
+        "risk management"
+      ],
+      "subcategories": [
+        "reduced gluten foods",
+        "reduced gluten criteria",
+        "national decision"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "2.2 Subsidiary Definitions",
+      "summary": "This section provides subsidiary definitions for “gluten” as the water- and 0.5M NaCl-insoluble protein fraction from specified cereals and for “prolamins” as the ethanol-extractable fraction of gluten, naming cereal-specific prolamins and noting that prolamins are generally taken as 50% of gluten and linked to gluten sensitivity.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "2.2.1 Gluten",
+      "summary": "This section defines “gluten” as the protein fraction from wheat, rye, barley, oats, their crossbred varieties and derivatives, to which some persons are intolerant, that is insoluble in water and 0.5M NaCl for the purposes of the standard.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "gluten definition"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "2.2.2 Prolamins",
+      "summary": "This section defines “prolamins” as the fraction of gluten extractable by 40–70% ethanol, identifies the specific prolamins from wheat, rye, barley and oats, and notes that gluten sensitivity is commonly referenced and that gluten is generally considered to contain 50% prolamins.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "prolamins definition",
+        "prolamin content"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3. ESSENTIAL COMPOSITION AND QUALITY FACTORS",
+      "summary": "This section sets essential composition and quality requirements for foods under the standard, including maximum gluten limits of 20 mg/kg or 100 mg/kg depending on product category, nutrient equivalence to the basic foods they replace, GMP-based control to avoid gluten contamination, and a note that national authorities may decide on the use of uncontaminated oats.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1 For products referred to in 2.1.1 a) and b), the gluten content shall not exceed 20 mg/kg in the food as sold or distributed to the consumer.",
+      "summary": "This section requires that products described in 2.1.1(a) and (b) contain no more than 20 mg gluten per kg in the food as sold or distributed to the consumer.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "gluten limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2 For  products  referred  to  in  2.1.2  the  gluten  content  shall  not  exceed  100  mg/kg  in  the  food  as  sold  or distributed to the consumer.",
+      "summary": "This section requires that products described in 2.1.2 contain no more than 100 mg gluten per kg in the food as sold or distributed to the consumer.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "gluten limit"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.3 Products covered by this standard substituting important basic foods, should supply approximately the same amount of vitamins and minerals as the original foods they replace.",
+      "summary": "This section states that products covered by the standard which substitute important basic foods should provide approximately the same amounts of vitamins and minerals as the original foods they replace.",
+      "categories": [
+        "composition"
+      ],
+      "subcategories": [
+        "nutrient equivalence"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.4 The  products  covered  by  this  standard  shall  be  prepared  with  special  care  under  Good  Manufacturing Practice (GMP) to avoid contamination with gluten.",
+      "summary": "This section requires that products covered by the standard be manufactured with special care under Good Manufacturing Practice to avoid contamination with gluten.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "gmp contamination control"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "4. LABELLING",
+      "summary": "This section sets specific labelling requirements for gluten-free foods, including mandatory placement of the term \"gluten-free\" near the product name for certain products, prohibiting products in section 2.1.2 from being called gluten-free and requiring truthful descriptive terms, and allowing naturally gluten-free foods to state they are \"by their nature gluten-free\" only if they meet compositional criteria and the statement is not misleading, with some details left to national authorities.",
+      "categories": [
+        "labelling"
+      ],
+      "subcategories": [
+        "labelling heading",
+        "general labelling",
+        "product name declaration",
+        "product naming",
+        "misleading claims"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5. METHODS OF ANALYSIS AND SAMPLING",
+      "summary": "This section outlines methods for analysis and sampling for gluten determination in foods, requiring validated immunologic (or equivalent) quantitative methods using specific non–cross-reacting antibodies with a detection limit of ≤10 mg/kg, qualitative methods such as ELISA or DNA, and identifying the ELISA R5 Mendez method as a method for gluten determination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.1 General outline of the methods",
+      "summary": "This subsection specifies that quantitative gluten determination in foods must use validated immunologic or equivalent methods with appropriate non–cross-reacting antibodies, be calibrated against certified reference material where available, achieve a detection limit of 10 mg gluten/kg or below, and that qualitative presence/absence testing should use relevant methods such as ELISA or DNA-based techniques.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "methods heading",
+        "gluten determination",
+        "antibody specificity",
+        "method validation",
+        "detection limit",
+        "qualitative analysis"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.2 Method for determination of gluten",
+      "summary": "This subsection designates the Enzyme-linked Immunoassay (ELISA) R5 Mendez Method as a method for determining gluten content.",
+      "categories": [
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "method heading",
+        "reference method"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    }
+  ]
+}

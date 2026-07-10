@@ -1,0 +1,261 @@
+{
+  "doc_id": "bd628526-4a21-4bc2-a9a5-b0d9322895f4",
+  "title": "GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD",
+      "summary": "Heading only: title of the guidelines for exchange of information between countries on rejections of imported food.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "CAC/GL 25-1997 Adopted in 1997. Revision: 2016.",
+      "summary": "Document identifier and history: CAC/GL 25-1997, adopted 1997 and revised 2016.",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "document code"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1 INTRODUCTION",
+      "summary": "Introduction sets scope for structured information exchange when imported food is refused entry due to non‑compliance related to food safety or fair trade and directs use of CAC/GL 19‑1995 for food safety emergencies; it requires appropriate information sharing with exporting authorities (or embassies), access to evidence for investigations, reporting of investigation outcomes if requested, consultation between importer/exporter and competent authorities on actions, and notes FAO/WHO assistance if requested.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2 GENERAL CONSIDERATIONS",
+      "summary": "General considerations list grounds for rejection (food safety risk, compromise during handling/storage/transport, misrepresentation/fraud), require exchange of information to enable clarifications and corrective/preventive measures, recommend providing information to exporting competent authorities, grant exporting authorities reasonable access to evidence and results of investigations, permit notification for repeated non‑safety failures, encourage bilateral discussions, and call for minimizing restrictions on disclosure to exporting countries.",
+      "categories": [
+        "other",
+        "risk management",
+        "documentation",
+        "inspection certification",
+        "official control",
+        "scope",
+        "risk assessment"
+      ],
+      "subcategories": [
+        "general considerations heading",
+        "rejection grounds",
+        "food safety risk",
+        "handling compromise",
+        "misrepresentation fraud",
+        "rejection notification",
+        "investigation access",
+        "investigation results",
+        "corrective action",
+        "repeat failure notification",
+        "bilateral discussion",
+        "information disclosure",
+        "scope note",
+        "food safety emergency",
+        "cross reference",
+        "information sharing"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3. DETAILED INFORMATION",
+      "summary": "Detailed information prescribes that exchanges should be electronic where possible, transparent, structured, timely and in an agreed language; reasons for rejection must reference contravened regulations and detail sampling/analytical methods, laboratory results and contaminant identities/levels (including maximum permitted levels or organism/toxin identity where no level exists), and should specify contraventions of additive or compositional standards or lack of evidence of approved establishments.",
+      "categories": [
+        "documentation",
+        "analysis sampling",
+        "contaminants",
+        "composition",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "detailed information heading",
+        "information exchange criteria",
+        "electronic transmission",
+        "exchange characteristics",
+        "language requirement",
+        "rejection reasons",
+        "sampling and methods",
+        "contaminant details",
+        "standards contravention",
+        "approved establishment evidence"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "STANDARD FORMAT FOR EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD",
+      "summary": "Provides a standard format for information exchange on rejected imported food, specifying the categories of information to be supplied as available (identification of food, importation details, decision details, reasons for rejection and supporting evidence, and action taken).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "Identification of the food concerned",
+      "summary": "Specifies required product identification details for rejected consignments, including description and quantity, HS code, packaging type/size, lot identification, transport/container details, identification marks, certificate number/copy if applicable, and names/addresses/establishment numbers of manufacturer/producer/exporter.",
+      "categories": [
+        "documentation",
+        "packaging",
+        "inspection certification"
+      ],
+      "subcategories": [
+        "food identification heading",
+        "product description",
+        "package details",
+        "lot identification",
+        "transport details",
+        "identification marks",
+        "certificate details",
+        "manufacturer details"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "Importation details",
+      "summary": "Requires importation information such as exporter and importer names and contacts, container and shipping details including port of origin/destination, and the date presented for entry.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "importation details heading",
+        "required information",
+        "exporter details",
+        "importer details",
+        "shipping details",
+        "entry date"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Details of rejection, decision",
+      "summary": "Requires details of the rejection decision including whether the whole or part of the consignment was rejected, name and address of the competent authority making the decision, date of decision, and contact details of the authority that can provide further information on the reason for rejection.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "rejection details heading",
+        "refusal decision",
+        "rejected consignment",
+        "rejecting authority",
+        "decision date",
+        "information authority"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "Reason(s) for rejection",
+      "summary": "Lists possible reasons for rejection that must be specified with supporting evidence, including biological/microbiological contamination, chemical contamination (e.g. heavy metals), pesticide/veterinary residues, radionuclides, incorrect or misleading labelling, compositional or additive non‑conformity, unacceptable organoleptic quality, temperature noncompliance, technical/physical defects, incomplete/incorrect certification, unapproved origin, adulteration, and other reasons.",
+      "categories": [
+        "documentation",
+        "contaminants",
+        "labelling",
+        "composition",
+        "additives",
+        "quality",
+        "storage",
+        "packaging",
+        "inspection certification",
+        "other"
+      ],
+      "subcategories": [
+        "rejection reasons heading",
+        "rejection reasons",
+        "microbiological contamination",
+        "chemical contamination",
+        "residue contamination",
+        "radionuclide contamination",
+        "misleading labelling",
+        "compositional defect",
+        "additive noncompliance",
+        "organoleptic quality",
+        "temperature compliance",
+        "physical defects",
+        "certification compliance",
+        "approved origin",
+        "food adulteration",
+        "other reasons"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "Action taken",
+      "summary": "Specifies actions to report following rejection, such as destruction, holding pending reconditioning or documentation rectification, permitting non‑human use, conditional re‑export, notifying the importer and exporting country authorities/embassy, notifying other likely destination countries, or other actions.",
+      "categories": [
+        "documentation",
+        "other"
+      ],
+      "subcategories": [
+        "action taken heading",
+        "action taken",
+        "destruction action",
+        "held pending rectification",
+        "nonhuman use",
+        "reexport conditions",
+        "importer notification",
+        "exporting authority notification",
+        "destination notification",
+        "other action"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    }
+  ]
+}

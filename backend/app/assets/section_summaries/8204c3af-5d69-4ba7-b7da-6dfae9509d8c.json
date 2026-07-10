@@ -1,0 +1,1145 @@
+{
+  "doc_id": "8204c3af-5d69-4ba7-b7da-6dfae9509d8c",
+  "title": "1. SCOPE",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. SCOPE",
+      "summary": "Scope: applies to groundnuts (Arachis hypogaea) and sets minimum hygiene requirements for farm handling, transportation, storage, in‑shell operations and commercial shelling, covering all raw and dried groundnuts in‑shell and shelled.",
+      "categories": [
+        "scope",
+        "hygiene"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "hygiene requirements"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DESCRIPTION",
+      "summary": "Provides product descriptions and definitions, including terms such as blows (light‑weight damaged in‑shell nuts), curing (drying to safe moisture), farmer’s stock, and defines safe water activity as a measure of free moisture with an aw exceeding 0.70 at 25°C deemed unsafe.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "2.1 Definitions",
+      "summary": "Defines blows (pops), curing, farmer’s stock, and safe water activity (measure of free moisture) and states that an aw exceeding 0.70 at 25°C is unsafe.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "product defect",
+        "processing term",
+        "raw material term",
+        "water activity"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "3. HYGIENE REQUIREMENTS IN PRODUCTION/HARVESTING AREAS",
+      "summary": "Sets comprehensive hygiene requirements for production and harvesting areas, prohibiting cultivation where harmful substances or irrigation water pose health hazards, requiring proper waste disposal and pest protection, mandating rapid curing to safe water activity, hygienic harvesting/handling/equipment, segregation and disposal of unfit material, clean conveyances and storage, and defined receiving, cleaning, shelling, sorting and maintenance procedures to prevent contamination and aflatoxin risk.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "3.1 Environmental Hygiene in Areas from which Raw Materials are derived",
+      "summary": "Requires that food not be grown where harmful substances or irrigation water would create health hazards, mandates proper disposal of human and animal wastes and avoidance of waste accumulation that promotes mould or pests, and states pest and disease treatments must be performed only under qualified supervision and according to official agency recommendations.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "3.1.1 Unsuitable growing or harvesting areas",
+      "summary": "Prohibits growing or harvesting food in areas where the presence of potentially harmful substances would lead to unacceptable levels in the food.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "growing area hazards"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "3.1.2 Protection from contamination by wastes",
+      "summary": "Requires adequate disposal of human and animal wastes to prevent public health or hygiene hazards and directs protection of products from contamination, also prohibiting accumulation of vine or groundnut waste that could promote mould growth or attract rodents or insects.",
+      "categories": [
+        "contaminants",
+        "hygiene"
+      ],
+      "subcategories": [
+        "contamination prevention heading",
+        "waste contamination"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "3.1.3 Irrigation control",
+      "summary": "States that food should not be grown or produced where irrigation water might constitute a health hazard to consumers via the food.",
+      "categories": [
+        "hygiene",
+        "contaminants"
+      ],
+      "subcategories": [
+        "irrigation control",
+        "irrigation water hazard"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "3.1.4 Pest and disease control",
+      "summary": "Requires that pest and disease control measures involving chemical, physical or biological agents be undertaken only by or under direct supervision of personnel competent in potential health hazards and only in accordance with recommendations of the official agency having jurisdiction.",
+      "categories": [
+        "hygiene",
+        "processing"
+      ],
+      "subcategories": [
+        "pest disease control",
+        "pest treatment control"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3.2 Harvesting and Production",
+      "summary": "Sets out harvesting and production requirements for groundnuts including rapid curing to safe water activity to prevent mould/aflatoxin, hygienic harvesting techniques, cleanable equipment and containers, segregation and disposal of obviously unfit nuts, and precautions (storage, pest control, approved pesticides, and humidity control) to protect nuts from biological and chemical contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.2.1 Curing",
+      "summary": "After digging, groundnut pods must be exposed and dried rapidly (sun/wind or controlled supplemental heat avoiding excessive temperatures) to reach a safe water activity to prevent mould and aflatoxin formation, with close monitoring of moisture content or water activity (see referenced subsection for measurement relationship).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "curing heading",
+        "curing conditions"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.2.2 Techniques",
+      "summary": "Harvesting and production methods must be hygienic and operated so as not to pose health hazards or contaminate the product.",
+      "categories": [
+        "processing",
+        "hygiene"
+      ],
+      "subcategories": [
+        "techniques heading",
+        "hygienic handling"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.2.3 Equipment and containers",
+      "summary": "Equipment and containers for harvesting and production must be constructed and maintained to avoid health hazards; reusable containers must be cleanable and, where necessary, disinfectable, and containers previously used for toxic materials must not be reused for food.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "equipment heading",
+        "equipment sanitation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "3.2.4 Removal of obviously unfit materials",
+      "summary": "Damaged, contaminated, insect‑infested, decomposed or otherwise unfit groundnuts should be segregated during harvest/production and disposed of so as to avoid contaminating sound nuts, water supplies, or other crops.",
+      "categories": [
+        "other",
+        "quality"
+      ],
+      "subcategories": [
+        "unfit materials heading",
+        "unfit product segregation"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "3.2.5 Protection of groundnuts from contamination",
+      "summary": "Precautions must protect groundnuts from contamination by animals, pests, biological agents or chemicals, including prompt transfer to suitable storage or processing, preventive fumigation or pesticide treatment where infestation is likely (using agency‑approved methods/chemicals), covered storage, and avoiding high humidity that promotes mould and aflatoxin.",
+      "categories": [
+        "contaminants"
+      ],
+      "subcategories": [
+        "contamination protection heading",
+        "storage contamination"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "3.3 Transportation",
+      "summary": "Transportation requirements cover conveyances and handling: vehicles and handling practices must prevent contamination and moisture problems, with adequate cleaning, ventilation to remove moisture in bulk transport, and special care when moving groundnuts with unsafe moisture levels to prevent spoilage.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.3.1 Conveyances",
+      "summary": "Conveyances used to transport harvested groundnuts must be adequate for the purpose, constructed of cleanable materials and maintainable to avoid contamination, and bulk transport (ships/rail cars) should be well ventilated with dry air to remove respiration moisture and prevent condensation during temperature changes.",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "transport heading",
+        "vehicle requirements"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.3.2 Handling procedures",
+      "summary": "All handling procedures during transport must prevent contamination, and extreme care is required when transporting groundnuts with unsafe moisture to avoid spoilage or deterioration (see referenced moisture subsection).",
+      "categories": [
+        "transport"
+      ],
+      "subcategories": [
+        "handling heading",
+        "transport handling"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.4 Shelling Plant",
+      "summary": "Comprehensive shelling‑plant requirements: buyers should monitor and promote good supplier practices; incoming lots must be inspected, sampled and tested (or rejected) for mould/aflatoxin risk; facilities, unloading, precleaning, shelling, sizing, sorting and special‑area cleaning must prevent contamination and pest infestation, remove foreign material, segregate and destroy aflatoxin‑risk materials, and use dry clean‑up and approved fumigation/sprays as needed.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.4.1 Purchasing of farmer's stock",
+      "summary": "Buyers of farmer's stock groundnuts should monitor lot quality, work with government advisory agencies to correct improper practices, and encourage suppliers to follow the recommended good production practices.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "purchasing heading",
+        "supplier quality monitoring"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.4.2 Receiving and inspection",
+      "summary": "On receipt at the shelling plant, farmer's stock groundnuts must be inspected with origin/history noted, transport vehicles checked for cleanliness/dampness/odours, suspect or wet/infested lots isolated and sampled (including splitting kernels to reveal hidden mould), with excessive mould or A. flavus‑like growth triggering aflatoxin testing or rejection, and warehouses cleaned, sealed against pests and ventilated to prevent condensation.",
+      "categories": [
+        "inspection certification",
+        "storage"
+      ],
+      "subcategories": [
+        "receiving inspection heading",
+        "incoming lot inspection",
+        "warehouse conditions"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.4.3 Unloading equipment and area",
+      "summary": "Unloading equipment and areas (hoppers, conveyors, elevators, dirt removers) must be designed to prevent debris accumulation, be easily inspected and cleaned, be subject to periodic cleaning and pest control, and handling should avoid hull damage to kernels.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "unloading area heading",
+        "unloading equipment"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "3.4.4 Precleaning",
+      "summary": "Precleaning must remove the maximum practicable dust, dirt, foreign material, loose shells and kernels before shelling (using sand screens, aspirators, etc.) to improve sanitation and prevent mechanical problems and extra sorting.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "precleaning heading",
+        "precleaning removal"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "3.4.5 Shelling and sizing",
+      "summary": "Shelling and sizing operations must remove all foreign material (stoners, magnets, sorters), continuously inspect equipment and groundnuts for contamination or damage, make prompt equipment adjustments, perform additional stoning after sizing, and avoid overloading grading equipment.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "shelling sizing heading",
+        "foreign material removal",
+        "stoning and grading"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "3.4.6 Sorting",
+      "summary": "Final sorting (hand or photo‑electric) must be well lit and appropriately staffed/adjusted to remove defective kernels and foreign material, with defective or aflatoxin‑risk material bagged, tagged as unfit, removed from processing, and detoxified or destroyed, since one contaminated kernel can endanger many co‑mingled kernels.",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "sorting heading",
+        "final sorting"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "3.4.7 Cleaning of special areas",
+      "summary": "Special‑area cleaning requires regular removal and cleaning of accumulated material from elevator boots/wells, conveyors, pulleys, hoppers and all machinery, perimeter cleanliness and an adequate pest control program, use of approved fumigation/sprays as needed, and preference for dry clean‑up to avoid wet spots that promote microbial growth.",
+      "categories": [
+        "hygiene",
+        "pest control"
+      ],
+      "subcategories": [
+        "special areas heading",
+        "elevator cleaning",
+        "conveyor cleaning",
+        "hopper cleaning",
+        "machinery cleaning",
+        "perimeter cleanliness",
+        "dry cleanup"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "4. ESTABLISHMENT: DESIGN AND FACILITIES",
+      "summary": "Establishment design and facilities must ensure siting away from contaminants and flooding, durable and cleanable buildings and workflows that prevent pest ingress and cross‑contamination, adequate sanitary facilities (potable water, separate non‑potable lines, effluent/waste disposal, changing/toilet and handwashing facilities, disinfection, lighting and ventilation), secure waste storage, and equipment/utensils made and installed for sanitary design, cleaning, identification and temperature monitoring where appropriate.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "4.1 Location",
+      "summary": "Establishments must be located where they are free from objectionable odours, smoke, dust or other contaminants and are not subject to flooding.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "location heading",
+        "site location"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "4.2 Roadways and Areas used by Wheeled Traffic",
+      "summary": "Roadways and areas used by wheeled traffic within or near the establishment should have hard paved surfaces suitable for traffic, adequate drainage, and provisions to allow cleaning.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "roadways heading",
+        "roadway surfaces"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "4.3 Buildings and Facilities",
+      "summary": "Specifies general requirements for buildings and facilities used in food handling: sound construction and maintenance, adequate working space, hygienic design for cleaning and supervision, pest and environmental contaminant exclusion, separation to prevent cross-contamination, regulated process flow and appropriate temperature control.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 31,
+      "order": 30,
+      "section": "4.3 Buildings and facilities",
+      "summary": "Specifies general requirements for buildings and facilities used in food handling: sound construction and maintenance, adequate working space, hygienic design for cleaning and supervision, pest and environmental contaminant exclusion, separation to prevent cross-contamination, regulated process flow and appropriate temperature control.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 32,
+      "order": 31,
+      "section": "4.3.7 In food handling areas:",
+      "summary": "In food handling areas, floors should be waterproof, non-absorbent, washable, non-slip, non-toxic, without crevices and slope to drains where appropriate; walls should be smooth, light-coloured, washable and sealed where needed; ceilings must prevent dirt and condensation and be easy to clean; windows/openings should avoid dirt accumulation and have cleanable screens and sloped internal sills.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "food area heading",
+        "floor requirements",
+        "wall requirements",
+        "ceiling requirements",
+        "window requirements"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 33,
+      "order": 32,
+      "section": "4.3.8 In food handling areas",
+      "summary": "Overhead structures and fittings in food handling areas must be installed to prevent direct or indirect contamination (e.g., condensation, drips), not impede cleaning, be insulated where appropriate, finished to minimise dirt, condensation, mould and flaking, and be easy to clean.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "overhead fittings"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 34,
+      "order": 33,
+      "section": "4.4 Sanitary Facilities",
+      "summary": "Sets sanitary facility requirements for establishments including potable water supply and protection, separate non-potable lines, efficient effluent and waste disposal, adequate changing and toilet facilities, hand-washing and disinfection provisions, cleaning/disinfection facilities, specified lighting levels and protected fixtures, ventilation preventing dirty-to-clean airflow, and secure storage for waste and inedible material.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 35,
+      "order": 34,
+      "section": "4.4.1 Water supply",
+      "summary": "Requires an ample supply of potable water compliant with CXC 1-1969 sub‑section 7.3, at adequate pressure and suitable temperature with protected storage and distribution; non‑potable water for non‑food uses must be carried in separate, identifiable lines with no cross‑connections or backsiphonage to the potable system.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 36,
+      "order": 35,
+      "section": "4.4.1.2 Non-potable water used for steam production, refrigeration, fire control and other similar purposes not connected with food should be carried in completely separate lines, identifiable preferably by colour, and with no cross-connection with or backsiphonage into the system carrying potable water.",
+      "summary": "Non‑potable water used for steam, refrigeration, fire control and similar non‑food purposes must be carried in completely separate, preferably colour‑identified lines with no cross‑connection or backsiphonage into the potable water system.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "non potable water"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 37,
+      "order": 36,
+      "section": "4.4.2 Effluent and waste disposal",
+      "summary": "Establishments must have an efficient effluent and waste disposal system kept in good repair, with effluent lines sized for peak loads and constructed to avoid contamination of potable water supplies.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "effluent heading",
+        "effluent disposal"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 38,
+      "order": 37,
+      "section": "4.4.3 Changing facilities and toilets",
+      "summary": "Requires adequate, conveniently located changing facilities and toilets designed for hygienic waste removal, well lit/ventilated (and heated where appropriate), not opening onto food areas, and provided with adjacent hand‑washing (warm/hot and cold water), suitable hand‑cleaning agents, hygienic drying means, mixing taps where available, dispensers for paper towels, non‑hand operable taps desirable, and notices to wash hands.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "toilets heading",
+        "toilet facilities"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 39,
+      "order": 38,
+      "section": "4.4.4 Hand washing facilities in processing areas",
+      "summary": "Processing areas must have adequate, conveniently located hand‑washing and drying facilities (and hand disinfection where appropriate) with warm/hot and cold water, suitable hand‑cleaning preparations, mixing taps if available, hygienic drying, sufficient paper towel dispensers where used, preferably non‑hand operable taps, and properly trapped waste pipes to drains.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hand washing heading",
+        "hand washing facilities"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 40,
+      "order": 39,
+      "section": "4.4.5 Disinfection facilities",
+      "summary": "Where appropriate, establishments must provide adequate cleaning and disinfection facilities for implements and equipment constructed of corrosion‑resistant, easily cleaned materials and fitted with means to supply hot and cold water in sufficient quantities.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "disinfection heading",
+        "disinfection facilities"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 41,
+      "order": 40,
+      "section": "4.4.6 Lighting",
+      "summary": "Requires adequate natural or artificial lighting throughout the establishment with minimum intensities of 540 lux at inspection points, 220 lux in work rooms and 110 lux elsewhere, and safety‑protected light fixtures over food to prevent contamination if breakage occurs.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "lighting heading",
+        "lighting requirements",
+        "inspection lighting",
+        "workroom lighting",
+        "other lighting",
+        "light protection"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 42,
+      "order": 41,
+      "section": "4.4.7 Ventilation",
+      "summary": "Mandates adequate ventilation to prevent excessive heat, condensation and dust and to remove contaminated air, with airflow never directed from dirty to clean areas and ventilation openings fitted with removable, non‑corrodible screens for cleaning.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "ventilation heading",
+        "ventilation requirements"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 43,
+      "order": 42,
+      "section": "4.4.8 Facilities for storage of waste and inedible material",
+      "summary": "Requires provision of facilities to store waste and inedible material prior to removal, designed to prevent pest access and to avoid contamination of food, potable water, equipment, buildings and roadways on the premises.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste storage heading",
+        "waste storage"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 44,
+      "order": 43,
+      "section": "4.5 Equipment and Utensils",
+      "summary": "Sets requirements for equipment and utensils: materials must be non‑toxic, non‑absorbent, corrosion‑resistant and cleanable; sanitary design and installation to allow cleaning, inspection and temperature monitoring of refrigerated spaces; and clear identification to prevent use of equipment for inedible materials with edible products.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 45,
+      "order": 44,
+      "section": "4.5.1 Materials",
+      "summary": "Equipment and utensils contacting food must be made of materials that do not transmit toxins, odour or taste, are non‑absorbent, corrosion‑resistant, withstand repeated cleaning and disinfection, have smooth surfaces free of pits/crevices, and avoid use of wood or incompatible material combinations that cause contact corrosion unless they pose no contamination risk.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "materials heading",
+        "equipment materials"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 46,
+      "order": 45,
+      "section": "4.5.2 Sanitary design, construction and installation",
+      "summary": "Equipment must be designed and installed to prevent hygienic hazards and permit thorough cleaning and inspection with stationary equipment accessible for cleaning; containers for inedible material must be leak‑proof and cleanable or disposable and closable; and refrigerated spaces must have temperature measurement or recording devices.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "sanitary design heading",
+        "equipment design",
+        "waste containers",
+        "temperature devices"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 47,
+      "order": 46,
+      "section": "4.5.3 Equipment identification",
+      "summary": "Equipment and utensils used for inedible materials or waste must be clearly identified and must not be used for edible products.",
+      "categories": [
+        "equipment"
+      ],
+      "subcategories": [
+        "identification heading",
+        "equipment identification"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 48,
+      "order": 47,
+      "section": "5. ESTABLISHMENT: HYGIENE REQUIREMENTS",
+      "summary": "Establishment hygiene requirements cover maintenance of facilities in good repair, cleaning and disinfection procedures and schedules, appointment of a responsible cleaning officer, by‑product handling, waste storage and daily removal, exclusion of uncontrolled/domestic animals, continuous pest control with supervised eradication measures and restricted pesticide use, secure labelling and storage of hazardous substances, and prohibition of personal effects in food areas.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 49,
+      "order": 48,
+      "section": "5.1 Maintenance",
+      "summary": "Requires buildings, equipment, utensils and other physical facilities (including drains) to be maintained in good repair and orderly condition and, where practicable, rooms kept free from steam, vapour and surplus water.",
+      "categories": [
+        "maintenance"
+      ],
+      "subcategories": [
+        "maintenance heading",
+        "facility upkeep"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 50,
+      "order": 49,
+      "section": "5.2 Cleaning and Disinfection",
+      "summary": "Establishes cleaning and disinfection obligations: procedures must meet this Code (see General Principles Appendix I), equipment and utensils must be cleaned as frequently as necessary and disinfected when required, precautions must prevent contamination by cleaning agents (agents must be suitable and acceptable to the official agency and residues removed by thorough rinsing per the General Principles), floors/drains/walls should be thoroughly cleaned daily or as appropriate, and changing facilities, toilets and adjacent roadways/yards must be kept clean.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "cleaning heading",
+        "cleaning requirements",
+        "cleaning frequency",
+        "cleaning precautions",
+        "daily cleaning",
+        "sanitary facilities",
+        "premises cleanliness"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 51,
+      "order": 50,
+      "section": "5.3 Hygiene Control Programme",
+      "summary": "Requires a permanent cleaning and disinfection schedule for each establishment that designates critical areas/equipment for special attention and appoints a single responsible person (preferably permanent staff, independent of production) with thorough understanding of contamination hazards, while all cleaning personnel must be well trained.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hygiene control heading",
+        "cleaning schedule"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 52,
+      "order": 51,
+      "section": "5.4 By-Products",
+      "summary": "By-products must be stored to avoid contaminating food and removed from working areas as often as necessary and at least daily.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "by-products heading",
+        "by-product storage"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 53,
+      "order": 52,
+      "section": "5.5 Storage and Disposal of Waste",
+      "summary": "Waste must be handled to prevent contamination of food or potable water and access by pests, removed from working areas as often as necessary and at least daily, and after disposal receptacles, any equipment contacting the waste and the waste storage area must be cleaned and disinfected.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "waste heading",
+        "waste disposal"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 54,
+      "order": 53,
+      "section": "5.6 Exclusion of Domestic Animals",
+      "summary": "Animals that are uncontrolled or could pose a health hazard must be excluded from establishments.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "animals heading",
+        "animal exclusion"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 55,
+      "order": 54,
+      "section": "5.7 Pest Control",
+      "summary": "Requires an effective, continuous pest-control programme with regular inspections; if pests enter, eradication and control measures using chemical, physical or biological agents must be supervised by personnel knowledgeable of health hazards and carried out per official agency recommendations; pesticides should be a last resort and applied so as to safeguard food/equipment, with thorough cleaning to remove residues afterwards.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 56,
+      "order": 55,
+      "section": "5.7.3 Pesticides should only be used if other precautionary measures cannot be used effectively.  Before pesticides are applied, care should be taken to safeguard all food, equipment and utensils from contamination. After application, contaminated equipment and utensils should be thoroughly cleaned to remove residues prior to being used again.",
+      "summary": "States that pesticides should be used only when other measures are ineffective, with care to safeguard all food, equipment and utensils from contamination before application and to thoroughly clean contaminated equipment/utensils afterwards to remove residues.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "pesticide application"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 57,
+      "order": 56,
+      "section": "5.8 Storage of Hazardous Substances",
+      "summary": "Hazardous substances (including pesticides) must be labelled with toxicity/use warnings, stored in locked dedicated rooms or cabinets and dispensed/handled only by authorized, properly trained personnel or under strict supervision with care to avoid contaminating food; except for necessary hygienic or processing purposes, no substance that could contaminate food should be used or stored in food handling areas.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 58,
+      "order": 57,
+      "section": "5.8.1 Pesticides or other substances which may represent a hazard to health should be suitably labelled with a warning about their toxicity and use.  They should be stored in locked rooms or cabinets used only for that purpose and dispensed and handled only by authorized and properly trained personnel or by persons under strict supervision of trained personnel.  Extreme care should be taken to avoid contaminating food.",
+      "summary": "Requires pesticides or other hazardous substances to be labelled with toxicity warnings, stored locked in dedicated rooms/cabinets and handled or dispensed only by authorized, properly trained personnel or under strict supervision, with extreme care to prevent food contamination.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "pesticide storage"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 59,
+      "order": 58,
+      "section": "5.8.2 Except when necessary for hygienic or processing purposes, no substance which could contaminate food should be used or stored in food handling areas.",
+      "summary": "Except when needed for hygienic or processing purposes, no substance capable of contaminating food may be used or stored in food handling areas.",
+      "categories": [
+        "pest control"
+      ],
+      "subcategories": [
+        "hazardous substances"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 60,
+      "order": 59,
+      "section": "5.9 Personal Effects and Clothing",
+      "summary": "Personal effects and clothing must not be deposited in food handling areas.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal effects heading",
+        "personal effects"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 61,
+      "order": 60,
+      "section": "6. PERSONNEL HYGIENE AND HEALTH REQUIREMENTS",
+      "summary": "Sets comprehensive personnel hygiene and health requirements: managers must provide ongoing hygiene training; medical examinations are required where the official agency deems necessary and when indicated; persons with communicable diseases, infected wounds or diarrhoea must be excluded from food handling roles; cuts must be sealed with conspicuous waterproof coverings and first-aid provided; frequent supervised handwashing under running warm water and notices are required; staff must maintain high personal cleanliness and wear cleanable protective clothing (remove non-disinfectable or insecure jewellery); prohibited behaviours (eating, tobacco, chewing, spitting) apply in food areas; gloves must be sanitary and do not replace handwashing; and visitors must be controlled to prevent contamination.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 62,
+      "order": 61,
+      "section": "6.1 Hygiene Training",
+      "summary": "Managers must provide adequate, continuing training for all food handlers in hygienic food handling and personal hygiene, including relevant parts of this Code.",
+      "categories": [
+        "training"
+      ],
+      "subcategories": [
+        "training heading",
+        "food handler training"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 63,
+      "order": 62,
+      "section": "6.2 Medical Examination",
+      "summary": "Persons who contact food should have a pre-employment medical examination if the official agency, on medical advice, considers it necessary due to epidemiology, the food prepared, or the applicant's medical history, and medical exams should be repeated when clinically or epidemiologically indicated.",
+      "categories": [
+        "inspection certification"
+      ],
+      "subcategories": [
+        "medical examination heading",
+        "pre-employment exam"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 64,
+      "order": 63,
+      "section": "6.3 Communicable Diseases",
+      "summary": "Management must ensure that anyone known or suspected to have a disease transmissible through food, to be a carrier, or to have infected wounds/skin infections/sores or diarrhoea is not permitted to work in any capacity likely to contaminate food, and such persons must report their illness to management.",
+      "categories": [
+        "inspection certification",
+        "hygiene"
+      ],
+      "subcategories": [
+        "disease control heading",
+        "illness exclusion"
+      ],
+      "page_range": {
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "section_id": 65,
+      "order": 64,
+      "section": "6.4 Injuries",
+      "summary": "Workers with cuts or wounds must not handle food or food-contact surfaces until the injury is fully protected by a conspicuous, firmly secured waterproof covering, and adequate first-aid facilities must be provided.",
+      "categories": [
+        "inspection certification",
+        "hygiene"
+      ],
+      "subcategories": [
+        "injuries heading",
+        "injury protection"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 66,
+      "order": 65,
+      "section": "6.5 Washing of Hands",
+      "summary": "Workers in food handling areas must wash hands frequently and thoroughly with a suitable hand-cleaning preparation under running warm water (per the General Principles), before work, after toilet use, after handling contaminated material and as otherwise necessary; hands should be disinfected when needed, hand-washing notices displayed and supervision provided to ensure compliance.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "hand washing heading",
+        "hand washing"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 67,
+      "order": 66,
+      "section": "6.6 Personal Cleanliness",
+      "summary": "Personnel must maintain high personal cleanliness and wear suitable protective clothing (including head covering and footwear) that is cleanable or disposable and kept clean, aprons should not be washed on the floor, and jewellery that cannot be adequately disinfected or that is insecure must be removed during food handling.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal cleanliness",
+        "protective clothing"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 68,
+      "order": 67,
+      "section": "6.7 Personal Behaviour",
+      "summary": "Prohibits behaviors that could contaminate food—such as eating, tobacco use, chewing (gum, betel, etc.) and spitting—in food handling areas.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personal behaviour",
+        "behaviour prohibition"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 69,
+      "order": 68,
+      "section": "6.8 Gloves",
+      "summary": "If gloves are used for handling food they must be maintained in a sound, clean and sanitary condition, and wearing gloves does not exempt the operator from thoroughly washing hands.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "glove hygiene",
+        "glove sanitation"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 70,
+      "order": 69,
+      "section": "6.9 Visitors",
+      "summary": "Requires precautions to prevent visitors to food handling areas contaminating food (e.g., use of protective clothing) and directs visitors to observe Sub‑Sections 5.9, 6.3, 6.4 and 6.7.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "visitor control",
+        "visitor precautions"
+      ],
+      "page_range": {
+        "start_page": 12,
+        "end_page": 12
+      }
+    }
+  ]
+}

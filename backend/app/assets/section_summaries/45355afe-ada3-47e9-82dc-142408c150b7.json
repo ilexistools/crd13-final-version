@@ -1,0 +1,469 @@
+{
+  "doc_id": "45355afe-ada3-47e9-82dc-142408c150b7",
+  "title": "PRINCIPLES AND GUIDELINES FOR THE CONDUCT OF MICROBIOLOGICAL RISK ASSESSMENT CAC/GL 30-1999",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "PRINCIPLES AND GUIDELINES FOR THE CONDUCT OF MICROBIOLOGICAL RISK ASSESSMENT CAC/GL 30-1999",
+      "summary": "Document title and history: 'Principles and Guidelines for the Conduct of Microbiological Risk Assessment (CAC/GL 30‑1999)' — adopted 1999 with amendments in 2012 and 2014.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "document title",
+        "adoption history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Introduces microbiological risk analysis as comprising Risk Assessment, Risk Management and Risk Communication, states this document focuses on Risk Assessment using a structured, science‑based approach with quantitative information encouraged, and notes implementation may require time and specialized training, especially in developing countries.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "introduction"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "SCOPE",
+      "summary": "Scope statement: applies to Risk Assessment of microbiological hazards in food (with a footnote noting applicability to feed/feed ingredients when they could impact food safety).",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "DEFINITIONS",
+      "summary": "Provides definitions of key terms used in the document (e.g., dose‑response assessment, exposure assessment, hazard identification/characterization, risk assessment/characterization, risk communication, risk management, sensitivity and uncertainty analysis, transparent) and notes applicability to feed where relevant to food safety.",
+      "categories": [
+        "definition",
+        "scope"
+      ],
+      "subcategories": [
+        "definitions heading",
+        "definition preface",
+        "dose response",
+        "exposure assessment",
+        "hazard definition",
+        "hazard characterization",
+        "hazard identification",
+        "quantitative risk assessment",
+        "qualitative risk assessment",
+        "risk definition",
+        "risk analysis",
+        "risk assessment",
+        "risk characterization",
+        "footnote applicability",
+        "risk communication",
+        "risk estimate",
+        "risk management",
+        "sensitivity analysis",
+        "transparent definition",
+        "uncertainty analysis"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "GENERAL PRINCIPLES OF MICROBIOLOGICAL RISK ASSESSMENT",
+      "summary": "Sets general principles for microbiological risk assessment: it must be science‑based, maintain functional separation from risk management while allowing transparent interactions, follow the structured four‑step approach, state purpose and output, disclose constraints and uncertainties, use quality data, consider microbiological dynamics, and be reassessed as new information becomes available.",
+      "categories": [
+        "risk assessment",
+        "analysis sampling"
+      ],
+      "subcategories": [
+        "general principles heading",
+        "scientific basis",
+        "functional separation",
+        "structured approach",
+        "purpose statement",
+        "transparency principle",
+        "constraints disclosure",
+        "uncertainty description",
+        "data quality",
+        "biological dynamics",
+        "periodic reassessment",
+        "reevaluation update"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "GUIDELINES FOR APPLICATION",
+      "summary": "Heading and introduction to application guidelines: outlines elements of a microbiological risk assessment and indicates subsections covering general considerations, statement of purpose, hazard identification, exposure assessment, hazard characterization and risk characterization.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "5.1 General Considerations",
+      "summary": "General considerations: maintain functional separation between assessment and management but allow transparent interactions, solicit interested‑party input when practical, prefer high‑quality quantitative data while acknowledging value of qualitative information, and document resource or other constraints and their impacts on the Risk Estimate.",
+      "categories": [
+        "risk assessment",
+        "documentation"
+      ],
+      "subcategories": [
+        "general considerations heading",
+        "risk management interface",
+        "stakeholder input",
+        "data uncertainty",
+        "constraint record"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "5.2 Statement of Purpose of Risk Assessment",
+      "summary": "Requires a clear statement of the specific purpose and defined output form of the Risk Assessment (e.g., prevalence, incidence, illness rate/severity) and notes a preliminary investigation phase may be needed to map evidence for farm‑to‑table modelling.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "purpose statement",
+        "output definition",
+        "preliminary investigation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "5.3 Hazard Identification",
+      "summary": "Describes hazard identification as a predominantly qualitative process to identify microorganisms or microbial toxins of concern using scientific literature, surveillance, clinical and laboratory studies, databases and expert opinion, considering the full food chain from production to consumption.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard identification",
+        "hazard sources"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "5.4 Exposure Assessment",
+      "summary": "Defines exposure assessment as estimating actual or anticipated human exposure to microbiological agents in food, specifying the food unit of interest and considering contamination frequency/levels and factors affecting these (agent traits, ecology, production, processing, storage, handling, consumption patterns), constructing scenarios from production to consumption and using predictive microbiology; foods may also be qualitatively categorized by contamination/growth potential.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "exposure assessment",
+        "exposure factors",
+        "exposure pathway"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "5.5 Hazard Characterization",
+      "summary": "Guides hazard characterization to describe the severity and duration of adverse effects and, where possible, establish dose‑response relationships; highlights relevant microorganism factors (replication, virulence, genetic transfer, transmission, delayed onset, persistence) and host factors (age, immunity, health), and allows expert elicitation or ranking when empirical dose‑response data are lacking.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard characterization",
+        "dose response",
+        "microbial factors",
+        "host factors"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "5.6 Risk Characterization",
+      "summary": "Defines risk characterization as the integration of hazard identification, hazard characterization and exposure assessment to produce qualitative or quantitative Risk Estimates with attendant uncertainties, recommends comparison with epidemiological data, and advises use of sensitivity and uncertainty analyses to demonstrate the influence of assumptions and variability.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk characterization",
+        "risk estimate",
+        "weight of evidence",
+        "uncertainty analysis",
+        "sensitivity analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "5.7 Documentation",
+      "summary": "Requires that a Microbiological Risk Assessment be fully and systematically documented and communicated to the risk manager, with a formal record and summary made available to independent parties that identifies expert judgements, constraints, uncertainties, assumptions and their impacts to ensure transparency and repeatability.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "documentation heading",
+        "formal record"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "5.8 Reassessment",
+      "summary": "States that surveillance and new data should trigger reassessment of microbiological public‑health risks, recommending comparison of modelled risk estimates with reported human illness data and revisiting the assessment when new relevant information becomes available.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "reassessment",
+        "reassessment review"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "4. GENERAL PRINCIPLES OF MICROBIOLOGICAL RISK ASSESSMENT",
+      "summary": "Sets general principles for Microbiological Risk Assessment: it must be science‑based, functionally separated from risk management, follow a structured approach (hazard identification, characterization, exposure assessment, risk characterization), state its purpose and output form, be transparent, disclose constraints and uncertainties, use sufficiently high‑quality data, consider microbial dynamics and host interactions, and be reassessed over time as new information becomes available.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "general principles heading",
+        "scientific basis",
+        "functional separation",
+        "structured approach",
+        "purpose statement",
+        "transparency principle",
+        "constraint disclosure",
+        "uncertainty disclosure",
+        "data quality",
+        "microbial dynamics",
+        "reassessment review"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "## 5. GUIDELINES FOR APPLICATION",
+      "summary": "Outlines the Guidelines for Application by providing an overview of the elements and decision points of a Microbiological Risk Assessment—covering general considerations, purpose, hazard identification, exposure assessment, hazard characterization, risk characterization, documentation and reassessment—to guide systematic application at each step.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "## 5.1 General Considerations",
+      "summary": "Explains general risk‑analysis considerations: Risk Assessment, Risk Management and Risk Communication are distinct but must interact transparently; stakeholder contributions are encouraged to improve transparency and quality; limited or conflicting evidence requires transparent decisions; and resource constraints should be documented and their impacts evaluated in the formal record.",
+      "categories": [
+        "risk assessment",
+        "documentation"
+      ],
+      "subcategories": [
+        "general considerations heading",
+        "risk analysis principles",
+        "stakeholder participation",
+        "uncertainty handling",
+        "formal record"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "5.2 Statement of Purpose of Risk Assessment",
+      "summary": "Requires that the specific purpose and intended output form of a Risk Assessment be clearly stated at the outset (e.g., estimates of prevalence, incidence, or illness per eating occurrence) and notes that a preliminary investigation (e.g., farm‑to‑table mapping) may be needed to support modelling.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "purpose heading",
+        "assessment purpose",
+        "preliminary investigation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "5.3 Hazard Identification",
+      "summary": "Defines Hazard Identification for microbial agents as primarily a qualitative process to identify microorganisms or microbial toxins of concern using scientific literature, databases, surveillance and expert input, considering evidence from clinical, epidemiological, laboratory and food‑chain studies.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard identification heading",
+        "hazard identification"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "5.4 Exposure Assessment",
+      "summary": "Specifies that Exposure Assessment estimates actual or anticipated human exposure to microbiological agents by considering unit/portion size, contamination frequency and levels over time, pathogen and food ecology, processing, storage, preparation and consumption patterns, constructing farm‑to‑consumption pathways and scenarios (using predictive microbiology where useful) to quantify levels and likelihoods at time of consumption.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "exposure assessment heading",
+        "exposure assessment",
+        "exposure factors",
+        "exposure pathway",
+        "exposure estimation"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "5.5 Hazard Characterization",
+      "summary": "Describes Hazard Characterization as a qualitative or quantitative description of severity and duration of adverse effects from ingesting a microorganism/toxin, calling for dose–response assessment when possible and consideration of microbial factors (replication, virulence, genetic transfer, transmission, persistence) and host factors (age, immunity, genetics, health status), with expert elicitation and ranking tools where dose–response data are lacking.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "hazard characterization heading",
+        "hazard characterization",
+        "microbial factors",
+        "host factors",
+        "dose response"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "5.6 Risk Characterization",
+      "summary": "Defines Risk Characterization as integrating hazard identification, hazard characterization and exposure assessment to produce a qualitative or quantitative Risk Estimate with uncertainties, relying on weight of evidence and expert judgement, and requiring differentiation of uncertainty and variability and use of sensitivity/uncertainty analyses for quantitative assessments.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "risk characterization heading",
+        "risk estimate",
+        "weight of evidence",
+        "uncertainty and variability",
+        "sensitivity analysis"
+      ],
+      "page_range": {
+        "start_page": 6,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "5.7 Documentation",
+      "summary": "(Duplicate of 5.7) Requires that a Microbiological Risk Assessment be fully and systematically documented and communicated to the risk manager, with a formal record and summary made available to independent parties that identifies expert judgements, constraints, uncertainties, assumptions and their impacts to ensure transparency and repeatability.",
+      "categories": [
+        "documentation"
+      ],
+      "subcategories": [
+        "documentation heading",
+        "risk assessment record"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "5.8 Reassessment",
+      "summary": "(Duplicate of 5.8) States that surveillance and new data should trigger reassessment of microbiological public‑health risks, recommending comparison of modelled risk estimates with reported human illness data and revisiting the assessment when new relevant information becomes available.",
+      "categories": [
+        "risk assessment"
+      ],
+      "subcategories": [
+        "reassessment heading",
+        "reassessment process"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "doc_id": "f0f2bc01-51cd-492c-aa5c-20dda178bd8a",
+  "title": "CODE OF HYGIENIC PRACTICE FOR FRESH FRUITS AND VEGETABLES",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "CODE OF HYGIENIC PRACTICE FOR FRESH FRUITS AND VEGETABLES",
+      "summary": "Document title and bibliographic info: Code of Hygienic Practice for Fresh Fruits and Vegetables (CXC 53‑2003), adopted 2003 and revised with annexes/updates in 2010, 2012, 2013 and 2017.",
+      "categories": [
+        "other",
+        "documentation"
+      ],
+      "subcategories": [
+        "document title",
+        "document code",
+        "revision history"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "INTRODUCTION",
+      "summary": "Introductory background noting increased consumption of fruits and vegetables benefits health but rising foodborne illness reports have raised safety concerns, and listing microbiological pathogens associated with fresh produce (e.g. Salmonella, Shigella, Campylobacter, pathogenic E. coli, Listeria, Yersinia, norovirus, hepatitis A, and parasites like Cyclospora, Giardia, Cryptosporidium).",
+      "categories": [
+        "other"
+      ],
+      "subcategories": [
+        "introduction heading",
+        "introductory background",
+        "pathogen overview"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "1. OBJECTIVES OF THE CODE",
+      "summary": "States the Code's objective to set out Good Agricultural Practices (GAPs) and Good Hygienic Practices (GHPs) to control microbial, chemical and physical hazards across all stages from primary production to consumption, with flexibility to accommodate diverse production systems and recognition that some provisions may be difficult to implement in small or traditional holdings.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "objectives heading",
+        "code objectives",
+        "implementation flexibility"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "2. SCOPE, USE AND DEFINITIONS",
+      "summary": "Scope and use: the Code covers hygienic practices from primary production to consumption for fresh fruits and vegetables (especially those eaten raw), applies to open and protected production systems, focuses on microbial hazards while addressing physical/chemical risks insofar as they relate to GAPs/GHPs, and is to be used alongside the General Principles of Food Hygiene and related codes and guidelines with flexibility in application and commodity‑specific annexes.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "2.1 Scope",
+      "summary": "Reiterates the Code's scope: it addresses hygienic practices from primary production through consumption for fresh fruits and vegetables (including those grown in open fields and protected facilities) with annexes providing additional recommendations for specific commodities such as ready‑to‑eat produce, sprouts, leafy vegetables, melons and berries.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "annex applicability"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "2.2 Use",
+      "summary": "Explains the Code's use: it follows the format of the General Principles of Food Hygiene and should be applied in conjunction with related guidelines and codes (e.g. on parasites, viruses, packaging/transport, frozen foods, antimicrobial resistance), emphasizing proportionality of measures to risk and the need for flexible implementation according to commodity characteristics.",
+      "categories": [
+        "scope"
+      ],
+      "subcategories": [
+        "use heading",
+        "related standards"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "order": 6,
+      "section": "2.3 Definitions",
+      "summary": "States that general expressions are defined in the General Principles of Food Hygiene and provides numerous specific definitions for terms used in the Code (e.g. agricultural inputs, agricultural worker, biocides, biological control, biofilm, biosolids, composting, cull, cultivation, farm, flooding, grower, greenhouse, harvester, hydroponics, manure, micro‑organisms, packer, packing, packhouse, post‑harvest activities, primary production, ready‑to‑eat, SOPs).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 3
+      }
+    },
+    {
+      "section_id": 8,
+      "order": 7,
+      "section": "2.3.1 Agricultural inputs",
+      "summary": "Defines \"Agricultural inputs\" as any incoming material (e.g. seeds, fertilizers including compost, water, agricultural chemicals, plant support) used in the primary production of fresh fruits and vegetables.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "agricultural inputs"
+      ],
+      "page_range": {
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 9,
+      "order": 8,
+      "section": "Types of water:",
+      "summary": "Defines types of water relevant to production: \"clean water\" as water that does not compromise food safety in its use, and \"potable water\" as water meeting drinking‑water quality standards such as WHO Guidelines for Drinking‑water Quality.",
+      "categories": [
+        "definition"
+      ],
+      "subcategories": [
+        "water types heading",
+        "clean water",
+        "potable water"
+      ],
+      "page_range": {
+        "start_page": 3,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 10,
+      "order": 9,
+      "section": "3. PRIMARY PRODUCTION",
+      "summary": "Primary production overview: producers must consider site‑specific biological, chemical and physical hazards across diverse production systems, conduct primary production under good hygienic conditions, and implement procedures that minimize contamination risks arising from production practices and the production environment.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 12
+      }
+    },
+    {
+      "section_id": 11,
+      "order": 10,
+      "section": "3.1 Environmental Hygiene",
+      "summary": "Requires identification and assessment of potential environmental contamination sources before primary production, including evaluating past and adjacent land uses and analysing sites where hazards are suspected, with measures to minimize contamination and the recommendation to avoid use of sites where risks are serious; it also advises growers to assess the need to postpone harvest or apply mitigation when heavy rains or flooding increase contamination risk and to avoid raw consumption of produce contacted by flood waters unless treated to reduce risk.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 12,
+      "order": 11,
+      "section": "3.1.1 Location of the Production Site",
+      "summary": "Site location guidance: evaluate production sites for slope, runoff and flood risk and proximity to high‑risk facilities (e.g. animal production, hazardous waste), implement runoff/flood mitigation (e.g. mapping, terracing, diversion ditches), and use windbreaks or coverings to reduce dust, drift or aerosol contamination.",
+      "categories": [
+        "scope",
+        "risk management",
+        "other",
+        "definition",
+        "contaminants"
+      ],
+      "subcategories": [
+        "site location heading",
+        "site risk assessment",
+        "contamination source risk",
+        "runoff mitigation",
+        "dust drift control",
+        "divider artifact",
+        "irrigation definition",
+        "environmental contaminant risk"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "order": 12,
+      "section": "3.1.2 Animals and human activity",
+      "summary": "Animal and human activity controls: recognize humans and animals as potential carriers of pathogens and, where risks are significant, minimize contamination by excluding animals (physical barriers, deterrents, cultural methods), designing sites to deter vectors, assessing signs of wildlife/domestic animal activity to decide on harvest suitability, and restricting non‑essential visitors in harvest areas.",
+      "categories": [
+        "risk management",
+        "pest control"
+      ],
+      "subcategories": [
+        "animals heading",
+        "animal contamination risk",
+        "animal exclusion methods",
+        "vector prevention",
+        "wildlife assessment",
+        "visitor control"
+      ],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "order": 13,
+      "section": "## 3.2 Hygienic primary production of fresh fruits and vegetables",
+      "summary": "Section heading only: introduces hygienic primary production of fresh fruits and vegetables; no substantive provisions in this entry.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "order": 14,
+      "section": "## 3.2.1 Agricultural  inputs  should  not  contain  contaminants  (as  defined  under the General  Principles  of  Food Hygiene (CXC 1-1969)) at levels  that  may  adversely  affect the  safety  of  fresh  fruits  and  vegetables,  and should take into consideration the WHO guidelines on the safe use of wastewater and excreta in agriculture and aquaculture , as appropriate.",
+      "summary": "Requires agricultural inputs for fresh fruits and vegetables not to contain contaminants (per CXC 1-1969) at levels that may adversely affect safety and advises taking into account WHO guidelines on safe use of wastewater and excreta in agriculture and aquaculture where appropriate.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "order": 15,
+      "section": "## 3.2.1.1 Water for primary production",
+      "summary": "Mandates an adequate supply of water of suitable quality for primary production and that water contacting edible portions must not compromise safety; growers must identify water sources, assess and test microbial/chemical quality per risk, consult competent authorities as needed, implement corrective actions (e.g. fencing, well maintenance, filtration, treatment), verify effectiveness by testing, and have contingency sources where possible.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 5,
+        "end_page": 6
+      }
+    },
+    {
+      "section_id": 17,
+      "order": 16,
+      "section": "3.2.1.1.1 Water for irrigation and harvesting",
+      "summary": "States that irrigation/application method, timing, water quality and whether water contacts edible portions determine contamination risk (overhead irrigation highest, subsurface/drip lowest) and advises special attention close to harvest and for rough-surfaced or field-packed produce, plus evaluation of distribution systems and establishment of no-harvest zones where source water is or may be contaminated with human pathogens.",
+      "categories": [
+        "processing",
+        "risk management"
+      ],
+      "subcategories": [
+        "water use heading",
+        "irrigation method risk",
+        "water quality use",
+        "direct water exposure",
+        "leaf surface risk",
+        "postharvest wash risk",
+        "additional measures",
+        "water system inspection",
+        "no-harvest zones"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 18,
+      "order": 17,
+      "section": "3.2.1.1.2 Water for fertilizers, pest control and other agricultural chemicals",
+      "summary": "Requires that water used to apply water‑soluble fertilizers, pesticides and other agricultural chemicals be of the same quality as direct-contact irrigation water and free of microbial contaminants that could affect fresh produce safety, noting that human pathogens can survive or grow in agrichemicals.",
+      "categories": [
+        "processing",
+        "contaminants"
+      ],
+      "subcategories": [
+        "agricultural water uses",
+        "water contamination"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 19,
+      "order": 18,
+      "section": "3.2.1.1.3 Hydroponic water",
+      "summary": "Notes hydroponic nutrient solutions may enhance pathogen survival, and requires maintaining water quality by frequent changes or treating recycled solutions, cleaning and maintaining delivery systems, and treating aquaponics effluent to minimize microbial and chemical contamination.",
+      "categories": [
+        "processing",
+        "risk assessment",
+        "risk management"
+      ],
+      "subcategories": [
+        "hydroponic water",
+        "hydroponic risk",
+        "hydroponic controls",
+        "water treatment",
+        "system maintenance",
+        "aquaponics treatment"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 20,
+      "order": 19,
+      "section": "3.2.1.1.4 Water for other agricultural uses",
+      "summary": "Advises using clean water for other agricultural purposes (e.g., dust abatement, road maintenance) in areas where produce is grown, except where that water cannot reach the produce (e.g., tall trees or indoor cultivation).",
+      "categories": [
+        "processing"
+      ],
+      "subcategories": [
+        "agricultural water uses",
+        "other agricultural water"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "section_id": 21,
+      "order": 20,
+      "section": "3.2.1.2 Manure, biosolids and other natural fertilizers",
+      "summary": "Requires managing manure, biosolids and other natural fertilizers to limit microbial, chemical and physical contamination: use appropriate treatment (e.g., full composting, pasteurization) and only apply treated materials in ways that do not contaminate produce, avoid use close to harvest unless safe, obtain supplier documentation on origin/treatment/tests, minimize cross-contamination/runoff from adjoining fields, and site treatment/storage away from production areas.",
+      "categories": [
+        "processing",
+        "risk management",
+        "documentation",
+        "location"
+      ],
+      "subcategories": [
+        "natural fertilizers",
+        "fertilizer contamination",
+        "fertilizer controls",
+        "fertilizer treatment",
+        "composting practices",
+        "aerobic composting",
+        "anaerobic composting",
+        "supplier records",
+        "preharvest fertilizer use",
+        "adjoining field contamination",
+        "site separation",
+        "runoff prevention"
+      ],
+      "page_range": {
+        "start_page": 7,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 22,
+      "order": 21,
+      "section": "3.2.1.3 Soil",
+      "summary": "Requires evaluation of soils for hazards and implementation of controls (e.g., topsoil replacement, solar-heat disinfection) or avoidance of use if hazards cannot be reduced, and encourages production practices (e.g., site selection, mulch) to minimize direct contact between produce and soil.",
+      "categories": [
+        "processing",
+        "risk management"
+      ],
+      "subcategories": [
+        "soil management",
+        "soil hazard control",
+        "soil contact"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "section_id": 23,
+      "order": 22,
+      "section": "3.2.1.4 Agricultural chemicals",
+      "summary": "Permits only authorized agricultural chemicals used per manufacturer instructions and requires residues not exceed Codex limits; mandates applicator training, application records (date, chemical, crop, target, concentration, method, frequency), calibration of sprayers and appropriate pre-harvest intervals, and further requires mixing and wash-water management to avoid environmental contamination, proper storage and labeling, and manufacturer-specified disposal of chemicals and empty containers.",
+      "categories": [
+        "processing",
+        "contaminants",
+        "training",
+        "documentation",
+        "risk management",
+        "storage",
+        "packaging"
+      ],
+      "subcategories": [
+        "agricultural chemicals",
+        "chemical residues",
+        "chemical application training",
+        "application records",
+        "mixing controls",
+        "equipment cleaning",
+        "chemical storage",
+        "empty containers"
+      ],
+      "page_range": {
+        "start_page": 8,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 24,
+      "order": 23,
+      "section": "3.2.1.5 Biological control",
+      "summary": "Requires considering consumer safety when using biological control organisms or their metabolites for pest and spoilage control and using only biological controls authorized for the specific crop and used according to the manufacturer's instructions.",
+      "categories": [
+        "processing",
+        "risk management"
+      ],
+      "subcategories": [
+        "biological control",
+        "biocontrol safety",
+        "biological control use"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 25,
+      "order": 24,
+      "section": "3.2.2 Indoor facilities associated with growing and harvesting",
+      "summary": "Indoor growing/harvesting premises (e.g., greenhouses, high tunnels) must be suitable and maintained to prevent contamination and pest harbourage, with attention to equipment storage, waste removal, weed control, drainage to prevent runoff and pooling, and measures to minimize risks from surrounding land use.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 26,
+      "order": 25,
+      "section": "3.2.2.1 Location, design and layout",
+      "summary": "Premises and structures for storing or packing fresh produce and food-contact equipment must be located, designed, constructed and maintained to avoid contamination and pest harbourage, and internal layout must permit compliance with good hygienic practices tailored to each product and establishment.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "facility layout",
+        "premises design",
+        "internal layout"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "section_id": 27,
+      "order": 26,
+      "section": "3.2.2.2 Water supply",
+      "summary": "Indicates indoor production facilities must have an adequate supply of clean water with appropriate storage and distribution, segregated and identified non‑potable systems that do not connect to potable supplies, measures to avoid contamination by agricultural inputs, regular cleaning/disinfection of storage, and water quality control, referencing irrigation and hydroponic water provisions.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "water supply heading",
+        "water supply quality",
+        "water contamination prevention",
+        "water system sanitation",
+        "water quality control"
+      ],
+      "page_range": {
+        "start_page": 9,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 28,
+      "order": 27,
+      "section": "3.2.2 Drainage and waste disposal",
+      "summary": "Requires adequate drainage and waste disposal systems designed to avoid contaminating produce, agricultural inputs or water supplies, including maintaining good external drainage to eliminate standing water, prompt removal and off-site storage of waste and plant debris, and regular emptying of refuse containers.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "drainage heading",
+        "waste disposal systems",
+        "drainage considerations",
+        "drainage maintenance",
+        "waste removal",
+        "plant debris removal",
+        "refuse container management"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 29,
+      "order": 28,
+      "section": "3.2.3 Personnel health, hygiene and sanitary facilities",
+      "summary": "States personnel who contact produce during or after harvest must follow hygiene and health requirements to avoid contaminating produce; glove-use procedures (including handwashing, cleaning or disposal rules) should be documented and SOPs or records should cover worker training, facilities, supplies and illness‑reporting, with records acceptable in smallholder contexts where written SOPs are not feasible.",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "section_id": 30,
+      "order": 29,
+      "section": "3.2.3.1 Personnel hygiene and sanitary facilities",
+      "summary": "Requires accessible, appropriately located and gender‑suitable sanitary facilities near fields and indoor premises that enable hygienic waste removal and handwashing (running water, soap, single-use towels or equivalents), be maintained and in good repair, provide acceptable alternative handwashing if needed, avoid cleaning portable units near cultivation or irrigation sources, and offer away-from-field areas for breaks and eating.",
+      "categories": [
+        "hygiene"
+      ],
+      "subcategories": [
+        "personnel hygiene heading",
+        "sanitary facilities",
+        "facility location",
+        "waste hygiene",
+        "hand washing facilities",
+        "facility sanitation",
+        "hand hygiene supplies",
+        "alternative hand washing",
+        "portable facility cleaning",
+        "facility access"
+      ],
+      "page_range": {
+        "start_page": 10,
+        "end_page": 11
+      }
+    }
+  ]
+}

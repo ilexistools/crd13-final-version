@@ -1,0 +1,159 @@
+{
+  "doc_id": "eff17a9a-386b-4008-868a-7f4a2a6ae7e0",
+  "title": "1. INTRODUCTION",
+  "sections": [
+    {
+      "section_id": 1,
+      "order": 0,
+      "section": "1. INTRODUCTION",
+      "summary": "Guidance for production and handling of cocoa beans for human consumption noting ochratoxin A (OTA) is a possible human carcinogen (IARC group 2B) with a JECFA PTWI of 100 ng/kg bw, produced by specific Aspergillus species under favorable water‑activity, nutrient and temperature conditions, and that improper fermentation/drying can enable OTA formation while industrial shell removal can significantly reduce OTA so industry should establish food‑safety programs.",
+      "categories": [
+        "scope",
+        "risk assessment",
+        "definition",
+        "processing",
+        "contaminants",
+        "risk management"
+      ],
+      "subcategories": [
+        "scope heading",
+        "applicability",
+        "hazard characterization",
+        "cocoa fruit description",
+        "cocoa bean description",
+        "industrial processing",
+        "fungal contamination",
+        "ota reduction"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "section_id": 2,
+      "order": 1,
+      "section": "2. DEFINITIONS",
+      "summary": "Collection of definitions for cocoa fruit parts and quality/defect terms, including cocoa bean, pod, episperm/shell, pulp, dry cocoa, and defect classifications (mouldy, slaty, insect‑damaged, germinated, flat, smoky, broken, fragment, piece of shell), plus terms on adulteration, foreign matter and basic processing operations (harvesting/opening, fermentation, drying, sorting, roasting).",
+      "categories": [],
+      "subcategories": [],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 3,
+      "order": 2,
+      "section": "PARTS OF COCOA FRUIT (FIGURE 1)",
+      "summary": "Definitions of parts of the cocoa fruit (cocoa bean, pod, episperm/shell, pulp), the commercial term \"dry cocoa,\" numerous bean defect classifications (mouldy, slaty, insect‑damaged, germinated, flat, smoky, broken, fragment, piece of shell), and brief definitions of adulteration, foreign matter and standard processing operations (harvesting/opening, fermentation, drying, sorting, roasting).",
+      "categories": [
+        "definition",
+        "quality",
+        "classification",
+        "processing"
+      ],
+      "subcategories": [
+        "figure heading",
+        "cocoa bean definition",
+        "cocoa pod definition",
+        "shell definition",
+        "pulp definition",
+        "dry cocoa",
+        "mouldy bean",
+        "slaty bean",
+        "insect damaged",
+        "germinated bean",
+        "flat bean",
+        "smoky bean",
+        "broken bean",
+        "fragment definition",
+        "shell piece",
+        "adulteration",
+        "foreign matter",
+        "harvesting opening",
+        "fermentation process",
+        "drying process",
+        "sorting process",
+        "roasting process"
+      ],
+      "page_range": {
+        "start_page": 1,
+        "end_page": 2
+      }
+    },
+    {
+      "section_id": 4,
+      "order": 3,
+      "section": "4.3 STORAGE AND POD OPENING",
+      "summary": "Requirements for pod opening and initial handling: open pods manually or mechanically as soon as possible (recommended within 7 days of harvest) using clean, sharpened tools and good personal hygiene; wounded or damaged fruits should not be stored longer than one day before opening/fermenting, and defective parts and mouldy/diseased beans must be removed and disposed of while good beans are kept clean during transport to fermentation to avoid contamination.",
+      "categories": [
+        "storage",
+        "processing",
+        "transport"
+      ],
+      "subcategories": [
+        "storage heading",
+        "pod opening",
+        "damaged fruit storage",
+        "fresh bean transport"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 5,
+      "order": 4,
+      "section": "4.4 FERMENTATION OF COCOA BEANS",
+      "summary": "Fermentation guidance: place pulpy beans in clean, dry suitable containers and avoid water contact; turn the mass frequently, ferment typically 4–7 days (avoid beyond 7 days to prevent fungal growth and germination), clean tools and discard unsuitable organic materials, and note fermentation generally inhibits ochratoxigenic fungi via organic acids though certain practices (e.g. fermentation on drying mats or partial depulping) may increase OTA production.",
+      "categories": [
+        "processing",
+        "risk management"
+      ],
+      "subcategories": [
+        "fermentation heading",
+        "fermentation containers",
+        "turning frequency",
+        "fermentation duration",
+        "equipment sanitation",
+        "fermentation control"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "section_id": 6,
+      "order": 5,
+      "section": "4.5 DRYING PROCESS",
+      "summary": "Drying requirements and limits: dry fermented beans on elevated, clean surfaces (not bare ground), by sun or artificial means until moisture is below 8% to prevent microbial growth; do not exceed a 6 cm layer (≈40 kg wet beans/m2), turn beans frequently (5–10 times/day), protect from rain/dew and animals, avoid mixing drying stages or re‑wetting (discard mouldy beans), and maintain clean drying equipment and tools.",
+      "categories": [
+        "processing",
+        "contaminants",
+        "hygiene",
+        "equipment"
+      ],
+      "subcategories": [
+        "drying heading",
+        "drying method",
+        "drying conditions",
+        "drying site",
+        "wet weather handling",
+        "drying thickness",
+        "turning frequency",
+        "weather protection",
+        "stage separation",
+        "moisture risk",
+        "animal contamination",
+        "equipment cleaning"
+      ],
+      "page_range": {
+        "start_page": 4,
+        "end_page": 5
+      }
+    }
+  ]
+}
