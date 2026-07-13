@@ -369,6 +369,49 @@
   font-weight: 600;
 }
 
+.rw-change-plan {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px;
+  border: 1px solid #d1fae5;
+  border-radius: 8px;
+  background: #f0fdf4;
+  color: #064e3b;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.rw-plan-decision {
+  width: fit-content;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #dcfce7;
+  color: #166534;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.rw-plan-note {
+  color: #166534;
+}
+
+.rw-change-item {
+  padding: 10px;
+  border: 1px solid #bbf7d0;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.rw-change-type {
+  font-size: 11px;
+  font-weight: 700;
+  color: #047857;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
 /* Checkbox row */
 .rw-provision-checkbox {
   display: flex;

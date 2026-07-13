@@ -16,7 +16,7 @@ class OverallAssessment(BaseModel):
 
 class PrincipleAssessment(BaseModel):
     principle: str = Field(
-        description="Guideline principle code: A1, A2, A3, B1, B, C, D, or E."
+        description="Guideline principle code: A1, A2, A3, B1, B2, C, D, or E."
     )
     principle_name: str
     compliance: str = Field(

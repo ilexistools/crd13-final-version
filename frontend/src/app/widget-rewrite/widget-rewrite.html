@@ -55,7 +55,7 @@
                 class="btn-secondary rw-commodity-add-btn"
                 type="button"
                 (click)="addCommodityFromInput()"
-                [disabled]="!commodityInput.trim() || identifyingCommodity || loadingProvisions">
+                [disabled]="!commodityInput.trim() || identifyingCommodity || loadingSections">
                 Add
               </button>
             </div>
@@ -63,8 +63,8 @@
               class="btn-secondary rw-commodity-btn"
               type="button"
               (click)="refreshCommodityAndSearch()"
-              [disabled]="identifyingCommodity || loadingProvisions">
-              {{ identifyingCommodity ? 'Identifying...' : 'Search provisions' }}
+              [disabled]="identifyingCommodity || loadingSections">
+              {{ identifyingCommodity ? 'Identifying...' : 'Analyze sections' }}
             </button>
           </div>
 
@@ -76,7 +76,7 @@
                 class="rw-chip-remove"
                 title="Remove commodity"
                 (click)="removeCommodity(i)"
-                [disabled]="identifyingCommodity || loadingProvisions">
+                [disabled]="identifyingCommodity || loadingSections">
                 ×
               </button>
             </span>
@@ -104,13 +104,13 @@
                  <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
                  <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
                </svg>
-               Normative Reference
-             <span class="rw-label-hint">(loaded using the selected commodity)</span>
+               Relevant Sections
+             <span class="rw-label-hint">(selected from section summaries using the selected commodity)</span>
             </label>
 
-           <div class="rw-loading-search" *ngIf="loadingProvisions">
+           <div class="rw-loading-search" *ngIf="loadingSections">
              <span class="spinner spinner-sm"></span>
-             <span>Searching related provisions...</span>
+             <span>Analyzing related section summaries...</span>
            </div>
 
            <!-- Search Error -->
@@ -123,49 +123,42 @@
              <span>{{ searchError }}</span>
            </div>
 
-           <!-- Provision Results -->
-           <div class="rw-provisions-list" *ngIf="provisions.length > 0">
+           <!-- Section Results -->
+           <div class="rw-provisions-list" *ngIf="sections.length > 0">
              <div class="rw-provisions-header">
-               <span>{{ provisions.length }} provision(s) found — select to use as reference</span>
-               <button class="btn-link" (click)="clearProvisions()">Clear</button>
+               <span>{{ sections.length }} section(s) selected — uncheck any that should not support the rewrite</span>
+               <button class="btn-link" (click)="clearSections()">Clear</button>
              </div>
              <div class="rw-provision-card"
-                  *ngFor="let p of provisions"
-                  [class.rw-provision-selected]="isSelected(p)"
-                  (click)="toggleProvision(p)">
+                  *ngFor="let section of sections; let i = index"
+                  [class.rw-provision-selected]="isSectionSelected(section)"
+                  (click)="toggleSection(section)">
                <div class="rw-provision-card-top">
                  <div class="rw-provision-badges">
-                   <span class="rw-badge rw-badge-type" [ngClass]="'rw-badge-' + p.doc.metadata.type">
-                     {{ p.doc.metadata.type | uppercase }}
+                   <span class="rw-badge rw-badge-type">
+                     SECTION
                    </span>
-                   <span class="rw-badge rw-badge-score">Score: {{ (p.similarity * 100).toFixed(2) }}%</span>
+                   <span class="rw-badge rw-badge-score" *ngIf="section.start_page || section.end_page">
+                     Pages {{ section.start_page || '?' }}-{{ section.end_page || section.start_page || '?' }}
+                   </span>
                  </div>
                  <div class="rw-provision-checkbox">
                    <input type="checkbox"
-                          [checked]="isSelected(p)"
+                          [checked]="isSectionSelected(section)"
                           (click)="$event.stopPropagation()"
-                          (change)="toggleProvision(p)"
-                          [id]="'prov-' + p.rank" />
-                   <label [for]="'prov-' + p.rank" (click)="$event.stopPropagation()">Select as reference</label>
+                          (change)="toggleSection(section)"
+                          [id]="'section-' + i" />
+                   <label [for]="'section-' + i" (click)="$event.stopPropagation()">Use as reference</label>
                  </div>
                </div>
-               <div class="rw-provision-rank">RANK: {{ p.rank }}</div>
-               <div class="rw-provision-text">{{ p.doc.text }}</div>
+               <div class="rw-provision-rank">{{ section.doc_id }} / {{ section.section_id }}</div>
+               <div class="rw-provision-text">{{ section.summary }}</div>
                <div class="rw-provision-meta">
-                 <span *ngIf="p.doc.metadata.subject">
-                   <strong>SUBJECT:</strong> {{ p.doc.metadata.subject | uppercase }}
+                 <span *ngIf="section.section">
+                   <strong>SECTION:</strong> {{ section.section }}
                  </span>
-                 <span *ngIf="p.doc.metadata.process">
-                   <strong>PROCESS:</strong> {{ p.doc.metadata.process | uppercase }}
-                 </span>
-                 <span>
-                   <strong>DOCUMENT:</strong> {{ p.doc.metadata.doc_title }}
-                 </span>
-                 <span *ngIf="p.doc.metadata.section_title">
-                   <strong>SECTION:</strong> {{ p.doc.metadata.section }} - {{ p.doc.metadata.section_title }}
-                 </span>
-                 <span *ngIf="p.doc.metadata.page != null">
-                   <strong>PAGE:</strong> {{ p.doc.metadata.page }}
+                 <span *ngIf="section.justification">
+                   <strong>WHY:</strong> {{ section.justification }}
                  </span>
                </div>
              </div>
@@ -184,7 +177,7 @@
              <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" *ngIf="!loading">
                <path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"></path>
              </svg>
-             <span>{{ loading ? 'Rewriting...' : 'Generate Rewrite' }}</span>
+             <span>{{ loading ? 'Planning and applying...' : 'Plan and Apply Rewrite' }}</span>
            </button>
          </div>
      
@@ -200,6 +193,25 @@
      
          <!-- Result Section -->
          <div class="rw-result-section" *ngIf="result">
+           <div class="rw-section" *ngIf="plan">
+             <label class="rw-label">
+               <svg class="icon-xs" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                 <path d="M9 11l3 3L22 4"></path>
+                 <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path>
+               </svg>
+               Change Plan
+             </label>
+             <div class="rw-change-plan">
+               <div class="rw-plan-decision">{{ plan.decision || 'No decision' }}</div>
+               <div class="rw-plan-note" *ngFor="let note of plan.notes">{{ note }}</div>
+               <div class="rw-change-item" *ngFor="let change of selectedChanges">
+                 <div class="rw-change-type">{{ change.change_type }}</div>
+                 <div><strong>Target:</strong> {{ change.target_fragment }}</div>
+                 <div><strong>Change:</strong> {{ change.suggested_change }}</div>
+                 <div><strong>Rationale:</strong> {{ change.rationale }}</div>
+               </div>
+             </div>
+           </div>
      
            <!-- Rewritten Text -->
            <div class="rw-section rw-section-result">

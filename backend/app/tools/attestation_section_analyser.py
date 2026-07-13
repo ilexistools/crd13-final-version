@@ -17,6 +17,7 @@ from pydantic import BaseModel, ConfigDict, Field
 
 from app.orchestration.gpt_agent import GPTAgent
 from app.tools.attestation_section_search import AttestationSectionSearchTool
+from app.tools._document_metadata import fetch_documents_by_id
 
 
 DEFAULT_SECTION_SUMMARIES_PATH = (
@@ -153,8 +154,10 @@ class AttestationSectionAnalyserTool:
         selection: AttestationSectionAnalysisSelection,
         *,
         max_sections: int,
+        documents_by_id: dict[str, dict[str, Any]] | None = None,
     ) -> list[dict[str, Any]]:
         by_id = {candidate["id"]: candidate for candidate in candidates}
+        documents_by_id = documents_by_id or {}
         results: list[dict[str, Any]] = []
         seen: set[int] = set()
 
@@ -166,6 +169,7 @@ class AttestationSectionAnalyserTool:
             results.append(
                 {
                     "doc_id": candidate["doc_id"],
+                    "document": documents_by_id.get(candidate["doc_id"]),
                     "section_id": candidate["section_id"],
                     "section": candidate["section"],
                     "summary": candidate["summary"],
@@ -219,7 +223,16 @@ class AttestationSectionAnalyserTool:
             ensure_ascii=False,
         )
         selection = await self.__gpt_agent_analyser.run(prompt)
-        results = self._build_results(candidates, selection, max_sections=max_sections)
+        documents_by_id = fetch_documents_by_id(
+            self.section_search.sections_db_path,
+            [candidate["doc_id"] for candidate in candidates],
+        )
+        results = self._build_results(
+            candidates,
+            selection,
+            max_sections=max_sections,
+            documents_by_id=documents_by_id,
+        )
         return {
             "output": {
                 "input": {"attestation": attestation, "commodities": commodities},
@@ -265,7 +278,16 @@ class AttestationSectionAnalyserTool:
             ensure_ascii=False,
         )
         selection = self.__gpt_agent_analyser.run_sync(prompt)
-        results = self._build_results(candidates, selection, max_sections=max_sections)
+        documents_by_id = fetch_documents_by_id(
+            self.section_search.sections_db_path,
+            [candidate["doc_id"] for candidate in candidates],
+        )
+        results = self._build_results(
+            candidates,
+            selection,
+            max_sections=max_sections,
+            documents_by_id=documents_by_id,
+        )
         return {
             "output": {
                 "input": {"attestation": attestation, "commodities": commodities},

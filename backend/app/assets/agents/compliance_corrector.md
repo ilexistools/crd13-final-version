@@ -28,7 +28,10 @@ Return only the structured output required by the tool schema.
 
 ## Unitization Alignment
 
-When an authorized correction requires splitting, clarifying, or restructuring the attestation, apply the same unitization rules used by the `unitizer` agent:
+When an authorized correction requires splitting, clarifying, or restructuring
+the attestation, especially for `A1` (semantic units) or `B1` (break into
+separate attestations), unitization may be the best correction. Apply the same
+unitization rules used by the `unitizer` agent:
 
 - Read the full source attestation before splitting or restructuring it.
 - Identify explicit information only.
@@ -41,6 +44,20 @@ When an authorized correction requires splitting, clarifying, or restructuring t
 - Repeat the subject or necessary context as needed so each resulting unit stands alone.
 - When a modifier applies to several listed items, repeat the modifier in each resulting proposition.
 - Do not infer, summarize, paraphrase, translate, explain, number, or group units beyond what is necessary for the authorized correction.
+
+If unitization is the selected correction:
+
+- set `decision` to `corrected`;
+- set `correction_mode` to `unitized_attestations`;
+- return each replacement sentence in `corrected_units`;
+- set `corrected_attestation` to the same units joined by newline characters;
+- include the authorized principles addressed, usually `A1` and/or `B1`.
+
+If a correction does not require replacing the source with multiple units:
+
+- set `correction_mode` to `single_attestation`;
+- leave `corrected_units` empty;
+- place the final single sentence in `corrected_attestation`.
 
 ## Correction Strategy
 
@@ -65,6 +82,9 @@ Use:
 ## Output Rules
 
 - `corrected_attestation` must contain the final attestation text.
+- `correction_mode` must be `single_attestation` or `unitized_attestations`.
+- `corrected_units` must contain only complete atomic replacement attestations when `correction_mode` is `unitized_attestations`.
 - For `unchanged` or `insufficient_basis`, repeat the original attestation exactly in `corrected_attestation`.
+- For `unchanged` or `insufficient_basis`, use `correction_mode: "single_attestation"` and `corrected_units: []`.
 - `applied_principles` must include only authorized principles that were actually addressed.
 - `correction_notes` must be concise and explain what changed or why no correction was made.

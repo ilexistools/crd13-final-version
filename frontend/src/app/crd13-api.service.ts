@@ -67,6 +67,46 @@ export type ComplianceCorrectionResult = {
   correction_notes?: string[];
 };
 
+export type AttestationSectionReference = {
+  doc_id?: string;
+  section_id?: string | number;
+  section?: string;
+  summary?: string;
+  categories?: string[];
+  start_page?: number;
+  end_page?: number;
+  justification?: string;
+};
+
+export type AttestationRewriteChange = {
+  change_type?: string;
+  target_fragment?: string;
+  suggested_change?: string;
+  rationale?: string;
+  supporting_sections?: Array<{
+    doc_id?: string;
+    section_id?: string | number;
+    section?: string;
+  }>;
+};
+
+export type AttestationRewritePlanResult = {
+  decision?: string;
+  changes?: AttestationRewriteChange[];
+  notes?: string[];
+};
+
+export type AttestationChangeApplicationResult = {
+  decision?: string;
+  rewritten_attestation?: string;
+  applied_changes?: Array<{
+    change_type?: string;
+    target_fragment?: string;
+    applied_change?: string;
+  }>;
+  notes?: string[];
+};
+
 type RewriteBackendResult = {
   decision?: string;
   rewritten?: string;
@@ -142,6 +182,42 @@ export class Crd13ApiService {
       allowed_principles: allowedPrinciples,
     }).pipe(
       map(result => (this.unwrapResults(result) || result || {}) as ComplianceCorrectionResult)
+    );
+  }
+
+  analyzeAttestationSections(attestation: string, commodities: string[]): Observable<AttestationSectionReference[]> {
+    return this.postTool<AttestationSectionReference[]>('/analyze_attestation_sections', {
+      attestation,
+      commodities,
+    }).pipe(
+      map(result => {
+        const rows = this.unwrapResults(result);
+        return Array.isArray(rows) ? rows : [];
+      })
+    );
+  }
+
+  planAttestationRewriteChanges(
+    attestation: string,
+    sections: AttestationSectionReference[]
+  ): Observable<AttestationRewritePlanResult> {
+    return this.postTool<AttestationRewritePlanResult>('/plan_attestation_rewrite_changes', {
+      attestation,
+      sections,
+    }).pipe(
+      map(result => (this.unwrapResults(result) || result || {}) as AttestationRewritePlanResult)
+    );
+  }
+
+  applyAttestationChanges(
+    attestation: string,
+    changes: AttestationRewriteChange[]
+  ): Observable<AttestationChangeApplicationResult> {
+    return this.postTool<AttestationChangeApplicationResult>('/apply_attestation_changes', {
+      attestation,
+      changes,
+    }).pipe(
+      map(result => (this.unwrapResults(result) || result || {}) as AttestationChangeApplicationResult)
     );
   }
 

@@ -49,6 +49,8 @@ app.add_middleware(
     allow_origins=[
         "http://127.0.0.1:4200",
         "http://localhost:4200",
+        "http://127.0.0.1:5173",
+        "http://localhost:5173",
     ],
     allow_credentials=True,
     allow_methods=["*"],
@@ -207,6 +209,7 @@ async def plan_attestation_rewrite_changes(payload: Any = Body(...)) -> OutputRe
         )
 
     attestation = input_data.get("attestation", "")
+    compliance_analysis = input_data.get("compliance_analysis")
     sections = input_data.get("sections")
     if sections is None:
         sections = input_data.get("significant_sections", [])
@@ -223,7 +226,11 @@ async def plan_attestation_rewrite_changes(payload: Any = Body(...)) -> OutputRe
         )
 
     try:
-        result = await attestation_rewrite_change_planner.run_async(attestation, sections)
+        result = await attestation_rewrite_change_planner.run_async(
+            attestation,
+            sections,
+            compliance_analysis=compliance_analysis,
+        )
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
     return OutputResponse(output=result)
@@ -254,6 +261,7 @@ async def apply_attestation_changes(payload: Any = Body(...)) -> OutputResponse:
 
     attestation = input_data.get("attestation", "")
     changes = input_data.get("changes", [])
+    compliance_analysis = input_data.get("compliance_analysis")
     if not isinstance(attestation, str) or not attestation.strip():
         raise HTTPException(
             status_code=422,
@@ -266,7 +274,11 @@ async def apply_attestation_changes(payload: Any = Body(...)) -> OutputResponse:
         )
 
     try:
-        result = await attestation_change_applier.run_async(attestation, changes)
+        result = await attestation_change_applier.run_async(
+            attestation,
+            changes,
+            compliance_analysis=compliance_analysis,
+        )
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
     return OutputResponse(output=result)
@@ -291,6 +303,155 @@ async def analyze_compliance(payload: InputRequest) -> OutputResponse:
     result = await compliance_analyser.run_async(payload.input.get("attestation", ""))
     return OutputResponse(output=result)
 
+COMPLIANCE_RANK = {
+    "Compliant": 0,
+    "Partially Compliant": 1,
+    "Non-Compliant": 2,
+}
+
+PRINCIPLE_ORDER = {
+    "A1": 0,
+    "A2": 1,
+    "A3": 2,
+    "B1": 3,
+    "B2": 4,
+    "C": 5,
+    "D": 6,
+    "E": 7,
+}
+
+
+def _as_dict(value: Any) -> dict[str, Any]:
+    if isinstance(value, dict):
+        return value
+    if hasattr(value, "model_dump"):
+        return value.model_dump()
+    if hasattr(value, "dict"):
+        return value.dict()
+    return {}
+
+
+def _analysis_results_payload(analysis: Any) -> dict[str, Any]:
+    payload = _as_dict(analysis)
+    output = _as_dict(payload.get("output"))
+    results = output.get("results")
+    return _as_dict(results if results is not None else payload.get("results"))
+
+
+def _status_rank(status: str) -> int:
+    return COMPLIANCE_RANK.get(status, 0)
+
+
+@app.post("/consolidate_compliance_report", response_model=OutputResponse)
+async def consolidate_compliance_report(payload: InputRequest) -> OutputResponse:
+    analyses = payload.input.get("unit_analyses", [])
+    if not isinstance(analyses, list):
+        raise HTTPException(status_code=422, detail="input.unit_analyses must be a list.")
+
+    by_principle: dict[str, dict[str, Any]] = {}
+    unit_summaries: list[dict[str, Any]] = []
+    status_counts = {"Compliant": 0, "Partially Compliant": 0, "Non-Compliant": 0}
+
+    for position, analysis in enumerate(analyses, start=1):
+        unit_index = position
+        if isinstance(analysis, dict) and "analysis" in analysis:
+            unit_value = analysis.get("unit", position)
+            try:
+                unit_index = int(unit_value)
+            except (TypeError, ValueError):
+                unit_index = position
+            analysis = analysis.get("analysis")
+
+        results = _analysis_results_payload(analysis)
+        overall = _as_dict(results.get("overall_assessment"))
+        unit_status = str(overall.get("compliance") or "Compliant")
+        status_counts[unit_status] = status_counts.get(unit_status, 0) + 1
+        unit_summaries.append(
+            {
+                "unit": unit_index,
+                "status": unit_status,
+                "summary": str(overall.get("summary") or ""),
+            }
+        )
+
+        assessments = results.get("principle_assessments", [])
+        if not isinstance(assessments, list):
+            continue
+
+        for assessment in assessments:
+            item = _as_dict(assessment)
+            code = str(item.get("principle") or "").strip()
+            if not code:
+                continue
+
+            status = str(item.get("compliance") or "Compliant")
+            summary = str(item.get("issue_identified") or item.get("explanation") or "").strip()
+            principle = by_principle.setdefault(
+                code,
+                {
+                    "code": code,
+                    "principle": str(item.get("principle_name") or code),
+                    "status": status,
+                    "problem_summary": "",
+                    "affected_units": [],
+                    "unit_findings": [],
+                },
+            )
+
+            if _status_rank(status) > _status_rank(principle["status"]):
+                principle["status"] = status
+
+            if status != "Compliant":
+                if unit_index not in principle["affected_units"]:
+                    principle["affected_units"].append(unit_index)
+                principle["unit_findings"].append(
+                    {
+                        "unit": unit_index,
+                        "status": status,
+                        "summary": summary,
+                    }
+                )
+
+    rows = sorted(
+        by_principle.values(),
+        key=lambda item: PRINCIPLE_ORDER.get(item["code"], 999),
+    )
+    for row in rows:
+      findings = row["unit_findings"]
+      if findings:
+          first = findings[0]
+          unit_label = f"Unit {first['unit']}"
+          more = len(findings) - 1
+          suffix = f" (+{more} more)" if more > 0 else ""
+          row["problem_summary"] = f"{unit_label}{suffix}: {first['summary']}"
+      else:
+          row["problem_summary"] = "No material issue detected across the analyzed units."
+
+    non_compliant = status_counts.get("Non-Compliant", 0)
+    partially_compliant = status_counts.get("Partially Compliant", 0)
+    total_units = len(analyses)
+    overall_status = (
+        "Non-Compliant"
+        if non_compliant
+        else "Partially Compliant"
+        if partially_compliant
+        else "Compliant"
+    )
+
+    return OutputResponse(
+        output={
+            "overall_status": overall_status,
+            "summary": {
+                "total_units": total_units,
+                "compliant_units": status_counts.get("Compliant", 0),
+                "partially_compliant_units": partially_compliant,
+                "non_compliant_units": non_compliant,
+            },
+            "rows": rows,
+            "unit_summaries": unit_summaries,
+        }
+    )
+
 @app.post("/correct_compliance", response_model=OutputResponse)
 async def correct_compliance(payload: InputRequest) -> OutputResponse:
     result = await compliance_corrector.run_async(
@@ -298,6 +459,42 @@ async def correct_compliance(payload: InputRequest) -> OutputResponse:
         payload.input.get("compliance_analysis", {}),
         payload.input.get("allowed_principles", []),
     )
+    return OutputResponse(output=result)
+
+
+@app.post("/suggest_attestation_correction", response_model=OutputResponse)
+async def suggest_attestation_correction(payload: InputRequest) -> OutputResponse:
+    attestation = payload.input.get("attestation", "")
+    if not isinstance(attestation, str) or not attestation.strip():
+        raise HTTPException(status_code=422, detail="input.attestation must be a non-empty string.")
+
+    compliance_analysis = payload.input.get("compliance_analysis")
+    if not compliance_analysis:
+        compliance_analysis = await compliance_analyser.run_async(attestation)
+
+    analysis_results = _analysis_results_payload(compliance_analysis)
+    allowed_principles = payload.input.get("allowed_principles")
+    if allowed_principles is None:
+        allowed_principles = [
+            str(item.get("principle"))
+            for item in analysis_results.get("principle_assessments", [])
+            if isinstance(item, dict)
+            and str(item.get("compliance") or "") in {"Partially Compliant", "Non-Compliant"}
+            and item.get("principle")
+        ]
+
+    if not isinstance(allowed_principles, list):
+        raise HTTPException(status_code=422, detail="input.allowed_principles must be a list when supplied.")
+
+    result = await compliance_corrector.run_async(
+        attestation,
+        analysis_results,
+        allowed_principles,
+    )
+    if isinstance(result, dict):
+        result.setdefault("input", {})
+        if isinstance(result["input"], dict):
+            result["input"]["compliance_analysis"] = analysis_results
     return OutputResponse(output=result)
 
 

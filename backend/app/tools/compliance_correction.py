@@ -7,6 +7,7 @@ from app.orchestration.gpt_agent import GPTAgent
 
 
 CorrectionDecision = Literal["corrected", "unchanged", "insufficient_basis"]
+CorrectionMode = Literal["single_attestation", "unitized_attestations"]
 
 
 class ComplianceCorrectionOutput(BaseModel):
@@ -18,7 +19,15 @@ class ComplianceCorrectionOutput(BaseModel):
     )
     corrected_attestation: str = Field(
         ...,
-        description="Final attestation text. For unchanged or insufficient_basis, repeat the source exactly.",
+        description="Final attestation text. For unitized corrections, join corrected_units with a single newline. For unchanged or insufficient_basis, repeat the source exactly.",
+    )
+    correction_mode: CorrectionMode = Field(
+        default="single_attestation",
+        description="Whether the correction is a single attestation or a replacement by multiple unitized attestations.",
+    )
+    corrected_units: list[str] = Field(
+        default_factory=list,
+        description="Atomic corrected attestation units when correction_mode is unitized_attestations. Empty for single_attestation, unchanged, or insufficient_basis.",
     )
     applied_principles: list[str] = Field(
         default_factory=list,
@@ -60,6 +69,8 @@ class ComplianceCorrectionTool:
                 "results": {
                     "decision": "unchanged",
                     "corrected_attestation": cleaned_attestation,
+                    "correction_mode": "single_attestation",
+                    "corrected_units": [],
                     "applied_principles": [],
                     "correction_notes": ["No principle was authorized for correction."],
                 },
@@ -101,6 +112,8 @@ class ComplianceCorrectionTool:
                 "results": {
                     "decision": "unchanged",
                     "corrected_attestation": cleaned_attestation,
+                    "correction_mode": "single_attestation",
+                    "corrected_units": [],
                     "applied_principles": [],
                     "correction_notes": ["No principle was authorized for correction."],
                 },

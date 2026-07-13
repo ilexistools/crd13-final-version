@@ -1,18 +1,35 @@
-import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { Component, ElementRef, EventEmitter, Input, NgZone, OnDestroy, Output } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { MatIconModule } from '@angular/material/icon';
 import { firstValueFrom } from 'rxjs';
-import { ComplianceAnalysisResult, Crd13ApiService } from '../crd13-api.service';
+import {
+  AttestationRewriteChange,
+  AttestationRewritePlanResult,
+  AttestationSectionReference,
+  ComplianceAnalysisResult,
+  Crd13ApiService
+} from '../crd13-api.service';
 
 type SegMode = 'ai' | 'semicolon' | 'newline' | 'dot';
 type Step = 'upload' | 'text' | 'commodities' | 'compliance' | 'segmentation' | 'segments';
+type CompliancePrincipleCode = 'A1' | 'A2' | 'A3' | 'B1' | 'B2' | 'C' | 'D' | 'E' | string;
+type ComplianceRemediationMode = 'unitization' | 'rewrite';
+type ComplianceUnitStatus = 'pending' | 'analyzing' | 'compliant' | 'needs-adjustment' | 'error';
 
 export interface SegmenterOutput {
   segments: string[];
   commodities: string[];
   source: 'scratch' | 'input';
 }
+
+type ComplianceUnit = {
+  id: string;
+  text: string;
+  result: ComplianceAnalysisResult | null;
+  status: ComplianceUnitStatus;
+  error: string | null;
+};
 
 @Component({
   selector: 'widget-segmenter',
@@ -21,7 +38,7 @@ export interface SegmenterOutput {
   styleUrls: ['./widget-segmenter.css'],
   imports: [CommonModule, FormsModule, MatIconModule],
 })
-export class WidgetSegmenterComponent {
+export class WidgetSegmenterComponent implements OnDestroy {
   @Input() initialText: string = '';
   @Output() segmentsReady = new EventEmitter<SegmenterOutput>();
 
@@ -44,6 +61,20 @@ export class WidgetSegmenterComponent {
   commodityError: string | null = null;
   complianceError: string | null = null;
   complianceResult: ComplianceAnalysisResult | null = null;
+  activeCompliancePrinciple: CompliancePrincipleCode | null = null;
+  remediationMode: ComplianceRemediationMode | null = null;
+  remediationDraft = '';
+  remediationSegments: string[] = [];
+  remediationSections: AttestationSectionReference[] = [];
+  remediationPlan: AttestationRewritePlanResult | null = null;
+  remediationChanges: AttestationRewriteChange[] = [];
+  remediationLoading = false;
+  remediationError: string | null = null;
+  remediationInfo: string | null = null;
+  returnToComplianceAfterSegmentation = false;
+  complianceUnits: ComplianceUnit[] = [];
+  activeComplianceUnitId: string | null = null;
+  private segmentationSourceUnitId: string | null = null;
   private autoDetectedCommodities: string[] = [];
   private manualCommodities: string[] = [];
   private lastCommoditySource = '';
@@ -52,9 +83,19 @@ export class WidgetSegmenterComponent {
 
   refiningIdx = new Set<number>();
 
-  constructor(private crd13Api: Crd13ApiService) {}
+  private readonly nativeAdjustHandler = (event: Event) => this.handleNativeAdjustEvent(event);
+
+  constructor(
+    private crd13Api: Crd13ApiService,
+    private elementRef: ElementRef<HTMLElement>,
+    private ngZone: NgZone,
+  ) {}
 
   ngOnInit() {
+    const element = this.elementRef.nativeElement;
+    element.addEventListener('pointerdown', this.nativeAdjustHandler);
+    element.addEventListener('click', this.nativeAdjustHandler);
+
     void this.loadCommodityOptions();
 
     const init = (this.initialText || '').trim();
@@ -63,6 +104,12 @@ export class WidgetSegmenterComponent {
       this.step = 'text';
       this.scheduleCommodityDetection(init);
     }
+  }
+
+  ngOnDestroy(): void {
+    const element = this.elementRef.nativeElement;
+    element.removeEventListener('pointerdown', this.nativeAdjustHandler);
+    element.removeEventListener('click', this.nativeAdjustHandler);
   }
 
   setMode(mode: SegMode) {
@@ -82,6 +129,8 @@ export class WidgetSegmenterComponent {
     this.complianceLoading = false;
     this.complianceError = null;
     this.complianceResult = null;
+    this.returnToComplianceAfterSegmentation = false;
+    this.resetComplianceUnits();
     this.commodityInput = '';
     this.filteredCommodityOptions = [];
     this.lastCommoditySource = '';
@@ -95,6 +144,8 @@ export class WidgetSegmenterComponent {
     this.commodityLoading = false;
     this.complianceLoading = false;
     this.complianceError = null;
+    this.returnToComplianceAfterSegmentation = false;
+    this.resetComplianceUnits();
     this.commodityInput = '';
     this.filteredCommodityOptions = [];
     this.step = 'text';
@@ -129,6 +180,7 @@ export class WidgetSegmenterComponent {
     this.commodityError = null;
     this.complianceError = null;
     this.complianceResult = null;
+    this.resetComplianceUnits();
     this.setAutoDetectedCommodities([]);
     this.setManualCommodities([]);
     this.commodityInput = '';
@@ -151,6 +203,7 @@ export class WidgetSegmenterComponent {
       this.commodityError = null;
       this.complianceError = null;
       this.complianceResult = null;
+      this.resetComplianceUnits();
       this.setAutoDetectedCommodities([]);
       this.setManualCommodities([]);
       this.commodityInput = '';
@@ -168,6 +221,7 @@ export class WidgetSegmenterComponent {
       this.commodityError = null;
       this.complianceError = null;
       this.complianceResult = null;
+      this.resetComplianceUnits();
       this.setAutoDetectedCommodities([]);
       this.setManualCommodities([]);
       this.commodityInput = '';
@@ -185,6 +239,7 @@ export class WidgetSegmenterComponent {
     this.complianceError = null;
     this.segments = [];
     this.complianceResult = null;
+    this.resetComplianceUnits();
 
     const normalizedText = String(value || '').trim();
     if (normalizedText !== this.lastCommoditySource) {
@@ -222,6 +277,7 @@ export class WidgetSegmenterComponent {
       this.segments = [];
       this.complianceResult = null;
       this.complianceError = null;
+      this.resetComplianceUnits();
       this.setAutoDetectedCommodities([]);
       this.setManualCommodities([]);
       this.commodityInput = '';
@@ -358,10 +414,13 @@ export class WidgetSegmenterComponent {
     this.complianceLoading = true;
 
     try {
-      this.complianceResult = await firstValueFrom(this.crd13Api.analyzeCompliance(text));
+      const result = await firstValueFrom(this.crd13Api.analyzeCompliance(text));
+      this.setComplianceUnits([{ id: this.createComplianceUnitId(0), text, result, status: this.complianceResultStatus(result), error: null }]);
+      this.complianceResult = result;
       this.step = 'compliance';
     } catch (e: any) {
       this.complianceResult = null;
+      this.resetComplianceUnits();
       this.complianceError = e?.error?.detail || e?.error?.message || e?.message || 'Compliance analysis failed.';
     } finally {
       this.complianceLoading = false;
@@ -370,13 +429,268 @@ export class WidgetSegmenterComponent {
 
   async continueAfterCompliance(): Promise<void> {
     this.error = null;
-    this.step = 'segmentation';
+    this.closeComplianceRemediation();
+    this.goToSegmentation();
   }
 
   backToCommodities(): void {
     this.step = 'commodities';
     this.error = null;
     this.complianceError = null;
+    this.returnToComplianceAfterSegmentation = false;
+    this.closeComplianceRemediation();
+  }
+
+  handleComplianceAdjustment(
+    event: Event | null,
+    item: NonNullable<ComplianceAnalysisResult['principle_assessments']>[number],
+    index: number
+  ): void {
+    event?.preventDefault();
+    event?.stopPropagation();
+
+    if (this.isA1CompliancePrinciple(item, index)) {
+      this.goToSegmentationFromCompliance();
+      return;
+    }
+
+    this.openComplianceRemediation(item, index);
+  }
+
+  goToSegmentationFromCompliance(): void {
+    this.closeComplianceRemediation();
+    this.error = null;
+    this.segmentationSourceUnitId = this.activeComplianceUnit()?.id || null;
+    this.rawText = this.currentComplianceText();
+    this.goToSegmentation(true);
+  }
+
+  async returnToComplianceFromSegmentation(): Promise<void> {
+    const segments = this.step === 'segments'
+      ? this.segments.map(s => (s || '').trim()).filter(Boolean)
+      : [];
+
+    if (this.returnToComplianceAfterSegmentation && segments.length) {
+      await this.returnToComplianceWithSegments(segments);
+      return;
+    }
+
+    if (this.returnToComplianceAfterSegmentation) {
+      await this.reanalyzeActiveComplianceUnit();
+      return;
+    }
+
+    this.step = 'compliance';
+  }
+
+  private handleNativeAdjustEvent(event: Event): void {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest<HTMLButtonElement>('.ws-adjust-btn');
+    if (!button || button.disabled || button.dataset['compliancePrinciple'] !== 'A1') return;
+
+    event.preventDefault();
+    event.stopPropagation();
+    this.ngZone.run(() => this.goToSegmentationFromCompliance());
+  }
+
+  isComplianceAdjustmentDisabled(item: NonNullable<ComplianceAnalysisResult['principle_assessments']>[number], index: number): boolean {
+    if (this.isComplianceStatusCompliant(item?.compliance)) return true;
+    return this.remediationLoading && !this.isA1CompliancePrinciple(item, index);
+  }
+
+  isA1CompliancePrinciple(item: NonNullable<ComplianceAnalysisResult['principle_assessments']>[number], index: number): boolean {
+    return this.compliancePrincipleKey(item, index) === 'A1';
+  }
+
+  private goToSegmentation(returnToComplianceAfterSegmentation = false): void {
+    this.returnToComplianceAfterSegmentation = returnToComplianceAfterSegmentation;
+    if (!returnToComplianceAfterSegmentation) {
+      this.segmentationSourceUnitId = null;
+    }
+    this.step = 'segmentation';
+    window.setTimeout(() => {
+      document.querySelector('.ws-card')?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      });
+    }, 0);
+  }
+
+  openComplianceRemediation(item: NonNullable<ComplianceAnalysisResult['principle_assessments']>[number], index: number): void {
+    const code = this.compliancePrincipleKey(item, index);
+    if (this.isComplianceStatusCompliant(item?.compliance)) return;
+
+    this.activeCompliancePrinciple = code;
+    this.remediationMode = code === 'A1' || code === 'B1' ? 'unitization' : 'rewrite';
+    this.remediationDraft = this.currentComplianceText();
+    this.remediationSegments = this.remediationMode === 'unitization'
+      ? this.seedRemediationSegments(this.remediationDraft)
+      : [];
+    this.remediationSections = [];
+    this.remediationPlan = null;
+    this.remediationChanges = [];
+    this.remediationError = null;
+    this.remediationInfo = this.remediationIntro(code);
+
+    window.setTimeout(() => {
+      document.querySelector('.ws-remediation-panel')?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      });
+    }, 0);
+  }
+
+  closeComplianceRemediation(): void {
+    this.activeCompliancePrinciple = null;
+    this.remediationMode = null;
+    this.remediationDraft = '';
+    this.remediationSegments = [];
+    this.remediationSections = [];
+    this.remediationPlan = null;
+    this.remediationChanges = [];
+    this.remediationLoading = false;
+    this.remediationError = null;
+    this.remediationInfo = null;
+  }
+
+  async autoUnitizeForRemediation(): Promise<void> {
+    const text = (this.remediationDraft || this.currentComplianceText()).trim();
+    if (!text || this.remediationLoading) return;
+
+    this.remediationLoading = true;
+    this.remediationError = null;
+
+    try {
+      const segments = await firstValueFrom(this.crd13Api.unitize(text));
+      const cleaned = (segments || []).map(item => String(item || '').trim()).filter(Boolean);
+      if (!cleaned.length) {
+        this.remediationError = 'No semantic units were returned.';
+        return;
+      }
+      this.remediationSegments = cleaned;
+      this.remediationDraft = cleaned.join('\n');
+    } catch (e: any) {
+      this.remediationError = e?.error?.detail || e?.error?.message || e?.message || 'Unitization failed.';
+    } finally {
+      this.remediationLoading = false;
+    }
+  }
+
+  updateRemediationSegment(index: number, value: string): void {
+    if (index < 0 || index >= this.remediationSegments.length) return;
+    this.remediationSegments[index] = value;
+    this.remediationDraft = this.remediationSegments.map(item => String(item || '').trim()).filter(Boolean).join('\n');
+  }
+
+  addRemediationSegment(afterIndex?: number): void {
+    const idx = typeof afterIndex === 'number' ? afterIndex + 1 : this.remediationSegments.length;
+    this.remediationSegments.splice(idx, 0, '');
+  }
+
+  removeRemediationSegment(index: number): void {
+    if (index < 0 || index >= this.remediationSegments.length) return;
+    this.remediationSegments.splice(index, 1);
+    this.remediationDraft = this.remediationSegments.map(item => String(item || '').trim()).filter(Boolean).join('\n');
+  }
+
+  async generateRewriteForRemediation(): Promise<void> {
+    const text = (this.remediationDraft || this.currentComplianceText()).trim();
+    if (!text || this.remediationLoading) return;
+
+    let commodities = this.getNormalizedCommodityList(this.commodities);
+    if (!commodities.length) {
+      commodities = await this.detectCommodityForCurrentContext();
+    }
+
+    if (!commodities.length) {
+      this.remediationError = 'Identify or add at least one commodity before rewriting.';
+      return;
+    }
+
+    this.remediationLoading = true;
+    this.remediationError = null;
+    this.remediationSections = [];
+    this.remediationPlan = null;
+    this.remediationChanges = [];
+
+    try {
+      const sections = await firstValueFrom(this.crd13Api.analyzeAttestationSections(text, commodities));
+      this.remediationSections = sections || [];
+      if (!this.remediationSections.length) {
+        this.remediationError = 'No relevant sections were found for this attestation.';
+        return;
+      }
+
+      const plan = await firstValueFrom(this.crd13Api.planAttestationRewriteChanges(text, this.remediationSections));
+      this.remediationPlan = plan || {};
+      this.remediationChanges = Array.isArray(plan?.changes) ? plan.changes : [];
+      if (!this.remediationChanges.length) {
+        this.remediationInfo = (plan?.notes || ['No rewrite changes were recommended.']).join(' ');
+        return;
+      }
+
+      const application = await firstValueFrom(this.crd13Api.applyAttestationChanges(text, this.remediationChanges));
+      this.remediationDraft = String(application?.rewritten_attestation || text).trim();
+      this.remediationInfo = (application?.notes || [`Rewrite ${application?.decision || 'generated'}.`]).join(' ');
+    } catch (e: any) {
+      this.remediationError = e?.error?.detail || e?.error?.message || e?.message || 'Rewrite remediation failed.';
+    } finally {
+      this.remediationLoading = false;
+    }
+  }
+
+  async applyComplianceRemediation(): Promise<void> {
+    const text = this.remediationMode === 'unitization'
+      ? this.remediationSegments.map(item => String(item || '').trim()).filter(Boolean).join('\n')
+      : String(this.remediationDraft || '').trim();
+
+    if (!text || this.remediationLoading) {
+      this.remediationError = 'No adjusted attestation text is available.';
+      return;
+    }
+
+    const unit = this.activeComplianceUnit();
+    if (unit) {
+      unit.text = text;
+      unit.status = 'analyzing';
+      unit.error = null;
+    } else {
+      this.rawText = text;
+    }
+    this.remediationDraft = text;
+    this.complianceLoading = true;
+    this.remediationLoading = true;
+    this.remediationError = null;
+
+    try {
+      const result = await firstValueFrom(this.crd13Api.analyzeCompliance(text));
+      this.complianceResult = result;
+      if (unit) {
+        unit.result = result;
+        unit.status = this.complianceResultStatus(result);
+        this.rawText = this.complianceUnits.map(item => item.text).join('\n');
+      }
+      const stillOpenCode = this.activeCompliancePrinciple;
+      const updated = this.compliancePrinciples().find((item, index) => this.compliancePrincipleKey(item, index) === stillOpenCode);
+      if (updated && this.isComplianceStatusCompliant(updated.compliance)) {
+        this.remediationInfo = `${stillOpenCode} is now Compliant.`;
+        this.closeComplianceRemediation();
+      } else {
+        this.remediationInfo = 'Compliance was re-analyzed. Continue adjusting until the principle is Compliant.';
+      }
+    } catch (e: any) {
+      this.remediationError = e?.error?.detail || e?.error?.message || e?.message || 'Compliance re-analysis failed.';
+      if (unit) {
+        unit.result = null;
+        unit.status = 'error';
+        unit.error = this.remediationError;
+      } else {
+        this.complianceResult = null;
+      }
+    } finally {
+      this.complianceLoading = false;
+      this.remediationLoading = false;
+    }
   }
 
   updateSegment(i: number, value: string) {
@@ -434,7 +748,84 @@ export class WidgetSegmenterComponent {
       return;
     }
 
+    if (this.returnToComplianceAfterSegmentation) {
+      await this.returnToComplianceWithSegments(cleaned);
+      return;
+    }
+
     this.segmentsReady.emit({ segments: cleaned, commodities, source: 'input' });
+  }
+
+  private async returnToComplianceWithSegments(segments: string[]): Promise<void> {
+    const newUnits = segments.map((text, index) => ({
+      id: this.createComplianceUnitId(index),
+      text,
+      result: null,
+      status: 'pending' as ComplianceUnitStatus,
+      error: null,
+    }));
+    const sourceIndex = this.segmentationSourceUnitId
+      ? this.complianceUnits.findIndex(unit => unit.id === this.segmentationSourceUnitId)
+      : -1;
+
+    if (sourceIndex >= 0) {
+      this.complianceUnits.splice(sourceIndex, 1, ...newUnits);
+      this.activeComplianceUnitId = newUnits[0]?.id || this.complianceUnits[0]?.id || null;
+      this.complianceResult = null;
+      this.complianceError = null;
+    } else {
+      this.setComplianceUnits(newUnits);
+    }
+
+    this.segmentationSourceUnitId = null;
+    this.rawText = this.complianceUnits.map(unit => unit.text).join('\n');
+    await this.analyzeComplianceUnits();
+  }
+
+  private async reanalyzeActiveComplianceUnit(): Promise<void> {
+    const unit = this.activeComplianceUnit();
+    const text = (unit?.text || this.rawText || '').trim();
+    if (!text) {
+      this.complianceError = 'No attestation text is available for compliance analysis.';
+      this.step = 'compliance';
+      return;
+    }
+
+    this.error = null;
+    this.complianceError = null;
+    this.complianceResult = null;
+    this.complianceLoading = true;
+
+    try {
+      const result = await firstValueFrom(this.crd13Api.analyzeCompliance(text));
+      if (unit) {
+        unit.text = text;
+        unit.result = result;
+        unit.status = this.complianceResultStatus(result);
+        unit.error = null;
+      } else {
+        this.setComplianceUnits([{ id: this.createComplianceUnitId(0), text, result, status: this.complianceResultStatus(result), error: null }]);
+      }
+      this.complianceResult = result;
+      this.returnToComplianceAfterSegmentation = false;
+      this.step = 'compliance';
+      window.setTimeout(() => {
+        document.querySelector('.ws-card')?.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start',
+        });
+      }, 0);
+    } catch (e: any) {
+      this.complianceError = e?.error?.detail || e?.error?.message || e?.message || 'Compliance analysis failed.';
+      if (unit) {
+        unit.result = null;
+        unit.status = 'error';
+        unit.error = this.complianceError;
+      }
+      this.step = 'compliance';
+    } finally {
+      this.complianceLoading = false;
+    }
   }
 
   onCommodityInput(value: string): void {
@@ -567,7 +958,7 @@ export class WidgetSegmenterComponent {
   }
 
   private currentCommoditySourceText(): string {
-    return String(this.rawText || this.segments.join('\n') || '').trim();
+    return String(this.currentComplianceText() || this.rawText || this.segments.join('\n') || '').trim();
   }
 
   private async identifyCommodities(text: string): Promise<string[]> {
@@ -673,9 +1064,139 @@ export class WidgetSegmenterComponent {
     this.updateFilteredCommodityOptions(this.commodityInput);
   }
 
+  hasComplianceUnitSidebar(): boolean {
+    return this.complianceUnits.length > 1;
+  }
+
+  activeComplianceUnit(): ComplianceUnit | null {
+    return this.complianceUnits.find(unit => unit.id === this.activeComplianceUnitId) || this.complianceUnits[0] || null;
+  }
+
+  selectComplianceUnit(unit: ComplianceUnit): void {
+    if (this.complianceLoading || this.remediationLoading) return;
+    this.activeComplianceUnitId = unit.id;
+    this.complianceResult = unit.result;
+    this.complianceError = unit.error;
+    this.closeComplianceRemediation();
+  }
+
+  complianceUnitLabel(index: number): string {
+    return `Unit ${index + 1}`;
+  }
+
+  complianceUnitStatusLabel(unit: ComplianceUnit): string {
+    const labels: Record<ComplianceUnitStatus, string> = {
+      pending: 'Pending',
+      analyzing: 'Analyzing',
+      compliant: 'Compliant',
+      'needs-adjustment': 'Needs adjustment',
+      error: 'Error',
+    };
+    return labels[unit.status] || 'Pending';
+  }
+
+  complianceUnitStatusIcon(unit: ComplianceUnit): string {
+    const icons: Record<ComplianceUnitStatus, string> = {
+      pending: 'radio_button_unchecked',
+      analyzing: 'pending',
+      compliant: 'check_circle_outline',
+      'needs-adjustment': 'report_problem',
+      error: 'error_outline',
+    };
+    return icons[unit.status] || 'radio_button_unchecked';
+  }
+
+  complianceUnitsSummary(): string {
+    if (!this.complianceUnits.length) return '';
+    const compliant = this.complianceUnits.filter(unit => unit.status === 'compliant').length;
+    const needsAdjustment = this.complianceUnits.filter(unit => unit.status === 'needs-adjustment' || unit.status === 'error').length;
+    const pending = this.complianceUnits.filter(unit => unit.status === 'pending' || unit.status === 'analyzing').length;
+    return `${this.complianceUnits.length} units · ${compliant} compliant · ${needsAdjustment} need adjustment · ${pending} pending`;
+  }
+
+  currentComplianceText(): string {
+    return String(this.activeComplianceUnit()?.text || this.rawText || '').trim();
+  }
+
+  private resetComplianceUnits(): void {
+    this.complianceUnits = [];
+    this.activeComplianceUnitId = null;
+    this.segmentationSourceUnitId = null;
+  }
+
+  private setComplianceUnits(units: ComplianceUnit[]): void {
+    this.complianceUnits = units;
+    this.activeComplianceUnitId = units[0]?.id || null;
+    this.complianceResult = units[0]?.result || null;
+    this.complianceError = units[0]?.error || null;
+  }
+
+  private createComplianceUnitId(index: number): string {
+    return `unit-${Date.now()}-${index}`;
+  }
+
+  private complianceResultStatus(result: ComplianceAnalysisResult | null): ComplianceUnitStatus {
+    if (!result) return 'pending';
+    const overall = result.overall_assessment?.compliance;
+    if (this.isComplianceStatusCompliant(overall)) return 'compliant';
+    return 'needs-adjustment';
+  }
+
+  private async analyzeComplianceUnits(): Promise<void> {
+    if (!this.complianceUnits.length) return;
+
+    this.error = null;
+    this.complianceError = null;
+    this.complianceLoading = true;
+    this.step = 'compliance';
+
+    for (const unit of this.complianceUnits) {
+      unit.status = 'analyzing';
+      unit.error = null;
+      this.activeComplianceUnitId = unit.id;
+      this.complianceResult = unit.result;
+
+      try {
+        const result = await firstValueFrom(this.crd13Api.analyzeCompliance(unit.text));
+        unit.result = result;
+        unit.status = this.complianceResultStatus(result);
+        if (this.activeComplianceUnitId === unit.id) {
+          this.complianceResult = result;
+        }
+      } catch (e: any) {
+        unit.result = null;
+        unit.status = 'error';
+        unit.error = e?.error?.detail || e?.error?.message || e?.message || 'Compliance analysis failed.';
+        if (this.activeComplianceUnitId === unit.id) {
+          this.complianceResult = null;
+          this.complianceError = unit.error;
+        }
+      }
+    }
+
+    const firstOpen = this.complianceUnits.find(unit => unit.status !== 'compliant') || this.complianceUnits[0];
+    this.activeComplianceUnitId = firstOpen?.id || null;
+    this.complianceResult = firstOpen?.result || null;
+    this.complianceError = firstOpen?.error || null;
+    this.returnToComplianceAfterSegmentation = false;
+    this.complianceLoading = false;
+
+    window.setTimeout(() => {
+      document.querySelector('.ws-card')?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      });
+    }, 0);
+  }
+
   compliancePrinciples(): NonNullable<ComplianceAnalysisResult['principle_assessments']> {
     const principles = this.complianceResult?.principle_assessments;
-    return Array.isArray(principles) ? principles : [];
+    if (!Array.isArray(principles)) return [];
+
+    return principles.map(item => ({
+      ...item,
+      principle: this.normalizeCompliancePrinciple(item?.principle),
+    }));
   }
 
   complianceElementGroups(): Array<{ label: string; values: string[] }> {
@@ -705,13 +1226,13 @@ export class WidgetSegmenterComponent {
   }
 
   compliancePrincipleIcon(value: string | null | undefined): string {
-    const code = String(value || '').trim().toUpperCase();
+    const code = this.normalizeCompliancePrinciple(value);
     const icons: Record<string, string> = {
       A1: 'extension',
       A2: 'vpn_key',
       A3: 'forum',
       B1: 'call_split',
-      B: 'balance',
+      B2: 'balance',
       C: 'search',
       D: 'integration_instructions',
       E: 'article',
@@ -734,7 +1255,55 @@ export class WidgetSegmenterComponent {
   }
 
   compliancePrincipleKey(item: NonNullable<ComplianceAnalysisResult['principle_assessments']>[number], index: number): string {
-    return String(item?.principle || `principle-${index}`);
+    const code = this.normalizeCompliancePrinciple(item?.principle);
+    return code || `principle-${index}`;
+  }
+
+  isComplianceStatusCompliant(value: string | null | undefined): boolean {
+    const normalized = String(value || '').toLowerCase();
+    return normalized.includes('compliant') && !normalized.includes('non') && !normalized.includes('partial');
+  }
+
+  remediationTitle(code: string | null): string {
+    const titles: Record<string, string> = {
+      A1: 'Identification of semantic units',
+      A2: 'Identification of key attestation elements',
+      A3: 'Determination of modality and communicative function',
+      B1: 'Break into separate attestations',
+      B2: 'Transparency and objectivity',
+      C: 'Verifiability and auditability',
+      D: 'Interoperability',
+      E: 'Preservation of meaning',
+    };
+    return titles[String(code || '')] || 'Compliance adjustment';
+  }
+
+  private normalizeCompliancePrinciple(value: string | null | undefined): string {
+    const raw = String(value || '').trim().toUpperCase();
+    const code = raw.match(/\b(A[1-3]|B[1-2]|C|D|E)\b/)?.[1] || raw.match(/\b([AB])[\s.-]*([1-3])\b/)?.slice(1).join('') || raw;
+    return code === 'B' ? 'B2' : code;
+  }
+
+  private seedRemediationSegments(text: string): string[] {
+    const byLine = String(text || '')
+      .split(/\r?\n+/)
+      .map(item => item.trim())
+      .filter(Boolean);
+    return byLine.length ? byLine : [String(text || '').trim()].filter(Boolean);
+  }
+
+  private remediationIntro(code: string): string {
+    const intros: Record<string, string> = {
+      A1: 'Review the semantic units and apply the adjusted segmentation before re-analysis.',
+      B1: 'Separate combined assurances into standalone attestations before re-analysis.',
+      A2: 'Use the section-supported rewrite to make missing key elements explicit where there is a basis.',
+      A3: 'Use the section-supported rewrite to clarify modality and communicative function.',
+      B2: 'Use the section-supported rewrite to replace vague or subjective language.',
+      C: 'Use the section-supported rewrite to anchor the attestation in auditable criteria.',
+      D: 'Use the section-supported rewrite to make the statement easier to represent structurally.',
+      E: 'Use the section-supported rewrite, then review the proposed text against the original meaning.',
+    };
+    return intros[code] || 'Adjust the attestation and re-run compliance analysis.';
   }
 
   private getNormalizedCommodityList(values: string[] | null | undefined): string[] {

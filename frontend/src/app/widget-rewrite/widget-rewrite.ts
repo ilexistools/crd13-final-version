@@ -2,7 +2,12 @@ import { Component, Input, Output, EventEmitter, OnChanges, SimpleChanges } from
 import { firstValueFrom } from 'rxjs';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { Crd13ApiService } from '../crd13-api.service';
+import {
+  AttestationSectionReference,
+  AttestationRewriteChange,
+  AttestationRewritePlanResult,
+  Crd13ApiService
+} from '../crd13-api.service';
 
 export interface RewriteResult {
   original: string;
@@ -77,13 +82,15 @@ export class WidgetRewrite implements OnChanges {
   modalityDraft = '';
   communicativeFunctionDraft = '';
 
-  // Provision search state
+  // Section-guided rewrite state
   identifyingCommodity = false;
-  loadingProvisions = false;
+  loadingSections = false;
   commodityError: string | null = null;
   searchError: string | null = null;
-  provisions: Provision[] = [];
-  selectedProvisions: Provision[] = [];
+  sections: AttestationSectionReference[] = [];
+  selectedSections: AttestationSectionReference[] = [];
+  plan: AttestationRewritePlanResult | null = null;
+  selectedChanges: AttestationRewriteChange[] = [];
   private openSessionId = 0;
   private manualCommodityOverride = false;
   commodityInput = '';
@@ -96,12 +103,12 @@ export class WidgetRewrite implements OnChanges {
 
   /** True if there is at least one selected provision */
   get hasReference(): boolean {
-    return this.selectedProvisions.length > 0;
+    return this.selectedSections.length > 0;
   }
 
   /** Number of distinct references that will be sent */
   get effectiveReferenceCount(): number {
-    return this.selectedProvisions.length;
+    return this.selectedSections.length;
   }
 
   get canApply(): boolean {
@@ -121,11 +128,6 @@ export class WidgetRewrite implements OnChanges {
   get communicativeFunctionSelectOptions(): string[] {
     const byModality = this.communicativeFunctionOptionsByModality?.[this.modalityDraft] ?? [];
     return this.buildNormalizedOptions(byModality, this.communicativeFunctionDraft);
-  }
-
-  /** Builds the combined reference text from selected provisions */
-  private buildCombinedReference(): string {
-    return this.selectedProvisions.map(p => p.doc.text).join('\n\n');
   }
 
   /* =========================
@@ -148,13 +150,13 @@ export class WidgetRewrite implements OnChanges {
 
   async initializeCommodityAndSearch(sessionId: number): Promise<void> {
     if (this.commodities.length) {
-      await this.searchProvisions(sessionId);
+      await this.analyzeSections(sessionId);
       return;
     }
 
     await this.identifyCommodity(sessionId);
     if (this.commodities.length) {
-      await this.searchProvisions(sessionId);
+      await this.analyzeSections(sessionId);
     }
   }
 
@@ -187,62 +189,69 @@ export class WidgetRewrite implements OnChanges {
     }
   }
 
-  /** Searches for normative provisions related to the sentence */
-  async searchProvisions(sessionId?: number): Promise<void> {
-    if (this.loadingProvisions) return;
+  /** Searches and analyzes section summaries related to the sentence. */
+  async analyzeSections(sessionId?: number): Promise<void> {
+    if (this.loadingSections) return;
 
     const commodities = this.normalizeCommodities(this.commodities);
     if (!commodities.length) {
-      this.clearProvisions();
-      this.searchError = 'Please provide at least one commodity before searching provisions.';
+      this.clearSections();
+      this.searchError = 'Please provide at least one commodity before analyzing sections.';
       return;
     }
 
-    this.loadingProvisions = true;
+    this.loadingSections = true;
     this.searchError = null;
     this.commodityError = null;
-    this.provisions = [];
-    this.selectedProvisions = [];
+    this.sections = [];
+    this.selectedSections = [];
+    this.plan = null;
+    this.selectedChanges = [];
+    this.result = null;
 
     try {
       const response = await firstValueFrom(
-        this.crd13Api.searchProvisions(this.sentence, commodities)
+        this.crd13Api.analyzeAttestationSections(this.sentence, commodities)
       );
       if (sessionId != null && sessionId !== this.openSessionId) {
         return;
       }
 
-      this.provisions = this.mergeProvisions(response);
+      this.sections = this.mergeSections(response);
+      this.selectedSections = [...this.sections];
 
-      if (this.provisions.length === 0) {
-        this.searchError = 'No provisions found for this sentence.';
+      if (this.sections.length === 0) {
+        this.searchError = 'No relevant sections found for this sentence.';
       }
     } catch (e: any) {
-      this.searchError = e?.error?.message || e?.message || 'Failed to search provisions. Please try again.';
+      this.searchError = e?.error?.detail || e?.error?.message || e?.message || 'Failed to analyze sections. Please try again.';
     } finally {
-      this.loadingProvisions = false;
+      this.loadingSections = false;
     }
   }
 
-  /** Toggles selection of a provision */
-  toggleProvision(p: Provision): void {
-    const idx = this.selectedProvisions.findIndex(s => s.rank === p.rank && s.doc.metadata.doc_id === p.doc.metadata.doc_id);
+  toggleSection(section: AttestationSectionReference): void {
+    const idx = this.selectedSections.findIndex(item => this.getSectionKey(item) === this.getSectionKey(section));
     if (idx >= 0) {
-      this.selectedProvisions.splice(idx, 1);
+      this.selectedSections.splice(idx, 1);
     } else {
-      this.selectedProvisions.push(p);
+      this.selectedSections.push(section);
     }
+    this.plan = null;
+    this.selectedChanges = [];
+    this.result = null;
   }
 
-  /** Returns true if a provision is currently selected */
-  isSelected(p: Provision): boolean {
-    return this.selectedProvisions.some(s => s.rank === p.rank && s.doc.metadata.doc_id === p.doc.metadata.doc_id);
+  isSectionSelected(section: AttestationSectionReference): boolean {
+    return this.selectedSections.some(item => this.getSectionKey(item) === this.getSectionKey(section));
   }
 
-  /** Clears the provision list and selection */
-  clearProvisions(): void {
-    this.provisions = [];
-    this.selectedProvisions = [];
+  clearSections(): void {
+    this.sections = [];
+    this.selectedSections = [];
+    this.plan = null;
+    this.selectedChanges = [];
+    this.result = null;
     this.searchError = null;
   }
 
@@ -279,43 +288,71 @@ export class WidgetRewrite implements OnChanges {
 
   async refreshCommodityAndSearch(): Promise<void> {
     const sessionId = this.openSessionId;
-    this.clearProvisions();
+    this.clearSections();
 
     this.addCommodityFromInput();
     if (this.commodities.length) {
-      await this.searchProvisions(sessionId);
+      await this.analyzeSections(sessionId);
       return;
     }
 
     this.manualCommodityOverride = false;
     await this.identifyCommodity(sessionId);
     if (this.commodities.length) {
-      await this.searchProvisions(sessionId);
+      await this.analyzeSections(sessionId);
     }
   }
 
-  /** Calls the rewrite endpoint */
+  /** Plans and applies section-supported rewrite changes. */
   async generate(): Promise<void> {
     if (!this.hasReference || this.loading) return;
 
     this.loading = true;
     this.error = null;
     this.result = null;
+    this.plan = null;
+    this.selectedChanges = [];
 
     try {
-      const response = await firstValueFrom(
-        this.crd13Api.rewriteAttestation(this.sentence, this.selectedProvisions)
+      const plan = await firstValueFrom(
+        this.crd13Api.planAttestationRewriteChanges(this.sentence, this.selectedSections)
       );
+      this.plan = plan || {};
+      this.selectedChanges = Array.isArray(plan?.changes) ? plan.changes : [];
+
+      if (!this.selectedChanges.length) {
+        const notes = Array.isArray(plan?.notes) && plan.notes.length ? ` ${plan.notes.join(' ')}` : '';
+        this.result = {
+          original: this.sentence,
+          text: this.sentence,
+          modality: this.defaultModality(),
+          communicative_function: this.defaultCommunicativeFunction(),
+          template: `Change plan: ${plan?.decision || 'unchanged'}.${notes}`,
+          commodity: this.commodities,
+        };
+        this.rewriteTextDraft = this.sentence;
+        this.modalityDraft = this.result.modality;
+        this.communicativeFunctionDraft = this.result.communicative_function;
+        return;
+      }
+
+      const application = await firstValueFrom(
+        this.crd13Api.applyAttestationChanges(this.sentence, this.selectedChanges)
+      );
+      const rewritten = String(application?.rewritten_attestation || this.sentence).trim();
       this.result = {
-        ...response,
+        original: this.sentence,
+        text: rewritten,
+        modality: this.defaultModality(),
+        communicative_function: this.defaultCommunicativeFunction(),
+        template: `Section-guided rewrite: ${application?.decision || plan?.decision || 'rewritten'}`,
         commodity: this.commodities
       };
-      this.rewriteTextDraft = String(response?.text ?? '').trim();
-      this.modalityDraft = String(response?.modality ?? '').trim();
-      this.communicativeFunctionDraft = String(response?.communicative_function ?? '').trim();
-      console.log('Rewrite result:', response);
+      this.rewriteTextDraft = rewritten;
+      this.modalityDraft = this.result.modality;
+      this.communicativeFunctionDraft = this.result.communicative_function;
     } catch (e: any) {
-      this.error = e?.error?.message || e?.message || 'Failed to rewrite. Please try again.';
+      this.error = e?.error?.detail || e?.error?.message || e?.message || 'Failed to rewrite. Please try again.';
     } finally {
       this.loading = false;
     }
@@ -375,11 +412,13 @@ export class WidgetRewrite implements OnChanges {
     this.modalityDraft = '';
     this.communicativeFunctionDraft = '';
     this.identifyingCommodity = false;
-    this.loadingProvisions = false;
+    this.loadingSections = false;
     this.commodityError = null;
     this.searchError = null;
-    this.provisions = [];
-    this.selectedProvisions = [];
+    this.sections = [];
+    this.selectedSections = [];
+    this.plan = null;
+    this.selectedChanges = [];
     this.commodityInput = '';
   }
 
@@ -410,29 +449,25 @@ export class WidgetRewrite implements OnChanges {
     return unique;
   }
 
-  private mergeProvisions(provisions: Provision[]): Provision[] {
-    const dedup = new Map<string, Provision>();
+  private mergeSections(sections: AttestationSectionReference[]): AttestationSectionReference[] {
+    const dedup = new Map<string, AttestationSectionReference>();
 
-    for (const provision of provisions) {
-      const key = this.getProvisionKey(provision);
+    for (const section of sections || []) {
+      const key = this.getSectionKey(section);
       const current = dedup.get(key);
-      if (!current || provision.similarity > current.similarity) {
-        dedup.set(key, provision);
+      if (!current) {
+        dedup.set(key, section);
       }
     }
 
-    return Array.from(dedup.values()).sort((a, b) => {
-      if (b.similarity !== a.similarity) return b.similarity - a.similarity;
-      return a.rank - b.rank;
-    });
+    return Array.from(dedup.values());
   }
 
-  private getProvisionKey(provision: Provision): string {
-    const docId = String(provision?.doc?.metadata?.doc_id ?? '').trim();
-    const text = String(provision?.doc?.text ?? '').trim().toLowerCase();
-    const section = String(provision?.doc?.metadata?.section ?? '').trim();
-    const page = String(provision?.doc?.metadata?.page ?? '').trim();
-    return `${docId}::${section}::${page}::${text}`;
+  private getSectionKey(section: AttestationSectionReference): string {
+    const docId = String(section?.doc_id ?? '').trim();
+    const sectionId = String(section?.section_id ?? '').trim();
+    const sectionTitle = String(section?.section ?? '').trim();
+    return `${docId}::${sectionId}::${sectionTitle}`;
   }
 
   private buildNormalizedOptions(options: string[] | null | undefined, currentValue: string): string[] {
@@ -448,5 +483,14 @@ export class WidgetRewrite implements OnChanges {
     }
 
     return Array.from(new Set(normalized)).sort((a, b) => a.localeCompare(b));
+  }
+
+  private defaultModality(): string {
+    return this.buildNormalizedOptions(this.modalityOptions, '')[0] || 'undefined';
+  }
+
+  private defaultCommunicativeFunction(): string {
+    const byModality = this.communicativeFunctionOptionsByModality?.[this.defaultModality()] ?? [];
+    return this.buildNormalizedOptions(byModality.length ? byModality : this.communicativeFunctionOptions, '')[0] || 'undefined';
   }
 }

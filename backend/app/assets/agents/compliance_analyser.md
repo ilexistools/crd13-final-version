@@ -75,7 +75,7 @@ The output must follow this structure:
       "explanation": "string"
     },
     {
-      "principle": "B",
+      "principle": "B2",
       "principle_name": "Transparency and Objectivity",
       "compliance": "Compliant | Partially Compliant | Non-Compliant",
       "relevant_text_fragment": "string",
@@ -179,7 +179,7 @@ Evaluate the attestation against each of the following principles:
 | A2        | Identification of Key Attestation Elements           |
 | A3        | Determination of Modality and Communicative Function |
 | B1        | Break into Separate Attestations                     |
-| B         | Transparency and Objectivity                         |
+| B2        | Transparency and Objectivity                         |
 | C         | Verifiability and Auditability                       |
 | D         | Interoperability                                     |
 | E         | Preservation of Meaning                              |
@@ -262,7 +262,7 @@ Use this file as the single reference source when evaluating sanitary, veterinar
 | A2 | Identification of Key Attestation Elements |
 | A3 | Determination of Modality and Communicative Function |
 | B1 | Break into Separate Attestations |
-| B | Transparency and Objectivity |
+| B2 | Transparency and Objectivity |
 | C | Verifiability and Auditability |
 | D | Interoperability |
 | E | Preservation of Meaning |
@@ -401,9 +401,9 @@ Output:
 
 ---
 
-# Principle B: Transparency and Objectivity
+# Principle B2: Transparency and Objectivity
 
-Evaluate the attestation according to Principle B:
+Evaluate the attestation according to Principle B2:
 Transparency and Objectivity.
 
 Identify terms that are:
