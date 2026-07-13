@@ -11,6 +11,7 @@ from app.tools.unitization import UnitizationTool
 from app.tools.provisions_search import ProvisionsSearchTool
 from app.tools.attestation_section_search import AttestationSectionSearchTool
 from app.tools.triple_generation import TripleGenerationTool
+from app.tools.key_elements_extraction import KeyElementsExtractionTool
 from app.tools.attestation_analyser import AttestationAnalyserTool
 from app.tools.attestation_section_analyser import AttestationSectionAnalyserTool
 from app.tools.attestation_rewriter import AttestationRewriteTool
@@ -28,6 +29,7 @@ provisions_search = ProvisionsSearchTool()
 attestation_section_search = AttestationSectionSearchTool()
 attestation_section_analyser = AttestationSectionAnalyserTool()
 triple_generator = TripleGenerationTool()
+key_elements_extractor = KeyElementsExtractionTool()
 attestation_analyser = AttestationAnalyserTool()
 attestation_rewriter = AttestationRewriteTool()
 attestation_rewrite_change_planner = AttestationRewriteChangePlannerTool()
@@ -196,6 +198,17 @@ async def analyze_attestation_sections(payload: Any = Body(...)) -> OutputRespon
 @app.post("/generate_triples", response_model=OutputResponse)
 async def generate_triples(payload: InputRequest) -> OutputResponse:
     result = await triple_generator.run_async(payload.input.get("text", ""))
+    return OutputResponse(output=result)
+
+@app.post("/extract_key_elements", response_model=OutputResponse)
+async def extract_key_elements(payload: InputRequest) -> OutputResponse:
+    attestation = payload.input.get("attestation")
+    if attestation is None:
+        attestation = payload.input.get("text", "")
+    if not isinstance(attestation, str) or not attestation.strip():
+        raise HTTPException(status_code=422, detail="input.attestation must be a non-empty string.")
+
+    result = await key_elements_extractor.run_async(attestation)
     return OutputResponse(output=result)
 
 @app.post("/analyze_attestation", response_model=OutputResponse)

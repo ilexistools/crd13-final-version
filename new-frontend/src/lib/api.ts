@@ -43,6 +43,19 @@ export type UnitTriples = {
   unit: number
 }
 
+export type KeyElements = {
+  products: string[]
+  animals: string[]
+  establishments: string[]
+  authorities: string[]
+  countries: string[]
+  zones: string[]
+  diseases: string[]
+  activities: string[]
+  conditions: string[]
+  regulatory_assurances: string[]
+}
+
 export type ComplianceReport = {
   overall_status: ComplianceStatus
   summary: {
@@ -234,6 +247,14 @@ export async function analyzeCompliance(attestation: string) {
 export async function generateTriples(text: string) {
   const response = await api.post('/generate_triples', {
     input: { text },
+  })
+
+  return response.data.output
+}
+
+export async function extractKeyElements(attestation: string) {
+  const response = await api.post('/extract_key_elements', {
+    input: { attestation },
   })
 
   return response.data.output

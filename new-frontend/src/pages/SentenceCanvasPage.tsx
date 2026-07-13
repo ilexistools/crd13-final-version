@@ -32,7 +32,7 @@ import {
   Typography,
 } from '@mui/material'
 import { useEffect, useState, type KeyboardEvent, type MouseEvent, type ReactNode } from 'react'
-import { ComplianceReport, ComplianceReportRow, apiBaseUrl, type AttestationSectionReference, type ComplianceStatus, type ProvisionReference, type ReferenceDocument, type UnitComplianceAnalysis, type UnitComplianceStatus, type UnitTriples } from '../lib/api'
+import { ComplianceReport, ComplianceReportRow, apiBaseUrl, type AttestationSectionReference, type ComplianceStatus, type KeyElements, type ProvisionReference, type ReferenceDocument, type UnitComplianceAnalysis, type UnitComplianceStatus, type UnitTriples } from '../lib/api'
 import type { AttestationUnit } from '../lib/editorUnits'
 
 export type EditorView = 'units' | 'compliance' | 'references'
@@ -2067,7 +2067,7 @@ function UnitDataPanel({
   triples?: unknown
   unitAnalysis?: UnitComplianceAnalysis
 }) {
-  const content = getUnitDataPanelContent(activeView, originalText, unitAnalysis, isGeneratingTriples)
+  const content = getUnitDataPanelContent(activeView, originalText, isGeneratingTriples)
 
   return (
     <Box
@@ -2090,6 +2090,8 @@ function UnitDataPanel({
         </Stack>
       ) : activeView === 'triples' ? (
         <TriplesView attestationText={attestationText} triples={triples} />
+      ) : activeView === 'key-elements' ? (
+        <KeyElementsView unitAnalysis={unitAnalysis} />
       ) : content}
     </Box>
   )
@@ -2098,7 +2100,6 @@ function UnitDataPanel({
 function getUnitDataPanelContent(
   activeView: UnitDataView,
   originalText: string,
-  unitAnalysis?: UnitComplianceAnalysis,
   isGeneratingTriples = false,
 ) {
   if (activeView === 'original-text') {
@@ -2106,12 +2107,7 @@ function getUnitDataPanelContent(
   }
 
   if (activeView === 'key-elements') {
-    const keyElementsAssessment = getUnitPrincipleAssessments(unitAnalysis?.analysis)
-      .find((assessment) => assessment.principle === 'A2')
-
-    return keyElementsAssessment?.issue_identified
-      || keyElementsAssessment?.explanation
-      || 'No key attestation elements analysis is available for this unit yet.'
+    return ''
   }
 
   if (activeView === 'triples') {
@@ -2123,6 +2119,73 @@ function getUnitDataPanelContent(
   }
 
   return ''
+}
+
+const keyElementLabels: Array<{ key: keyof KeyElements; label: string }> = [
+  { key: 'products', label: 'Products' },
+  { key: 'animals', label: 'Animals' },
+  { key: 'establishments', label: 'Establishments' },
+  { key: 'authorities', label: 'Authorities' },
+  { key: 'countries', label: 'Countries' },
+  { key: 'zones', label: 'Zones' },
+  { key: 'diseases', label: 'Diseases / hazards' },
+  { key: 'activities', label: 'Activities' },
+  { key: 'conditions', label: 'Conditions' },
+  { key: 'regulatory_assurances', label: 'Regulatory assurances' },
+]
+
+function KeyElementsView({ unitAnalysis }: { unitAnalysis?: UnitComplianceAnalysis }) {
+  const keyElements = getUnitKeyElements(unitAnalysis?.analysis)
+  const populatedRows = keyElementLabels
+    .map(({ key, label }) => ({ key, label, values: keyElements[key] ?? [] }))
+    .filter(({ values }) => values.length > 0)
+
+  if (populatedRows.length === 0) {
+    const keyElementsAssessment = getUnitPrincipleAssessments(unitAnalysis?.analysis)
+      .find((assessment) => assessment.principle === 'A2')
+
+    return (
+      <Box>
+        {keyElementsAssessment?.issue_identified
+          || keyElementsAssessment?.explanation
+          || 'No key attestation elements have been extracted for this unit yet.'}
+      </Box>
+    )
+  }
+
+  return (
+    <Stack spacing={1}>
+      {populatedRows.map(({ key, label, values }) => (
+        <Box key={key}>
+          <Typography component="div" sx={{ color: '#172033', fontSize: 12, fontWeight: 900, mb: 0.5 }}>
+            {label}
+          </Typography>
+          <Stack direction="row" flexWrap="wrap" gap={0.5}>
+            {values.map((value, index) => (
+              <Chip
+                key={`${key}-${value}-${index}`}
+                label={value}
+                size="small"
+                sx={{
+                  bgcolor: '#ffffff',
+                  border: '1px solid #d8deea',
+                  borderRadius: 1,
+                  color: '#334155',
+                  fontWeight: 700,
+                  maxWidth: '100%',
+                  '& .MuiChip-label': {
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                  },
+                }}
+                variant="outlined"
+              />
+            ))}
+          </Stack>
+        </Box>
+      ))}
+    </Stack>
+  )
 }
 
 type TripleParts = {
@@ -2310,6 +2373,23 @@ function getTriplesFallbackContent(triples: unknown) {
 
 function getTriplesResults(triples: unknown) {
   return isRecord(triples) && 'results' in triples ? triples.results : triples
+}
+
+function getUnitKeyElements(analysis: unknown): KeyElements {
+  const results = getUnitAnalysisResults(analysis)
+  const rawElements = isRecord(results.identified_elements)
+    ? results.identified_elements
+    : isRecord(results.key_elements)
+      ? results.key_elements
+      : {}
+
+  return keyElementLabels.reduce((elements, { key }) => {
+    const rawValues = rawElements[key]
+    elements[key] = Array.isArray(rawValues)
+      ? rawValues.filter((value): value is string => typeof value === 'string' && value.trim().length > 0)
+      : []
+    return elements
+  }, {} as KeyElements)
 }
 
 function getTripleParts(triple: unknown): TripleParts | null {
