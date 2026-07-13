@@ -88,10 +88,10 @@ export function HomePage({
       >
         <Box sx={{ textAlign: 'center' }}>
           <Typography component="h1" sx={{ fontSize: { xs: 32, md: 44 }, fontWeight: 800, lineHeight: 1.1 }}>
-            Start a new editing project
+            Start a new attestation editing project
           </Typography>
           <Typography color="text.secondary" sx={{ mx: 'auto', mt: 1.5, maxWidth: 620 }}>
-            Choose the source for your first set of editable text units.
+            Choose the source for the first set of attestations you want to edit.
           </Typography>
         </Box>
 

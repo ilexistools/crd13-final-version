@@ -31,7 +31,8 @@ class UnitizationTool:
         nlp = _get_nlp()
         doc = nlp(text)
         sentences = [sent.text for sent in doc.sents]
-        prompt = f"Break down the following text into smaller, manageable units: {'\n'.join(sentences)}"
+        sentence_text = "\n".join(sentences)
+        prompt = f"Break down the following text into smaller, manageable units: {sentence_text}"
         result = self.__gpt_unitizer.run_sync(prompt)
         return {'input':{"text": text},'results': result.units}
 
@@ -39,6 +40,7 @@ class UnitizationTool:
         nlp = _get_nlp()
         doc = nlp(text)
         sentences = [sent.text for sent in doc.sents]
-        prompt = f"Break down the following text into smaller, manageable units: {'\n'.join(sentences)}"
+        sentence_text = "\n".join(sentences)
+        prompt = f"Break down the following text into smaller, manageable units: {sentence_text}"
         result = await self.__gpt_unitizer.run(prompt)
         return {'input':{"text": text},'results': result.units}

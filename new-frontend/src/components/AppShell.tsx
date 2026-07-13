@@ -2,6 +2,7 @@ import AddOutlinedIcon from '@mui/icons-material/AddOutlined'
 import AutoFixHighOutlinedIcon from '@mui/icons-material/AutoFixHighOutlined'
 import CallSplitOutlinedIcon from '@mui/icons-material/CallSplitOutlined'
 import CategoryOutlinedIcon from '@mui/icons-material/CategoryOutlined'
+import ChatOutlinedIcon from '@mui/icons-material/ChatOutlined'
 import CloseOutlinedIcon from '@mui/icons-material/CloseOutlined'
 import CloudUploadOutlinedIcon from '@mui/icons-material/CloudUploadOutlined'
 import ContentPasteOutlinedIcon from '@mui/icons-material/ContentPasteOutlined'
@@ -45,22 +46,32 @@ import {
 } from '@mui/material'
 import { ChangeEvent, MouseEvent, type KeyboardEvent as ReactKeyboardEvent, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { SentenceCanvasPage, type EditorView } from '../pages/SentenceCanvasPage'
+import { SentenceCanvasPage, getUnitAnalysisStatus, type EditorView } from '../pages/SentenceCanvasPage'
 import { splitIntoSentences } from '../lib/sentences'
 import {
   ComplianceReport,
+  type AgentSelectedUnit,
+  type AgentUnitEditExecution,
+  type AgentUnitEditPlan,
   type AttestationCorrectionResult,
   type AttestationChangeApplicationResult,
   type AttestationRewritePlanResult,
   type AttestationSectionReference,
   type ComplianceStatus,
+  type ProvisionReference,
+  type ReferenceDocument,
   type UnitComplianceAnalysis,
   type UnitComplianceStatus,
   type UnitTriples,
   analyzeAttestationSections,
   applyAttestationChanges,
+  executeAgentUnitEdits,
   extractPdfText,
+  listReferenceDocuments,
+  planAgentUnitEdits,
   planAttestationRewriteChanges,
+  searchAttestationSections,
+  searchProvisions,
   suggestAttestationCorrection,
   unitizeText,
 } from '../lib/api'
@@ -131,6 +142,11 @@ type AdjustFeedback = {
   message: string
 } | null
 
+type AgentFeedback = {
+  severity: 'error' | 'info' | 'success' | 'warning'
+  message: string
+} | null
+
 export function AppShell({
   analysisProgress,
   analyzingUnitNumbers,
@@ -157,7 +173,7 @@ export function AppShell({
   const [redoStack, setRedoStack] = useState<EditorSnapshot[]>([])
   const [pendingRemoval, setPendingRemoval] = useState<null | { type: 'single'; index: number } | { type: 'selected' }>(null)
   const [isExitDialogOpen, setIsExitDialogOpen] = useState(false)
-  const [activeToolPanel, setActiveToolPanel] = useState<null | 'adjust' | 'commodities' | 'templates' | 'rewrite'>(null)
+  const [activeToolPanel, setActiveToolPanel] = useState<null | 'adjust' | 'agent' | 'commodities' | 'templates' | 'rewrite'>(null)
   const [activeView, setActiveView] = useState<EditorView>('units')
   const [commodityInput, setCommodityInput] = useState('')
   const [templates, setTemplates] = useState<TemplateItem[]>(() => getTemplates().items)
@@ -173,6 +189,20 @@ export function AppShell({
   const [adjustBusyIndex, setAdjustBusyIndex] = useState<number | null>(null)
   const [adjustFeedback, setAdjustFeedback] = useState<AdjustFeedback>(null)
   const [adjustResult, setAdjustResult] = useState<null | { index: number; original: string; result: AttestationCorrectionResult }>(null)
+  const [agentRequest, setAgentRequest] = useState('')
+  const [agentFeedback, setAgentFeedback] = useState<AgentFeedback>(null)
+  const [agentPlan, setAgentPlan] = useState<AgentUnitEditPlan | null>(null)
+  const [agentExecution, setAgentExecution] = useState<AgentUnitEditExecution | null>(null)
+  const [isAgentPlanning, setIsAgentPlanning] = useState(false)
+  const [isAgentExecuting, setIsAgentExecuting] = useState(false)
+  const [referenceQuery, setReferenceQuery] = useState('')
+  const [referenceResults, setReferenceResults] = useState<AttestationSectionReference[]>([])
+  const [referenceProvisionResults, setReferenceProvisionResults] = useState<ProvisionReference[]>([])
+  const [referenceSearchError, setReferenceSearchError] = useState('')
+  const [isSearchingReferences, setIsSearchingReferences] = useState(false)
+  const [referenceDocuments, setReferenceDocuments] = useState<ReferenceDocument[]>([])
+  const [referenceDocumentsError, setReferenceDocumentsError] = useState('')
+  const [isLoadingReferenceDocuments, setIsLoadingReferenceDocuments] = useState(false)
   const fileInputRef = useRef<HTMLInputElement>(null)
   const navigate = useNavigate()
   const sentences = useMemo(() => units.map((unit) => unit.text), [units])
@@ -210,6 +240,10 @@ export function AppShell({
     setUndoStack([])
     setRedoStack([])
     setActiveView('units')
+    setReferenceQuery('')
+    setReferenceResults([])
+    setReferenceProvisionResults([])
+    setReferenceSearchError('')
   }, [initialSentences])
 
   useEffect(() => {
@@ -218,23 +252,58 @@ export function AppShell({
     }
   }, [analyzingUnitNumbers.length, isAnalyzingCompliance])
 
+  useEffect(() => {
+    let isCurrent = true
+
+    const loadDocuments = async () => {
+      if (commodities.length === 0) {
+        setReferenceDocuments([])
+        setReferenceDocumentsError('')
+        setIsLoadingReferenceDocuments(false)
+        return
+      }
+
+      setIsLoadingReferenceDocuments(true)
+      setReferenceDocumentsError('')
+
+      try {
+        const documents = await listReferenceDocuments(commodities)
+        if (isCurrent) {
+          setReferenceDocuments(documents)
+        }
+      } catch (error) {
+        if (isCurrent) {
+          setReferenceDocuments([])
+          setReferenceDocumentsError(error instanceof Error ? error.message : 'Could not load reference documents.')
+        }
+      } finally {
+        if (isCurrent) {
+          setIsLoadingReferenceDocuments(false)
+        }
+      }
+    }
+
+    void loadDocuments()
+
+    return () => {
+      isCurrent = false
+    }
+  }, [commodities])
+
   const editorViews: EditorViewDefinition[] = [
     { id: 'units', label: 'Units' },
     { id: 'compliance', label: 'Compliance', isLoading: isAnalyzingCompliance },
+    { id: 'references', label: 'References', isLoading: isSearchingReferences },
   ]
 
   const unitComplianceStatuses = useMemo<UnitComplianceStatus[]>(() => {
-    if (!complianceReport) {
-      return sentences.map((_, index) => analyzingUnitNumbers.includes(index + 1) ? 'Analyzing' : null)
-    }
-
     const statusesByUnit = new Map<number, ComplianceStatus>()
 
-    complianceReport.unit_summaries?.forEach((unitSummary) => {
+    complianceReport?.unit_summaries?.forEach((unitSummary) => {
       statusesByUnit.set(unitSummary.unit, unitSummary.status)
     })
 
-    complianceReport.rows.forEach((row) => {
+    complianceReport?.rows.forEach((row) => {
       row.affected_units.forEach((unit) => {
         const currentStatus = statusesByUnit.get(unit)
 
@@ -251,9 +320,15 @@ export function AppShell({
         return 'Analyzing'
       }
 
-      return statusesByUnit.get(unit) ?? 'Compliant'
+      const unitAnalysis = unitAnalyses.find((analysis) => analysis.unit === unit)
+
+      if (unitAnalysis) {
+        return getUnitAnalysisStatus(unitAnalysis.analysis)
+      }
+
+      return statusesByUnit.get(unit) ?? null
     })
-  }, [analyzingUnitNumbers, complianceReport, sentences])
+  }, [analyzingUnitNumbers, complianceReport, sentences, unitAnalyses])
 
   const createSnapshot = useCallback((): EditorSnapshot => ({
     lockedIndexes: [...lockedIndexes],
@@ -610,6 +685,9 @@ export function AppShell({
 
     onCommoditiesChange([...commodities, nextCommodity])
     setCommodityInput('')
+    setReferenceResults([])
+    setReferenceProvisionResults([])
+    setReferenceSearchError('')
   }
 
   const handleCommodityKeyDown = (event: ReactKeyboardEvent<HTMLInputElement>) => {
@@ -621,6 +699,36 @@ export function AppShell({
 
   const removeCommodity = (commodity: string) => {
     onCommoditiesChange(commodities.filter((item) => item !== commodity))
+    setReferenceResults([])
+    setReferenceProvisionResults([])
+    setReferenceSearchError('')
+  }
+
+  const handleSearchReferences = async () => {
+    const query = referenceQuery.trim()
+
+    if (!query || commodities.length === 0 || isSearchingReferences) {
+      return
+    }
+
+    setIsSearchingReferences(true)
+    setReferenceSearchError('')
+    setActiveView('references')
+
+    try {
+      const [sections, provisions] = await Promise.all([
+        searchAttestationSections(query, commodities),
+        searchProvisions(query, commodities),
+      ])
+      setReferenceResults(sections)
+      setReferenceProvisionResults(provisions)
+    } catch (error) {
+      setReferenceResults([])
+      setReferenceProvisionResults([])
+      setReferenceSearchError(error instanceof Error ? error.message : 'Could not search reference sections or provisions.')
+    } finally {
+      setIsSearchingReferences(false)
+    }
   }
 
   const applyTemplateToUnit = (unit: AttestationUnit, template: TemplateItem): AttestationUnit => {
@@ -796,12 +904,12 @@ export function AppShell({
     setActiveView('units')
   }
 
-  const handleUnitizeSelectedUnits = async () => {
-    if (selectedIndexes.size === 0 || unitizingIndexes.size > 0) {
+  const handleUnitizeIndexes = async (indexes: number[]) => {
+    if (indexes.length === 0 || unitizingIndexes.size > 0) {
       return
     }
 
-    const selectedIndexesToUnitize = [...selectedIndexes]
+    const selectedIndexesToUnitize = [...new Set(indexes)]
       .filter((selectedIndex) => !lockedIndexes.has(selectedIndex) && (sentences[selectedIndex] ?? '').trim())
       .sort((left, right) => left - right)
 
@@ -893,7 +1001,23 @@ export function AppShell({
     }
   }
 
+  const handleUnitizeSelectedUnits = async () => {
+    if (selectedIndexes.size === 0) {
+      return
+    }
+
+    await handleUnitizeIndexes([...selectedIndexes])
+  }
+
+  const handleUnitizeSentence = (index: number) => {
+    void handleUnitizeIndexes([index])
+  }
+
   const selectedRewriteIndexes = useMemo(
+    () => selectedIndexList.filter((index) => !lockedIndexes.has(index) && (sentences[index] ?? '').trim()),
+    [lockedIndexes, selectedIndexList, sentences],
+  )
+  const selectedAgentIndexes = useMemo(
     () => selectedIndexList.filter((index) => !lockedIndexes.has(index) && (sentences[index] ?? '').trim()),
     [lockedIndexes, selectedIndexList, sentences],
   )
@@ -1287,6 +1411,175 @@ export function AppShell({
     onUnitsStructureChange()
   }
 
+  const buildAgentSelectedUnits = (): AgentSelectedUnit[] =>
+    selectedAgentIndexes.map((index) => ({
+      id: units[index]?.id,
+      originalText: units[index]?.originalText,
+      text: sentences[index] ?? '',
+      unit: index + 1,
+    }))
+
+  const buildAgentContext = () => ({
+    unit_analyses: unitAnalyses,
+    unit_triples: unitTriples,
+    compliance_report: complianceReport,
+  })
+
+  const handlePlanAgentRequest = async () => {
+    const request = agentRequest.trim()
+
+    if (!request) {
+      setAgentFeedback({ severity: 'warning', message: 'Describe what the agent should change.' })
+      return
+    }
+
+    if (selectedAgentIndexes.length === 0) {
+      setAgentFeedback({ severity: 'warning', message: 'Select at least one unlocked unit with attestation text.' })
+      return
+    }
+
+    setIsAgentPlanning(true)
+    setAgentFeedback(null)
+    setAgentPlan(null)
+    setAgentExecution(null)
+
+    try {
+      const plan = await planAgentUnitEdits(
+        request,
+        buildAgentSelectedUnits(),
+        commodities,
+        buildAgentContext(),
+      )
+      setAgentPlan(plan)
+      setAgentFeedback({
+        severity: plan.requires_clarification ? 'warning' : 'success',
+        message: plan.requires_clarification
+          ? 'The agent needs a clearer request before execution.'
+          : 'Plan ready. Review it before executing.',
+      })
+    } catch (error) {
+      const message = error instanceof Error && error.message
+        ? error.message
+        : 'The agent could not create a plan.'
+      setAgentFeedback({ severity: 'error', message: `Could not plan request. ${message}` })
+    } finally {
+      setIsAgentPlanning(false)
+    }
+  }
+
+  const handleExecuteAgentPlan = async () => {
+    const request = agentRequest.trim()
+
+    if (!agentPlan || agentPlan.requires_clarification || !request) {
+      setAgentFeedback({ severity: 'warning', message: 'Approve a complete plan before executing.' })
+      return
+    }
+
+    if (selectedAgentIndexes.length === 0) {
+      setAgentFeedback({ severity: 'warning', message: 'Select at least one unlocked unit with attestation text.' })
+      return
+    }
+
+    setIsAgentExecuting(true)
+    setAgentFeedback(null)
+    setAgentExecution(null)
+
+    try {
+      const execution = await executeAgentUnitEdits(
+        request,
+        agentPlan,
+        buildAgentSelectedUnits(),
+        commodities,
+        buildAgentContext(),
+      )
+      setAgentExecution(execution)
+      setAgentFeedback({
+        severity: execution.updates.some((update) => update.changed) ? 'success' : 'info',
+        message: execution.updates.some((update) => update.changed)
+          ? 'Agent results are ready for review.'
+          : 'The agent did not find safe changes to apply.',
+      })
+    } catch (error) {
+      const message = error instanceof Error && error.message
+        ? error.message
+        : 'The agent execution failed.'
+      setAgentFeedback({ severity: 'error', message: `Could not execute plan. ${message}` })
+    } finally {
+      setIsAgentExecuting(false)
+    }
+  }
+
+  const handleApplyAgentResults = () => {
+    const changedUpdates = (agentExecution?.updates ?? [])
+      .filter((update) => update.changed && update.replacement_units.length > 0)
+      .filter((update) => !lockedIndexes.has(update.unit - 1))
+
+    if (changedUpdates.length === 0) {
+      setAgentFeedback({ severity: 'info', message: 'There are no changed agent results to apply.' })
+      return
+    }
+
+    const updatesByIndex = new Map(changedUpdates.map((update) => [update.unit - 1, update]))
+    const nextSelectedIndexes = new Set<number>()
+    let offset = 0
+
+    recordHistory()
+    setUnits((currentUnits) =>
+      currentUnits.flatMap((unit, index) => {
+        const update = updatesByIndex.get(index)
+
+        if (!update) {
+          return [unit]
+        }
+
+        const replacements = update.replacement_units.map((text, replacementIndex) =>
+          replacementIndex === 0
+            ? {
+                ...unit,
+                originalText: unit.originalText || unit.text,
+                templateId: undefined,
+                templateMode: 'free_text' as const,
+                templateSnapshot: undefined,
+                templateState: undefined,
+                text,
+              }
+            : createAttestationUnit(text, {
+                originalText: unit.text,
+              }),
+        )
+
+        replacements.forEach((_, replacementIndex) => {
+          nextSelectedIndexes.add(index + offset + replacementIndex)
+        })
+        offset += replacements.length - 1
+        return replacements
+      }),
+    )
+    setLockedIndexes((currentLockedIndexes) => {
+      const nextLockedIndexes = new Set<number>()
+      let lockOffset = 0
+
+      units.forEach((_, index) => {
+        const update = updatesByIndex.get(index)
+        if (currentLockedIndexes.has(index) && !update) {
+          nextLockedIndexes.add(index + lockOffset)
+        }
+        if (update) {
+          lockOffset += update.replacement_units.length - 1
+        }
+      })
+
+      return nextLockedIndexes
+    })
+    setSelectedIndexes(nextSelectedIndexes)
+    setLastSelectedIndex(nextSelectedIndexes.size > 0 ? Math.max(...nextSelectedIndexes) : null)
+    setAgentFeedback({
+      severity: 'success',
+      message: changedUpdates.length === 1 ? 'Agent change applied.' : `Agent changes applied to ${changedUpdates.length} units.`,
+    })
+    onUnitsStructureChange()
+  }
+
   const sidebarItems = [
     {
       icon: <CloudUploadOutlinedIcon />,
@@ -1397,9 +1690,24 @@ export function AppShell({
             onClose={closeFileMenu}
             open={fileMenuOpen}
           >
-            <MenuItem onClick={handleImportClick}>Import</MenuItem>
-            <MenuItem onClick={handlePaste}>Paste</MenuItem>
-            <MenuItem disabled={units.length === 0} onClick={handleExport}>Export</MenuItem>
+            <MenuItem onClick={handleImportClick}>
+              <ListItemIcon sx={{ minWidth: 34 }}>
+                <CloudUploadOutlinedIcon fontSize="small" />
+              </ListItemIcon>
+              <ListItemText>Import</ListItemText>
+            </MenuItem>
+            <MenuItem onClick={handlePaste}>
+              <ListItemIcon sx={{ minWidth: 34 }}>
+                <ContentPasteOutlinedIcon fontSize="small" />
+              </ListItemIcon>
+              <ListItemText>Paste</ListItemText>
+            </MenuItem>
+            <MenuItem disabled={units.length === 0} onClick={handleExport}>
+              <ListItemIcon sx={{ minWidth: 34 }}>
+                <FileDownloadOutlinedIcon fontSize="small" />
+              </ListItemIcon>
+              <ListItemText>Export</ListItemText>
+            </MenuItem>
           </Menu>
           <Tooltip title="Undo">
             <span>
@@ -1485,16 +1793,16 @@ export function AppShell({
         sx={{
           bgcolor: '#f7f8fb',
           borderRight: '1px solid #dde2ea',
-          bottom: 0,
+          bottom: '72px',
           left: 0,
           overflowY: 'auto',
           position: 'fixed',
-          pt: `${topBarHeight}px`,
-          top: 0,
+          scrollPaddingBottom: '24px',
+          top: `${topBarHeight}px`,
           width: sideBarWidth,
         }}
       >
-        <List disablePadding sx={{ py: 1 }}>
+        <List disablePadding sx={{ pb: 3, pt: 1 }}>
           {sidebarItems.map((item) => (
             <ListItemButton
               disabled={item.disabled ?? false}
@@ -1596,6 +1904,27 @@ export function AppShell({
         />
       )}
 
+      {activeToolPanel === 'agent' && (
+        <AgentSidePanel
+          execution={agentExecution}
+          feedback={agentFeedback}
+          isExecuting={isAgentExecuting}
+          isPlanning={isAgentPlanning}
+          onApplyResults={handleApplyAgentResults}
+          onClose={() => setActiveToolPanel(null)}
+          onExecute={handleExecuteAgentPlan}
+          onPlan={handlePlanAgentRequest}
+          onRequestChange={(value) => {
+            setAgentRequest(value)
+            setAgentPlan(null)
+            setAgentExecution(null)
+          }}
+          plan={agentPlan}
+          request={agentRequest}
+          selectedCount={selectedAgentIndexes.length}
+        />
+      )}
+
       <Box
         component="main"
         sx={{
@@ -1612,21 +1941,37 @@ export function AppShell({
           commodities={commodities}
           complianceReport={complianceReport}
           isAnalyzingCompliance={isAnalyzingCompliance}
+          isLoadingReferenceDocuments={isLoadingReferenceDocuments}
+          isSearchingReferences={isSearchingReferences}
           onAddSentence={handleAddSentence}
           onClearSelection={handleClearSelection}
+          onReferenceQueryChange={(value) => {
+            setReferenceQuery(value)
+            setReferenceProvisionResults([])
+            setReferenceSearchError('')
+          }}
           onRemoveSelected={handleRequestRemoveSelected}
           onRemoveSentence={handleRequestRemoveSentence}
+          onSearchReferences={handleSearchReferences}
           onSelectAll={handleSelectAll}
           onSelectSentence={handleSelectSentence}
           onSentenceChange={handleSentenceChange}
           onToggleLockSentence={handleToggleLockSentence}
+          referenceQuery={referenceQuery}
+          referenceDocuments={referenceDocuments}
+          referenceDocumentsError={referenceDocumentsError}
+          referenceProvisionResults={referenceProvisionResults}
+          referenceResults={referenceResults}
+          referenceSearchError={referenceSearchError}
           lockedIndexes={lockedIndexes}
           selectedIndexes={selectedIndexes}
           units={units}
           generatingTripleUnitNumbers={generatingTripleUnitNumbers}
+          unitizingIndexes={unitizingIndexes}
           unitAnalyses={unitAnalyses}
           unitComplianceStatuses={unitComplianceStatuses}
           unitTriples={unitTriples}
+          onUnitizeSentence={handleUnitizeSentence}
         />
       </Box>
       <Dialog
@@ -1897,6 +2242,202 @@ function extractPrincipleIssues(analysis: unknown): Array<{
   const assessments = Array.isArray(results?.principle_assessments) ? results.principle_assessments : []
   return assessments.filter((item: any) =>
     item && ['Partially Compliant', 'Non-Compliant'].includes(String(item.compliance || '')),
+  )
+}
+
+type AgentSidePanelProps = {
+  execution: AgentUnitEditExecution | null
+  feedback: AgentFeedback
+  isExecuting: boolean
+  isPlanning: boolean
+  plan: AgentUnitEditPlan | null
+  request: string
+  selectedCount: number
+  onApplyResults: () => void
+  onClose: () => void
+  onExecute: () => void
+  onPlan: () => void
+  onRequestChange: (value: string) => void
+}
+
+function AgentSidePanel({
+  execution,
+  feedback,
+  isExecuting,
+  isPlanning,
+  onApplyResults,
+  onClose,
+  onExecute,
+  onPlan,
+  onRequestChange,
+  plan,
+  request,
+  selectedCount,
+}: AgentSidePanelProps) {
+  const changedCount = execution?.updates.filter((update) => update.changed).length ?? 0
+  const isBusy = isPlanning || isExecuting
+
+  return (
+    <Box
+      component="aside"
+      sx={{
+        bgcolor: '#ffffff',
+        borderRight: '1px solid #dde2ea',
+        bottom: 0,
+        boxShadow: '18px 0 32px rgba(33, 42, 66, 0.06)',
+        left: `${sideBarWidth}px`,
+        overflowY: 'auto',
+        position: 'fixed',
+        pt: `${topBarHeight}px`,
+        scrollPaddingBottom: '88px',
+        top: 0,
+        width: secondarySideBarWidth,
+        zIndex: 2,
+      }}
+    >
+      <Stack spacing={2} sx={{ p: 2, pb: '88px' }}>
+        <Stack alignItems="center" direction="row" justifyContent="space-between" spacing={1}>
+          <Box>
+            <Typography component="h2" sx={{ fontSize: 18, fontWeight: 900 }}>
+              Agent
+            </Typography>
+            <Typography color="text.secondary" sx={{ fontSize: 12, mt: 0.25 }}>
+              Plan first, then edit selected units.
+            </Typography>
+          </Box>
+          <Tooltip title="Close panel">
+            <IconButton aria-label="Close agent panel" onClick={onClose} size="small">
+              <CloseOutlinedIcon fontSize="small" />
+            </IconButton>
+          </Tooltip>
+        </Stack>
+
+        {feedback && (
+          <Alert severity={feedback.severity} sx={{ fontSize: 12 }}>
+            {feedback.message}
+          </Alert>
+        )}
+
+        <Box sx={{ bgcolor: '#f8fafc', border: '1px solid #e3e9f2', p: 1.5 }}>
+          <Typography sx={{ color: '#5f6675', fontSize: 12, fontWeight: 900, mb: 0.75 }}>
+            Selection
+          </Typography>
+          <Typography sx={{ fontSize: 13, fontWeight: 800 }}>
+            {selectedCount === 1 ? '1 editable unit selected' : `${selectedCount} editable units selected`}
+          </Typography>
+        </Box>
+
+        <TextField
+          disabled={isBusy}
+          label="Request"
+          minRows={5}
+          multiline
+          onChange={(event) => onRequestChange(event.target.value)}
+          placeholder="Ask the agent to edit the selected units..."
+          value={request}
+        />
+
+        <Button
+          disabled={isBusy || selectedCount === 0 || !request.trim()}
+          onClick={onPlan}
+          startIcon={isPlanning ? <CircularProgress size={16} /> : <ChatOutlinedIcon />}
+          variant="contained"
+        >
+          {isPlanning ? 'Planning...' : 'Plan request'}
+        </Button>
+
+        {plan && (
+          <Box sx={{ border: '1px solid #dfe6f2', p: 1.5 }}>
+            <Stack direction="row" justifyContent="space-between" spacing={1}>
+              <Typography sx={{ fontSize: 12, fontWeight: 900 }}>
+                What I will do
+              </Typography>
+              <Chip
+                color={plan.requires_clarification ? 'warning' : 'default'}
+                label={plan.requires_clarification ? 'needs clarification' : 'ready'}
+                size="small"
+              />
+            </Stack>
+            <Typography sx={{ color: '#172033', fontSize: 13, fontWeight: 800, lineHeight: 1.45, mt: 1 }}>
+              {plan.summary}
+            </Typography>
+            {plan.steps.length > 0 && (
+              <Stack spacing={0.5} sx={{ color: '#334155', fontSize: 12, lineHeight: 1.35, mt: 1 }}>
+                {plan.steps.slice(0, 3).map((step, index) => (
+                  <Typography key={`${step}-${index}`} sx={{ color: '#334155', fontSize: 12, lineHeight: 1.35 }}>
+                    {step}
+                  </Typography>
+                ))}
+              </Stack>
+            )}
+            <Typography sx={{ color: '#5f6675', fontSize: 12, lineHeight: 1.4, mt: 1.25 }}>
+              {plan.expected_result}
+            </Typography>
+            {plan.risks.length > 0 && (
+              <Stack spacing={0.5} sx={{ mt: 1 }}>
+                {plan.risks.map((risk, index) => (
+                  <Typography key={`${risk}-${index}`} sx={{ color: '#9a3412', fontSize: 12, lineHeight: 1.35 }}>
+                    {risk}
+                  </Typography>
+                ))}
+              </Stack>
+            )}
+          </Box>
+        )}
+
+        <Button
+          disabled={isBusy || !plan || plan.requires_clarification}
+          onClick={onExecute}
+          startIcon={isExecuting ? <CircularProgress size={16} /> : <AutoFixHighOutlinedIcon />}
+          variant="outlined"
+        >
+          {isExecuting ? 'Executing...' : 'Execute approved plan'}
+        </Button>
+
+        {execution && (
+          <Box sx={{ border: '1px solid #dfe6f2', p: 1.5 }}>
+            <Stack direction="row" justifyContent="space-between" spacing={1}>
+              <Typography sx={{ fontSize: 12, fontWeight: 900 }}>
+                Agent result
+              </Typography>
+              <Chip label={`${changedCount} changed`} size="small" />
+            </Stack>
+            <Typography sx={{ color: '#334155', fontSize: 12, lineHeight: 1.4, mt: 1 }}>
+              {execution.summary}
+            </Typography>
+            <Stack spacing={1} sx={{ mt: 1.25 }}>
+              {execution.updates.map((update) => (
+                <Box key={update.unit} sx={{ bgcolor: update.changed ? '#f1f5ff' : '#f8fafc', border: '1px solid #e3e9f2', p: 1 }}>
+                  <Typography sx={{ fontSize: 12, fontWeight: 900 }}>
+                    Unit {update.unit} {update.changed ? 'changed' : 'unchanged'}
+                  </Typography>
+                  <Stack spacing={0.5} sx={{ mt: 0.75 }}>
+                    {update.replacement_units.map((replacement, index) => (
+                      <Typography key={`${replacement}-${index}`} sx={{ color: '#172033', fontSize: 12, fontWeight: 800, lineHeight: 1.4 }}>
+                        {replacement}
+                      </Typography>
+                    ))}
+                  </Stack>
+                  {update.notes.length > 0 && (
+                    <Typography sx={{ color: '#5f6675', fontSize: 11, lineHeight: 1.35, mt: 0.75 }}>
+                      {update.notes.join(' ')}
+                    </Typography>
+                  )}
+                </Box>
+              ))}
+            </Stack>
+          </Box>
+        )}
+
+        <Button
+          disabled={!execution || changedCount === 0}
+          onClick={onApplyResults}
+          variant="contained"
+        >
+          Apply agent results
+        </Button>
+      </Stack>
+    </Box>
   )
 }
 

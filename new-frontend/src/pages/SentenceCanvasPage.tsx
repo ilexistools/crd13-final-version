@@ -1,14 +1,21 @@
 import AddOutlinedIcon from '@mui/icons-material/AddOutlined'
+import CallSplitOutlinedIcon from '@mui/icons-material/CallSplitOutlined'
 import CategoryOutlinedIcon from '@mui/icons-material/CategoryOutlined'
+import ChevronLeftOutlinedIcon from '@mui/icons-material/ChevronLeftOutlined'
+import ChevronRightOutlinedIcon from '@mui/icons-material/ChevronRightOutlined'
 import CloseOutlinedIcon from '@mui/icons-material/CloseOutlined'
+import ContentCopyOutlinedIcon from '@mui/icons-material/ContentCopyOutlined'
 import DeleteOutlineOutlinedIcon from '@mui/icons-material/DeleteOutlineOutlined'
 import DoneAllOutlinedIcon from '@mui/icons-material/DoneAllOutlined'
 import ErrorOutlineOutlinedIcon from '@mui/icons-material/ErrorOutlineOutlined'
+import FactCheckOutlinedIcon from '@mui/icons-material/FactCheckOutlined'
 import HelpOutlineOutlinedIcon from '@mui/icons-material/HelpOutlineOutlined'
 import LockOpenOutlinedIcon from '@mui/icons-material/LockOpenOutlined'
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined'
+import OpenInNewOutlinedIcon from '@mui/icons-material/OpenInNewOutlined'
 import ReportProblemOutlinedIcon from '@mui/icons-material/ReportProblemOutlined'
 import RadioButtonUncheckedOutlinedIcon from '@mui/icons-material/RadioButtonUncheckedOutlined'
+import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined'
 import {
   Box,
   Button,
@@ -20,14 +27,15 @@ import {
   IconButton,
   Stack,
   TextareaAutosize,
+  TextField,
   Tooltip,
   Typography,
 } from '@mui/material'
-import { useState, type KeyboardEvent, type MouseEvent, type ReactNode } from 'react'
-import { ComplianceReport, ComplianceReportRow, type ComplianceStatus, type UnitComplianceAnalysis, type UnitComplianceStatus, type UnitTriples } from '../lib/api'
+import { useEffect, useState, type KeyboardEvent, type MouseEvent, type ReactNode } from 'react'
+import { ComplianceReport, ComplianceReportRow, apiBaseUrl, type AttestationSectionReference, type ComplianceStatus, type ProvisionReference, type ReferenceDocument, type UnitComplianceAnalysis, type UnitComplianceStatus, type UnitTriples } from '../lib/api'
 import type { AttestationUnit } from '../lib/editorUnits'
 
-export type EditorView = 'units' | 'compliance'
+export type EditorView = 'units' | 'compliance' | 'references'
 type UnitDataView = 'attestation' | 'triples' | 'key-elements' | 'original-text'
 
 const unitDataViews: Array<{ id: UnitDataView; label: string }> = [
@@ -45,6 +53,15 @@ type SentenceCanvasPageProps = {
   complianceReport: ComplianceReport | null
   generatingTripleUnitNumbers: number[]
   isAnalyzingCompliance: boolean
+  isLoadingReferenceDocuments: boolean
+  isSearchingReferences: boolean
+  referenceQuery: string
+  referenceDocuments: ReferenceDocument[]
+  referenceDocumentsError: string
+  referenceProvisionResults: ProvisionReference[]
+  referenceResults: AttestationSectionReference[]
+  referenceSearchError: string
+  unitizingIndexes: Set<number>
   units: AttestationUnit[]
   selectedIndexes: Set<number>
   lockedIndexes: Set<number>
@@ -58,7 +75,10 @@ type SentenceCanvasPageProps = {
   onSelectAll: () => void
   onSelectSentence: (index: number, event: MouseEvent<HTMLElement>) => void
   onSentenceChange: (index: number, value: string) => void
+  onReferenceQueryChange: (value: string) => void
+  onSearchReferences: () => void
   onToggleLockSentence: (index: number) => void
+  onUnitizeSentence: (index: number) => void
 }
 
 export function SentenceCanvasPage({
@@ -67,6 +87,15 @@ export function SentenceCanvasPage({
   complianceReport,
   generatingTripleUnitNumbers,
   isAnalyzingCompliance,
+  isLoadingReferenceDocuments,
+  isSearchingReferences,
+  unitizingIndexes,
+  referenceQuery,
+  referenceDocuments,
+  referenceDocumentsError,
+  referenceProvisionResults,
+  referenceResults,
+  referenceSearchError,
   units,
   selectedIndexes,
   lockedIndexes,
@@ -80,7 +109,10 @@ export function SentenceCanvasPage({
   onSelectAll,
   onSelectSentence,
   onSentenceChange,
+  onReferenceQueryChange,
+  onSearchReferences,
   onToggleLockSentence,
+  onUnitizeSentence,
 }: SentenceCanvasPageProps) {
   const selectedCount = selectedIndexes.size
   const [selectedUnitAnalysis, setSelectedUnitAnalysis] = useState<UnitComplianceAnalysis | null>(null)
@@ -122,6 +154,8 @@ export function SentenceCanvasPage({
               key={unit.id}
               complianceStatus={unitComplianceStatuses[index] ?? null}
               isGeneratingTriples={generatingTripleUnitNumbers.includes(index + 1)}
+              isUnitizationBusy={unitizingIndexes.size > 0}
+              isUnitizing={unitizingIndexes.has(index)}
               originalText={unit.originalText}
               triples={unitTriples.find((unitTriple) => unitTriple.unit === index + 1)?.triples}
               unitAnalysis={unitAnalyses.find((unitAnalysis) => unitAnalysis.unit === index + 1)}
@@ -130,6 +164,7 @@ export function SentenceCanvasPage({
               onRemove={onRemoveSentence}
               onSelect={onSelectSentence}
               onToggleLock={onToggleLockSentence}
+              onUnitize={onUnitizeSentence}
               unit={unit}
             />
           ))}
@@ -152,11 +187,25 @@ export function SentenceCanvasPage({
             </IconButton>
           </Tooltip>
         </Stack>
-      ) : (
+      ) : activeView === 'compliance' ? (
         <ComplianceReportPanel
           isLoading={isAnalyzingCompliance}
           report={complianceReport}
           unitAnalyses={unitAnalyses}
+        />
+      ) : (
+        <ReferencesPanel
+          commodities={commodities}
+          documents={referenceDocuments}
+          documentsError={referenceDocumentsError}
+          error={referenceSearchError}
+          isLoadingDocuments={isLoadingReferenceDocuments}
+          isSearching={isSearchingReferences}
+          onQueryChange={onReferenceQueryChange}
+          onSearch={onSearchReferences}
+          query={referenceQuery}
+          provisionResults={referenceProvisionResults}
+          results={referenceResults}
         />
       )}
       <CanvasFooter
@@ -179,6 +228,827 @@ type ComplianceReportPanelProps = {
   isLoading: boolean
   report: ComplianceReport | null
   unitAnalyses: UnitComplianceAnalysis[]
+}
+
+type ReferencesPanelProps = {
+  commodities: string[]
+  documents: ReferenceDocument[]
+  documentsError: string
+  error: string
+  isLoadingDocuments: boolean
+  isSearching: boolean
+  onQueryChange: (value: string) => void
+  onSearch: () => void
+  provisionResults: ProvisionReference[]
+  query: string
+  results: AttestationSectionReference[]
+}
+
+function ReferencesPanel({
+  commodities,
+  documents,
+  documentsError,
+  error,
+  isLoadingDocuments,
+  isSearching,
+  onQueryChange,
+  onSearch,
+  provisionResults,
+  query,
+  results,
+}: ReferencesPanelProps) {
+  const canSearch = query.trim().length > 0 && commodities.length > 0 && !isSearching
+  const hasResults = results.length > 0 || provisionResults.length > 0
+  const [selectedSection, setSelectedSection] = useState<AttestationSectionReference | null>(null)
+  const [isDocumentsPanelCollapsed, setIsDocumentsPanelCollapsed] = useState(false)
+
+  useEffect(() => {
+    if (results[0]) {
+      setSelectedSection(results[0])
+    }
+  }, [results])
+
+  return (
+    <Box
+      sx={{
+        bgcolor: '#ffffff',
+        border: '1px solid #dde3ee',
+        boxShadow: '0 12px 30px rgba(33, 42, 66, 0.06)',
+        mx: 'auto',
+        overflow: 'hidden',
+        width: 'min(100%, 1220px)',
+      }}
+    >
+      <Stack
+        alignItems={{ xs: 'stretch', md: 'center' }}
+        direction={{ xs: 'column', md: 'row' }}
+        justifyContent="space-between"
+        spacing={2}
+        sx={{ borderBottom: '1px solid #e5eaf2', p: 3 }}
+      >
+        <Box>
+          <Typography component="h2" sx={{ fontSize: 22, fontWeight: 900 }}>
+            References
+          </Typography>
+          <Typography color="text.secondary" sx={{ mt: 0.5 }}>
+            Search the documents connected to the selected commodities.
+          </Typography>
+        </Box>
+        <Stack direction="row" flexWrap="wrap" gap={0.75} sx={{ justifyContent: { xs: 'flex-start', md: 'flex-end' } }}>
+          {commodities.length === 0 ? (
+            <Chip label="No commodities selected" size="small" sx={{ bgcolor: '#fff7ed', border: '1px solid #fed7aa', color: '#c2410c', fontWeight: 800 }} />
+          ) : commodities.map((commodity) => (
+            <Chip
+              key={commodity}
+              label={commodity}
+              size="small"
+              sx={{ bgcolor: '#eef2f8', border: '1px solid #d9e1ef', fontWeight: 800 }}
+              variant="outlined"
+            />
+          ))}
+        </Stack>
+      </Stack>
+
+      <Box sx={{ p: 3 }}>
+        <Stack
+          component="form"
+          direction={{ xs: 'column', md: 'row' }}
+          onSubmit={(event) => {
+            event.preventDefault()
+            if (canSearch) {
+              onSearch()
+            }
+          }}
+          spacing={1.25}
+        >
+          <TextField
+            fullWidth
+            label="Search reference sections"
+            onChange={(event) => onQueryChange(event.target.value)}
+            placeholder="e.g. inspection, certification, maximum residue limits"
+            size="small"
+            value={query}
+          />
+          <Button
+            disabled={!canSearch}
+            startIcon={isSearching ? <CircularProgress color="inherit" size={16} /> : <SearchOutlinedIcon />}
+            type="submit"
+            variant="contained"
+            sx={{ minWidth: 132 }}
+          >
+            Search
+          </Button>
+        </Stack>
+
+        {error && (
+          <Box sx={{ bgcolor: '#fff1f3', border: '1px solid #fecdd6', color: '#b42318', fontSize: 13, fontWeight: 700, mt: 2, p: 1.5 }}>
+            {error}
+          </Box>
+        )}
+
+        {!error && commodities.length === 0 && (
+          <EmptyReferenceState text="Select at least one commodity to limit searches to the relevant document set." />
+        )}
+
+        {commodities.length > 0 && (
+          <Box
+            sx={{
+              display: 'grid',
+              gap: 2,
+              gridTemplateColumns: {
+                xs: '1fr',
+                xl: isDocumentsPanelCollapsed ? 'minmax(0, 1fr) 54px' : 'minmax(0, 1fr) 340px',
+              },
+              mt: 2.5,
+            }}
+          >
+            <Box
+              sx={{
+                display: 'grid',
+                gap: 2,
+                gridTemplateColumns: { xs: '1fr', lg: hasResults ? 'minmax(280px, 0.38fr) minmax(0, 0.62fr)' : '1fr' },
+                minWidth: 0,
+              }}
+            >
+              <Stack spacing={1.25}>
+                {results.length > 0 && (
+                  <Box>
+                    <Typography sx={{ color: '#5f6675', fontSize: 12, fontWeight: 900, mb: 1 }}>
+                      Sections ({results.length})
+                    </Typography>
+                    <Stack spacing={1.25}>
+                      {results.map((section, index) => {
+                        const isSelected = selectedSection === section
+
+                        return (
+                          <ReferenceResultCard
+                            isSelected={isSelected}
+                            key={`${section.doc_id ?? 'doc'}-${section.section_id ?? index}-${index}`}
+                            onSelect={() => setSelectedSection(section)}
+                            rank={index + 1}
+                            section={section}
+                          />
+                        )
+                      })}
+                    </Stack>
+                  </Box>
+                )}
+
+                {provisionResults.length > 0 && (
+                  <Box>
+                    <Typography sx={{ color: '#5f6675', fontSize: 12, fontWeight: 900, mb: 1, mt: results.length > 0 ? 1 : 0 }}>
+                      Provisions ({provisionResults.length})
+                    </Typography>
+                    <Stack spacing={1.25}>
+                      {provisionResults.map((provision, index) => (
+                        <ReferenceProvisionCard
+                          key={`${provision.id ?? 'provision'}-${index}`}
+                          provision={provision}
+                          rank={index + 1}
+                        />
+                      ))}
+                    </Stack>
+                  </Box>
+                )}
+
+                {!error && !isSearching && query.trim() && !hasResults && (
+                  <EmptyReferenceState text="No related sections or provisions were found for this search." />
+                )}
+
+                {!error && !query.trim() && !hasResults && (
+                  <EmptyReferenceState text="Enter a term or sentence to find the most related sections and provisions." />
+                )}
+              </Stack>
+
+              <ReferenceDocumentViewer section={selectedSection} />
+            </Box>
+
+            <ReferenceDocumentsSidebar
+              documents={documents}
+              error={documentsError}
+              isCollapsed={isDocumentsPanelCollapsed}
+              isLoading={isLoadingDocuments}
+              onSelectDocument={(document) => setSelectedSection(referenceSectionFromDocument(document))}
+              onToggleCollapsed={() => setIsDocumentsPanelCollapsed((current) => !current)}
+              selectedSection={selectedSection}
+            />
+          </Box>
+        )}
+      </Box>
+    </Box>
+  )
+}
+
+function ReferenceDocumentsSidebar({
+  documents,
+  error,
+  isCollapsed,
+  isLoading,
+  onSelectDocument,
+  onToggleCollapsed,
+  selectedSection,
+}: {
+  documents: ReferenceDocument[]
+  error: string
+  isCollapsed: boolean
+  isLoading: boolean
+  onSelectDocument: (document: ReferenceDocument) => void
+  onToggleCollapsed: () => void
+  selectedSection: AttestationSectionReference | null
+}) {
+  if (isCollapsed) {
+    return (
+      <Box
+        sx={{
+          alignItems: 'center',
+          bgcolor: '#ffffff',
+          border: '1px solid #dfe6f2',
+          display: { xs: 'none', xl: 'flex' },
+          flexDirection: 'column',
+          gap: 1,
+          minHeight: 620,
+          py: 1,
+        }}
+      >
+        <Tooltip title="Expand documents">
+          <IconButton aria-label="Expand available documents" onClick={onToggleCollapsed} size="small">
+            <ChevronLeftOutlinedIcon fontSize="small" />
+          </IconButton>
+        </Tooltip>
+        <Chip
+          label={documents.length}
+          size="small"
+          sx={{ bgcolor: '#eef2f8', border: '1px solid #d9e1ef', fontWeight: 900 }}
+          variant="outlined"
+        />
+        <Typography
+          sx={{
+            color: '#5f6675',
+            fontSize: 11,
+            fontWeight: 900,
+            mt: 1,
+            textOrientation: 'mixed',
+            writingMode: 'vertical-rl',
+          }}
+        >
+          Documents
+        </Typography>
+      </Box>
+    )
+  }
+
+  return (
+    <Box
+      component="aside"
+      sx={{
+        bgcolor: '#ffffff',
+        border: '1px solid #dfe6f2',
+        maxHeight: { xs: 'none', xl: 'calc(100vh - 230px)' },
+        minHeight: { xs: 0, xl: 620 },
+        overflowY: 'auto',
+        position: { xs: 'static', xl: 'sticky' },
+        top: 86,
+      }}
+    >
+      <Stack
+        alignItems="center"
+        direction="row"
+        justifyContent="space-between"
+        spacing={1}
+        sx={{
+          bgcolor: '#ffffff',
+          borderBottom: '1px solid #e5eaf2',
+          p: 1.5,
+          position: 'sticky',
+          top: 0,
+          zIndex: 1,
+        }}
+      >
+        <Box>
+          <Typography sx={{ color: '#5f6675', fontSize: 12, fontWeight: 900 }}>
+            Available documents
+          </Typography>
+          <Typography sx={{ color: '#64748b', fontSize: 11, mt: 0.25 }}>
+            {documents.length} document{documents.length === 1 ? '' : 's'}
+          </Typography>
+        </Box>
+        <Stack alignItems="center" direction="row" spacing={0.5}>
+          {isLoading && <CircularProgress size={14} />}
+          <Tooltip title="Collapse documents">
+            <IconButton aria-label="Collapse available documents" onClick={onToggleCollapsed} size="small">
+              <ChevronRightOutlinedIcon fontSize="small" />
+            </IconButton>
+          </Tooltip>
+        </Stack>
+      </Stack>
+
+      <Box sx={{ p: 1.25 }}>
+        <ReferenceDocumentsList
+          documents={documents}
+          error={error}
+          isLoading={isLoading}
+          onSelectDocument={onSelectDocument}
+          selectedSection={selectedSection}
+        />
+      </Box>
+    </Box>
+  )
+}
+
+function ReferenceDocumentsList({
+  documents,
+  error,
+  isLoading,
+  onSelectDocument,
+  selectedSection,
+}: {
+  documents: ReferenceDocument[]
+  error: string
+  isLoading: boolean
+  onSelectDocument: (document: ReferenceDocument) => void
+  selectedSection: AttestationSectionReference | null
+}) {
+  return (
+    <Box>
+      {error && (
+        <Box sx={{ bgcolor: '#fff1f3', border: '1px solid #fecdd6', color: '#b42318', fontSize: 12, fontWeight: 700, p: 1.25 }}>
+          {error}
+        </Box>
+      )}
+
+      {!error && !isLoading && documents.length === 0 && (
+        <Box sx={{ bgcolor: '#f8fafc', border: '1px solid #e5eaf2', color: '#64748b', fontSize: 13, lineHeight: 1.45, p: 1.5 }}>
+          No documents are available for the selected commodities.
+        </Box>
+      )}
+
+      {documents.length > 0 && (
+        <Stack spacing={0.75}>
+          {documents.map((document) => {
+            const isSelected = Boolean(document.doc_id && document.doc_id === selectedSection?.doc_id && !selectedSection?.section_id)
+
+            return (
+              <Box
+                component="button"
+                key={document.doc_id || document.label || document.title}
+                onClick={() => onSelectDocument(document)}
+                type="button"
+                sx={{
+                  bgcolor: isSelected ? '#f1f5ff' : '#ffffff',
+                  border: '1px solid',
+                  borderColor: isSelected ? '#b9c4ff' : '#dfe6f2',
+                  color: 'inherit',
+                  font: 'inherit',
+                  p: 1.25,
+                  textAlign: 'left',
+                  width: '100%',
+                  '&:hover': {
+                    borderColor: '#b9c4ff',
+                    cursor: 'pointer',
+                  },
+                }}
+              >
+                <Typography sx={{ color: '#2457c5', fontSize: 12, fontWeight: 900 }}>
+                  {document.reference || 'Reference'} · {document.year || 'year n/a'}
+                </Typography>
+                <Typography sx={{ color: '#172033', fontSize: 13, fontWeight: 850, lineHeight: 1.35, mt: 0.35 }}>
+                  {document.title || document.label || 'Untitled document'}
+                </Typography>
+                {Array.isArray(document.commodities) && document.commodities.length > 0 && (
+                  <Typography sx={{ color: '#64748b', fontSize: 11, lineHeight: 1.35, mt: 0.5 }}>
+                    {document.commodities.slice(0, 4).join(', ')}
+                  </Typography>
+                )}
+              </Box>
+            )
+          })}
+        </Stack>
+      )}
+    </Box>
+  )
+}
+
+function EmptyReferenceState({ text }: { text: string }) {
+  return (
+    <Box
+      sx={{
+        bgcolor: '#f8fafc',
+        border: '1px solid #e5eaf2',
+        color: '#64748b',
+        fontSize: 14,
+        lineHeight: 1.5,
+        mt: 2,
+        p: 2,
+      }}
+    >
+      {text}
+    </Box>
+  )
+}
+
+function ReferenceResultCard({
+  isSelected,
+  onSelect,
+  rank,
+  section,
+}: {
+  isSelected: boolean
+  onSelect: () => void
+  rank: number
+  section: AttestationSectionReference
+}) {
+  const document = section.document
+  const href = referencePdfHref(section)
+  const documentTitle = referenceDocumentTitle(document)
+
+  return (
+    <Box
+      component="button"
+      onClick={onSelect}
+      type="button"
+      sx={{
+        bgcolor: isSelected ? '#f1f5ff' : '#ffffff',
+        border: '1px solid',
+        borderColor: isSelected ? '#b9c4ff' : '#dfe6f2',
+        color: 'inherit',
+        display: 'block',
+        font: 'inherit',
+        p: 2,
+        textAlign: 'left',
+        transition: 'border-color 140ms ease, box-shadow 140ms ease',
+        width: '100%',
+        '&:hover': {
+          borderColor: '#b9c4ff',
+          boxShadow: '0 10px 22px rgba(33, 42, 66, 0.08)',
+          cursor: 'pointer',
+        },
+      }}
+    >
+      <Stack alignItems="flex-start" direction="row" spacing={1.5}>
+        <Box
+          sx={{
+            alignItems: 'center',
+            bgcolor: '#eef2f8',
+            border: '1px solid #d9e1ef',
+            color: '#172033',
+            display: 'flex',
+            fontSize: 12,
+            fontWeight: 900,
+            height: 28,
+            justifyContent: 'center',
+            minWidth: 28,
+          }}
+        >
+          {rank}
+        </Box>
+        <Box sx={{ minWidth: 0, flex: 1 }}>
+          <Stack alignItems="center" direction="row" flexWrap="wrap" gap={0.75}>
+            <Typography sx={{ color: '#2457c5', fontSize: 12, fontWeight: 900 }}>
+              {document?.reference || 'Reference'}
+            </Typography>
+            <Typography sx={{ color: '#64748b', fontSize: 12, fontWeight: 800 }}>
+              {document?.year || 'year n/a'}
+            </Typography>
+            <Chip
+              label={formatReferencePageRange(section)}
+              size="small"
+              sx={{ bgcolor: '#f8fafc', border: '1px solid #e5eaf2', color: '#475569', fontSize: 11, fontWeight: 800, height: 22 }}
+              variant="outlined"
+            />
+          </Stack>
+          <Typography sx={{ color: '#172033', fontSize: 15, fontWeight: 900, lineHeight: 1.35, mt: 0.75 }}>
+            {section.section || `Section ${section.section_id ?? rank}`}
+          </Typography>
+          <DocumentTitleLine title={documentTitle} />
+          <Typography sx={{ color: '#64748b', fontSize: 12, lineHeight: 1.4, mt: 0.75 }}>
+            {formatReferenceCategories(section.categories)}
+          </Typography>
+        </Box>
+        {href && (
+          <Tooltip title="View document here">
+            <OpenInNewOutlinedIcon sx={{ color: '#64748b', fontSize: 19, mt: 0.25 }} />
+          </Tooltip>
+        )}
+      </Stack>
+    </Box>
+  )
+}
+
+function ReferenceProvisionCard({
+  provision,
+  rank,
+}: {
+  provision: ProvisionReference
+  rank: number
+}) {
+  const document = provision.document
+  const href = provisionPdfHref(provision)
+  const documentTitle = provisionDocumentTitle(provision)
+
+  return (
+    <Box
+      sx={{
+        bgcolor: '#fffdf7',
+        border: '1px solid #eadfbd',
+        p: 2,
+        transition: 'border-color 140ms ease, box-shadow 140ms ease',
+        '&:hover': {
+          borderColor: '#d9c37c',
+          boxShadow: '0 10px 22px rgba(83, 63, 19, 0.08)',
+        },
+      }}
+    >
+      <Stack alignItems="flex-start" direction="row" spacing={1.5}>
+        <Box
+          sx={{
+            alignItems: 'center',
+            bgcolor: '#fff7dc',
+            border: '1px solid #eadfbd',
+            color: '#6f4d00',
+            display: 'flex',
+            fontSize: 12,
+            fontWeight: 900,
+            height: 28,
+            justifyContent: 'center',
+            minWidth: 28,
+          }}
+        >
+          {provision.rank ?? rank}
+        </Box>
+        <Box sx={{ flex: 1, minWidth: 0 }}>
+          <Stack alignItems="center" direction="row" flexWrap="wrap" gap={0.75}>
+            <Typography sx={{ color: '#8a5a00', fontSize: 12, fontWeight: 900 }}>
+              {document?.reference || provision.document_id || 'Provision'}
+            </Typography>
+            {provision.relevance !== null && provision.relevance !== undefined && (
+              <Chip
+                label={`${provision.relevance}% relevance`}
+                size="small"
+                sx={{ bgcolor: '#ffffff', border: '1px solid #eadfbd', color: '#6f4d00', fontSize: 11, fontWeight: 800, height: 22 }}
+                variant="outlined"
+              />
+            )}
+            <Chip
+              label={formatProvisionPageRange(provision)}
+              size="small"
+              sx={{ bgcolor: '#ffffff', border: '1px solid #eadfbd', color: '#6f4d00', fontSize: 11, fontWeight: 800, height: 22 }}
+              variant="outlined"
+            />
+          </Stack>
+          <DocumentTitleLine title={documentTitle} />
+          <Typography sx={{ color: '#172033', fontSize: 14, fontWeight: 850, lineHeight: 1.45, mt: 0.75 }}>
+            {provision.sentence || 'No provision text is available.'}
+          </Typography>
+          <Stack direction="row" flexWrap="wrap" gap={0.75} sx={{ mt: 1 }}>
+            {[provision.category, provision.modality, provision.function, provision.type]
+              .filter(Boolean)
+              .map((value) => (
+                <Chip
+                  key={String(value)}
+                  label={String(value)}
+                  size="small"
+                  sx={{ bgcolor: '#ffffff', border: '1px solid #eadfbd', color: '#6f4d00', fontSize: 11, fontWeight: 800, height: 22 }}
+                  variant="outlined"
+                />
+              ))}
+          </Stack>
+          {provision.section_title && provision.section_title !== documentTitle && (
+            <Typography sx={{ color: '#64748b', fontSize: 12, lineHeight: 1.4, mt: 0.75 }}>
+              Section: {provision.section_title}
+            </Typography>
+          )}
+        </Box>
+        {href && (
+          <Tooltip title="Open provision document">
+            <IconButton
+              aria-label="Open provision document"
+              component="a"
+              href={href}
+              rel="noreferrer"
+              size="small"
+              target="_blank"
+            >
+              <OpenInNewOutlinedIcon fontSize="small" />
+            </IconButton>
+          </Tooltip>
+        )}
+      </Stack>
+    </Box>
+  )
+}
+
+function DocumentTitleLine({ title }: { title: string }) {
+  return (
+    <Typography sx={{ color: '#334155', fontSize: 13, fontWeight: 750, lineHeight: 1.45, mt: 0.55 }}>
+      <Box component="span" sx={{ color: '#64748b', fontSize: 11, fontWeight: 900, mr: 0.6, textTransform: 'uppercase' }}>
+        Document title
+      </Box>
+      {title}
+    </Typography>
+  )
+}
+
+function ReferenceDocumentViewer({ section }: { section: AttestationSectionReference | null }) {
+  if (!section) {
+    return (
+      <Box
+        sx={{
+          bgcolor: '#f8fafc',
+          border: '1px solid #e5eaf2',
+          color: '#64748b',
+          minHeight: 520,
+          p: 2,
+        }}
+      >
+        Select a section to preview its document.
+      </Box>
+    )
+  }
+
+  const href = referencePdfHref(section)
+  const viewerSrc = referencePdfViewerSrc(section)
+  const document = section.document
+
+  return (
+    <Box
+      sx={{
+        bgcolor: '#f8fafc',
+        border: '1px solid #dfe6f2',
+        minHeight: 620,
+        overflow: 'hidden',
+      }}
+    >
+      <Stack
+        alignItems="center"
+        direction="row"
+        justifyContent="space-between"
+        spacing={1.5}
+        sx={{ bgcolor: '#ffffff', borderBottom: '1px solid #dfe6f2', p: 1.5 }}
+      >
+        <Box sx={{ minWidth: 0 }}>
+          <Typography sx={{ color: '#2457c5', fontSize: 12, fontWeight: 900 }}>
+            {document?.reference || 'Reference'} · {formatReferencePageRange(section)}
+          </Typography>
+          <Typography noWrap sx={{ color: '#172033', fontSize: 14, fontWeight: 900, mt: 0.25 }}>
+            {section.section || document?.title || 'Selected section'}
+          </Typography>
+        </Box>
+        {href && (
+          <Tooltip title="Open externally">
+            <IconButton
+              aria-label="Open document externally"
+              component="a"
+              href={href}
+              rel="noreferrer"
+              size="small"
+              target="_blank"
+            >
+              <OpenInNewOutlinedIcon fontSize="small" />
+            </IconButton>
+          </Tooltip>
+        )}
+      </Stack>
+
+      {href ? (
+        <Box
+          component="iframe"
+          key={viewerSrc}
+          src={viewerSrc}
+          title={document?.title || section.section || 'Reference document'}
+          sx={{
+            border: 0,
+            display: 'block',
+            height: { xs: 560, lg: 720 },
+            width: '100%',
+          }}
+        />
+      ) : (
+        <Box sx={{ color: '#64748b', fontSize: 14, lineHeight: 1.5, p: 2 }}>
+          This section does not include a document URL.
+        </Box>
+      )}
+    </Box>
+  )
+}
+
+function referenceSectionFromDocument(document: ReferenceDocument): AttestationSectionReference {
+  return {
+    doc_id: document.doc_id,
+    document,
+    section: document.title || document.label || document.reference || 'Document',
+  }
+}
+
+function referenceDocumentTitle(document?: ReferenceDocument | null) {
+  return document?.title || document?.label || document?.reference || 'Untitled document'
+}
+
+function provisionDocumentTitle(provision: ProvisionReference) {
+  return provision.document?.title
+    || provision.document?.label
+    || provision.document_title
+    || provision.doc_title
+    || provision.title
+    || provision.section_title
+    || provision.document?.reference
+    || provision.document_id
+    || 'Untitled document'
+}
+
+function formatReferenceCategories(categories: AttestationSectionReference['categories']) {
+  if (!Array.isArray(categories) || categories.length === 0) {
+    return 'Uncategorized'
+  }
+
+  return categories
+    .map((category) => {
+      if (typeof category === 'string') {
+        return category
+      }
+
+      return [category.category, category.subcategory].filter(Boolean).join(' / ')
+    })
+    .filter(Boolean)
+    .join(', ')
+}
+
+function formatReferencePageRange(section: AttestationSectionReference) {
+  const startPage = referencePageNumber(section.start_page)
+  const endPage = referencePageNumber(section.end_page)
+
+  if (!startPage && !endPage) {
+    return 'Pages not available'
+  }
+
+  if (startPage && endPage && startPage !== endPage) {
+    return `Pages ${startPage}-${endPage}`
+  }
+
+  return `Page ${startPage || endPage}`
+}
+
+function formatProvisionPageRange(provision: ProvisionReference) {
+  const startPage = referencePageNumber(provision.page_start)
+  const endPage = referencePageNumber(provision.page_end)
+
+  if (!startPage && !endPage) {
+    return 'Pages not available'
+  }
+
+  if (startPage && endPage && startPage !== endPage) {
+    return `Pages ${startPage}-${endPage}`
+  }
+
+  return `Page ${startPage || endPage}`
+}
+
+function referencePdfHref(section: AttestationSectionReference) {
+  const page = referencePageNumber(section.start_page) || referencePageNumber(section.end_page)
+  const docId = section.document?.doc_id || section.doc_id
+
+  if (!docId) {
+    return ''
+  }
+
+  const baseUrl = apiBaseUrl.replace(/\/$/, '')
+  return `${baseUrl}/assets/files/${encodeURIComponent(docId)}.pdf${page ? `#page=${page}` : ''}`
+}
+
+function provisionPdfHref(provision: ProvisionReference) {
+  const page = referencePageNumber(provision.page_start) || referencePageNumber(provision.page_end)
+  const docId = provision.document?.doc_id || provision.document_id
+
+  if (!docId) {
+    return ''
+  }
+
+  const baseUrl = apiBaseUrl.replace(/\/$/, '')
+  return `${baseUrl}/assets/files/${encodeURIComponent(docId)}.pdf${page ? `#page=${page}` : ''}`
+}
+
+function referencePdfViewerSrc(section: AttestationSectionReference) {
+  const page = referencePageNumber(section.start_page) || referencePageNumber(section.end_page)
+  const docId = section.document?.doc_id || section.doc_id
+
+  if (!docId) {
+    return ''
+  }
+
+  const baseUrl = apiBaseUrl.replace(/\/$/, '')
+  const sectionId = section.section_id !== undefined ? String(section.section_id) : 'section'
+  const cacheKey = encodeURIComponent(`${sectionId}:${page || 1}`)
+
+  return `${baseUrl}/assets/files/${encodeURIComponent(docId)}.pdf?viewer=${cacheKey}${page ? `#page=${page}` : ''}`
+}
+
+function referencePageNumber(value: unknown) {
+  const number = Number(value)
+
+  if (!Number.isFinite(number) || number < 1) {
+    return null
+  }
+
+  return Math.floor(number)
 }
 
 const statusColor = {
@@ -557,7 +1427,7 @@ function getUnitAnalysisOverall(analysis: unknown): UnitOverall {
   }
 }
 
-function getUnitAnalysisStatus(analysis: unknown): ComplianceStatus {
+export function getUnitAnalysisStatus(analysis: unknown): ComplianceStatus {
   return normalizeComplianceStatus(getUnitAnalysisOverall(analysis).compliance)
 }
 
@@ -816,6 +1686,8 @@ type SentenceContainerProps = {
   isGeneratingTriples: boolean
   isLocked: boolean
   isSelected: boolean
+  isUnitizationBusy: boolean
+  isUnitizing: boolean
   originalText: string
   triples?: unknown
   unit: AttestationUnit
@@ -825,6 +1697,7 @@ type SentenceContainerProps = {
   onRemove: (index: number) => void
   onSelect: (index: number, event: MouseEvent<HTMLElement>) => void
   onToggleLock: (index: number) => void
+  onUnitize: (index: number) => void
 }
 
 function SentenceContainer({
@@ -833,6 +1706,8 @@ function SentenceContainer({
   isGeneratingTriples,
   isLocked,
   isSelected,
+  isUnitizationBusy,
+  isUnitizing,
   originalText,
   triples,
   unit,
@@ -842,9 +1717,22 @@ function SentenceContainer({
   onRemove,
   onSelect,
   onToggleLock,
+  onUnitize,
 }: SentenceContainerProps) {
   const [activeDataView, setActiveDataView] = useState<UnitDataView>('attestation')
+  const [isCopied, setIsCopied] = useState(false)
   const isAttestationView = activeDataView === 'attestation'
+
+  const handleCopyUnit = async () => {
+    const text = unit.text
+    if (!text.trim()) {
+      return
+    }
+
+    await navigator.clipboard.writeText(text)
+    setIsCopied(true)
+    window.setTimeout(() => setIsCopied(false), 1200)
+  }
 
   return (
     <Box
@@ -912,6 +1800,71 @@ function SentenceContainer({
               <DoneAllOutlinedIcon sx={{ fontSize: 15 }} />
             ) : (
               <RadioButtonUncheckedOutlinedIcon sx={{ fontSize: 15 }} />
+            )}
+          </IconButton>
+        </Tooltip>
+        <Tooltip title={isCopied ? 'Copied' : 'Copy unit'}>
+          <IconButton
+            aria-label={`Copy unit ${index + 1}`}
+            disabled={!unit.text.trim()}
+            onClick={(event) => {
+              event.stopPropagation()
+              void handleCopyUnit()
+            }}
+            size="small"
+            sx={{
+              bgcolor: isCopied ? '#ecfdf3' : 'rgba(255, 255, 255, 0.92)',
+              border: '1px solid',
+              borderColor: isCopied ? '#abefc6' : '#d8deea',
+              color: isCopied ? '#067647' : '#6a7282',
+              height: 26,
+              width: 26,
+              '&:hover': {
+                bgcolor: isCopied ? '#dcfae6' : '#f4f6fa',
+                borderColor: isCopied ? '#75e0a7' : '#d8deea',
+              },
+              '&.Mui-disabled': {
+                bgcolor: 'rgba(255, 255, 255, 0.7)',
+                borderColor: '#e4e8f0',
+                color: '#b9c0ce',
+              },
+            }}
+          >
+            <ContentCopyOutlinedIcon sx={{ fontSize: 15 }} />
+          </IconButton>
+        </Tooltip>
+        <Tooltip title="Unitize unit">
+          <IconButton
+            aria-label={`Unitize unit ${index + 1}`}
+            disabled={isLocked || isUnitizationBusy || !unit.text.trim()}
+            onClick={(event) => {
+              event.stopPropagation()
+              onUnitize(index)
+            }}
+            size="small"
+            sx={{
+              bgcolor: isUnitizing ? '#e9edff' : 'rgba(255, 255, 255, 0.92)',
+              border: '1px solid',
+              borderColor: isUnitizing ? '#b9c4ff' : '#d8deea',
+              color: isUnitizing ? '#4353ff' : '#6a7282',
+              height: 26,
+              width: 26,
+              '&:hover': {
+                bgcolor: '#eef2ff',
+                borderColor: '#c5cffd',
+                color: '#4353ff',
+              },
+              '&.Mui-disabled': {
+                bgcolor: 'rgba(255, 255, 255, 0.7)',
+                borderColor: '#e4e8f0',
+                color: '#b9c0ce',
+              },
+            }}
+          >
+            {isUnitizing ? (
+              <CircularProgress size={14} sx={{ color: 'inherit' }} />
+            ) : (
+              <CallSplitOutlinedIcon sx={{ fontSize: 15 }} />
             )}
           </IconButton>
         </Tooltip>
@@ -1418,7 +2371,8 @@ function UnitStatusBadges({
           />
         )
       })}
-      <ComplianceStatusBadge
+      <UnitAnalysisButton
+        hasAnalysis={Boolean(unitAnalysis)}
         onClick={onOpenUnitAnalysis}
         status={complianceStatus}
       />
@@ -1465,49 +2419,60 @@ function PrincipleStatusBadge({
   )
 }
 
-function ComplianceStatusBadge({
+function UnitAnalysisButton({
+  hasAnalysis,
   onClick,
   status,
 }: {
+  hasAnalysis: boolean
   onClick?: () => void
   status: UnitComplianceStatus
 }) {
-  if (!status) {
-    return null
-  }
-
-  const colors = status === 'Analyzing' ? analyzingStatusColor : statusColor[status]
-  const label = status === 'Partially Compliant' ? 'Partial' : status
+  const isAnalyzing = status === 'Analyzing'
+  const colors = isAnalyzing
+    ? analyzingStatusColor
+    : status
+      ? statusColor[status]
+      : unavailableStatusColor
+  const title = isAnalyzing
+    ? 'Compliance analysis is running'
+    : hasAnalysis
+      ? 'View unit compliance analysis'
+      : 'No compliance analysis available'
 
   return (
-    <Chip
-      label={(
-        <Stack alignItems="center" direction="row" spacing={0.75}>
-          {status === 'Analyzing' && <CircularProgress size={11} sx={{ color: colors.color }} />}
-          <span>{label}</span>
-        </Stack>
-      )}
-      onClick={onClick ? (event) => {
-        event.stopPropagation()
-        onClick()
-      } : undefined}
-      size="small"
-      sx={{
-        bgcolor: colors.bg,
-        border: `1px solid ${colors.border}`,
-        color: colors.color,
-        fontSize: 12,
-        fontWeight: 800,
-        height: 22,
-        cursor: onClick ? 'pointer' : 'default',
-        '& .MuiChip-label': {
-          px: 0.8,
-        },
-        '&:hover': onClick ? {
-          boxShadow: '0 0 0 2px rgba(36, 87, 197, 0.12)',
-        } : undefined,
-      }}
-    />
+    <Tooltip title={title}>
+      <span>
+        <IconButton
+          aria-label={title}
+          disabled={!hasAnalysis || isAnalyzing}
+          onClick={(event) => {
+            event.stopPropagation()
+            onClick?.()
+          }}
+          size="small"
+          sx={{
+            bgcolor: colors.bg,
+            border: `1px solid ${colors.border}`,
+            color: colors.color,
+            height: 24,
+            width: 24,
+            '&:hover': {
+              bgcolor: colors.bg,
+              boxShadow: '0 0 0 2px rgba(36, 87, 197, 0.12)',
+            },
+            '&.Mui-disabled': {
+              bgcolor: colors.bg,
+              borderColor: colors.border,
+              color: colors.color,
+              opacity: 0.8,
+            },
+          }}
+        >
+          {isAnalyzing ? <CircularProgress size={13} sx={{ color: colors.color }} /> : <FactCheckOutlinedIcon sx={{ fontSize: 15 }} />}
+        </IconButton>
+      </span>
+    </Tooltip>
   )
 }
 

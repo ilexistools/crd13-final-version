@@ -1,7 +1,9 @@
 import axios from 'axios'
 
+export const apiBaseUrl = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:8000'
+
 export const api = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:8000',
+  baseURL: apiBaseUrl,
 })
 
 type ExtractPdfTextResponse = {
@@ -80,6 +82,8 @@ export type AttestationSectionReference = {
     committee?: string
     last_modified?: string
     url?: string
+    commodities?: string[]
+    processes?: string[]
   } | null
   section_id?: string | number
   section?: string
@@ -88,6 +92,36 @@ export type AttestationSectionReference = {
   start_page?: number
   end_page?: number
   justification?: string
+}
+
+export type ReferenceDocument = NonNullable<AttestationSectionReference['document']>
+
+export type AttestationSectionSearchResponse = {
+  documents: ReferenceDocument[]
+  results: AttestationSectionReference[]
+}
+
+export type ProvisionReference = {
+  id?: number
+  rank?: number
+  relevance?: number | null
+  sentence?: string
+  category?: string
+  modality?: string
+  function?: string
+  type?: string
+  title?: string
+  document_title?: string
+  doc_title?: string
+  section_title?: string
+  page_start?: number
+  page_end?: number
+  document_id?: string
+  document?: ReferenceDocument & {
+    text?: string
+  } | null
+  commodities?: string[]
+  units_json?: unknown
 }
 
 export type AttestationRewriteChange = {
@@ -142,6 +176,35 @@ export type AttestationCorrectionResult = {
   corrected_units?: string[]
   applied_principles?: string[]
   correction_notes?: string[]
+}
+
+export type AgentSelectedUnit = {
+  id?: string
+  originalText?: string
+  text: string
+  unit: number
+}
+
+export type AgentUnitEditPlan = {
+  summary: string
+  steps: string[]
+  tools: string[]
+  expected_result: string
+  risks: string[]
+  requires_clarification: boolean
+}
+
+export type AgentUnitEditUpdate = {
+  unit: number
+  changed: boolean
+  replacement_units: string[]
+  notes: string[]
+}
+
+export type AgentUnitEditExecution = {
+  summary: string
+  updates: AgentUnitEditUpdate[]
+  notes: string[]
 }
 
 export async function extractPdfText(file: File) {
@@ -201,6 +264,41 @@ export async function analyzeAttestationSections(attestation: string, commoditie
   return Array.isArray(results) ? results : []
 }
 
+export async function searchAttestationSections(query: string, commodities: string[]) {
+  const response = await api.post('/search_attestation_sections', {
+    input: { attestation: query, commodities },
+  })
+
+  const rawOutput = response.data.output
+  const output = (rawOutput?.output ?? rawOutput) as AttestationSectionSearchResponse
+  const documents = Array.isArray(output.documents) ? output.documents : []
+  const documentsById = new Map(documents.map((document) => [document.doc_id, document]))
+  const results = Array.isArray(output.results) ? output.results : []
+
+  return results.map((section) => ({
+    ...section,
+    document: section.document ?? documentsById.get(section.doc_id),
+  }))
+}
+
+export async function searchProvisions(query: string, commodities: string[]) {
+  const response = await api.post('/search_provisions', {
+    input: { text: query, commodities },
+  })
+
+  const results = unwrapToolResults<ProvisionReference[]>(response.data.output)
+  return Array.isArray(results) ? results : []
+}
+
+export async function listReferenceDocuments(commodities: string[]) {
+  const response = await api.post('/reference_documents', {
+    input: { commodities },
+  })
+
+  const results = unwrapToolResults<ReferenceDocument[]>(response.data.output)
+  return Array.isArray(results) ? results : []
+}
+
 export async function planAttestationRewriteChanges(
   attestation: string,
   sections: AttestationSectionReference[],
@@ -237,6 +335,44 @@ export async function suggestAttestationCorrection(
   })
 
   return (unwrapToolResults<AttestationCorrectionResult>(response.data.output) ?? {}) as AttestationCorrectionResult
+}
+
+export async function planAgentUnitEdits(
+  request: string,
+  units: AgentSelectedUnit[],
+  commodities: string[],
+  context: Record<string, unknown>,
+) {
+  const response = await api.post('/agent/plan_unit_edits', {
+    input: {
+      request,
+      units,
+      commodities,
+      context,
+    },
+  })
+
+  return (unwrapToolResults<AgentUnitEditPlan>(response.data.output) ?? {}) as AgentUnitEditPlan
+}
+
+export async function executeAgentUnitEdits(
+  request: string,
+  plan: AgentUnitEditPlan,
+  units: AgentSelectedUnit[],
+  commodities: string[],
+  context: Record<string, unknown>,
+) {
+  const response = await api.post('/agent/execute_unit_edits', {
+    input: {
+      request,
+      plan,
+      units,
+      commodities,
+      context,
+    },
+  })
+
+  return (unwrapToolResults<AgentUnitEditExecution>(response.data.output) ?? {}) as AgentUnitEditExecution
 }
 
 function unwrapToolResults<T>(value: any): T | undefined {

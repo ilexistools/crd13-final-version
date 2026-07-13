@@ -2,6 +2,7 @@ import json
 
 from fastapi import Body, FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from typing import Any
 from pydantic import BaseModel
 from PyPDF2 import PdfReader
@@ -18,6 +19,7 @@ from app.tools.attestation_change_applier import AttestationChangeApplierTool
 from app.tools.attestation_template_adaptation import AttestationTemplateAdapterTool
 from app.tools.compliance_analysis import ComplianceAnalysisTool
 from app.tools.compliance_correction import ComplianceCorrectionTool
+from app.tools.unit_edit_agent import UnitEditAgentTool
 
 
 unitizer = UnitizationTool()
@@ -33,6 +35,15 @@ attestation_change_applier = AttestationChangeApplierTool()
 attestation_template_adapter = AttestationTemplateAdapterTool()
 compliance_analyser = ComplianceAnalysisTool()
 compliance_corrector = ComplianceCorrectionTool()
+unit_edit_agent = UnitEditAgentTool(
+    compliance_analyser=compliance_analyser,
+    unitizer=unitizer,
+    triple_generator=triple_generator,
+    attestation_section_analyser=attestation_section_analyser,
+    attestation_rewrite_change_planner=attestation_rewrite_change_planner,
+    attestation_change_applier=attestation_change_applier,
+    compliance_corrector=compliance_corrector,
+)
 
 
 class InputRequest(BaseModel):
@@ -43,6 +54,12 @@ class OutputResponse(BaseModel):
 
 
 app = FastAPI(title="GPT Agents + FastAPI Example")
+
+app.mount(
+    "/assets/files",
+    StaticFiles(directory="app/assets/files"),
+    name="asset_files",
+)
 
 app.add_middleware(
     CORSMiddleware,
@@ -116,6 +133,21 @@ async def search_attestation_sections(payload: InputRequest) -> OutputResponse:
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
     return OutputResponse(output=result)
+
+@app.post("/reference_documents", response_model=OutputResponse)
+async def reference_documents(payload: InputRequest) -> OutputResponse:
+    commodities = payload.input.get("commodities", [])
+    if not isinstance(commodities, list):
+        raise HTTPException(
+            status_code=422,
+            detail="input.commodities must be a list of strings.",
+        )
+    try:
+        doc_ids = attestation_section_search._candidate_doc_ids(commodities)
+        documents = attestation_section_search._document_metadata(doc_ids)
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
+    return OutputResponse(output={"results": documents})
 
 @app.post("/analyze_attestation_sections", response_model=OutputResponse)
 async def analyze_attestation_sections(payload: Any = Body(...)) -> OutputResponse:
@@ -495,6 +527,62 @@ async def suggest_attestation_correction(payload: InputRequest) -> OutputRespons
         result.setdefault("input", {})
         if isinstance(result["input"], dict):
             result["input"]["compliance_analysis"] = analysis_results
+    return OutputResponse(output=result)
+
+
+@app.post("/agent/plan_unit_edits", response_model=OutputResponse)
+async def plan_agent_unit_edits(payload: InputRequest) -> OutputResponse:
+    request = payload.input.get("request", "")
+    units = payload.input.get("units", [])
+    commodities = payload.input.get("commodities", [])
+    context = payload.input.get("context", {})
+
+    if not isinstance(request, str) or not request.strip():
+        raise HTTPException(status_code=422, detail="input.request must be a non-empty string.")
+    if not isinstance(units, list) or not units:
+        raise HTTPException(status_code=422, detail="input.units must be a non-empty list.")
+    if not isinstance(commodities, list):
+        raise HTTPException(status_code=422, detail="input.commodities must be a list.")
+    if not isinstance(context, dict):
+        raise HTTPException(status_code=422, detail="input.context must be an object when supplied.")
+
+    result = await unit_edit_agent.plan_async(
+        request=request,
+        units=units,
+        commodities=commodities,
+        context=context,
+    )
+    return OutputResponse(output=result)
+
+
+@app.post("/agent/execute_unit_edits", response_model=OutputResponse)
+async def execute_agent_unit_edits(payload: InputRequest) -> OutputResponse:
+    request = payload.input.get("request", "")
+    plan = payload.input.get("plan", {})
+    units = payload.input.get("units", [])
+    commodities = payload.input.get("commodities", [])
+    context = payload.input.get("context", {})
+
+    if not isinstance(request, str) or not request.strip():
+        raise HTTPException(status_code=422, detail="input.request must be a non-empty string.")
+    if not isinstance(plan, dict):
+        raise HTTPException(status_code=422, detail="input.plan must be an object.")
+    if plan.get("requires_clarification"):
+        raise HTTPException(status_code=409, detail="The approved plan requires clarification before execution.")
+    if not isinstance(units, list) or not units:
+        raise HTTPException(status_code=422, detail="input.units must be a non-empty list.")
+    if not isinstance(commodities, list):
+        raise HTTPException(status_code=422, detail="input.commodities must be a list.")
+    if not isinstance(context, dict):
+        raise HTTPException(status_code=422, detail="input.context must be an object when supplied.")
+
+    result = await unit_edit_agent.execute_async(
+        request=request,
+        plan=plan,
+        units=units,
+        commodities=commodities,
+        context=context,
+    )
     return OutputResponse(output=result)
 
 
