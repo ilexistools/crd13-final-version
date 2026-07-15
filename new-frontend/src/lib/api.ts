@@ -43,6 +43,18 @@ export type UnitTriples = {
   unit: number
 }
 
+export type PrincipleCode = 'A1' | 'A2' | 'A3' | 'B1' | 'B2' | 'C' | 'D' | 'E'
+export type WorkflowPrincipleCode = Exclude<PrincipleCode, 'A1' | 'A2' | 'A3'>
+
+export type UnitPrincipleAnalysis = {
+  assessment: unknown
+  communicative_function?: string
+  modality?: string
+  principle: PrincipleCode
+  unit: number
+  text: string
+}
+
 export type KeyElements = {
   products: string[]
   animals: string[]
@@ -54,6 +66,153 @@ export type KeyElements = {
   activities: string[]
   conditions: string[]
   regulatory_assurances: string[]
+}
+
+export type PrincipleAssessment = {
+  compliance?: ComplianceStatus
+  explanation?: string
+  issue_identified?: string
+  principle?: PrincipleCode
+  principle_name?: string
+  relevant_text_fragment?: string
+}
+
+export type A2AnalysisResult = {
+  assessment: PrincipleAssessment
+  attestation: string
+  can_suggest_correction: boolean
+  guidance: string
+  identified_elements: KeyElements
+  missing_information: string[]
+  principle: 'A2'
+  status: ComplianceStatus
+  suggestions: Array<{
+    id: string
+    notes: string[]
+    rationale: string
+    text: string
+  }>
+}
+
+export type A2ValidationResult = {
+  a2_improved_or_preserved: boolean
+  can_apply: boolean
+  candidate_assessments: Partial<Record<PrincipleCode, PrincipleAssessment>>
+  candidate_attestation: string
+  candidate_a2_status: ComplianceStatus
+  candidate_identified_elements: KeyElements
+  candidate_missing_information: string[]
+  original_a2_status: ComplianceStatus
+  original_attestation: string
+  preserved_principles: PrincipleCode[]
+  principle: 'A2'
+  regressions: Array<{ after: ComplianceStatus; before: ComplianceStatus; principle: PrincipleCode }>
+  warnings: string[]
+}
+
+export type A3AnalysisResult = {
+  assessment: PrincipleAssessment
+  attestation: string
+  can_suggest_correction: boolean
+  communicative_function: string
+  guidance: string
+  modality: string
+  principle: 'A3'
+  recommended_template?: {
+    id?: string
+    category?: string
+    communicative_function?: string
+    modality?: string
+    representative_example?: string
+    structural_template?: string
+  }
+  status: ComplianceStatus
+  suggestions: Array<{
+    id: string
+    notes: string[]
+    rationale: string
+    text: string
+  }>
+  supporting_text: string
+  template_confidence?: number
+  template_selection_rationale?: string
+}
+
+export type A3TemplateAdaptationResult = {
+  adapted_attestation?: string | null
+  confidence?: number
+  final_assessment?: string
+  input_attestation: string
+  selected_template: {
+    id?: string
+    category?: string
+    communicative_function?: string
+    modality?: string
+    representative_example?: string
+    structural_template?: string
+  }
+  template_adaptation_decision: 'adapted' | 'not_adapted_review_required'
+  template_selection_rationale: string
+  unresolved_risks: string[]
+}
+
+export type A3ValidationResult = {
+  a3_improved_or_preserved: boolean
+  can_apply: boolean
+  candidate_a3_status: ComplianceStatus
+  candidate_assessments: Partial<Record<PrincipleCode, PrincipleAssessment>>
+  candidate_attestation: string
+  candidate_communicative_function: string
+  candidate_modality: string
+  classification_consistent: boolean
+  confirmed_communicative_function: string
+  confirmed_modality: string
+  original_a3_status: ComplianceStatus
+  original_attestation: string
+  preserved_principles: PrincipleCode[]
+  principle: 'A3'
+  regressions: Array<{ after: ComplianceStatus; before: ComplianceStatus; principle: PrincipleCode }>
+  warnings: string[]
+}
+
+export type WorkflowPrincipleAnalysisResult = {
+  action_title: string
+  assessment: PrincipleAssessment
+  attestation: string
+  can_suggest_correction: boolean
+  checks: Array<{ evidence: string; label: string; passed: boolean }>
+  correction_goal: string
+  findings: Array<{ category: string; explanation: string; text: string }>
+  guidance: string
+  metrics: Array<{ label: string; value: string }>
+  principle: WorkflowPrincipleCode
+  status: ComplianceStatus
+  suggestions: Array<{
+    id: string
+    notes: string[]
+    rationale: string
+    replacement_units: string[]
+    text: string
+  }>
+  summary: string
+}
+
+export type WorkflowPrincipleValidationResult = {
+  can_apply: boolean
+  candidate_assessments: Partial<Record<PrincipleCode, PrincipleAssessment>>
+  candidate_attestations: string[]
+  candidate_status: ComplianceStatus
+  candidate_target_assessment: PrincipleAssessment
+  candidate_unit_assessments: Array<Partial<Record<PrincipleCode, PrincipleAssessment>>>
+  candidate_unit_metadata: Array<{ communicative_function: string; modality: string }>
+  meaning_preserved: boolean
+  original_attestation: string
+  original_status: ComplianceStatus
+  preserved_principles: PrincipleCode[]
+  principle: WorkflowPrincipleCode
+  regressions: Array<{ after: ComplianceStatus; before: ComplianceStatus; principle: PrincipleCode }>
+  target_improved_or_preserved: boolean
+  warnings: string[]
 }
 
 export type ComplianceReport = {
@@ -80,6 +239,23 @@ type UnitizeTextResponse = {
   output: {
     results?: string[]
   }
+}
+
+export type A1UnitizationResult = {
+  assessment?: unknown
+  assurance_count: number
+  context_preservation: {
+    passed: boolean
+    warnings: string[]
+  }
+  explanation: string
+  identified_assurances: Array<{ index: number; text: string }>
+  original_attestation: string
+  principle: 'A1'
+  requires_split: boolean
+  status: ComplianceStatus
+  suggested_unit_assessments: Array<{ assessment?: unknown; index: number; status: ComplianceStatus; text: string }>
+  suggested_units: string[]
 }
 
 export type AttestationSectionReference = {
@@ -244,6 +420,108 @@ export async function analyzeCompliance(attestation: string) {
   return response.data.output
 }
 
+const principleEndpoints: Record<PrincipleCode, string> = {
+  A1: '/analyze_a1',
+  A2: '/analyze_a2',
+  A3: '/analyze_a3',
+  B1: '/analyze_b1',
+  B2: '/analyze_b2',
+  C: '/analyze_c',
+  D: '/analyze_d',
+  E: '/analyze_e',
+}
+
+export async function analyzePrinciple(attestation: string, principle: PrincipleCode) {
+  const response = await api.post<{ output: Omit<UnitPrincipleAnalysis, 'unit' | 'text'> }>(principleEndpoints[principle], {
+    input: { attestation },
+  })
+
+  return response.data.output
+}
+
+export async function analyzeA2KeyElements(attestation: string) {
+  const response = await api.post<{ output: A2AnalysisResult }>('/a2/analyze', {
+    input: { attestation },
+  })
+  return response.data.output
+}
+
+export async function validateA2Correction(originalAttestation: string, candidateAttestation: string) {
+  const response = await api.post<{ output: A2ValidationResult }>('/a2/validate-correction', {
+    input: {
+      original_attestation: originalAttestation,
+      candidate_attestation: candidateAttestation,
+    },
+  })
+  return response.data.output
+}
+
+export async function analyzeA3ModalityAndFunction(attestation: string) {
+  const response = await api.post<{ output: A3AnalysisResult }>('/a3/analyze', {
+    input: { attestation },
+  })
+  return response.data.output
+}
+
+export async function validateA3Correction(
+  originalAttestation: string,
+  candidateAttestation: string,
+  confirmedModality: string,
+  confirmedCommunicativeFunction: string,
+  confirmedTemplateId: string,
+) {
+  const response = await api.post<{ output: A3ValidationResult }>('/a3/validate-correction', {
+    input: {
+      original_attestation: originalAttestation,
+      candidate_attestation: candidateAttestation,
+      confirmed_modality: confirmedModality,
+      confirmed_communicative_function: confirmedCommunicativeFunction,
+      confirmed_template_id: confirmedTemplateId,
+    },
+  })
+  return response.data.output
+}
+
+export async function adaptA3ToTemplate(attestation: string, templateId: string) {
+  const response = await api.post<{ output: A3TemplateAdaptationResult }>('/a3/adapt-template', {
+    input: { attestation, template_id: templateId },
+  })
+  return response.data.output
+}
+
+const workflowPrinciplePaths: Record<WorkflowPrincipleCode, string> = {
+  B1: 'b1',
+  B2: 'b2',
+  C: 'c',
+  D: 'd',
+  E: 'e',
+}
+
+export async function analyzeWorkflowPrinciple(attestation: string, principle: WorkflowPrincipleCode, originalAttestation?: string) {
+  const response = await api.post<{ output: WorkflowPrincipleAnalysisResult }>(`/${workflowPrinciplePaths[principle]}/analyze`, {
+    input: { attestation, original_attestation: originalAttestation },
+  })
+  return response.data.output
+}
+
+export async function validateWorkflowPrincipleCorrection(
+  originalAttestation: string,
+  candidateAttestations: string[],
+  principle: WorkflowPrincipleCode,
+  originalStatus: ComplianceStatus,
+  protectedPrinciples: PrincipleCode[],
+) {
+  const response = await api.post<{ output: WorkflowPrincipleValidationResult }>(`/${workflowPrinciplePaths[principle]}/validate-correction`, {
+    input: {
+      original_attestation: originalAttestation,
+      candidate_attestations: candidateAttestations,
+      original_status: originalStatus,
+      protected_principles: protectedPrinciples,
+    },
+  })
+  return response.data.output
+}
+
 export async function generateTriples(text: string) {
   const response = await api.post('/generate_triples', {
     input: { text },
@@ -266,6 +544,14 @@ export async function unitizeText(text: string) {
   })
 
   return response.data.output.results ?? []
+}
+
+export async function unitizeA1(attestation: string) {
+  const response = await api.post<{ output: A1UnitizationResult }>('/a1/unitize', {
+    input: { attestation },
+  })
+
+  return response.data.output
 }
 
 export async function consolidateComplianceReport(unitAnalyses: unknown[]) {
@@ -396,9 +682,17 @@ export async function executeAgentUnitEdits(
   return (unwrapToolResults<AgentUnitEditExecution>(response.data.output) ?? {}) as AgentUnitEditExecution
 }
 
-function unwrapToolResults<T>(value: any): T | undefined {
-  if (value?.results !== undefined) return value.results as T
-  if (value?.output?.results !== undefined) return value.output.results as T
-  if (value?.output?.output?.results !== undefined) return value.output.output.results as T
+function unwrapToolResults<T>(value: unknown): T | undefined {
+  if (!value || typeof value !== 'object') return value as T | undefined
+  const payload = value as Record<string, unknown>
+  if (payload.results !== undefined) return payload.results as T
+  if (payload.output && typeof payload.output === 'object') {
+    const output = payload.output as Record<string, unknown>
+    if (output.results !== undefined) return output.results as T
+    if (output.output && typeof output.output === 'object') {
+      const nestedOutput = output.output as Record<string, unknown>
+      if (nestedOutput.results !== undefined) return nestedOutput.results as T
+    }
+  }
   return value as T
 }

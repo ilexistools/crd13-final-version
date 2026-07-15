@@ -42,6 +42,7 @@ unitization rules used by the `unitizer` agent:
 - Preserve the source text's modality and qualifiers, including terms such as `must`, `shall`, `may`, `with`, `without`, `under`, `in`, `from`, `free from`, and bracketed placeholders.
 - Keep technical terms, named authorities, countries, zones, diseases, establishments, and product terms unchanged.
 - Repeat the subject or necessary context as needed so each resulting unit stands alone.
+- Preserve explicit logical, causal, temporal, and evidentiary relationships between assurances. When a coordinated clause states that one action produced or supported a finding, recast that relationship explicitly in a standalone unit using only the relationship already expressed by the source.
 - When a modifier applies to several listed items, repeat the modifier in each resulting proposition.
 - Do not infer, summarize, paraphrase, translate, explain, number, or group units beyond what is necessary for the authorized correction.
 

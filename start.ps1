@@ -8,7 +8,7 @@ $ErrorActionPreference = "Stop"
 
 $Root = $PSScriptRoot
 $BackendDir = Join-Path $Root "backend"
-$FrontendDir = Join-Path $Root "frontend"
+$FrontendDir = Join-Path $Root "new-frontend"
 $RuntimeDir = Join-Path $Root ".runtime"
 $LogDir = Join-Path $RuntimeDir "logs"
 
@@ -92,7 +92,7 @@ if (-not (Test-Path -LiteralPath $Python)) {
 
 if (-not $NoInstall) {
     if (-not (Test-Path -LiteralPath (Join-Path $FrontendDir "node_modules"))) {
-        Write-Host "Installing frontend dependencies..."
+        Write-Host "Installing new frontend dependencies..."
         Push-Location $FrontendDir
         try {
             npm install

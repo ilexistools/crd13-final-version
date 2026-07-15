@@ -44,7 +44,7 @@ fi
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BACKEND_DIR="$ROOT/backend"
-FRONTEND_DIR="$ROOT/frontend"
+FRONTEND_DIR="$ROOT/new-frontend"
 RUNTIME_DIR="$ROOT/.runtime"
 LOG_DIR="$RUNTIME_DIR/logs"
 
@@ -165,7 +165,7 @@ if [ ! -x "$PYTHON" ]; then
 fi
 
 if [ "$NO_INSTALL" -eq 0 ] && [ ! -d "$FRONTEND_DIR/node_modules" ]; then
-  echo "Installing frontend dependencies..."
+  echo "Installing new frontend dependencies..."
   (cd "$FRONTEND_DIR" && npm install)
 fi
 

@@ -4,6 +4,7 @@ import CategoryOutlinedIcon from '@mui/icons-material/CategoryOutlined'
 import ChevronLeftOutlinedIcon from '@mui/icons-material/ChevronLeftOutlined'
 import ChevronRightOutlinedIcon from '@mui/icons-material/ChevronRightOutlined'
 import CloseOutlinedIcon from '@mui/icons-material/CloseOutlined'
+import CheckCircleOutlineOutlinedIcon from '@mui/icons-material/CheckCircleOutlineOutlined'
 import ContentCopyOutlinedIcon from '@mui/icons-material/ContentCopyOutlined'
 import DeleteOutlineOutlinedIcon from '@mui/icons-material/DeleteOutlineOutlined'
 import DoneAllOutlinedIcon from '@mui/icons-material/DoneAllOutlined'
@@ -15,6 +16,7 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined'
 import OpenInNewOutlinedIcon from '@mui/icons-material/OpenInNewOutlined'
 import ReportProblemOutlinedIcon from '@mui/icons-material/ReportProblemOutlined'
 import RadioButtonUncheckedOutlinedIcon from '@mui/icons-material/RadioButtonUncheckedOutlined'
+import RadioButtonCheckedOutlinedIcon from '@mui/icons-material/RadioButtonCheckedOutlined'
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined'
 import {
   Box,
@@ -22,18 +24,22 @@ import {
   Chip,
   CircularProgress,
   Dialog,
+  DialogActions,
   DialogContent,
   DialogTitle,
+  Alert,
   IconButton,
+  MenuItem,
   Stack,
   TextareaAutosize,
   TextField,
   Tooltip,
   Typography,
 } from '@mui/material'
-import { useEffect, useState, type KeyboardEvent, type MouseEvent, type ReactNode } from 'react'
-import { ComplianceReport, ComplianceReportRow, apiBaseUrl, type AttestationSectionReference, type ComplianceStatus, type KeyElements, type ProvisionReference, type ReferenceDocument, type UnitComplianceAnalysis, type UnitComplianceStatus, type UnitTriples } from '../lib/api'
+import { useEffect, useRef, useState, type KeyboardEvent, type MouseEvent, type ReactNode } from 'react'
+import { ComplianceReport, ComplianceReportRow, adaptA3ToTemplate, analyzeA2KeyElements, analyzeA3ModalityAndFunction, analyzeWorkflowPrinciple, apiBaseUrl, validateA2Correction, validateA3Correction, validateWorkflowPrincipleCorrection, type A2AnalysisResult, type A2ValidationResult, type A3AnalysisResult, type A3TemplateAdaptationResult, type A3ValidationResult, type AttestationSectionReference, type ComplianceStatus, type KeyElements, type PrincipleCode, type ProvisionReference, type ReferenceDocument, type UnitComplianceAnalysis, type UnitComplianceStatus, type UnitPrincipleAnalysis, type UnitTriples, type WorkflowPrincipleAnalysisResult, type WorkflowPrincipleCode, type WorkflowPrincipleValidationResult } from '../lib/api'
 import type { AttestationUnit } from '../lib/editorUnits'
+import { getTemplates } from '../lib/templates/catalog'
 
 export type EditorView = 'units' | 'compliance' | 'references'
 type UnitDataView = 'attestation' | 'triples' | 'key-elements' | 'original-text'
@@ -46,6 +52,23 @@ const unitDataViews: Array<{ id: UnitDataView; label: string }> = [
 ]
 
 const principleCodes = ['A1', 'A2', 'A3', 'B1', 'B2', 'C', 'D', 'E'] as const
+const attestationTemplates = getTemplates().items.filter((template) => template.modality && template.modality !== 'undefined')
+const attestationModalities = [...new Set(attestationTemplates.map((template) => template.modality))].sort()
+
+function getProtectedPrinciples(
+  unit: AttestationUnit,
+  analyses: UnitPrincipleAnalysis[],
+  target: WorkflowPrincipleCode,
+): PrincipleCode[] {
+  const targetIndex = principleCodes.indexOf(target)
+  return principleCodes.slice(0, targetIndex).filter((principle) => {
+    if (principle === 'A1') return unit.unitizationReviewed
+    const analysis = analyses.find((item) => item.principle === principle)
+    const assessment = isRecord(analysis?.assessment) ? analysis.assessment : {}
+    const decision = unit.principleDecisions?.[principle]
+    return assessment.compliance === 'Compliant' || decision?.revision === unit.revision
+  })
+}
 
 type SentenceCanvasPageProps = {
   activeView: EditorView
@@ -66,6 +89,7 @@ type SentenceCanvasPageProps = {
   selectedIndexes: Set<number>
   lockedIndexes: Set<number>
   unitAnalyses: UnitComplianceAnalysis[]
+  unitPrincipleAnalyses: UnitPrincipleAnalysis[]
   unitComplianceStatuses: UnitComplianceStatus[]
   unitTriples: UnitTriples[]
   onAddSentence: () => void
@@ -75,6 +99,20 @@ type SentenceCanvasPageProps = {
   onSelectAll: () => void
   onSelectSentence: (index: number, event: MouseEvent<HTMLElement>) => void
   onSentenceChange: (index: number, value: string) => void
+  onApplyA2Correction: (index: number, candidate: string, validation: A2ValidationResult) => void
+  onApplyA3Correction: (index: number, candidate: string, validation: A3ValidationResult, templateId: string) => void
+  onApplyWorkflowCorrection: (index: number, principle: WorkflowPrincipleCode, candidates: string[], validation: WorkflowPrincipleValidationResult) => void
+  onAnalyzeSentence: (index: number) => void
+  onApproveSentence: (index: number) => void
+  onGenerateTriplesSentence: (index: number) => void
+  onOpenReferencesForSentence: (index: number) => void
+  onOpenRewriteForSentence: (index: number) => void
+  onKeepA2AsIs: (index: number, reason: string, status: ComplianceStatus) => void
+  onKeepA3AsIs: (index: number, status: ComplianceStatus, modality: string, communicativeFunction: string, templateId: string) => void
+  onKeepWorkflowAsIs: (index: number, principle: WorkflowPrincipleCode, status: ComplianceStatus) => void
+  onRecordA2Analysis: (index: number, analysis: A2AnalysisResult) => void
+  onRecordA3Analysis: (index: number, analysis: A3AnalysisResult) => void
+  onRecordWorkflowAnalysis: (index: number, analysis: WorkflowPrincipleAnalysisResult) => void
   onReferenceQueryChange: (value: string) => void
   onSearchReferences: () => void
   onToggleLockSentence: (index: number) => void
@@ -100,6 +138,7 @@ export function SentenceCanvasPage({
   selectedIndexes,
   lockedIndexes,
   unitAnalyses,
+  unitPrincipleAnalyses,
   unitComplianceStatuses,
   unitTriples,
   onAddSentence,
@@ -109,6 +148,20 @@ export function SentenceCanvasPage({
   onSelectAll,
   onSelectSentence,
   onSentenceChange,
+  onApplyA2Correction,
+  onApplyA3Correction,
+  onApplyWorkflowCorrection,
+  onAnalyzeSentence,
+  onApproveSentence,
+  onGenerateTriplesSentence,
+  onOpenReferencesForSentence,
+  onOpenRewriteForSentence,
+  onKeepA2AsIs,
+  onKeepA3AsIs,
+  onKeepWorkflowAsIs,
+  onRecordA2Analysis,
+  onRecordA3Analysis,
+  onRecordWorkflowAnalysis,
   onReferenceQueryChange,
   onSearchReferences,
   onToggleLockSentence,
@@ -116,6 +169,9 @@ export function SentenceCanvasPage({
 }: SentenceCanvasPageProps) {
   const selectedCount = selectedIndexes.size
   const [selectedUnitAnalysis, setSelectedUnitAnalysis] = useState<UnitComplianceAnalysis | null>(null)
+  const [a2UnitIndex, setA2UnitIndex] = useState<number | null>(null)
+  const [a3UnitIndex, setA3UnitIndex] = useState<number | null>(null)
+  const [workflowDialog, setWorkflowDialog] = useState<{ index: number; principle: WorkflowPrincipleCode } | null>(null)
 
   const handleKeyDown = (event: KeyboardEvent<HTMLDivElement>) => {
     const target = event.target as HTMLElement
@@ -159,8 +215,17 @@ export function SentenceCanvasPage({
               originalText={unit.originalText}
               triples={unitTriples.find((unitTriple) => unitTriple.unit === index + 1)?.triples}
               unitAnalysis={unitAnalyses.find((unitAnalysis) => unitAnalysis.unit === index + 1)}
+              principleAnalyses={unitPrincipleAnalyses.filter((analysis) => analysis.unit === index + 1)}
               onChange={onSentenceChange}
+              onAnalyzeA2={setA2UnitIndex}
+              onAnalyzeA3={setA3UnitIndex}
+              onAnalyzeWorkflow={(index, principle) => setWorkflowDialog({ index, principle })}
+              onAnalyze={onAnalyzeSentence}
+              onApprove={onApproveSentence}
+              onGenerateTriples={onGenerateTriplesSentence}
               onOpenUnitAnalysis={setSelectedUnitAnalysis}
+              onOpenReferences={onOpenReferencesForSentence}
+              onOpenRewrite={onOpenRewriteForSentence}
               onRemove={onRemoveSentence}
               onSelect={onSelectSentence}
               onToggleLock={onToggleLockSentence}
@@ -168,9 +233,9 @@ export function SentenceCanvasPage({
               unit={unit}
             />
           ))}
-          <Tooltip title="Add unit">
+          <Tooltip title="Add sentence">
             <IconButton
-              aria-label="Add unit"
+            aria-label="Add sentence"
               onClick={onAddSentence}
               sx={{
                 bgcolor: '#e6eaf2',
@@ -219,6 +284,66 @@ export function SentenceCanvasPage({
       <UnitAnalysisDialog
         onClose={() => setSelectedUnitAnalysis(null)}
         unitAnalysis={selectedUnitAnalysis}
+      />
+      <A2AnalysisDialog
+        onApply={(candidate, validation) => {
+          if (a2UnitIndex === null) return
+          onApplyA2Correction(a2UnitIndex, candidate, validation)
+          setA2UnitIndex(null)
+        }}
+        onClose={() => setA2UnitIndex(null)}
+        onKeep={(reason, status) => {
+          if (a2UnitIndex === null) return
+          onKeepA2AsIs(a2UnitIndex, reason, status)
+          setA2UnitIndex(null)
+        }}
+        onRecordAnalysis={(analysis) => {
+          if (a2UnitIndex !== null) onRecordA2Analysis(a2UnitIndex, analysis)
+        }}
+        open={a2UnitIndex !== null}
+        unit={a2UnitIndex !== null ? units[a2UnitIndex] : undefined}
+      />
+      <A3AnalysisDialog
+        onApply={(candidate, validation, templateId) => {
+          if (a3UnitIndex === null) return
+          onApplyA3Correction(a3UnitIndex, candidate, validation, templateId)
+          setA3UnitIndex(null)
+        }}
+        onClose={() => setA3UnitIndex(null)}
+        onKeep={(status, modality, communicativeFunction, templateId) => {
+          if (a3UnitIndex === null) return
+          onKeepA3AsIs(a3UnitIndex, status, modality, communicativeFunction, templateId)
+          setA3UnitIndex(null)
+        }}
+        onRecordAnalysis={(analysis) => {
+          if (a3UnitIndex !== null) onRecordA3Analysis(a3UnitIndex, analysis)
+        }}
+        open={a3UnitIndex !== null}
+        unit={a3UnitIndex !== null ? units[a3UnitIndex] : undefined}
+      />
+      <WorkflowPrincipleDialog
+        onApply={(candidates, validation) => {
+          if (!workflowDialog) return
+          onApplyWorkflowCorrection(workflowDialog.index, workflowDialog.principle, candidates, validation)
+          setWorkflowDialog(null)
+        }}
+        onClose={() => setWorkflowDialog(null)}
+        onKeep={(status) => {
+          if (!workflowDialog) return
+          onKeepWorkflowAsIs(workflowDialog.index, workflowDialog.principle, status)
+          setWorkflowDialog(null)
+        }}
+        onRecordAnalysis={(analysis) => {
+          if (workflowDialog) onRecordWorkflowAnalysis(workflowDialog.index, analysis)
+        }}
+        open={workflowDialog !== null}
+        principle={workflowDialog?.principle ?? 'B1'}
+        protectedPrinciples={workflowDialog ? getProtectedPrinciples(
+          units[workflowDialog.index],
+          unitPrincipleAnalyses.filter((item) => item.unit === workflowDialog.index + 1),
+          workflowDialog.principle,
+        ) : []}
+        unit={workflowDialog ? units[workflowDialog.index] : undefined}
       />
     </Box>
   )
@@ -1102,7 +1227,7 @@ function ComplianceReportPanel({ isLoading, report, unitAnalyses }: ComplianceRe
           <Box>
             <Typography sx={{ fontWeight: 800 }}>Analyzing compliance</Typography>
             <Typography color="text.secondary" sx={{ fontSize: 14 }}>
-              Each unit is being evaluated and a consolidated report will appear here.
+              Each sentence is being evaluated and a consolidated report will appear here.
             </Typography>
           </Box>
         </Stack>
@@ -1182,7 +1307,7 @@ function ComplianceReportPanel({ isLoading, report, unitAnalyses }: ComplianceRe
             p: 3,
           }}
         >
-          <MetricCard label="Units" value={report.summary.total_units} />
+          <MetricCard label="Sentences" value={report.summary.total_units} />
           <MetricCard label="Compliant" tone="Compliant" value={report.summary.compliant_units} />
           <MetricCard label="Partial" tone="Partially Compliant" value={report.summary.partially_compliant_units} />
           <MetricCard label="Non-compliant" tone="Non-Compliant" value={report.summary.non_compliant_units} />
@@ -1201,7 +1326,7 @@ function ComplianceReportPanel({ isLoading, report, unitAnalyses }: ComplianceRe
           <Box sx={{ borderTop: '1px solid #e5eaf2', px: 3, py: 2 }}>
             <Stack alignItems={{ xs: 'flex-start', md: 'center' }} direction={{ xs: 'column', md: 'row' }} spacing={1.25}>
               <Typography sx={{ color: '#5f6675', fontSize: 13, fontWeight: 800 }}>
-                Unit analysis
+                Sentence analysis
               </Typography>
               <Stack direction="row" flexWrap="wrap" gap={0.75}>
                 {unitAnalyses.map((unitAnalysis) => {
@@ -1211,7 +1336,7 @@ function ComplianceReportPanel({ isLoading, report, unitAnalyses }: ComplianceRe
                   return (
                     <Chip
                       key={unitAnalysis.unit}
-                      label={`Unit ${unitAnalysis.unit}`}
+                      label={`Sentence ${unitAnalysis.unit}`}
                       onClick={() => setSelectedUnitAnalysis(unitAnalysis)}
                       size="small"
                       sx={{
@@ -1314,7 +1439,7 @@ function UnitAnalysisDialog({
         <Stack alignItems="center" direction="row" justifyContent="space-between" spacing={2}>
           <Box>
             <Typography sx={{ fontSize: 18, fontWeight: 900 }}>
-              Unit {unitAnalysis.unit} analysis
+              Sentence {unitAnalysis.unit} analysis
             </Typography>
             <Typography color="text.secondary" sx={{ fontSize: 13 }}>
               Individual compliance assessment
@@ -1334,7 +1459,7 @@ function UnitAnalysisDialog({
       <DialogContent sx={{ pt: 1 }}>
         <Box sx={{ bgcolor: '#f8fafc', border: '1px solid #e5eaf2', mb: 2, p: 2 }}>
           <Typography color="text.secondary" sx={{ fontSize: 12, fontWeight: 800, mb: 0.75 }}>
-            Unit text
+              Sentence text
           </Typography>
           <Typography sx={{ lineHeight: 1.55 }}>
             {unitAnalysis.text}
@@ -1393,7 +1518,9 @@ function UnitAnalysisDialog({
 }
 
 type UnitOverall = {
+  communicative_function?: string
   compliance?: string
+  modality?: string
   summary?: string
 }
 
@@ -1422,11 +1549,23 @@ function getUnitAnalysisOverall(analysis: unknown): UnitOverall {
   const overall = isRecord(results.overall_assessment) ? results.overall_assessment : {}
 
   return {
+    communicative_function: typeof results.communicative_function === 'string' ? results.communicative_function : undefined,
     compliance: typeof overall.compliance === 'string' ? overall.compliance : undefined,
+    modality: typeof results.modality === 'string' ? results.modality : undefined,
     summary: typeof overall.summary === 'string' ? overall.summary : undefined,
   }
 }
 
+function getUnitAttestationMetadata(analysis: unknown) {
+  const overall = getUnitAnalysisOverall(analysis)
+  return {
+    communicativeFunction: overall.communicative_function || 'Uncertain',
+    modality: overall.modality || 'Uncertain',
+  }
+}
+
+// Shared with AppShell to keep compliance-status normalization identical in the card and editor state.
+// eslint-disable-next-line react-refresh/only-export-components
 export function getUnitAnalysisStatus(analysis: unknown): ComplianceStatus {
   return normalizeComplianceStatus(getUnitAnalysisOverall(analysis).compliance)
 }
@@ -1507,7 +1646,7 @@ function ComplianceReportTableRow({ row }: { row: ComplianceReportRow }) {
         <Typography sx={{ fontWeight: 800 }}>{row.principle}</Typography>
         {row.affected_units.length > 0 && (
           <Typography color="text.secondary" sx={{ fontSize: 12, mt: 0.25 }}>
-            Affected units: {row.affected_units.join(', ')}
+            Affected sentences: {row.affected_units.join(', ')}
           </Typography>
         )}
       </Box>
@@ -1680,6 +1819,725 @@ function CanvasFooter({
   )
 }
 
+type A2AnalysisDialogProps = {
+  onApply: (candidate: string, validation: A2ValidationResult) => void
+  onClose: () => void
+  onKeep: (reason: string, status: ComplianceStatus) => void
+  onRecordAnalysis: (analysis: A2AnalysisResult) => void
+  open: boolean
+  unit?: AttestationUnit
+}
+
+function A2AnalysisDialog({ onApply, onClose, onKeep, onRecordAnalysis, open, unit }: A2AnalysisDialogProps) {
+  const [analysis, setAnalysis] = useState<A2AnalysisResult | null>(null)
+  const [candidate, setCandidate] = useState('')
+  const [error, setError] = useState('')
+  const [isLoading, setIsLoading] = useState(false)
+  const [isValidating, setIsValidating] = useState(false)
+  const [isKeepCurrentOpen, setIsKeepCurrentOpen] = useState(false)
+  const [validation, setValidation] = useState<A2ValidationResult | null>(null)
+  const onRecordAnalysisRef = useRef(onRecordAnalysis)
+
+  useEffect(() => {
+    onRecordAnalysisRef.current = onRecordAnalysis
+  }, [onRecordAnalysis])
+
+  useEffect(() => {
+    let isCurrent = true
+    setAnalysis(null)
+    setCandidate('')
+    setError('')
+    setIsKeepCurrentOpen(false)
+    setValidation(null)
+
+    if (!open || !unit?.text.trim()) return () => { isCurrent = false }
+
+    setIsLoading(true)
+    void analyzeA2KeyElements(unit.text)
+      .then((result) => {
+        if (!isCurrent) return
+        setAnalysis(result)
+        setCandidate(result.suggestions[0]?.text ?? '')
+        onRecordAnalysisRef.current(result)
+      })
+      .catch((reason: unknown) => {
+        if (isCurrent) setError(reason instanceof Error ? reason.message : 'Could not analyze A2.')
+      })
+      .finally(() => {
+        if (isCurrent) setIsLoading(false)
+      })
+
+    return () => { isCurrent = false }
+  }, [open, unit?.id, unit?.text])
+
+  const validateCandidate = async () => {
+    if (!unit || !candidate.trim() || candidate.trim() === unit.text.trim()) return
+    setIsValidating(true)
+    setError('')
+    setValidation(null)
+    try {
+      setValidation(await validateA2Correction(unit.text, candidate.trim()))
+    } catch (reason) {
+      setError(reason instanceof Error ? reason.message : 'Could not validate the correction.')
+    } finally {
+      setIsValidating(false)
+    }
+  }
+
+  const elementGroups = analysis
+    ? Object.entries(analysis.identified_elements).filter(([, values]) => Array.isArray(values) && values.length > 0)
+    : []
+
+  return (
+    <Dialog fullWidth maxWidth="md" onClose={onClose} open={open}>
+      <DialogTitle>Analyse Key Attestation Elements · A2</DialogTitle>
+      <DialogContent>
+        {isLoading && (
+          <Stack alignItems="center" direction="row" spacing={1.25} sx={{ py: 4 }}>
+            <CircularProgress size={22} />
+            <Typography>Identifying the key elements and safe correction options…</Typography>
+          </Stack>
+        )}
+        {error && <Alert severity="error" sx={{ mb: 2 }}>{error}</Alert>}
+        {analysis && (
+          <Stack spacing={2.25}>
+            <Alert severity={analysis.status === 'Compliant' ? 'success' : analysis.status === 'Non-Compliant' ? 'error' : 'warning'}>
+              <Typography sx={{ fontWeight: 900 }}>{analysis.status}</Typography>
+              <Typography sx={{ mt: 0.25 }}>
+                {analysis.assessment.issue_identified || analysis.assessment.explanation || analysis.guidance}
+              </Typography>
+            </Alert>
+
+            <Box>
+              <Typography sx={{ fontSize: 13, fontWeight: 900, mb: 1 }}>Identified elements</Typography>
+              {elementGroups.length === 0 ? (
+                <Typography color="text.secondary">No explicit key elements were identified.</Typography>
+              ) : (
+                <Stack spacing={1}>
+                  {elementGroups.map(([key, values]) => (
+                    <Stack alignItems="flex-start" direction={{ xs: 'column', sm: 'row' }} key={key} spacing={1}>
+                      <Typography sx={{ fontSize: 12, fontWeight: 900, minWidth: 150, textTransform: 'capitalize' }}>
+                        {key.replace(/_/g, ' ')}
+                      </Typography>
+                      <Stack direction="row" flexWrap="wrap" gap={0.5}>
+                        {(values as string[]).map((value) => <Chip key={`${key}-${value}`} label={value} size="small" />)}
+                      </Stack>
+                    </Stack>
+                  ))}
+                </Stack>
+              )}
+            </Box>
+
+            {analysis.missing_information.length > 0 && (
+              <Box>
+                <Typography sx={{ fontSize: 13, fontWeight: 900, mb: 0.75 }}>Missing or unclear information</Typography>
+                {analysis.missing_information.map((item) => (
+                  <Typography key={item} sx={{ color: '#9a3412', fontSize: 13, mb: 0.4 }}>• {item}</Typography>
+                ))}
+              </Box>
+            )}
+
+            <Box>
+              <Typography sx={{ fontSize: 13, fontWeight: 900, mb: 1 }}>Suggested corrections</Typography>
+              {analysis.suggestions.length === 0 ? (
+                <Alert severity="info">{analysis.guidance}</Alert>
+              ) : analysis.suggestions.map((suggestion) => (
+                <Box key={suggestion.id} sx={{ border: '1px solid #dbe3f1', borderRadius: 1.5, mb: 1, p: 1.5 }}>
+                  <Typography sx={{ lineHeight: 1.5 }}>{suggestion.text}</Typography>
+                  <Typography color="text.secondary" sx={{ fontSize: 12, mt: 0.75 }}>{suggestion.rationale}</Typography>
+                  <Button onClick={() => { setCandidate(suggestion.text); setValidation(null) }} size="small" sx={{ mt: 0.75 }}>
+                    Use this suggestion
+                  </Button>
+                </Box>
+              ))}
+            </Box>
+
+            <TextField
+              fullWidth
+              label="Write your own correction"
+              minRows={4}
+              multiline
+              onChange={(event) => { setCandidate(event.target.value); setValidation(null) }}
+              placeholder="Enter an alternative wording using only confirmed information."
+              value={candidate}
+            />
+
+            {candidate.trim() && candidate.trim() !== unit?.text.trim() && (
+              <Box sx={{ display: 'grid', gap: 1.25, gridTemplateColumns: { xs: '1fr', md: '1fr 1fr' } }}>
+                <Box sx={{ bgcolor: '#f8fafc', border: '1px solid #e5eaf2', p: 1.5 }}>
+                  <Typography color="text.secondary" sx={{ fontSize: 11, fontWeight: 900, mb: 0.5 }}>CURRENT</Typography>
+                  <Typography>{unit?.text}</Typography>
+                </Box>
+                <Box sx={{ bgcolor: '#f5f8ff', border: '1px solid #d9e3fb', p: 1.5 }}>
+                  <Typography color="text.secondary" sx={{ fontSize: 11, fontWeight: 900, mb: 0.5 }}>PROPOSED</Typography>
+                  <Typography>{candidate}</Typography>
+                </Box>
+              </Box>
+            )}
+
+            {validation && (
+              <Alert severity={validation.can_apply ? 'success' : 'error'}>
+                {validation.can_apply
+                  ? `Safe to apply. Previously compliant principles preserved: ${validation.preserved_principles.join(', ') || 'none recorded'}.`
+                  : `Cannot apply. Regressions: ${validation.regressions.map((item) => `${item.principle} (${item.before} → ${item.after})`).join(', ') || 'A2 was not preserved'}.`}
+              </Alert>
+            )}
+            {isKeepCurrentOpen && (
+              <Box sx={{ bgcolor: '#fffaf0', border: '1px solid #fed7aa', borderRadius: 1.5, p: 1.5 }}>
+                <Typography sx={{ fontSize: 13, fontWeight: 900, mb: 0.75 }}>
+                  Keep the current wording?
+                </Typography>
+                <Typography color="text.secondary" sx={{ fontSize: 13 }}>
+                  The current attestation will remain unchanged and your decision will be recorded for subsequent analyses.
+                </Typography>
+                <Stack direction="row" justifyContent="flex-end" spacing={1} sx={{ mt: 1 }}>
+                  <Button onClick={() => setIsKeepCurrentOpen(false)} size="small">Cancel</Button>
+                  <Button
+                    onClick={() => onKeep('', analysis.status)}
+                    size="small"
+                    variant="contained"
+                  >
+                    {analysis.status === 'Compliant' ? 'Confirm current attestation' : 'Accept as is'}
+                  </Button>
+                </Stack>
+              </Box>
+            )}
+          </Stack>
+        )}
+      </DialogContent>
+      <DialogActions>
+        <Button onClick={onClose}>Close</Button>
+        <Button disabled={!analysis} onClick={() => setIsKeepCurrentOpen(true)}>
+          Keep current attestation
+        </Button>
+        <Button
+          disabled={!analysis || !candidate.trim() || candidate.trim() === unit?.text.trim() || isValidating}
+          onClick={() => void validateCandidate()}
+          variant="outlined"
+        >
+          {isValidating ? 'Validating…' : 'Validate correction'}
+        </Button>
+        <Button
+          disabled={!validation?.can_apply}
+          onClick={() => validation && onApply(candidate.trim(), validation)}
+          variant="contained"
+        >
+          Apply correction
+        </Button>
+      </DialogActions>
+    </Dialog>
+  )
+}
+
+type A3AnalysisDialogProps = {
+  onApply: (candidate: string, validation: A3ValidationResult, templateId: string) => void
+  onClose: () => void
+  onKeep: (status: ComplianceStatus, modality: string, communicativeFunction: string, templateId: string) => void
+  onRecordAnalysis: (analysis: A3AnalysisResult) => void
+  open: boolean
+  unit?: AttestationUnit
+}
+
+function A3AnalysisDialog({ onApply, onClose, onKeep, onRecordAnalysis, open, unit }: A3AnalysisDialogProps) {
+  const [analysis, setAnalysis] = useState<A3AnalysisResult | null>(null)
+  const [adaptation, setAdaptation] = useState<A3TemplateAdaptationResult | null>(null)
+  const [candidate, setCandidate] = useState('')
+  const [communicativeFunction, setCommunicativeFunction] = useState('')
+  const [error, setError] = useState('')
+  const [isLoading, setIsLoading] = useState(false)
+  const [isAdapting, setIsAdapting] = useState(false)
+  const [isValidating, setIsValidating] = useState(false)
+  const [modality, setModality] = useState('')
+  const [selectedTemplateId, setSelectedTemplateId] = useState('')
+  const [validation, setValidation] = useState<A3ValidationResult | null>(null)
+  const onRecordAnalysisRef = useRef(onRecordAnalysis)
+  const adaptationRequestRef = useRef(0)
+
+  useEffect(() => {
+    onRecordAnalysisRef.current = onRecordAnalysis
+  }, [onRecordAnalysis])
+
+  useEffect(() => {
+    let isCurrent = true
+    setAnalysis(null)
+    setAdaptation(null)
+    setCandidate('')
+    setCommunicativeFunction('')
+    setError('')
+    setModality('')
+    setSelectedTemplateId('')
+    setValidation(null)
+    if (!open || !unit?.text.trim()) return () => { isCurrent = false }
+
+    setIsLoading(true)
+    void analyzeA3ModalityAndFunction(unit.text)
+      .then((result) => {
+        if (!isCurrent) return
+        setAnalysis(result)
+        setCandidate(result.suggestions[0]?.text ?? '')
+        setCommunicativeFunction(result.communicative_function)
+        setModality(result.modality)
+        setSelectedTemplateId(result.recommended_template?.id || (
+          attestationTemplates.find((template) => (
+            template.modality.toLowerCase() === result.modality.toLowerCase()
+            && template.communicative_function.toLowerCase() === result.communicative_function.toLowerCase()
+          ))?.id ?? ''
+        ))
+        onRecordAnalysisRef.current(result)
+      })
+      .catch((reason: unknown) => {
+        if (isCurrent) setError(reason instanceof Error ? reason.message : 'Could not analyze A3.')
+      })
+      .finally(() => {
+        if (isCurrent) setIsLoading(false)
+      })
+
+    return () => { isCurrent = false }
+  }, [open, unit?.id, unit?.text])
+
+  const validateCandidate = async () => {
+    if (!unit || !candidate.trim() || candidate.trim() === unit.text.trim()) return
+    setIsValidating(true)
+    setError('')
+    setValidation(null)
+    try {
+      setValidation(await validateA3Correction(
+        unit.text,
+        candidate.trim(),
+        modality.trim(),
+        communicativeFunction.trim(),
+        selectedTemplateId,
+      ))
+    } catch (reason) {
+      setError(reason instanceof Error ? reason.message : 'Could not validate the correction.')
+    } finally {
+      setIsValidating(false)
+    }
+  }
+
+  const filteredTemplates = attestationTemplates.filter((template) => template.modality === modality)
+  const selectedTemplate = attestationTemplates.find((template) => template.id === selectedTemplateId)
+
+  const adaptToSelectedTemplate = async (templateId: string) => {
+    if (!unit || !templateId) return
+    const requestId = adaptationRequestRef.current + 1
+    adaptationRequestRef.current = requestId
+    setIsAdapting(true)
+    setError('')
+    setAdaptation(null)
+    setValidation(null)
+    try {
+      const result = await adaptA3ToTemplate(unit.text, templateId)
+      if (adaptationRequestRef.current !== requestId) return
+      setAdaptation(result)
+      if (result.adapted_attestation?.trim()) setCandidate(result.adapted_attestation.trim())
+    } catch (reason) {
+      if (adaptationRequestRef.current === requestId) {
+        setError(reason instanceof Error ? reason.message : 'Could not adapt the attestation to this template.')
+      }
+    } finally {
+      if (adaptationRequestRef.current === requestId) setIsAdapting(false)
+    }
+  }
+
+  return (
+    <Dialog fullWidth maxWidth="md" onClose={onClose} open={open}>
+      <DialogTitle>Identify Modality and Communicative Function · A3</DialogTitle>
+      <DialogContent>
+        {isLoading && (
+          <Stack alignItems="center" direction="row" spacing={1.25} sx={{ py: 4 }}>
+            <CircularProgress size={22} />
+            <Typography>Identifying modality, communicative function and factual wording…</Typography>
+          </Stack>
+        )}
+        {error && <Alert severity="error" sx={{ mb: 2 }}>{error}</Alert>}
+        {analysis && (
+          <Stack spacing={2.25}>
+            <Alert severity={analysis.status === 'Compliant' ? 'success' : analysis.status === 'Non-Compliant' ? 'error' : 'warning'}>
+              <Typography sx={{ fontWeight: 900 }}>{analysis.status}</Typography>
+              <Typography sx={{ mt: 0.25 }}>
+                {analysis.assessment.issue_identified || analysis.assessment.explanation || analysis.guidance}
+              </Typography>
+            </Alert>
+
+            <Box sx={{ display: 'grid', gap: 1.25, gridTemplateColumns: { xs: '1fr', md: '1fr 1.3fr' } }}>
+              <TextField
+                label="Modality"
+                onChange={(event) => {
+                  setModality(event.target.value)
+                  setSelectedTemplateId('')
+                  setAdaptation(null)
+                  setValidation(null)
+                }}
+                select
+                value={modality}
+              >
+                {!attestationModalities.includes(modality) && modality && <MenuItem value={modality}>{modality}</MenuItem>}
+                {attestationModalities.map((option) => <MenuItem key={option} value={option}>{option}</MenuItem>)}
+              </TextField>
+              <TextField
+                disabled={!modality}
+                helperText={modality ? `${filteredTemplates.length} template${filteredTemplates.length === 1 ? '' : 's'} available` : 'Select a modality first'}
+                label="Template"
+                onChange={(event) => {
+                  const template = attestationTemplates.find((item) => item.id === event.target.value)
+                  setSelectedTemplateId(event.target.value)
+                  if (template) {
+                    setModality(template.modality)
+                    setCommunicativeFunction(template.communicative_function)
+                    void adaptToSelectedTemplate(template.id)
+                  }
+                  if (!template) setAdaptation(null)
+                  setValidation(null)
+                }}
+                select
+                value={selectedTemplateId}
+              >
+                <MenuItem value="">No template selected</MenuItem>
+                {filteredTemplates.map((template) => (
+                  <MenuItem key={template.id} value={template.id}>
+                    {template.communicative_function || template.category || template.id}
+                    {template.id === analysis.recommended_template?.id ? ' · Recommended' : ''}
+                  </MenuItem>
+                ))}
+              </TextField>
+            </Box>
+
+            <TextField
+              label="Communicative function"
+              onChange={(event) => { setCommunicativeFunction(event.target.value); setSelectedTemplateId(''); setAdaptation(null); setValidation(null) }}
+              value={communicativeFunction}
+            />
+
+            {selectedTemplate && (
+              <Box sx={{ bgcolor: '#f5f3ff', border: '1px solid #ddd6fe', borderRadius: 1.5, p: 1.5 }}>
+                <Stack alignItems="center" direction="row" justifyContent="space-between" spacing={1}>
+                  <Typography sx={{ color: '#6d28d9', fontSize: 12, fontWeight: 900 }}>SELECTED TEMPLATE</Typography>
+                  {selectedTemplate.id === analysis.recommended_template?.id && (
+                    <Chip color="secondary" label="Recommended" size="small" variant="outlined" />
+                  )}
+                </Stack>
+                <Typography sx={{ fontWeight: 800, mt: 0.5 }}>{selectedTemplate.communicative_function}</Typography>
+                <Typography color="text.secondary" sx={{ fontSize: 12, mt: 0.75 }}>
+                  Structure: {selectedTemplate.structural_template}
+                </Typography>
+                {selectedTemplate.representative_example && (
+                  <Typography sx={{ fontSize: 13, fontStyle: 'italic', mt: 0.75 }}>
+                    Example: {selectedTemplate.representative_example}
+                  </Typography>
+                )}
+                {(adaptation?.template_selection_rationale || (selectedTemplate.id === analysis.recommended_template?.id && analysis.template_selection_rationale)) && (
+                  <Typography color="text.secondary" sx={{ fontSize: 12, mt: 0.75 }}>
+                    Why this template: {adaptation?.template_selection_rationale || analysis.template_selection_rationale}
+                  </Typography>
+                )}
+              </Box>
+            )}
+
+            {isAdapting && (
+              <Alert icon={<CircularProgress size={18} />} severity="info">
+                Adapting the attestation to the selected template while preserving its meaning…
+              </Alert>
+            )}
+            {adaptation?.template_adaptation_decision === 'not_adapted_review_required' && (
+              <Alert severity="warning">{adaptation.final_assessment || 'This template requires manual review before it can be applied safely.'}</Alert>
+            )}
+
+            <Box sx={{ bgcolor: '#f8fafc', border: '1px solid #e5eaf2', p: 1.5 }}>
+              <Typography color="text.secondary" sx={{ fontSize: 11, fontWeight: 900, mb: 0.5 }}>SUPPORTING TEXT</Typography>
+              <Typography>{analysis.supporting_text}</Typography>
+            </Box>
+
+            <Box>
+              <Typography sx={{ fontSize: 13, fontWeight: 900, mb: 1 }}>Suggested factual wording</Typography>
+              {analysis.suggestions.length === 0 ? (
+                <Alert severity="info">{analysis.guidance}</Alert>
+              ) : analysis.suggestions.map((suggestion) => (
+                <Box key={suggestion.id} sx={{ border: '1px solid #dbe3f1', borderRadius: 1.5, mb: 1, p: 1.5 }}>
+                  <Typography sx={{ lineHeight: 1.5 }}>{suggestion.text}</Typography>
+                  <Typography color="text.secondary" sx={{ fontSize: 12, mt: 0.75 }}>{suggestion.rationale}</Typography>
+                  <Button onClick={() => { setCandidate(suggestion.text); setValidation(null) }} size="small" sx={{ mt: 0.75 }}>
+                    Use this suggestion
+                  </Button>
+                </Box>
+              ))}
+            </Box>
+
+            <TextField
+              fullWidth
+              label="Write your own factual wording"
+              minRows={4}
+              multiline
+              onChange={(event) => { setCandidate(event.target.value); setValidation(null) }}
+              placeholder="Enter an alternative wording that preserves the confirmed modality and function."
+              value={candidate}
+            />
+
+            {candidate.trim() && candidate.trim() !== unit?.text.trim() && (
+              <Box sx={{ display: 'grid', gap: 1.25, gridTemplateColumns: { xs: '1fr', md: '1fr 1fr' } }}>
+                <Box sx={{ bgcolor: '#f8fafc', border: '1px solid #e5eaf2', p: 1.5 }}>
+                  <Typography color="text.secondary" sx={{ fontSize: 11, fontWeight: 900, mb: 0.5 }}>CURRENT</Typography>
+                  <Typography>{unit?.text}</Typography>
+                </Box>
+                <Box sx={{ bgcolor: '#f5f8ff', border: '1px solid #d9e3fb', p: 1.5 }}>
+                  <Typography color="text.secondary" sx={{ fontSize: 11, fontWeight: 900, mb: 0.5 }}>PROPOSED</Typography>
+                  <Typography>{candidate}</Typography>
+                </Box>
+              </Box>
+            )}
+
+            {validation && (
+              <Alert severity={validation.can_apply ? 'success' : 'error'}>
+                {validation.can_apply
+                  ? `Safe to apply. Candidate classification: ${validation.candidate_modality} · ${validation.candidate_communicative_function}.`
+                  : validation.warnings.join(' ') || 'The correction cannot be applied.'}
+              </Alert>
+            )}
+          </Stack>
+        )}
+      </DialogContent>
+      <DialogActions>
+        <Button onClick={onClose}>Close</Button>
+        <Button
+          disabled={!analysis || !modality.trim() || !communicativeFunction.trim()}
+          onClick={() => analysis && onKeep(analysis.status, modality.trim(), communicativeFunction.trim(), selectedTemplateId)}
+        >
+          Keep current attestation
+        </Button>
+        <Button
+          disabled={!analysis || !candidate.trim() || candidate.trim() === unit?.text.trim() || !modality.trim() || !communicativeFunction.trim() || isAdapting || isValidating}
+          onClick={() => void validateCandidate()}
+          variant="outlined"
+        >
+          {isValidating ? 'Validating…' : 'Validate correction'}
+        </Button>
+        <Button
+          disabled={!validation?.can_apply}
+          onClick={() => validation && onApply(candidate.trim(), validation, selectedTemplateId)}
+          variant="contained"
+        >
+          Apply correction
+        </Button>
+      </DialogActions>
+    </Dialog>
+  )
+}
+
+type WorkflowPrincipleDialogProps = {
+  onApply: (candidates: string[], validation: WorkflowPrincipleValidationResult) => void
+  onClose: () => void
+  onKeep: (status: ComplianceStatus) => void
+  onRecordAnalysis: (analysis: WorkflowPrincipleAnalysisResult) => void
+  open: boolean
+  principle: WorkflowPrincipleCode
+  protectedPrinciples: PrincipleCode[]
+  unit?: AttestationUnit
+}
+
+function WorkflowPrincipleDialog({ onApply, onClose, onKeep, onRecordAnalysis, open, principle, protectedPrinciples, unit }: WorkflowPrincipleDialogProps) {
+  const [analysis, setAnalysis] = useState<WorkflowPrincipleAnalysisResult | null>(null)
+  const [candidate, setCandidate] = useState('')
+  const [error, setError] = useState('')
+  const [isLoading, setIsLoading] = useState(false)
+  const [isValidating, setIsValidating] = useState(false)
+  const [validation, setValidation] = useState<WorkflowPrincipleValidationResult | null>(null)
+  const onRecordAnalysisRef = useRef(onRecordAnalysis)
+
+  useEffect(() => {
+    onRecordAnalysisRef.current = onRecordAnalysis
+  }, [onRecordAnalysis])
+
+  useEffect(() => {
+    let isCurrent = true
+    setAnalysis(null)
+    setCandidate('')
+    setError('')
+    setValidation(null)
+    if (!open || !unit?.text.trim()) return () => { isCurrent = false }
+
+    setIsLoading(true)
+    void analyzeWorkflowPrinciple(unit.text, principle, unit.originalText)
+      .then((result) => {
+        if (!isCurrent) return
+        setAnalysis(result)
+        const suggestion = result.suggestions[0]
+        setCandidate(principle === 'B1' && suggestion?.replacement_units.length
+          ? suggestion.replacement_units.join('\n')
+          : suggestion?.text ?? '')
+        onRecordAnalysisRef.current(result)
+      })
+      .catch((reason: unknown) => {
+        if (isCurrent) setError(reason instanceof Error ? reason.message : `Could not analyze ${principle}.`)
+      })
+      .finally(() => {
+        if (isCurrent) setIsLoading(false)
+      })
+
+    return () => { isCurrent = false }
+  }, [open, principle, unit?.id, unit?.originalText, unit?.text])
+
+  const candidateAttestations = principle === 'B1'
+    ? candidate.split(/\n+/).map((item) => item.trim()).filter(Boolean)
+    : candidate.trim() ? [candidate.trim()] : []
+  const candidateChanged = candidateAttestations.length > 0
+    && !(candidateAttestations.length === 1 && candidateAttestations[0] === unit?.text.trim())
+
+  const validateCandidate = async () => {
+    if (!unit || !candidateChanged) return
+    setIsValidating(true)
+    setError('')
+    setValidation(null)
+    try {
+      setValidation(await validateWorkflowPrincipleCorrection(
+        unit.text,
+        candidateAttestations,
+        principle,
+        analysis?.status ?? 'Compliant',
+        protectedPrinciples,
+      ))
+    } catch (reason) {
+      setError(reason instanceof Error ? reason.message : 'Could not validate the proposal.')
+    } finally {
+      setIsValidating(false)
+    }
+  }
+
+  return (
+    <Dialog fullWidth maxWidth="md" onClose={onClose} open={open}>
+      <DialogTitle>{analysis?.action_title || `Analyze ${principle}`} · {principle}</DialogTitle>
+      <DialogContent>
+        {isLoading && (
+          <Stack alignItems="center" direction="row" spacing={1.25} sx={{ py: 4 }}>
+            <CircularProgress size={22} />
+            <Typography>Analyzing the attestation against {principle}…</Typography>
+          </Stack>
+        )}
+        {error && <Alert severity="error" sx={{ mb: 2 }}>{error}</Alert>}
+        {analysis && (
+          <Stack spacing={2.25}>
+            <Alert severity={analysis.status === 'Compliant' ? 'success' : analysis.status === 'Non-Compliant' ? 'error' : 'warning'}>
+              <Typography sx={{ fontWeight: 900 }}>{analysis.status}</Typography>
+              <Typography sx={{ mt: 0.25 }}>{analysis.summary || analysis.assessment.explanation}</Typography>
+            </Alert>
+
+            {analysis.metrics.length > 0 && (
+              <Box sx={{ display: 'grid', gap: 1, gridTemplateColumns: { xs: '1fr', sm: 'repeat(2, 1fr)' } }}>
+                {analysis.metrics.map((metric) => (
+                  <Box key={metric.label} sx={{ bgcolor: '#f8fafc', border: '1px solid #e5eaf2', borderRadius: 1.25, p: 1.25 }}>
+                    <Typography color="text.secondary" sx={{ fontSize: 11, fontWeight: 900 }}>{metric.label.toUpperCase()}</Typography>
+                    <Typography sx={{ fontWeight: 800, mt: 0.35 }}>{metric.value}</Typography>
+                  </Box>
+                ))}
+              </Box>
+            )}
+
+            {analysis.findings.length > 0 && (
+              <Box>
+                <Typography sx={{ fontSize: 13, fontWeight: 900, mb: 1 }}>What the analysis found</Typography>
+                <Stack spacing={0.8}>
+                  {analysis.findings.map((finding, index) => (
+                    <Box key={`${finding.category}-${index}`} sx={{ border: '1px solid #e5eaf2', borderRadius: 1.25, p: 1.25 }}>
+                      <Typography sx={{ fontSize: 12, fontWeight: 900 }}>{finding.category}</Typography>
+                      <Typography sx={{ fontSize: 13, mt: 0.25 }}>{finding.text}</Typography>
+                      <Typography color="text.secondary" sx={{ fontSize: 12, mt: 0.4 }}>{finding.explanation}</Typography>
+                    </Box>
+                  ))}
+                </Stack>
+              </Box>
+            )}
+
+            {analysis.checks.length > 0 && (
+              <Box>
+                <Typography sx={{ fontSize: 13, fontWeight: 900, mb: 1 }}>Criteria checked</Typography>
+                <Stack spacing={0.75}>
+                  {analysis.checks.map((check) => (
+                    <Stack alignItems="flex-start" direction="row" key={check.label} spacing={1}>
+                      {check.passed
+                        ? <CheckCircleOutlineOutlinedIcon sx={{ color: '#078b57', fontSize: 18, mt: 0.15 }} />
+                        : <ErrorOutlineOutlinedIcon sx={{ color: '#c2410c', fontSize: 18, mt: 0.15 }} />}
+                      <Box>
+                        <Typography sx={{ fontSize: 13, fontWeight: 800 }}>{check.label}</Typography>
+                        <Typography color="text.secondary" sx={{ fontSize: 12 }}>{check.evidence}</Typography>
+                      </Box>
+                    </Stack>
+                  ))}
+                </Stack>
+              </Box>
+            )}
+
+            <Box>
+              <Typography sx={{ fontSize: 13, fontWeight: 900, mb: 1 }}>
+                {principle === 'B1' ? 'Suggested independent attestations' : 'Suggested correction'}
+              </Typography>
+              {analysis.suggestions.length === 0 ? (
+                <Alert severity="info">{analysis.guidance}</Alert>
+              ) : analysis.suggestions.map((suggestion) => {
+                const suggestionText = principle === 'B1' && suggestion.replacement_units.length
+                  ? suggestion.replacement_units.join('\n')
+                  : suggestion.text
+                return (
+                  <Box key={suggestion.id} sx={{ border: '1px solid #dbe3f1', borderRadius: 1.5, mb: 1, p: 1.5 }}>
+                    <Typography sx={{ lineHeight: 1.55, whiteSpace: 'pre-wrap' }}>{suggestionText}</Typography>
+                    <Typography color="text.secondary" sx={{ fontSize: 12, mt: 0.75 }}>{suggestion.rationale}</Typography>
+                    <Button onClick={() => { setCandidate(suggestionText); setValidation(null) }} size="small" sx={{ mt: 0.75 }}>
+                      Use this suggestion
+                    </Button>
+                  </Box>
+                )
+              })}
+            </Box>
+
+            <TextField
+              fullWidth
+              helperText={principle === 'B1' ? 'Enter one complete independent attestation per line.' : 'You may edit the proposal or provide your own wording.'}
+              label={principle === 'B1' ? 'Independent attestations' : 'Your proposed wording'}
+              minRows={principle === 'B1' ? 5 : 4}
+              multiline
+              onChange={(event) => { setCandidate(event.target.value); setValidation(null) }}
+              value={candidate}
+            />
+
+            {candidateChanged && (
+              <Box sx={{ display: 'grid', gap: 1.25, gridTemplateColumns: { xs: '1fr', md: '1fr 1fr' } }}>
+                <Box sx={{ bgcolor: '#f8fafc', border: '1px solid #e5eaf2', p: 1.5 }}>
+                  <Typography color="text.secondary" sx={{ fontSize: 11, fontWeight: 900, mb: 0.5 }}>CURRENT</Typography>
+                  <Typography>{unit?.text}</Typography>
+                </Box>
+                <Box sx={{ bgcolor: '#f5f8ff', border: '1px solid #d9e3fb', p: 1.5 }}>
+                  <Typography color="text.secondary" sx={{ fontSize: 11, fontWeight: 900, mb: 0.5 }}>PROPOSED</Typography>
+                  <Typography sx={{ whiteSpace: 'pre-wrap' }}>{candidateAttestations.join('\n\n')}</Typography>
+                </Box>
+              </Box>
+            )}
+
+            {validation && (
+              <Alert severity={validation.can_apply ? 'success' : 'error'}>
+                {validation.can_apply
+                  ? `${principle} is preserved or improved, and previously completed principles remain protected.`
+                  : validation.warnings.join(' ') || 'The proposal cannot be applied safely.'}
+              </Alert>
+            )}
+          </Stack>
+        )}
+      </DialogContent>
+      <DialogActions>
+        <Button onClick={onClose}>Close</Button>
+        <Button disabled={!analysis} onClick={() => analysis && onKeep(analysis.status)}>Keep current attestation</Button>
+        <Button
+          disabled={!analysis || !candidateChanged || isValidating || (principle === 'B1' && candidateAttestations.length < 2)}
+          onClick={() => void validateCandidate()}
+          variant="outlined"
+        >
+          {isValidating ? 'Validating…' : 'Validate proposal'}
+        </Button>
+        <Button disabled={!validation?.can_apply} onClick={() => validation && onApply(candidateAttestations, validation)} variant="contained">
+          {principle === 'B1' ? 'Apply separation' : 'Apply correction'}
+        </Button>
+      </DialogActions>
+    </Dialog>
+  )
+}
+
 type SentenceContainerProps = {
   complianceStatus: UnitComplianceStatus
   index: number
@@ -1692,12 +2550,145 @@ type SentenceContainerProps = {
   triples?: unknown
   unit: AttestationUnit
   unitAnalysis?: UnitComplianceAnalysis
+  principleAnalyses: UnitPrincipleAnalysis[]
   onChange: (index: number, value: string) => void
+  onAnalyze: (index: number) => void
+  onAnalyzeA2: (index: number) => void
+  onAnalyzeA3: (index: number) => void
+  onAnalyzeWorkflow: (index: number, principle: WorkflowPrincipleCode) => void
+  onApprove: (index: number) => void
+  onGenerateTriples: (index: number) => void
   onOpenUnitAnalysis: (unitAnalysis: UnitComplianceAnalysis) => void
+  onOpenReferences: (index: number) => void
+  onOpenRewrite: (index: number) => void
   onRemove: (index: number) => void
   onSelect: (index: number, event: MouseEvent<HTMLElement>) => void
   onToggleLock: (index: number) => void
   onUnitize: (index: number) => void
+}
+
+function AttestationMetadataBadges({ communicativeFunction, modality }: { communicativeFunction?: string; modality?: string }) {
+  return (
+    <Stack direction="row" flexWrap="wrap" gap={0.75} sx={{ mb: 1.5 }}>
+      <Chip
+        label={`Modality: ${modality && modality !== 'undefined' ? modality : 'Uncertain'}`}
+        size="small"
+        sx={{ bgcolor: '#fff7ed', border: '1px solid #fed7aa', color: '#9a3412', fontSize: 11, fontWeight: 800 }}
+        variant="outlined"
+      />
+      <Chip
+        label={`Function: ${communicativeFunction && communicativeFunction !== 'undefined' ? communicativeFunction : 'Uncertain'}`}
+        size="small"
+        sx={{ bgcolor: '#f5f3ff', border: '1px solid #ddd6fe', color: '#6d28d9', fontSize: 11, fontWeight: 800 }}
+        variant="outlined"
+      />
+    </Stack>
+  )
+}
+
+type WorkflowStepperProps = {
+  isBusy: boolean
+  nextStep?: {
+    action: () => void
+    actionLabel: string
+    done: boolean
+    id: string
+    label: string
+  }
+  steps: Array<{
+    action: () => void
+    actionLabel: string
+    done: boolean
+    id: string
+    label: string
+  }>
+  supportingActions: Array<{ label: string; onClick: () => void }>
+  textAvailable: boolean
+}
+
+function WorkflowStepper({ isBusy, nextStep, steps, supportingActions, textAvailable }: WorkflowStepperProps) {
+  return (
+    <Box
+      onClick={(event) => event.stopPropagation()}
+      sx={{
+        bgcolor: '#f8fafc',
+        border: '1px solid #e5eaf2',
+        borderRadius: 1.5,
+        mb: 2,
+        p: { xs: 1.25, md: 1.5 },
+      }}
+    >
+      <Stack alignItems={{ xs: 'stretch', md: 'center' }} direction={{ xs: 'column', md: 'row' }} spacing={1.25}>
+        <Stack direction="row" flexWrap="wrap" gap={0.5} sx={{ flex: 1 }}>
+          {steps.map((step, stepIndex) => (
+            <Stack alignItems="center" direction="row" key={step.id} spacing={0.35}>
+              {step.done ? (
+                <CheckCircleOutlineOutlinedIcon sx={{ color: '#078b57', fontSize: 16 }} />
+              ) : stepIndex === steps.findIndex((candidate) => !candidate.done) ? (
+                <RadioButtonCheckedOutlinedIcon sx={{ color: '#2457c5', fontSize: 16 }} />
+              ) : (
+                <RadioButtonUncheckedOutlinedIcon sx={{ color: '#aab3c2', fontSize: 16 }} />
+              )}
+              <Typography sx={{ color: step.done ? '#067647' : '#5f6675', fontSize: 11, fontWeight: 800 }}>
+                {step.label}
+              </Typography>
+              {stepIndex < steps.length - 1 && <Typography color="text.disabled" sx={{ fontSize: 12 }}>›</Typography>}
+            </Stack>
+          ))}
+        </Stack>
+        {nextStep && (
+          <Button
+            disabled={!textAvailable || isBusy}
+            onClick={nextStep.action}
+            size="small"
+            sx={{ flexShrink: 0, textTransform: 'none' }}
+            variant="contained"
+          >
+            {nextStep.actionLabel}
+          </Button>
+        )}
+        {!nextStep && (
+          <Chip
+            color="success"
+            label="Ready for approval"
+            size="small"
+            sx={{ fontWeight: 800 }}
+            variant="outlined"
+          />
+        )}
+      </Stack>
+      <Stack direction="row" flexWrap="wrap" gap={0.75} sx={{ mt: 1 }}>
+        {supportingActions.map((action) => (
+          <Button
+            disabled={!textAvailable || isBusy}
+            key={action.label}
+            onClick={action.onClick}
+            size="small"
+            sx={{ color: '#5f6675', fontSize: 11, minHeight: 26, px: 1, textTransform: 'none' }}
+            variant="text"
+          >
+            {action.label}
+          </Button>
+        ))}
+      </Stack>
+      <Stack direction="row" flexWrap="wrap" gap={0.75} sx={{ mt: 1 }}>
+        {steps
+          .filter((step) => !step.done)
+          .map((step) => (
+            <Button
+              disabled={!textAvailable || isBusy}
+              key={`quick-${step.id}`}
+              onClick={step.action}
+              size="small"
+              sx={{ color: step.done ? '#067647' : '#4353ff', fontSize: 11, minHeight: 26, px: 1, textTransform: 'none' }}
+              variant="text"
+            >
+              {step.done ? `View ${step.label.toLowerCase()}` : step.actionLabel}
+            </Button>
+          ))}
+      </Stack>
+    </Box>
+  )
 }
 
 function SentenceContainer({
@@ -1712,8 +2703,17 @@ function SentenceContainer({
   triples,
   unit,
   unitAnalysis,
+  principleAnalyses,
   onChange,
+  onAnalyze,
+  onAnalyzeA2,
+  onAnalyzeA3,
+  onAnalyzeWorkflow,
+  onApprove,
+  onGenerateTriples,
   onOpenUnitAnalysis,
+  onOpenReferences,
+  onOpenRewrite,
   onRemove,
   onSelect,
   onToggleLock,
@@ -1722,6 +2722,44 @@ function SentenceContainer({
   const [activeDataView, setActiveDataView] = useState<UnitDataView>('attestation')
   const [isCopied, setIsCopied] = useState(false)
   const isAttestationView = activeDataView === 'attestation'
+  const a2PrincipleAnalysis = principleAnalyses.find((item) => item.principle === 'A2')
+  const a2Assessment = isRecord(a2PrincipleAnalysis?.assessment) ? a2PrincipleAnalysis.assessment : {}
+  const a2IsCompliant = a2Assessment.compliance === 'Compliant'
+  const a2Decision = unit.principleDecisions?.A2?.revision === unit.revision
+    ? unit.principleDecisions.A2
+    : undefined
+  const a3PrincipleAnalysis = principleAnalyses.find((item) => item.principle === 'A3')
+  const a3Assessment = isRecord(a3PrincipleAnalysis?.assessment) ? a3PrincipleAnalysis.assessment : {}
+  const a3IsCompliant = a3Assessment.compliance === 'Compliant'
+  const a3Decision = unit.principleDecisions?.A3?.revision === unit.revision
+    ? unit.principleDecisions.A3
+    : undefined
+  const workflowStep = (principle: WorkflowPrincipleCode, actionLabel: string) => {
+    const analysis = principleAnalyses.find((item) => item.principle === principle)
+    const assessment = isRecord(analysis?.assessment) ? analysis.assessment : {}
+    const decision = unit.principleDecisions?.[principle]?.revision === unit.revision
+      ? unit.principleDecisions[principle]
+      : undefined
+    return {
+      id: principle,
+      label: principle,
+      done: assessment.compliance === 'Compliant' || Boolean(decision),
+      action: () => onAnalyzeWorkflow(index, principle),
+      actionLabel,
+    }
+  }
+
+  const workflowSteps = [
+    { id: 'A1', label: 'A1', done: unit.unitizationReviewed, action: () => onUnitize(index), actionLabel: 'Unitize attestation' },
+    { id: 'A2', label: 'A2', done: a2IsCompliant || Boolean(a2Decision), action: () => onAnalyzeA2(index), actionLabel: 'Analyse Key Attestation Elements' },
+    { id: 'A3', label: 'A3', done: a3IsCompliant || Boolean(a3Decision), action: () => onAnalyzeA3(index), actionLabel: 'Identify Modality and Communicative Function' },
+    workflowStep('B1', 'Separate Independent Attestations'),
+    workflowStep('B2', 'Clarify Vague or Subjective Language'),
+    workflowStep('C', 'Strengthen Verifiability and Auditability'),
+    workflowStep('D', 'Improve Machine Readability'),
+    workflowStep('E', 'Confirm Preservation of Meaning'),
+  ]
+  const nextWorkflowStep = workflowSteps.find((step) => !step.done)
 
   const handleCopyUnit = async () => {
     const text = unit.text
@@ -1763,6 +2801,47 @@ function SentenceContainer({
         complianceStatus={complianceStatus}
         onOpenUnitAnalysis={unitAnalysis ? () => onOpenUnitAnalysis(unitAnalysis) : undefined}
         unitAnalysis={unitAnalysis}
+      />
+      <AttestationMetadataBadges
+        communicativeFunction={(unit.analysisMetadata?.revision === unit.revision ? unit.analysisMetadata.communicativeFunction : undefined) || a3Decision?.metadata?.communicativeFunction || (getUnitAttestationMetadata(unitAnalysis?.analysis).communicativeFunction === 'Uncertain'
+          ? unit.templateSnapshot?.communicative_function
+          : getUnitAttestationMetadata(unitAnalysis?.analysis).communicativeFunction)}
+        modality={(unit.analysisMetadata?.revision === unit.revision ? unit.analysisMetadata.modality : undefined) || a3Decision?.metadata?.modality || (getUnitAttestationMetadata(unitAnalysis?.analysis).modality === 'Uncertain'
+          ? unit.templateSnapshot?.modality
+          : getUnitAttestationMetadata(unitAnalysis?.analysis).modality)}
+      />
+      {a2Decision && (
+        <Tooltip title={a2Decision.reason || 'The current wording was confirmed by the user.'}>
+          <Chip
+            label={a2Decision.decision === 'confirmed_as_is' ? 'A2 · Current wording confirmed' : 'A2 · Accepted as is'}
+            size="small"
+            sx={{ bgcolor: a2Decision.decision === 'confirmed_as_is' ? '#ecfdf3' : '#fff7ed', color: a2Decision.decision === 'confirmed_as_is' ? '#067647' : '#9a3412', fontWeight: 800, mb: 1.5 }}
+            variant="outlined"
+          />
+        </Tooltip>
+      )}
+      {a3Decision && (
+        <Tooltip title={`${a3Decision.metadata?.modality || 'Uncertain'} · ${a3Decision.metadata?.communicativeFunction || 'Uncertain'}`}>
+          <Chip
+            label={a3Decision.decision === 'confirmed_as_is' ? 'A3 · Classification confirmed' : 'A3 · Accepted as is'}
+            size="small"
+            sx={{ bgcolor: a3Decision.decision === 'confirmed_as_is' ? '#ecfdf3' : '#fff7ed', color: a3Decision.decision === 'confirmed_as_is' ? '#067647' : '#9a3412', fontWeight: 800, mb: 1.5, ml: a2Decision ? 0.75 : 0 }}
+            variant="outlined"
+          />
+        </Tooltip>
+      )}
+      <WorkflowStepper
+        isBusy={isUnitizationBusy || isUnitizing || isGeneratingTriples}
+        nextStep={nextWorkflowStep}
+        steps={workflowSteps}
+        supportingActions={[
+          { label: 'Run full analysis', onClick: () => onAnalyze(index) },
+          { label: 'Find references', onClick: () => onOpenReferences(index) },
+          { label: 'Open rewrite', onClick: () => onOpenRewrite(index) },
+          { label: 'Generate triples', onClick: () => onGenerateTriples(index) },
+          { label: 'Approve', onClick: () => onApprove(index) },
+        ]}
+        textAvailable={Boolean(unit.text.trim())}
       />
       <Stack
         className="unit-controls"
@@ -1833,9 +2912,9 @@ function SentenceContainer({
             <ContentCopyOutlinedIcon sx={{ fontSize: 15 }} />
           </IconButton>
         </Tooltip>
-        <Tooltip title="Unitize unit">
+        <Tooltip title="Split sentence">
           <IconButton
-            aria-label={`Unitize unit ${index + 1}`}
+            aria-label={`Split sentence ${index + 1}`}
             disabled={isLocked || isUnitizationBusy || !unit.text.trim()}
             onClick={(event) => {
               event.stopPropagation()
@@ -1868,9 +2947,9 @@ function SentenceContainer({
             )}
           </IconButton>
         </Tooltip>
-        <Tooltip title={isLocked ? 'Unlock unit' : 'Lock unit'}>
+        <Tooltip title={isLocked ? 'Unlock sentence' : 'Lock sentence'}>
           <IconButton
-            aria-label={isLocked ? `Unlock unit ${index + 1}` : `Lock unit ${index + 1}`}
+            aria-label={isLocked ? `Unlock sentence ${index + 1}` : `Lock sentence ${index + 1}`}
             onClick={(event) => {
               event.stopPropagation()
               onToggleLock(index)
@@ -1895,9 +2974,9 @@ function SentenceContainer({
             )}
           </IconButton>
         </Tooltip>
-        <Tooltip title="Remove unit">
+        <Tooltip title="Remove sentence">
           <IconButton
-            aria-label={`Remove unit ${index + 1}`}
+            aria-label={`Remove sentence ${index + 1}`}
             disabled={isLocked}
             onClick={(event) => {
               event.stopPropagation()
@@ -1959,7 +3038,7 @@ function SentenceContainer({
       )}
       {isAttestationView ? (
         <TextareaAutosize
-          aria-label={`Unit ${index + 1}`}
+          aria-label={`Sentence ${index + 1}`}
           minRows={2}
           onChange={(event) => onChange(index, event.target.value)}
           readOnly={isLocked}

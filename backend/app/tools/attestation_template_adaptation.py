@@ -273,6 +273,12 @@ class AttestationTemplateAdapterTool:
             for score, template in ranked[:limit]
         ]
 
+    def get_template(self, template_id: str) -> dict[str, Any] | None:
+        return next(
+            (template for template in self._load_templates() if str(template.get("id")) == template_id),
+            None,
+        )
+
     @staticmethod
     def _selection_adjustment(attestation: str, template: dict[str, Any]) -> float:
         text = attestation.lower()
@@ -437,6 +443,29 @@ class AttestationTemplateAdapterTool:
         raw_results = await self.__gpt_agent_adapter.run(prompt)
         results = self._postprocess_result(attestation, raw_results, candidates)
         return {"input": {"attestation": attestation}, "results": results}
+
+    async def run_with_template_async(self, attestation: str, template_id: str) -> dict:
+        template = self.get_template(template_id)
+        if template is None:
+            raise ValueError(f"Unknown attestation template: {template_id}")
+
+        candidate = {**template, "_fit_score": 1.0}
+        prompt = json.dumps(
+            {
+                "attestation_sentence": attestation,
+                "candidate_templates": [candidate],
+                "selection_instruction": (
+                    "Use the requested template and adapt the attestation to its structural pattern. "
+                    "Preserve every supported fact, qualifier, limit, modality, and communicative function. "
+                    "Do not invent missing information. Return a review-required result if safe adaptation is impossible."
+                ),
+                "requested_template_id": template_id,
+            },
+            ensure_ascii=False,
+        )
+        raw_results = await self.__gpt_agent_adapter.run(prompt)
+        results = self._postprocess_result(attestation, raw_results, [candidate])
+        return {"input": {"attestation": attestation, "template_id": template_id}, "results": results}
 
     def run(self, attestation: str) -> dict:
         candidates = self._rank_templates(attestation)

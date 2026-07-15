@@ -42,6 +42,8 @@ class IdentifiedElements(BaseModel):
 
 class GuidelineComplianceAnalysisOutput(BaseModel):
     attestation: str
+    modality: str = Field(default="uncertain", description="Obligation, Prohibition, Permission, Limit/Target, or uncertain when not explicit.")
+    communicative_function: str = Field(default="uncertain", description="The communicative function of the attestation, or uncertain when not explicit.")
     overall_assessment: OverallAssessment
     principle_assessments: list[PrincipleAssessment]
     identified_elements: IdentifiedElements

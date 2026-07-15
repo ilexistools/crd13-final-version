@@ -122,7 +122,7 @@ export function PrepareProjectPage({
               minRows={20}
               multiline
               onChange={(event) => onTextChange(event.target.value)}
-              placeholder="Paste or edit the source text before creating units."
+              placeholder="Paste or edit the source text before creating sentences."
               value={text}
             />
           </Box>

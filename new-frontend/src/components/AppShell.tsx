@@ -53,6 +53,13 @@ import {
   type AgentSelectedUnit,
   type AgentUnitEditExecution,
   type AgentUnitEditPlan,
+  type A2AnalysisResult,
+  type A2ValidationResult,
+  type A3AnalysisResult,
+  type A3ValidationResult,
+  type WorkflowPrincipleAnalysisResult,
+  type WorkflowPrincipleCode,
+  type WorkflowPrincipleValidationResult,
   type AttestationCorrectionResult,
   type AttestationChangeApplicationResult,
   type AttestationRewritePlanResult,
@@ -61,6 +68,9 @@ import {
   type ProvisionReference,
   type ReferenceDocument,
   type UnitComplianceAnalysis,
+  type UnitPrincipleAnalysis,
+  type PrincipleCode,
+  type PrincipleAssessment,
   type UnitComplianceStatus,
   type UnitTriples,
   analyzeAttestationSections,
@@ -73,7 +83,7 @@ import {
   searchAttestationSections,
   searchProvisions,
   suggestAttestationCorrection,
-  unitizeText,
+  unitizeA1,
 } from '../lib/api'
 import { commodityOptions } from '../assets/commodities'
 import { adaptAttestationTemplate } from '../lib/templates/api'
@@ -101,12 +111,14 @@ type AppShellProps = {
   onAnalyzeUnits: (units: Array<{ text: string; unit: number }>) => Promise<void>
   onCommoditiesChange: (commodities: string[]) => void
   onGenerateTriplesForUnits: (units: Array<{ text: string; unit: number }>) => Promise<void>
-  onUnitsStructureChange: () => void
+  onStoreValidatedPrinciples: (text: string, unit: number, assessments: Partial<Record<PrincipleCode, PrincipleAssessment>>) => void
+  onUnitsStructureChange: (changedUnit?: number) => void
   triplesProgress: null | {
     completed: number
     total: number
   }
   unitAnalyses: UnitComplianceAnalysis[]
+  unitPrincipleAnalyses: UnitPrincipleAnalysis[]
   unitTriples: UnitTriples[]
 }
 
@@ -147,6 +159,28 @@ type AgentFeedback = {
   message: string
 } | null
 
+const principleSequence: Record<PrincipleCode, number> = {
+  A1: 0,
+  A2: 1,
+  A3: 2,
+  B1: 3,
+  B2: 4,
+  C: 5,
+  D: 6,
+  E: 7,
+}
+
+function carryForwardDecisions(unit: AttestationUnit, principle: PrincipleCode, revision: number): AttestationUnit['principleDecisions'] {
+  return Object.fromEntries(
+    Object.entries(unit.principleDecisions ?? {})
+      .filter(([code, decision]) => (
+        decision.revision === unit.revision
+        && principleSequence[code as PrincipleCode] < principleSequence[principle]
+      ))
+      .map(([code, decision]) => [code, { ...decision, revision }]),
+  )
+}
+
 export function AppShell({
   analysisProgress,
   analyzingUnitNumbers,
@@ -159,9 +193,11 @@ export function AppShell({
   onAnalyzeUnits,
   onCommoditiesChange,
   onGenerateTriplesForUnits,
+  onStoreValidatedPrinciples,
   onUnitsStructureChange,
   triplesProgress,
   unitAnalyses,
+  unitPrincipleAnalyses,
   unitTriples,
 }: AppShellProps) {
   const [fileMenuAnchor, setFileMenuAnchor] = useState<null | HTMLElement>(null)
@@ -203,6 +239,7 @@ export function AppShell({
   const [referenceDocuments, setReferenceDocuments] = useState<ReferenceDocument[]>([])
   const [referenceDocumentsError, setReferenceDocumentsError] = useState('')
   const [isLoadingReferenceDocuments, setIsLoadingReferenceDocuments] = useState(false)
+  const reanalysisTimersRef = useRef<Record<number, number>>({})
   const fileInputRef = useRef<HTMLInputElement>(null)
   const navigate = useNavigate()
   const sentences = useMemo(() => units.map((unit) => unit.text), [units])
@@ -487,10 +524,297 @@ export function AppShell({
     setUnits((currentUnits) =>
       currentUnits.map((unit, unitIndex) =>
         unitIndex === index
-          ? { ...unit, templateMode: 'free_text', templateId: undefined, templateSnapshot: undefined, templateState: undefined, text: value }
+          ? {
+              ...unit,
+              approved: false,
+              analysisMetadata: undefined,
+              principleDecisions: {},
+              revision: unit.revision + 1,
+              templateMode: 'free_text',
+              templateId: undefined,
+              templateSnapshot: undefined,
+              templateState: undefined,
+              text: value,
+              unitizationReviewed: false,
+            }
           : unit,
       ),
     )
+    onUnitsStructureChange(index + 1)
+    const previousTimer = reanalysisTimersRef.current[index]
+    if (previousTimer) {
+      window.clearTimeout(previousTimer)
+    }
+    if (value.trim()) {
+      reanalysisTimersRef.current[index] = window.setTimeout(() => {
+        void onAnalyzeUnits([{ text: value, unit: index + 1 }])
+        delete reanalysisTimersRef.current[index]
+      }, 800)
+    }
+  }
+
+  const handleAnalyzeUnit = (index: number) => {
+    if (isAnalyzingCompliance || !(sentences[index] ?? '').trim()) return
+    void onAnalyzeUnits([{ text: sentences[index] ?? '', unit: index + 1 }])
+  }
+
+  const handleOpenUnitReferences = (index: number) => {
+    setSelectedIndexes(new Set([index]))
+    setReferenceQuery(sentences[index] ?? '')
+    setReferenceResults([])
+    setReferenceProvisionResults([])
+    setReferenceSearchError('')
+    setActiveView('references')
+  }
+
+  const handleOpenUnitRewrite = (index: number) => {
+    setSelectedIndexes(new Set([index]))
+    setActiveToolPanel('rewrite')
+  }
+
+  const handleGenerateTriplesForUnit = (index: number) => {
+    if (isGeneratingTriples || !(sentences[index] ?? '').trim()) return
+    void onGenerateTriplesForUnits([{ text: sentences[index] ?? '', unit: index + 1 }])
+  }
+
+  const handleApproveUnit = (index: number) => {
+    if (lockedIndexes.has(index) || !(sentences[index] ?? '').trim()) return
+    recordHistory()
+    setUnits((currentUnits) => currentUnits.map((unit, unitIndex) => (
+      unitIndex === index ? { ...unit, approved: true } : unit
+    )))
+  }
+
+  const handleApplyA2Correction = (index: number, candidate: string, validation: A2ValidationResult) => {
+    if (!validation.can_apply || lockedIndexes.has(index) || !candidate.trim()) return
+
+    recordHistory()
+    setUnits((currentUnits) => currentUnits.map((unit, unitIndex) => (
+      unitIndex === index
+        ? {
+            ...unit,
+            approved: false,
+            analysisMetadata: undefined,
+            principleDecisions: {},
+            revision: unit.revision + 1,
+            templateId: undefined,
+            templateMode: 'free_text',
+            templateSnapshot: undefined,
+            templateState: undefined,
+            text: candidate.trim(),
+            unitizationReviewed: validation.candidate_assessments.A1?.compliance === 'Compliant',
+          }
+        : unit
+    )))
+    onUnitsStructureChange(index + 1)
+    onStoreValidatedPrinciples(candidate.trim(), index + 1, validation.candidate_assessments)
+  }
+
+  const handleRecordA2Analysis = (index: number, analysis: A2AnalysisResult) => {
+    onStoreValidatedPrinciples(analysis.attestation, index + 1, { A2: analysis.assessment })
+  }
+
+  const handleKeepA2AsIs = (index: number, reason: string, status: ComplianceStatus) => {
+    if (lockedIndexes.has(index)) return
+
+    recordHistory()
+    setUnits((currentUnits) => currentUnits.map((unit, unitIndex) => (
+      unitIndex === index
+        ? {
+            ...unit,
+            principleDecisions: {
+              ...(unit.principleDecisions ?? {}),
+              A2: {
+                decision: status === 'Compliant' ? 'confirmed_as_is' : 'accepted_as_is',
+                reason: reason.trim(),
+                revision: unit.revision,
+                status,
+              },
+            },
+          }
+        : unit
+    )))
+  }
+
+  const handleApplyA3Correction = (index: number, candidate: string, validation: A3ValidationResult, templateId: string) => {
+    if (!validation.can_apply || lockedIndexes.has(index) || !candidate.trim()) return
+
+    recordHistory()
+    setUnits((currentUnits) => currentUnits.map((unit, unitIndex) => (
+      unitIndex === index
+        ? {
+            ...unit,
+            approved: false,
+            analysisMetadata: {
+              communicativeFunction: validation.candidate_communicative_function,
+              modality: validation.candidate_modality,
+              revision: unit.revision + 1,
+              templateId: templateId || undefined,
+            },
+            principleDecisions: {},
+            revision: unit.revision + 1,
+            templateId: undefined,
+            templateMode: 'free_text',
+            templateSnapshot: undefined,
+            templateState: undefined,
+            text: candidate.trim(),
+            unitizationReviewed: validation.candidate_assessments.A1?.compliance === 'Compliant',
+          }
+        : unit
+    )))
+    onUnitsStructureChange(index + 1)
+    onStoreValidatedPrinciples(candidate.trim(), index + 1, validation.candidate_assessments)
+  }
+
+  const handleRecordA3Analysis = (index: number, analysis: A3AnalysisResult) => {
+    onStoreValidatedPrinciples(analysis.attestation, index + 1, { A3: analysis.assessment })
+  }
+
+  const handleKeepA3AsIs = (
+    index: number,
+    status: ComplianceStatus,
+    modality: string,
+    communicativeFunction: string,
+    templateId: string,
+  ) => {
+    if (lockedIndexes.has(index)) return
+    recordHistory()
+    setUnits((currentUnits) => currentUnits.map((unit, unitIndex) => (
+      unitIndex === index
+        ? {
+            ...unit,
+            principleDecisions: {
+              ...(unit.principleDecisions ?? {}),
+              A3: {
+                decision: status === 'Compliant' ? 'confirmed_as_is' : 'accepted_as_is',
+                metadata: { communicativeFunction, modality, ...(templateId ? { templateId } : {}) },
+                reason: '',
+                revision: unit.revision,
+                status,
+              },
+            },
+          }
+        : unit
+    )))
+  }
+
+  const handleRecordWorkflowAnalysis = (index: number, analysis: WorkflowPrincipleAnalysisResult) => {
+    onStoreValidatedPrinciples(analysis.attestation, index + 1, { [analysis.principle]: analysis.assessment })
+  }
+
+  const handleKeepWorkflowAsIs = (
+    index: number,
+    principle: WorkflowPrincipleCode,
+    status: ComplianceStatus,
+  ) => {
+    if (lockedIndexes.has(index)) return
+    recordHistory()
+    setUnits((currentUnits) => currentUnits.map((unit, unitIndex) => (
+      unitIndex === index
+        ? {
+            ...unit,
+            principleDecisions: {
+              ...(unit.principleDecisions ?? {}),
+              [principle]: {
+                decision: status === 'Compliant' ? 'confirmed_as_is' : 'accepted_as_is',
+                reason: '',
+                revision: unit.revision,
+                status,
+              },
+            },
+          }
+        : unit
+    )))
+  }
+
+  const handleApplyWorkflowCorrection = (
+    index: number,
+    principle: WorkflowPrincipleCode,
+    candidates: string[],
+    validation: WorkflowPrincipleValidationResult,
+  ) => {
+    const cleanedCandidates = candidates.map((candidate) => candidate.trim()).filter(Boolean)
+    if (!validation.can_apply || lockedIndexes.has(index) || cleanedCandidates.length === 0) return
+
+    if (principle === 'B1') {
+      if (cleanedCandidates.length < 2) return
+      const sourceUnit = units[index]
+      if (!sourceUnit) return
+      recordHistory()
+      const replacementUnits = cleanedCandidates.map((text, candidateIndex) => {
+        const metadata = validation.candidate_unit_metadata[candidateIndex]
+        const principleDecisions = carryForwardDecisions(sourceUnit, principle, 1)
+        if (principleDecisions.A3 && metadata) {
+          principleDecisions.A3 = {
+            ...principleDecisions.A3,
+            metadata: {
+              communicativeFunction: metadata.communicative_function,
+              modality: metadata.modality,
+            },
+          }
+        }
+        return createAttestationUnit(text, {
+          analysisMetadata: metadata ? {
+            communicativeFunction: metadata.communicative_function,
+            modality: metadata.modality,
+            revision: 1,
+          } : undefined,
+          originalText: text,
+          principleDecisions,
+          unitizationReviewed: validation.candidate_unit_assessments[candidateIndex]?.A1?.compliance === 'Compliant',
+        })
+      })
+      const offset = replacementUnits.length - 1
+
+      setUnits((currentUnits) => currentUnits.flatMap((unit, unitIndex) => (
+        unitIndex === index ? replacementUnits : [unit]
+      )))
+      setLockedIndexes((current) => new Set(
+        [...current].map((lockedIndex) => lockedIndex > index ? lockedIndex + offset : lockedIndex),
+      ))
+      setSelectedIndexes(new Set(replacementUnits.map((_, replacementIndex) => index + replacementIndex)))
+      setLastSelectedIndex(index + replacementUnits.length - 1)
+      onUnitsStructureChange()
+
+      cleanedCandidates.forEach((text, candidateIndex) => {
+        const assessments = {
+          ...(validation.candidate_unit_assessments[candidateIndex] ?? {}),
+          B1: validation.candidate_target_assessment,
+        }
+        onStoreValidatedPrinciples(text, index + candidateIndex + 1, assessments)
+      })
+      void (async () => {
+        for (const [candidateIndex, text] of cleanedCandidates.entries()) {
+          await onAnalyzeUnits([{ text, unit: index + candidateIndex + 1 }])
+        }
+      })()
+      return
+    }
+
+    const candidate = cleanedCandidates[0]
+    recordHistory()
+    setUnits((currentUnits) => currentUnits.map((unit, unitIndex) => {
+      if (unitIndex !== index) return unit
+      const nextRevision = unit.revision + 1
+      return {
+        ...unit,
+        approved: false,
+        analysisMetadata: unit.analysisMetadata?.revision === unit.revision
+          ? { ...unit.analysisMetadata, revision: nextRevision }
+          : undefined,
+        principleDecisions: carryForwardDecisions(unit, principle, nextRevision),
+        revision: nextRevision,
+        templateId: undefined,
+        templateMode: 'free_text',
+        templateSnapshot: undefined,
+        templateState: undefined,
+        text: candidate,
+        unitizationReviewed: validation.candidate_assessments.A1?.compliance === 'Compliant',
+      }
+    }))
+    onUnitsStructureChange(index + 1)
+    onStoreValidatedPrinciples(candidate, index + 1, validation.candidate_assessments)
+    void onAnalyzeUnits([{ text: candidate, unit: index + 1 }])
   }
 
   const handleAddSentence = () => {
@@ -926,7 +1250,7 @@ export function AppShell({
           try {
             return {
               selectedIndex,
-              units: (await unitizeText(sentences[selectedIndex] ?? '')).filter((unit) => unit.trim()),
+              units: (await unitizeA1(sentences[selectedIndex] ?? '')).suggested_units.filter((unit) => unit.trim()),
             }
           } finally {
             setUnitizationProgress((currentProgress) => currentProgress
@@ -937,11 +1261,19 @@ export function AppShell({
       )
       const replacements = new Map(
         unitizationResults
-          .filter(({ units }) => units.length > 0)
+          .filter(({ selectedIndex, units }) => (
+            units.length > 1
+            || (units[0] ?? '').trim() !== (sentences[selectedIndex] ?? '').trim()
+          ))
           .map(({ selectedIndex, units }) => [selectedIndex, units]),
       )
 
       if (replacements.size === 0) {
+        setUnits((currentUnits) => currentUnits.map((unit, unitIndex) => (
+          selectedIndexesToUnitize.includes(unitIndex)
+            ? { ...unit, unitizationReviewed: true }
+            : unit
+        )))
         return
       }
 
@@ -949,7 +1281,7 @@ export function AppShell({
 
       const replaceUnits = (currentUnits: AttestationUnit[]) =>
         currentUnits.flatMap((unit, unitIndex) =>
-          replacements.get(unitIndex)?.map((text) => createAttestationUnit(text)) ?? [unit],
+          replacements.get(unitIndex)?.map((text) => createAttestationUnit(text, { unitizationReviewed: true })) ?? [unit],
         )
 
       setUnits(replaceUnits)
@@ -1956,6 +2288,20 @@ export function AppShell({
           onSelectAll={handleSelectAll}
           onSelectSentence={handleSelectSentence}
           onSentenceChange={handleSentenceChange}
+          onApplyA2Correction={handleApplyA2Correction}
+          onApplyA3Correction={handleApplyA3Correction}
+          onApplyWorkflowCorrection={handleApplyWorkflowCorrection}
+          onRecordA2Analysis={handleRecordA2Analysis}
+          onRecordA3Analysis={handleRecordA3Analysis}
+          onRecordWorkflowAnalysis={handleRecordWorkflowAnalysis}
+          onKeepA2AsIs={handleKeepA2AsIs}
+          onKeepA3AsIs={handleKeepA3AsIs}
+          onKeepWorkflowAsIs={handleKeepWorkflowAsIs}
+          onAnalyzeSentence={handleAnalyzeUnit}
+          onApproveSentence={handleApproveUnit}
+          onGenerateTriplesSentence={handleGenerateTriplesForUnit}
+          onOpenReferencesForSentence={handleOpenUnitReferences}
+          onOpenRewriteForSentence={handleOpenUnitRewrite}
           onToggleLockSentence={handleToggleLockSentence}
           referenceQuery={referenceQuery}
           referenceDocuments={referenceDocuments}
@@ -1969,6 +2315,7 @@ export function AppShell({
           generatingTripleUnitNumbers={generatingTripleUnitNumbers}
           unitizingIndexes={unitizingIndexes}
           unitAnalyses={unitAnalyses}
+          unitPrincipleAnalyses={unitPrincipleAnalyses}
           unitComplianceStatuses={unitComplianceStatuses}
           unitTriples={unitTriples}
           onUnitizeSentence={handleUnitizeSentence}
@@ -2237,11 +2584,19 @@ function extractPrincipleIssues(analysis: unknown): Array<{
   issue_identified?: string
   principle?: string
 }> {
-  const payload = analysis && typeof analysis === 'object' ? analysis as any : {}
-  const results = payload?.results ?? payload?.output?.results ?? payload
-  const assessments = Array.isArray(results?.principle_assessments) ? results.principle_assessments : []
-  return assessments.filter((item: any) =>
-    item && ['Partially Compliant', 'Non-Compliant'].includes(String(item.compliance || '')),
+  const payload = isRecord(analysis) ? analysis : {}
+  const output = isRecord(payload.output) ? payload.output : {}
+  const results = isRecord(payload.results)
+    ? payload.results
+    : isRecord(output.results) ? output.results : payload
+  const assessments = Array.isArray(results.principle_assessments) ? results.principle_assessments : []
+  return assessments.filter((item): item is {
+    compliance?: string
+    explanation?: string
+    issue_identified?: string
+    principle?: string
+  } =>
+    isRecord(item) && ['Partially Compliant', 'Non-Compliant'].includes(String(item.compliance || '')),
   )
 }
 

@@ -9,6 +9,22 @@ export type AttestationUnit = {
   templateSnapshot?: TemplateItem
   templateState?: TemplateEditorState
   text: string
+  revision: number
+  unitizationReviewed: boolean
+  approved: boolean
+  analysisMetadata?: {
+    communicativeFunction: string
+    modality: string
+    revision: number
+    templateId?: string
+  }
+  principleDecisions: Record<string, {
+    decision: 'accepted_as_is' | 'confirmed_as_is'
+    reason: string
+    revision: number
+    status: string
+    metadata?: Record<string, string>
+  }>
 }
 
 export function createAttestationUnit(text = '', options?: Partial<AttestationUnit>): AttestationUnit {
@@ -17,6 +33,10 @@ export function createAttestationUnit(text = '', options?: Partial<AttestationUn
     originalText: text,
     templateMode: 'free_text',
     text,
+    revision: 1,
+    unitizationReviewed: false,
+    approved: false,
+    principleDecisions: {},
     ...options,
   }
 }

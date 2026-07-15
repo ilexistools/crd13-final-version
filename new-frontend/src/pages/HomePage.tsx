@@ -29,7 +29,7 @@ const actions = [
     label: 'Upload PDF',
   },
   {
-    description: 'Open an empty editor and add units manually.',
+    description: 'Open an empty editor and add sentences manually.',
     icon: <AddCircleOutlineOutlinedIcon />,
     key: 'blank',
     label: 'Create new from scratch',

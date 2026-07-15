@@ -37,6 +37,8 @@ The output must follow this structure:
 ```json
 {
   "attestation": "string",
+  "modality": "Obligation | Prohibition | Permission | Limit/Target | uncertain",
+  "communicative_function": "string or uncertain",
   "overall_assessment": {
     "compliance": "Compliant | Partially Compliant | Non-Compliant",
     "summary": "string"
@@ -151,6 +153,8 @@ If a list has no explicitly identified items, return an empty list.
 ## 1. Read the attestation carefully
 
 Read the complete attestation before evaluating it.
+
+Determine the modality and communicative function when they are explicitly supported by the text. Use `uncertain` when the modality or function cannot be determined without inferring an unstated regulatory requirement. The modality is analytical metadata; do not rewrite the attestation by adding normative terms such as `shall`, `must`, or `may`.
 
 Identify, when explicitly present:
 

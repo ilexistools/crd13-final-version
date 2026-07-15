@@ -9,7 +9,10 @@ import { splitIntoSentences } from './lib/sentences'
 import {
   ComplianceReport,
   UnitComplianceAnalysis,
+  UnitPrincipleAnalysis,
   UnitTriples,
+  type PrincipleAssessment,
+  type PrincipleCode,
   analyzeCompliance,
   consolidateComplianceReport,
   extractPdfText,
@@ -32,6 +35,7 @@ function AppRoutes() {
   const [editorComplianceReport, setEditorComplianceReport] = useState<ComplianceReport | null>(null)
   const [editorUnitAnalyses, setEditorUnitAnalyses] = useState<UnitComplianceAnalysis[]>([])
   const [editorUnitTriples, setEditorUnitTriples] = useState<UnitTriples[]>([])
+  const [editorPrincipleAnalyses, setEditorPrincipleAnalyses] = useState<UnitPrincipleAnalysis[]>([])
   const [analyzingUnitNumbers, setAnalyzingUnitNumbers] = useState<number[]>([])
   const [generatingTripleUnitNumbers, setGeneratingTripleUnitNumbers] = useState<number[]>([])
   const [analysisProgress, setAnalysisProgress] = useState<ToolProgress | null>(null)
@@ -50,6 +54,7 @@ function AppRoutes() {
     setEditorComplianceReport(report)
     setEditorUnitAnalyses([])
     setEditorUnitTriples([])
+    setEditorPrincipleAnalyses([])
     setAnalyzingUnitNumbers([])
     setGeneratingTripleUnitNumbers([])
     setAnalysisProgress(null)
@@ -188,6 +193,20 @@ function AppRoutes() {
     }
   }
 
+  const handleStoreValidatedPrinciples = (
+    text: string,
+    unit: number,
+    assessments: Partial<Record<PrincipleCode, PrincipleAssessment>>,
+  ) => {
+    const validated = (Object.entries(assessments) as Array<[PrincipleCode, PrincipleAssessment]>)
+      .map(([principle, assessment]) => ({ assessment, principle, text, unit }))
+    const replacedPrinciples = new Set(validated.map((item) => item.principle))
+    setEditorPrincipleAnalyses((current) => [
+      ...current.filter((item) => item.unit !== unit || !replacedPrinciples.has(item.principle)),
+      ...validated,
+    ])
+  }
+
   const handleGenerateTriplesForUnits = async (unitsToGenerate: Array<{ text: string; unit: number }>) => {
     const validUnits = unitsToGenerate.filter(({ text }) => text.trim())
 
@@ -227,10 +246,18 @@ function AppRoutes() {
     }
   }
 
-  const handleUnitsStructureChange = () => {
-    setEditorComplianceReport(null)
-    setEditorUnitAnalyses([])
+  const handleUnitsStructureChange = (changedUnit?: number) => {
+    if (changedUnit !== undefined) {
+      setEditorUnitAnalyses((currentAnalyses) => currentAnalyses.filter((analysis) => analysis.unit !== changedUnit))
+      setEditorUnitTriples((currentTriples) => currentTriples.filter((unitTriples) => unitTriples.unit !== changedUnit))
+      setEditorPrincipleAnalyses((current) => current.filter((item) => item.unit !== changedUnit))
+      setEditorComplianceReport(null)
+    } else {
+      setEditorComplianceReport(null)
+      setEditorUnitAnalyses([])
     setEditorUnitTriples([])
+    setEditorPrincipleAnalyses([])
+    }
     setAnalyzingUnitNumbers([])
     setGeneratingTripleUnitNumbers([])
     setAnalysisProgress(null)
@@ -295,10 +322,12 @@ function AppRoutes() {
             onAnalyzeUnits={handleAnalyzeUnits}
             onCommoditiesChange={setEditorCommodities}
             onGenerateTriplesForUnits={handleGenerateTriplesForUnits}
+            onStoreValidatedPrinciples={handleStoreValidatedPrinciples}
             onUnitsStructureChange={handleUnitsStructureChange}
             triplesProgress={triplesProgress}
             unitAnalyses={editorUnitAnalyses}
             unitTriples={editorUnitTriples}
+            unitPrincipleAnalyses={editorPrincipleAnalyses}
           />
         }
         path="/editor"
